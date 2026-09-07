@@ -1,0 +1,10 @@
+﻿endpoint,관할,UN과_공통판정행,이진불일치
+eye,EU_CLP,1153,327
+eye,K_REACH,1153,0
+eye,US_OSHA,1153,0
+skin,EU_CLP,1059,15
+skin,K_REACH,1059,15
+skin,US_OSHA,1059,15
+sens,EU_CLP,716,0
+sens,K_REACH,716,0
+sens,US_OSHA,716,0

@@ -1,0 +1,13 @@
+[   14.1s] L1/L2/마스크 재현 확인 — eye 1044(마스크 적용), skin 615/1059, sens 716
+[   14.2s] 팀원A 통합열 확인 — 조사 CAS 331 / 매칭 1550행 / 파싱성공 1355행 (차 195행 = 정보없음 CAS 60종)
+[   19.0s] CT A0 == 디스크 / 커버리지 == 검증값 — 전처리 드리프트 없음
+[   19.0s] 계산 단위: eye:UN_GHS+K_REACH+US_OSHA; eye:EU_CLP; skin:UN_GHS; skin:EU_CLP+K_REACH+US_OSHA; sens:UN_GHS+EU_CLP+K_REACH+US_OSHA
+[   28.3s]   eye  UN_GHS+K_REACH+US_OSHA     [nan0  ] CT_A0   n= 1044 p=0.683 AUC=0.6745 F1=0.7992 PR-AUC=0.8003 MCC=0.235 재현율=0.875 정밀도=0.736
+[   41.4s]   eye  UN_GHS+K_REACH+US_OSHA     [nan0  ] CT_권고   n= 1044 p=0.683 AUC=0.6858 F1=0.7977 PR-AUC=0.8123 MCC=0.237 재현율=0.869 정밀도=0.738
+[  179.6s]   eye  UN_GHS+K_REACH+US_OSHA     [native] CT_A0   n= 1044 p=0.683 AUC=0.6678 F1=0.7973 PR-AUC=0.7979 MCC=0.225 재현율=0.874 정밀도=0.733
+[  293.4s]   eye  UN_GHS+K_REACH+US_OSHA     [native] CT_권고   n= 1044 p=0.683 AUC=0.6744 F1=0.8012 PR-AUC=0.8051 MCC=0.243 재현율=0.877 정밀도=0.737
+[  340.0s]   eye  EU_CLP                     [nan0  ] CT_A0   n= 1044 p=0.370 AUC=0.7423 F1=0.6001 PR-AUC=0.6523 MCC=0.400 재현율=0.552 정밀도=0.657
+[  396.2s]   eye  EU_CLP                     [nan0  ] CT_권고   n= 1044 p=0.370 AUC=0.7577 F1=0.6096 PR-AUC=0.6745 MCC=0.417 재현율=0.557 정밀도=0.672
+[  410.7s]   eye  EU_CLP                     [native] CT_A0   n= 1044 p=0.370 AUC=0.7505 F1=0.5978 PR-AUC=0.6647 MCC=0.399 재현율=0.547 정밀도=0.659
+[  421.8s]   eye  EU_CLP                     [native] CT_권고   n= 1044 p=0.370 AUC=0.7656 F1=0.6188 PR-AUC=0.6822 MCC=0.431 재현율=0.565 정밀도=0.684
+[  451.8s]   skin UN_GHS                     [nan0  ] CT_A0   n=  615 p=0.603 AUC=0.6882 F1=0.7433 PR-AUC=0.7567 MCC=0.298 재현율=0.786 정밀도=0.705

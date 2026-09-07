@@ -1,0 +1,13 @@
+﻿Formulation_ID,y_eye,y_eye_src,ct_eye_ord,y_skin,y_skin_src,ct_skin_ord,y_sens,y_sens_src,ct_sens_ord,ph_best,ph_basis,ph_strong_acid,ph_strong_base
+EyeIrritation6pack_PID57,NC,ntp_measured,3.0,1,sds_v1,4.0,,,0.0,2.0,other_condition,1.0,0.0
+EyeIrritation6pack_PID772,1,ntp_measured,,,,,,,,10.0,neat,0.0,1.0
+EyeIrritation6pack_PID806,2B,ntp_measured,0.0,,,0.0,,,0.0,13.0,unspecified,0.0,1.0
+MIX146,,,0.0,NC,ntp_measured,0.0,,,0.0,1.5,diluted,1.0,0.0
+MIX305,,,3.0,,,2.0,,,1.0,10.5,unspecified,0.0,1.0
+MIX360,,,,2A,ntp_measured,,,,,10.0,neat,0.0,1.0
+MIX560,,,0.0,NC,ntp_measured,0.0,,,0.0,13.0,unspecified,0.0,1.0
+MIX793,1,sds_v1,,1,sds_v1,,,,,12.1,unspecified,0.0,1.0
+MIX802,1,sds_v1,3.0,1,sds_v1,2.0,NC,sds_v1_negative_recovered,0.0,0.5,unspecified,1.0,0.0
+MIX807,1,sds_2nd,,1,sds_2nd,,,,,12.0,other_condition,0.0,1.0
+MIX840,,,0.0,NC,ntp_measured,0.0,,,0.0,11.0,unspecified,0.0,1.0
+MIX998,NC,sds_2nd,,NC,sds_2nd,,NC,sds_2nd,,2.0,unspecified,1.0,0.0

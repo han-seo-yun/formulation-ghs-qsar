@@ -1,0 +1,22 @@
+[   15.8s] 오염 규모: {"eye": {"NC_CAS": 161, "NC_중_AnnexVI기록_있음": 107, "NC_중_AnnexVI기록_없음": 54, "tier_불일치_CAS": 136}, "skin": {"NC_CAS": 190, "NC_중_AnnexVI기록_있음": 129, "NC_중_AnnexVI기록_없음": 61, "tier_불일치_CAS": 129}, "sens": {"NC_CAS": 201, "NC_중_AnnexVI기록_있음": 120, "NC_중_AnnexVI기록_없음": 81, "tier_불일치_CAS": 143}}
+[   15.8s] L1/L2/마스크 재현 확인
+[   16.0s] 커버리지 격자 산출 (arm 4종 × endpoint 3종)
+[   27.0s] 
+                   arm    eye   skin   sens
+               A0_base 0.2403 0.2409 0.2412
+     A2_aug_nc_unknown 0.3301 0.2963 0.3232
+        A3_aug_annexvi 0.4675 0.4862 0.4964
+A3s_aug_annexvi_strict 0.4480 0.4486 0.4492
+[   27.1s] A0 == 디스크 — 전처리 드리프트 없음
+[   32.6s] 권고 감작 커버리지 0.4964 → 교정 0.4492
+[   51.9s]   eye  UN_GHS+K_REACH+US_OSHA     [nan0  ] 0.6858 → 0.6857 (Δ -0.0001, t=-0.08, 시드양수 2/5)
+[   75.4s]   eye  UN_GHS+K_REACH+US_OSHA     [native] 0.6744 → 0.6755 (Δ +0.0010, t=+0.77, 시드양수 4/5)
+[   97.2s]   eye  EU_CLP                     [nan0  ] 0.7577 → 0.7578 (Δ +0.0000, t=+0.04, 시드양수 3/5)
+[  117.0s]   eye  EU_CLP                     [native] 0.7656 → 0.7637 (Δ -0.0020, t=-2.50, 시드양수 0/5)
+[  131.8s]   skin UN_GHS                     [nan0  ] 0.7334 → 0.7325 (Δ -0.0008, t=-1.11, 시드양수 1/5)
+[  147.3s]   skin UN_GHS                     [native] 0.7350 → 0.7358 (Δ +0.0008, t=+0.71, 시드양수 2/5)
+[  166.1s]   skin EU_CLP+K_REACH+US_OSHA     [nan0  ] 0.7697 → 0.7716 (Δ +0.0019, t=+1.29, 시드양수 4/5)
+[  188.3s]   skin EU_CLP+K_REACH+US_OSHA     [native] 0.7754 → 0.7747 (Δ -0.0007, t=-0.51, 시드양수 2/5)
+[  206.2s]   sens UN_GHS+EU_CLP+K_REACH+US_OSHA [nan0  ] 0.7333 → 0.7262 (Δ -0.0071, t=-4.99, 시드양수 0/5)
+[  222.9s]   sens UN_GHS+EU_CLP+K_REACH+US_OSHA [native] 0.7558 → 0.7425 (Δ -0.0133, t=-5.87, 시드양수 0/5)
+[  223.0s] 완료 → /Users/팀원B/Desktop/260830/04_모델산출물/v6_jurisdiction/C1_출처등급교정_영향.csv

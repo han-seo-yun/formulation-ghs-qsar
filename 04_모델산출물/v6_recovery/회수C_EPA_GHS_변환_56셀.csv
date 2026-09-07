@@ -1,0 +1,57 @@
+﻿Formulation_ID,ep,원문,EPA범주,판정근거,GHS_UN,GHS_EU_CLP,신뢰등급,기존y,기존src_detail,기존대비_UN,기존대비_EU,충돌성격
+EyeIrritation6pack_PID1024,eye,"Mildly irritating (rabbit), EPA Tox Category III",III,문서 내 범주 표기가 단일 — 그 값을 사용,2B,NC,definitional,1.0,ntp_measured,이진일치,이진충돌,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+EyeIrritation6pack_PID1024,skin,"Slightly irritating (rabbit), EPA Tox Category IV",IV,문서 내 범주 표기가 단일 — 그 값을 사용,3,NC,judgment,0.0,sds_v1_negative_recovered,이진충돌,이진일치,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+EyeIrritation6pack_PID1025,eye,Moderately irritating (rabbit) - EPA Tox Category III,III,자극성 절의 명시 범주: 'Moderately irritating (rabbit) - EPA Tox Category III',2B,NC,definitional,1.0,ntp_measured,이진일치,이진충돌,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+EyeIrritation6pack_PID1025,skin,Brief and/or minor irritation (rabbit) - EPA Tox Category IV,IV,자극성 절의 명시 범주: 'Brief and/or minor irritation (rabbit) - EPA Tox Category IV',3,NC,judgment,,,비교불가,비교불가,비교불가
+EyeIrritation6pack_PID1027,eye,Moderately irritating (rabbit) - EPA Tox Category III (cat_eye_ghs 2B 힌트와 대략 부합),III,자극성 절의 명시 범주: 'Moderately irritating (rabbit) - EPA Tox Category III (cat_e',2B,NC,definitional,1.0,ntp_measured,이진일치,이진충돌,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+EyeIrritation6pack_PID1027,skin,Moderately irritating (rabbit) - EPA Tox Category III,III,자극성 절의 명시 범주: 'Moderately irritating (rabbit) - EPA Tox Category III',2,2,judgment,1.0,sds_v1,이진일치,이진일치,일치
+EyeIrritation6pack_PID1033,eye,Brief and/or minor irritation - EPA Tox Category III,III,자극성 절의 명시 범주: 'Brief and/or minor irritation - EPA Tox Category III',2B,NC,definitional,1.0,ntp_measured,이진일치,이진충돌,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+EyeIrritation6pack_PID1033,skin,Brief and/or minor irritation - EPA Tox Category IV,IV,자극성 절의 명시 범주: 'Brief and/or minor irritation - EPA Tox Category IV',3,NC,judgment,,,비교불가,비교불가,비교불가
+EyeIrritation6pack_PID1037,eye,EPA Toxicity Category II (Primary Eye Irritation),II,자극성 절의 명시 범주: 'EPA Toxicity Category II (Primary Eye Irritation)',2A,2,definitional,1.0,ntp_measured,이진일치,이진일치,일치
+EyeIrritation6pack_PID1037,skin,EPA Toxicity Category IV (Primary Skin Irritation),IV,자극성 절의 명시 범주: 'EPA Toxicity Category IV (Primary Skin Irritation)',3,NC,judgment,,,비교불가,비교불가,비교불가
+EyeIrritation6pack_PID117,eye,Moderate eye irritation (EPA 라벨),III,EPA 라벨 표준문구(40 CFR 156.64) 대응: 'moderate eye irritation',2B,NC,definitional,1.0,ntp_measured,이진일치,이진충돌,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+EyeIrritation6pack_PID120,eye,Moderate eye irritation (EPA 라벨),III,EPA 라벨 표준문구(40 CFR 156.64) 대응: 'moderate eye irritation',2B,NC,definitional,1.0,ntp_measured,이진일치,이진충돌,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+EyeIrritation6pack_PID121,eye,Substantial but temporary eye injury (EPA 라벨),II,EPA 라벨 표준문구(40 CFR 156.64) 대응: 'substantial but temporary eye in',2A,2,definitional,1.0,ntp_measured,이진일치,이진일치,일치
+EyeIrritation6pack_PID137,skin,EPA Category IV (Primary Dermal),IV,자극성 절의 명시 범주: 'EPA Category IV (Primary Dermal)',3,NC,judgment,,,비교불가,비교불가,비교불가
+EyeIrritation6pack_PID231,skin,"경미한 피부 자극 (EPA Toxicity Category IV, 피부부식성 없음)",IV,"자극성 절의 명시 범주: '경미한 피부 자극 (EPA Toxicity Category IV, 피부부식성 없음)'",3,NC,judgment,,,비교불가,비교불가,비교불가
+EyeIrritation6pack_PID481,eye,눈 자극 유발 (EPA Toxicity Category III 수준),III,자극성 절의 명시 범주: '눈 자극 유발 (EPA Toxicity Category III 수준)',2B,NC,definitional,1.0,ntp_measured,이진일치,이진충돌,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+EyeIrritation6pack_PID70,eye,Slightly irritating (rabbit); EPA Toxicity Category IV,IV,문서 내 범주 표기가 단일 — 그 값을 사용,NC,NC,definitional,0.0,ntp_measured,이진일치,이진일치,일치
+EyeIrritation6pack_PID70,skin,Slightly irritating (rabbit); EPA Toxicity Category IV,IV,문서 내 범주 표기가 단일 — 그 값을 사용,3,NC,judgment,,,비교불가,비교불가,비교불가
+EyeIrritation6pack_PID727,eye,Moderate eye irritation (EPA 라벨),III,EPA 라벨 표준문구(40 CFR 156.64) 대응: 'moderate eye irritation',2B,NC,definitional,1.0,ntp_measured,이진일치,이진충돌,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+EyeIrritation6pack_PID727,skin,Harmful if absorbed through skin (EPA 라벨),확인 불가,급성 경피/경구 독성 문구만 존재 — 자극성 범주 아님(변환 거부),확인 불가,확인 불가,변환불가,,,비교불가,비교불가,비교불가
+EyeIrritation6pack_PID81,eye,"Minimally irritant (Rabbit), EPA Toxicity Category IV",IV,문서 내 범주 표기가 단일 — 그 값을 사용,NC,NC,definitional,1.0,ntp_measured,이진충돌,이진충돌,출처간_진짜모순(재검 필수)
+EyeIrritation6pack_PID81,skin,"Slightly irritating (Rabbit), EPA Toxicity Category IV",IV,문서 내 범주 표기가 단일 — 그 값을 사용,3,NC,judgment,,,비교불가,비교불가,비교불가
+EyeIrritation6pack_PID813,eye,"Brief/minor eye irritation, EPA Toxicity Category III",III,"자극성 절의 명시 범주: 'Brief/minor eye irritation, EPA Toxicity Category III'",2B,NC,definitional,1.0,ntp_measured,이진일치,이진충돌,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+EyeIrritation6pack_PID813,skin,"Brief/minor skin irritation, EPA Toxicity Category IV; slightly toxic when absorbed through skin (Category III)",IV,"자극성 절의 명시 범주: 'Brief/minor skin irritation, EPA Toxicity Category IV'",3,NC,judgment,,,비교불가,비교불가,비교불가
+EyeIrritation6pack_PID965,eye,Brief and/or minor irritation (rabbits) - EPA Tox Category III,III,자극성 절의 명시 범주: 'Brief and/or minor irritation (rabbits) - EPA Tox Category I',2B,NC,definitional,1.0,ntp_measured,이진일치,이진충돌,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+EyeIrritation6pack_PID965,skin,Brief and/or minor irritation (rabbits) - EPA Tox Category IV,IV,자극성 절의 명시 범주: 'Brief and/or minor irritation (rabbits) - EPA Tox Category I',3,NC,judgment,,,비교불가,비교불가,비교불가
+EyeIrritation6pack_PID998,eye,Moderately irritating (rabbit) - EPA Tox Category III,III,자극성 절의 명시 범주: 'Moderately irritating (rabbit) - EPA Tox Category III',2B,NC,definitional,1.0,ntp_measured,이진일치,이진충돌,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+MIX233,eye,눈 자극 유발 (EPA Toxicity Category III 수준),III,자극성 절의 명시 범주: '눈 자극 유발 (EPA Toxicity Category III 수준)',2B,NC,definitional,,,비교불가,비교불가,비교불가
+MIX34,eye,Slightly irritating (rabbit); EPA Toxicity Category IV,IV,문서 내 범주 표기가 단일 — 그 값을 사용,NC,NC,definitional,,,비교불가,비교불가,비교불가
+MIX34,skin,Slightly irritating (rabbit); EPA Toxicity Category IV,IV,문서 내 범주 표기가 단일 — 그 값을 사용,3,NC,judgment,0.0,ntp_measured,이진충돌,이진일치,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+MIX392,eye,Moderate eye irritation (EPA 라벨),III,EPA 라벨 표준문구(40 CFR 156.64) 대응: 'moderate eye irritation',2B,NC,definitional,,,비교불가,비교불가,비교불가
+MIX392,skin,Harmful if absorbed through skin (EPA 라벨),확인 불가,급성 경피/경구 독성 문구만 존재 — 자극성 범주 아님(변환 거부),확인 불가,확인 불가,변환불가,0.0,ntp_measured,비교불가,비교불가,비교불가
+MIX478,eye,Brief and/or minor irritation (rabbits) - EPA Tox Category III,III,자극성 절의 명시 범주: 'Brief and/or minor irritation (rabbits) - EPA Tox Category I',2B,NC,definitional,,,비교불가,비교불가,비교불가
+MIX478,skin,Brief and/or minor irritation (rabbits) - EPA Tox Category IV,IV,자극성 절의 명시 범주: 'Brief and/or minor irritation (rabbits) - EPA Tox Category I',3,NC,judgment,0.0,ntp_measured,이진충돌,이진일치,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+MIX49,eye,"Minimally irritant (Rabbit), EPA Toxicity Category IV",IV,문서 내 범주 표기가 단일 — 그 값을 사용,NC,NC,definitional,,,비교불가,비교불가,비교불가
+MIX49,skin,"Slightly irritating (Rabbit), EPA Toxicity Category IV",IV,문서 내 범주 표기가 단일 — 그 값을 사용,3,NC,judgment,0.0,ntp_measured,이진충돌,이진일치,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+MIX504,eye,Moderately irritating (rabbit) - EPA Tox Category III,III,자극성 절의 명시 범주: 'Moderately irritating (rabbit) - EPA Tox Category III',2B,NC,definitional,,,비교불가,비교불가,비교불가
+MIX504,skin,Brief and/or minor irritation (rabbit) - EPA Tox Category IV,IV,자극성 절의 명시 범주: 'Brief and/or minor irritation (rabbit) - EPA Tox Category IV',3,NC,judgment,1.0,ntp_measured,이진일치,이진충돌,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+MIX508,eye,Moderately irritating (rabbit) - EPA Tox Category III (cat_eye_ghs 2B 힌트와 대략 부합),III,자극성 절의 명시 범주: 'Moderately irritating (rabbit) - EPA Tox Category III (cat_e',2B,NC,definitional,1.0,sds_v1,이진일치,이진충돌,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+MIX508,skin,Moderately irritating (rabbit) - EPA Tox Category III,III,자극성 절의 명시 범주: 'Moderately irritating (rabbit) - EPA Tox Category III',2,2,judgment,1.0,ntp_measured,이진일치,이진일치,일치
+MIX519,eye,Brief and/or minor irritation - EPA Tox Category III,III,자극성 절의 명시 범주: 'Brief and/or minor irritation - EPA Tox Category III',2B,NC,definitional,,,비교불가,비교불가,비교불가
+MIX519,skin,Brief and/or minor irritation - EPA Tox Category IV,IV,자극성 절의 명시 범주: 'Brief and/or minor irritation - EPA Tox Category IV',3,NC,judgment,0.0,ntp_measured,이진충돌,이진일치,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+MIX524,eye,EPA Toxicity Category II (Primary Eye Irritation),II,자극성 절의 명시 범주: 'EPA Toxicity Category II (Primary Eye Irritation)',2A,2,definitional,,,비교불가,비교불가,비교불가
+MIX524,skin,EPA Toxicity Category IV (Primary Skin Irritation),IV,자극성 절의 명시 범주: 'EPA Toxicity Category IV (Primary Skin Irritation)',3,NC,judgment,0.0,ntp_measured,이진충돌,이진일치,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+MIX545,eye,"Mildly irritating (rabbit), EPA Tox Category III",III,문서 내 범주 표기가 단일 — 그 값을 사용,2B,NC,definitional,0.0,sds_v1_negative_recovered,이진충돌,이진일치,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+MIX545,skin,"Slightly irritating (rabbit), EPA Tox Category IV",IV,문서 내 범주 표기가 단일 — 그 값을 사용,3,NC,judgment,0.0,ntp_measured,이진충돌,이진일치,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+MIX57,eye,Moderate eye irritation (EPA 라벨),III,EPA 라벨 표준문구(40 CFR 156.64) 대응: 'moderate eye irritation',2B,NC,definitional,,,비교불가,비교불가,비교불가
+MIX574,eye,Slightly irritating (rabbits) (EPA Tox Category IV),IV,자극성 절의 명시 범주: 'Slightly irritating (rabbits) (EPA Tox Category IV)',NC,NC,definitional,,,비교불가,비교불가,비교불가
+MIX574,skin,Slightly irritating (rabbits) (EPA Tox Category IV),IV,자극성 절의 명시 범주: 'Slightly irritating (rabbits) (EPA Tox Category IV)',3,NC,judgment,,,비교불가,비교불가,비교불가
+MIX61,eye,Substantial but temporary eye injury (EPA 라벨),II,EPA 라벨 표준문구(40 CFR 156.64) 대응: 'substantial but temporary eye in',2A,2,definitional,,,비교불가,비교불가,비교불가
+MIX665,eye,Moderate eye irritation (EPA 라벨),III,EPA 라벨 표준문구(40 CFR 156.64) 대응: 'moderate eye irritation',2B,NC,definitional,,,비교불가,비교불가,비교불가
+MIX677,skin,"경미한 피부 자극 (EPA Toxicity Category IV, 피부부식성 없음)",IV,"자극성 절의 명시 범주: '경미한 피부 자극 (EPA Toxicity Category IV, 피부부식성 없음)'",3,NC,judgment,,,비교불가,비교불가,비교불가
+MIX704,eye,"Brief/minor eye irritation, EPA Toxicity Category III",III,"자극성 절의 명시 범주: 'Brief/minor eye irritation, EPA Toxicity Category III'",2B,NC,definitional,0.0,sds_v1_negative_recovered,이진충돌,이진일치,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+MIX704,skin,"Brief/minor skin irritation, EPA Toxicity Category IV; slightly toxic when absorbed through skin (Category III)",IV,"자극성 절의 명시 범주: 'Brief/minor skin irritation, EPA Toxicity Category IV'",3,NC,judgment,0.0,sds_v1_negative_recovered,이진충돌,이진일치,관할경계_인공물(2B/Cat3 채택 여부로 갈림)
+MIX718,eye,Moderately irritating (rabbit) - EPA Tox Category III,III,자극성 절의 명시 범주: 'Moderately irritating (rabbit) - EPA Tox Category III',2B,NC,definitional,,,비교불가,비교불가,비교불가
+MIX85,skin,EPA Category IV (Primary Dermal),IV,자극성 절의 명시 범주: 'EPA Category IV (Primary Dermal)',3,NC,judgment,0.0,ntp_measured,이진충돌,이진일치,관할경계_인공물(2B/Cat3 채택 여부로 갈림)

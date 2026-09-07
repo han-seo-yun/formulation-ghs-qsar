@@ -1,0 +1,26 @@
+[    6.7s] 통합본 로드 — 조사 CAS 331
+[    6.7s] 감작 n=716 유병률=0.5321
+[    7.6s] A0 == 디스크 — 전처리 드리프트 없음
+[    8.4s]   A0_base: 감작 커버리지 0.2412
+[    9.2s]   A2_aug_nc_unknown: 감작 커버리지 0.3232
+[    9.9s]   A3_aug_annexvi: 감작 커버리지 0.4964
+[   10.7s]   A3s_aug_annexvi_strict: 감작 커버리지 0.4492
+[   16.2s]   nan0   A0_base                  AUC=0.6969 MCC=0.298
+[   21.7s]   nan0   A2_aug_nc_unknown        AUC=0.7317 MCC=0.343
+[   27.1s]   nan0   A3_aug_annexvi           AUC=0.7333 MCC=0.359
+[   32.5s]   nan0   A3s_aug_annexvi_strict   AUC=0.7262 MCC=0.337
+[   38.0s]   native A0_base                  AUC=0.7067 MCC=0.329
+[   43.4s]   native A2_aug_nc_unknown        AUC=0.7339 MCC=0.350
+[   48.9s]   native A3_aug_annexvi           AUC=0.7558 MCC=0.395
+[   54.6s]   native A3s_aug_annexvi_strict   AUC=0.7425 MCC=0.369
+[   54.6s]   nan0   A2_aug_nc_unknown − A0_base: Δ=+0.0348 t=+7.94 (5/5)
+[   54.6s]   nan0   A3_aug_annexvi − A0_base: Δ=+0.0364 t=+8.74 (5/5)
+[   54.6s]   nan0   A3_aug_annexvi − A2_aug_nc_unknown: Δ=+0.0016 t=+1.04 (2/5)
+[   54.6s]   nan0   A3s_aug_annexvi_strict − A2_aug_nc_unknown: Δ=-0.0055 t=-5.26 (0/5)
+[   54.6s]   nan0   A3s_aug_annexvi_strict − A3_aug_annexvi: Δ=-0.0071 t=-4.99 (0/5)
+[   54.6s]   native A2_aug_nc_unknown − A0_base: Δ=+0.0272 t=+6.91 (5/5)
+[   54.6s]   native A3_aug_annexvi − A0_base: Δ=+0.0491 t=+20.63 (5/5)
+[   54.6s]   native A3_aug_annexvi − A2_aug_nc_unknown: Δ=+0.0219 t=+7.56 (5/5)
+[   54.6s]   native A3s_aug_annexvi_strict − A2_aug_nc_unknown: Δ=+0.0086 t=+3.72 (5/5)
+[   54.6s]   native A3s_aug_annexvi_strict − A3_aug_annexvi: Δ=-0.0133 t=-5.87 (0/5)
+[   54.6s] 완료 → /Users/팀원B/Desktop/260830/04_모델산출물/v6_jurisdiction/감작_CTarm_격자.csv

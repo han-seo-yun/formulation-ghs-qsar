@@ -1,0 +1,50 @@
+[    0.0s] 데이터 로드
+[    0.2s] X=(1675, 524)  Y=(1675, 53)  group_key nunique=587
+[    0.2s] S1_chemistry=221열, CT=26열
+[   11.2s] formulation=(1675, 599)  ingredient=(5287, 162)
+[   11.2s] 실측 EPA피부→GHS 매핑: {1.0: ['1'], 2.0: ['2A'], 3.0: ['2B'], 4.0: ['Not classified']}
+[   11.2s] skin GHS 위반 행: 82 (2A=11, 2B=71)
+[   11.2s] y_skin 분포: {'NC': 688, '': 616, '2': 214, '2B': 71, '1': 55, '3': 15, '2A': 11, '1B': 5}
+[   11.8s] 팀원A 조사 CAS=331
+[   11.9s] 파싱 실패(정보없음 제외)=0건
+[   11.9s] 팀원A 파싱 결과 분포: {'eye': {'NC': 161, '2': 62, nan: 60, '1': 48}, 'skin': {'NC': 190, nan: 60, '2': 52, '1': 29}, 'sens': {'NC': 201, '1': 70, nan: 60}}
+[   11.9s] A4 순열 대조군 구성: 331 CAS, 고정 시드 12345
+[   11.9s] 원-핫 레벨: {'eye': {'2A', '__NA__', '1', 'NC'}, 'sens': {'__NA__', '1', 'NC'}, 'skin': {'__NA__', '1', '2', 'NC'}}
+[   11.9s] ============================================================
+[   11.9s] 과제 1 — skin 2A/2B 매핑 정정
+[   11.9s] 무결성: V0_current == 디스크 y_skin_bin (일치율 1.0000)
+[   12.2s] 고정 폴드 산출: n=1059, 양성=371
+[   21.5s]   V0_current         n=1059 p=0.350 AUC=0.7556±0.0050 MCC=0.3698 F1=0.5703(dummy 0.5189) BA=0.6770  [V0 폴드 고정]
+[   21.5s] V1: y_bin 이 V0 과 원소 단위 동일함을 확인(정답 매핑은 이진 라벨 불변)
+[   30.7s]   V1_correct_map     n=1059 p=0.350 AUC=0.7556±0.0050 MCC=0.3698 F1=0.5703(dummy 0.5189) BA=0.6770  [V0 폴드 고정]
+[   40.0s]   V2_eu_epa3_neg     n=1059 p=0.283 AUC=0.7743±0.0066 MCC=0.4272 F1=0.5797(dummy 0.4415) BA=0.7064  [V0 폴드 고정]
+[   50.2s]   V3_drop82          n= 977 p=0.296 AUC=0.7853±0.0049 MCC=0.4743 F1=0.6217(dummy 0.4566) BA=0.7305  [폴드 재산출(행 감소) — V0 과 직접 비교 불가]
+[   50.2s] ============================================================
+[   50.2s] 과제 2 — 팀원A GHS 를 CT 가산 입력에 증강
+[   51.7s]   A0_base              coverage={'eye': 0.24, 'skin': 0.241, 'sens': 0.241} n_known합={'eye': 1223, 'skin': 1224, 'sens': 1229} 원-핫밖범주={'eye': [], 'skin': [], 'sens': []}
+[   53.1s]   A1_aug_all           coverage={'eye': 0.511, 'skin': 0.512, 'sens': 0.512} n_known합={'eye': 2578, 'skin': 2579, 'sens': 2584} 원-핫밖범주={'eye': [], 'skin': [], 'sens': []}
+[   54.6s]   A2_aug_nc_unknown    coverage={'eye': 0.33, 'skin': 0.296, 'sens': 0.323} n_known합={'eye': 1686, 'skin': 1510, 'sens': 1614} 원-핫밖범주={'eye': [], 'skin': [], 'sens': []}
+[   56.0s]   A3_aug_annexvi       coverage={'eye': 0.468, 'skin': 0.486, 'sens': 0.496} n_known합={'eye': 2367, 'skin': 2472, 'sens': 2516} 원-핫밖범주={'eye': [], 'skin': [], 'sens': []}
+[   57.5s]   A4_shuffled_control  coverage={'eye': 0.483, 'skin': 0.484, 'sens': 0.484} n_known합={'eye': 2471, 'skin': 2472, 'sens': 2477} 원-핫밖범주={'eye': [], 'skin': [], 'sens': []}
+[   57.5s] A0_base 재현 불일치 열: 없음(전 열 일치)
+[   57.8s]   eye: n=1153 양성=713 p=0.618
+[   58.2s]   skin: n=1059 양성=371 p=0.350
+[   58.4s]   sens: n=716 양성=381 p=0.532
+[   70.1s]   A0_base              eye   AUC=0.6387±0.0097 MCC=0.2015 F1=0.7397 BA=0.5898 cov=0.240
+[   84.2s]   A0_base              skin  AUC=0.7556±0.0050 MCC=0.3698 F1=0.5703 BA=0.6770 cov=0.241
+[   94.1s]   A0_base              sens  AUC=0.6969±0.0135 MCC=0.2982 F1=0.6700 BA=0.6491 cov=0.241
+[  107.3s]   A1_aug_all           eye   AUC=0.6643±0.0085 MCC=0.2133 F1=0.7391 BA=0.5968 cov=0.511
+[  118.4s]   A1_aug_all           skin  AUC=0.7718±0.0030 MCC=0.3886 F1=0.5838 BA=0.6863 cov=0.512
+[  129.8s]   A1_aug_all           sens  AUC=0.7382±0.0066 MCC=0.3578 F1=0.6970 BA=0.6791 cov=0.512
+[  141.1s]   A2_aug_nc_unknown    eye   AUC=0.6643±0.0110 MCC=0.2221 F1=0.7432 BA=0.6003 cov=0.330
+[  152.7s]   A2_aug_nc_unknown    skin  AUC=0.7715±0.0058 MCC=0.3871 F1=0.5825 BA=0.6855 cov=0.296
+[  164.5s]   A2_aug_nc_unknown    sens  AUC=0.7317±0.0063 MCC=0.3425 F1=0.6908 BA=0.6713 cov=0.323
+[  176.6s]   A3_aug_annexvi       eye   AUC=0.6597±0.0089 MCC=0.2109 F1=0.7391 BA=0.5954 cov=0.468
+[  187.1s]   A3_aug_annexvi       skin  AUC=0.7625±0.0063 MCC=0.3822 F1=0.5792 BA=0.6832 cov=0.486
+[  195.4s]   A3_aug_annexvi       sens  AUC=0.7372±0.0078 MCC=0.3501 F1=0.6913 BA=0.6752 cov=0.496
+[  205.7s]   A4_shuffled_control  eye   AUC=0.6486±0.0079 MCC=0.2094 F1=0.7384 BA=0.5949 cov=0.483
+[  215.2s]   A4_shuffled_control  skin  AUC=0.7575±0.0055 MCC=0.3781 F1=0.5754 BA=0.6808 cov=0.484
+[  223.5s]   A4_shuffled_control  sens  AUC=0.6969±0.0118 MCC=0.2964 F1=0.6717 BA=0.6481 cov=0.484
+[  223.5s] ============================================================
+[  223.5s] 산출: /Users/팀원B/Desktop/260830/04_모델산출물/v6_skinmap_ct/skinmap_ct_results.csv, ct_augment_deltas.csv, skinmap_ct_summary.json
+[  223.5s] 완료

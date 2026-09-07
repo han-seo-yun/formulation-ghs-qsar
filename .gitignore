@@ -1,0 +1,40 @@
+# ===== 대용량 원천 덤프 (로컬 전용) =====
+# SDS 하이라이트 감사 PDF 덤프 146MB. git 이력에 넣을 성질의 자료가 아니다.
+formulation_audit_team_share_highlighted_only_20260630/
+
+# 수집 하네스는 별도 저장소(han-seo-yun/formulation_harness)에 있다.
+02_의존데이터/
+
+# v6 이전 세대 입력 데이터셋. 재현은 01_파이프라인/build_input_v*.py 로 가능하다.
+03_입력데이터/
+04_모델산출물/input_dataset_v2.xlsx
+04_모델산출물/input_dataset_v3.xlsx
+04_모델산출물/input_dataset_v4.xlsx
+04_모델산출물/input_dataset_v5.xlsx
+04_모델산출물/v2/
+04_모델산출물/v3/
+04_모델산출물/v4/
+04_모델산출물/v4_active/
+04_모델산출물/v4_conformal/
+04_모델산출물/v4_fixed/
+04_모델산출물/v5_perf/
+04_모델산출물/v5_perf_grid/
+04_모델산출물/v5_team_qa/
+
+# 중간 검증 산출물 11MB
+01_파이프라인/verify/
+
+# ===== 도구 상태 =====
+# 세션 체크포인트·에이전트 로그는 로컬 상태다. 실행계획 문서만 추적한다.
+# (하위 디렉터리에도 .omc 가 흩어져 있어 깊이 무관 패턴을 쓴다)
+**/.omc/**
+!/.omc/plans/**
+
+# ===== 작업 잔여물 =====
+__pycache__/
+*.pyc
+.DS_Store
+# Word 임시 잠금 파일
+~$*
+# 날짜 백업본은 원본이 저장소에 있으므로 중복
+dataset_배정_260904_백업_260907.xlsx

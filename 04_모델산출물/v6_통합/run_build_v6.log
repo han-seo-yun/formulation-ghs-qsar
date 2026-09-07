@@ -1,0 +1,29 @@
+[   0.0s] v5 로드 (읽기 전용)
+[  15.0s]   시트: MetaData(27, 3), formulation(1675, 599), ingredient(5287, 162), desc_formulation(1675, 187), desc_ingredient(5287, 78), targets(1675, 53), provenance(4788, 6), feature_manifest(1109, 10)
+[  15.9s] PHASE0 팀원A: 성분 신규열 7개 추출, 키=['Formulation_ID', 'ing_idx'], 5287행
+[  16.2s] PHASE0 최소빈: 독성코드 신규열 8개 추출, 키=['Formulation_ID'], 1675행
+[  16.5s] PHASE0 팀원C: 특성 신규열 5개 추출, 키=['Formulation_ID'], 1675행
+[  16.7s] PHASE0 팀원D: 배정 274행, 기입 274행 (260907 재제출 → 100% 완료, 이전 0건에서 갱신)
+[  16.8s] 팀원A 파싱: 331 CAS, 파싱실패 0
+[  16.8s]   출처등급(메모 기반, 교정판): annex_vi 176 / echa_cl 95 / 판정불가 60
+[  16.8s]   기존 tier 와 불일치한 CAS(범주 있는 셀만): eye 76 / skin 69 / sens 83  ← critic C1. 기존 _tier 는 재현용으로 보존, _tier_src 로 병기
+[  16.8s] ingredient 통합: 원문 7열 + 파싱 6열, CY 매칭 성분행 1550
+[  16.8s] 팀원C pH: 확보 46행, 파싱성공 46, 원액기준 46, 기존 ph_best 와 충돌 0행
+[  16.8s] 팀원D pH: 배정 274행, 기입 274행, 파싱성공 72, 원액기준 49, 재검토필요 33, 기존 ph_best 와 충돌 1행
+[  16.9s] 팀원D pH → STAGED 유지(팀원C과 동일 게이트 미구현). ACTIVE 전환은 총책임자 결정 사안
+[  16.9s] 최소빈 S11: 판독 눈 40 / 피부 47 / 감작 136 → STAGED (라벨 미적용)
+[  16.9s] 불변 assert 검증
+[  16.9s]   통과: group_key 불변(nunique 587) / targets 스키마 불변 / 성분 식별열 불변
+[  16.9s] feature_manifest: 1109 → 1134행 (신규 25) — 전부 in_X=False
+[  16.9s] input_dataset_v6.xlsx 저장 (write_only 모드)
+[  16.9s]   MetaData: (28, 3)
+[  20.3s]   formulation: (1675, 608)
+[  23.9s]   ingredient: (5287, 178)
+[  25.1s]   desc_formulation: (1675, 187)
+[  26.6s]   desc_ingredient: (5287, 78)
+[  27.0s]   targets: (1675, 53)
+[  27.1s]   provenance: (4788, 6)
+[  27.2s]   feature_manifest: (1134, 10)
+[  27.3s]   staged_s11: (1675, 11)
+[  27.3s]   team_integration_manifest: (4, 8)
+[  29.2s] 완료 → /Users/팀원B/Desktop/260830/04_모델산출물/input_dataset_v6.xlsx

@@ -1,0 +1,9 @@
+﻿endpoint,EPA_category,UN_GHS,EU_CLP,신뢰등급
+eye,I,1,1,definitional
+eye,II,2A,2,definitional
+eye,III,2B,NC,definitional
+eye,IV,NC,NC,definitional
+skin,I,1,1,definitional
+skin,II,2,2,judgment
+skin,III,2,2,judgment
+skin,IV,3,NC,judgment
