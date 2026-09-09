@@ -1,75 +1,167 @@
-# 신작물보호제 — GHS 독성 분류 QSAR
+# Crop Protection Agents — GHS Toxicity Classification QSAR
 
-작물보호제의 GHS 독성 분류를 예측하는 QSAR 파이프라인. 이진 분류, 엔드포인트는 **눈 · 피부** 2종.
+A QSAR pipeline that predicts GHS toxicity classification for crop protection products.
+Binary classification; two endpoints: **eye irritation** and **skin irritation**.
 
-모델은 두 층으로 **분리**돼 있다 (v7, 2026-09-09).
+The model is **split into two layers** (v7, 2026-09-09).
 
-| 층 | 단위 | 라벨 | 피처 | 진입점 · 산출 |
+| Layer | Unit | Labels | Features | Entry point → output |
 |---|---|---|---|---|
-| **성분 모델** | 물질 1종 (InChIKey 골격 블록으로 접음, 661종 / 라벨 보유 398종) | 성분별 GHS (Phase 1 수집 + 팀원A 조사) | 구조에서 나온 것만 — RDKit 디스크립터·구조경보·MACCS·Morgan | `run_model_ingredient.py` → `04_모델산출물/v7_성분모델/` |
-| **제형 모델** | 제형 1건 (1,675) | 제형 GHS (L1 정본 → L2 관할 투영) | 성분 집계 6모멘트 + 역할별 농도합 + 계면활성제 상호작용 + 제형 물성 + CT 가산 | `run_model_formulation.py` → `04_모델산출물/v7_제형모델/` |
+| **Substance model** | one substance (folded on the InChIKey skeleton block; 661 substances, 398 labelled) | per-ingredient GHS categories (Phase 1 collection + independent survey) | structure-derived only — RDKit descriptors, structural alerts, MACCS, Morgan | `run_model_ingredient.py` → `04_모델산출물/v7_성분모델/` |
+| **Formulation model** | one formulation (1,675) | formulation GHS (L1 canonical → L2 jurisdiction projection) | 6 aggregate moments over ingredient descriptors + per-role concentration sums + surfactant interaction terms + formulation physical properties + GHS mixture additivity (CT) | `run_model_formulation.py` → `04_모델산출물/v7_제형모델/` |
 
-두 모델은 예측 대상이 다르다(물질의 고유 유해성 vs 혼합물의 분류). n·유병률·CV 단위가 모두 달라 **지표를 직접 비교할 수 없다**.
+The two layers predict different things (intrinsic hazard of a substance vs. classification of a
+mixture). Their n, prevalence, and CV unit all differ, so **their metrics are not directly
+comparable**.
 
-**감작(sensitization)은 학습에 쓰지 않는다.** 삭제하지 않고 v6 까지의 기록을 `04_모델산출물/v7_감작/` 에 동결 보존했다(`archive_sens.py`). 단 `f_ct_sens_*` 는 라벨이 아니라 혼합물 가산 디스크립터이므로 눈·피부 모델의 피처에 남는다.
+## The four headline models (single cross-jurisdiction basis)
 
-> 비공개 저장소입니다. 팀원 실명, SDS 원문에서 추출한 데이터, 미공개 연구 내용이 포함돼 있습니다.
+Each layer splits by endpoint, giving four models. The headline basis is fixed to **`K_REACH`**.
+The four jurisdictions differ by exactly two switches — "is eye Category 2B a classification?" and
+"is skin Category 3 a classification?" — and the only jurisdictions satisfying both simultaneously
+are `K_REACH` and `US_OSHA`, whose projection tables are identical. This basis therefore loses
+nothing when projected onto the Korean and US jurisdictions, and its eye mapping also matches the
+UN GHS source text.
 
-## 디렉터리
+| Model | Jurisdiction label set | n | Prevalence | ROC-AUC | MCC |
+|---|---|---|---|---|---|
+| substance × eye | UN_GHS+K_REACH+US_OSHA | 398 | 0.445 | 0.754 | 0.438 |
+| substance × skin | identical across all four | 398 | 0.319 | 0.775 | 0.395 |
+| formulation × eye | UN_GHS+K_REACH+US_OSHA | 1,044 | 0.683 | 0.675 | 0.246 |
+| formulation × skin | EU_CLP+K_REACH+US_OSHA | 1,059 | 0.336 | 0.773 | 0.390 |
 
-| 경로 | 내용 |
+**This basis was not chosen for performance.** On eye, this basis (2B = positive, prevalence
+0.683) gives AUC 0.675, whereas the `EU_CLP` basis (2B = negative, prevalence 0.370) gives 0.763.
+The two bases define different prediction targets, so picking whichever yields a higher AUC is not
+a valid argument. Every other combination of jurisdiction, missing-data protocol, and CT arm is
+kept in the same metrics file as supplementary rows with `대표` (headline) = 0, so switching the
+basis needs no re-run. The statutory basis of each jurisdiction and the full category → label
+projection tables are written to `규제처리_명시.md` in each output directory.
+
+## Missing-data handling
+
+`nan0` (fill missing with 0) was the default through v6 and is now kept **only as a reproduction
+control**. The headline protocol is `native_복원` for the formulation layer and `native` for the
+substance layer.
+
+| Protocol | Meaning |
 |---|---|
-| `01_파이프라인/` | 데이터 빌드·측정 스크립트. 데이터 빌드 진입점은 `build_input_v6.py`, 모델 공용 모듈은 `lib_model.py` |
-| `04_모델산출물/input_dataset_v6.xlsx` | 현행 모델 입력 데이터셋 (제형 1,675 × 608열) |
-| `04_모델산출물/v7_성분모델/` | 성분(물질) 단위 모델 지표 · `물질_라벨대장.csv` · `라벨충돌_물질.csv` |
-| `04_모델산출물/v7_제형모델/` | 제형 단위 모델 지표. v6 수치와 1e-9 이내 동일함을 lock 으로 검증 |
-| `04_모델산출물/v7_감작/` | 감작 동결 보존. 학습하지 않음 |
-| `04_모델산출물/v6_통합/` | 팀원 4인 산출물 통합 정리본 (`팀원통합_260908.xlsx`) |
-| `05_원본보관_260908/` | 팀원 제출 원본 4개. **L0 불변** — 수정하지 않는다 |
-| `05_제안/` | 모델 성능 개선 제안서 |
-| `dataset_배정_260904.xlsx` | 작업 배정·검수 대장. `총책임자_결정_9건` 시트에 미결 결정 사항 |
-| `260908_회의보고서.docx` | 2026-09-08 팀 회의 보고서 |
+| `nan0` | Fill missing cells with 0. This raises the zero fraction of the formulation matrix from 38.8% to 58.4% |
+| `native` | Leave missing as missing; rely on the native NaN split in sklearn ≥ 1.4 trees |
+| `native_복원` | `native` plus restoration of missing values that the build step froze into 0 (formulation layer only) |
 
-`.gitignore` 로 제외한 것: v2~v5 세대 데이터셋, SDS 하이라이트 감사 PDF 덤프(146MB), 수집 하네스(별도 저장소 [`formulation_harness`](https://github.com/han-seo-yun/formulation_harness)).
+`audit_zero_vs_missing.py` audits every feature. **Exactly two columns had missing values frozen
+into 0 at build time**: `f_pct_surf_total` and `f_surf_anionic_nonionic` (281 rows each, all with
+unknown composition). The idiom `row["f_pct_surf_anionic"] or 0.0` in `build_input_v5.py` converts
+`None` to `0.0`, so all four constituent columns stay missing while the sum becomes 0 — and no
+missing-flag column (`*_isna`) was ever generated for it. Every other zero in the matrices is a
+real observation ("composition known and it contains no surfactant", "single-ingredient
+formulation, so the descriptor spread is 0", "no structural alert present"). The substance matrix
+contains no imputed zeros at all. The build scripts are version-pinned and not edited; the
+restoration is applied as a model-side protocol.
 
-## 빌드
+**Skin sensitization is not used for training.** It was not deleted: everything up to v6 is frozen
+under `04_모델산출물/v7_감작/` (`archive_sens.py`). The `f_ct_sens_*` columns do remain as features
+of the eye and skin models, because they are mixture-additivity descriptors, not labels.
+
+> Private repository. Contains real team member names, data extracted from SDS documents, and
+> unpublished research.
+
+## Directories
+
+| Path | Contents |
+|---|---|
+| `01_파이프라인/` | Data build and measurement scripts. Build entry point is `build_input_v6.py`; the shared model module is `lib_model.py` |
+| `04_모델산출물/input_dataset_v6.xlsx` | Current model input dataset (1,675 formulations × 608 columns) |
+| `04_모델산출물/v7_성분모델/` | Substance-level metrics, `물질_라벨대장.csv` (substance label ledger), `라벨충돌_물질.csv` (label conflicts) |
+| `04_모델산출물/v7_제형모델/` | Formulation-level metrics. A lock verifies agreement with the v6 figures to within 1e-9 |
+| `04_모델산출물/v7_감작/` | Frozen sensitization record. Not trained on |
+| `04_모델산출물/v7_결측감사/` | Zero-vs-missing audit: per-column profile and the list of imputed zeros |
+| `04_모델산출물/v6_통합/` | Consolidated outputs from the four team members (`팀원통합_260908.xlsx`) |
+| `05_원본보관_260908/` | The four as-submitted originals. **L0 immutable — never edited** |
+| `05_제안/` | Proposals for model performance improvement |
+| `dataset_배정_260904.xlsx` | Work assignment and review ledger. Open decisions are on the `총책임자_결정_9건` sheet |
+
+Excluded via `.gitignore`: the v2–v5 generation datasets, the highlighted SDS audit PDF dump
+(146 MB), Word report documents (`*.docx`), and the collection harness (separate repository,
+[`formulation_harness`](https://github.com/han-seo-yun/formulation_harness)).
+
+## Build
 
 ```bash
 python3 01_파이프라인/build_input_v6.py
 ```
 
-스크립트가 `05_원본보관_260908/` 의 원본을 직접 읽어 `04_모델산출물/input_dataset_v6.xlsx` 를 생성한다. `ROOT` 경로는 로컬 환경에 맞게 조정이 필요하다.
+The script reads the originals in `05_원본보관_260908/` directly and produces
+`04_모델산출물/input_dataset_v6.xlsx`. The `ROOT` path needs adjusting for the local environment.
 
-## 학습·측정
+## Train and measure
 
 ```bash
 cd 01_파이프라인
-python3 run_model_ingredient.py     # 성분(물질) 단위 — 약 1.5분
-python3 run_model_formulation.py    # 제형 단위 — 약 3분, 말미에 v6 재현 lock
-python3 archive_sens.py             # 감작 기록 동결 보존(학습 없음, 원본 무수정)
+python3 audit_zero_vs_missing.py    # zero-vs-missing audit — seconds; cross-checks the restore list against lib_model
+python3 run_model_ingredient.py     # substance level — ~1.5 min
+python3 run_model_formulation.py    # formulation level — ~4.5 min, v6 reproduction lock partway through
+python3 archive_sens.py             # freeze the sensitization record (no training, originals untouched)
 ```
 
-세 스크립트 모두 읽기 전용 입력이며 자기 산출 디렉터리에만 쓴다.
+All four scripts read their inputs read-only and write only into their own output directory.
 
-## 데이터 규칙
+## Data rules
 
-이 규칙들은 assert 로 파이프라인에 박혀 있다. 우회하지 않는다.
+These rules are enforced by asserts inside the pipeline. Do not work around them.
 
-- **값을 만들지 않는다.** 결측 pH 를 `0`·`7` 로 임퓨트하거나 추정 기입하지 않는다. 결측은 결측으로 남긴다.
-- **pH 는 원액(as supplied) 기준만 인정한다.** GHS 강산(pH ≤ 2)·강염기(pH ≥ 11.5) 비가산 예외는 제품을 그대로 측정한 pH 로만 판정한다. 희석 수용액 pH 는 농도에 따라 로그적으로 달라져 대체할 수 없고, 타제품·활성성분 문헌값은 해당 제형의 값이 아니다.
-- **최소빈 S11 판독은 피처로 쓰지 않는다.** 라벨 출처와 같은 문서를 판독한 자료라서 피처로 넣으면 정답 누출이다. 라벨 정정 후보로만 쓴다.
-- **버전 고정 스크립트는 수정하지 않는다**: `build_input_v3/v4/v5`, `smoke_baseline_v3/v4`, `active_rank`, `measure_v5_performance`, `measure_skinmap_and_ct_augment`, `measure_full_metrics_v6`, `measure_sens_arm_grid`. 과거 측정치의 재현 근거다. 뒤 두 개는 감작을 포함한 v6 측정의 유일한 재현 경로이므로 감작을 학습에서 뺀 뒤에도 남긴다.
-- **라벨은 3계층**으로 관리한다. L0(원본, 바이트 불변) → L1(정본) → L2(관할별 투영).
-- **누출 방지**: 제형 모델은 `group_key`(587개, 주성분 공유 제형 묶음), 성분 모델은 Murcko 골격 기준 StratifiedGroupKFold 5-fold × 5 seed. 성분 모델은 물질이 CV 단위라 제형 중복 누출이 원리적으로 없다. 주지표는 ROC-AUC + MCC 이며, F1 을 대표 지표로 쓰지 않는다. 임계값은 0.5 로 고정한다(사후 최적값 0.298~0.400 은 의도적으로 쓰지 않는다).
-- **성분 모델 피처는 구조에서 나온 것만 쓴다.** 농도·제형맥락(`formulation_type_*`)·라벨 유도원(`has_ghs_label` 등)은 `lib_model.ING_DROP_*` 명시 목록으로 배제한다. 물질의 고유 유해성을 예측하는 모델에 그 물질이 어느 제형에 들어갔는지를 넣으면 예측 대상이 흐려진다.
-- **팀원A 조사의 눈 `2` 는 EU_CLP 레이어에서 제외한다.** EU 는 2A=분류 / 2B=비분류로 갈리는데 이 값은 세분이 없어 판정 불가다. 임의로 한쪽에 넣지 않는다(성분 모델 60물질 제외).
+- **Never invent a value.** Missing pH is not imputed to `0` or `7`, and is not filled in by
+  estimation. Missing stays missing. Applying `nan_to_num(nan=0)` right before training also
+  invents values, so the headline protocols do not use it.
+- **Distinguish zero from missing.** "Concentration sum 0 because the formulation contains no
+  surfactant" is an observation; "0 because the composition is unknown" is an invented value. The
+  test is **whether that column's information source exists for that row**
+  (`audit_zero_vs_missing.py`). Re-run this audit whenever features are added — an assert halts if
+  the audit result disagrees with `lib_model.ZERO_IS_MISSING`.
+- **The headline basis is the single jurisdiction `K_REACH`** (`lib_model.CANON_JUR`). Other
+  jurisdictions are not deleted; they are measured alongside as supplementary rows. Changing the
+  basis means changing only this constant.
+- **Only as-supplied pH is accepted.** The GHS non-additivity exceptions for strong acids
+  (pH ≤ 2) and strong bases (pH ≥ 11.5) are decided solely from pH measured on the product as-is.
+  The pH of a diluted aqueous solution varies logarithmically with concentration and cannot
+  substitute; literature values for other products or for active ingredients are not values of
+  this formulation.
+- **Minimum-frequency S11 readings are never used as features.** They were read from the same
+  documents as the labels, so using them as features leaks the answer. They serve only as label
+  correction candidates.
+- **Version-pinned scripts are never edited**: `build_input_v3/v4/v5`, `smoke_baseline_v3/v4`,
+  `active_rank`, `measure_v5_performance`, `measure_skinmap_and_ct_augment`,
+  `measure_full_metrics_v6`, `measure_sens_arm_grid`. They are the reproduction basis for past
+  measurements. The last two are the only reproduction path for the v6 measurements that included
+  sensitization, so they stay even after sensitization was dropped from training.
+- **Labels are managed in three layers**: L0 (original, byte-immutable) → L1 (canonical) →
+  L2 (per-jurisdiction projection).
+- **Leakage prevention**: the formulation model groups on `group_key` (587 groups of formulations
+  sharing an active ingredient); the substance model groups on the Murcko scaffold. Both use
+  StratifiedGroupKFold, 5 folds × 5 seeds. In the substance model the CV unit is the substance
+  itself, so duplication across formulations cannot leak by construction. The primary metrics are
+  ROC-AUC and MCC; F1 is not used as a headline metric. The threshold is fixed at 0.5 (the
+  post-hoc optima of 0.298–0.400 are deliberately not used).
+- **Substance-model features come from structure only.** Concentrations, formulation context
+  (`formulation_type_*`), and label-derived indicators (`has_ghs_label` and friends) are excluded
+  through the explicit lists in `lib_model.ING_DROP_*`. Telling a model that predicts a
+  substance's intrinsic hazard which formulation that substance ended up in blurs the prediction
+  target.
+- **Eye category `2` from the independent survey is excluded from the EU_CLP layer.** The EU
+  splits 2A (classified) from 2B (not classified), and this value carries no subdivision, so it
+  cannot be adjudicated. It is not arbitrarily assigned to either side (60 substances excluded in
+  the substance model).
 
-## 산출물 승격 상태
+## Artifact promotion states
 
-| 상태 | 뜻 |
+| State | Meaning |
 |---|---|
-| `ACTIVE` | 모델이 학습에 실제로 사용 중 |
-| `STAGED` | 데이터셋에는 통합됐으나 학습에 미사용. ACTIVE 전환은 총책임자 결정 사안 |
-| `STAGED_격리` | 라벨을 바꿀 수 있는 자료. 피처로 절대 쓰지 않는다 |
+| `ACTIVE` | Actually used by a model in training |
+| `STAGED` | Merged into the dataset but unused in training. Promotion to ACTIVE is a lead's decision |
+| `STAGED_격리` | Material that could change labels. Never used as a feature |
 
-현재 `ACTIVE` 는 팀원A 성분 GHS 조사뿐이다. 제형 모델에서는 CT 가산 증강(A2/A3 arm)으로, 성분 모델에서는 **라벨**로 쓰인다. pH 는 강산·강염기 비가산 게이트(D1)가 미구현이라 `STAGED` 로 남아 있다.
+The only `ACTIVE` source at present is the independent per-ingredient GHS survey. The formulation
+model uses it for CT additivity augmentation (the A2/A3 arms); the substance model uses it as
+**labels**. pH remains `STAGED` because the strong-acid/strong-base non-additivity gate (D1) is
+not implemented.

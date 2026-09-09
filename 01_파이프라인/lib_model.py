@@ -55,6 +55,21 @@ NEGREC = "sds_v1_negative_recovered"
 THRESHOLD = 0.5          # 고정. 조정 금지 — 근거는 각 산출물 요약 json 참조.
 EPS_ALL = ("eye", "skin", "sens")
 
+# ------------------------------------------------------------------ 결측 규약
+#   nan0        결측 셀을 0 으로 채운다. v6 까지의 기본값이며 재현 대조용으로만 남긴다.
+#   native      결측을 결측으로 둔다. sklearn ≥1.4 의 트리 네이티브 NaN 분기를 쓴다.
+#   native_복원  native + 빌드 단계에서 결측이 0 으로 굳어버린 열을 결측으로 되돌린다.
+# 대표값은 native_복원 이다 — "값을 만들지 않는다" 규칙에 부합하는 유일한 규약이다.
+IMPUTES = ("nan0", "native", "native_복원")
+CANON_IMPUTE = "native_복원"
+
+# build_input_v5.py 가 `a = row["f_pct_surf_anionic"] or 0.0` 관용구로 계산해서
+# **조성 미상(f_pct_sum_known 결측) 행까지 0 이 들어간** 열. 구성 성분 4열은 모두
+# 결측(281행)인데 합계만 0 이라 결측 플래그(`*_isna`)조차 만들어지지 않았다.
+# 감사 근거: audit_zero_vs_missing.py — 이 두 열 외에 제형·성분 행렬에 임퓨트된
+# 0 은 없다(나머지 0 은 전부 '해당 역할 없음'·'성분 1종이라 분산 0' 같은 실측값).
+ZERO_IS_MISSING = ("f_pct_surf_total", "f_surf_anionic_nonionic")
+
 _T0 = time.time()
 
 
@@ -86,6 +101,26 @@ JUR = {"UN_GHS": {"eye": _UN_EYE, "skin": _UN_SKIN, "sens": _SENS},
        "EU_CLP": {"eye": _EU_EYE, "skin": _EU_SKIN, "sens": _SENS},
        "K_REACH": {"eye": _UN_EYE, "skin": _EU_SKIN, "sens": _SENS},
        "US_OSHA": {"eye": _UN_EYE, "skin": _EU_SKIN, "sens": _SENS}}
+
+# ------------------------------------------------------------ 대표(전관할) 기준
+# 관할 4개의 투영표 차이는 실제로 스위치 2개뿐이다.
+#   눈  구분 2B 를 '분류'로 볼 것인가   → UN·K-REACH·US-OSHA = 예 / EU-CLP = 아니오
+#   피부 구분 3 을 '분류'로 볼 것인가   → UN-GHS = 예 / EU-CLP·K-REACH·US-OSHA = 아니오
+# 두 스위치를 동시에 만족하는 관할이 K_REACH 와 US_OSHA 이고, 둘의 투영표는
+# 완전히 동일하다. 즉 이 하나를 대표로 고정하면 국내(K-REACH)·미국(HazCom) 두
+# 관할에 투영 손실이 0 이고, 눈은 UN GHS 원문과도 같다. 다른 관할로 갈아타려면
+# 이 상수만 바꾸면 되고, 나머지 관할도 계속 부가 산출로 함께 측정한다.
+CANON_JUR = "K_REACH"
+
+JUR_DOC = {
+    "UN_GHS": "UN GHS 원문 (Purple Book). 눈 2B·피부 구분3 모두 '분류'로 본다",
+    "EU_CLP": "EU 규정 (EC) No 1272/2008 (CLP) + Annex VI 조화분류. "
+              "눈 2B 없음(2A 만 분류), 피부 구분3 채택 안 함",
+    "K_REACH": "한국 — 화학물질의 분류·표시 및 물질안전보건자료에 관한 기준 "
+               "(고용노동부고시) / 화학물질등록평가법. 눈 2B 채택, 피부 구분3 채택 안 함",
+    "US_OSHA": "미국 — 29 CFR 1910.1200 Hazard Communication (HazCom 2012, "
+               "GHS rev.3 기반). 투영표가 K_REACH 와 동일하다",
+}
 
 CAT1 = {"1", "1A", "1B", "1C"}
 CAT2 = {"2", "2A", "2B"}
@@ -164,7 +199,31 @@ def cv_eval(Xi, y, folds, meta):
     return row
 
 
-OUT_COLS = ["단위", "endpoint", "관할", "피처", "결측처리", "CT", "n", "양성", "유병률",
+def is_canon(jns):
+    """이 관할 묶음이 대표(전관할) 기준인가. jns 는 리스트 또는 '+' 결합 문자열."""
+    return CANON_JUR in (jns.split("+") if isinstance(jns, str) else list(jns))
+
+
+def mark_canon(R, canon_impute=CANON_IMPUTE, canon_ct=None, canon_feat=None):
+    """대표 4모델(성분·제형 × 눈·피부) 행에 `대표` = 1 을 세운다.
+
+    대표 = 대표관할(K_REACH 계열) × 대표결측규약 × (지정 시) 대표 CT arm·피처.
+    나머지 행은 부가 산출로 같은 파일에 남긴다 — 기준을 갈아탈 때 재실행이 필요
+    없도록 하기 위한 것이고, 대표 외 행을 성능 주장에 쓰지 않는다.
+    """
+    m = R["관할"].map(is_canon) & (R["결측처리"] == canon_impute)
+    if canon_ct is not None and "CT" in R.columns:
+        m &= R["CT"] == canon_ct
+    if canon_feat is not None and "피처" in R.columns:
+        m &= R["피처"] == canon_feat
+    R = R.copy()
+    R["대표"] = m.astype(int)
+    assert int(R["대표"].sum()) == R["endpoint"].nunique(), \
+        f"대표 행 {int(R['대표'].sum())}개 — 엔드포인트당 1개여야 한다"
+    return R
+
+
+OUT_COLS = ["대표", "단위", "endpoint", "관할", "피처", "결측처리", "CT", "n", "양성", "유병률",
             "roc_auc", "roc_auc_sd", "pr_auc", "pr_auc_sd",
             "f1_pos", "f1_pos_sd", "f1_neg", "f1_macro",
             "precision", "recall", "specificity", "MCC", "BA", "accuracy",
@@ -219,6 +278,10 @@ class FormulationData:
         assert {ep: int(self.IS_NEGREC[ep].sum()) for ep in EPS_ALL} == \
             {"eye": 109, "skin": 128, "sens": 211}
         self.X0 = X[self.CHEM].copy()
+        # 조성 미상 행 — 성분 농도가 하나도 파싱되지 않아 역할별 농도합이 정의되지
+        # 않는다. ZERO_IS_MISSING 열을 되돌릴 때 이 마스크만 건드린다.
+        self.NOPCT = pd.to_numeric(X["f_pct_sum_known"], errors="coerce").isna().to_numpy()
+        assert int(self.NOPCT.sum()) == 281, f"조성미상 {int(self.NOPCT.sum())} != 281"
         self.log = log
 
     # ---------------------------------------------------------------- L2 투영
@@ -345,13 +408,27 @@ class FormulationData:
                     f"{tag}/{ep} coverage {got:.3f} 이탈"
         self.log("CT A0 == 디스크 / 커버리지 == 검증값 — 전처리 드리프트 없음")
 
+        # 빌드 단계에서 0 으로 굳은 결측을 되돌린다. nan0/native 행렬은 손대지 않아야
+        # v6 재현 lock 이 성립하므로, 복원은 native_복원 규약에서만 적용한다.
+        zi = [self.CHEM.index(c) for c in ZERO_IS_MISSING if c in self.CHEM]
+        n_rest = len(zi) * int(self.NOPCT.sum())
+        self.log(f"결측 복원 대상: {[c for c in ZERO_IS_MISSING if c in self.CHEM]} "
+                 f"× 조성미상 {int(self.NOPCT.sum())}행 = {n_rest}셀 (native_복원 규약에만 적용)")
+
         def as_mat(df, im):
             M = df[self.CHEM].to_numpy(dtype=np.float64)
-            return np.nan_to_num(M, nan=0.0, posinf=0.0, neginf=0.0) \
-                if im == "nan0" else M
+            if im == "nan0":
+                return np.nan_to_num(M, nan=0.0, posinf=0.0, neginf=0.0)
+            if im == "native_복원":
+                M = M.copy()
+                for j in zi:
+                    assert not np.isnan(M[self.NOPCT, j]).any(), \
+                        f"{self.CHEM[j]}: 조성미상 행에 이미 결측이 있다 — 감사 전제 이탈"
+                    M[self.NOPCT, j] = np.nan
+            return M
         return {(ct, im): as_mat(df, im)
                 for ct, df in (("CT_A0", X_A0), ("CT_권고", X_R))
-                for im in ("nan0", "native")}
+                for im in IMPUTES}
 
 
 def ct_predict(pairs, endpoint):
@@ -646,6 +723,46 @@ def v6_lock(R, log, unit="제형"):
                 bad.append(f"{c}(최대차 {d:.3e})")
     assert not bad, "v7 분리가 제형 수치를 바꿨다 — 결함: " + ", ".join(bad)
     log(f"v6 재현 lock 통과: {len(m)}셀 × 지표 전부 동일 (허용오차 1e-9)")
+
+
+def write_jur_doc(out_dir: Path, unit: str, R, extra=()):
+    """규제 처리 명시 문서. 어떤 규제의 어느 조항으로 라벨을 이진화했는지,
+    그리고 그 과정에서 어떤 행을 왜 뺐는지를 산출물 옆에 항상 남긴다."""
+    canon = R[R["대표"] == 1] if "대표" in R.columns else R
+    lines = [f"# 규제 처리 명시 — {unit} 단위 모델", "",
+             "GHS 구분(범주형)을 이진 라벨로 바꾸는 규칙은 규제 관할마다 다르다. "
+             "이 문서는 그 변환을 관할별로 전부 적어 둔 것이다. 모델이 예측하는 것은 "
+             "'독성의 세기'가 아니라 **해당 관할에서 분류 대상인지 여부**다.", "",
+             "## 관할별 근거", "", "| 관할 | 근거 법령·문서 |", "|---|---|"]
+    lines += [f"| `{k}` | {v} |" for k, v in JUR_DOC.items()]
+    lines += ["", f"## 대표(전관할) 기준 — `{CANON_JUR}`", "",
+              "관할 4개의 차이는 스위치 2개뿐이다.", "",
+              "| 스위치 | 분류로 보는 관할 | 분류로 보지 않는 관할 |", "|---|---|---|",
+              "| 눈 구분 2B | UN_GHS · K_REACH · US_OSHA | EU_CLP |",
+              "| 피부 구분 3 | UN_GHS | EU_CLP · K_REACH · US_OSHA |", "",
+              f"두 스위치를 동시에 만족하는 관할이 `K_REACH` 와 `US_OSHA` 이고 두 투영표는 "
+              f"완전히 동일하다. 그래서 대표 기준을 `{CANON_JUR}` 로 고정했다 — 국내·미국 "
+              "두 관할에 투영 손실이 0 이고, 눈은 UN GHS 원문과도 일치한다. "
+              "EU_CLP 기준과 UN_GHS 기준 결과도 같은 파일에 부가 행으로 남긴다.", "",
+              "## 이진화 투영표 (구분 → 라벨)", "",
+              "| 엔드포인트 | 관할 | 1(분류) | 0(비분류) |", "|---|---|---|---|"]
+    for ep in ("eye", "skin"):
+        for jn, tabs in JUR.items():
+            tab = tabs[ep]
+            pos = " · ".join(k for k, v in tab.items() if v == 1)
+            neg = " · ".join(k for k, v in tab.items() if v == 0)
+            lines.append(f"| {ep} | `{jn}` | {pos} | {neg} |")
+    lines += ["", "## 제외 규칙 (값을 만들지 않기 위해 행을 뺀 곳)", ""]
+    lines += [f"- {t}" for t in extra] or ["- (없음)"]
+    lines += ["", "## 대표 4모델 중 이 단위의 셀", "",
+              "| endpoint | 관할 | 피처 | 결측처리 | CT | n | 유병률 | ROC-AUC | MCC |",
+              "|---|---|---|---|---|---|---|---|---|"]
+    for _, r in canon.iterrows():
+        lines.append(f"| {r['endpoint']} | {r['관할']} | {r['피처']} | {r['결측처리']} | "
+                     f"{r['CT']} | {r['n']} | {r['유병률']} | {r['roc_auc']} | {r['MCC']} |")
+    lines += ["", "임계값은 0.5 고정이다(`THRESHOLD_NOTE` 참조). ROC-AUC 와 PR-AUC 만 "
+              "임계값 불변이며, 유병률이 다른 관할끼리는 F1 로 비교하지 않는다.", ""]
+    (out_dir / "규제처리_명시.md").write_text("\n".join(lines), encoding="utf-8")
 
 
 THRESHOLD_NOTE = [

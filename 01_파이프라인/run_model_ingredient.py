@@ -34,11 +34,26 @@ import pandas as pd
 import lib_model as L
 
 EPS = ("eye", "skin")
+FEAT_CANON = "구조+지문"      # 대표 피처셋. 구조 단독 arm 도 부가 행으로 남긴다.
+# 성분 행렬에는 임퓨트된 0 이 없다(audit_zero_vs_missing.py 로 확인). 그래서
+# 복원할 것이 없고 대표 규약은 `native` 다 — 제형과 달리 `native_복원` 을 만들지 않는다.
+IMP = ("nan0", "native")
+IMP_CANON = "native"
+EXCL_NOTES = [
+    "`eye` × EU_CLP: 정채윤 조사의 눈 `2` 는 2A/2B 세분이 없다. EU 는 2A=분류 / "
+    "2B=비분류로 갈리므로 판정 불가여서 해당 물질을 EU 레이어에서 제외한다(60물질, "
+    "n 398 → 338). 대표 기준(K_REACH)은 2B 도 분류로 보므로 이 제외가 없다.",
+    "같은 물질에 두 출처가 상이 구분을 준 경우 규제 보수성 원칙으로 심한 쪽을 채택하고 "
+    "전 건을 `라벨충돌_물질.csv` 에 남긴다 — 없는 값을 만드는 것이 아니라 이미 수집된 "
+    "두 값 중 하나를 고르는 것이다.",
+    "소수 클래스가 폴드수(5) 미만인 셀은 측정을 생략한다. 억지로 폴드를 줄이지 않는다.",
+]
 OUT = L.ROOT / "04_모델산출물" / "v7_성분모델"
 OUT.mkdir(parents=True, exist_ok=True)
 log = L.make_logger(OUT / "run.log")
 
 log("=== 성분(물질) 단위 모델 (eye · skin) ===")
+log(f"대표 기준: 관할 {L.CANON_JUR} · 결측규약 {IMP_CANON} · 피처 {FEAT_CANON}")
 sub = L.SubstanceData(log, EPS, OUT)
 XM = sub.matrices()
 SCAF = sub.SCAF
@@ -70,7 +85,7 @@ for ep, jns in GROUPS:
             f"폴드수 미만이라 측정 생략(값을 만들지 않는다)")
         continue
     folds = L.make_folds(y, g)                   # arm·결측규약 간 고정
-    for im in ("nan0", "native"):
+    for im in IMP:
         for fs in ("구조", "구조+지문"):
             row = L.cv_eval(XM[(fs, im)][k], y, folds,
                             {"단위": "성분", "endpoint": ep, "관할": "+".join(jns),
@@ -82,7 +97,12 @@ for ep, jns in GROUPS:
                 f"PR={row['pr_auc']:.4f} MCC={row['MCC']:.3f} BA={row['BA']:.3f} "
                 f"재현율={row['recall']:.3f} 정밀도={row['precision']:.3f}")
 
-R = L.order_cols(pd.DataFrame(RES))
+R = L.order_cols(L.mark_canon(pd.DataFrame(RES), canon_impute=IMP_CANON,
+                              canon_feat=FEAT_CANON))
+for _, r in R[R["대표"] == 1].iterrows():
+    log(f"대표 ▶ 성분/{r['endpoint']:4} {r['관할']:30} n={r['n']} p={r['유병률']} "
+        f"AUC={r['roc_auc']} MCC={r['MCC']} BA={r['BA']}")
+L.write_jur_doc(OUT, "성분", R, extra=EXCL_NOTES)
 R.to_csv(OUT / "지표_성분모델.csv", index=False, encoding="utf-8-sig")
 
 # 라벨 대장 — 어떤 물질이 무슨 근거로 어떤 구분을 받았는지 감사 가능하게 남긴다.
@@ -119,6 +139,16 @@ wb.save(OUT / "지표_성분모델.xlsx")
 with open(OUT / "요약.json", "w", encoding="utf-8") as f:
     json.dump({
         "단위": f"물질(substance). 1행 = 1물질, 고유 물질 {sub.n_sub}종",
+        "대표모델": {
+            "기준": {"관할": L.CANON_JUR, "결측처리": IMP_CANON, "피처": FEAT_CANON},
+            "관할근거": L.JUR_DOC[L.CANON_JUR],
+            "선정이유": "제형 모델과 같은 대표 관할을 쓴다(K_REACH·US_OSHA 투영표 동일). "
+                    "눈 2B 를 분류로, 피부 구분3 을 비분류로 보는 조합이다.",
+            "결측처리_이유": "성분 행렬에는 임퓨트된 0 이 없다(v7_결측감사 확인). 되돌릴 "
+                       "것이 없으므로 native 가 대표이고 native_복원 arm 을 만들지 않는다.",
+            "행": [r for r in R[R["대표"] == 1].to_dict("records")],
+        },
+        "규제처리_명시": "규제처리_명시.md 참조 (관할별 근거 법령 + 구분→라벨 투영표 전체)",
         "물질_동일성_키": "RDKit InChIKey 앞 14자(골격 블록). "
                     "canonicalize_ingredient_smiles.py 의 확립된 규칙과 동일",
         "엔드포인트": list(EPS),
