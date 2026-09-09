@@ -1,0 +1,28 @@
+[    0.0s] === 성분(물질) 단위 모델 (eye · skin) ===
+[   10.8s] 물질 키: SMILES 보유 3580행 · SMILES 파싱실패 0종 · InChIKey 생성실패 1종(canonical SMILES 로 대체) · 고유 물질 661종
+[   10.8s] 성분 피처 후보 125열 (X_ingredient 178열에서 라벨유도원·제형맥락·농도열 53열 배제)
+[   10.8s]   ※ 동일 골격·상이 디스크립터 84물질 — 입체표기 차이. 첫 값을 대표로 접음(canonicalize 규칙과 동일)
+[   10.9s]   eye: 라벨보유 물질 398종 (성분행 2512행에서 접음)
+[   11.0s]   skin: 라벨보유 물질 398종 (성분행 2512행에서 접음)
+[   11.0s]   라벨충돌 13건 → 라벨충돌_물질.csv (SEV_PICK 로 심각한 쪽 채택)
+[   11.0s]   지문 maccs: 167비트 → 물질 661종 × 보유비트 161개(최소빈도 1)
+[   11.1s]   지문 morgan: 2048비트 → 물질 661종 × 보유비트 811개(최소빈도 5)
+[   11.1s] 성분 피처 확정: 구조 62열 (상수·전결측 63열 제거)
+[   11.1s]   지문 arm: 1034열
+[   11.1s] Murcko 골격 그룹 256종 / 물질 661종
+[   11.1s] 계산 단위: eye:UN_GHS+K_REACH+US_OSHA; eye:EU_CLP; skin:UN_GHS+EU_CLP+K_REACH+US_OSHA
+[   17.9s]   eye  UN_GHS+K_REACH+US_OSHA     [nan0  ] 구조       n= 398 p=0.445 AUC=0.7557 PR=0.7086 MCC=0.435 BA=0.716 재현율=0.662 정밀도=0.698
+[   24.6s]   eye  UN_GHS+K_REACH+US_OSHA     [nan0  ] 구조+지문    n= 398 p=0.445 AUC=0.7554 PR=0.7065 MCC=0.432 BA=0.716 재현율=0.675 정밀도=0.689
+[   31.3s]   eye  UN_GHS+K_REACH+US_OSHA     [native] 구조       n= 398 p=0.445 AUC=0.7537 PR=0.7045 MCC=0.426 BA=0.712 재현율=0.656 정밀도=0.693
+[   38.0s]   eye  UN_GHS+K_REACH+US_OSHA     [native] 구조+지문    n= 398 p=0.445 AUC=0.7543 PR=0.7033 MCC=0.438 BA=0.718 재현율=0.670 정밀도=0.696
+[   38.0s]   eye/EU_CLP 제외: {'EU눈_2A2B미세분_제외': 60}
+[   44.7s]   eye  EU_CLP                     [nan0  ] 구조       n= 338 p=0.343 AUC=0.8010 PR=0.6760 MCC=0.461 BA=0.727 재현율=0.619 정밀도=0.661
+[   51.4s]   eye  EU_CLP                     [nan0  ] 구조+지문    n= 338 p=0.343 AUC=0.8024 PR=0.6713 MCC=0.439 BA=0.710 재현율=0.567 정밀도=0.669
+[   57.9s]   eye  EU_CLP                     [native] 구조       n= 338 p=0.343 AUC=0.8013 PR=0.6720 MCC=0.469 BA=0.729 재현율=0.614 정밀도=0.673
+[   64.7s]   eye  EU_CLP                     [native] 구조+지문    n= 338 p=0.343 AUC=0.8040 PR=0.6714 MCC=0.448 BA=0.714 재현율=0.572 정밀도=0.675
+[   71.4s]   skin UN_GHS+EU_CLP+K_REACH+US_OSHA [nan0  ] 구조       n= 398 p=0.319 AUC=0.7584 PR=0.5445 MCC=0.347 BA=0.666 재현율=0.501 정밀도=0.582
+[   78.2s]   skin UN_GHS+EU_CLP+K_REACH+US_OSHA [nan0  ] 구조+지문    n= 398 p=0.319 AUC=0.7762 PR=0.5655 MCC=0.385 BA=0.686 재현율=0.537 정밀도=0.605
+[   84.8s]   skin UN_GHS+EU_CLP+K_REACH+US_OSHA [native] 구조       n= 398 p=0.319 AUC=0.7586 PR=0.5458 MCC=0.359 BA=0.673 재현율=0.518 정밀도=0.586
+[   91.5s]   skin UN_GHS+EU_CLP+K_REACH+US_OSHA [native] 구조+지문    n= 398 p=0.319 AUC=0.7746 PR=0.5634 MCC=0.395 BA=0.692 재현율=0.548 정밀도=0.609
+[   91.6s] 물질 라벨대장 661행 → 물질_라벨대장.csv
+[   91.6s] 완료 → /Users/팀원B/Desktop/신작물보호제/04_모델산출물/v7_성분모델/지표_성분모델.csv / .xlsx / 요약.json

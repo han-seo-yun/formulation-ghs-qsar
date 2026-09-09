@@ -1,0 +1,13 @@
+[    0.0s] === 감작 기록 동결 보존 (학습 없음) ===
+[    0.0s]   복사 04_모델산출물/v6_jurisdiction/감작_CTarm_격자.csv → 감작_CTarm_격자.csv
+[    0.0s]   복사 04_모델산출물/v6_jurisdiction/감작_CTarm_대조.csv → 감작_CTarm_대조.csv
+[    0.0s]   복사 04_모델산출물/v6_jurisdiction/감작_CTarm_요약.json → 감작_CTarm_요약.json
+[    0.0s]   복사 04_모델산출물/v6_jurisdiction/run_sens_arm_grid.log → run_sens_arm_grid.log
+[    0.0s]   복사 04_모델산출물/v6_jurisdiction/그림/F4_감작arm_결측규약.png → F4_감작arm_결측규약.png
+[    0.0s]   복사 04_모델산출물/v6_skinmap_ct/감작충돌_32건_장부.csv → 감작충돌_32건_장부.csv
+[    0.0s]   복사 04_모델산출물/v6_skinmap_ct/감작충돌_32건_장부.xlsx → 감작충돌_32건_장부.xlsx
+[    0.0s]   추출 전체지표_ROC_F1.csv → 지표_감작_전체_v6동결.csv (4행)
+[    0.0s]   추출 관할별_성능.csv → 지표_감작_관할별_v6동결.csv (24행)
+[    0.0s]   추출 관할간_불일치.csv → 관할간_불일치_감작_v6동결.csv (3행)
+[   10.6s] 동결 시점 라벨: 제형 감작 학습가능 716행 / 성분 감작 1229+1355행
+[   10.6s] 완료 → /Users/팀원B/Desktop/신작물보호제/04_모델산출물/v7_감작/ (README.md · 동결상태.json · 보존목록.csv + 보존파일 10건)

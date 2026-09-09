@@ -1,0 +1,662 @@
+﻿물질키_InChIKey14,Murcko골격,eye_구분,eye_출처,skin_구분,skin_출처,대표성분명,대표CAS,대표SMILES,등장제형수
+AAEVYOVXGOFMJO,c1ncncn1,NC,팀원A,NC,팀원A,Prometryn,7287-19-6,CSC1=NC(NC(C)C)=NC(NC(C)C)=N1,2
+AAPLYDDEQVREDC,C1=CCCC1,,,,,"2-Methyl-4-(2,2,3-trimethyl-3-cyclopenten-1-yl)-4-penten-1-ol",,CC1=CCC(C/C=C(\C)C=O)C1(C)C,1
+ACMXQHFNODYQAT,O=C(Cc1ccccc1)NC(=NOCC1CC1)c1ccccc1,NC,팀원A,NC,팀원A,Cyflufenamid,180409-60-3,FC1=C(F)C(C(NC(=O)CC2=CC=CC=C2)=NOCC2CC2)=C(C=C1)C(F)(F)F,2
+ADIDQIZBYUABQK,C1CCC2=C(CC1)CCC2,2A,phase1,2,phase1,alpha-Guaiene,,C=C(C)[C@@H]1CC[C@H](C)C2=C(C1)[C@@H](C)CC2,2
+AEHJMNVBLRLZKK,c1ccc(OCCCOc2ccccn2)cc1,,,,,Synonyms : Pyridalyl,179101-81-6,FC(F)(F)c1ccc(OCCCOc2c(Cl)cc(OCC=C(Cl)Cl)cc2Cl)nc1,2
+AEMRFAOFKBGASW,__ACYCLIC__,1,팀원A,1,팀원A,"Acetic acid, hydroxy- Glycolic Acid",79-14-1,O=C(O)CO,2
+AFFLGGQVNFXPEV,__ACYCLIC__,,,,,"Synonyms : 1-Decene,decene",872-05-9,C=CCCCCCCCC,2
+AFSHKCWTGFDXJR,O=C1OC2CC(CC=CC(OC3CCC(OC4CCCCO4)CO3)CC=CC=C3COC4CC=CC1C34)OC1(C=CCCO1)C2,,,,,Abamectin (Avermectin B1a/B1b mixture) - 요청된 Avermectin A1a와 불일치,65195-51-9,[H][C@@]12OCC3=C/C=C/[C@H](C)[C@H](O[C@@]4([H])C[C@H](OC)[C@@H](O[C@@]5([H])C[C@H](OC)[C@@H](O)[C@H](C)O5)[C@H](C)O4)C(C)=CC[C@]4([H])C[C@@]([H])(C[C@]5(O4)O[C@]([H])([C@@H](C)CC)[C@@H](C)C=C5)OC(=O)[C@]([H])(C=C(C)[C@H]1OC)[C@@]23O,1
+AHTPATJNIAFOLR,O=C(Nc1ncncn1)NS(=O)(=O)c1ccsc1,NC,팀원A,NC,팀원A,Thifensulfuron methyl,79277-27-3,COC(=O)C1=C(C=CS1)S(=O)(=O)NC(=O)NC1=NC(C)=NC(OC)=N1,6
+AISADLWIINCFJS,C1=CCCCC1,NC,phase1,NC,phase1,"3-Butenal, 2-methyl-4-(2,6,6-trimethyl-2-cyclohexen-1-yl)-",,CC1=CCCC(C)(C)C1C=CC(C)C=O,1
+AJXHXSKQHBJNPB,c1ccc(OCCOCCOc2ccccc2)cc1,,,,,RN,104104-12-3,COc1ccc(OCCOCCOc2ccc(OC)cc2)cc1,2
+AMSPWOYQQAWRRM,O=C(c1ccccc1)c1ccccc1,,,,,Metrafenone,220899-03-6,COc1cc(C)c(C(=O)c2c(OC)ccc(Br)c2C)c(OC)c1OC,2
+APSBXTVYXVQYAB,__ACYCLIC__,,,,,Docusate sodium,577-11-7,CCCCC(CC)COC(=O)CC(C(=O)OCC(CC)CCCC)S(=O)(=O)[O-].[Na+],2
+APTZNLHMIGJTEW,c1ccc(-c2cc[nH]n2)cc1,NC,phase1,NC,phase1,Pyraflufen-ethyl,129630-19-9,CCOC(=O)COC1=C(Cl)C=C(F)C(=C1)C1=NN(C)C(OC(F)F)=C1Cl,7
+ARUVKPQLZAKDPS,__ACYCLIC__,,,,,Copper sulfate,7758-98-7,O=S(=O)([O-])[O-].[Cu+2],2
+ARXJGSRGQADJSQ,__ACYCLIC__,NC,팀원A,NC,팀원A,203-539-1 1-Methoxy-2-propanol -; R10-67,107-98-2,COCC(C)O,6
+ASEFUFIKYOCPIJ,__ACYCLIC__,1,팀원A,2,팀원A,"Dodecanol, ethoxylated, monoether with sulfuric acid, sodium salt",9004-82-4,[Na+].CCCCCCCCCCCCOCCOS([O-])(=O)=O,1
+ATUOYWHBWRKTHZ,__ACYCLIC__,NC,팀원A,NC,팀원A,PROPANE 2.5-10.0,74-98-6,CCC,7
+AUHZEENZYGFFBQ,c1ccccc1,,,,,Mesitylene,,Cc1cc(C)cc(C)c1,4
+AVWQQPYHYQKEIZ,c1ccccc1.c1ccccc1.c1ccccc1,1,팀원A,2,팀원A,Sodium tetrapropylenebenzenesulfonate,11067-82-6,CCCCCCCCCCCCc1ccc(S(=O)(=O)[O-])cc1.CCCCCCCCCCCCc1cccc(S(=O)(=O)[O-])c1.CCCCCCCCCCCCc1ccccc1S(=O)(=O)[O-].[Na+].[Na+].[Na+],1
+AXISYYRBXTVTFY,__ACYCLIC__,,,,,Isopropyl Myristate 30.00,110-27-0,CCCCCCCCCCCCCC(=O)OC(C)C,2
+BASFCYQUMIYNBI,__ACYCLIC__,,,,,mol,7440-06-4,[Pt],2
+BEGLCMHJXHIJLR,O=c1ccs[nH]1,1,phase1,1,phase1,Methylisothiazolinone,2682-20-4,Cn1sccc1=O,22
+BERDEBHAJNAUOM,__ACYCLIC__,1,phase1,NC,phase1,dicopper oxide - <50,1317-39-1,[Cu].[O]=[Cu],2
+BFNBIHQBYMNNAN,__ACYCLIC__,,,,,Ammonium Sulfate,7783-20-2,O=S(=O)([O-])[O-].[NH4+].[NH4+],10
+BFWMWWXRWVJXSE,c1cc[c]([SnH]([c]2ccccc2)[c]2ccccc2)cc1,1,팀원A,2,팀원A,Triphenyltin hydroxide,76-87-9,O[Sn](C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1,2
+BGRDGMRNKXEXQD,O=c1ccc(=O)[nH][nH]1,2,팀원A,2,팀원A,Maleic hydrazide,123-33-1,O=C1NNC(=O)C=C1,4
+BHZWBQPHPLFZSV,c1ccccc1,,,,,Bromoxynil heptanoate,,CCCCCCC(=O)Oc1c(Br)cc(C#N)cc1Br,2
+BIRIWMCVLVTZND,c1ccc(Cc2cc(Cc3ccccc3)cc(Cc3ccccc3)c2)cc1,,,,,"Polyarylphenylether sulfate, ammonium salt",119432-41-6,CC(c1ccccc1)c1cc(C(C)c2ccccc2)c(OCCOS(=O)(=O)O)c(C(C)c2ccccc2)c1.N,2
+BJQHLKABXJIVAM,c1ccccc1,NC,팀원A,NC,팀원A,Di(-ethylhexyl)phthalate (DEHP,117-81-7,CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC,2
+BLFLLBZGZJTVJG,c1ccccc1,NC,팀원A,NC,팀원A,Benzocaine,94-09-7,CCOC(=O)c1ccc(N)cc1,2
+BNIILDVGGAEEIG,__ACYCLIC__,,,,,Disodium phosphate,,O=P([O-])([O-])O.[Na+].[Na+],3
+BPRJQFIHEGORJE,__ACYCLIC__,,,,,Dipropylene glycol,,CC(CO)OC(C)CO.CC(O)COCC(C)O,2
+BQOFWKZOCNGFEC,C1=CCC2CC2C1,,,,,3-Carene,,CC1=CCC2C(C1)C2(C)C,2
+BQYJATMQXGBDHF,c1ccc(Oc2ccc(C3(Cn4cncn4)OCCO3)cc2)cc1,2,팀원A,NC,팀원A,Difenoconazole,119446-68-3,CC1COC(CN2C=NC=N2)(O1)C1=C(Cl)C=C(OC2=CC=C(Cl)C=C2)C=C1,8
+BRHDDEIRQPDPMG,C1CCOC1,,,,,"Linalool, oxide",,C=CC1(C)CCC(C(C)(C)O)O1,1
+BSYNRYMUTXBXSQ,c1ccccc1,,,,,Aspirin,,CC(=O)Oc1ccccc1C(=O)O,1
+BSYVTEYKTMYBMK,C1CCOC1,,,,,Tetrahydrofurfuryl alcohol 30,97-99-4,OCC1CCCO1,3
+BTTRMCQEPDPCPA,O=C1OC(=O)c2ccccc21,,,,,"Additional Information – Contains trace amounts of Hexachlorobenzene, (CAS#",118-45-6,O=C1OC(=O)c2cc(Cl)ccc21,1
+BUHKXMOJBRUCDJ,__ACYCLIC__,,,,,"Sulfuric acid, mono-C10-16-alkyl esters, sodium salts <",68585-47-7,C.CCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],2
+BXGVVQADPFXGHD,C1=C2CCCCC2CCCC1,,,,,Widdrol,,CC1(C)CCC[C@@]2(C)CC[C@](C)(O)CC=C12,1
+BXNANOICGRISHX,O=c1ccc2ccccc2o1,NC,팀원A,NC,팀원A,Coumaphos,56-72-4,CCOP(=S)(OCC)OC1=CC2=C(C=C1)C(C)=C(Cl)C(=O)O2,12
+BXTIAIHRXRNRNY,c1ccccc1,,,,,Ethofumesate carboxylic acid,572912-13-1,CC(C)(C(=O)O)c1cc(OS(C)(=O)=O)ccc1O,1
+BXZVVICBKDXVGW,O=c1[nH]cnc2c1ncn2C1CCCO1,,,,,"2',3'-Dideoxyinosine",,O=c1[nH]cnc2c1ncn2[C@H]1CC[C@@H](CO)O1,1
+BYEAHWXPCBROCE,__ACYCLIC__,1,팀원A,1,팀원A,"1,1,1,3,3,3-Hexafluoro-2-propanol",920-66-1,OC(C(F)(F)F)C(F)(F)F,1
+CASLETQIYIQFTQ,O=S(=O)(Cc1cn[nH]c1)C1=NOCC1,NC,팀원A,NC,팀원A,Pyroxasulfone,447399-55-5,CN1N=C(C(CS(=O)(=O)C2=NOC(C)(C)C2)=C1OC(F)F)C(F)(F)F,4
+CBTVGIZVANVGBH,__ACYCLIC__,,,,,2-Amino-2-methyl-1-propanol,,CC(C)(N)CO,2
+CDBYLPFSWZWCQE,__ACYCLIC__,1,phase1,2,phase1,sodium carbonate >= 1 - <,497-19-8,O=C([O-])[O-].[Na+].[Na+],5
+CDOSHBSSFJOMGT,__ACYCLIC__,2A,phase1,2,phase1,Linalool,,C=CC(C)(O)CCC=C(C)C,10
+CFSRLACKBAWQFO,C1=CC2(CCC1)CCCC2,,,,,"4-Penten-1-one, 1-spiro[4.5]dec-6-en-7-yl-",224031-71-4,C=CCCC(=O)C1=CC2(CCCC2)CCC1,1
+CHHHXKFHOYLYRE,__ACYCLIC__,2A,phase1,NC,phase1,Potassium Sorbate,,C/C=C/C=C/C(=O)[O-].[K+],1
+CHIFOSRWCNZCFN,c1ccccc1,NC,팀원A,NC,팀원A,Pendimethalin,40487-42-1,CCC(CC)NC1=C(C=C(C)C(C)=C1[N+]([O-])=O)[N+]([O-])=O,5
+CHNQZRKUZPNOOH,__ACYCLIC__,NC,phase1,NC,phase1,Mancozeb,8018-01-7,[Mn++].[Zn++].[S-]C(=S)NCCNC([S-])=S.[S-]C(=S)NCCNC([S-])=S,10
+CKAPSXZOOQJIBF,c1ccccc1,,,,,Hexachlorobenzene,,Clc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,2
+CLSVJBIHYWPGQY,O=C1NC2(C=C1c1ccccc1)CCCCC2,,,,,"3-(2,5-Dimethylphenyl)-8-methoxy-2-oxo-1-azaspiro(4.5)dec-3-en-4-yl ethyl carbonate",203313-25-1,CCOC(=O)OC1=C(c2cc(C)ccc2C)C(=O)NC12CCC(OC)CC2,4
+COYBRKAVBMYYSF,c1ccc2ncccc2c1,2A,phase1,NC,phase1,Cloquintocet-mexyl,,CCCCCC(C)OC(=O)COc1ccc(Cl)c2cccnc12,1
+CPJSUEIXXCENMM,c1ccccc1,NC,phase1,NC,phase1,Phenacetin,,CCOc1ccc(NC(C)=O)cc1,1
+CRDAMVZIKSXKFV,__ACYCLIC__,2A,phase1,2,phase1,Farnesol,4602-84-0,CC(C)=CCC/C(C)=C/CC/C(C)=C/CO,2
+CRPUJAZIXJMDBK,C=C1CC2CCC1C2,2A,phase1,NC,phase1,Camphene,,C=C1C2CCC(C2)C1(C)C,7
+CRQQGFGUEAVUIL,c1ccccc1,1,팀원A,NC,팀원A,Chlorothalonil,1897-45-6,ClC1=C(Cl)C(C#N)=C(Cl)C(C#N)=C1Cl,38
+CTQNGGLPUBDAKN,c1ccccc1,,,,,Xylene,,Cc1ccccc1C,3
+CURLTUGMZLYLDI,__ACYCLIC__,,,,,Carbon dioxide 1.00,124-38-9,O=C=O,2
+CWBIFDGMOSWLRQ,__ACYCLIC__,,,,,Chrysotile,12001-29-5,O.[Mg+2].[Mg+2].[Mg+2].[O-][Si]([O-])([O-])O.[O-][Si]([O-])([O-])O,1
+CWFOCCVIPCEQCK,c1ccc(-c2ccc[nH]2)cc1,NC,phase1,NC,phase1,Chlorfenapyr,122453-73-0,CCOCN1C(=C(C#N)C(Br)=C1C(F)(F)F)C1=CC=C(Cl)C=C1,3
+CWGATOJEFAKFBK,O=C1OC2CC(CC=CC(OC3CCC(OC4CCCCO4)CO3)CC=CC=C3COC4CC=CC1C34)OC1(CCCCO1)C2,,,,,Avermectin B2a,65195-57-5,[H][C@@]12OCC3=C/C=C/[C@H](C)[C@H](O[C@@]4([H])C[C@H](OC)[C@@H](O[C@@]5([H])C[C@H](OC)[C@@H](O)[C@H](C)O5)[C@H](C)O4)C(C)=CC[C@]4([H])C[C@@]([H])(C[C@]5(C[C@H](O)[C@H](C)[C@]([H])(O5)[C@@H](C)CC)O4)OC(=O)[C@]([H])(C=C(C)[C@H]1O)[C@@]23O,1
+CWKFPEBMTGKLKX,O=C(Nc1ccccc1)c1cccc(Oc2ccccc2)n1,,,,,Picolinafen,,O=C(Nc1ccc(F)cc1)c1cccc(Oc2cccc(C(F)(F)F)c2)n1,1
+CXBMCYHAMVGWJQ,O=C(OCN1C(=O)C2=C(CCCC2)C1=O)C1CC1,NC,팀원A,NC,팀원A,Tetramethrin,7696-12-0,CC(C)=CC1C(C(=O)OCN2C(=O)C3=C(CCCC3)C2=O)C1(C)C,2
+CXENHBSYCFFKJS,__ACYCLIC__,,,,,Farnesene,,C=C/C(C)=C/C/C=C(\C)CCC=C(C)C,3
+CZRVDACSCJKRFL,O=C(c1ccccc1)c1c[nH][nH]c1=O,,,,,Pyrasulfotole,365400-11-9,Cc1[nH]n(C)c(=O)c1C(=O)c1ccc(C(F)(F)F)cc1S(C)(=O)=O,4
+DBMJMQXJHONAFJ,__ACYCLIC__,1,phase1,2,phase1,Sodium dodecyl sulfate,151-21-3,[Na+].CCCCCCCCCCCCOS([O-])(=O)=O,3
+DDXLVDQZPFLQMZ,__ACYCLIC__,,,,,Dodecyltrimethylammonium chloride,,CCCCCCCCCCCC[N+](C)(C)C.[Cl-],2
+DEWSJDIJFWQLOA,C1=CC2c3ccccc3OCC2CC1,,,,,Δ9-THC Acetate,23132-17-4,CCCCCc1cc(OC(C)=O)c2c(c1)OC(C)(C)[C@@H]1CCC(C)=C[C@@H]21,1
+DHNRXBZYEKSXIM,O=c1ccs[nH]1,1,phase1,1,phase1,5-Chloro-2-methyl-3(2H)-isothiazolone,26172-55-4,CN1SC(Cl)=CC1=O,11
+DJVKJGIZQFBFGS,__ACYCLIC__,2A,phase1,2,phase1,"N,N'-Bisacrylylcystamine",60984-57-8,C=CC(=O)NCCSSCCNC(=O)C=C,1
+DKPFZGUDAPQIHT,__ACYCLIC__,,,,,n-Butyl Acetate,,CCCCOC(C)=O,1
+DMSMPAJRVJJAGA,O=c1[nH]sc2ccccc12,1,팀원A,2,팀원A,"1,2-Benzisothiazolin-3-one",2634-33-5,O=C1NSC2=C1C=CC=C2,55
+DNBMPXLFKQCOBV,c1ccc2[nH]cnc2c1,,,,,Debacarb,62732-91-6,CCOCCOCCOC(=O)Nc1nc2ccccc2[nH]1,1
+DNIAPMSPPWPWGF,__ACYCLIC__,NC,팀원A,NC,팀원A,Propylene glycol 5-10,57-55-6,CC(O)CO,49
+DNUAYCRATWAJQE,O=c1cccnn1-c1ccccc1,,,,,Flufenpyr-ethyl,188489-07-8,CCOC(=O)COc1cc(-n2ncc(C(F)(F)F)c(C)c2=O)c(F)cc1Cl,7
+DOIRQSBPFJWKBE,c1ccccc1,,,,,Dibutyl Phthalate,,CCCCOC(=O)c1ccccc1C(=O)OCCCC,1
+DOJDQRFOTHOBEK,__ACYCLIC__,,,,,1-Octen-3-yl acetate,,C=CC(CCCCC)OC(C)=O,2
+DPXJVFZANSGRMM,__ACYCLIC__,NC,팀원A,NC,팀원A,CELLULOSE GUM,9004-32-4,CC(=O)O.O=CC(O)C(O)C(O)C(O)CO.[Na],2
+DQKNFTLRMZOAMG,O=[n+]1cc[nH]c2ccccc21,,,,,"2,3-Bis(bromomethyl)quinoxaline-1,4-dioxide",18080-67-6,O=[n+]1c(CBr)c(CBr)n([O-])c2ccccc21,2
+DQKWXTIYGWPGOO,c1ccccc1,NC,팀원A,NC,팀원A,Bromoxynil octanoate,1689-99-2,CCCCCCCC(=O)Oc1c(Br)cc(C#N)cc1Br,4
+DSSYKIVIOFKYAU,O=C1CC2CCC1C2,,,,,D-Camphor,,CC1(C)[C@@H]2CC[C@@]1(C)C(=O)C2,2
+DTDSAWVUFPGDMX,O=C1OC2(C=C1c1ccccc1)CCCCC2,,,,,Spirodiclofen,148477-71-8,CCC(C)(C)C(=O)OC1=C(c2ccc(Cl)cc2Cl)C(=O)OC12CCCCC2,4
+DTGKSKDOIYIVQL,C1CC2CCC1C2,,,,,Borneol,,CC1(C)C2CCC1(C)C(O)C2,3
+DUFVKSUJRWYZQP,O=C1NCCS1,NC,팀원A,NC,팀원A,fosthiazate,98886-44-3,CCOP(=O)(SC(C)CC)N1CCSC1=O,3
+DZNVIZQPWLDQHI,__ACYCLIC__,,,,,Citronellyl formate,,CC(C)=CCCC(C)CCOC=O,1
+FAMPSKZZVDUYOS,C1=CCCC=CCCC=CC1,,,,,Humulene,,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,3
+FARBQUXLIQOIDY,__ACYCLIC__,1,팀원A,1,팀원A,Dioctyldimethylammonium chloride,5538-94-3,[Cl-].CCCCCCCC[N+](C)(C)CCCCCCCC,4
+FATBKZJZAHWCSL,c1ccncc1,NC,팀원A,NC,팀원A,"2,3,5,6-Tetrachloropyridine",2402-79-1,Clc1cc(Cl)c(Cl)nc1Cl,2
+FCCCRBDJBTVFSJ,__ACYCLIC__,,,,,Isobutyric acid hydrazide (isobutyrohydrazide),3538-65-6,CCCC(=O)NN,1
+FEWJPZIEWOKRBE,__ACYCLIC__,1,phase1,2,phase1,+/--tartaric acid >= 20 - <,,O=C(O)C(O)C(O)C(=O)O,2
+FFSSWMQPCJRCRV,c1ccc2ncccc2c1,NC,phase1,NC,phase1,Quinclorac,84087-01-4,OC(=O)C1=C(Cl)C=CC2=CC(Cl)=CN=C12,7
+FGBAVQUHSKYMTC,C(C=Cc1ccc2ccccc2[nH+]1)=Cc1ccccc1,,,,,Molecular Weight: 471.98,181885-68-7,CC[n+]1c(/C=C/C=C/c2ccc(N(C)C)cc2)ccc2cc(N(C)C)ccc21.[O-][Cl+3]([O-])([O-])[O-],1
+FIPWRIJSWJWJAI,c1ccc2c(c1)OCO2,2,팀원A,NC,팀원A,Piperonyl butoxide,51-03-6,CCCCOCCOCCOCc1cc2c(cc1CCC)OCO2,29
+FIUFLISGGHNPSM,c1ccccc1,,,,,3-(4-Methoxyphenyl)propionic acid,,COc1ccc(CCC(=O)O)cc1,1
+FJEJFOWXBCEFJR,[c]1ccc(Cc2cc[c]cc2)cc1,,,,,"4,4'-Methylenediphenyl",,[c]1ccc(Cc2cc[c]cc2)cc1,1
+FOGYNLXERPKEGN,c1ccc(CCOc2ccccc2)cc1,,,,,Lignosulfonic acid,8062-15-5,COc1cc(CCCS(=O)(=O)O)ccc1OC(Cc1cccc(OC)c1O)CS(=O)(=O)O,2
+FOUWCSDKDDHKQP,O=C1COc2ccc(N3C(=O)C4=C(CCCC4)C3=O)cc2N1,NC,팀원A,NC,팀원A,Flumioxazin,103361-09-7,FC1=CC2=C(C=C1N1C(=O)C3=C(CCCC3)C1=O)N(CC#C)C(=O)CO2,4
+FOXFZRUHNHCZPX,O=c1cnnc[nH]1,NC,팀원A,NC,팀원A,Metribuzin (active ingredient),21087-64-9,CSc1nnc(C(C)(C)C)c(=O)n1N,9
+FQMZVFJYMPNUCT,__ACYCLIC__,,,,,Geranyl formate,,CC(C)=CCC/C(C)=C/COC=O,1
+FQTLCLSUCSAZDY,__ACYCLIC__,2A,phase1,NC,phase1,Nerolidol,,C=CC(C)(O)CC/C=C(\C)CCC=C(C)C,1
+FUHMZYWBSHTEDZ,c1cnc(Oc2cccc(Oc3ncccn3)c2)nc1,2,팀원A,NC,팀원A,Bispyribac-sodium,125401-92-5,[Na+].COC1=CC(OC)=NC(OC2=CC=CC(OC3=NC(OC)=CC(OC)=N3)=C2C([O-])=O)=N1,8
+FUWUEFKEXZQKKA,O=c1cccccc1,,,,,Hinokitiol,,CC(C)c1cccc(O)c(=O)c1,1
+FWZTTZUKDVJDCM,C1CCC(OC2CCCO2)OC1,,,,,"Iron Oxide, Saccharated 0-4",8047-67-4,O.O.O.OC[C@H]1O[C@@](CO)(O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O.[Fe+3].[Fe+3].[Fe+3].[Fe+3].[Fe+3].[Na+].[Na+].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[OH-],2
+FXHOOIRPVKKKFG,__ACYCLIC__,,,,,Dimethylacetamide,127-19-5,CC(=O)N(C)C,1
+FYQGBXGJFWXIPP,__ACYCLIC__,2,팀원A,NC,팀원A,s-Hydroprene,65733-18-8,CCOC(=O)/C=C(C)/C=C/C[C@@H](C)CCCC(C)C,2
+FZXISNSWEXTPMF,c1ncncn1,NC,팀원A,NC,팀원A,Terbutylazine,5915-41-3,CCNC1=NC(NC(C)(C)C)=NC(Cl)=N1,4
+GABUSZPTCJGKGB,c1ccccc1,,,,,MCPB sodium salt (active ingredient),6062-26-6,Cc1cc(Cl)ccc1OCCCC(=O)[O-].[Na+],2
+GBOYJIHYACSLGN,O=C(NCc1ccccn1)c1ccccc1,NC,팀원A,NC,팀원A,Fluopicolide,239110-15-7,FC(F)(F)C1=CN=C(CNC(=O)C2=C(Cl)C=CC=C2Cl)C(Cl)=C1,2
+GCKZANITAMOIAR,O=C1OC2CC(CC=CC(OC3CCC(OC4CCCCO4)CO3)CC=CC=C3COC4CC=CC1C34)OC1(C=CCCO1)C2.c1ccccc1,1,팀원A,NC,팀원A,Emamectin benzoate,155569-91-8,CC[C@H](C)[C@H]1O[C@]2(C=C[C@@H]1C)C[C@@H]1C[C@@H](C/C=C(\C)[C@@H](O[C@H]3C[C@H](OC)[C@@H](O[C@H]4C[C@H](OC)[C@@H](NC)[C@H](C)O4)[C@H](C)O3)[C@@H](C)/C=C/C=C3\CO[C@@H]4[C@H](O)C(C)=C[C@@H](C(=O)O1)[C@]34O)O2.O=C(O)c1ccccc1,6
+GEZOTWYUIKXWOA,__ACYCLIC__,2,팀원A,2,팀원A,Copper(II) carbonate,1184-64-1,[Cu++].[O-]C([O-])=O,2
+GFFXZLZWLOBBLO,C=C1CCOC1n1cccnc1=O,,,,,anhydrous,,Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)/C2=C\F)c(=O)n1,2
+GFHNAMRJFCEERV,__ACYCLIC__,,,,,Cobalt (II) Chloride Hexahydrate CoCl₂·6H₂O 237.93 g/mol,,O.O.O.O.O.O.[Cl-].[Cl-].[Co+2],2
+GGKQIOFASHYUJZ,c1cnc2ncnn2c1,NC,팀원A,NC,팀원A,ametoctradin,865318-97-4,CCCCCCCCc1c(CC)nc2ncnn2c1N,8
+GHPGOEFPKIHBNM,__ACYCLIC__,,,,,Antimony Trioxide Grp. 2B: Possible human carc. International Agency for Research on Cancer,1309-64-4,[O-2].[O-2].[O-2].[Sb+3].[Sb+3],2
+GHVNFZFCNZKVNT,__ACYCLIC__,2,팀원A,2,팀원A,Capric Acid (Decanoic acid),334-48-5,CCCCCCCCCC(O)=O,4
+GIRXTOSJOKKBHO,C1=CCCCC1,,,,,Ethyl beta-apo-8'-carotenoate,,CCOC(=O)/C(C)=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C1=C(C)CCCC1(C)C,2
+GKKDCARASOJPNG,C1OCOCOCO1,NC,phase1,NC,phase1,"2,4,6,8-Tetramethyl-1,3,5,7-tetroxocane",108-62-3,CC1OC(C)OC(C)OC(C)O1,9
+GLBLPMUBLHYFCW,O=S(=O)(Nc1nc2ncccn2n1)c1cccnc1,NC,팀원A,NC,팀원A,Pyroxsulam,422556-08-9,COC1=NC2=NC(NS(=O)(=O)C3=C(OC)N=CC=C3C(F)(F)F)=NN2C(OC)=C1,4
+GLZPCOQZEFWAFX,__ACYCLIC__,1,phase1,2,phase1,Geraniol 5.00,106-24-1,CC(C)=CCC/C(C)=C/CO,10
+GMDAWUSGGYKEBW,__ACYCLIC__,,,,,"iso-Tridecyl alcohol, ethoxylated, phosphated (Poly(oxy-1,2-ethanediyl), alpha-isotridecyl-omega-hydroxy-, phosphate)",,CC(C)CCCCCCCCCCOCCO.O=P(O)(O)O,1
+GNHDVXLWBQYPJE,O=c1cc[nH]c(=O)n1-c1ccccc1,NC,팀원A,NC,팀원A,Saflufenacil,372137-35-4,CC(C)N(C)S(=O)(=O)NC(=O)c1cc(-n2c(=O)cc(C(F)(F)F)n(C)c2=O)c(F)cc1Cl,9
+GNSKLFRGEWLPPA,__ACYCLIC__,,,,,from Monopotassium Phosphate not listed,7778-77-0,O=P([O-])(O)O.[K+],5
+GOENIMGKWNZVDA,O=C1CC2C(=CC3C4CC(OC5CCCCO5)CC4CCC23)C(=O)CC(OC2CCCCO2)CCCCO1,,,,,Spinetoram,,CCO[C@@H]1[C@@H](OC)[C@H](C)O[C@@H](OC2C[C@H]3CC[C@H]4C5CC(=O)O[C@@H](CC)CCC[C@H](O[C@H]6CC[C@H](N(C)C)[C@@H](C)O6)[C@@H](C)C(=O)C5=C[C@H]4[C@@H]3C2)[C@@H]1OC,4
+GOFJDXZZHFNFLV,O=C(Nc1ccccc1)c1cn[nH]c1,NC,팀원A,NC,팀원A,Penflufen,494793-67-8,CC(C)CC(C)C1=CC=CC=C1NC(=O)C1=C(F)N(C)N=C1C,16
+GOOHAUXETOMSMM,C1CO1,,,,,"1,2-Propylene oxide",75-56-9,CC1CO1,3
+GPXLRLUVLMHHIK,O=C(Nc1ccccc1)Nc1ccncc1,,,,,Forchlorfenuron 1 not set not set,68157-60-8,O=C(Nc1ccccc1)Nc1ccnc(Cl)c1,2
+GRWFGVWFFZKLTI,C1=CC2CC(C1)C2,1,phase1,2,phase1,(+-)-alpha-Pinene,80-56-8,CC1=CCC2CC1C2(C)C,17
+GRYLNZFGIOXLOG,__ACYCLIC__,1,phase1,1,phase1,NITRIC ACID,7697-37-2,O=[N+]([O-])O,2
+GSEJCLTVZPLZKY,__ACYCLIC__,2A,phase1,NC,phase1,Triethanolamine,,OCCN(CCO)CCO,1
+GTIHEHGCHKJTCQ,c1ccc(Cc2ccccc2)cc1,,,,,"Benzene, 1-(1-methylethyl)-4-(1-phenylethyl)-",2320-06-1,CC(C)C1=CC=C(C=C1)C(C)C1=CC=CC=C1,1
+GWEVSGVZZGPLCZ,__ACYCLIC__,NC,phase1,NC,phase1,Titanium dioxide <,13463-67-7,[O]=[Ti]=[O],9
+GWHJZXXIDMPWGX,c1ccccc1,2,팀원A,2,팀원A,"1,2,4-Trimethylbenzene",95-63-6,Cc1ccc(C)c(C)c1,7
+GYSSRZJIHXQEHQ,O=C(Nc1ccccc1)C1=COCCS1,NC,팀원A,NC,팀원A,carboxin,5234-68-4,CC1=C(C(=O)Nc2ccccc2)SCCO1,11
+GYXHHICIFZSKKZ,__ACYCLIC__,2A,phase1,2,phase1,2-Mercaptoacetamide,758-08-7,NC(=O)CS,1
+HAORKNGNJCEJBX,c1ccc(Nc2nccc(C3CC3)n2)cc1,,,,,mol,121552-61-2,Cc1cc(C2CC2)nc(Nc2ccccc2)n1,4
+HBOMLICNUCNMMY,O=c1ccn(C2CCCO2)c(=O)[nH]1,,,,,3'-Azido-3'-Deoxythymidine,,Cc1cn([C@H]2C[C@H](N=[N+]=[N-])[C@@H](CO)O2)c(=O)[nH]c1=O,5
+HDHLIWCXDDZUFH,c1ncnc(NC2CC2)n1,NC,팀원A,NC,팀원A,Cybutryne,28159-98-0,CSC1=NC(NC(C)(C)C)=NC(NC2CC2)=N1,3
+HEMHJVSKTPXQMS,__ACYCLIC__,1,phase1,1,phase1,Sodium hydroxide ≤,1310-73-2,[Na+].[OH-],13
+HFCYZXMHUIHAQI,O=C(Nc1ccccc1)Nc1cnns1,2,팀원A,2,팀원A,Thidiazuron,51707-55-2,O=C(Nc1ccccc1)Nc1cnns1,7
+HFPZCAJZSCWRBC,c1ccccc1,NC,phase1,NC,phase1,P-Cymene,,Cc1ccc(C(C)C)cc1,9
+HFQQZARZPUDIFP,c1ccccc1,1,phase1,2,phase1,SODIUM DODECYLBENZENESULFONATE,25155-30-0,CCCCCCCCCCCCc1ccccc1S(=O)(=O)[O-].[Na+],3
+HHSPVTKDOHQBKF,__ACYCLIC__,,,,,Dolomite granules,16389-88-1,O=C([O-])[O-].O=C([O-])[O-].[Ca+2].[Mg+2],4
+HIGQPQRQIQDZMP,__ACYCLIC__,,,,,Geranyl Acetate,,CC(=O)OC/C=C(\C)CCC=C(C)C,4
+HJJVPARKXDDIQD,c1ccc(C2(Cn3cncn3)CCCO2)cc1,NC,팀원A,NC,팀원A,Bromuconazole,116255-48-2,Clc1ccc(C2(Cn3cncn3)CC(Br)CO2)c(Cl)c1,8
+HJUFTIJOISQSKQ,c1ccc(Oc2ccccc2)cc1,NC,팀원A,NC,팀원A,Fenoxycarb,72490-01-8,CCOC(=O)NCCOC1=CC=C(OC2=CC=CC=C2)C=C1,4
+HKIOYBQGHSTUDB,O=C1NC(=O)c2ccccc21,2,팀원A,NC,팀원A,Folpet,133-07-3,O=C1c2ccccc2C(=O)N1SC(Cl)(Cl)Cl,3
+HLZCHRAMVPCKDU,c1ccccc1,2,팀원A,NC,팀원A,Sodium dicamba,1982-69-0,[Na+].COC1=C(C([O-])=O)C(Cl)=CC=C1Cl,3
+HNXNKTMIVROLTK,__ACYCLIC__,,,,,"Decanamide, N,N-dimethyl-",14433-76-2,CCCCCCCCCC(=O)N(C)C,3
+HOKKPVIRMVDYPB,N=C1SCCN1Cc1cccnc1,NC,팀원A,NC,팀원A,Thiacloprid,111988-49-9,ClC1=CC=C(CN2CCSC2=N/C#N)C=N1,1
+HQABUPZFAYXKJW,__ACYCLIC__,1,phase1,1,phase1,Butylamine,109-73-9,CCCCN,1
+HQKQRXZEXPXXIG,C1CC2CC3CCCC3(C1)C2,,,,,Cedryl acetate,77-54-3,CC(=O)O[C@]1(C)CC[C@@]23C[C@@H]1C(C)(C)[C@@H]2CC[C@H]3C,1
+HQYZTGGAEAFKIO,c1csnn1,,,,,"N’-1,2,3-thiadiazol-5-ylurea",,NC(=O)Nc1cnns1,1
+HRBKVYFZANMGRE,c1ccncc1,NC,팀원A,NC,팀원A,Chlorpyrifos-Methyl,5598-13-0,COP(=S)(OC)Oc1nc(Cl)c(Cl)cc1Cl,5
+HRZFUMHJMZEROT,__ACYCLIC__,1,phase1,NC,phase1,Sodium metabisulfite (SMS),7681-57-4,[Na+].[Na+].[O-]S(=O)S([O-])(=O)=O,3
+HSXUHWZMNJHFRV,c1ccc(N=Nc2cccc3ccccc23)cc1,,,,,Other/inert ingredients,8042-47-5,O=S(=O)([O-])c1cc(S(=O)(=O)[O-])c2c(N=Nc3ccccc3)c(O)ccc2c1.[Na+].[Na+],1
+HTPQPMPFXUWUOT,O=C1C=Cc2ccccc2C1=NNc1ccc(N=Nc2ccccc2)cc1,,,,,Oil Red O,,O=C1C=Cc2ccccc2/C1=N/Nc1ccc(N=Nc2ccccc2)cc1,2
+HUHGPYXAVBJSJV,C1NCNCN1,2,팀원A,NC,팀원A,"Hexahydro-,3,5-tris(2-hydroxyethyl)-s-triazine",4719-04-4,OCCN1CN(CCO)CN(CCO)C1,2
+HUMNYLRZRPPJDN,c1ccccc1,2A,phase1,NC,phase1,Benzaldehyde,,O=Cc1ccccc1,1
+HWATZEJQIXKWQS,O=C(Nc1ncccn1)NS(=O)(=O)c1ccccn1,,,,,Active Ingredient: Flazasulfuron* 25 Not established,104040-78-0,COc1cc(OC)nc(NC(=O)NS(=O)(=O)c2ncccc2C(F)(F)F)n1,2
+HYVWIQDYBVKITD,c1ccccc1,2,phase1,2,phase1,Tolyfluanid,731-27-1,CN(C)S(=O)(=O)N(SC(F)(Cl)Cl)C1=CC=C(C)C=C1,1
+HZAXFHJVJLSVMW,__ACYCLIC__,1,팀원A,1,팀원A,aminoethanol 1,141-43-5,NCCO,2
+HZJKXKUJVSEEFU,c1ccc(CCn2cncn2)cc1,2,팀원A,NC,팀원A,Myclobutanil,88671-89-0,CCCCC(CN1C=NC=N1)(C#N)C1=CC=C(Cl)C=C1,4
+HZRSNVGNWUDEFX,c1ccc(COc2ccn(-c3ccccc3)n2)cc1,NC,팀원A,2,팀원A,Pyraclostrobin,175013-18-0,COC(=O)N(OC)c1ccccc1COc1ccn(-c2ccc(Cl)cc2)n1,24
+IAJOBQBIJHVGMQ,__ACYCLIC__,,,,,Glufosinate,,CP(=O)(O)CCC(N)C(=O)O,1
+IANUJLZYFUDJIH,O=C(COc1nncs1)Nc1ccccc1,NC,팀원A,NC,팀원A,Identifiers,142459-58-3,CC(C)N(C(=O)COc1nnc(C(F)(F)F)s1)c1ccc(F)cc1,7
+IAYPIBMASNFSPL,C1CO1,,,,,Ethylene oxide,75-21-8,C1CO1,3
+IBSNKSODLGJUMQ,c1ccc(COc2ccccn2)cc1,,,,,Picoxystrobin,117428-22-5,CO/C=C(/C(=O)OC)c1ccccc1COc1cccc(C(F)(F)F)n1,6
+IBSREHMXUMOFBB,O=C1OC2CC(CC=CC(OC3CCC(OC4CCCCO4)CO3)CC=CC=C3COC4CC=CC1C34)OC1(C=CCCO1)C2.O=C1OC2CC(CC=CC(OC3CCC(OC4CCCCO4)CO3)CC=CC=C3COC4CC=CC1C34)OC1(C=CCCO1)C2,NC,팀원A,1,팀원A,Abamectin,71751-41-2,CC[C@H](C)[C@H]1O[C@]2(C=C[C@@H]1C)C[C@@H]1C[C@@H](C/C=C(\C)[C@@H](O[C@H]3C[C@H](OC)[C@@H](O[C@H]4C[C@H](OC)[C@@H](O)[C@H](C)O4)[C@H](C)O3)[C@@H](C)/C=C/C=C3\CO[C@@H]4[C@H](O)C(C)=C[C@@H](C(=O)O1)[C@]34O)O2.CO[C@H]1C[C@H](O[C@H]2[C@H](C)O[C@@H](O[C@@H]3/C(C)=C/C[C@@H]4C[C@@H](C[C@]5(C=C[C@H](C)[C@@H](C(C)C)O5)O4)OC(=O)[C@@H]4C=C(C)[C@@H](O)[C@H]5OC/C(=C\C=C\[C@@H]3C)[C@]54O)C[C@@H]2OC)O[C@@H](C)[C@@H]1O,16
+IDGRPSMONFWWEK,c1ccccc1,NC,팀원A,NC,팀원A,2-Ethylhexyl (4-chloro-2-methylphenoxy)acetate,29450-45-1,CCCCC(CC)COC(=O)COC1=C(C)C=C(Cl)C=C1,2
+IDOWTHOLJBTAFI,O=C(Nc1ccccc1)Oc1ccccc1,NC,팀원A,NC,팀원A,phenmedipham (ISO); methyl 3-(3-methylcarbaniloyloxy)carbanilate 15,13684-63-4,COC(=O)Nc1cccc(OC(=O)Nc2cccc(C)c2)c1,3
+IDQBJILTOGBZCR,__ACYCLIC__,,,,,Propylene glycol n-butyl ether (Dowanol PnB),29387-86-8,CCCCOC(O)CC,1
+IGODOXYLBBXFDW,C1=CCCCC1,NC,팀원A,NC,팀원A,Terpinyl Acetate (mixture of isomers),80-26-2,CC(=O)OC(C)(C)C1CC=C(C)CC1,1
+IGOWHGRNPLFNDJ,__ACYCLIC__,NC,팀원A,NC,팀원A,cis-Tricos-9-ene,27519-02-4,CCCCCCCCCCCCCC=C/CCCCCCCC,3
+IHPKGUQCSIINRJ,__ACYCLIC__,NC,팀원A,2,팀원A,"beta-OCIMENE, (3E)-",3338-55-4,C=C/C(C)=C/CC=C(C)C,5
+IJDNQMDRQITEOD,__ACYCLIC__,NC,팀원A,NC,팀원A,BUTANE 10.0-20.0,106-97-8,CCCC,5
+IJGRMHOSHXDMSA,__ACYCLIC__,,,,,Nitrogen,,N#N,2
+IMUDHTPIFIBORV,C1CNCCN1,,,,,Aminoethylpiperazine,,NCCN1CCNCC1,2
+INISTDXBRIBGOC,O=C(CNc1ccccc1)OCc1cccc(Oc2ccccc2)c1,NC,팀원A,2,팀원A,Tau-fluvalinate (-No),102851-06-9,CC(C)[C@@H](Nc1ccc(C(F)(F)F)cc1Cl)C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,5
+IOYNQIMAUDJVEI,O=C1C=CCC(C2CCOCC2)C1,NC,팀원A,NC,팀원A,Tepraloxydim,149979-41-9,CCC(=NOCC=CCl)C1=C(O)CC(CC1=O)C1CCOCC1,1
+IQVNEKKDSLOHHK,C(=Cc1ccccc1)C(C=Cc1ccccc1)=NNC1=NCCCN1,2,팀원A,NC,팀원A,Content (W/W),67485-29-4,CC1(C)CN=C(NN=C(C=Cc2ccc(C(F)(F)F)cc2)C=Cc2ccc(C(F)(F)F)cc2)NC1,4
+IRCMYGHHKLLGHV,c1ccc2c(c1)CCO2,NC,phase1,NC,phase1,Ethofumesate (ISO),26225-79-6,CCOC1Oc2ccc(OS(C)(=O)=O)cc2C1(C)C,9
+ISRUGXGCCGIOQO,c1ccccc1,NC,팀원A,NC,팀원A,Propoxur,114-26-1,CNC(=O)OC1=CC=CC=C1OC(C)C,4
+ISWSIDIOOBJBQZ,c1ccccc1,1,팀원A,1,팀원A,Phenol < 3 5 ppm 5 ppm NA IARC – 3,108-95-2,Oc1ccccc1,6
+IUQAXCIUEPFPSF,O=C1CCCC(=O)C1C(=O)c1ccccc1,,,,,Tembotrione,335104-84-2,CS(=O)(=O)c1ccc(C(=O)C2C(=O)CCCC2=O)c(Cl)c1COCC(F)(F)F,2
+IUQJDHJVPLLKFL,c1ccccc1,1,phase1,NC,phase1,"(2,4-Dichlorophenoxy)acetic acid dimethylamine",2008-39-1,C[NH2+]C.[O-]C(=O)COC1=C(Cl)C=C(Cl)C=C1,21
+IUTPYMGCWINGEY,c1ccc(-c2ccccc2)cc1,,,,,PCB 118,31508-00-6,Clc1ccc(-c2cc(Cl)c(Cl)cc2Cl)cc1Cl,1
+IVNMXYOTNCGNFX,C1CCOC1,,,,,Tetrahydrofurfuryl,,[CH2]C1CCCO1,2
+IVSZLXZYQVIEFR,c1ccccc1,NC,팀원A,2,팀원A,Xylene,1330-20-7,Cc1cccc(C)c1,8
+IWEDIXLBFLAXBO,c1ccccc1,1,팀원A,NC,팀원A,Dicamba,1918-00-9,COc1c(Cl)ccc(Cl)c1C(=O)O,12
+IXSZQYVWNJNRAL,c1ccc(C2=NC(c3ccccc3)CO2)cc1,NC,팀원A,NC,팀원A,Etoxazole,153233-91-1,CCOC1=C(C=CC(=C1)C(C)(C)C)C1COC(=N1)C1=C(F)C=CC=C1F,6
+IYMLUHWAJFXAQP,O=C(c1cn[nH]c1)c1cccc(C2=NOCC2)c1,,,,,Topramezone,210631-68-8,CN1N=CC(C(=O)C2=C(C)C(C3=NOCC3)=C(C=C2)S(C)(=O)=O)=C1O,4
+IZWPGJFSBABFGL,__ACYCLIC__,1,팀원A,2,팀원A,Sodium -[methyloleoylamino]ethane-1-sulphonate 1,137-20-2,CCCCCCCC/C=C\CCCCCCCC(=O)N(C)CCS(=O)(=O)[O-].[Na+],3
+JBDHZKLJNAIJNC,c1ccc(Oc2ccccn2)cc1,NC,phase1,NC,phase1,Clodinafop-propargyl,105512-06-9,C#CCOC(=O)[C@@H](C)Oc1ccc(Oc2ncc(Cl)cc2F)cc1,2
+JDRFUUBRGGDEIZ,c1ccccc1,2A,phase1,NC,phase1,Dicamba-dimethylammonium,2300-66-5,CNC.COC1=C(C(O)=O)C(Cl)=CC=C1Cl,18
+JEPWTUCYPWOCQV,c1cc2c(cc1C1OCCO1)CCCC2,,,,,Eau de brouts absolute (bitter orange 'brouts' distillation water extract),131812-67-4,CC1COC(C)(c2ccc3c(c2)C(C)(C)CCC3(C)C)O1,1
+JHIVVAPYMSGYDF,O=C1CCCCC1,1,팀원A,2,팀원A,Cyclohexanone,108-94-1,O=C1CCCCC1,4
+JHJLBTNAGRQEKS,__ACYCLIC__,,,,,sodium bromide,7647-15-6,[Br-].[Na+],2
+JJLJMEJHUUYSSY,__ACYCLIC__,1,팀원A,NC,팀원A,Copper(II) hydroxide,20427-59-2,[Cu+2].[OH-].[OH-],2
+JLHMJWHSBYZWJJ,O=S1C=CC=N1,1,phase1,1,phase1,isothiazol--one,,O=S1C=CC=N1,2
+JLYFCTQDENRSOL,c1ccsc1,NC,팀원A,NC,팀원A,Dimethenamid-P,163515-14-8,COC[C@H](C)N(C(=O)CCl)c1c(C)csc1C,5
+JOZKFWLRHCDGJA,__ACYCLIC__,,,,,Citronellyl Acetate,150-84-5,CC(=O)OCCC(C)CCC=C(C)C,2
+JPMIIZHYYWMHDT,O=c1ccs[nH]1,1,팀원A,1,팀원A,2-n-Octyl-4-isothiazolin-3-one,26530-20-1,CCCCCCCCn1sccc1=O,5
+JRQGDDUXDKCWRF,O=C([N-]S(=O)(=O)c1ccccc1)n1nc[nH]c1=O,NC,팀원A,NC,팀원A,Propoxycarbazone-sodium,181274-15-7,CCCOc1nn(C(=O)[N-]S(=O)(=O)c2ccccc2C(=O)OC)c(=O)n1C.[Na+],5
+JSNRRGGBADWTMC,__ACYCLIC__,,,,,beta-Farnesene,,C=CC(=C)CC/C=C(\C)CCC=C(C)C,1
+JTEGQNOMFQHVDC,O=c1ncccn1C1CSCO1,2A,phase1,2,phase1,Lamivudine,134678-17-4,Nc1ccn([C@@H]2CS[C@H](CO)O2)c(=O)n1,4
+JUJFQMPKBJPSFZ,O=C([N-]S(=O)(=O)c1ccccc1)Nc1ncncn1,NC,팀원A,NC,팀원A,Iodosulfuron methyl ester sodium salt,144550-36-7,[Na+].COC(=O)C1=C(C=C(I)C=C1)S(=O)(=O)[N-]C(=O)NC1=NC(OC)=NC(C)=N1,6
+JVDDTUQPPBUQDD,O=C1C(Cc2ccccc2)CCN2CCCN12,,,,,mol,,N[C@@]1(Cc2ccccc2)CCN2CC[C@@H](C=O)N2C1=O,6
+JVGWUGTWQIAGHJ,O=C1OC2CC(CC=CC(OC3CCC(OC4CCCCO4)CO3)CC=CC=C3COC4CC=CC1C34)OC1(CCCCO1)C2,,,,,Other ingredients (NE - not established),65195-53-1,CC[C@H](C)[C@H]1O[C@@]2(C[C@@H]3C[C@@H](CC=C(C)[C@@H](O[C@H]4C[C@H](OC)[C@@H](O[C@H]5C[C@H](OC)[C@@H](O)[C@H](C)O5)[C@H](C)O4)[C@@H](C)C=CC=C4/CO[C@@H]5[C@H](OC)C(C)=C[C@@H](C(=O)O3)[C@]45O)O2)C[C@H](O)[C@@H]1C,1
+JWUCHKBSVLQQCO,c1ccc(C(Cn2cncn2)c2ccccc2)cc1,NC,팀원A,NC,팀원A,Flutriafol,76674-21-0,OC(CN1C=NC=N1)(C1=CC=C(F)C=C1)C1=C(F)C=CC=C1,4
+JXSJBGJIGXNWCI,__ACYCLIC__,NC,팀원A,NC,팀원A,malathion (ISO) [containing ≤ 0,121-75-5,CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,6
+JYCQQPHGFMYQCF,c1ccccc1,2,팀원A,2,팀원A,Triton X-100,9002-93-1,CC(C)(C)CC(C)(C)C1=CC=C(OCCO)C=C1,3
+JYGLAHSAISAEAL,O=C1c2ccccc2C(=O)C1C(=O)C(c1ccccc1)c1ccccc1,NC,팀원A,NC,팀원A,Diphacinone,82-66-6,O=C1c2ccccc2C(=O)C1C(=O)C(c1ccccc1)c1ccccc1,3
+JYIMWRSJCRRYNK,__ACYCLIC__,NC,팀원A,NC,팀원A,Sodium aluminosilicate,1344-00-9,O.[Al+3].[Al+3].[Na+].[Na+].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Si+4],2
+JZCCFEFSEZPSOG,__ACYCLIC__,,,,,Copper Sulfate Pentahydrate CuSO₄·5H₂O 249.68 g/mol,,O.O.O.O.O.O=S(=O)([O-])[O-].[Cu+2],2
+KAATUXNTWXVJKI,O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,NC,팀원A,2,팀원A,Cypermethrin,52315-07-8,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)C1=CC=CC(OC2=CC=CC=C2)=C1,22
+KDPSHFVSTJYAJQ,C1CCCCC1,,,,,cis-1-Ethoxy-4-(2-methylbutan-2-yl)cyclohexane,181258-87-7,CCO[C@H]1CC[C@H](CC1)C(C)(C)CC,1
+KEIXJOCOXNOKHI,c1ccccc1,,,,,"Dimethylamine Salt of -(2,4-Dichlorphenoxy) 23 True",2758-42-1,CNC.O=C(O)CCCOc1ccc(Cl)cc1Cl,2
+KEQGZUUPPQEDPF,O=C1CNC(=O)N1,2,팀원A,1,팀원A,"1,3-Dichloro-5,5-dimethylhydantoin",118-52-5,CC1(C)N(Cl)C(=O)N(Cl)C1=O,2
+KETSPIPODMGOEJ,C1CCCCC1,,,,,Phytate Persodium,,O=P([O-])([O-])OC1C(OP(=O)([O-])[O-])C(OP(=O)([O-])[O-])C(OP(=O)([O-])[O-])C(OP(=O)([O-])[O-])C1OP(=O)([O-])[O-].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+],2
+KFSLWBXXFJQRDL,__ACYCLIC__,1,팀원A,1,팀원A,Peracetic Acid,79-21-0,CC(=O)OO,7
+KFZMGEQAYNKOFK,__ACYCLIC__,1,팀원A,NC,팀원A,Isopropanol -No,67-63-0,CC(C)O,8
+KGBXLFKZBHKPEV,__ACYCLIC__,NC,phase1,NC,phase1,Boric acid (H3BO3),10043-35-3,OB(O)O,1
+KGOIAFZMMLWXLM,__ACYCLIC__,,,,,Kaolin,1332-58-7,O.O.[Al+3].[Al+3].[O-][Si]([O-])([O-])O[Si]([O-])([O-])[O-],3
+KJPRLNWUNMBNBZ,c1ccccc1,2,팀원A,2,팀원A,3-Phenylprop-2-enal,104-55-2,O=CC=CC1=CC=CC=C1,2
+KKCXRELNMOYFLS,__ACYCLIC__,NC,팀원A,NC,팀원A,copper oxide - <3,1317-38-0,[Cu+2].[O-2],3
+KPUREKXXPHOJQT,O=C1CCCC(=O)C1C(=O)c1ccccc1,NC,팀원A,NC,팀원A,Mesotrione,104206-82-8,CS(=O)(=O)c1ccc(C(=O)C2C(=O)CCCC2=O)c([N+](=O)[O-])c1,17
+KRFJLUBVMFXRPN,__ACYCLIC__,1,phase1,NC,phase1,Cuprous oxide,1317-39-1,[O--].[Cu+].[Cu+],2
+KRHYYFGTRYWZRS,__ACYCLIC__,,,,,"Hydrofluoricacid T,C,R34",7664-39-3,F,2
+KRJHRNUTLDTSKY,C1CCCCC1,,,,,"Diethyl trans-1,4-cyclohexanedicarboxylate",19145-96-1,CCOC(=O)[C@H]1CC[C@@H](CC1)C(=O)OCC,1
+KRKNYBCHXYNGOX,__ACYCLIC__,2,팀원A,NC,팀원A,Citric acid,77-92-9,OC(=O)CC(O)(CC(O)=O)C(O)=O,2
+KUAZQDVKQLNFPE,__ACYCLIC__,2,팀원A,2,팀원A,Bis(dimethylaminothiocarbonyl) disulfide,137-26-8,CN(C)C(=S)SSC(=S)N(C)C,8
+KVDJTXBXMWJJEF,O=C(NCCc1ccccn1)c1ccccc1,,,,,Fluopyram,658066-35-4,O=C(NCCc1ncc(C(F)(F)F)cc1Cl)c1ccccc1C(F)(F)F,6
+KVIZNNVXXNFLMU,O=C(OCc1ccccc1)C1CC1,NC,phase1,NC,phase1,Metofluthrin,240494-70-6,COCC1=C(F)C(F)=C(COC(=O)C2C(C=CC)C2(C)C)C(F)=C1F,10
+KWAIHLIXESXTJL,c1cnc(C2CC2)nc1,NC,phase1,NC,phase1,Aminocyclopyrachlor,858956-08-8,NC1=NC(=NC(C(O)=O)=C1Cl)C1CC1,6
+KWLVWJPJKJMCSH,O=C(Cc1ccccc1)NCCc1ccccc1,NC,팀원A,NC,팀원A,Mandipropamid,374726-62-2,COC1=C(OCC#C)C=CC(CCNC(=O)C(OCC#C)C2=CC=C(Cl)C=C2)=C1,4
+KWOLFJPFCHCOCG,c1ccccc1,,,,,Acetophenone 12-14,,CC(=O)c1ccccc1,6
+KWVYSEWJJXXTEZ,O=C1CC2C(=CC3C2C=CC2CC(OC4CCCCO4)CC23)C(=O)CC(OC2CCCCO2)CCCCO1,,,,,Spinetoram L,,CCO[C@@H]1[C@@H](OC)[C@H](C)O[C@@H](O[C@H]2C[C@H]3[C@@H]4C=C5C(=O)[C@H](C)[C@@H](O[C@H]6CC[C@H](N(C)C)[C@@H](C)O6)CCC[C@H](CC)OC(=O)C[C@H]5[C@@H]4C=C(C)[C@@H]3C2)[C@@H]1OC,4
+KWYUFKZDYYNOTN,__ACYCLIC__,,,,,"Potassium hydroxide, KOH 5",1310-58-3,[K+].[OH-],2
+KZBUYRJDOAKODT,__ACYCLIC__,2,팀원A,2,팀원A,Chlorine,7782-50-5,ClCl,1
+LDVVMCZRFWMZSG,O=C1NC(=O)C2CC=CCC12,1,팀원A,NC,팀원A,Captan,133-06-2,O=C1C2CC=CCC2C(=O)N1SC(Cl)(Cl)Cl,9
+LECAAGVQUHQAJK,__ACYCLIC__,,,,,"Silicic acid, calcium salt",,[Ca+2].[O-][Si](O)(O)O.[O-][Si](O)(O)O,2
+LFJQCDVYDGGFCH,C=C1C=CCCC1,,,,,Beta-Phellandrene,,C=C1C=CC(C(C)C)CC1,2
+LFQSCWFLJHTTHZ,__ACYCLIC__,2A,phase1,NC,phase1,Ethanol -No,64-17-5,CCO,8
+LFSYUSUFCBOHGU,c1ccc(Cc2ccccc2)cc1,2,팀원A,2,팀원A,"Diphenylmethane-,4’- diisocyanate 10",5873-54-1,O=C=Nc1ccc(Cc2ccccc2N=C=O)cc1,2
+LFVGISIMTYGQHF,__ACYCLIC__,,,,,Monoammonium Phosphate 5-20,7722-76-1,O=P([O-])(O)O.[NH4+],2
+LGIRBUBHIWTVCK,c1ccc2c(c1)Oc1ccccc1O2,,,,,"1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin",19408-74-3,Clc1cc2c(c(Cl)c1Cl)Oc1c(cc(Cl)c(Cl)c1Cl)O2,1
+LIOPHZNMBKHGAV,__ACYCLIC__,,,,,Potassium salt of glyphosate,70901-12-1,O=C(O)CNCP(=O)([O-])O.[K+],9
+LKPLKUMXSAEKID,c1ccccc1,NC,팀원A,NC,팀원A,Fartox,82-68-8,[O-][N+](=O)C1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1Cl,2
+LLEMOWNGBBNAJR,c1ccc(-c2ccccc2)cc1,2A,phase1,2,phase1,2-Phenylphenol,90-43-7,OC1=C(C=CC=C1)C1=CC=CC=C1,8
+LMNZTLDVJIUSHT,O=C1NC(=O)c2ccccc21,NC,팀원A,NC,팀원A,phosmet(ISO) w/w,732-11-6,COP(=S)(OC)SCN1C(=O)c2ccccc2C1=O,2
+LOQQVLXUKHKNIA,O=C(Nc1ncncn1)NS(=O)(=O)c1ccsc1,2,팀원A,NC,팀원A,Thifensulfuron,79277-67-1,COC1=NC(C)=NC(NC(=O)NS(=O)(=O)C2=C(SC=C2)C(O)=O)=N1,5
+LQBSMDYQONPVPE,c1ccc(Cc2ccccc2)cc1,,,,,"1-(3-isopropylphenyl)-1-phenylethane [Benzene, 1-(1-methylethyl)-3-(1-phenylethyl)-]",191044-59-4,CC(C)C1=CC=CC(=C1)C(C)C1=CC=CC=C1,1
+LQDARGUHUSPFNL,c1ccc(CCn2cncn2)cc1,NC,팀원A,NC,팀원A,Tetraconazole,112281-77-3,FC(F)C(F)(F)OCC(Cn1cncn1)c1ccc(Cl)cc1Cl,2
+LRCFXGAMWKDGLA,__ACYCLIC__,,,,,"Silica, amorphous, precipitated and gel",,O.O=[Si]=O,2
+LRHPLDYGYMQRHN,__ACYCLIC__,1,팀원A,2,팀원A,n-Butyl Alcohol,71-36-3,CCCCO,6
+LRXTYHSAJDENHV,__ACYCLIC__,NC,팀원A,NC,팀원A,231-994-3 Zinc phosphate N; R50/53,7779-90-0,O=P([O-])([O-])[O-].O=P([O-])([O-])[O-].[Zn+2].[Zn+2].[Zn+2],2
+LVDKZNITIUWNER,__ACYCLIC__,1,팀원A,2,팀원A,bronopol,52-51-7,O=[N+]([O-])C(Br)(CO)CO,13
+LVQDKIWDGQRHTE,c1ncnc(NC2CC2)n1,2,팀원A,2,팀원A,Cyromazine,66215-27-8,Nc1nc(N)nc(NC2CC2)n1,3
+LWEAHXKXKDCSIE,c1ccc2ccccc2c1,,,,,Sodium diisopropylnaphthalene sulphonate,1322-93-6,CC(C)c1cc2ccccc2c(S(=O)(=O)O)c1C(C)C,8
+LXCFILQKKLGQFO,c1ccccc1,2,팀원A,2,팀원A,Methylparaben,99-76-3,COC(=O)c1ccc(O)cc1,1
+LXKOADMMGWXPJQ,O=C(Nc1ncccn1)NS(=O)(=O)c1ccn[nH]1,,,,,Halosulfuron,135397-30-7,COC1=CC(OC)=NC(NC(=O)NS(=O)(=O)C2=C(C(O)=O)C(Cl)=NN2C)=N1,2
+LYCAIKOWRPUZTN,__ACYCLIC__,NC,팀원A,NC,팀원A,Ethylene Glycol,107-21-1,OCCO,13
+LZCLXQDLBQLTDK,__ACYCLIC__,,,,,Ethyl (L)-lactate 10.00,687-47-8,CCOC(=O)[C@H](C)O,2
+MAJYSQJXMUDACI,c1ccc(Cc2ccccc2)cc1,,,,,Diphenylmethanediisocyanate,9016-87-9,[N-]=C=O.[N-]=C=O.c1ccc(Cc2ccccc2)cc1,2
+MCNOFYBITGAAGM,c1coc(C2CNCO2)c1,NC,phase1,NC,phase1,Furilazole,121776-33-8,CC1(C)OC(c2ccco2)CN1C(=O)C(Cl)Cl,3
+MCWXGJITAZMZEV,__ACYCLIC__,NC,팀원A,NC,팀원A,Dimethoate not listed,60-51-5,CNC(=O)CSP(=S)(OC)OC,2
+MDJJOJZGNNCGHU,C1=CCC(C2CCCC2)=CC1,,,,,I(3)-Cuprenene,,CC1=CCC([C@@]2(C)CCCC2(C)C)=CC1,1
+MDWRNPOBHVLALB,c1cnc(C2CC2)nc1,NC,phase1,NC,phase1,Aminocyclopyrachlor methyl ester,858954-83-3,COC(=O)C1=C(Cl)C(N)=NC(=N1)C1CC1,4
+MEFOUWRMVYJCQC,O=C(Nc1ncccn1)NS(=O)(=O)c1ccccn1,2A,phase1,NC,phase1,RIMSULFURON,122931-48-0,CCS(=O)(=O)c1cccnc1S(=O)(=O)NC(=O)Nc1nc(OC)cc(OC)n1,17
+MGOHCFMYLBAPRN,O=c1c(-c2ccccc2)cn2n1CCOCC2,2,팀원A,2,팀원A,Pinoxaden,243973-20-8,CCC1=CC(C)=CC(CC)=C1C1=C(OC(=O)C(C)(C)C)N2CCOCCN2C1=O,6
+MHAJPDPJQMAIIY,__ACYCLIC__,1,팀원A,1,팀원A,Hydrogen Peroxide,7722-84-1,OO,7
+MIFOMMKAVSCNKQ,O=C(NN=C(Cc1ccccc1)c1ccccc1)Nc1ccccc1,NC,팀원A,NC,팀원A,Metaflumizone,139968-49-3,FC(F)(F)OC1=CC=C(NC(=O)NN=C(CC2=CC=C(C=C2)C#N)C2=CC=CC(=C2)C(F)(F)F)C=C1,6
+MIZMDSVSLSIMSC,O=C1COC(=O)CNC(=O)COC(=O)CNC(=O)COC(=O)CN1,,,,,Enniatin B,917-13-5,CC(C)[C@H]1C(=O)O[C@H](C(C)C)C(=O)N(C)[C@@H](C(C)C)C(=O)O[C@H](C(C)C)C(=O)N(C)[C@@H](C(C)C)C(=O)O[C@H](C(C)C)C(=O)N1C,2
+MKHVZQXYWACUQC,__ACYCLIC__,,,,,EC index no : 606,,CCCCCCCCCCCCOS(=O)(=O)O.OCCNCCO,2
+MLKCGVHIFJBRCD,O=c1[nH]cnn1-c1ccccc1,NC,팀원A,NC,팀원A,Carfentrazone-ethyl,128639-02-1,CCOC(=O)C(Cl)CC1=C(Cl)C=C(F)C(=C1)N1N=C(C)N(C(F)F)C1=O,8
+MMKBQSJLLGHVIM,c1cc[n+](Cc2ccc(C[n+]3ccccc3)cc2)cc1,,,,,"Synonyms : DPX,dpx mountant",14208-10-7,[Br-].[Br-].c1cc[n+](Cc2ccc(C[n+]3ccccc3)cc2)cc1,1
+MMOXZBCLCQITDF,c1ccccc1,2,팀원A,2,팀원A,DEET,134-62-3,CCN(CC)C(=O)C1=CC=CC(C)=C1,6
+MNHVNIJQQRJYDH,S=c1nc[nH]n1CC(Cc1ccccc1)C1CC1,NC,팀원A,NC,팀원A,Prothioconazole,178928-70-6,OC(Cc1ccccc1Cl)(Cn1[nH]cnc1=S)C1(Cl)CC1,15
+MNNHAPBLZZVQHP,__ACYCLIC__,,,,,Diammonium Phosphate 0-8,7783-28-0,O=P([O-])([O-])O.[NH4+].[NH4+],2
+MNRHCELBXZARFX,O=C1OC2CC(CC=CC(OC3CCC(OC4CCCCO4)CO3)CC=CC=C3COC4CC=CC1C34)OC1(C=CCCO1)C2,NC,phase1,NC,phase1,Avermectin A1b,65195-52-0,CO[C@H]1C[C@H](O[C@H]2[C@H](C)O[C@H](C[C@@H]2OC)O[C@H]2[C@@H](C)C=CC=C3/CO[C@@H]4[C@H](OC)C(C)=C[C@@H](C(=O)O[C@H]5C[C@@H](CC=C2/C)O[C@@]2(C5)O[C@H](C(C)C)[C@@H](C)C=C2)[C@]34O)O[C@@H](C)[C@@H]1O,1
+MOOOPNRPJGZXPE,c1ccccc1,2,팀원A,2,팀원A,"2,6-Dinitro-4-methylaniline",6393-42-6,CC1=CC(=C(N)C(=C1)[N+]([O-])=O)[N+]([O-])=O,2
+MOYAFQVGZZPNRA,C=C1CC=CCC1,NC,phase1,2,phase1,Terpinolene,,CC1=CCC(=C(C)C)CC1,8
+MQPHVIPKLRXGDJ,O=C1CC2CC(C1)C2,,,,,Isopinocamphone (3-Pinanone),15358-88-0,CC1C(=O)CC2CC1C2(C)C,1
+MQRJBSHKWOFOGF,__ACYCLIC__,2A,phase1,NC,phase1,Sodium Carbonate Monohydrate,,O.O=C([O-])[O-].[Na+].[Na+],1
+MRBKEAMVRSLQPH,c1ccccc1,,,,,Butylated hydroxyanisole,25013-16-5,COc1ccc(O)c(C(C)(C)C)c1,1
+MSFGZHUJTJBYFA,O=c1nc[nH]c(=O)[nH]1,2A,phase1,NC,phase1,Sodium Dichloro-S-Triazinetrione,2893-78-9,O=c1nc([O-])n(Cl)c(=O)n1Cl.[Na+],8
+MSJMDZAOKORVFC,__ACYCLIC__,,,,,"Maleic acid, disodium salt",,O=C([O-])/C=C\C(=O)[O-].[Na+].[Na+],2
+MSLRPWGRFCKNIZ,__ACYCLIC__,1,팀원A,NC,팀원A,Sodium carbonate peroxyhydrate,15630-89-4,O=C([O-])[O-].O=C([O-])[O-].OO.OO.OO.[Na+].[Na+].[Na+].[Na+],1
+MUJOIMFVNIBMKC,c1cc2c(c(-c3cc[nH]c3)c1)OCO2,NC,팀원A,NC,팀원A,Fludioxonil,131341-86-1,N#Cc1c[nH]cc1-c1cccc2c1OC(F)(F)O2,44
+MVPPADPHJFYWMZ,c1ccccc1,,,,,Chlorobenzene,,Clc1ccccc1,1
+MWBPRDONLNQCFV,__ACYCLIC__,,,,,Tri-allate,,CC(C)N(C(=O)SCC(Cl)=C(Cl)Cl)C(C)C,1
+MWKVXOJATACCCH,C1=NOC(c2ccccc2)(c2ccccc2)C1,NC,팀원A,NC,팀원A,"Ethyl 5,5-diphenyl-2-isoxazoline-3-carboxylate",163520-33-0,CCOC(=O)C1=NOC(c2ccccc2)(c2ccccc2)C1,2
+MXWJVTOOROXGIU,c1ncncn1,NC,phase1,NC,phase1,Atrazine,1912-24-9,CCNC1=NC(NC(C)C)=NC(Cl)=N1,17
+MYMOFIZGZYHOMD,__ACYCLIC__,,,,,oxygen 0.0001,,O=O,2
+MZHCENGPTKEIGP,c1ccccc1,1,팀원A,2,팀원A,단일 성분,15165-67-0,CC(Oc1ccc(Cl)cc1Cl)C(=O)O,3
+NAGRVUXEKKZNHT,O=C(Nc1ncccn1)NS(=O)(=O)c1cnc2ccccn12,NC,팀원A,NC,팀원A,Imazosulfuron,122548-33-8,COC1=CC(OC)=NC(NC(=O)NS(=O)(=O)C2=C(Cl)N=C3C=CC=CN23)=N1,4
+NBIIXXVUZAFLBC,__ACYCLIC__,,,,,Phosphoric acid,7664-38-2,OP(O)(O)=O,1
+NCKMMSIFQUPKCK,c1ccc(Cc2ccccc2)cc1,1,phase1,2,phase1,Clorophene,120-32-1,OC1=C(CC2=CC=CC=C2)C=C(Cl)C=C1,1
+NCLRGQCNIDLTDW,O=C1NS(=O)(=O)[N-]c2ccccc21,,,,,Bentazone-sodium,,CC(C)N1C(=O)c2ccccc2[N-]S1(=O)=O.[Na+],1
+NCXUIEDQTCQZRK,__ACYCLIC__,,,,,For explanation of abbreviations see section 16,17265-14-4,O=C([O-])CCCCCCCCC(=O)[O-].[Na+].[Na+],2
+NDVASEGYNIMXJL,C=C1CCC2CC12,,,,,Sabinene,,C=C1CCC2(C(C)C)CC12,3
+NEHNMFOYXAPHSD,__ACYCLIC__,,,,,Citronellal,,CC(C)=CCCC(C)CC=O,3
+NFACJZMKEDPNKN,__ACYCLIC__,NC,팀원A,NC,팀원A,Trichlorfon,52-68-6,COP(=O)(OC)C(O)C(Cl)(Cl)Cl,4
+NFGXHKASABOEEW,__ACYCLIC__,NC,phase1,NC,phase1,S-Methoprene,65733-16-6,COC(C)(C)CCC[C@H](C)CC=CC(C)=CC(=O)OC(C)C,10
+NFLGAXVYCFJBMK,O=C1CCCCC1,,,,,p-Menthan-3-one,,CC1CCC(C(C)C)C(=O)C1,1
+NHDHVHZZCFYRSB,c1ccc(Oc2ccc(OCCOc3ccccn3)cc2)cc1,NC,phase1,NC,phase1,Pyriproxyfen,95737-68-1,CC(COC1=CC=C(OC2=CC=CC=C2)C=C1)OC1=NC=CC=C1,15
+NIFKBBMCXCMCAO,O=C(Nc1ncccn1)NS(=O)(=O)c1ccccc1,NC,팀원A,NC,팀원A,Mesosulfuron-methyl,208465-21-8,COC(=O)c1ccc(CNS(C)(=O)=O)cc1S(=O)(=O)NC(=O)Nc1nc(OC)cc(OC)n1,7
+NINIDFKCEFEMDL,__ACYCLIC__,NC,phase1,2,phase1,Sulphur,7704-34-9,[S],31
+NIXXQNOQHKNPEJ,c1ccncc1,1,팀원A,NC,팀원A,Aminopyralid,150114-71-9,NC1=CC(Cl)=NC(C(O)=O)=C1Cl,2
+NLJMYIDDQXHKNR,__ACYCLIC__,,,,,Molecular Weight : 294.10,6132-04-3,O.O.O=C([O-])CC(O)(CC(=O)[O-])C(=O)[O-].[Na+].[Na+].[Na+],2
+NLZUEZXRPGMBCV,c1ccccc1,NC,팀원A,NC,팀원A,"2,6-Di-tert-butyl-4-methylphenol",128-37-0,Cc1cc(C(C)(C)C)c(O)c(C(C)(C)C)c1,6
+NMGNJWORLGLLHQ,O=C(Nc1ccccc1)Nc1ccccc1Oc1ccccc1,NC,팀원A,NC,팀원A,"Sodium 5-chloro-2-(4-chloro-2-(3-(3,4-dichlorophenyl)ureido)phenoxy)benzenesulfonate",3567-25-7,[Na+].[O-]S(=O)(=O)C1=CC(Cl)=CC=C1OC1=C(NC(=O)NC2=CC(Cl)=C(Cl)C=C2)C=C(Cl)C=C1,2
+NNPPMTNAJDCUHE,__ACYCLIC__,NC,팀원A,NC,팀원A,isobutane,75-28-5,CC(C)C,8
+NNRLDGQZIVUQTE,C=C1CCCCC1,,,,,Gamma-Terpineol,,CC(C)=C1CCC(C)(O)CC1,1
+NOEGNKMFWQHSLB,c1ccoc1,2,팀원A,2,팀원A,5-(Hydroxymethyl)-2-furfural,67-47-0,OCC1=CC=C(O1)C=O,2
+NOLXQSVNNIIHMV,__ACYCLIC__,,,,,sodium-di-ethyl-hexyl-sulfosuccinate,,CCCCCCC(C(=O)[O-])(C(CC)(CC)C(=O)[O-])S(=O)(=O)O.[Na+].[Na+],2
+NPNUFJAVOOONJE,C=C1CCC=CCCC2CCC12,,,,,(-)-Caryophyllene,87-44-5,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,12
+NQDJXKOVJZTUJA,O=C1Nc2cccnc2N(C2CC2)c2ncccc21,NC,phase1,NC,phase1,Nevirapine,,Cc1ccnc2c1NC(=O)c1cccnc1N2C1CC1,1
+NQHXCOAXSHGTIA,O=C(NC(CCN1CCC2CCCCC2C1)CSc1ccccc1)c1ccccc1,NC,phase1,NC,phase1,Nelfinavir Mesylate,,CS(=O)(=O)O.Cc1c(O)cccc1C(=O)N[C@@H](CSc1ccccc1)[C@H](O)CN1C[C@H]2CCCC[C@H]2C[C@H]1C(=O)NC(C)(C)C,1
+NQQBTWVFKDDVIB,c1ccncc1,1,팀원A,NC,팀원A,Clopyralid-olamine,57754-85-5,NCCO.OC(=O)C1=C(Cl)C=CC(Cl)=N1,8
+NQXWGWZJXJUMQB,__ACYCLIC__,,,,,Ferric chloride hexahydrate,10025-77-1,O.O.O.O.O.O.[Cl-].[Cl-].[Cl-].[Fe+3],4
+NRBLRTXFXBXILY,c1ccc(Nc2ccccc2)cc1,,,,,OKS 476,68411-46-1,C=C(C)CC(C)(C)C.c1ccc(Nc2ccccc2)cc1,2
+NRZWYNLTFLDQQX,c1ccccc1,1,phase1,1,phase1,4-(2-Methylbutan-2-yl)phenol,80-46-6,CCC(C)(C)C1=CC=C(O)C=C1,1
+NSTLSXSJOBWQLC,__ACYCLIC__,,,,,"butoxy, isopropylamine salt , phosphate (2-hydroxypropyl) ammonium",431040-31-2,CC(O)CN.O=P(O)(O)O,2
+NSWAMPCUPHPTTC,O=C(Nc1ncccn1)NS(=O)(=O)c1ccccc1,NC,phase1,NC,phase1,Chlorimuron Ethyl 10.5,90982-32-4,CCOC(=O)c1ccccc1S(=O)(=O)NC(=O)Nc1nc(Cl)cc(OC)n1,6
+NTHWMYGWWRZVTN,__ACYCLIC__,1,팀원A,1,팀원A,SODIUM METASILICATE,6834-92-0,O=[Si]([O-])[O-].[Na+].[Na+],5
+NTIZESTWPVYFNL,__ACYCLIC__,2,팀원A,NC,팀원A,methylpentan-2-one 5- <10,108-10-1,CC(=O)CC(C)C,2
+NTKBNCABAMQDIG,__ACYCLIC__,,,,,Butoxypolypropylene glycol,9003-13-8,CCCCOCCCO,2
+NTLJTUMJJWVCTL,__ACYCLIC__,,,,,Methyl non-2-ynoate (Methyl 2-nonynoate),,CCCCCCC#CC(=O)OC,1
+NUMQCACRALPSHD,__ACYCLIC__,,,,,Ethyl tert-butyl ether,,CCOC(C)(C)C,2
+NUPJIGQFXCQJBK,O=C1CN=C(c2ccccn2)N1,,,,,imazamox,,COCc1cnc(C2=NC(C)(C(C)C)C(=O)N2)c(C(=O)O)c1,2
+NVCJXEUDHCBDGI,O=c1ccn(C2CCCO2)c(=O)[nH]1,,,,,Polyoxorim-zinc,146659-78-1,NC(=O)OC[C@H](O)[C@@H](O)[C@H](N)C(=O)N[C@H](C(=O)[O-])[C@H]1O[C@@H](n2cc(C(=O)[O-])c(=O)[nH]c2=O)[C@H](O)[C@@H]1O.[Zn+2],1
+NVEQFIOZRFFVFW,C=C1CCC2OC2CCC2CCC12,,,,,Caryophyllene oxide,,C=C1CC[C@H]2O[C@]2(C)CC[C@@H]2[C@@H]1CC2(C)C,1
+NWWZPOKUUAIXIW,N=C1NCOCN1Cc1cncs1,NC,phase1,NC,phase1,Thiamethoxam,153719-23-4,CN1COCN(Cc2cnc(Cl)s2)/C1=N/[N+](=O)[O-],36
+NYPJDWWKZLNGGM,O=C(Cc1ccccc1)OCc1cccc(Oc2ccccc2)c1,NC,phase1,NC,phase1,Esfenvalerate,66230-04-4,CC(C)[C@H](C(=O)O[C@H](C#N)c1cccc(Oc2ccccc2)c1)c1ccc(Cl)cc1,10
+OAKJQQAXSVQMHS,__ACYCLIC__,,,,,DIAMINE,,NN,2
+OAYXUHPQHDHDDZ,__ACYCLIC__,2A,phase1,NC,phase1,Diethylene Glycol Monobutyl Ether,,CCCCOCCOCCO,1
+OCBHHZMJRVXXQK,c1ccccc1,,,,,Alkyl dimethyl ethylbenzyl ammonium chlorides,68391-01-5,CCCCCCCCCCCCCC[N+](C)(C)Cc1ccccc1.[Cl-],2
+ODGAOXROABLFNM,__ACYCLIC__,,,,,Urea formaldehyde resin -; R53,68002-19-7,C=O.NC(N)=O,2
+ODPOAESBSUKMHD,c1cc[n+]2c(c1)-c1cccc[n+]1CC2,2A,phase1,2,phase1,Diquat dibromide,85-00-7,[Br-].[Br-].C1C[N+]2=CC=CC=C2C2=CC=CC=[N+]12,8
+OEBRKCOSUFCWJD,__ACYCLIC__,NC,팀원A,NC,팀원A,Dichlorvos,62-73-7,COP(=O)(OC)OC=C(Cl)Cl,11
+OFCQYQOZASISIU,c1ccccc1,1,팀원A,NC,팀원A,Mecoprop-P-potassium,66423-05-0,[K+].C[C@@H](OC1=C(C)C=C(Cl)C=C1)C([O-])=O,1
+OFHHDSQXFXLTKC,__ACYCLIC__,,,,,Undecylenic aldehyde,112-45-8,C=CCCCCCCCCC=O,1
+OFTZZDZZNXTWFO,O=C1CNC(=O)N1,NC,팀원A,1,팀원A,"1,3-Dichloro-5-ethyl-5-methyl-hydantoin",89415-87-2,CCC1(C)N(Cl)C(=O)N(Cl)C1=O,1
+OGLDWXZKYODSOB,C1=CCCC=C1,,,,,alpha-PHELLANDRENE,,CC1=CCC(C(C)C)C=C1,3
+OHORFAFFMDIQRR,__ACYCLIC__,1,팀원A,1,팀원A,Hydrofluorosilicic Acid,16961-83-4,F[Si-2](F)(F)(F)(F)F.[H+].[H+],2
+OILAIQUEIWYQPH,O=C1CCCCC1=O,,,,,cyclohexanedione,,O=C1CCCCC1=O,2
+OIPMQULDKWSNGX,__ACYCLIC__,,,,,Fosetyl Aluminium,39148-24-8,CCOP(=O)=O.CCOP(=O)=O.CCOP(=O)=O.[Al+3],4
+OJDDJQYSKDIXOE,__ACYCLIC__,,,,,Tridecyl Alcohol Ethoxylated,24938-91-8,CCCCCCCCCCCCCOCCO,2
+OKKJLVBELUTLKV,__ACYCLIC__,NC,phase1,NC,phase1,Methanol,67-56-1,CO,27
+OKTJSMMVPCPJKN,__ACYCLIC__,,,,,Carbon black,1333-86-4,[C],2
+OLZQTUCTGLHFTQ,c1ccncc1,NC,팀원A,NC,팀원A,Fluroxypyr-meptyl,81406-37-3,CCCCCCC(C)OC(=O)COC1=NC(F)=C(Cl)C(N)=C1Cl,12
+OMFRMAHOUUJSGP,O=C(OCc1cccc(-c2ccccc2)c1)C1CC1,NC,phase1,NC,phase1,Bifenthrin,82657-04-3,Cc1c(COC(=O)[C@@H]2[C@H](/C=C(\Cl)C(F)(F)F)C2(C)C)cccc1-c1ccccc1,71
+ONCZDRURRATYFI,C(=NOCc1ccccc1)c1ccccc1,NC,팀원A,NC,팀원A,Trifloxystrobin,141517-21-7,CO/N=C(/C(=O)OC)c1ccccc1CO/N=C(\C)c1cccc(C(F)(F)F)c1,16
+ONUFESLQCSAYKA,O=C1CNC(=O)N1c1ccccc1,NC,팀원A,NC,팀원A,Iprodione,36734-19-7,CC(C)NC(=O)N1CC(=O)N(C1=O)C1=CC(Cl)=CC(Cl)=C1,10
+OORLZFUTLGXMEF,O=c1[nH]cnn1-c1ccccc1,2,팀원A,NC,팀원A,Sulfentrazone,122836-35-5,CC1=NN(C(=O)N1C(F)F)C1=CC(NS(C)(=O)=O)=C(Cl)C=C1Cl,6
+OPAGOSHJYNFXGD,__ACYCLIC__,,,,,Cobaltous neodecanoate,,CCCCCCC(C)(C)C(=O)[O-].CCCCCCC(C)(C)C(=O)[O-].[Co+2],2
+OPGCOAPTHCZZIW,C1=NN(c2ccccc2)CC1,NC,팀원A,NC,팀원A,Mefenpyr-diethyl,135590-91-9,CCOC(=O)C1=NN(c2ccc(Cl)cc2Cl)C(C)(C(=O)OCC)C1,6
+ORFPWVRKFLOQHK,O=c1[nH]cn[nH]1,NC,팀원A,NC,팀원A,RN,129909-90-6,CC(C)c1nn(C(=O)NC(C)(C)C)c(=O)n1N,5
+OSDLLIBGSJNGJE,c1ccccc1,2,팀원A,2,팀원A,"4-Chloro-3,5-dimethylphenol",88-04-0,CC1=CC(O)=CC(C)=C1Cl,3
+OSGAYBCDTDRGGQ,__ACYCLIC__,,,,,Calcium sulfate,,O=S(=O)([O-])[O-].[Ca+2],1
+OSVXSBDYLRYLIG,__ACYCLIC__,1,팀원A,1,팀원A,Chlorine dioxide,10049-04-4,[O][Cl]=O,2
+OSWPMRLSEDHDFF,c1ccccc1,,,,,1-2 methyl salicylate,119-36-8,COC(=O)c1ccccc1O,2
+OTPSWLRZXRHDNX,c1cc[nH+]cc1.c1cc[nH+]cc1,1,phase1,NC,phase1,Zinc Pyrithione <5,13463-41-7,[O-][n+]1ccccc1[S-].[O-][n+]1ccccc1[S-].[Zn+2],3
+OTYBMLCTZGSZBG,__ACYCLIC__,,,,,Potassium Sulfate 5-20,7778-80-5,O=S(=O)([O-])[O-].[K+].[K+],3
+OVSKIKFHRZPJSS,c1ccccc1,1,팀원A,NC,팀원A,"2,4-Dichlorophenoxyacetic acid",94-75-7,OC(=O)COC1=C(Cl)C=C(Cl)C=C1,4
+OVXRPXGVKBHGQO,C1=CC2=CCC3CCCCC3C2CC1,2A,phase1,NC,phase1,Methyl abietate (Methyl rosinate / Abalyn),127-25-3,COC(=O)[C@]1(C)CCC[C@@]2(C)[C@H]1CC=C1C=C(C(C)C)CC[C@@H]12,1
+OWNRRUFOJXFKCU,O=c1oc2ccccc2cc1C(CCc1ccc(-c2ccccc2)cc1)c1ccccc1,NC,팀원A,NC,팀원A,Bromadiolone,28772-56-7,OC(CC(C1=CC=CC=C1)C1=C(O)C2=C(OC1=O)C=CC=C2)C1=CC=C(C=C1)C1=CC=C(Br)C=C1,2
+OWZREIFADZCYQD,O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,NC,팀원A,NC,팀원A,Deltamethrin,52918-63-5,CC1(C)[C@H](C(=O)O[C@H](C#N)c2cccc(Oc3ccccc3)c2)[C@@H]1C=C(Br)Br,13
+OXCMYAYHXIHQOA,c1ccc(-c2nnn[n-]2)c(-c2ccc(Cn3ccnc3)cc2)c1,,,,,Losartan >= 30 - <,124750-99-8,CCCCc1nc(Cl)c(CO)n1Cc1ccc(-c2ccccc2-c2nnn[n-]2)cc1.[K+],2
+OYIKARCXOQLFHF,O=C(c1ccccc1)c1cnoc1C1CC1,NC,phase1,NC,phase1,Isoxaflutole,141112-29-0,CS(=O)(=O)c1cc(C(F)(F)F)ccc1C(=O)c1cnoc1C1CC1,7
+PASHVRUKOFIRIK,__ACYCLIC__,NC,팀원A,NC,팀원A,Gypsum (Ca(SO4).2H2O) - 5.00%,13397-24-5,O.O.O=S(=O)([O-])[O-].[Ca+2],2
+PBKBMLILZYXPBO,C1=CCCCC1,2A,phase1,2,phase1,"3-Methyl-4-(2,4,6-trimethyl-3-cyclohexen-1-yl)-3-buten-2-one",,CC(=O)/C(C)=C/C1C(C)C=C(C)CC1C,1
+PCCSBWNGDMYFCW,O=C1OC(c2ccc(Oc3ccccc3)cc2)C(=O)N1Nc1ccccc1,,,,,Famoxadone,,CC1(c2ccc(Oc3ccccc3)cc2)OC(=O)N(Nc2ccccc2)C1=O,1
+PDQAZBWRQCGBEV,S=C1NCCN1,,,,,Ethylene Thiourea,,S=C1NCCN1,1
+PDSNLYSELAIEBU,C=C1C2CCC3C1CCCCC23,,,,,Longifolene,,C=C1[C@H]2CC[C@@H]3[C@H]2C(C)(C)CCC[C@]13C,1
+PDZKZMQQDCHTNF,__ACYCLIC__,,,,,Cuprous thiocyanate,,N#C[S-].[Cu+],1
+PEDCQBHIVMGVHV,__ACYCLIC__,NC,phase1,NC,phase1,Glycerine 3-5 Solvent,56-81-5,OCC(O)CO,31
+PETXWIMJICIQTQ,c1ccccc1,,,,,Benzyloxymethanol >= 0.1 - <,,OCOCc1ccccc1,1
+PFFIDZXUXFLSSR,O=C(Nc1ccsc1)c1cn[nH]c1,NC,phase1,NC,phase1,Penthiopyrad,183675-82-3,CC(C)CC(C)C1=C(NC(=O)C2=CN(C)N=C2C(F)(F)F)C=CS1,13
+PGOOBECODWQEAB,c1cscn1,NC,phase1,NC,phase1,Clothianidin,210880-92-5,CN/C(=N\[N+](=O)[O-])NCc1cnc(Cl)s1,31
+PIAOLBVUVDXHHL,c1ccccc1,,,,,Beta-nitrostyrene,,O=[N+]([O-])C=Cc1ccccc1,1
+PIEXCQIOSMOEOU,O=C1CNC(=O)N1,NC,팀원A,1,팀원A,"1-Bromo-3-chloro-5,5-dimethylhydantoin",16079-88-2,CC1(C)N(Br)C(=O)N(Cl)C1=O,1
+PLNNJQXIITYYTN,__ACYCLIC__,2,팀원A,2,팀원A,Isobutyric acid hydrazide,3619-17-8,CC(C)C(=O)NN,1
+PMHURSZHKKJGBM,O=C(Nc1ccno1)c1ccccc1,NC,팀원A,NC,팀원A,Isoxaben,82558-50-7,CCC(C)(CC)C1=NOC(NC(=O)C2=C(OC)C=CC=C2OC)=C1,2
+PMZURENOXWZQFD,__ACYCLIC__,NC,팀원A,NC,팀원A,Sodium sulfate max. NA,7757-82-6,O=S(=O)([O-])[O-].[Na+].[Na+],2
+POAOYUHQDCAZBD,__ACYCLIC__,2A,phase1,2,phase1,2-butoxyethanol,111-76-2,CCCCOCCO,7
+PORQOHRXAJJKGK,O=c1ccs[nH]1,,,,,"4,5-Dichloro-2-N-octyl-4-isothiazolin-3-one <0.075",64359-81-5,CCCCCCCCn1sc(Cl)c(Cl)c1=O,2
+PPBRXRYQALVLMV,c1ccccc1,2A,phase1,2,phase1,Styrene,,C=Cc1ccccc1,1
+PPDBOQMNKNNODG,C(=C1CCCC1Cn1cncn1)c1ccccc1,NC,팀원A,NC,팀원A,Triticonazole,131983-72-7,CC1(C)CC/C(=C\c2ccc(Cl)cc2)C1(O)Cn1cncn1,14
+PQKBPHSEKWERTG,c1ccc(Oc2nc3ccccc3o2)cc1,NC,팀원A,NC,팀원A,Fenoxaprop-P-ethyl,71283-80-2,CCOC(=O)[C@@H](C)Oc1ccc(Oc2nc3ccc(Cl)cc3o2)cc1,2
+PSOVNZZNOMJUBI,O=C(Nc1ccccc1)c1ccnn1-c1ccccn1,2A,phase1,NC,phase1,Chlorantraniliprole,500008-45-7,CNC(=O)c1cc(Cl)cc(C)c1NC(=O)c1cc(Br)nn1-c1ncccc1Cl,10
+PSQYTAPXSHCGMF,C1=CCCCC1,,,,,"4-(2,6,6-Trimethyl-1-cyclohexen-1-yl)-3-buten-2-one",14901-07-6,CC(=O)C=CC1=C(C)CCCC1(C)C,1
+PTCGDEVVHUXTMP,O=C(Nc1ccccc1)c1ccccc1,NC,팀원A,NC,팀원A,Flutolanil,66332-96-5,CC(C)Oc1cccc(NC(=O)c2ccccc2C(F)(F)F)c1,2
+PUYXTUJWRLOUCW,C1CCC2(CC1)OCCO2,,,,,spiroxamine >98,118134-30-8,CCCN(CC)CC1COC2(CCC(C(C)(C)C)CC2)O1,3
+PXMNMQRDXWABCY,c1ccc(CCCCn2cncn2)cc1,NC,팀원A,NC,팀원A,Tebuconazole,107534-96-3,CC(C)(C)C(O)(CCC1=CC=C(Cl)C=C1)CN1C=NC=N1,72
+PYZSVQVRHDXQSL,O=c1c2sccsc=2c(=O)c2ccccc12,,,,,Dithianon,,N#Cc1sc2c(=O)c3ccccc3c(=O)c=2sc1C#N,2
+PZBPKYOVPCNPJY,c1ccc(CCn2ccnc2)cc1,1,팀원A,NC,팀원A,Imazalil,35554-44-0,ClC1=CC(Cl)=C(C=C1)C(CN1C=CN=C1)OCC=C,10
+QAOWNCQODCNURD,__ACYCLIC__,1,phase1,1,phase1,SULFURIC ACID,7664-93-9,O=S(=O)(O)O,8
+QAQJMLQRFWZOBN,O=C1C=CCO1,,,,,Ascorbyl Palmitate,,CCCCCCCCCCCCCCCC(=O)OC[C@H](O)[C@H]1OC(=O)C(O)=C1O,2
+QAYICIQNSGETAS,S=C1NCNCS1,2,팀원A,2,팀원A,Dazomet,533-74-4,CN1CSC(=S)N(C)C1,2
+QCAWEPFNJXQPAN,O=C(NNC(=O)c1ccccc1)c1ccccc1,NC,팀원A,NC,팀원A,Methoxyfenozide,161050-58-4,COC1=CC=CC(C(=O)NN(C(=O)C2=CC(C)=CC(C)=C2)C(C)(C)C)=C1C,6
+QCFYJCYNJLBDRT,__ACYCLIC__,,,,,2-Chloro-1-methylethylether,,CC(CCl)OC(C)CCl,1
+QDRXWCAVUNHOGA,O=C1C=CC(=O)c2ccccc21,NC,팀원A,NC,팀원A,Acequinocyl,57960-19-7,CCCCCCCCCCCCC1=C(OC(C)=O)C(=O)C2=C(C=CC=C2)C1=O,2
+QGBSISYHAICWAH,__ACYCLIC__,NC,phase1,NC,phase1,Cyanoguanidine,461-58-5,NC(=N)NC#N,1
+QGHREAKMXXNCOA,c1ccccc1,NC,팀원A,NC,팀원A,Thiophanate-methyl,23564-05-8,COC(=O)NC(=S)NC1=C(NC(=S)NC(=O)OC)C=CC=C1,12
+QGLZXHRNAYXIBU,__ACYCLIC__,NC,팀원A,NC,팀원A,Aldicarb,116-06-3,CNC(=O)ON=CC(C)(C)SC,3
+QGZKDVFQNNGYKY,__ACYCLIC__,1,phase1,1,phase1,Ammonia,7664-41-7,N,1
+QHOQHJPRIBSPCY,c1cncnc1,2,팀원A,2,팀원A,Pirimiphos Methyl,29232-93-7,CCN(CC)c1nc(C)cc(OP(=S)(OC)OC)n1,2
+QIMMUPPBPVKWKM,c1ccc2ccccc2c1,NC,팀원A,NC,팀원A,2-Methylnaphthalene,91-57-6,Cc1ccc2ccccc2c1,2
+QKUNKVYPGIOQNP,__ACYCLIC__,2A,phase1,2,phase1,None required. COMPOSITION OF INGREDIENTS. Percentage (by weight). 63449-39-8. CAS Number. Component.,63449-39-8,CCCC(Cl)CCCC(Cl)CCC(Cl)CCC(Cl)CCC(Cl)CCCC(Cl)CCC,1
+QLQXSZZVUVMFHZ,O1[SiH]2O[SiH]3O[SiH]1O[SiH](O2)O3,NC,phase1,NC,phase1,Talc (Mg3H2(SiO3)) >= 1 - <,14807-96-6,[Mg+2].[Mg+2].[Mg+2].[O-][Si]12O[Si]3([O-])O[Si]([O-])(O1)O[Si]([O-])(O2)O3.[OH-].[OH-],6
+QMVPMAAFGQKVCJ,__ACYCLIC__,2,팀원A,2,팀원A,Citronellol,7540-51-4,CC(C)=CCCC(C)CCO,3
+QMYGFTJCQFEDST,__ACYCLIC__,,,,,3-Methoxy-1-butyl acetate,,COC(C)CCOC(C)=O,1
+QNBTYORWCCMPQP,O=C(C=C(c1ccccc1)c1ccccc1)N1CCOCC1,NC,phase1,NC,phase1,Dimethomorph,110488-70-5,COC1=C(OC)C=C(C=C1)C(=CC(=O)N1CCOCC1)C1=CC=C(Cl)C=C1,9
+QPUYECUOLPXSFR,c1ccc2ccccc2c1,2,팀원A,NC,팀원A,1-Methylnaphthalene,90-12-0,Cc1cccc2ccccc12,2
+QQODLKZGRKWIFG,O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,NC,팀원A,NC,팀원A,Cyfluthrin,68359-37-5,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)C1=CC=C(F)C(OC2=CC=CC=C2)=C1,12
+QQONPFPTGQHPMA,__ACYCLIC__,,,,,Polypropylene,,C=CC,2
+QQQYTWIFVNKMRW,O=C(NC(=O)c1ccccc1)Nc1ccccc1,NC,팀원A,NC,팀원A,Diflubenzuron,35367-38-5,FC1=CC=CC(F)=C1C(=O)NC(=O)NC1=CC=C(Cl)C=C1,7
+QTBSBXVTEAMEQO,__ACYCLIC__,1,phase1,1,phase1,Acetic Acid,64-19-7,CC(=O)O,10
+QTYCMDBMOLSEAM,c1ccc(CC2CCCC2Cn2cncn2)cc1,NC,팀원A,NC,팀원A,ipconazole,125225-28-7,CC(C)C1CCC(Cc2ccc(Cl)cc2)C1(O)Cn1cncn1,12
+QWTDNUCVQCZILF,__ACYCLIC__,,,,,Isopentane,,CCC(C)C,2
+QXAITBQSYVNQDR,C(=Nc1ccccc1)NC=Nc1ccccc1,NC,phase1,NC,phase1,Amitraz,33089-61-1,CN(C=NC1=C(C)C=C(C)C=C1)C=NC1=C(C)C=C(C)C=C1,7
+QYYMDNHUJFIDDQ,O=c1ccs[nH]1.O=c1ccs[nH]1,1,팀원A,1,팀원A,Kathon,55965-84-9,Cn1sc(Cl)cc1=O.Cn1sccc1=O,13
+QZSFJRIWRPJUOH,c1ccccc1,NC,phase1,NC,phase1,"2-Ethylhexyl (2,4-dichlorophenoxy)acetate",1928-43-4,CCCCC(CC)COC(=O)COC1=C(Cl)C=C(Cl)C=C1,9
+QZXATCCPQKOEIH,O=S(=O)(Nc1ccccc1)c1nc2ccncn2n1,,,,,Florasulam,,COc1ncc(F)c2nc(S(=O)(=O)Nc3c(F)cccc3F)nn12,2
+RBSXHDIPCIWOMG,O=C(Nc1ncccn1)NS(=O)(=O)c1cnc2ccccn12,NC,팀원A,NC,팀원A,Sulfosulfuron,141776-32-1,CCS(=O)(=O)C1=C(N2C=CC=CC2=N1)S(=O)(=O)NC(=O)NC1=NC(OC)=CC(OC)=N1,3
+RBTARNINKXHZNM,__ACYCLIC__,1,팀원A,1,팀원A,Iron trichloride (Ferric Chloride),7705-08-0,[Cl-].[Cl-].[Cl-].[Fe+3],1
+RCIJACVHOIKRAP,__ACYCLIC__,,,,,Sodium dioctyl sulfosuccinate,,CCCCCCCCOC(=O)CC(C(=O)OCCCCCCCC)S(=O)(=O)[O-].[Na+],1
+RDECBWLKMPEKPM,O=C1CC2C(=CC3C2C=CC2CC(OC4CCCCO4)CC23)C(=O)CC(OC2CCCCO2)CCCCO1,,,,,Spinosad D,131929-63-0,CC[C@H]1CCC[C@H](O[C@H]2CC[C@H](N(C)C)[C@@H](C)O2)[C@@H](C)C(=O)C2=C[C@@H]3[C@@H](C=C(C)[C@@H]4C[C@@H](O[C@@H]5O[C@@H](C)[C@H](OC)[C@@H](OC)[C@H]5OC)C[C@@H]34)[C@@H]2CC(=O)O1,3
+REEQLXCGVXDJSQ,c1ccncc1,2,팀원A,NC,팀원A,Triclopyr,55335-06-3,OC(=O)COC1=C(Cl)C=C(Cl)C(Cl)=N1,4
+RFFOTVCVTJUTAD,C1CC2CCC1O2,,,,,"1,4-Cineole",,CC(C)C12CCC(C)(CC1)O2,1
+RGSFGYAAUTVSQA,C1CCCC1,,,,,Cyclopentane,,C1CCCC1,2
+RGZSQWQPBWRIAQ,C1=CCCCC1,,,,,Levomenol,,CC(C)=CCC[C@](C)(O)[C@@H]1CC=C(C)CC1,1
+RHUYHJGZWVXEHW,__ACYCLIC__,NC,팀원A,1,팀원A,"N,N-Dimethylhydrazine Standard",57-14-7,CN(C)N,1
+RJTHDCSHVMQKDQ,C1=CCCC1,NC,phase1,NC,phase1,"2-Butenal, 2-ethyl-4-(2,2,3-trimethyl-3-cyclopenten-1-yl)-",,CCC(C=O)=CCC1CC=C(C)C1(C)C,1
+RLLPVAHGXHCWKJ,O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,NC,팀원A,NC,팀원A,Permethrin,52645-53-1,CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc1cccc(Oc2ccccc2)c1,48
+RLQJEEJISHYWON,c1ccncc1,,,,,Flonicamid,158062-67-0,N#CCNC(=O)c1cnccc1C(F)(F)F,2
+RMBFBMJGBANMMK,c1ccccc1,NC,팀원A,NC,팀원A,"2,4-Dinitrotoluene",121-14-2,Cc1ccc([N+](=O)[O-])cc1[N+](=O)[O-],1
+RMOGWMIKYWRTKW,c1ccc(CCn2cncn2)cc1,2,팀원A,2,팀원A,Paclobutrazol,76738-62-0,CC(C)(C)[C@H](O)[C@H](CC1=CC=C(Cl)C=C1)N1C=NC=N1,2
+RMSLWSACKNSCJW,c1ccc2c(Cc3cccc4ccccc34)cccc2c1,,,,,Sodium salt of sulfonated naphthalene formaldehyde condensate,9084-06-4,O=S(=O)([O-])c1ccc2c(Cc3cccc4cc(S(=O)(=O)[O-])ccc34)cccc2c1.[Na+].[Na+],2
+RNLHGQLZWXBQNY,C1CCCCC1,,,,,Isophorone diamine,,CC1(C)CC(N)CC(C)(CN)C1,2
+RNWHGQJWIACOKP,__ACYCLIC__,NC,팀원A,NC,팀원A,zinc oxide - <20,1314-13-2,[O-2].[Zn+2],4
+ROGDGDPDLIVQFZ,c1ccccc1,,,,,Mecoprop-dimethylammonium,32351-70-5,CNC.CC(OC1=C(C)C=C(Cl)C=C1)C(O)=O,13
+RQVYBGPQFYCBGX,c1ncncn1,NC,팀원A,NC,팀원A,Ametryn,834-12-8,CCNc1nc(NC(C)C)nc(SC)n1,2
+RRAFCDWBNXTKKO,c1ccccc1,,,,,Eugenol,,C=CCc1ccc(O)c(OC)c1,1
+RRZXIRBKKLTSOM,O=C1OC2CC(CC=CC(OC3CCC(OC4CCCCO4)CO3)CC=CC=C3COC4CC=CC1C34)OC1(C=CCCO1)C2,NC,팀원A,NC,팀원A,Avermectin B1a,65195-55-3,[H][C@@]12OCC3=C/C=C/[C@H](C)[C@H](O[C@@]4([H])C[C@H](OC)[C@@H](O[C@@]5([H])C[C@H](OC)[C@@H](O)[C@H](C)O5)[C@H](C)O4)C(C)=CC[C@]4([H])C[C@@H](C[C@]5(O4)O[C@]([H])([C@@H](C)CC)[C@@H](C)C=C5)OC(=O)[C@]([H])(C=C(C)[C@H]1O)[C@@]23O,2
+RSMUVYRMZCOLBH,O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,NC,팀원A,NC,팀원A,Metsulfuron-methyl,74223-64-6,COC(=O)C1=C(C=CC=C1)S(=O)(=O)NC(=O)NC1=NC(OC)=NC(C)=N1,6
+RSVPPPHXAASNOL,c1ccccc1,NC,팀원A,NC,팀원A,Prodiamine,29091-21-2,CCCN(CCC)c1c([N+](=O)[O-])cc(C(F)(F)F)c(N)c1[N+](=O)[O-],4
+RSWGJHLUYNHPMX,C1=CC2=CCC3CCCCC3C2CC1,,,,,Abietic Acid,,CC(C)C1=CC2=CC[C@@H]3[C@](C)(CCC[C@@]3(C)C(=O)O)[C@H]2CC1,1
+RTCOGUMHFFWOJV,O=C(Nc1ncccn1)NS(=O)(=O)c1ccccn1,2A,phase1,2,phase1,Nicosulfuron,111991-09-4,COC1=CC(OC)=NC(NC(=O)NS(=O)(=O)C2=NC=CC=C2C(=O)N(C)C)=N1,19
+RUOJZAUFBMNUDX,O=C1OCCO1,2,팀원A,NC,팀원A,Propylene Carbonate S 5-15,108-32-7,CC1COC(=O)O1,5
+RUPBZQFQVRMKDG,__ACYCLIC__,1,팀원A,1,팀원A,Didecyldimethylammonium Chloride,7173-51-5,CCCCCCCCCC[N+](C)(C)CCCCCCCCCC.[Cl-],12
+RUVINXPYWBROJD,c1ccccc1,,,,,Anethole,,C/C=C/c1ccc(OC)cc1,1
+RVGRUAULSDPKGF,C1CO1.C1CO1,,,,,Polyoxyethylene-polyoxypropylene,,C1CO1.CC1CO1,2
+RVJMEWSAFHIEJX,c1ccccc1,2,팀원A,NC,팀원A,"2-Methoxy-3,6-dichlorobenzoic acid potassium salt",10007-85-9,[K+].COC1=C(C([O-])=O)C(Cl)=CC=C1Cl,1
+RVJXUBXQGJPVJW,c1ccc(Cc2ccccc2)cc1,,,,,"1-(2-isopropylphenyl)-1-phenylethane [Benzene, 1-(1-methylethyl)-2-(1-phenylethyl)-]",191044-60-7,CC(C)C1=CC=CC=C1C(C)C1=CC=CC=C1,1
+RVKCCVTVZORVGD,O=C1CCCC(=O)C1=CC1CC1,,,,,Trinexapac-ethyl,95266-40-3,CCOC(=O)C1CC(=O)C(=C(O)C2CC2)C(=O)C1,2
+RWGFKTVRMDUZSP,c1ccccc1,NC,팀원A,NC,팀원A,Cumene,98-82-8,CC(C)c1ccccc1,5
+RWNUSVWFHDHRCJ,__ACYCLIC__,2,팀원A,2,팀원A,1-butoxy-2-propanol,5131-66-8,CCCCOCC(C)O,2
+RXCPQSJAVKGONC,O=S(=O)(Nc1ccccc1)c1nc2ncccn2n1,NC,팀원A,NC,팀원A,Flumetsulam,98967-40-9,CC1=NC2=NC(=NN2C=C1)S(=O)(=O)NC1=C(F)C=CC=C1F,2
+RYAUSSKQMZRMAI,c1ccc(CCCN2CCOCC2)cc1,NC,phase1,2,phase1,Fenpropimorph,67564-91-4,CC(Cc1ccc(C(C)(C)C)cc1)CN1C[C@@H](C)O[C@@H](C)C1,3
+RYGMFSIKBFXOCR,__ACYCLIC__,NC,팀원A,NC,팀원A,copper - <1,7440-50-8,[Cu],2
+RYYVLZVUVIJVGH,O=c1[nH]c(=O)c2[nH]cnc2[nH]1,NC,phase1,NC,phase1,Caffeine,,Cn1c(=O)c2c(ncn2C)n(C)c1=O,1
+RYYWUUFWQRZTIU,__ACYCLIC__,,,,,phosphorothioate,,[O-]P([O-])([O-])=S,2
+SBNFWQZLDJGRLK,O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,NC,팀원A,NC,팀원A,Phenothrin,26002-80-2,CC(C)=CC1C(C(=O)OCC2=CC=CC(OC3=CC=CC=C3)=C2)C1(C)C,2
+SBPBAQFWLVIOKP,c1ccncc1,2,팀원A,NC,팀원A,Chlorpyrifos,2921-88-2,CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl,6
+SCXCDVTWABNWLW,__ACYCLIC__,NC,팀원A,1,팀원A,Octyl decyl dimethyl ammonium chloride,32426-11-2,[Cl-].CCCCCCCCCC[N+](C)(C)CCCCCCCC,4
+SECXISVLQFMRJM,O=C1CCCN1,2A,phase1,2,phase1,3.2 Hazardous components,872-50-4,CN1CCCC1=O,13
+SIKJAQJRHWYJAI,c1ccc2[nH]ccc2c1,1,phase1,NC,phase1,Indole,,c1ccc2[nH]ccc2c1,1
+SILSDTWXNBZOGF,O=C1C=CCCC1,NC,팀원A,NC,팀원A,Clethodim,99129-21-2,CCSC(C)CC1CC(=O)C(C(CC)=NOC/C=C/Cl)=C(O)C1,2
+SLINHMUFWFWBMU,__ACYCLIC__,,,,,Triisopropanolamine,,CC(O)CN(CC(C)O)CC(C)O,1
+SLKPBCXNFNIJSV,c1ccc(C2CCCC2)cc1,,,,,Cuparene,,Cc1ccc([C@]2(C)CCCC2(C)C)cc1,1
+SLYAVQCIBHSIQW,c1ccncc1,,,,,Aminopyralid Triisopropanolamine Salt,,CC(O)CN(CC(C)O)CC(C)O.Nc1cc(Cl)nc(C(=O)O)c1Cl,1
+SMDHCQAYESWHAE,c1ccccc1,2,팀원A,2,팀원A,Benfluralin (technical),1861-40-1,CCCCN(CC)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O,1
+SMI:c1ccn2[O-]->[Zn+2]3(<-[O-]n4ccccc4=[S]3)[S]=c2c1,c1ccn2[O-]->[Zn+2]3(<-[O-]n4ccccc4=[S]3)[S]=c2c1,1,phase1,NC,phase1,Zinc pyrithione,13463-41-7,[O-]1N2C=CC=CC2=[S][Zn++]11[O-]N2C=CC=CC2=[S]1,3
+SMKRKQBMYOFFMU,O=C1C=CC(OC(=O)C2CC2)C1,NC,phase1,NC,phase1,Prallethrin,23031-36-9,CC(C)=CC1C(C(=O)OC2CC(=O)C(CC#C)=C2C)C1(C)C,21
+SOUGWDPPRBKJEX,c1ccccc1,NC,팀원A,NC,팀원A,Zoxamide,156052-68-5,CCC(C)(NC(=O)C1=CC(Cl)=C(C)C(Cl)=C1)C(=O)CCl,8
+SQSDCNHOYPJGDQ,__ACYCLIC__,1,phase1,1,phase1,Acetic acid boron trifluoride (2:1),373-61-5,[H+].[H+].[F-].CC(=O)O[B-](F)(F)OC(C)=O,1
+SRJQTHAZUNRMPR,O=C1CC2C(=CC3C2C=CC2CC(OC4CCCCO4)CC23)C(=O)CC(OC2CCCCO2)CCCCO1,,,,,Note : Spinosad is comprised of Spinosyn A () and Spinosyn D,131929-60-7,CC[C@H]1CCC[C@H](O[C@H]2CC[C@H](N(C)C)[C@@H](C)O2)[C@@H](C)C(=O)C2=C[C@@H]3[C@@H](C=C[C@@H]4C[C@@H](O[C@@H]5O[C@@H](C)[C@H](OC)[C@@H](OC)[C@H]5OC)C[C@@H]34)[C@@H]2CC(=O)O1,3
+SRPJGPPDQIFOGY,c1ccccc1,,,,,"Triisopropanolamine Salt of 2,4-Dichlorophenoxyacetic Acid",,CC(O)CN(CC(C)O)CC(C)O.O=C(O)COc1ccc(Cl)cc1Cl,2
+SRYMBUMLIMKZJO,__ACYCLIC__,,,,,"1-[2,2-Bis(2-methylpropoxymethyl)butoxy]propan-2-amine",,CCC(COCC(C)C)(COCC(C)C)COCC(C)N,2
+STAPBGVGYWCRTF,c1ccccc1,,,,,MCPA sodium salt (active ingredient),3653-48-3,Cc1cc(Cl)ccc1OCC(=O)[O-].[Na+],2
+STJLVHWMYQXCPB,c1ccc(C2(Cn3cncn3)OCCO2)cc1,NC,phase1,NC,phase1,Propiconazole,60207-90-1,CCCC1COC(CN2C=NC=N2)(O1)C1=C(Cl)C=C(Cl)C=C1,25
+SUKJFIGYRHOWBL,__ACYCLIC__,1,팀원A,1,팀원A,Sodium Hypochlorite [C]Corrosive,7681-52-9,[Na+].[O-]Cl,6
+SUSQOBVLVYHIEX,c1ccccc1,NC,phase1,NC,phase1,Phenylacetonitrile,,N#CCc1ccccc1,1
+SVURIXNDRWRAFU,C1CC2CC3CCCC3(C1)C2,,,,,Cedrol,,C[C@@H]1CC[C@H]2C(C)(C)[C@H]3C[C@@]12CC[C@@]3(C)O,1
+SWXVUIWOUIDPGS,__ACYCLIC__,2,팀원A,NC,팀원A,Diacetone Alcohol,123-42-2,CC(=O)CC(C)(C)O,2
+SXRSQZLOMIGNAQ,__ACYCLIC__,1,팀원A,1,팀원A,Glutaraldehyde,111-30-8,O=CCCCC=O,4
+SXSGXWCSHSVPGB,O=C(Nc1ccccc1-c1ccccc1)c1cn[nH]c1,NC,팀원A,NC,팀원A,Fluxapyroxad,907204-31-3,Cn1cc(C(=O)Nc2ccccc2-c2cc(F)c(F)c(F)c2)c(C(F)F)n1,10
+SXYRTDICSOVQNZ,__ACYCLIC__,,,,,2-Methoxyethoxyethanol,,COCCOC(C)O,2
+SYELZBGXAIXKHU,__ACYCLIC__,1,팀원A,2,팀원A,"N,N-Dimethyldodecylamine-N-oxide",1643-20-5,CCCCCCCCCCCC[N+](C)(C)[O-],1
+SYJGKVOENHZYMQ,O=S(=O)(Nc1nc2ccncn2n1)c1ccccc1,NC,팀원A,NC,팀원A,Penoxsulam,219714-96-2,COC1=CN=C(OC)N2N=C(NS(=O)(=O)C3=C(C=CC=C3OCC(F)F)C(F)(F)F)N=C12,16
+TWFZGCMQGLPBSX,c1ccc2[nH]cnc2c1,NC,팀원A,NC,팀원A,Carbendazim,10605-21-7,COC(=O)NC1=NC2=CC=CC=C2N1,7
+TYIYMOAHACZAMQ,c1ccc(Oc2ccccc2)cc1,NC,팀원A,NC,팀원A,Cyhalofop-butyl,122008-85-9,CCCCOC(=O)[C@@H](C)OC1=CC=C(OC2=C(F)C=C(C=C2)C#N)C=C1,5
+TZCXTZWJZNENPQ,__ACYCLIC__,NC,팀원A,NC,팀원A,Barium Sulphate,7727-43-1,O=S(=O)([O-])[O-].[Ba+2],2
+UAHWPYUMFXYFJY,__ACYCLIC__,2A,phase1,2,phase1,Myrcene,,C=CC(=C)CCC=C(C)C,12
+UBAUJRANUAYEKE,C1=CCCCC1,2A,phase1,2,phase1,"3-Buten-2-one, 3-methyl-4-(3,5,6-trimethyl-3-cyclohexen-1-yl)-",,CC(=O)/C(C)=C/C1CC(C)=CC(C)C1C,1
+UBCKGWBNUIFUST,c1ccccc1,NC,팀원A,NC,팀원A,Tetrachlorvinphos,22248-79-9,COP(=O)(OC)O/C(=C\Cl)c1cc(Cl)c(Cl)cc1Cl,3
+UBQNRHZMVUUOMG,c1ccc2oncc2c1,,,,,Zonisamide,,NS(=O)(=O)Cc1noc2ccccc12,1
+UCDPMNSCCRBWIC,O=C(Nc1ncccn1)NS(=O)(=O)Nc1ccccc1,NC,팀원A,NC,팀원A,Orthosulfamuron,213464-77-8,COC1=CC(OC)=NC(NC(=O)NS(=O)(=O)NC2=C(C=CC=C2)C(=O)N(C)C)=N1,2
+UDPGUMQDCGORJQ,__ACYCLIC__,1,팀원A,1,팀원A,2-Cloroethylphosphonic acid,16672-87-0,OP(O)(=O)CCCl,2
+UEUXEKPTXMALOB,__ACYCLIC__,1,phase1,NC,phase1,Edetate Sodium,,O=C([O-])CN(CCN(CC(=O)[O-])CC(=O)[O-])CC(=O)[O-].[Na+].[Na+].[Na+].[Na+],1
+UFEIWEXHHOXPGP,O=C([N-]S(=O)(=O)c1ccccn1)Nc1ncccn1,NC,팀원A,NC,팀원A,"Synonyms : Trifloxysulfuron sodium,Trifloxysulfuron sodium salt",199119-58-9,COc1cc(OC)nc(NC(=O)[N-]S(=O)(=O)c2ncccc2OCC(F)(F)F)n1.[Na+],6
+UFEODZBUAFNAEU,N=C(C1=NOCCO1)c1ccccc1Oc1cc(Oc2ccccc2)ncn1,NC,팀원A,NC,팀원A,Fluoxastrobin,361377-29-9,CO/N=C(/C1=NOCCO1)c1ccccc1Oc1ncnc(Oc2ccccc2Cl)c1F,4
+UFNOUKDBUJZYDE,c1ccc(C(CC2CC2)Cn2cncn2)cc1,NC,팀원A,NC,팀원A,Cyproconazole,94361-06-5,CC(C1CC1)C(O)(CN1C=NC=N1)C1=CC=C(Cl)C=C1,8
+UFWIBTONFRDIAS,c1ccc2ccccc2c1,NC,팀원A,NC,팀원A,Napthalene (from aromatic hydrocarbon) 3 High 0 Reactivity,91-20-3,c1ccc2ccccc2c1,20
+UHXUZOCRWCRNSJ,__ACYCLIC__,NC,팀원A,NC,팀원A,Methomyl,16752-77-5,CNC(=O)ON=C(C)SC,4
+ULBTUVJTXULMLP,__ACYCLIC__,NC,팀원A,NC,팀원A,butyl stearate,123-95-5,CCCCCCCCCCCCCCCCCC(=O)OCCCC,1
+UOBSVARXACCLLH,__ACYCLIC__,NC,팀원A,NC,팀원A,"Hexanedioic acid, monomethyl ester",627-91-8,COC(=O)CCCCC(=O)O,2
+UPMLOUAZCHDJJD,c1ccc(Cc2ccccc2)cc1,2,팀원A,2,팀원A,Methylenediphenyl diisocyanate,101-68-8,O=C=Nc1ccc(Cc2ccc(N=C=O)cc2)cc1,3
+UTYIRBZMZJZIFV,O=C1C=CCCC1.O=C1C=CCCC1,NC,팀원A,NC,팀원A,Prohexadione-calcium,127277-53-6,[Ca++].[Ca++].CCC(=O)C1=C([O-])CC(CC1=O)C([O-])=O.CCC(=O)C1=C([O-])CC(CC1=O)C([O-])=O,4
+UWKAYLJWKGQEPM,__ACYCLIC__,,,,,Linalyl Acetate,,C=CC(C)(CCC=C(C)C)OC(C)=O,3
+UZCGKGPEKUCDTF,c1ccc(Nc2ccccn2)cc1,,,,,Fluazinam,79622-59-6,O=[N+]([O-])c1cc(C(F)(F)F)c(Cl)c([N+](=O)[O-])c1Nc1ncc(C(F)(F)F)cc1Cl,3
+VAMXMNNIEUEQDV,c1ccccc1,2A,phase1,NC,phase1,Methyl Anthranilate,,COC(=O)c1ccccc1N,2
+VAYOSLLFUXYJDT,C1=C2c3cccc4[nH]cc(c34)CC2NCC1,,,,,acid,,CCN(CC)C(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1,2
+VBCVPMMZEGZULK,O=C(Nc1ccccc1)N1COC2Cc3ccccc3C2=N1,NC,팀원A,NC,팀원A,Indoxacarb,173584-44-6,COC(=O)N(C(=O)N1CO[C@]2(CC3=C(C=CC(Cl)=C3)C2=N1)C(=O)OC)C1=CC=C(OC(F)(F)F)C=C1,2
+VDLGAVXLJYLFDH,O=C(Nc1ccccc1)C1CCCCC1,NC,phase1,NC,phase1,"dicarboximide ,  (Main constituent) ,  ,  ,  fenhexamid 10-20",126833-17-8,CC1(C(=O)Nc2ccc(O)c(Cl)c2Cl)CCCCC1,6
+VEVZCONIUDBCDC,c1ccc(Cc2cncnc2)cc1,2,팀원A,2,팀원A,Flurprimidol,56425-91-3,CC(C)C(O)(C1=CC=C(OC(F)(F)F)C=C1)C1=CN=CN=C1,2
+VEXZGXHMUGYJMC,__ACYCLIC__,1,팀원A,1,팀원A,Hydrochloric Acid HCl g/mol,7647-01-0,Cl,4
+VGTBJCXVMSBEEQ,c1ccccc1,,,,,N-(4-Nitrophenyl)-N'-propylurea,13141-86-1,CCCNC(=O)Nc1ccc([N+](=O)[O-])cc1,3
+VHLKTXFWDRXILV,c1ccc(-c2ccccc2)cc1,2,팀원A,NC,팀원A,Bifenazate,149877-41-8,COc1ccc(-c2ccccc2)cc1NNC(=O)OC(C)C,2
+VILCJCGEZXAXTO,__ACYCLIC__,1,팀원A,1,팀원A,triethylenetetramine w/w,112-24-3,NCCNCCNCCN,2
+VJYFKVYYMZPMAB,__ACYCLIC__,NC,팀원A,NC,팀원A,Ethoprop,13194-48-4,CCCSP(=O)(OCC)SCCC,1
+VJYIFXVZLXQVHO,O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,,,,,chlorsulfuron,64902-72-3,COc1nc(C)nc(NC(=O)NS(=O)(=O)c2ccccc2Cl)n1,2
+VKONPUDBRVKQLM,C1CCCCC1,,,,,"1,4-Cyclohexanediol, mixture of cis and trans",556-48-9,OC1CCC(O)CC1,1
+VKYKSIONXSXAKP,C1N2CN3CN1CN(C2)C3,,,,,Hexamethylene Tetramine,,C1N2CN3CN1CN(C2)C3,1
+VLCQZHSMCYCDJL,O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,2,팀원A,NC,팀원A,Tribenuron-methyl,101200-48-0,COC(=O)C1=CC=CC=C1S(=O)(=O)NC(=O)N(C)C1=NC(OC)=NC(C)=N1,8
+VLKZOEOYAKHREP,__ACYCLIC__,,,,,Hexane,,CCCCCC,2
+VLXDPFLIRFYIME,C1=CC2C3CCCC2C3C1,,,,,Copaene,,CC1=CC[C@H]2[C@H]3[C@@H]1[C@]2(C)CC[C@H]3C(C)C,1
+VMUXSMXIQBNMGZ,O=C1CCc2ccccc2O1,,,,,Dihydrocoumarin,119-84-6,O=C1CCc2ccccc2O1,1
+VNWKTOKETHGBQD,__ACYCLIC__,,,,,methane 0.0001,,C,2
+VSMOENVRRABVKN,__ACYCLIC__,,,,,1-Octen-3-Ol,,C=CC(O)CCCCC,1
+VTNQPKFIQCLBDU,c1ccccc1,NC,phase1,2,phase1,Acetochlor,34256-82-1,CCOCN(C(=O)CCl)C1=C(CC)C=CC=C1C,17
+VTOZSZHERIQMJG,O=C1CNC=CC1C=[NH+]CCC1C(=O)Nc2ccccc21,,,,,VCP,,CC1NC=C(COP(=O)(O)O)C(C=[NH+][C@@H](C[C@@H]2C(=O)Nc3ccccc32)C(=O)O)C1=O,2
+VTYYLEPIZMXCLO,__ACYCLIC__,NC,phase1,NC,phase1,Calcium carbonate <,1317-65-3,O=C([O-])[O-].[Ca+2],11
+VVQNEPGJFQJSBK,__ACYCLIC__,,,,,Methyl Methacrylate,,C=C(C)C(=O)OC,2
+VXSIXFKKSNGRRO,O=C1C=CC(OC(=O)C2CC2)C1.O=C1C=CC(OC(=O)C2CC2)C1,NC,팀원A,NC,팀원A,Pyrethrins,8003-34-7,C=C/C=C\CC1=C(C)[C@@H](OC(=O)[C@@H]2[C@@H](/C=C(\C)C(=O)OC)C2(C)C)CC1=O.C=C/C=C\CC1=C(C)[C@@H](OC(=O)[C@@H]2[C@@H](C=C(C)C)C2(C)C)CC1=O,14
+VYPSYNLAJGMNEJ,__ACYCLIC__,2,팀원A,2,팀원A,Silica,14808-60-7,O=[Si]=O,47
+VZCYOOQTPOCHFL,__ACYCLIC__,,,,,Fumaric Acid,,O=C(O)/C=C/C(=O)O,2
+VZJVWSHVAAUDKD,__ACYCLIC__,,,,,Potassium Permanganate,,[K+].[O]=[Mn](=[O])(=[O])[O-],2
+WBIQQQGBSDOWNP,c1ccccc1,,,,,Dodecylbenzenesulfonic acid,,CCCCCCCCCCCCc1ccccc1S(=O)(=O)O,2
+WCUXLLCKKVVCTQ,__ACYCLIC__,,,,,Muriate of Potash,7447-40-7,[Cl-].[K+],7
+WCXDHFDTOYPNIE,c1ccncc1,NC,팀원A,NC,팀원A,Acetamiprid,135410-20-7,CC(=NC#N)N(C)Cc1ccc(Cl)nc1,8
+WEEGYLXZBRQIMU,C1CC2CCC1CO2,2B,phase1,NC,phase1,"1,8-Cineole",470-82-6,CC12CCC(CC1)C(C)(C)O2,11
+WEKMZMIIYLFEIJ,__ACYCLIC__,,,,,Sodium chlorite,,[Na+].[O-][Cl+][O-],2
+WEVYAHXRMPXWCK,__ACYCLIC__,2,팀원A,NC,팀원A,acetonitrile,75-05-8,CC#N,3
+WFDXOXNFNRHQEC,c1ccc(Oc2cc(Oc3ccccc3)ncn2)cc1,NC,팀원A,NC,팀원A,Azoxystrobin,131860-33-8,CO/C=C(/C(=O)OC)c1ccccc1Oc1cc(Oc2ccccc2C#N)ncn1,29
+WGYZMNBUZFHYRX,__ACYCLIC__,,,,,Dipropylene Glycol Monomethyl Ether (DPM) ≥75-≤90,34590-94-8,COCC(C)OCC(C)O,2
+WHNWPMSKXPGLAX,O=C1CCCN1,,,,,Polyvinylpyrrolidone max NA,9003-39-8,C=CN1CCCC1=O,2
+WJCNZQLZVWNLKY,c1ccc2[nH]c(-c3cscn3)nc2c1,NC,팀원A,NC,팀원A,Thiabendazole,148-79-8,c1ccc2[nH]c(-c3cscn3)nc2c1,11
+WLLGXSLBOPFWQV,O=C1NC(=O)C2C3C=CC(C3)C12,NC,팀원A,NC,팀원A,N-OCTYL BICYCLOHEPTENE DICARBOXIMIDE,113-48-4,CCCCC(CC)CN1C(=O)[C@@H]2[C@H](C1=O)[C@@H]1C=C[C@H]2C1,7
+WMWBFVSTSRDWRL,__ACYCLIC__,,,,,Potassium silicate <=100,1312-76-1,O=[Si]([O-])O.[K+],2
+WNTGYJSOUMFZEP,c1ccccc1,1,phase1+팀원A,2,phase1,(+/-)-2-(4-Chloro-2-methylphenoxy)propionic acid,93-65-2,CC(OC1=C(C)C=C(Cl)C=C1)C(O)=O,8
+WOWHHFRSBJGXCM,__ACYCLIC__,1,팀원A,1,팀원A,Hexadecyltrimethylammonium chloride (Cetrimonium chloride / CTAC),112-02-7,[Cl-].CCCCCCCCCCCCCCCC[N+](C)(C)C,1
+WPALTCMYPARVNV,O=C(NCc1ccc(Oc2ccccc2)cc1)c1ccn[nH]1,2A,phase1,2,phase1,GSP Crop Science Limited,,CCc1nn(C)c(C(=O)NCc2ccc(Oc3ccc(C)cc3)cc2)c1Cl,2
+WPFFGMCNILGTEA,C1=CCC2(CC1)CCCC2,,,,,1-(Spiro[4.5]dec-7-en-7-yl)pent-4-en-1-one / 1-(Spiro[4.5]dec-6-en-7-yl)pent-4-en-1-one (isomer mixture),224031-70-3,C=CCCC(=O)C1=CCCC2(CCCC2)C1,1
+WPFVBOQKRVRMJB,__ACYCLIC__,,,,,Hydroxycitronellal,107-75-5,CC(CC=O)CCCC(C)(C)O,3
+WPPOGHDFAVQKLN,O=C1CCCN1,,,,,N-Octylpyrrolidone,,CCCCCCCCN1CCCC1=O,2
+WPYMKLBDIGXBTP,c1ccccc1,1,phase1,2,phase1,Benzoic Acid,,O=C(O)c1ccccc1,1
+WREGKURFCTUGRC,O=c1ncccn1C1CCCO1,,,,,"2',3'-Dideoxycytidine",,Nc1ccn([C@H]2CC[C@@H](CO)O2)c(=O)n1,1
+WRMNZCZEMHIOCP,c1ccccc1,2A,phase1,NC,phase1,2-Phenylethanol,,OCCc1ccccc1,1
+WRPIRSINYZBGPK,c1ccc(Oc2ccnc3ccccc23)cc1,NC,phase1,NC,phase1,quinoxyfen,124495-18-7,Fc1ccc(Oc2ccnc3cc(Cl)cc(Cl)c23)cc1,4
+WRYLYDPHFGVWKC,C1=CCCCC1,,,,,Terpinen-4-ol,,CC1=CCC(O)(C(C)C)CC1,5
+WSDISUOETYTPRL,O=C1CNC(=O)N1,2,팀원A,2,팀원A,"1,3-Dimethylol-5,5-dimethylhydantoin",6440-58-0,CC1(C)N(CO)C(=O)N(CO)C1=O,2
+WSFSSNUMVMOOMR,__ACYCLIC__,1,phase1,1,phase1,Formaldehyde,50-00-0,C=O,2
+WTARULDDTDQWMU,C=C1CCC2CC1C2,NC,phase1,2,phase1,Beta-Pinene,127-91-3,C=C1CCC2CC1C2(C)C,13
+WTEVQBCEXWBHNA,__ACYCLIC__,,,,,Citral,,CC(C)=CCC/C(C)=C/C=O,3
+WUOACPNHFRMFPN,C1=CCCCC1,2A,phase1,2,phase1,Alpha-Terpineol,,CC1=CCC(C(C)(C)O)CC1,8
+WUSMTFVMXOQYCT,c1ccccc1,,,,,Phenol ethoxylate phosphate ester (2-Phenoxyethanol계),,O=P(O)(O)O.OCCOc1ccccc1,1
+WVDDGKGOMKODPV,c1ccccc1,2A,phase1,NC,phase1,Benzyl Alcohol,100-51-6,OCc1ccccc1,7
+WVQBLGZPHOPPFO,c1ccccc1,NC,팀원A,NC,팀원A,Identifiers,87392-12-9,CCc1cccc(C)c1N(C(=O)CCl)[C@@H](C)COC,3
+WWZKQHOCKIZLMA,__ACYCLIC__,1,팀원A,1,팀원A,Caprylic Acid (Octanoic acid),124-07-2,CCCCCCCC(O)=O,5
+WXQGPFZDVCRBME,C1=CC2CC23CCCCC3C1,,,,,Thujopsene,,CC1=CC[C@]2(C)CCCC(C)(C)[C@@]23C[C@@H]13,1
+WXZVAROIGSFCFJ,c1ccc2ccccc2c1,2,팀원A,NC,팀원A,"Component CAS No. Weight, % Hazard Code Napropamide   - Surfactant  to <  , ,  Surfactant 2 - <  , ,  Solvent - >",15299-99-7,CCN(CC)C(=O)C(C)Oc1cccc2ccccc12,7
+WYEMLYFITZORAB,O=C(Nc1ccccc1-c1ccccc1)c1cccnc1,NC,phase1,NC,phase1,Boscalid,188425-85-6,ClC1=CC=C(C=C1)C1=C(NC(=O)C2=C(Cl)N=CC=C2)C=CC=C1,8
+WYVVKGNFXHOCQV,__ACYCLIC__,1,phase1,NC,phase1,3-Iodo-2-propynyl-N-butylcarbamate,55406-53-6,CCCCNC(=O)OCC#CI,12
+WZJZMXBKUWKXTQ,O=C(Nc1ccccc1)Oc1ccccc1,NC,팀원A,NC,팀원A,desmedipham (ISO); ethyl 3-phenylcarbamoyloxyphenylcarbamate 15,13684-56-5,CCOC(=O)Nc1cccc(OC(=O)Nc2ccccc2)c1,3
+XAPCMTMQBXLDBB,__ACYCLIC__,,,,,Hexyl butyrate,,CCCCCCOC(=O)CCC,2
+XCJYREBRNVKWGJ,c1ccc2c(c1)-c1nc-2nc2[n-]c(nc3nc(nc4[n-]c(n1)c1ccccc41)-c1ccccc1-3)c1ccccc21,,,,,Copper phthalocyanine,,[Cu+2].c1ccc2c(c1)-c1nc-2nc2[n-]c(nc3nc(nc4[n-]c(n1)c1ccccc41)-c1ccccc1-3)c1ccccc21,1
+XCVNDBIXFPGMIW,__ACYCLIC__,1,팀원A,1,팀원A,"1-Propanamine, N-ethyl- (N-ethylpropylamine, i.e. EP-Amin)",20193-20-8,CCCNCC,1
+XDDAORKBJWWYJS,__ACYCLIC__,1,phase1,2,phase1,Glyphosate,1071-83-6,OC(=O)CNCP(O)(O)=O,34
+XDOTVMNBCQVZKG,__ACYCLIC__,NC,phase1,NC,phase1,Thiodicarb,59669-26-0,CSC(C)=NOC(=O)N(C)SN(C)C(=O)ON=C(C)SC,5
+XDTMQSROBMDMFD,C1CCCCC1,NC,팀원A,2,팀원A,Cyclohexane,110-82-7,C1CCCCC1,1
+XERJKGMBORTKEO,__ACYCLIC__,NC,팀원A,NC,팀원A,Cymoxanil,57966-95-7,CCNC(=O)NC(=O)/C(C#N)=N/OC,9
+XLIDPNGFCHXNGX,__ACYCLIC__,,,,,Clay,,[Al+3].[Al+3].[O-2].[O-2].[O-2].[O-2].[O-2].[Si+4],2
+XLYOFNOQVPJJNP,__ACYCLIC__,NC,phase1,NC,phase1,Water,7732-18-5,O,19
+XMGQYMWWDOXHJM,C1=CCCCC1,2A,phase1,2,phase1,1-Methyl-4-Prop-1-En-2-Ylcyclohexene,5989-27-5,C=C(C)C1CC=C(C)CC1,20
+XMTQQYYKAHVGBJ,c1ccccc1,NC,팀원A,NC,팀원A,Diuron,330-54-1,CN(C)C(=O)NC1=CC(Cl)=C(Cl)C=C1,21
+XNFIRYXKTXAHAC,c1ccc(-c2ccc[nH]2)cc1,NC,phase1,NC,phase1,Tralopyril,122454-29-9,N#Cc1c(-c2ccc(Cl)cc2)[nH]c(C(F)(F)F)c1Br,4
+XOPFESVZMSQIKC,O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,NC,팀원A,NC,팀원A,Triasulfuron,82097-50-5,COC1=NC(C)=NC(NC(=O)NS(=O)(=O)C2=C(OCCCl)C=CC=C2)=N1,2
+XQJQCBDIXRIYRP,O=C(Nc1ccccc1C1CC1C1CC1)c1cn[nH]c1,NC,팀원A,NC,팀원A,Sedaxane,874967-67-6,Cn1cc(C(=O)Nc2ccccc2C2CC2C2CC2)c(C(F)F)n1,6
+XQUXKZZNEFRCAW,O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,NC,팀원A,NC,팀원A,Fenpropathrin,39515-41-8,CC1(C)C(C(=O)OC(C#N)C2=CC=CC(OC3=CC=CC=C3)=C2)C1(C)C,2
+XSKZXGDFSCCXQX,O=C(NS(=O)(=O)c1ccsc1)n1nc[nH]c1=O,NC,팀원A,NC,팀원A,Thiencarbazone-methyl,317815-83-1,COC(=O)c1csc(C)c1S(=O)(=O)NC(=O)n1nc(OC)n(C)c1=O,9
+XSQUKJJJFZCRTK,__ACYCLIC__,,,,,Urea,57-13-6,NC(N)=O,6
+XTRDKALNCIHHNI,c1ccccc1,NC,팀원A,NC,팀원A,"2,6-Dinitrotoluene",606-20-2,Cc1c([N+](=O)[O-])cccc1[N+](=O)[O-],1
+XVOKUMIPKHGGTN,O=C1CN=C(c2ccccn2)N1,NC,팀원A,NC,팀원A,Imazethapyr,81335-77-5,CCC1=CN=C(C2=NC(C)(C(C)C)C(=O)N2)C(=C1)C(O)=O,5
+XWPZUHJBOLQNMN,c1ccc(CC2CCCC2Cn2cncn2)cc1,1,팀원A,1,팀원A,"Metconazole (-[(4-chlorophenyl)methyl]-2,2-dimethyl-1-(1H-1,2,4- 38-43 Active Ingredient",125116-23-6,CC1(C)CCC(Cc2ccc(Cl)cc2)C1(O)Cn1cncn1,10
+XWROTTLWMHCFEC,O=c1sc(=Nc2ccccc2)n2n1CCCC2,,,,,"({2-Chloro-4-fluoro-5-[(3-oxotetrahydro-1H,3H-[1,3,4]thiadiazolo[3,4-a]pyridazin-1-ylidene)amino]phenyl}sulfanyl)acetic acid",149253-65-6,OC(=O)CSC1=CC(N=C2SC(=O)N3CCCCN23)=C(F)C=C1Cl,2
+XYCWOLUUHSNDRX,__ACYCLIC__,,,,,"Asbestos, Amosite",12172-73-5,O=[Si](O[Si]([O-])([O-])[O-])O[Si]([O-])([O-])O[Si](=O)O[Si]([O-])([O-])O[Si]([O-])([O-])O[Si](=O)O[Si]([O-])([O-])[O-].[Fe+2].[Fe+2].[Fe+2].[Fe+2].[Fe+2].[Fe+2].[Fe+2].[OH-].[OH-],1
+XZRVRYFILCSYSP,C1=CCCCC1,,,,,Beta-Bisabolene,,C=C(CCC=C(C)C)[C@@H]1CC=C(C)CC1,3
+YADYXCVYLIKQJX,c1ccc2nc3ccccc3cc2c1.c1ccc2nc3ccccc3cc2c1,,,,,0-1 proflavine hemisulfate dihydrate,1811-28-5,Nc1ccc2cc3ccc(N)cc3nc2c1.Nc1ccc2cc3ccc(N)cc3nc2c1.O=S(=O)(O)O,2
+YASYVMFAVPKPKE,__ACYCLIC__,NC,팀원A,NC,팀원A,Acephate,30560-19-1,COP(=O)(NC(C)=O)SC,8
+YCLUIPQDHHPDJJ,c1ccc2c(c1)Oc1ccccc1O2,,,,,"1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin",57653-85-7,Clc1cc2c(c(Cl)c1Cl)Oc1cc(Cl)c(Cl)c(Cl)c1O2,1
+YDEXUEFDPVHGHE,c1ccc(CCOc2ccccc2)cc1,,,,,1-2 Sodium alkylnaphthalenesulfonate,8061-51-6,COc1cc(CCCS(=O)(=O)[O-])ccc1OC(Cc1cccc(OC)c1O)CS(=O)(=O)[O-].[Na+].[Na+],4
+YDONNITUKPKTIG,__ACYCLIC__,2,팀원A,2,팀원A,Aminotrimethylene phosphonic acid (ATMP / Amino tris(methylenephosphonic acid)),6419-19-8,OP(O)(=O)CN(CP(O)(O)=O)CP(O)(O)=O,1
+YEJRWHAVMIAJKC,O=C1CCCO1,,,,,gamma-butyrolactone >= 1 - <,,O=C1CCCO1,4
+YFBPRJGDJKVWAH,c1ccccc1,NC,팀원A,NC,팀원A,Methiocarb,2032-65-7,CNC(=O)Oc1cc(C)c(SC)c(C)c1,2
+YFONKFDEZLYQDH,c1ccc2c(c1)CCC2Nc1ncncn1,NC,팀원A,NC,팀원A,Indaziflam,950782-86-2,CC(F)C1=NC(N)=NC(N[C@@H]2[C@@H](C)CC3=C2C=C(C)C=C3)=N1,6
+YHAJBLWYOIUHHM,C1=C2CCCC2CCCC1,,,,,alpha-Bulnesene,,C=C(C)[C@@H]1CCC(C)=C2CC[C@H](C)[C@@H]2C1,2
+YHQGMYUVUMAZJR,C1=CCCC=C1,,,,,Alpha-Terpinene,,CC1=CC=C(C(C)C)CC1,4
+YIKSCQDJHCMVMK,__ACYCLIC__,,,,,"Synonyms : oxamide,oxalamide",471-46-5,NC(=O)C(N)=O,4
+YIXJRHPUWRPCBB,__ACYCLIC__,2,팀원A,2,팀원A,magnesium nitrate >= 20 - <,10377-60-3,O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Mg+2],4
+YKBZOVFACRVRJN,C1CCOC1,NC,phase1,NC,phase1,1-Methyl-2-nitro-3-((tetrahydrofuran-3-yl)methyl)guanidine,165252-70-0,CNC(NCC1CCOC1)=N[N+]([O-])=O,21
+YKFLAYDHMOASIY,C1=CCC=CC1,,,,,Gamma-Terpinene,,CC1=CCC(C(C)C)=CC1,5
+YLHCJWZWKGVBOS,O=C1NC(=O)C2C3C=CC(C3)C12,NC,팀원A,NC,팀원A,"1,2,3,6-Tetrahydro-N-octyl-3,6-methanophthalimide",7786-80-3,CCCCCCCCN1C(=O)C2C3CC(C=C3)C2C1=O,4
+YMBFCQPIMVLNIU,C1=CC2CC(C1)C2,,,,,Trans-alpha-Bergamotene,,CC(C)=CCC[C@]1(C)[C@H]2CC=C(C)[C@@H]1C2,2
+YMWUJEATGCHHMB,__ACYCLIC__,2,팀원A,2,팀원A,Methylene Chloride,75-09-0,ClCCl,2
+YNJBWRMUSHSURL,__ACYCLIC__,,,,,Trichloroacetic Acid,,O=C(O)C(Cl)(Cl)Cl,1
+YNQLUTRBYVCPMQ,c1ccccc1,NC,팀원A,NC,팀원A,Ethylbenzene,100-41-4,CCc1ccccc1,11
+YREQHYQNNWYQCJ,c1ccc(CCOCc2cccc(Oc3ccccc3)c2)cc1,NC,phase1,NC,phase1,Etofenprox,80844-07-1,CCOC1=CC=C(C=C1)C(C)(C)COCC1=CC(OC2=CC=CC=C2)=CC=C1,3
+YRIZYWQGELRKNT,O=c1[nH]c(=O)[nH]c(=O)[nH]1,2A,phase1,NC,phase1,Trichloroisocyanuric Acid,87-90-1,O=c1n(Cl)c(=O)n(Cl)c(=O)n1Cl,18
+YTYGAJLZOJPJGH,O=C(NC(=O)c1ccccc1)Nc1ccccc1,NC,phase1,NC,phase1,Noviflumuron,121451-02-3,FC(C(F)(F)F)C(F)(F)OC1=C(Cl)C=C(NC(=O)NC(=O)C2=C(F)C=CC=C2F)C(F)=C1Cl,4
+YUBJPYNSGLJZPQ,c1ccncc1,NC,phase1,NC,phase1,Dithiopyr,97886-45-8,CSC(=O)C1=C(N=C(C(C(=O)SC)=C1CC(C)C)C(F)(F)F)C(F)F,4
+YWTYJOPNNQFBPC,N=C1NCCN1Cc1cccnc1,NC,phase1,NC,phase1,Imidacloprid,138261-41-3,O=[N+]([O-])/N=C1\NCCN1Cc1ccc(Cl)nc1,76
+YXFVVABEGXRONW,c1ccccc1,,,,,Toluene,108-88-3,Cc1ccccc1,8
+YXKMMRDKEKCERS,c1ccc(-c2cnc[nH]2)cc1,NC,팀원A,NC,팀원A,"Cyazofamid 4-chloro-2-cyano-N,N-dimethyl-5-p-tolylimidazole-1-sulfonamide",120116-88-3,Cc1ccc(-c2c(Cl)nc(C#N)n2S(=O)(=O)N(C)C)cc1,2
+YXWCBRDRVXHABN,O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1C=Cc1ccccc1,2,팀원A,2,팀원A,Flumethrin,69770-45-2,CC1(C)C(C=C(Cl)c2ccc(Cl)cc2)C1C(=O)OC(C#N)c1ccc(F)c(Oc2ccccc2)c1,8
+YYJNOYZRYGDPNH,C(=NOCc1ccccc1)c1cn[nH]c1Oc1ccccc1,NC,팀원A,NC,팀원A,Fenpyroximate,134098-61-6,CN1N=C(C)C(C=NOCC2=CC=C(C=C2)C(=O)OC(C)(C)C)=C1OC1=CC=CC=C1,2
+ZBMRKNMTMPPMMK,__ACYCLIC__,NC,phase1,NC,phase1,Glufosinate-ammonium,77182-82-2,[NH4+].CP(O)(=O)CCC(N)C([O-])=O,8
+ZEKANFGSDXODPD,__ACYCLIC__,NC,phase1,NC,phase1,Isopropylamine salt of glyphosate,38641-94-0,CC(C)N.O=C(O)CNCP(=O)(O)O,9
+ZFMSMUAANRJZFM,c1ccccc1,,,,,Estragole,,C=CCc1ccc(OC)cc1,1
+ZFSLODLOARCGLH,O=c1[nH]c(=O)[nH]c(=O)[nH]1,,,,,CYANURIC ACID,108-80-5,O=c1[nH]c(=O)[nH]c(=O)[nH]1,1
+ZFUKERYTFURFGA,O=C1OC2CC(CC=CC(OC3CCC(OC4CCCCO4)CO3)CC=CC=C3COC4CC=CC1C34)OC1(C=CCCO1)C2,NC,팀원A,NC,팀원A,Avermectin B1b,65195-56-4,[H][C@@]12OCC3=C/C=C/[C@H](C)[C@H](O[C@H]4C[C@H](OC)[C@@H](O[C@H]5C[C@H](OC)[C@@H](O)[C@H](C)O5)[C@H](C)O4)C(C)=CC[C@]4([H])C[C@@]([H])(C[C@@]5(O[C@H](C(C)C)[C@@H](C)C=C5)O4)OC(=O)[C@]([H])(C=C(C)[C@H]1O)[C@@]23O,4
+ZGNITFSDLCMLGI,O=C(Nc1ccccc1)c1ccccc1,NC,팀원A,NC,팀원A,Flubendiamide,272451-65-7,CC1=CC(=CC=C1NC(=O)C1=CC=CC(I)=C1C(=O)NC(C)(C)CS(C)(=O)=O)C(F)(C(F)(F)F)C(F)(F)F,2
+ZHLICBPIXDOFFG,c1ccc(-c2ccccc2)cc1,,,,,Polychlorinated Biphenyls (PCBs),1336-36-3,Clc1cc(-c2cc(Cl)c(Cl)c(Cl)c2)cc(Cl)c1Cl,1
+ZKAQFYDDTYGBBV,__ACYCLIC__,,,,,Zinc alkyl dithiophosphate ≥5 - <10,68649-42-3,CCCCCCCOP(=S)([S-])OCCCCCCC.CCCCCCCOP(=S)([S-])OCCCCCCC.[Zn+2],2
+ZLIBICFPKPWGIZ,c1ccc(Nc2ncccn2)cc1,NC,팀원A,NC,팀원A,Pyrimethanil (ISO) >= - <50 %,53112-28-0,Cc1cc(C)nc(Nc2ccccc2)n1,4
+ZMMDPCMYTCRWFF,__ACYCLIC__,,,,,Copper(II) carbonate basic,12069-69-1,O[Cu]OC(=O)O[Cu]O,2
+ZNQVEEAIQZEUHB,__ACYCLIC__,NC,팀원A,NC,팀원A,2-Ethoxyethanol (Cellosolve),110-80-5,CCOCCO,2
+ZOCSXAVNDGMNBV,c1ccc(-n2cccn2)cc1,NC,phase1,NC,phase1,Fipronil,120068-37-3,NC1=C(C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N)S(=O)C(F)(F)F,24
+ZOMSMJKLGFBRBS,O=C1NS(=O)(=O)Nc2ccccc21,2,팀원A,NC,팀원A,Bentazon,25057-89-0,CC(C)N1C(=O)c2ccccc2NS1(=O)=O,2
+ZPWVASYFFYYZEW,__ACYCLIC__,,,,,"Potassium Phosphate, Dibasic KH PO 00-10",7758-11-4,O=P([O-])([O-])O.[K+].[K+],2
+ZQEIXNIJLIKNTD,c1ccccc1,1,팀원A,NC,팀원A,(R)-Metalaxyl,57837-19-1,COCC(=O)N(c1c(C)cccc1C)[C@H](C)C(=O)OC,65
+ZQPPMHVWECSIRJ,__ACYCLIC__,2,팀원A,2,팀원A,Oleic acid,112-80-1,CCCCCCCCC=C/CCCCCCCC(O)=O,1
+ZRGAGHDXHBGIJK,c1ccc2ccccc2c1,,,,,"Sodium alkylnaphthalenesulfonate, formaldehyde condensate (-No)",36290-04-7,C=O.O=S(=O)([O-])c1ccc2ccccc2c1.[Na+],2
+ZSDSQXJSNMTJDA,c1ccccc1,NC,팀원A,NC,팀원A,Trifluralin 480 g/L,1582-09-8,CCCN(CCC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],8
+ZTHYODDOHIVTJV,c1ccccc1,,,,,Propyl Gallate,,CCCOC(=O)c1cc(O)c(O)c(O)c1,2
+ZTMKADLOSYKWCA,O=c1[nH]c2c(c(=O)n1C1CCCCC1)CCC2,,,,,Lenacil,,O=c1[nH]c2c(c(=O)n1C1CCCCC1)CCC2,1
+ZUPBLUYKASBIGF,C1C2CC3C1C3C2.C=C1CC2CCC1C2,NC,phase1,NC,phase1,Santalyl acetate,1323-00-8,C=C1[C@@H]2CC[C@@H](C2)[C@@]1(C)CC/C=C(/C)COC(C)=O.CC(=O)OC/C(C)=C\CC[C@]1(C)C2CC3[C@H](C2)C31C,1
+ZVQOOHYFBIDMTQ,c1ccncc1,,,,,Sulfoxaflor,,CC(c1ccc(C(F)(F)F)nc1)S(C)(=O)=NC#N,2
+ZWEHNKRNPOVVGH,__ACYCLIC__,2,팀원A,NC,팀원A,Butan-2-one w/w,78-93-3,CCC(C)=O,2
+ZXEKIIBDNHEJCQ,__ACYCLIC__,1,팀원A,2,팀원A,Isobutanol,78-83-1,CC(C)CO,4
+ZXPADFNEYYDQFL,O=c1cccccc1,,,,,"2-Hydroxy-4-(1-methylethenyl)-2,4,6-cycloheptatrien-1-one",,C=C(C)c1cccc(O)c(=O)c1,1
+ZXQYGBMAQZUVMI,O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,2,팀원A,2,팀원A,lambda-Cyhalothrin,91465-08-6,CC1(C)[C@H](C=C(/Cl)C(F)(F)F)[C@@H]1C(=O)O[C@@H](C#N)C1=CC(OC2=CC=CC=C2)=CC=C1,41
+ZYEMGPIYFIJGTP,c1ccccc1,NC,팀원A,NC,팀원A,"1,2-Dimethoxy-4-(2-propen-1-yl)benzene",93-15-2,COC1=CC=C(CC=C)C=C1OC,3
+ZYGHJZDHTFUPRJ,O=c1ccc2ccccc2o1,,,,,Coumarin,,O=c1ccc2ccccc2o1,2

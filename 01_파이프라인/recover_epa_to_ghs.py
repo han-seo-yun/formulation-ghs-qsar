@@ -44,7 +44,7 @@ from pathlib import Path
 import openpyxl
 import pandas as pd
 
-ROOT = Path("/Users/hanseoyun/Desktop/260830")
+ROOT = Path(__file__).resolve().parent.parent
 QA = ROOT / "04_모델산출물" / "v5_team_qa" / "소빈_S11_검수.csv"
 SRC = ROOT / "04_모델산출물" / "v4_fixed"
 OUT = ROOT / "04_모델산출물" / "v6_recovery"

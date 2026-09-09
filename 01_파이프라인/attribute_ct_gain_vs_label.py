@@ -40,7 +40,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import matthews_corrcoef, roc_auc_score
 from sklearn.model_selection import StratifiedGroupKFold
 
-ROOT = Path("/Users/hanseoyun/Desktop/260830")
+ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "04_모델산출물" / "v4_fixed"
 V6 = v6.V6                                    # 통합 단일 입력(읽기 전용)
 OUT = ROOT / "04_모델산출물" / "v6_jurisdiction"

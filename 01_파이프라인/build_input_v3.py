@@ -21,6 +21,7 @@
 import json
 import math
 import os
+from pathlib import Path
 import re
 import sys
 from collections import Counter, defaultdict
@@ -34,7 +35,8 @@ from lib_parse import (ct_predict, parse_form_extract, parse_ingredient_extract,
                        parse_physchem_extract, parse_tox_extract)
 from lib_tox11 import (T11_CODERIVED, T11_LABEL_SOURCE, parse_tox11)   # noqa: E402
 
-BASE = "/Users/hanseoyun/Desktop/260830"
+ROOT = str(Path(__file__).resolve().parent.parent)
+BASE = ROOT
 INPUT_DIR = f"{BASE}/03_입력데이터"
 DEPS_DIR = f"{BASE}/02_의존데이터"
 MODEL_DIR = f"{BASE}/04_모델산출물"

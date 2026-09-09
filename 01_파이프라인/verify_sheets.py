@@ -12,6 +12,7 @@
   - 판정 불가는 조용히 검증완료로 만들지 않고 미확인으로 남긴다.
 """
 import json
+from pathlib import Path
 import re
 import shutil
 import sys
@@ -20,10 +21,11 @@ from collections import Counter, defaultdict
 import openpyxl
 from openpyxl.worksheet.datavalidation import DataValidation
 
-SRC = "/Users/hanseoyun/Desktop/260830/dataset_2차배정.xlsx"
-DST = "/Users/hanseoyun/Desktop/260830/dataset_2차배정_verified.xlsx"
-CIPAC = "/Users/hanseoyun/Desktop/260830/formulation_harness/cipac_codes.json"
-REPORT = "/Users/hanseoyun/Desktop/260830/work/verify/verify_report.json"
+ROOT = str(Path(__file__).resolve().parent.parent)
+SRC = f"{ROOT}/dataset_2차배정.xlsx"
+DST = f"{ROOT}/dataset_2차배정_verified.xlsx"
+CIPAC = f"{ROOT}/formulation_harness/cipac_codes.json"
+REPORT = f"{ROOT}/work/verify/verify_report.json"
 
 OK, NONE_, REVIEW, UNK = "검증완료", "정보없음", "재검토필요", "미확인"
 

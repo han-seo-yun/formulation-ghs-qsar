@@ -14,7 +14,7 @@ from docx import Document
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.shared import Pt, RGBColor
 
-ROOT = Path("/Users/hanseoyun/Desktop/260830")
+ROOT = Path(__file__).resolve().parent.parent
 JUR = ROOT / "04_모델산출물" / "v6_jurisdiction"
 OUT = JUR / "보고서_모델현황_데이터현황_성능_한계.docx"
 

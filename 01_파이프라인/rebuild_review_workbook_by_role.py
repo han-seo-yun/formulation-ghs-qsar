@@ -24,7 +24,7 @@ from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
 from openpyxl.utils import get_column_letter
 from openpyxl.worksheet.datavalidation import DataValidation
 
-ROOT = Path("/Users/hanseoyun/Desktop/신작물보호제")
+ROOT = Path(__file__).resolve().parent.parent
 REV = ROOT / "04_모델산출물" / "v6_수동검토"
 WB_IN = REV / "수동검토_최종판단_작업파일_이전판_260904백업.xlsx"
 WB_OUT = REV / "dataset_배정_260904.xlsx"  # 구 파일명 수동검토_최종판단_작업파일.xlsx, 드라이브 업로드 후 이 이름으로 남음

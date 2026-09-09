@@ -1,0 +1,11 @@
+﻿결측처리,기준,대조,Δ,t_df4,p,시드양수
+nan0,A0_base,A2_aug_nc_unknown,0.0348,7.94,0.0014,5
+nan0,A0_base,A3_aug_annexvi,0.0364,8.74,0.0009,5
+nan0,A2_aug_nc_unknown,A3_aug_annexvi,0.0016,1.04,0.3559,2
+nan0,A2_aug_nc_unknown,A3s_aug_annexvi_strict,-0.0055,-5.26,0.0062,0
+nan0,A3_aug_annexvi,A3s_aug_annexvi_strict,-0.0071,-4.99,0.0075,0
+native,A0_base,A2_aug_nc_unknown,0.0272,6.91,0.0023,5
+native,A0_base,A3_aug_annexvi,0.0491,20.63,0.0,5
+native,A2_aug_nc_unknown,A3_aug_annexvi,0.0219,7.56,0.0016,5
+native,A2_aug_nc_unknown,A3s_aug_annexvi_strict,0.0086,3.72,0.0204,5
+native,A3_aug_annexvi,A3s_aug_annexvi_strict,-0.0133,-5.87,0.0042,0

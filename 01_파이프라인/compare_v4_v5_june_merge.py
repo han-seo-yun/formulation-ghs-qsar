@@ -7,12 +7,14 @@
   04_모델산출물/v4_fixed/v4_v5_impact_summary.csv    요약표
 """
 import os
+from pathlib import Path
 import re
 import sys
 
 import pandas as pd
 
-BASE = "/Users/hanseoyun/Desktop/260830"
+ROOT = str(Path(__file__).resolve().parent.parent)
+BASE = ROOT
 OUT = f"{BASE}/04_모델산출물/v4_fixed"
 sys.path.insert(0, f"{BASE}/01_파이프라인")
 from audit_june_merge_defect import (is_nonchemical_token, nrm_name,   # noqa: E402

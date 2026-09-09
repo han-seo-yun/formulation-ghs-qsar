@@ -16,21 +16,23 @@ work/verify_sheets.py 의 규칙 함수(verify_ingredient/formulation/toxicity/p
 산출: dataset_배정_검증완료_20260824.xlsx (원본 dataset_배정_검증미완.xlsx 무손상)
 """
 import json
+from pathlib import Path
 import sys
 from collections import Counter, defaultdict
 
 import openpyxl
 from openpyxl.worksheet.datavalidation import DataValidation
 
-sys.path.insert(0, "/Users/hanseoyun/Desktop/260830/work")
+ROOT = str(Path(__file__).resolve().parent.parent)
+sys.path.insert(0, f"{ROOT}/work")
 from verify_sheets import (  # noqa: E402  (규칙 재사용)
     verify_ingredient, verify_formulation, verify_toxicity, verify_physchem,
     load_cipac, s,
 )
 
-SRC = "/Users/hanseoyun/Desktop/260830/dataset_배정_검증미완.xlsx"
-DST = "/Users/hanseoyun/Desktop/260830/dataset_배정_검증완료_20260824.xlsx"
-REPORT = "/Users/hanseoyun/Desktop/260830/work/verify/verify_report_20260824.json"
+SRC = f"{ROOT}/dataset_배정_검증미완.xlsx"
+DST = f"{ROOT}/dataset_배정_검증완료_20260824.xlsx"
+REPORT = f"{ROOT}/work/verify/verify_report_20260824.json"
 
 OK, NONE_, REVIEW, UNK = "검증완료", "정보없음", "재검토필요", "미확인"
 EXCLUDE = "제외"

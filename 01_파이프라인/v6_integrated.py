@@ -23,7 +23,7 @@ from pathlib import Path
 
 import pandas as pd
 
-ROOT = Path("/Users/hanseoyun/Desktop/260830")
+ROOT = Path(__file__).resolve().parent.parent
 V6 = ROOT / "04_모델산출물" / "input_dataset_v6.xlsx"
 EPS = ("eye", "skin", "sens")
 CY_SRC_COL = {"eye": "GHS조사_눈", "skin": "GHS조사_피부", "sens": "GHS조사_감작"}

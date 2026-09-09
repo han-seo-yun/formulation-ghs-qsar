@@ -46,6 +46,7 @@ input_dataset_v2 빌더 — 2차 배정 수집분 + 검증결과 + 성분/제형
 import json
 import math
 import os
+from pathlib import Path
 import re
 import sys
 from collections import Counter, defaultdict
@@ -60,7 +61,8 @@ from lib_parse import (ct_predict, num_range, parse_form_extract,   # noqa: E402
                        parse_tox_extract)
 from lib_tox11 import (T11_CODERIVED, T11_LABEL_SOURCE, parse_tox11)   # noqa: E402
 
-BASE = "/Users/hanseoyun/Desktop/260830"
+ROOT = str(Path(__file__).resolve().parent.parent)
+BASE = ROOT
 INPUT_DIR = f"{BASE}/03_입력데이터"
 DEPS_DIR = f"{BASE}/02_의존데이터"
 MODEL_DIR = f"{BASE}/04_모델산출물"

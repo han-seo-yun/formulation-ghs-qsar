@@ -9,6 +9,7 @@ import os, json
 import numpy as np
 import pandas as pd
 import matplotlib
+from pathlib import Path
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from matplotlib.patches import FancyBboxPatch, FancyArrowPatch
@@ -18,7 +19,8 @@ plt.rcParams["axes.unicode_minus"] = False
 plt.rcParams["figure.dpi"] = 160
 plt.rcParams["savefig.bbox"] = "tight"
 
-BASE = "/Users/hanseoyun/Desktop/260830"
+ROOT = str(Path(__file__).resolve().parent.parent)
+BASE = ROOT
 AST = os.path.join(BASE, "report_assets")
 os.makedirs(AST, exist_ok=True)
 

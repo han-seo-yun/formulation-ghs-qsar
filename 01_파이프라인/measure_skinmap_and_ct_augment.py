@@ -37,7 +37,7 @@ from sklearn.model_selection import StratifiedGroupKFold
 
 warnings.filterwarnings("ignore")
 
-ROOT = Path("/Users/hanseoyun/Desktop/260830")
+ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "04_모델산출물" / "v4_fixed"          # 읽기 전용
 V5 = ROOT / "04_모델산출물" / "input_dataset_v5.xlsx"  # 읽기 전용
 CHAEYUN = ROOT / "정채윤_GHS 조사.xlsx"                # 읽기 전용

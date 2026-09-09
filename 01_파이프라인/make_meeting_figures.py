@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from matplotlib import font_manager
 
-ROOT = Path("/Users/hanseoyun/Desktop/신작물보호제")
+ROOT = Path(__file__).resolve().parent.parent
 J = ROOT / "04_모델산출물" / "v6_jurisdiction"
 FIG = J / "그림"
 

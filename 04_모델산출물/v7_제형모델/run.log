@@ -1,0 +1,22 @@
+[    0.0s] === 제형 단위 모델 (eye · skin) ===
+[   14.2s] L1/L2/마스크 재현 확인 — eye 1044(negrec 마스크 적용), skin 615/1059
+[   19.0s] CT A0 == 디스크 / 커버리지 == 검증값 — 전처리 드리프트 없음
+[   19.0s] 계산 단위: eye:UN_GHS+K_REACH+US_OSHA; eye:EU_CLP; skin:UN_GHS; skin:EU_CLP+K_REACH+US_OSHA
+[   30.1s]   eye  UN_GHS+K_REACH+US_OSHA     [nan0  ] CT_A0   n= 1044 p=0.683 AUC=0.6745 PR=0.8003 MCC=0.235 BA=0.599 재현율=0.875 정밀도=0.736
+[   40.7s]   eye  UN_GHS+K_REACH+US_OSHA     [nan0  ] CT_권고   n= 1044 p=0.683 AUC=0.6858 PR=0.8123 MCC=0.237 BA=0.601 재현율=0.869 정밀도=0.738
+[   51.6s]   eye  UN_GHS+K_REACH+US_OSHA     [native] CT_A0   n= 1044 p=0.683 AUC=0.6678 PR=0.7979 MCC=0.225 BA=0.594 재현율=0.874 정밀도=0.733
+[   62.6s]   eye  UN_GHS+K_REACH+US_OSHA     [native] CT_권고   n= 1044 p=0.683 AUC=0.6744 PR=0.8051 MCC=0.243 BA=0.602 재현율=0.877 정밀도=0.737
+[   73.2s]   eye  EU_CLP                     [nan0  ] CT_A0   n= 1044 p=0.370 AUC=0.7423 PR=0.6523 MCC=0.400 BA=0.692 재현율=0.552 정밀도=0.657
+[   83.6s]   eye  EU_CLP                     [nan0  ] CT_권고   n= 1044 p=0.370 AUC=0.7577 PR=0.6745 MCC=0.417 BA=0.699 재현율=0.557 정밀도=0.672
+[   94.7s]   eye  EU_CLP                     [native] CT_A0   n= 1044 p=0.370 AUC=0.7505 PR=0.6647 MCC=0.399 BA=0.690 재현율=0.547 정밀도=0.659
+[  105.9s]   eye  EU_CLP                     [native] CT_권고   n= 1044 p=0.370 AUC=0.7656 PR=0.6822 MCC=0.431 BA=0.706 재현율=0.565 정밀도=0.684
+[  113.7s]   skin UN_GHS                     [nan0  ] CT_A0   n=  615 p=0.603 AUC=0.6882 PR=0.7567 MCC=0.298 BA=0.643 재현율=0.786 정밀도=0.705
+[  121.2s]   skin UN_GHS                     [nan0  ] CT_권고   n=  615 p=0.603 AUC=0.7334 PR=0.7875 MCC=0.364 BA=0.674 재현율=0.814 정밀도=0.727
+[  128.9s]   skin UN_GHS                     [native] CT_A0   n=  615 p=0.603 AUC=0.6992 PR=0.7633 MCC=0.308 BA=0.647 재현율=0.792 정밀도=0.708
+[  136.8s]   skin UN_GHS                     [native] CT_권고   n=  615 p=0.603 AUC=0.7350 PR=0.7899 MCC=0.364 BA=0.675 재현율=0.807 정밀도=0.729
+[  149.4s]   skin EU_CLP+K_REACH+US_OSHA     [nan0  ] CT_A0   n= 1059 p=0.336 AUC=0.7547 PR=0.6393 MCC=0.373 BA=0.678 재현율=0.519 정밀도=0.616
+[  160.0s]   skin EU_CLP+K_REACH+US_OSHA     [nan0  ] CT_권고   n= 1059 p=0.336 AUC=0.7697 PR=0.6450 MCC=0.385 BA=0.684 재현율=0.528 정밀도=0.625
+[  171.4s]   skin EU_CLP+K_REACH+US_OSHA     [native] CT_A0   n= 1059 p=0.336 AUC=0.7612 PR=0.6481 MCC=0.365 BA=0.673 재현율=0.508 정밀도=0.615
+[  183.1s]   skin EU_CLP+K_REACH+US_OSHA     [native] CT_권고   n= 1059 p=0.336 AUC=0.7754 PR=0.6560 MCC=0.399 BA=0.690 재현율=0.533 정밀도=0.637
+[  183.1s] v6 재현 lock 통과: 16셀 × 지표 전부 동일 (허용오차 1e-9)
+[  183.1s] 완료 → /Users/팀원B/Desktop/신작물보호제/04_모델산출물/v7_제형모델/지표_제형모델.csv / .xlsx / 요약.json

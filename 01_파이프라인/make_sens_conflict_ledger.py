@@ -27,7 +27,7 @@ import pandas as pd
 
 import v6_integrated as v6
 
-ROOT = Path("/Users/hanseoyun/Desktop/260830")
+ROOT = Path(__file__).resolve().parent.parent
 QA = ROOT / "04_모델산출물" / "v5_team_qa" / "채윤_GHS_검수.csv"
 V6 = v6.V6                     # 통합 단일 입력(팀원 파일 직접 읽기를 대체)
 OUT = ROOT / "04_모델산출물" / "v6_skinmap_ct"

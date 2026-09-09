@@ -35,6 +35,7 @@ v2는 각 리스트 *내부* 순서만 바꾼다.
 """
 import json
 import os
+from pathlib import Path
 import time
 
 import numpy as np
@@ -44,9 +45,10 @@ from sklearn.metrics import balanced_accuracy_score
 from sklearn.model_selection import StratifiedGroupKFold
 from scipy.stats import spearmanr
 
-SRC = "/Users/hanseoyun/Desktop/260830/04_모델산출물/v4"          # 읽기 전용
-OUT = "/Users/hanseoyun/Desktop/260830/04_모델산출물/v4_active"   # 쓰기 전용
-ASSIGN = "/Users/hanseoyun/Desktop/260830/03_입력데이터/dataset_배정_20260824.xlsx"
+ROOT = str(Path(__file__).resolve().parent.parent)
+SRC = f"{ROOT}/04_모델산출물/v4"          # 읽기 전용
+OUT = f"{ROOT}/04_모델산출물/v4_active"   # 쓰기 전용
+ASSIGN = f"{ROOT}/03_입력데이터/dataset_배정_20260824.xlsx"
 SEEDS = [0, 1, 2, 3, 4]
 EPS = ("eye", "skin", "sens")
 YCOL = {"eye": "y_eye_bin", "skin": "y_skin_bin", "sens": "y_sens_bin"}

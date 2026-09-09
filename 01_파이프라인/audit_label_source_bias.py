@@ -12,6 +12,7 @@ critic 지적 검증:
       04_모델산출물/v4/label_source_sds_v1_recoverable_negatives.csv
 """
 import json
+from pathlib import Path
 
 import numpy as np
 import pandas as pd
@@ -21,7 +22,8 @@ from sklearn.metrics import (average_precision_score, balanced_accuracy_score,
                              f1_score, roc_auc_score)
 from sklearn.model_selection import StratifiedGroupKFold
 
-BASE = "/Users/hanseoyun/Desktop/260830"
+ROOT = str(Path(__file__).resolve().parent.parent)
+BASE = ROOT
 V4 = f"{BASE}/04_모델산출물/v4"
 SRC_V1 = f"{BASE}/03_입력데이터/input_dataset.xlsx"
 RNG = 0

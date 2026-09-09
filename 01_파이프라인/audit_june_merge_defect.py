@@ -14,6 +14,7 @@
   4. 오프바이원 판정: 부여된 CAS가 같은 제형 리스트 내 다른 위치(i±k) 이름의 참조 CAS와 일치.
 """
 import os
+from pathlib import Path
 import re
 import sys
 from collections import defaultdict
@@ -23,7 +24,8 @@ from rdkit import Chem, RDLogger
 
 RDLogger.DisableLog("rdApp.*")
 
-BASE = "/Users/hanseoyun/Desktop/260830"
+ROOT = str(Path(__file__).resolve().parent.parent)
+BASE = ROOT
 JUNE = (f"{BASE}/formulation_audit_team_share_highlighted_only_20260630/"
         "formulation_ingredients_master_audited.xlsx")
 RECON = f"{BASE}/04_모델산출물/v4/june_audit_reconciliation.csv"

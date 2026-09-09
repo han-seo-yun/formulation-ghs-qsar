@@ -6,15 +6,17 @@
 `04_모델산출물/v4/y_conflict_audit.csv`로 산출한다. 라벨 값 자체는 바꾸지 않는다
 (v3 보존, 신규 산출물만 v4에 기록).
 """
+from pathlib import Path
 import sys
 
 import pandas as pd
 
-sys.path.insert(0, "/Users/hanseoyun/Desktop/260830/01_파이프라인")
+ROOT = str(Path(__file__).resolve().parent.parent)
+sys.path.insert(0, f"{ROOT}/01_파이프라인")
 from lib_tox11 import resolve_y_conflict
 
-SRC = "/Users/hanseoyun/Desktop/260830/04_모델산출물/input_dataset_v4.xlsx"  # 2026-08-29부터 v4 기준
-OUT = "/Users/hanseoyun/Desktop/260830/04_모델산출물/v4/y_conflict_audit.csv"
+SRC = f"{ROOT}/04_모델산출물/input_dataset_v4.xlsx"  # 2026-08-29부터 v4 기준
+OUT = f"{ROOT}/04_모델산출물/v4/y_conflict_audit.csv"
 
 df = pd.read_excel(SRC, sheet_name="formulation")
 

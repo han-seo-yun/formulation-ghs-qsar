@@ -8,12 +8,15 @@
 산출: 04_모델산출물/v4/active_rank_priority.csv
 (2026-08-29부터 v4를 기준 산출물로 전환 — 6/30 성분감사 병합분 포함)
 """
+from pathlib import Path
+
 import numpy as np
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 
-OUT = "/Users/hanseoyun/Desktop/260830/04_모델산출물/v4"
-ASSIGN = "/Users/hanseoyun/Desktop/260830/03_입력데이터/dataset_배정_20260824.xlsx"
+ROOT = str(Path(__file__).resolve().parent.parent)
+OUT = f"{ROOT}/04_모델산출물/v4"
+ASSIGN = f"{ROOT}/03_입력데이터/dataset_배정_20260824.xlsx"
 SEEDS = [0, 1, 2, 3, 4]
 
 X = pd.read_parquet(f"{OUT}/X_formulation.parquet")

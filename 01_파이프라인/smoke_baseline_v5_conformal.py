@@ -55,6 +55,7 @@ import argparse
 import json
 import math
 import os
+from pathlib import Path
 
 import numpy as np
 import pandas as pd
@@ -63,8 +64,9 @@ from sklearn.metrics import (average_precision_score, balanced_accuracy_score,
                              f1_score, roc_auc_score)
 from sklearn.model_selection import StratifiedGroupKFold
 
-IN = "/Users/hanseoyun/Desktop/260830/04_모델산출물/v4"        # 읽기 전용
-OUT = "/Users/hanseoyun/Desktop/260830/04_모델산출물/v4_conformal"  # 새 디렉터리
+ROOT = str(Path(__file__).resolve().parent.parent)
+IN = f"{ROOT}/04_모델산출물/v4"        # 읽기 전용
+OUT = f"{ROOT}/04_모델산출물/v4_conformal"  # 새 디렉터리
 RNG = 0
 ALPHA = 0.10
 CAL_SEEDS = [0, 1, 2, 3, 4]

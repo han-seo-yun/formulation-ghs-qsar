@@ -5,6 +5,7 @@
 실제로 돌아가는지만 본다. 결과는 out/v2/smoke_report.json.
 """
 import json
+from pathlib import Path
 import warnings
 
 import numpy as np
@@ -15,7 +16,8 @@ from sklearn.metrics import balanced_accuracy_score, f1_score
 from sklearn.model_selection import StratifiedGroupKFold
 
 warnings.filterwarnings("ignore")
-OUT = "/Users/hanseoyun/Desktop/260830/04_모델산출물/v3"
+ROOT = str(Path(__file__).resolve().parent.parent)
+OUT = f"{ROOT}/04_모델산출물/v3"
 
 X = pd.read_parquet(f"{OUT}/X_formulation.parquet")
 Y = pd.read_parquet(f"{OUT}/y_formulation.parquet")

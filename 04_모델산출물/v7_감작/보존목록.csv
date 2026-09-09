@@ -1,0 +1,11 @@
+﻿파일,원본경로,설명,상태,sha256,바이트
+감작_CTarm_격자.csv,04_모델산출물/v6_jurisdiction/감작_CTarm_격자.csv,A0/A2/A3/A3s 네 arm 을 동일 폴드에서 비교한 격자,복사완료,5ebd5d53e78e6edf17c6becc55edb756683ad572964506a1954b6e62697429d9,561
+감작_CTarm_대조.csv,04_모델산출물/v6_jurisdiction/감작_CTarm_대조.csv,arm 간 쌍대조,복사완료,15553c08f1ccbd194cfe0a83cb63f6c0e7c6106d243f773170ade983685865d5,650
+감작_CTarm_요약.json,04_모델산출물/v6_jurisdiction/감작_CTarm_요약.json,arm 격자 요약·해석,복사완료,83afd41a15175b62288af342213b3fba19391cf67ac82d5d36d2c997097ff74e,4445
+run_sens_arm_grid.log,04_모델산출물/v6_jurisdiction/run_sens_arm_grid.log,arm 격자 실행 로그,복사완료,f8f2e6147f8ec49ea542d79bfbd02408e2887ef678cf559f03548a6a99ef2c6a,1841
+F4_감작arm_결측규약.png,04_모델산출물/v6_jurisdiction/그림/F4_감작arm_결측규약.png,arm × 결측규약 성능 그림,복사완료,74ab6d40947a5d3eea5d2d8542bfd68a45764f492e323ec94065f1c8cce3ba71,104633
+감작충돌_32건_장부.csv,04_모델산출물/v6_skinmap_ct/감작충돌_32건_장부.csv,감작 라벨 충돌 32건 장부(모델 무영향 no-op 기록),복사완료,f21aece004f24789250b4108897588a009ecbdbb6a2804539e7662f1ead13b23,24294
+감작충돌_32건_장부.xlsx,04_모델산출물/v6_skinmap_ct/감작충돌_32건_장부.xlsx,위 장부 xlsx,복사완료,da737f1c84e3eb3acbc96131ae1557cf26264fa2125fe78e74713c0195be789d,10138
+지표_감작_전체_v6동결.csv,04_모델산출물/v6_jurisdiction/전체지표_ROC_F1.csv,v6 전체지표에서 감작 행만 (ROC-AUC·PR-AUC·F1·MCC·BA·혼동행렬),감작 4행 추출,58a300d43514743e3c71b68876a251bdd9e730de6bbb58d5fca88aa813eac783,1025
+지표_감작_관할별_v6동결.csv,04_모델산출물/v6_jurisdiction/관할별_성능.csv,관할별 성능 중 감작 행,감작 24행 추출,f0a73e402e9aea8838cec6cc2b5502afdc6608deb9f58e3f0ce72bafcb30339b,2257
+관할간_불일치_감작_v6동결.csv,04_모델산출물/v6_jurisdiction/관할간_불일치.csv,관할간 불일치 중 감작 행,감작 3행 추출,ff949fcd6ce20999903f081184d0f8315b94ba705d1261a5faf0d6e4342ba5a0,113

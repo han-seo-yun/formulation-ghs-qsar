@@ -4,13 +4,16 @@ dataset_배정_검증완료_20260824.xlsx 에 이번 주 분담 작업(pH수집�
 라벨충돌판정·성분판정재확인)을 바로 기입할 수 있는 작업 컬럼을 추가한다.
 기존 컬럼·서식·조건부서식은 보존하고, 대상 행에만 새 컬럼을 채운다.
 """
+from pathlib import Path
+
 import pandas as pd
 import openpyxl
 from openpyxl.styles import PatternFill, Font
 from openpyxl.utils import get_column_letter
 from openpyxl.worksheet.datavalidation import DataValidation
 
-PATH = "/Users/hanseoyun/Desktop/260830/dataset_배정_검증완료_20260824.xlsx"
+ROOT = str(Path(__file__).resolve().parent.parent)
+PATH = f"{ROOT}/dataset_배정_검증완료_20260824.xlsx"
 
 TASK_FILL = PatternFill("solid", fgColor="FFF3CD")   # 작업대상 행 표시(연한 노랑)
 HEAD_FILL = PatternFill("solid", fgColor="7D3C98")   # 신규 작업컬럼 헤더(보라 — 기존 파랑과 구분)

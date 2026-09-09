@@ -23,7 +23,7 @@ import numpy as np
 import openpyxl
 import pandas as pd
 
-ROOT = Path("/Users/hanseoyun/Desktop/260830")
+ROOT = Path(__file__).resolve().parent.parent
 DIFF = ROOT / "04_모델산출물" / "v5_team_qa" / "배포본_원본_차이.csv"
 V5 = ROOT / "04_모델산출물" / "input_dataset_v5.xlsx"
 SRC = ROOT / "04_모델산출물" / "v4_fixed"

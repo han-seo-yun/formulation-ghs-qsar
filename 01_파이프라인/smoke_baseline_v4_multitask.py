@@ -17,6 +17,7 @@ smoke_baseline_v3.py의 베이스라인(RF, StratifiedGroupKFold(group_key))을 
 산출: 04_모델산출물/v4/multitask_report.json
 """
 import json
+from pathlib import Path
 
 import numpy as np
 import pandas as pd
@@ -24,8 +25,9 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import balanced_accuracy_score, f1_score
 from sklearn.model_selection import StratifiedGroupKFold
 
-OUT = "/Users/hanseoyun/Desktop/260830/04_모델산출물/v4"  # 2026-08-29부터 v4 기준
-OUT4 = "/Users/hanseoyun/Desktop/260830/04_모델산출물/v4"
+ROOT = str(Path(__file__).resolve().parent.parent)
+OUT = f"{ROOT}/04_모델산출물/v4"  # 2026-08-29부터 v4 기준
+OUT4 = f"{ROOT}/04_모델산출물/v4"
 RNG = 0
 
 X = pd.read_parquet(f"{OUT}/X_formulation.parquet")

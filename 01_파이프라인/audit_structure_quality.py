@@ -8,13 +8,16 @@
 
 산출: 04_모델산출물/v4/structure_quality_audit.csv (v3 원본 불변, 신규 태그만 추가)
 """
+from pathlib import Path
+
 import pandas as pd
 from rdkit import Chem, RDLogger
 
 RDLogger.DisableLog("rdApp.*")
 
-SRC = "/Users/hanseoyun/Desktop/260830/04_모델산출물/input_dataset_v4.xlsx"  # 2026-08-29부터 v4 기준
-OUT = "/Users/hanseoyun/Desktop/260830/04_모델산출물/v4/structure_quality_audit.csv"
+ROOT = str(Path(__file__).resolve().parent.parent)
+SRC = f"{ROOT}/04_모델산출물/input_dataset_v4.xlsx"  # 2026-08-29부터 v4 기준
+OUT = f"{ROOT}/04_모델산출물/v4/structure_quality_audit.csv"
 
 ing = pd.read_excel(SRC, sheet_name="ingredient")
 

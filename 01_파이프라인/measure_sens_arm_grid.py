@@ -33,7 +33,7 @@ from sklearn.model_selection import StratifiedGroupKFold
 
 import v6_integrated as v6
 
-ROOT = Path("/Users/hanseoyun/Desktop/260830")
+ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "04_모델산출물" / "v4_fixed"
 OUT = ROOT / "04_모델산출물" / "v6_jurisdiction"
 SEEDS = [0, 1, 2, 3, 4]

@@ -25,13 +25,16 @@ InChIKey 형식: ``XXXXXXXXXXXXXX-YYYYYYYYYY-Z``
 """
 from __future__ import annotations
 
+from pathlib import Path
+
 import pandas as pd
 from rdkit import Chem, RDLogger
 
 RDLogger.DisableLog("rdApp.*")
 
-SRC = "/Users/hanseoyun/Desktop/260830/04_모델산출물/input_dataset_v4.xlsx"
-OUT = "/Users/hanseoyun/Desktop/260830/04_모델산출물/v4/smiles_canonicalization_map.csv"
+ROOT = str(Path(__file__).resolve().parent.parent)
+SRC = f"{ROOT}/04_모델산출물/input_dataset_v4.xlsx"
+OUT = f"{ROOT}/04_모델산출물/v4/smiles_canonicalization_map.csv"
 
 NO_STEREO_BLOCK = "UHFFFAOYSA"  # InChIKey 2블록이 이 값이면 입체정보 없음
 SKELETON_LEN = 14

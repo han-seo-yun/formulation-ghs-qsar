@@ -4,13 +4,16 @@
 smoke_baseline_v3.py와 완전히 동일한 설정(RF 300tree, class_weight=balanced,
 StratifiedGroupKFold(group_key), random_state=0)을 두 산출물에 각각 적용한다.
 """
+from pathlib import Path
+
 import numpy as np
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import balanced_accuracy_score, f1_score
 from sklearn.model_selection import StratifiedGroupKFold
 
-BASE = "/Users/hanseoyun/Desktop/260830/04_모델산출물"
+ROOT = str(Path(__file__).resolve().parent.parent)
+BASE = f"{ROOT}/04_모델산출물"
 
 
 def eval_version(tag):

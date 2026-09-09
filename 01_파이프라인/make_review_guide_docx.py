@@ -12,7 +12,7 @@ from docx import Document
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.shared import Pt, RGBColor
 
-ROOT = Path("/Users/hanseoyun/Desktop/260830")
+ROOT = Path(__file__).resolve().parent.parent
 WB_PATH = ROOT / "04_모델산출물" / "v6_수동검토" / "수동검토_최종판단_작업파일.xlsx"
 OUT = ROOT / "04_모델산출물" / "v6_수동검토" / "작업파일_안내.docx"
 

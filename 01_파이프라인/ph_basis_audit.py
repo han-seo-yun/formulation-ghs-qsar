@@ -8,16 +8,18 @@ GHS 비가산성 게이트(pH<=2 / pH>=11.5, 원액 기준)가 실제로는 몇 
 
 산출: 04_모델산출물/v4/ph_basis_audit.csv
 """
+from pathlib import Path
 import re
 import sys
 
 import pandas as pd
 
-sys.path.insert(0, "/Users/hanseoyun/Desktop/260830/01_파이프라인")
+ROOT = str(Path(__file__).resolve().parent.parent)
+sys.path.insert(0, f"{ROOT}/01_파이프라인")
 from lib_parse import parse_physchem_extract
 
-SRC = "/Users/hanseoyun/Desktop/260830/03_입력데이터/dataset_배정_20260824.xlsx"
-OUT = "/Users/hanseoyun/Desktop/260830/04_모델산출물/v4/ph_basis_audit.csv"
+SRC = f"{ROOT}/03_입력데이터/dataset_배정_20260824.xlsx"
+OUT = f"{ROOT}/04_모델산출물/v4/ph_basis_audit.csv"
 
 phy = pd.read_excel(SRC, sheet_name="특성")
 

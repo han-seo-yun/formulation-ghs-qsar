@@ -4,13 +4,16 @@
 시트는 '이번 작업 항목' 기준으로 분류(담당자 기준 아님) — 사용자 지시 반영.
 원본 데이터는 건드리지 않고 새 워크북으로 산출.
 """
+from pathlib import Path
+
 import pandas as pd
 from openpyxl import Workbook
 from openpyxl.styles import PatternFill, Font, Alignment, Border, Side
 from openpyxl.utils import get_column_letter
 from openpyxl.worksheet.datavalidation import DataValidation
 
-OUT = "/Users/hanseoyun/Desktop/260830/이번주_작업지시_20260824.xlsx"
+ROOT = str(Path(__file__).resolve().parent.parent)
+OUT = f"{ROOT}/이번주_작업지시_20260824.xlsx"
 
 NAVY = "1A5276"
 GREY = "7F8C8D"
@@ -152,7 +155,7 @@ ws.sheet_view.showGridLines = False
 # 01_성분판정_재확인 (한서윤)
 # ══════════════════════════════════════════════════════════════
 import openpyxl as oxl
-src = oxl.load_workbook("/Users/hanseoyun/Desktop/260830/dataset_배정_검증완료_20260824.xlsx", data_only=True)
+src = oxl.load_workbook(f"{ROOT}/dataset_배정_검증완료_20260824.xlsx", data_only=True)
 ing_ws = src["성분"]
 hdr = [c.value for c in ing_ws[1]]
 C = {h: i for i, h in enumerate(hdr) if h}

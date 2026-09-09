@@ -11,8 +11,10 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.enum.table import WD_TABLE_ALIGNMENT
 from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
+from pathlib import Path
 
-BASE = "/Users/hanseoyun/Desktop/260830"
+ROOT = str(Path(__file__).resolve().parent.parent)
+BASE = ROOT
 FIG = os.path.join(BASE, "report_assets", "orig_figs")
 OUT = os.path.join(BASE, "종합적_고찰_정리본_20260830.docx")
 

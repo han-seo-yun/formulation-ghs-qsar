@@ -36,12 +36,15 @@ alignment_basis 컬럼에 남긴다. 정렬 불가건은 회수하지 않고 사
 """
 from __future__ import annotations
 
+from pathlib import Path
+
 import re
 from difflib import SequenceMatcher
 
 import pandas as pd
 
-BASE = "/Users/hanseoyun/Desktop/260830"
+ROOT = str(Path(__file__).resolve().parent.parent)
+BASE = ROOT
 CUR_XLSX = f"{BASE}/04_모델산출물/input_dataset_v4.xlsx"
 JUNE_MASTER = (f"{BASE}/formulation_audit_team_share_highlighted_only_20260630/"
                "formulation_ingredients_master_audited.xlsx")

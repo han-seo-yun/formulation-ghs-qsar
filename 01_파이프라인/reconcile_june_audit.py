@@ -8,14 +8,16 @@
 
 산출: 04_모델산출물/v4/june_audit_reconciliation.csv
 """
+from pathlib import Path
 import re
 
 import pandas as pd
 
-CUR_ING = "/Users/hanseoyun/Desktop/260830/04_모델산출물/input_dataset_v4.xlsx"  # 2026-08-29부터 v4 기준(병합 반영 후 잔여 격차 확인용)
-JUNE_MASTER = ("/Users/hanseoyun/Desktop/260830/formulation_audit_team_share_highlighted_only_20260630/"
+ROOT = str(Path(__file__).resolve().parent.parent)
+CUR_ING = f"{ROOT}/04_모델산출물/input_dataset_v4.xlsx"  # 2026-08-29부터 v4 기준(병합 반영 후 잔여 격차 확인용)
+JUNE_MASTER = (f"{ROOT}/formulation_audit_team_share_highlighted_only_20260630/"
                "formulation_ingredients_master_audited.xlsx")
-OUT = "/Users/hanseoyun/Desktop/260830/04_모델산출물/v4/june_audit_reconciliation_remaining_after_v4.csv"
+OUT = f"{ROOT}/04_모델산출물/v4/june_audit_reconciliation_remaining_after_v4.csv"
 # 주의: 원본 june_audit_reconciliation.csv(v3 기준)는 build_input_v4.py가 병합 대상
 # 목록으로 그대로 참조하는 입력물이라 덮어쓰지 않는다. 이 파일은 "병합 후 남은 격차"
 # 를 보여주는 별도 스냅샷이다.

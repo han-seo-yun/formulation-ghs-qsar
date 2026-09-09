@@ -43,7 +43,7 @@ import numpy as np
 import openpyxl
 import pandas as pd
 
-ROOT = Path("/Users/hanseoyun/Desktop/260830")
+ROOT = Path(__file__).resolve().parent.parent
 V5 = ROOT / "04_모델산출물" / "input_dataset_v5.xlsx"
 FIXED = ROOT / "04_모델산출물" / "v4_fixed"
 OUT = ROOT / "04_모델산출물" / "input_dataset_v6.xlsx"

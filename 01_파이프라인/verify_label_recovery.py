@@ -19,13 +19,15 @@
 import json
 import math
 import os
+from pathlib import Path
 import re
 import sys
 
 import numpy as np
 import pandas as pd
 
-BASE = "/Users/hanseoyun/Desktop/260830"
+ROOT = str(Path(__file__).resolve().parent.parent)
+BASE = ROOT
 SRC_V1 = f"{BASE}/03_입력데이터/input_dataset.xlsx"
 V4 = f"{BASE}/04_모델산출물/v4"                 # 기준선 (읽기 전용!)
 V5 = f"{BASE}/04_모델산출물/v4_fixed"           # 검증 대상

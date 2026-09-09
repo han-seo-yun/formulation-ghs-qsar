@@ -18,7 +18,7 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.oxml.ns import qn
 from docx.shared import Pt, RGBColor, Cm
 
-ROOT = Path("/Users/hanseoyun/Desktop/신작물보호제")
+ROOT = Path(__file__).resolve().parent.parent
 J = ROOT / "04_모델산출물" / "v6_jurisdiction"
 OUT = ROOT / "QSAR_팀회의_자료.docx"
 

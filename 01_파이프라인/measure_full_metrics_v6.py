@@ -46,7 +46,7 @@ from sklearn.metrics import (average_precision_score, balanced_accuracy_score,
                              precision_score, recall_score, roc_auc_score)
 from sklearn.model_selection import StratifiedGroupKFold
 
-ROOT = Path("/Users/hanseoyun/Desktop/260830")
+ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "04_모델산출물" / "v4_fixed"
 V6 = ROOT / "04_모델산출물" / "input_dataset_v6.xlsx"   # 통합 단일 입력
 OUT = ROOT / "04_모델산출물" / "v6_jurisdiction"
