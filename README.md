@@ -78,12 +78,13 @@ of the eye and skin models, because they are mixture-additivity descriptors, not
 | `04_모델산출물/v7_감작/` | Frozen sensitization record. Not trained on |
 | `04_모델산출물/v7_결측감사/` | Zero-vs-missing audit: per-column profile and the list of imputed zeros |
 | `04_모델산출물/v6_통합/` | Consolidated outputs from the four team members (`팀원통합_260908.xlsx`) |
+| `04_모델산출물/v6_수동검토/` | Manual-review decision ledger (`A~D_*.csv`) — the record of which ambiguous cases were escalated and how they were resolved |
 | `05_원본보관_260908/` | The four as-submitted originals. **L0 immutable — never edited** |
 | `05_제안/` | Proposals for model performance improvement |
-| `dataset_배정_260904.xlsx` | Work assignment and review ledger. Open decisions are on the `총책임자_결정_9건` sheet |
 
 Excluded via `.gitignore`: the v2–v5 generation datasets, the highlighted SDS audit PDF dump
-(146 MB), Word report documents (`*.docx`), and the collection harness (separate repository,
+(146 MB), Word report documents (`*.docx`), team work-assignment/meeting-report administrative
+files, and the collection harness (separate repository,
 [`formulation_harness`](https://github.com/han-seo-yun/formulation_harness)).
 
 ## Build
