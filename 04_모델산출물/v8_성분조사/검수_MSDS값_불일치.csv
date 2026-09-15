@@ -1,0 +1,6 @@
+﻿endpoint,키,이름,cid,MSDS선언,규제DB,규제tier,규제근거,방향,조화분류_위반,성분행수,동일성등급,출처URL
+eye,470-82-6,"1,8-Cineole",2758.0,2B,NC,tier2_ECHA_CL,NC_tier2_ECHA_CL_무코드,MSDS가_높음,False,9,CAS_동의어일치,https://pubchem.ncbi.nlm.nih.gov/compound/2758
+eye,90-43-7,2-Phenylphenol,7017.0,2A,1,tier1_AnnexVI,tier1_AnnexVI_H코드(H318),MSDS가_낮음,True,8,CAS_동의어일치,https://pubchem.ncbi.nlm.nih.gov/compound/7017
+eye,731-27-1,Tolyfluanid,12898.0,2,2A,tier1_AnnexVI,tier1_AnnexVI_H코드(H319),구분granularity차이,False,1,CAS_동의어일치,https://pubchem.ncbi.nlm.nih.gov/compound/12898
+eye,133-37-9,(+/-)-tartaric acid,875.0,1,2A,tier2_ECHA_CL,동일성보류값 — 판정 근거 아님,대조보류,False,1,보류_다중CID,https://pubchem.ncbi.nlm.nih.gov/compound/875
+skin,64-19-7,Non-hazardous ingredients,176.0,1B,1,tier1_AnnexVI,tier1_AnnexVI_H코드(H314),구분granularity차이,False,7,CAS_동의어일치,https://pubchem.ncbi.nlm.nih.gov/compound/176

@@ -1,0 +1,959 @@
+﻿행번호,Formulation_ID,ing_cas_best,ing_name_best,ing_pct_best,endpoint,키,구분,tier,근거,동일성등급
+37,EyeIrritation6pack_PID100,135590-91-9,Mefenpyr-diethyl,8.74,eye,135590-91-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+38,EyeIrritation6pack_PID100,208465-21-8,Mesosulfuron-methyl,2.91,eye,208465-21-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+42,EyeIrritation6pack_PID100,104-76-7,Ethylhexan-1-ol <,2.0,eye,104-76-7,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@98.7%)),CAS_동의어일치
+43,EyeIrritation6pack_PID100,91-20-3,Naphthalene <,1.0,eye,91-20-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+46,EyeIrritation6pack_PID1000,2303-17-5,Tri-allate,50.0,eye,2303-17-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+101,EyeIrritation6pack_PID1019,52315-07-8,cypermethrin cis/trans +/- /60,24.8,eye,52315-07-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+123,EyeIrritation6pack_PID1027,122548-33-8,Imazosulfuron Technical,75.0,eye,122548-33-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+139,EyeIrritation6pack_PID103,131860-33-8,Azoxystrobin,0.12,eye,131860-33-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+142,EyeIrritation6pack_PID103,131341-86-1,Fludioxonil,0.3,eye,131341-86-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+143,EyeIrritation6pack_PID103,148-79-8,Thiabendazole,2.34,eye,148-79-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+166,EyeIrritation6pack_PID1038,5234-68-4,carboxin,35.52,eye,5234-68-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+167,EyeIrritation6pack_PID1038,125225-28-7,ipconazole,2.22,eye,125225-28-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+181,EyeIrritation6pack_PID1042,57-55-6,"propane-,2-diol propane-1,2-diol >= 5 - < 10",5.0,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+202,EyeIrritation6pack_PID1048,107534-96-3,Tebuconazole,0.5,eye,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+203,EyeIrritation6pack_PID1048,7758-98-7,Copper sulfate 0.1,0.55,eye,7758-98-7,2A,annex_vi,tier1_AnnexVI_H코드(H319),CAS_동의어일치
+223,EyeIrritation6pack_PID1056,175013-18-0,Pyraclostrobin,28.58,eye,175013-18-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+225,EyeIrritation6pack_PID1056,907204-31-3,Fluxapyroxad,14.33,eye,907204-31-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+236,EyeIrritation6pack_PID1060,,ametoctradin,26.9,eye,ametoctradin,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+240,EyeIrritation6pack_PID1060,,ethylbenzene,1.0,eye,ethylbenzene,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+278,EyeIrritation6pack_PID120,,Pyraclostrobin,6.7,eye,Pyraclostrobin,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+279,EyeIrritation6pack_PID120,,Fluxapyroxad,14.33,eye,Fluxapyroxad,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+280,EyeIrritation6pack_PID120,,Bronopol,5.0,eye,Bronopol,1,annex_vi,tier1_AnnexVI_H코드(H318),이름_동의어일치
+281,EyeIrritation6pack_PID120,,"1,2-Benzisothiazol-3(2H)-one",0.05,eye,"1,2-Benzisothiazol-3(2H)-one",1,annex_vi,tier1_AnnexVI_H코드(H318),이름_동의어일치
+282,EyeIrritation6pack_PID120,,Methylisothiazolinone,0.01,eye,Methylisothiazolinone,1,annex_vi,tier1_AnnexVI_H코드(H318),이름_동의어일치
+283,EyeIrritation6pack_PID120,,Propylene Glycol,10.0,eye,Propylene Glycol,NC,echa_cl,NC_tier2_명시_미분류,이름_동의어일치
+397,EyeIrritation6pack_PID182,175013-18-0,Pyraclostrobin,20.0,eye,175013-18-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+409,EyeIrritation6pack_PID186,104206-82-8,Mesotrione,5.36,eye,104206-82-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+418,EyeIrritation6pack_PID196,133-06-2,"Captan: N-[(trichloromethyl)thio]-4-cyclohexene-1, 2-",55.0,eye,133-06-2,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+428,EyeIrritation6pack_PID205,7173-51-5,Didecyldimethylammonium chloride -No,0.76,eye,7173-51-5,1,annex_vi,tier1_AnnexVI_H코드(H314),CAS_동의어일치
+429,EyeIrritation6pack_PID213,317815-83-1,Thiencarbazone-methyl,8.7,eye,317815-83-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+430,EyeIrritation6pack_PID213,144550-36-7,Iodosulfuron-methyl-sodium,1.9,eye,144550-36-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+431,EyeIrritation6pack_PID213,1918-00-9,Dicamba,57.4,eye,1918-00-9,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+499,EyeIrritation6pack_PID24,14433-76-2,"Decanamide, N,N-dimethyl-",27.5,eye,14433-76-2,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@99.8%)),CAS_동의어일치
+502,EyeIrritation6pack_PID240,114311-32-9,imazamox,2.7,eye,114311-32-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+542,EyeIrritation6pack_PID267,,Coumaphos,100.0,eye,Coumaphos,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+543,EyeIrritation6pack_PID269,68157-60-8,Forchlorfenuron 1 not set not set,1.0,eye,68157-60-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+550,EyeIrritation6pack_PID271,874967-67-6,"1H-Pyrazole-4-carboxamide, N-(2-[1,1'- bicyclopropyl]-2-ylphenyl)-3- (difluoromethyl)-1-methyl-",0.72,eye,874967-67-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+551,EyeIrritation6pack_PID271,874967-67-6,Sedaxane,0.72,eye,874967-67-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+566,EyeIrritation6pack_PID274,7758-19-2,Sodium chlorite,0.75,eye,7758-19-2,1,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H314@90.9%)),CAS_동의어일치
+567,EyeIrritation6pack_PID274,7173-51-5,Didecyldimethylammonium chloride,1.0,eye,7173-51-5,1,annex_vi,tier1_AnnexVI_H코드(H314),CAS_동의어일치
+574,EyeIrritation6pack_PID277,1897-45-6,Chlorothalonil not listed,54.0,eye,1897-45-6,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+583,EyeIrritation6pack_PID283,,"1,2-Benzisothiazol-3(2H)-one",0.05,eye,"1,2-Benzisothiazol-3(2H)-one",1,annex_vi,tier1_AnnexVI_H코드(H318),이름_동의어일치
+622,EyeIrritation6pack_PID314,,Dichloroprop,0.1,eye,Dichloroprop,1,annex_vi,tier1_AnnexVI_H코드(H318),이름_동의어일치
+635,EyeIrritation6pack_PID327,330-54-1,"Diuron 3-(3,4-dichlorophenyl)-1,1-dimethylurea",40.7,eye,330-54-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+649,EyeIrritation6pack_PID343,,Elemental Sulfur,52.0,eye,Elemental Sulfur,NC,echa_cl,NC_tier2_명시_미분류,이름_동의어일치
+653,EyeIrritation6pack_PID345,51707-55-2,Thidiazuron,21.43,eye,51707-55-2,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@93.5%)),CAS_동의어일치
+654,EyeIrritation6pack_PID345,330-54-1,Diuron,10.71,eye,330-54-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+655,EyeIrritation6pack_PID345,57-55-6,2-Propanediol <,10.0,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+657,EyeIrritation6pack_PID345,2634-33-5,2-Benzisothiazol-3(2H)-one >= 0.005 - <=,0.005,eye,2634-33-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+662,EyeIrritation6pack_PID348,,Methyl ethyl ketone > 35.0,45.0,eye,Methyl ethyl ketone > 35.0,2A,annex_vi,tier1_AnnexVI_H코드(H319),이름_동의어일치
+664,EyeIrritation6pack_PID348,,Ethyl acetate > 10.0,20.0,eye,Ethyl acetate > 10.0,2A,annex_vi,tier1_AnnexVI_H코드(H319),이름_동의어일치
+665,EyeIrritation6pack_PID348,,Methylenediphenyl diisocyanate,10.0,eye,Methylenediphenyl diisocyanate,2A,annex_vi,tier1_AnnexVI_H코드(H319),이름_동의어일치
+666,EyeIrritation6pack_PID348,,3-Methoxy-1-butyl acetate,10.0,eye,3-Methoxy-1-butyl acetate,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+669,EyeIrritation6pack_PID348,,Propylene glycol monomethyl,10.0,eye,Propylene glycol monomethyl,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@70.0%)),이름_동의어일치
+671,EyeIrritation6pack_PID348,,n-Butyl Acetate,5.0,eye,n-Butyl Acetate,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+676,EyeIrritation6pack_PID348,,Ethylbenzene,1.0,eye,Ethylbenzene,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+678,EyeIrritation6pack_PID349,117428-22-5,Picoxystrobin,17.94,eye,117428-22-5,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@98.9%)),CAS_동의어일치
+679,EyeIrritation6pack_PID349,94361-06-5,Cyproconazole,7.17,eye,94361-06-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+682,EyeIrritation6pack_PID350,57966-95-7,Cymoxanil,60.0,eye,57966-95-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+683,EyeIrritation6pack_PID350,110-17-8,Fumaric Acid,5.0,eye,110-17-8,2A,annex_vi,tier1_AnnexVI_H코드(H319),CAS_동의어일치
+698,EyeIrritation6pack_PID355,,Urea,51.5,eye,Urea,NC,echa_cl,NC_tier2_명시_미분류,이름_동의어일치
+700,EyeIrritation6pack_PID355,,Prodiamine,0.43,eye,Prodiamine,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+728,EyeIrritation6pack_PID363,,"Ethyl 5,5-diphenyl-2-isoxazoline-3-carboxylate",8.3,eye,"Ethyl 5,5-diphenyl-2-isoxazoline-3-carboxylate",NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+746,EyeIrritation6pack_PID367,2634-33-5,2-benzisothiazol-3(2H)-one >=0.025-<0.05,0.025,eye,2634-33-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+748,EyeIrritation6pack_PID368,52-68-6,Trichlorfon,37.3,eye,52-68-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+771,EyeIrritation6pack_PID376,,Glycol ether,85.0,eye,Glycol ether,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+819,EyeIrritation6pack_PID390,1897-45-6,chlorothalonil,54.14,eye,1897-45-6,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+822,EyeIrritation6pack_PID390,57-55-6,Propylene glycol,7.5,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+827,EyeIrritation6pack_PID391,57-55-6,"propane-,2-diol >= 5 - <",5.0,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+828,EyeIrritation6pack_PID391,91-57-6,methyl-naphthalene >= 1 - <,1.0,eye,91-57-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+832,EyeIrritation6pack_PID391,2634-33-5,2-benzisothiazol-3(2H)-one >= 0.05 - <,0.05,eye,2634-33-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+872,EyeIrritation6pack_PID411,8003-34-7,Pyrethrins 232-319-8,0.05,eye,8003-34-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+873,EyeIrritation6pack_PID411,51-03-6,Piperonyl Butoxide 200-076-7,0.1,eye,51-03-6,2A,annex_vi,tier1_AnnexVI_H코드(H319),CAS_동의어일치
+874,EyeIrritation6pack_PID411,113-48-4,MGK®-264 (N-Octyl Bicycloheptene Dicarboximide) 0.16 204-029-1,0.16,eye,113-48-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+897,EyeIrritation6pack_PID417,52315-07-8,Cypermethrin,0.076,eye,52315-07-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+911,EyeIrritation6pack_PID426,,Fenpropimorph,79.8,eye,Fenpropimorph,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+913,EyeIrritation6pack_PID426,,Isobutanol,5.0,eye,Isobutanol,1,annex_vi,tier1_AnnexVI_H코드(H318),이름_동의어일치
+915,EyeIrritation6pack_PID43,135410-20-7,Acetamiprid,0.26,eye,135410-20-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+921,EyeIrritation6pack_PID435,158062-67-0,Flonicamid,98.4,eye,158062-67-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+927,EyeIrritation6pack_PID438,104040-78-0,Active Ingredient: Flazasulfuron* 25 Not established,25.0,eye,104040-78-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+947,EyeIrritation6pack_PID458,658066-35-4,Fluopyram,98.6,eye,658066-35-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+948,EyeIrritation6pack_PID459,658066-35-4,Fluopyram,17.4,eye,658066-35-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+949,EyeIrritation6pack_PID459,178928-70-6,Prothioconazole,17.4,eye,178928-70-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+955,EyeIrritation6pack_PID460,658066-35-4,Fluopyram,41.7,eye,658066-35-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1003,EyeIrritation6pack_PID471,7647-01-0,Hydrochloric Acid HCl g/mol,1.01,eye,7647-01-0,1,annex_vi,tier1_AnnexVI_H코드(H314),CAS_동의어일치
+1004,EyeIrritation6pack_PID471,10025-77-1,Ferric Chloride Hexahydrate FeCl₃·6H₂O 270.30 g/mol,0.55,eye,10025-77-1,1,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H318@72.8%)),CAS_동의어일치
+1006,EyeIrritation6pack_PID471,7758-99-8,Copper Sulfate Pentahydrate CuSO₄·5H₂O 249.68 g/mol,0.13,eye,7758-99-8,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+1063,EyeIrritation6pack_PID497,,Spinetoram,5.87,eye,Spinetoram,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1064,EyeIrritation6pack_PID497,,Spinetoram J,5.87,eye,Spinetoram J,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1066,EyeIrritation6pack_PID497,,Spinosyn D,0.0367,eye,Spinosyn D,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1084,EyeIrritation6pack_PID499,,Florasulam,0.2,eye,Florasulam,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1085,EyeIrritation6pack_PID499,,"1,2,4-Trimethylbenzene",10.0,eye,"1,2,4-Trimethylbenzene",2A,annex_vi,tier1_AnnexVI_H코드(H319),이름_동의어일치
+1086,EyeIrritation6pack_PID499,,Cumene,5.0,eye,Cumene,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1087,EyeIrritation6pack_PID499,,Propylene Glycol,5.0,eye,Propylene Glycol,NC,echa_cl,NC_tier2_명시_미분류,이름_동의어일치
+1133,EyeIrritation6pack_PID507,108-88-3,Toluene,35.0,eye,108-88-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1200,EyeIrritation6pack_PID540,131341-86-1,Fludioxonil,32.0,eye,131341-86-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1264,EyeIrritation6pack_PID573,372137-35-4,saflufenacil,70.0,eye,372137-35-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1288,EyeIrritation6pack_PID585,2634-33-5,2-Benzisothiazol-3(2H)-one >= 0.005 - <=,0.005,eye,2634-33-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+1313,EyeIrritation6pack_PID601,107-98-2,Methoxy-2-propanol,1.0,eye,107-98-2,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1314,EyeIrritation6pack_PID601,25265-71-8,Dipropylene glycol,8.6,eye,25265-71-8,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+1317,EyeIrritation6pack_PID602,,Glufosinate,10.0,eye,Glufosinate,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1359,EyeIrritation6pack_PID62,1582-09-8,Trifluralin none established,10.0,eye,1582-09-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1371,EyeIrritation6pack_PID627,131341-86-1,"2,2-difluoro-1,3-benzodioxol-4-yl-1H-pyrrole- Fludioxonil",0.5,eye,131341-86-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1461,EyeIrritation6pack_PID661,35367-38-5,DIflubenzuron 70-90,80.0,eye,35367-38-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1467,EyeIrritation6pack_PID668,2032-65-7,Methiocarb,2.0,eye,2032-65-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1468,EyeIrritation6pack_PID668,7778-18-9,Calcium sulfate,7.5,eye,7778-18-9,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+1469,EyeIrritation6pack_PID668,128-37-0,6-Di-tert-butyl-4-methylphenol >= 0.10 - <=,0.1,eye,128-37-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1503,EyeIrritation6pack_PID684,156052-68-5,Zoxamide,8.3,eye,156052-68-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1519,EyeIrritation6pack_PID694,,1-Methoxy-2-propanol,20.0,eye,1-Methoxy-2-propanol,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1520,EyeIrritation6pack_PID694,,Cobaltous neodecanoate,2.0,eye,Cobaltous neodecanoate,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1547,EyeIrritation6pack_PID705,1918-00-9,6-Dicloro-o-anisic acid (Dicamba Acid) 3.0,2.55,eye,1918-00-9,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+1569,EyeIrritation6pack_PID718,57-50-1,"sucrose, pure >= 10 - <",10.0,eye,57-50-1,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+1571,EyeIrritation6pack_PID718,59-67-6,Pyridine--carboxylic acid >= 5 - <,5.0,eye,59-67-6,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@99.8%)),CAS_동의어일치
+1575,EyeIrritation6pack_PID718,155569-91-8,emamectin benzoate,0.1,eye,155569-91-8,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+1597,EyeIrritation6pack_PID732,,ametoctradin,26.9,eye,ametoctradin,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1601,EyeIrritation6pack_PID732,,ethylbenzene,1.0,eye,ethylbenzene,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1641,EyeIrritation6pack_PID756,117428-22-5,Picoxystrobin,98.0,eye,117428-22-5,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@98.9%)),CAS_동의어일치
+1644,EyeIrritation6pack_PID757,175013-18-0,Pyraclostrobin,0.38,eye,175013-18-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1646,EyeIrritation6pack_PID757,131983-72-7,Triticonazole,0.43,eye,131983-72-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1649,EyeIrritation6pack_PID757,57-55-6,Propylene glycol,0.9,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+1653,EyeIrritation6pack_PID760,97-99-4,Tetrahydrofurfuryl,45.0,eye,97-99-4,2A,annex_vi,tier1_AnnexVI_H코드(H319),CAS_동의어일치
+1659,EyeIrritation6pack_PID765,,"Carbamic acid, butyl-, 3-iodo-2-propynyl ester",3.0,eye,"Carbamic acid, butyl-, 3-iodo-2-propynyl ester",1,annex_vi,tier1_AnnexVI_H코드(H318),이름_동의어일치
+1660,EyeIrritation6pack_PID765,,Carbendazim,9.0,eye,Carbendazim,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1661,EyeIrritation6pack_PID765,,Diuron,15.0,eye,Diuron,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1667,EyeIrritation6pack_PID77,566191-89-7,Aminopyralid Triisopropanolamine Salt,40.6,eye,566191-89-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1668,EyeIrritation6pack_PID77,122-20-3,Triisopropanolamine,1.5,eye,122-20-3,2A,annex_vi,tier1_AnnexVI_H코드(H319),CAS_동의어일치
+1692,EyeIrritation6pack_PID774,107534-96-3,Tebuconazole,0.29,eye,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1693,EyeIrritation6pack_PID774,57837-19-1,Metalaxyl,0.59,eye,57837-19-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1694,EyeIrritation6pack_PID774,178928-70-6,Prothioconazole,1.47,eye,178928-70-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1696,EyeIrritation6pack_PID774,57-55-6,2-Propanediol,23.0,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+1715,EyeIrritation6pack_PID777,127277-53-6,prohexadione-calcium; calcium 3-oxido-5-oxo-4-propionylcyclohex-3-enecarboxylate,27.5,eye,127277-53-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1724,EyeIrritation6pack_PID780,108-88-3,Toluene,45.0,eye,108-88-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1809,EyeIrritation6pack_PID803,57-55-6,"propane-,2-diol >= 1 - <",1.0,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+1810,EyeIrritation6pack_PID803,125225-28-7,Ipconazole >= 1 - <,1.0,eye,125225-28-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1839,EyeIrritation6pack_PID813,,Bispyribac-sodium,80.0,eye,Bispyribac-sodium,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@56.2%)),이름_동의어일치
+1885,EyeIrritation6pack_PID831,107534-96-3,Tebuconazole 37.5-39.9 X,38.7,eye,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1888,EyeIrritation6pack_PID832,79277-27-3,Thifensulfuron methyl,50.0,eye,79277-27-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1981,EyeIrritation6pack_PID857,53112-28-0,Pyrimethanil,37.4,eye,53112-28-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1983,EyeIrritation6pack_PID857,57-55-6,Propylene Glycol,7.5,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+2014,EyeIrritation6pack_PID87,117428-22-5,Picoxystrobin,17.94,eye,117428-22-5,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@98.9%)),CAS_동의어일치
+2015,EyeIrritation6pack_PID87,94361-06-5,Cyproconazole,7.17,eye,94361-06-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2082,EyeIrritation6pack_PID905,5598-13-0,Chlorpyrifos-methyl,21.6,eye,5598-13-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2083,EyeIrritation6pack_PID905,52918-63-5,Deltamethrin,3.7,eye,52918-63-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2085,EyeIrritation6pack_PID905,95-63-6,"2,4-Trimethylbenzene",18.6,eye,95-63-6,2A,annex_vi,tier1_AnnexVI_H코드(H319),CAS_동의어일치
+2088,EyeIrritation6pack_PID905,100-41-4,Ethylbenzene,1.4,eye,100-41-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2089,EyeIrritation6pack_PID905,98-82-8,Cumene,1.0,eye,98-82-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2126,EyeIrritation6pack_PID922,131341-86-1,Fludioxonil,25.0,eye,131341-86-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2142,EyeIrritation6pack_PID932,,Trichloroacetic Acid,1.0,eye,Trichloroacetic Acid,1,annex_vi,tier1_AnnexVI_H코드(H314),이름_동의어일치
+2204,EyeIrritation6pack_PID969,16389-88-1,Limestone Dolomite 80-90,85.0,eye,16389-88-1,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+2205,EyeIrritation6pack_PID969,7447-40-7,Potassium chloride Potash 5-15,10.0,eye,7447-40-7,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+2240,EyeIrritation6pack_PID979,131341-86-1,Fludioxonil,1.07,eye,131341-86-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2241,EyeIrritation6pack_PID979,70630-17-0,Metalaxyl-m,3.21,eye,70630-17-0,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+2259,EyeIrritation6pack_PID985,129558-76-5,Tolfenpyrad EC,15.0,eye,129558-76-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2260,EyeIrritation6pack_PID986,68359-37-5,Cyfluthrin Not Established,24.74,eye,68359-37-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2262,EyeIrritation6pack_PID988,76674-21-0,Flutriafol,11.6,eye,76674-21-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2263,EyeIrritation6pack_PID988,57-55-6,Propylene glycol 5-10,7.5,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+2265,EyeIrritation6pack_PID988,2634-33-5,2 benzisothiazolin-3-one 0.02 (max),0.02,eye,2634-33-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+2294,EyeIrritation6pack_PID999,34590-94-8,Dipropylene Glycol Monomethyl Ether (DPM) ≥75-≤90,75.0,eye,34590-94-8,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+2306,MIX1001,106-26-3,Neral,37.5,eye,106-26-3,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@62.6%)),CAS_동의어일치
+2309,MIX1001,106-23-0,Citronellal,3.0,eye,106-23-0,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@99.4%)),CAS_동의어일치
+2316,MIX1001,87-44-5,(-)-Caryophyllene,3.0,eye,87-44-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2324,MIX1004,87-44-5,(-)-Caryophyllene,6.0,eye,87-44-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2343,MIX1008,87-44-5,(-)-Caryophyllene,0.5,eye,87-44-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2344,MIX1008,3338-55-4,"beta-Ocimene, (3Z)-",0.5,eye,3338-55-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2374,MIX1026,,Citronellol,35.0,eye,Citronellol,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@65.1%) | 2:미달(H319@17.5%)),이름_동의어일치
+2376,MIX1026,,Citronellyl formate,15.0,eye,Citronellyl formate,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+2377,MIX1026,,p-Menthan-3-one,7.5,eye,p-Menthan-3-one,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+2378,MIX1026,,Geranyl formate,7.5,eye,Geranyl formate,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+2379,MIX1026,,(-)-Caryophyllene,3.0,eye,(-)-Caryophyllene,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+2381,MIX1026,,Citral,3.0,eye,Citral,2A,echa_cl,tier2_ECHA_CL_H코드(1:미달(H319@17.4%) | 2:H코드(H319@84.5%)),이름_동의어일치
+2385,MIX1026,,p-Menthan-3-one,7.5,eye,p-Menthan-3-one,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+2387,MIX1026,,Geranyl Acetate,3.0,eye,Geranyl Acetate,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+2390,MIX1026,,"Linalool, oxide",3.0,eye,"Linalool, oxide",2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@98.7%) | 2:미달(H314@23.5%) | 3:미달(H319@22.6%)),이름_동의어일치
+2391,MIX1026,,Citronellal,0.55,eye,Citronellal,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@99.4%)),이름_동의어일치
+2400,MIX1030,115-95-7,Linalyl Acetate,37.5,eye,115-95-7,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@85.3%)),CAS_동의어일치
+2401,MIX1030,464-49-3,D-Camphor,8.75,eye,464-49-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2403,MIX1030,91-64-5,Coumarin,4.0,eye,91-64-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2404,MIX1030,562-74-3,Terpinen-4-ol,4.0,eye,562-74-3,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@96.6%)),CAS_동의어일치
+2405,MIX1030,507-70-0,Borneol,2.0,eye,507-70-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2406,MIX1030,87-44-5,(-)-Caryophyllene,2.0,eye,87-44-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2407,MIX1030,18794-84-8,beta-Farnesene,2.0,eye,18794-84-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2408,MIX1030,23089-26-1,Levomenol,2.0,eye,23089-26-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2409,MIX1030,3338-55-4,"beta-Ocimene, (3Z)-",1.0,eye,3338-55-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2412,MIX1030,105-87-3,Geranyl Acetate,1.0,eye,105-87-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2414,MIX1030,3391-86-4,1-Octen-3-Ol,1.0,eye,3391-86-4,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@99.8%)),CAS_동의어일치
+2415,MIX1030,2442-10-6,1-Octen-3-yl acetate,1.0,eye,2442-10-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2417,MIX1030,141-12-8,Neryl acetate,1.0,eye,141-12-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2419,MIX1032,106-23-0,Citronellal,70.0,eye,106-23-0,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@99.4%)),CAS_동의어일치
+2427,MIX104,114311-32-9,imazamox,2.7,eye,114311-32-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2435,MIX1041,562-74-3,Terpinen-4-ol,1.0,eye,562-74-3,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@96.6%)),CAS_동의어일치
+2438,MIX1041,99-85-4,Gamma-Terpinene,1.0,eye,99-85-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2440,MIX1041,87-44-5,(-)-Caryophyllene,1.0,eye,87-44-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2441,MIX1041,93-15-2,Methyleugenol,1.0,eye,93-15-2,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2442,MIX1041,97-53-0,Eugenol,1.0,eye,97-53-0,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@80.4%)),CAS_동의어일치
+2451,MIX1044,115-95-7,Linalyl Acetate,35.0005,eye,115-95-7,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@85.3%)),CAS_동의어일치
+2452,MIX1044,91-64-5,Coumarin,7.500500000000001,eye,91-64-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2453,MIX1044,87-44-5,(-)-Caryophyllene,3.0005,eye,87-44-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2454,MIX1044,2442-10-6,1-Octen-3-yl acetate,0.5505,eye,2442-10-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2456,MIX1044,105-87-3,Geranyl Acetate,0.5505,eye,105-87-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2461,MIX1045,13466-78-9,3-Carene,15.0005,eye,13466-78-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2464,MIX1045,87-44-5,(-)-Caryophyllene,3.0005,eye,87-44-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2466,MIX1045,475-20-7,Longifolene,3.0005,eye,475-20-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2525,MIX1060,99-85-4,Gamma-Terpinene,11.4,eye,99-85-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2532,MIX1060,495-61-4,Beta-Bisabolene,1.5,eye,495-61-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2533,MIX1060,562-74-3,Terpinen-4-ol,1.3,eye,562-74-3,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@96.6%)),CAS_동의어일치
+2535,MIX1060,502-61-4,Farnesene,1.2,eye,502-61-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2537,MIX1060,586-81-2,Gamma-Terpineol,1.2,eye,586-81-2,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@97.8%)),CAS_동의어일치
+2573,MIX1072,,Estragole,4.5,eye,Estragole,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+2574,MIX1072,,Anethole,22.5,eye,Anethole,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+2592,MIX11,,"1,2-benzisothiazolin-3-one",10.0,eye,"1,2-benzisothiazolin-3-one",1,annex_vi,tier1_AnnexVI_H코드(H318),이름_동의어일치
+2618,MIX119,56-72-4,phosphorothioate,25.0,eye,56-72-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2621,MIX12,14433-76-2,"Decanamide, N,N-dimethyl-",27.5,eye,14433-76-2,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@99.8%)),CAS_동의어일치
+2630,MIX122,7758-19-2,Sodium chlorite,0.75,eye,7758-19-2,1,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H314@90.9%)),CAS_동의어일치
+2631,MIX122,7173-51-5,Didecyldimethylammonium chloride,1.0,eye,7173-51-5,1,annex_vi,tier1_AnnexVI_H코드(H314),CAS_동의어일치
+2634,MIX123,,Coumaphos,11.6,eye,Coumaphos,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+2646,MIX128,57966-95-7,Cymoxanil,60.0,eye,57966-95-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2647,MIX128,110-17-8,Fumaric acid,3.0,eye,110-17-8,2A,annex_vi,tier1_AnnexVI_H코드(H319),CAS_동의어일치
+2648,MIX129,68157-60-8,Forchlorfenuron,1.0,eye,68157-60-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2655,MIX131,874967-67-6,"1H-Pyrazole-4-carboxamide, N-(2-[1,1'-bicyclopropyl]-2-ylphenyl)-3-(difluoromethyl)-1-methyl- (Sedaxane)",0.72,eye,874967-67-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2656,MIX131,874967-67-6,Sedaxane,0.72,eye,874967-67-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2661,MIX133,2634-33-5,"1,2-Benzisothiazol-3(2H)-one (1,2-benzisothiazolin-3-one)",0.05,eye,2634-33-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+2664,MIX136,86753-92-6,Cypermethrin,96.7,eye,86753-92-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2665,MIX137,94361-06-5,Cyproconazole,98.0,eye,94361-06-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2683,MIX142,872-05-9,Other ingredients (undisclosed),88.3,eye,872-05-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2697,MIX146,13684-56-5,Desmedipham,4.35,eye,13684-56-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2699,MIX146,2164-08-1,Lenacil,2.5,eye,2164-08-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2700,MIX146,13684-63-4,Phenmedipham,5.56,eye,13684-63-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2703,MIX147,15299-99-7,Napropamide,21.8,eye,15299-99-7,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@83.3%)),CAS_동의어일치
+2706,MIX149,15299-99-7,Napropamide,45.0,eye,15299-99-7,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@83.3%)),CAS_동의어일치
+2707,MIX149,107-21-1,Ethylene glycol,7.5,eye,107-21-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2708,MIX149,2634-33-5,"1,2-Benzisothiazolin-3-one",1.0,eye,2634-33-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+2710,MIX15,98-86-2,Acetophenone,13.0,eye,98-86-2,2A,annex_vi,tier1_AnnexVI_H코드(H319),CAS_동의어일치
+2734,MIX162,51707-55-2,Thidiazuron,21.43,eye,51707-55-2,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@93.5%)),CAS_동의어일치
+2735,MIX162,330-54-1,Diuron,10.71,eye,330-54-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2736,MIX162,57-55-6,"1,2-Propanediol",10.0,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+2738,MIX162,2634-33-5,"1,2-Benzisothiazol-3(2H)-one",0.005,eye,2634-33-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+2740,MIX163,117428-22-5,Picoxystrobin,17.94,eye,117428-22-5,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@98.9%)),CAS_동의어일치
+2741,MIX163,94361-06-5,Cyproconazole,7.17,eye,94361-06-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2744,MIX164,131807-57-3,Famoxadone,25.0,eye,131807-57-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2745,MIX164,57966-95-7,Cymoxanil,25.0,eye,57966-95-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2751,MIX165,16752-77-5,Methomyl,90.0,eye,16752-77-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2762,MIX169,52-68-6,Trichlorfon,37.3,eye,52-68-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2769,MIX172,330-54-1,"Diuron (3-(3,4-dichlorophenyl)-1,1-dimethylurea)",40.7,eye,330-54-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2770,MIX172,107-21-1,"Ethylene glycol (listed as 'Proprietary solvent' in Section 3, identified by name in Section 15 SARA 313)",6.0,eye,107-21-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2773,MIX173,131860-33-8,Azoxystrobin,6.64,eye,131860-33-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2775,MIX173,70630-17-0,"Mefenoxam (in Dynasty CST doc; dataset hint lists 'Metalaxyl' instead, a closely related but distinct active)",3.32,eye,70630-17-0,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+2778,MIX174,330-54-1,"Diuron (3-(3,4-dichlorophenyl)-1,1-dimethylurea)",80.0,eye,330-54-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2795,MIX180,7778-77-0,Monobasic potassium phosphate (Potassium dihydrogenorthophosphate),12.5,eye,7778-77-0,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+2802,MIX183,,Glycol ether,85.0,eye,Glycol ether,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+2803,MIX184,1897-45-6,Chlorothalonil,54.14,eye,1897-45-6,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+2806,MIX184,57-55-6,Propylene glycol,7.5,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+2816,MIX186,57-55-6,"Propane-1,2-diol",5.0,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+2817,MIX186,91-57-6,2-methyl-naphthalene,1.0,eye,91-57-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2827,MIX188,148477-71-8,Spirodiclofen,22.2,eye,148477-71-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2829,MIX188,2634-33-5,"1,2-Benzisothiazol-3(2H)-one",0.005,eye,2634-33-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+2847,MIX193,16672-87-0,Ethephon (Chlorethephon),48.0,eye,16672-87-0,1,annex_vi,tier1_AnnexVI_H코드(H314),CAS_동의어일치
+2854,MIX196,8003-34-7,Pyrethrins,0.05,eye,8003-34-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2855,MIX196,51-03-6,Piperonyl Butoxide,0.1,eye,51-03-6,2A,annex_vi,tier1_AnnexVI_H코드(H319),CAS_동의어일치
+2856,MIX196,113-48-4,MGK-264 (N-Octyl Bicycloheptene Dicarboximide),0.16,eye,113-48-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2873,MIX199,128639-02-1,Carfentrazone-ethyl,0.99,eye,128639-02-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2900,MIX204,78-83-1,2-methylpropan-1-ol (iso-butanol),5.0,eye,78-83-1,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+2901,MIX205,7778-77-0,Monopotassium Phosphate,31.1,eye,7778-77-0,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+2918,MIX211,658066-35-4,Fluopyram,41.7,eye,658066-35-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2927,MIX214,104040-78-0,Flazasulfuron,25.0,eye,104040-78-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2932,MIX217,107534-96-3,Tebuconazole,38.8,eye,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2934,MIX217,2634-33-5,"1,2-Benzisothiazol-3(2H)-one",0.005,eye,2634-33-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+2938,MIX219,107534-96-3,Tebuconazole,25.8,eye,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3004,MIX241,658066-35-4,Fluopyram,98.6,eye,658066-35-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3005,MIX242,658066-35-4,Fluopyram,11.77,eye,658066-35-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3006,MIX242,178928-70-6,Prothioconazole,11.77,eye,178928-70-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3007,MIX242,2634-33-5,"1,2-Benzisothiazol-3(2H)-one",0.005,eye,2634-33-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+3008,MIX242,57-55-6,"1,2-Propanediol",1.0,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3024,MIX249,131929-60-7,Spinosad (Spinosyn A & Spinosyn D),80.0,eye,131929-60-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3029,MIX251,131929-60-7,Spinosad (Spinosyn A & Spinosyn D),22.8,eye,131929-60-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3035,MIX254,935545-74-7,Spinetoram J & L,5.87,eye,935545-74-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3038,MIX254,131929-63-0,Spinosyn D,0.0367,eye,131929-63-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3039,MIX254,2634-33-5,"1,2-Benzisothiazolin-3-one",0.025,eye,2634-33-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+3040,MIX255,935545-74-7,Spinetoram J & L,25.0,eye,935545-74-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3044,MIX255,7647-14-5,Sodium chloride,0.5,eye,7647-14-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+3055,MIX256,81406-37-3,Fluroxypyr-meptyl (ISO),14.5,eye,81406-37-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3056,MIX256,145701-23-1,Florasulam (ISO),0.2,eye,145701-23-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3057,MIX256,95-63-6,"1,2,4-Trimethylbenzene",10.0,eye,95-63-6,2A,annex_vi,tier1_AnnexVI_H코드(H319),CAS_동의어일치
+3058,MIX256,98-82-8,Cumene,5.0,eye,98-82-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3059,MIX256,57-55-6,Propylene glycol,5.0,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3083,MIX261,52315-07-8,Zeta-cypermethrin,3.75,eye,52315-07-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3101,MIX266,70630-17-0,Mefenoxam (common/generic name sometimes referenced as Metalaxyl; R-enantiomer-enriched form),16.0,eye,70630-17-0,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+3102,MIX266,131341-86-1,Fludioxonil,32.0,eye,131341-86-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3108,MIX269,122548-33-8,Imazosulfuron,98.0,eye,122548-33-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3109,MIX27,1582-09-8,Trifluralin,10.0,eye,1582-09-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3129,MIX273,161050-58-4,Methoxyfenozide,27.79,eye,161050-58-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3130,MIX273,935545-74-7,Spinetoram J & L,4.86,eye,935545-74-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3132,MIX273,2634-33-5,"1,2-benzisothiazol-3(2H)-one",0.025,eye,2634-33-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+3155,MIX280,98-86-2,Acetophenone,8.6,eye,98-86-2,2A,annex_vi,tier1_AnnexVI_H코드(H319),CAS_동의어일치
+3165,MIX284,107-21-1,"Ethane-1,2-diol (ethylene glycol)",20.0,eye,107-21-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3168,MIX284,57837-19-1,Metalaxyl,0.1,eye,57837-19-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3169,MIX284,125225-28-7,Ipconazole,0.1,eye,125225-28-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3178,MIX286,372137-35-4,Saflufenacil,29.74,eye,372137-35-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3217,MIX297,107-98-2,1-Methoxy-2-propanol,1.0,eye,107-98-2,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3218,MIX297,25265-71-8,Dipropylene glycol,8.6,eye,25265-71-8,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3228,MIX3,116412-83-0,"Methanone, (4-chlorophenyl)(3,4-dimethoxyphenyl)-",0.5,eye,116412-83-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3247,MIX301,16484-77-8,MCPP-P (Mecoprop-P),93.0,eye,16484-77-8,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+3288,MIX315,220899-03-6,Metrafenone,25.2,eye,220899-03-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3290,MIX316,21087-64-9,Metribuzin,13.6,eye,21087-64-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3341,MIX323,131341-86-1,"Fludioxonil (4-(2,2-difluoro-1,3-benzodioxol-4-yl)-1H-pyrrole-3-carbonitrile)",0.5,eye,131341-86-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3352,MIX326,8003-34-7,Pyrethrins,1.0,eye,8003-34-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3353,MIX326,51-03-6,Piperonyl Butoxide,2.0,eye,51-03-6,2A,annex_vi,tier1_AnnexVI_H코드(H319),CAS_동의어일치
+3354,MIX326,113-48-4,MGK-264 (N-Octyl Bicycloheptene Dicarboximide),2.87,eye,113-48-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3369,MIX328,1811-28-5,Proflavine hemisulfate dihydrate,0.5,eye,1811-28-5,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@100.0%)),CAS_동의어일치
+3377,MIX33,131860-33-8,Azoxystrobin,0.12,eye,131860-33-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3378,MIX33,70630-17-0,Mefenoxam,0.23,eye,70630-17-0,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+3380,MIX33,131341-86-1,Fludioxonil,0.3,eye,131341-86-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3381,MIX33,148-79-8,Thiabendazole,2.34,eye,148-79-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3402,MIX335,128-37-0,"2,6-Di-tert-butyl-4-methylphenol (BHT)",1.3,eye,128-37-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3412,MIX337,35367-38-5,Diflubenzuron,80.0,eye,35367-38-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3462,MIX356,57-50-1,Sucrose,15.0,eye,57-50-1,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3463,MIX356,58-56-0,"Pyridoxine hydrochloride (3,4-Pyridinedimethanol,5-hydroxy-6-methyl-,hydrochloride)",7.5,eye,58-56-0,1,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H318@88.3%)),CAS_동의어일치
+3464,MIX356,59-67-6,Niacin (Pyridine-3-carboxylic acid),7.5,eye,59-67-6,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@99.8%)),CAS_동의어일치
+3468,MIX356,155569-91-8,Emamectin benzoate,0.1,eye,155569-91-8,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+3483,MIX360,2634-33-5,"1,2-Benzisothiazolin-3-one (BIT)",20.0,eye,2634-33-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+3493,MIX361,10377-60-3,Magnesium nitrate,2.0,eye,10377-60-3,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@64.2%)),CAS_동의어일치
+3498,MIX362,107534-96-3,Tebuconazole,0.29,eye,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3499,MIX362,57837-19-1,Metalaxyl,0.59,eye,57837-19-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3500,MIX362,178928-70-6,Prothioconazole,1.47,eye,178928-70-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3502,MIX362,57-55-6,"1,2-Propanediol",23.0,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3509,MIX365,127277-53-6,Prohexadione-calcium (calcium 3-oxido-5-oxo-4-propionylcyclohex-3-enecarboxylate),27.5,eye,127277-53-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3519,MIX368,494793-67-8,Penflufen,0.82,eye,494793-67-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3520,MIX368,141517-21-7,Trifloxystrobin,0.55,eye,141517-21-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3521,MIX368,57837-19-1,Metalaxyl,0.55,eye,57837-19-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3522,MIX368,57-55-6,2-Propanediol,11.7,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3539,MIX373,179101-81-6,Pyridalyl,100.0,eye,179101-81-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3546,MIX375,131860-33-8,Azoxystrobin,18.2,eye,131860-33-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3552,MIX376,36734-19-7,Iprodione,9.4,eye,36734-19-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3553,MIX376,23564-05-8,Thiophanate methyl,9.4,eye,23564-05-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3554,MIX376,107534-96-3,Tebuconazole,2.8,eye,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3555,MIX377,57-55-6,Propylene glycol,6.7,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3587,MIX381,57837-19-1,"Metalaxyl (methyl N-(2,6-dimethylphenyl)-N-(methoxyacetyl)-DL-alaninate)",1.0,eye,57837-19-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3588,MIX381,57-55-6,"Propane-1,2-diol (propylene glycol)",1.0,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3589,MIX381,125225-28-7,Ipconazole,1.0,eye,125225-28-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3604,MIX387,372137-35-4,Saflufenacil,17.8,eye,372137-35-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3631,MIX393,1918-00-9,"Dicamba Acid (3,6-Dichloro-o-Anisic Acid)",2.52,eye,1918-00-9,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+3689,MIX409,107534-96-3,Tebuconazole,38.7,eye,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3691,MIX409,2634-33-5,2-Benzisothiazol-3(2H)-one (BIT),0.2,eye,2634-33-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+3694,MIX410,79277-27-3,Thifensulfuron methyl,50.0,eye,79277-27-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3706,MIX414,94-75-7,"2,4-Dichlorophenoxyacetic acid",38.4,eye,94-75-7,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+3734,MIX418,52645-53-1,Permethrin,90.0,eye,52645-53-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3743,MIX42,122-20-3,Triisopropanolamine,1.5,eye,122-20-3,2A,annex_vi,tier1_AnnexVI_H코드(H319),CAS_동의어일치
+3754,MIX422,117428-22-5,Picoxystrobin TC,20.0,eye,117428-22-5,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@98.9%)),CAS_동의어일치
+3757,MIX423,175013-18-0,Pyraclostrobin,0.38,eye,175013-18-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3759,MIX423,131983-72-7,Triticonazole,0.43,eye,131983-72-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3762,MIX423,57-55-6,Propylene glycol,0.9,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3767,MIX425,243973-20-8,Pinoxaden,10.0,eye,243973-20-8,2A,annex_vi,tier1_AnnexVI_H코드(H319),CAS_동의어일치
+3768,MIX425,97-99-4,Tetrahydrofurfuryl alcohol,45.0,eye,97-99-4,2A,annex_vi,tier1_AnnexVI_H코드(H319),CAS_동의어일치
+3820,MIX433,53112-28-0,Pyrimethanil,37.4,eye,53112-28-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3821,MIX433,2634-33-5,"1,2-Benzisothiazol-3(2H)-one",0.005,eye,2634-33-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+3822,MIX433,57-55-6,"1,2-Propanediol",1.0,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3835,MIX436,118-74-1,Hexachlorobenzene (trace manufacturing impurity),0.0002,eye,118-74-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3837,MIX437,79622-59-6,Fluazinam,40.0,eye,79622-59-6,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+3870,MIX445,67952-32-3,Phosphate (2-hydroxypropyl) ammonium,2.55,eye,67952-32-3,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3878,MIX448,372137-35-4,"Saflufenacil (ISO); N'-{2-chloro-4-fluoro-5-[1,2,3,6-tetrahydro-3-methyl-2,6-dioxo-4-(trifluoromethyl)pyrimidin-1-yl]benzoyl}-N-isopropyl-N-methylsulfamide",70.0,eye,372137-35-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3888,MIX45,97-99-4,Tetrahydrofurfuryl alcohol,45.0,eye,97-99-4,2A,annex_vi,tier1_AnnexVI_H코드(H319),CAS_동의어일치
+3904,MIX455,6062-26-6,MCPB sodium salt (active ingredient),41.0,eye,6062-26-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3905,MIX455,3653-48-3,MCPA sodium salt (active ingredient),3.0,eye,3653-48-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3909,MIX456,118134-30-8,Spiroxamine Technical,31.0,eye,118134-30-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3960,MIX467,8003-34-7,Pyrethrins,0.5,eye,8003-34-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3963,MIX468,5598-13-0,Chlorpyrifos-methyl,21.6,eye,5598-13-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3964,MIX468,52918-63-5,Deltamethrin,3.7,eye,52918-63-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3966,MIX468,95-63-6,"1,2,4-Trimethylbenzene",18.6,eye,95-63-6,2A,annex_vi,tier1_AnnexVI_H코드(H319),CAS_동의어일치
+3969,MIX468,100-41-4,Ethylbenzene,1.4,eye,100-41-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3970,MIX468,98-82-8,Cumene,1.0,eye,98-82-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3983,MIX472,107534-96-3,Tebuconazole,16.0,eye,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3990,MIX476,141517-21-7,Trifloxystrobin,32.3,eye,141517-21-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4038,MIX490,131341-86-1,"Fludioxonil (4-(2,2-difluoro-1,3-benzodioxol-4-yl)-1H-pyrrole-3-carbonitrile)",25.0,eye,131341-86-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4070,MIX497,129558-76-5,Tolfenpyrad,15.0,eye,129558-76-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4073,MIX499,76674-21-0,Flutriafol,11.6,eye,76674-21-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4074,MIX499,57-55-6,Propylene glycol,7.5,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+4076,MIX499,2634-33-5,"1,2-Benzisothiazolin-3-one",0.02,eye,2634-33-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+4078,MIX50,117428-22-5,Picoxystrobin,17.94,eye,117428-22-5,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@98.9%)),CAS_동의어일치
+4079,MIX50,94361-06-5,Cyproconazole,7.17,eye,94361-06-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4106,MIX508,122548-33-8,Imazosulfuron Technical,75.0,eye,122548-33-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4118,MIX510,34590-94-8,Dipropylene Glycol Monomethyl Ether (DPM),82.5,eye,34590-94-8,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+4133,MIX516,131983-72-7,Triticonazole,98.0,eye,131983-72-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4144,MIX519,1689-99-2,Bromoxynil octanoate,13.4,eye,1689-99-2,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4145,MIX519,56634-95-8,Bromoxynil heptanoate,13.0,eye,56634-95-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4146,MIX519,365400-11-9,Pyrasulfotole,3.3,eye,365400-11-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4148,MIX519,108-32-7,Propylene carbonate,10.0,eye,108-32-7,2A,annex_vi,tier1_AnnexVI_H코드(H319),CAS_동의어일치
+4149,MIX519,91-20-3,Naphthalene,5.0,eye,91-20-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4150,MIX519,104-76-7,2-Ethylhexan-1-ol,5.0,eye,104-76-7,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@98.7%)),CAS_동의어일치
+4151,MIX519,135590-91-9,Mefenpyr-diethyl,0.8,eye,135590-91-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4154,MIX52,135590-91-9,Mefenpyr-diethyl,8.74,eye,135590-91-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4159,MIX52,104-76-7,2-Ethylhexan-1-ol,2.0,eye,104-76-7,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@98.7%)),CAS_동의어일치
+4160,MIX52,91-20-3,Naphthalene,1.0,eye,91-20-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4163,MIX520,7173-51-5,Didecyldimethylammonium chloride (DDAC),2.4,eye,7173-51-5,1,annex_vi,tier1_AnnexVI_H코드(H314),CAS_동의어일치
+4180,MIX525,5234-68-4,carboxin,35.52,eye,5234-68-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4181,MIX525,125225-28-7,ipconazole,2.22,eye,125225-28-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4204,MIX531,57-55-6,"propane-1,2-diol",5.0,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+4236,MIX534,67-64-1,Acetone,40.0,eye,67-64-1,2A,annex_vi,tier1_AnnexVI_H코드(H319),CAS_동의어일치
+4246,MIX538,52315-07-8,Cypermethrin (cis/trans +/- 40/60),24.8,eye,52315-07-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4268,MIX542,107534-96-3,Tebuconazole,0.5,eye,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4269,MIX542,7758-98-7,Copper sulfate,0.55,eye,7758-98-7,2A,annex_vi,tier1_AnnexVI_H코드(H319),CAS_동의어일치
+4290,MIX549,7722-84-1,Hydrogen peroxide,5.0,eye,7722-84-1,1,annex_vi,tier1_AnnexVI_H코드(H314),CAS_동의어일치
+4292,MIX549,79-21-0,Peracetic acid,0.3,eye,79-21-0,1,annex_vi,tier1_AnnexVI_H코드(H314),CAS_동의어일치
+4296,MIX550,175013-18-0,Pyraclostrobin,28.58,eye,175013-18-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4298,MIX550,907204-31-3,Fluxapyroxad,14.33,eye,907204-31-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4302,MIX550,52-51-7,Bronopol,0.02,eye,52-51-7,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+4314,MIX555,865318-97-4,ametoctradin,26.9,eye,865318-97-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4317,MIX555,2634-33-5,"1,2-benzisothiazol-3(2H)-one",0.01,eye,2634-33-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+4318,MIX555,100-41-4,ethylbenzene,0.1,eye,100-41-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4320,MIX555,116412-83-0,"Methanone, (4-chlorophenyl)(3,4-dimethoxyphenyl)-",0.1,eye,116412-83-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4323,MIX556,156052-68-5,Zoxamide,100.0,eye,156052-68-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4329,MIX559,62-73-7,Dichlorvos,5.3,eye,62-73-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4343,MIX562,107534-96-3,Tebuconazole,0.461,eye,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4344,MIX562,57837-19-1,Metalaxyl,0.615,eye,57837-19-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4345,MIX562,57-55-6,"1,2-Propanediol",20.0,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+4368,MIX567,374726-62-2,Mandipropamid,21.9,eye,374726-62-2,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4374,MIX568,64902-72-3,chlorsulfuron,15.8,eye,64902-72-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4380,MIX57,175013-18-0,Pyraclostrobin,28.58,eye,175013-18-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4381,MIX57,179293-51-1,Fluxapyroxad,14.33,eye,179293-51-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+4382,MIX57,52-51-7,Bronopol,0.05,eye,52-51-7,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+4383,MIX57,2634-33-5,"1,2-Benzisothiazol-3(2H)-one",0.01,eye,2634-33-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+4385,MIX57,57-55-6,"Propane-1,2-diol (propylene glycol)",10.0,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+4392,MIX572,374726-62-2,Mandipropamid,23.3,eye,374726-62-2,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4408,MIX577,21087-64-9,Metribuzin,13.6,eye,21087-64-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4427,MIX585,107-21-1,Ethylene glycol,8.0,eye,107-21-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4449,MIX593,75-09-2,Dichloromethane,0.5,eye,75-09-2,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@53.2%)),CAS_동의어일치
+4653,MIX65,52315-07-8,Cypermethrin,40.0,eye,52315-07-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4709,MIX67,168316-95-8,Spinosad (Spinosyn A & D),0.001,eye,168316-95-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4714,MIX672,2634-33-5,"1,2-Benzisothiazol-3(2H)-one (BIT)",0.01,eye,2634-33-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+4718,MIX674,1314-13-2,Zinc Oxide,6.0,eye,1314-13-2,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4752,MIX686,97-64-3,Ethyl lactate,3.065,eye,97-64-3,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+4770,MIX693,168316-95-8,Spinosad (Spinosyn A & D),80.0,eye,168316-95-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4773,MIX696,168316-95-8,Spinosad (Spinosyn A & D),22.8,eye,168316-95-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4847,MIX720,107-21-1,Ethylene glycol,8.0,eye,107-21-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4872,MIX760,98886-44-3,Fosthiazate,100.0,eye,98886-44-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4877,MIX77,175013-18-0,Pyraclostrobin,20.0,eye,175013-18-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4899,MIX78,104206-82-8,"Mesotrione (2-[4-(methylsulfonyl)-2-nitrobenzoyl]-1,3-cyclohexanedione)",5.36,eye,104206-82-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4979,MIX809,2825-83-4,"Tricyclo[5.2.1.0(2,6)]decane (parent hydrocarbon — NOT the actual ethyl ester product; provided for reference only, source mismatch)",100.0,eye,2825-83-4,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@100.0%)),CAS_동의어일치
+5033,MIX83,5915-41-3,"Terbuthylazine (N2-tert-butyl-6-chloro-N4-ethyl-1,3,5-triazine-2,4-diamine)",3.0,eye,5915-41-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5039,MIX833,57-55-6,Propylene glycol,7.5,eye,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+5065,MIX845,52315-07-8,Zeta-cypermethrin (F2700),0.05,eye,52315-07-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5070,MIX85,52645-53-1,Permethrin,2.0,eye,52645-53-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5073,MIX850,107534-96-3,Tebuconazole,95.37,eye,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5074,MIX851,107534-96-3,Tebuconazole,25.0,eye,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5075,MIX852,107534-96-3,Tebuconazole,25.0,eye,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5078,MIX855,107534-96-3,Tebuconazole,45.0,eye,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5079,MIX856,115-95-7,"Linalyl acetate (ex bois de rose, synthetic)",95.0,eye,115-95-7,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@85.3%)),CAS_동의어일치
+5084,MIX86,133-06-2,"Captan (N-[(trichloromethyl)thio]-4-cyclohexene-1,2-dicarboximide)",55.0,eye,133-06-2,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+5135,MIX893,140-11-4,Benzyl acetate,20.0,eye,140-11-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5161,MIX910,4180-23-8,trans-Anethole,75.0,eye,4180-23-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5171,MIX919,105-87-3,Geranyl acetate,1.0,eye,105-87-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5196,MIX94,2634-33-5,"1,2-Benzisothiazolin-3-one",0.2,eye,2634-33-5,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+5218,MIX955,97-53-0,Eugenol,75.0,eye,97-53-0,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@80.4%)),CAS_동의어일치
+5219,MIX955,93-28-7,Eugenyl acetate,5.0,eye,93-28-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5232,MIX961,1222-05-5,"Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl- (Galaxolide-type musk)",20.0,eye,1222-05-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5235,MIX964,119-84-6,Dihydrocoumarin,7.5,eye,119-84-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5239,MIX968,111-80-8,Methyl non-2-ynoate (Methyl 2-nonynoate),0.05,eye,111-80-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5241,MIX97,317815-83-1,Thiencarbazone-methyl,8.7,eye,317815-83-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5242,MIX97,144550-36-7,Iodosulfuron-methyl-sodium,1.9,eye,144550-36-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5243,MIX97,1918-00-9,Dicamba,57.4,eye,1918-00-9,1,annex_vi,tier1_AnnexVI_H코드(H318),CAS_동의어일치
+5249,MIX975,562-74-3,Terpinen-4-ol,25.5,eye,562-74-3,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@96.6%)),CAS_동의어일치
+5252,MIX978,115-95-7,Linalyl acetate (Natural),35.0,eye,115-95-7,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@85.3%)),CAS_동의어일치
+5266,MIX984,77-54-3,Cedryl acetate,100.0,eye,77-54-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5267,MIX985,61789-17-1,Guaiac wood acetate,100.0,eye,61789-17-1,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@96.9%)),이름_동의어일치
+5277,MIX990,91-64-5,Coumarin,50.0,eye,91-64-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5281,MIX994,115-95-7,Linalyl acetate (Natural),35.0,eye,115-95-7,2A,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H319@85.3%)),CAS_동의어일치
+5286,MIX999,120-51-4,Benzyl Benzoate,7.5,eye,120-51-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+37,EyeIrritation6pack_PID100,135590-91-9,Mefenpyr-diethyl,8.74,skin,135590-91-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+38,EyeIrritation6pack_PID100,208465-21-8,Mesosulfuron-methyl,2.91,skin,208465-21-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+40,EyeIrritation6pack_PID100,577-11-7,Docusate sodium <,7.0,skin,577-11-7,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@98.2%)),CAS_동의어일치
+42,EyeIrritation6pack_PID100,104-76-7,Ethylhexan-1-ol <,2.0,skin,104-76-7,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@88.6%)),CAS_동의어일치
+43,EyeIrritation6pack_PID100,91-20-3,Naphthalene <,1.0,skin,91-20-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+46,EyeIrritation6pack_PID1000,2303-17-5,Tri-allate,50.0,skin,2303-17-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+101,EyeIrritation6pack_PID1019,52315-07-8,cypermethrin cis/trans +/- /60,24.8,skin,52315-07-8,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+123,EyeIrritation6pack_PID1027,122548-33-8,Imazosulfuron Technical,75.0,skin,122548-33-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+124,EyeIrritation6pack_PID1027,126-86-3,"4,7,9-tetramethyl-5-decyne-4,7-diol",2.43,skin,126-86-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+139,EyeIrritation6pack_PID103,131860-33-8,Azoxystrobin,0.12,skin,131860-33-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+142,EyeIrritation6pack_PID103,131341-86-1,Fludioxonil,0.3,skin,131341-86-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+143,EyeIrritation6pack_PID103,148-79-8,Thiabendazole,2.34,skin,148-79-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+166,EyeIrritation6pack_PID1038,5234-68-4,carboxin,35.52,skin,5234-68-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+167,EyeIrritation6pack_PID1038,125225-28-7,ipconazole,2.22,skin,125225-28-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+181,EyeIrritation6pack_PID1042,57-55-6,"propane-,2-diol propane-1,2-diol >= 5 - < 10",5.0,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+183,EyeIrritation6pack_PID1042,91465-08-6,lambda-cyhalothrin lambda,4.6296,skin,91465-08-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+200,EyeIrritation6pack_PID1048,7632-00-0,sodium nitrite 1 - 5,3.0,skin,7632-00-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+202,EyeIrritation6pack_PID1048,107534-96-3,Tebuconazole,0.5,skin,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+203,EyeIrritation6pack_PID1048,7758-98-7,Copper sulfate 0.1,0.55,skin,7758-98-7,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+223,EyeIrritation6pack_PID1056,175013-18-0,Pyraclostrobin,28.58,skin,175013-18-0,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+225,EyeIrritation6pack_PID1056,907204-31-3,Fluxapyroxad,14.33,skin,907204-31-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+236,EyeIrritation6pack_PID1060,,ametoctradin,26.9,skin,ametoctradin,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+240,EyeIrritation6pack_PID1060,,ethylbenzene,1.0,skin,ethylbenzene,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+278,EyeIrritation6pack_PID120,,Pyraclostrobin,6.7,skin,Pyraclostrobin,2,annex_vi,tier1_AnnexVI_H코드(H315),이름_동의어일치
+279,EyeIrritation6pack_PID120,,Fluxapyroxad,14.33,skin,Fluxapyroxad,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+280,EyeIrritation6pack_PID120,,Bronopol,5.0,skin,Bronopol,2,annex_vi,tier1_AnnexVI_H코드(H315),이름_동의어일치
+281,EyeIrritation6pack_PID120,,"1,2-Benzisothiazol-3(2H)-one",0.05,skin,"1,2-Benzisothiazol-3(2H)-one",2,annex_vi,tier1_AnnexVI_H코드(H315),이름_동의어일치
+282,EyeIrritation6pack_PID120,,Methylisothiazolinone,0.01,skin,Methylisothiazolinone,1,annex_vi,tier1_AnnexVI_H코드(H314),이름_동의어일치
+283,EyeIrritation6pack_PID120,,Propylene Glycol,10.0,skin,Propylene Glycol,NC,echa_cl,NC_tier2_명시_미분류,이름_동의어일치
+367,EyeIrritation6pack_PID157,7647-15-6,sodium bromide,14.7,skin,7647-15-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+397,EyeIrritation6pack_PID182,175013-18-0,Pyraclostrobin,20.0,skin,175013-18-0,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+405,EyeIrritation6pack_PID182,577-11-7,sodium-di-ethyl-hexyl-sulfosuccinate,0.1,skin,577-11-7,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@98.2%)),CAS_동의어일치
+409,EyeIrritation6pack_PID186,104206-82-8,Mesotrione,5.36,skin,104206-82-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+418,EyeIrritation6pack_PID196,133-06-2,"Captan: N-[(trichloromethyl)thio]-4-cyclohexene-1, 2-",55.0,skin,133-06-2,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+425,EyeIrritation6pack_PID205,67-63-0,Isopropanol -No,15.0,skin,67-63-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+428,EyeIrritation6pack_PID205,7173-51-5,Didecyldimethylammonium chloride -No,0.76,skin,7173-51-5,1,annex_vi,tier1_AnnexVI_H코드(H314),CAS_동의어일치
+429,EyeIrritation6pack_PID213,317815-83-1,Thiencarbazone-methyl,8.7,skin,317815-83-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+430,EyeIrritation6pack_PID213,144550-36-7,Iodosulfuron-methyl-sodium,1.9,skin,144550-36-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+431,EyeIrritation6pack_PID213,1918-00-9,Dicamba,57.4,skin,1918-00-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+499,EyeIrritation6pack_PID24,14433-76-2,"Decanamide, N,N-dimethyl-",27.5,skin,14433-76-2,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@100.0%)),CAS_동의어일치
+502,EyeIrritation6pack_PID240,114311-32-9,imazamox,2.7,skin,114311-32-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+542,EyeIrritation6pack_PID267,,Coumaphos,100.0,skin,Coumaphos,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+543,EyeIrritation6pack_PID269,68157-60-8,Forchlorfenuron 1 not set not set,1.0,skin,68157-60-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+550,EyeIrritation6pack_PID271,874967-67-6,"1H-Pyrazole-4-carboxamide, N-(2-[1,1'- bicyclopropyl]-2-ylphenyl)-3- (difluoromethyl)-1-methyl-",0.72,skin,874967-67-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+551,EyeIrritation6pack_PID271,874967-67-6,Sedaxane,0.72,skin,874967-67-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+566,EyeIrritation6pack_PID274,7758-19-2,Sodium chlorite,0.75,skin,7758-19-2,1,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H314@90.9%)),CAS_동의어일치
+567,EyeIrritation6pack_PID274,7173-51-5,Didecyldimethylammonium chloride,1.0,skin,7173-51-5,1,annex_vi,tier1_AnnexVI_H코드(H314),CAS_동의어일치
+574,EyeIrritation6pack_PID277,1897-45-6,Chlorothalonil not listed,54.0,skin,1897-45-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+583,EyeIrritation6pack_PID283,,"1,2-Benzisothiazol-3(2H)-one",0.05,skin,"1,2-Benzisothiazol-3(2H)-one",2,annex_vi,tier1_AnnexVI_H코드(H315),이름_동의어일치
+622,EyeIrritation6pack_PID314,,Dichloroprop,0.1,skin,Dichloroprop,2,annex_vi,tier1_AnnexVI_H코드(H315),이름_동의어일치
+635,EyeIrritation6pack_PID327,330-54-1,"Diuron 3-(3,4-dichlorophenyl)-1,1-dimethylurea",40.7,skin,330-54-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+649,EyeIrritation6pack_PID343,,Elemental Sulfur,52.0,skin,Elemental Sulfur,2,annex_vi,tier1_AnnexVI_H코드(H315),이름_동의어일치
+653,EyeIrritation6pack_PID345,51707-55-2,Thidiazuron,21.43,skin,51707-55-2,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@93.5%)),CAS_동의어일치
+654,EyeIrritation6pack_PID345,330-54-1,Diuron,10.71,skin,330-54-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+655,EyeIrritation6pack_PID345,57-55-6,2-Propanediol <,10.0,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+657,EyeIrritation6pack_PID345,2634-33-5,2-Benzisothiazol-3(2H)-one >= 0.005 - <=,0.005,skin,2634-33-5,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+662,EyeIrritation6pack_PID348,,Methyl ethyl ketone > 35.0,45.0,skin,Methyl ethyl ketone > 35.0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+664,EyeIrritation6pack_PID348,,Ethyl acetate > 10.0,20.0,skin,Ethyl acetate > 10.0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+665,EyeIrritation6pack_PID348,,Methylenediphenyl diisocyanate,10.0,skin,Methylenediphenyl diisocyanate,2,annex_vi,tier1_AnnexVI_H코드(H315),이름_동의어일치
+666,EyeIrritation6pack_PID348,,3-Methoxy-1-butyl acetate,10.0,skin,3-Methoxy-1-butyl acetate,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+668,EyeIrritation6pack_PID348,,Carbon black,10.0,skin,Carbon black,NC,echa_cl,NC_tier2_명시_미분류,이름_동의어일치
+669,EyeIrritation6pack_PID348,,Propylene glycol monomethyl,10.0,skin,Propylene glycol monomethyl,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+671,EyeIrritation6pack_PID348,,n-Butyl Acetate,5.0,skin,n-Butyl Acetate,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+674,EyeIrritation6pack_PID348,,Chlorobenzene,1.0,skin,Chlorobenzene,2,annex_vi,tier1_AnnexVI_H코드(H315),이름_동의어일치
+676,EyeIrritation6pack_PID348,,Ethylbenzene,1.0,skin,Ethylbenzene,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+678,EyeIrritation6pack_PID349,117428-22-5,Picoxystrobin,17.94,skin,117428-22-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+679,EyeIrritation6pack_PID349,94361-06-5,Cyproconazole,7.17,skin,94361-06-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+682,EyeIrritation6pack_PID350,57966-95-7,Cymoxanil,60.0,skin,57966-95-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+683,EyeIrritation6pack_PID350,110-17-8,Fumaric Acid,5.0,skin,110-17-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+698,EyeIrritation6pack_PID355,,Urea,51.5,skin,Urea,NC,echa_cl,NC_tier2_명시_미분류,이름_동의어일치
+700,EyeIrritation6pack_PID355,,Prodiamine,0.43,skin,Prodiamine,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+714,EyeIrritation6pack_PID360,,Disodium phosphate,3.0,skin,Disodium phosphate,NC,echa_cl,NC_tier2_명시_미분류,이름_동의어일치
+727,EyeIrritation6pack_PID363,,Disodium phosphate,3.0,skin,Disodium phosphate,NC,echa_cl,NC_tier2_명시_미분류,이름_동의어일치
+728,EyeIrritation6pack_PID363,,"Ethyl 5,5-diphenyl-2-isoxazoline-3-carboxylate",8.3,skin,"Ethyl 5,5-diphenyl-2-isoxazoline-3-carboxylate",NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+746,EyeIrritation6pack_PID367,2634-33-5,2-benzisothiazol-3(2H)-one >=0.025-<0.05,0.025,skin,2634-33-5,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+748,EyeIrritation6pack_PID368,52-68-6,Trichlorfon,37.3,skin,52-68-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+749,EyeIrritation6pack_PID368,111-77-3,2-Methoxyethoxyethanol,62.7,skin,111-77-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+771,EyeIrritation6pack_PID376,,Glycol ether,85.0,skin,Glycol ether,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+819,EyeIrritation6pack_PID390,1897-45-6,chlorothalonil,54.14,skin,1897-45-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+822,EyeIrritation6pack_PID390,57-55-6,Propylene glycol,7.5,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+825,EyeIrritation6pack_PID391,91465-08-6,lambda-cyhalothrin,9.59,skin,91465-08-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+827,EyeIrritation6pack_PID391,57-55-6,"propane-,2-diol >= 5 - <",5.0,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+828,EyeIrritation6pack_PID391,91-57-6,methyl-naphthalene >= 1 - <,1.0,skin,91-57-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+829,EyeIrritation6pack_PID391,90-12-0,methyl-naphthalene >= 1 - <,1.0,skin,90-12-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+832,EyeIrritation6pack_PID391,2634-33-5,2-benzisothiazol-3(2H)-one >= 0.05 - <,0.05,skin,2634-33-5,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+872,EyeIrritation6pack_PID411,8003-34-7,Pyrethrins 232-319-8,0.05,skin,8003-34-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+873,EyeIrritation6pack_PID411,51-03-6,Piperonyl Butoxide 200-076-7,0.1,skin,51-03-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+874,EyeIrritation6pack_PID411,113-48-4,MGK®-264 (N-Octyl Bicycloheptene Dicarboximide) 0.16 204-029-1,0.16,skin,113-48-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+897,EyeIrritation6pack_PID417,52315-07-8,Cypermethrin,0.076,skin,52315-07-8,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+911,EyeIrritation6pack_PID426,,Fenpropimorph,79.8,skin,Fenpropimorph,2,annex_vi,tier1_AnnexVI_H코드(H315),이름_동의어일치
+913,EyeIrritation6pack_PID426,,Isobutanol,5.0,skin,Isobutanol,2,annex_vi,tier1_AnnexVI_H코드(H315),이름_동의어일치
+915,EyeIrritation6pack_PID43,135410-20-7,Acetamiprid,0.26,skin,135410-20-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+921,EyeIrritation6pack_PID435,158062-67-0,Flonicamid,98.4,skin,158062-67-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+927,EyeIrritation6pack_PID438,104040-78-0,Active Ingredient: Flazasulfuron* 25 Not established,25.0,skin,104040-78-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+947,EyeIrritation6pack_PID458,658066-35-4,Fluopyram,98.6,skin,658066-35-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+948,EyeIrritation6pack_PID459,658066-35-4,Fluopyram,17.4,skin,658066-35-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+949,EyeIrritation6pack_PID459,178928-70-6,Prothioconazole,17.4,skin,178928-70-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+955,EyeIrritation6pack_PID460,658066-35-4,Fluopyram,41.7,skin,658066-35-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1003,EyeIrritation6pack_PID471,7647-01-0,Hydrochloric Acid HCl g/mol,1.01,skin,7647-01-0,1,annex_vi,tier1_AnnexVI_H코드(H314),CAS_동의어일치
+1005,EyeIrritation6pack_PID471,7791-13-1,Cobalt (II) Chloride Hexahydrate CoCl₂·6H₂O 237.93 g/mol,0.3,skin,7791-13-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1063,EyeIrritation6pack_PID497,,Spinetoram,5.87,skin,Spinetoram,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1064,EyeIrritation6pack_PID497,,Spinetoram J,5.87,skin,Spinetoram J,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1066,EyeIrritation6pack_PID497,,Spinosyn D,0.0367,skin,Spinosyn D,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1084,EyeIrritation6pack_PID499,,Florasulam,0.2,skin,Florasulam,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1085,EyeIrritation6pack_PID499,,"1,2,4-Trimethylbenzene",10.0,skin,"1,2,4-Trimethylbenzene",2,annex_vi,tier1_AnnexVI_H코드(H315),이름_동의어일치
+1086,EyeIrritation6pack_PID499,,Cumene,5.0,skin,Cumene,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1087,EyeIrritation6pack_PID499,,Propylene Glycol,5.0,skin,Propylene Glycol,NC,echa_cl,NC_tier2_명시_미분류,이름_동의어일치
+1133,EyeIrritation6pack_PID507,108-88-3,Toluene,35.0,skin,108-88-3,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+1200,EyeIrritation6pack_PID540,131341-86-1,Fludioxonil,32.0,skin,131341-86-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1257,EyeIrritation6pack_PID570,91465-08-6,Lambda-cyhalothrin,22.8,skin,91465-08-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1264,EyeIrritation6pack_PID573,372137-35-4,saflufenacil,70.0,skin,372137-35-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1288,EyeIrritation6pack_PID585,2634-33-5,2-Benzisothiazol-3(2H)-one >= 0.005 - <=,0.005,skin,2634-33-5,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+1313,EyeIrritation6pack_PID601,107-98-2,Methoxy-2-propanol,1.0,skin,107-98-2,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1314,EyeIrritation6pack_PID601,25265-71-8,Dipropylene glycol,8.6,skin,25265-71-8,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+1317,EyeIrritation6pack_PID602,,Glufosinate,10.0,skin,Glufosinate,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1359,EyeIrritation6pack_PID62,1582-09-8,Trifluralin none established,10.0,skin,1582-09-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1371,EyeIrritation6pack_PID627,131341-86-1,"2,2-difluoro-1,3-benzodioxol-4-yl-1H-pyrrole- Fludioxonil",0.5,skin,131341-86-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1452,EyeIrritation6pack_PID658,119-36-8,1-2 methyl salicylate,1.5,skin,119-36-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1461,EyeIrritation6pack_PID661,35367-38-5,DIflubenzuron 70-90,80.0,skin,35367-38-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1467,EyeIrritation6pack_PID668,2032-65-7,Methiocarb,2.0,skin,2032-65-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1468,EyeIrritation6pack_PID668,7778-18-9,Calcium sulfate,7.5,skin,7778-18-9,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+1469,EyeIrritation6pack_PID668,128-37-0,6-Di-tert-butyl-4-methylphenol >= 0.10 - <=,0.1,skin,128-37-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1503,EyeIrritation6pack_PID684,156052-68-5,Zoxamide,8.3,skin,156052-68-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1519,EyeIrritation6pack_PID694,,1-Methoxy-2-propanol,20.0,skin,1-Methoxy-2-propanol,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1520,EyeIrritation6pack_PID694,,Cobaltous neodecanoate,2.0,skin,Cobaltous neodecanoate,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@50.2%)),이름_동의어일치
+1547,EyeIrritation6pack_PID705,1918-00-9,6-Dicloro-o-anisic acid (Dicamba Acid) 3.0,2.55,skin,1918-00-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1569,EyeIrritation6pack_PID718,57-50-1,"sucrose, pure >= 10 - <",10.0,skin,57-50-1,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+1571,EyeIrritation6pack_PID718,59-67-6,Pyridine--carboxylic acid >= 5 - <,5.0,skin,59-67-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1575,EyeIrritation6pack_PID718,155569-91-8,emamectin benzoate,0.1,skin,155569-91-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1597,EyeIrritation6pack_PID732,,ametoctradin,26.9,skin,ametoctradin,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1601,EyeIrritation6pack_PID732,,ethylbenzene,1.0,skin,ethylbenzene,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1641,EyeIrritation6pack_PID756,117428-22-5,Picoxystrobin,98.0,skin,117428-22-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1644,EyeIrritation6pack_PID757,175013-18-0,Pyraclostrobin,0.38,skin,175013-18-0,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+1646,EyeIrritation6pack_PID757,131983-72-7,Triticonazole,0.43,skin,131983-72-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1649,EyeIrritation6pack_PID757,57-55-6,Propylene glycol,0.9,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+1653,EyeIrritation6pack_PID760,97-99-4,Tetrahydrofurfuryl,45.0,skin,97-99-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1660,EyeIrritation6pack_PID765,,Carbendazim,9.0,skin,Carbendazim,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1661,EyeIrritation6pack_PID765,,Diuron,15.0,skin,Diuron,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1667,EyeIrritation6pack_PID77,566191-89-7,Aminopyralid Triisopropanolamine Salt,40.6,skin,566191-89-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1668,EyeIrritation6pack_PID77,122-20-3,Triisopropanolamine,1.5,skin,122-20-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1692,EyeIrritation6pack_PID774,107534-96-3,Tebuconazole,0.29,skin,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1693,EyeIrritation6pack_PID774,57837-19-1,Metalaxyl,0.59,skin,57837-19-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1694,EyeIrritation6pack_PID774,178928-70-6,Prothioconazole,1.47,skin,178928-70-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1696,EyeIrritation6pack_PID774,57-55-6,2-Propanediol,23.0,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+1715,EyeIrritation6pack_PID777,127277-53-6,prohexadione-calcium; calcium 3-oxido-5-oxo-4-propionylcyclohex-3-enecarboxylate,27.5,skin,127277-53-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1718,EyeIrritation6pack_PID777,1344-95-2,"Silicic acid, calcium salt",5.0,skin,1344-95-2,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1724,EyeIrritation6pack_PID780,108-88-3,Toluene,45.0,skin,108-88-3,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+1735,EyeIrritation6pack_PID783,577-11-7,Docusate sodium,1.4,skin,577-11-7,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@98.2%)),CAS_동의어일치
+1809,EyeIrritation6pack_PID803,57-55-6,"propane-,2-diol >= 1 - <",1.0,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+1810,EyeIrritation6pack_PID803,125225-28-7,Ipconazole >= 1 - <,1.0,skin,125225-28-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1839,EyeIrritation6pack_PID813,,Bispyribac-sodium,80.0,skin,Bispyribac-sodium,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+1885,EyeIrritation6pack_PID831,107534-96-3,Tebuconazole 37.5-39.9 X,38.7,skin,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1888,EyeIrritation6pack_PID832,79277-27-3,Thifensulfuron methyl,50.0,skin,79277-27-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1981,EyeIrritation6pack_PID857,53112-28-0,Pyrimethanil,37.4,skin,53112-28-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+1983,EyeIrritation6pack_PID857,57-55-6,Propylene Glycol,7.5,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+2014,EyeIrritation6pack_PID87,117428-22-5,Picoxystrobin,17.94,skin,117428-22-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2015,EyeIrritation6pack_PID87,94361-06-5,Cyproconazole,7.17,skin,94361-06-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2082,EyeIrritation6pack_PID905,5598-13-0,Chlorpyrifos-methyl,21.6,skin,5598-13-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2083,EyeIrritation6pack_PID905,52918-63-5,Deltamethrin,3.7,skin,52918-63-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2085,EyeIrritation6pack_PID905,95-63-6,"2,4-Trimethylbenzene",18.6,skin,95-63-6,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+2088,EyeIrritation6pack_PID905,100-41-4,Ethylbenzene,1.4,skin,100-41-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2089,EyeIrritation6pack_PID905,98-82-8,Cumene,1.0,skin,98-82-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2126,EyeIrritation6pack_PID922,131341-86-1,Fludioxonil,25.0,skin,131341-86-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2142,EyeIrritation6pack_PID932,,Trichloroacetic Acid,1.0,skin,Trichloroacetic Acid,1,annex_vi,tier1_AnnexVI_H코드(H314),이름_동의어일치
+2204,EyeIrritation6pack_PID969,16389-88-1,Limestone Dolomite 80-90,85.0,skin,16389-88-1,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+2205,EyeIrritation6pack_PID969,7447-40-7,Potassium chloride Potash 5-15,10.0,skin,7447-40-7,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+2240,EyeIrritation6pack_PID979,131341-86-1,Fludioxonil,1.07,skin,131341-86-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2241,EyeIrritation6pack_PID979,70630-17-0,Metalaxyl-m,3.21,skin,70630-17-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2259,EyeIrritation6pack_PID985,129558-76-5,Tolfenpyrad EC,15.0,skin,129558-76-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2260,EyeIrritation6pack_PID986,68359-37-5,Cyfluthrin Not Established,24.74,skin,68359-37-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2262,EyeIrritation6pack_PID988,76674-21-0,Flutriafol,11.6,skin,76674-21-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2263,EyeIrritation6pack_PID988,57-55-6,Propylene glycol 5-10,7.5,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+2265,EyeIrritation6pack_PID988,2634-33-5,2 benzisothiazolin-3-one 0.02 (max),0.02,skin,2634-33-5,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+2294,EyeIrritation6pack_PID999,34590-94-8,Dipropylene Glycol Monomethyl Ether (DPM) ≥75-≤90,75.0,skin,34590-94-8,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+2306,MIX1001,106-26-3,Neral,37.5,skin,106-26-3,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@100.0%)),CAS_동의어일치
+2309,MIX1001,106-23-0,Citronellal,3.0,skin,106-23-0,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@99.9%)),CAS_동의어일치
+2316,MIX1001,87-44-5,(-)-Caryophyllene,3.0,skin,87-44-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2324,MIX1004,87-44-5,(-)-Caryophyllene,6.0,skin,87-44-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2338,MIX1008,3779-61-1,"beta-OCIMENE, (3E)-",3.0,skin,3779-61-1,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@53.8%)),CAS_동의어일치
+2343,MIX1008,87-44-5,(-)-Caryophyllene,0.5,skin,87-44-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2374,MIX1026,,Citronellol,35.0,skin,Citronellol,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@95.7%) | 2:H코드(H315@100.0%)),이름_동의어일치
+2376,MIX1026,,Citronellyl formate,15.0,skin,Citronellyl formate,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@82.1%)),이름_동의어일치
+2378,MIX1026,,Geranyl formate,7.5,skin,Geranyl formate,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+2379,MIX1026,,(-)-Caryophyllene,3.0,skin,(-)-Caryophyllene,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+2381,MIX1026,,Citral,3.0,skin,Citral,2,annex_vi,tier1_AnnexVI_H코드(H315),이름_동의어일치
+2384,MIX1026,,Nerol,3.0,skin,Nerol,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@97.0%)),이름_동의어일치
+2386,MIX1026,,Citronellyl Acetate,3.0,skin,Citronellyl Acetate,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@99.9%)),이름_동의어일치
+2387,MIX1026,,Geranyl Acetate,3.0,skin,Geranyl Acetate,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@79.8%)),이름_동의어일치
+2390,MIX1026,,"Linalool, oxide",3.0,skin,"Linalool, oxide",2,echa_cl,"tier2_ECHA_CL_H코드(1:미달(H315@21.7%) | 2:블록내경합(H315 54.2%, H314 23.5%) | 3:H코드(H315@99.1%))",이름_동의어일치
+2391,MIX1026,,Citronellal,0.55,skin,Citronellal,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@99.9%)),이름_동의어일치
+2400,MIX1030,115-95-7,Linalyl Acetate,37.5,skin,115-95-7,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@85.5%)),CAS_동의어일치
+2401,MIX1030,464-49-3,D-Camphor,8.75,skin,464-49-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2403,MIX1030,91-64-5,Coumarin,4.0,skin,91-64-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2404,MIX1030,562-74-3,Terpinen-4-ol,4.0,skin,562-74-3,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@98.5%)),CAS_동의어일치
+2405,MIX1030,507-70-0,Borneol,2.0,skin,507-70-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2406,MIX1030,87-44-5,(-)-Caryophyllene,2.0,skin,87-44-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2408,MIX1030,23089-26-1,Levomenol,2.0,skin,23089-26-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2412,MIX1030,105-87-3,Geranyl Acetate,1.0,skin,105-87-3,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@79.8%)),CAS_동의어일치
+2414,MIX1030,3391-86-4,1-Octen-3-Ol,1.0,skin,3391-86-4,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@99.9%)),CAS_동의어일치
+2415,MIX1030,2442-10-6,1-Octen-3-yl acetate,1.0,skin,2442-10-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2417,MIX1030,141-12-8,Neryl acetate,1.0,skin,141-12-8,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@77.8%)),CAS_동의어일치
+2419,MIX1032,106-23-0,Citronellal,70.0,skin,106-23-0,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@99.9%)),CAS_동의어일치
+2427,MIX104,114311-32-9,imazamox,2.7,skin,114311-32-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2435,MIX1041,562-74-3,Terpinen-4-ol,1.0,skin,562-74-3,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@98.5%)),CAS_동의어일치
+2438,MIX1041,99-85-4,Gamma-Terpinene,1.0,skin,99-85-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2440,MIX1041,87-44-5,(-)-Caryophyllene,1.0,skin,87-44-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2441,MIX1041,93-15-2,Methyleugenol,1.0,skin,93-15-2,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2451,MIX1044,115-95-7,Linalyl Acetate,35.0005,skin,115-95-7,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@85.5%)),CAS_동의어일치
+2452,MIX1044,91-64-5,Coumarin,7.500500000000001,skin,91-64-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2453,MIX1044,87-44-5,(-)-Caryophyllene,3.0005,skin,87-44-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2454,MIX1044,2442-10-6,1-Octen-3-yl acetate,0.5505,skin,2442-10-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2456,MIX1044,105-87-3,Geranyl Acetate,0.5505,skin,105-87-3,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@79.8%)),CAS_동의어일치
+2461,MIX1045,13466-78-9,3-Carene,15.0005,skin,13466-78-9,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@95.4%)),CAS_동의어일치
+2464,MIX1045,87-44-5,(-)-Caryophyllene,3.0005,skin,87-44-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2466,MIX1045,475-20-7,Longifolene,3.0005,skin,475-20-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2467,MIX1045,99-86-5,Alpha-Terpinene,0.5505,skin,99-86-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2525,MIX1060,99-85-4,Gamma-Terpinene,11.4,skin,99-85-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2528,MIX1060,99-86-5,Alpha-Terpinene,2.7,skin,99-86-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2532,MIX1060,495-61-4,Beta-Bisabolene,1.5,skin,495-61-4,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@100.0%)),CAS_동의어일치
+2533,MIX1060,562-74-3,Terpinen-4-ol,1.3,skin,562-74-3,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@98.5%)),CAS_동의어일치
+2535,MIX1060,502-61-4,Farnesene,1.2,skin,502-61-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2537,MIX1060,586-81-2,Gamma-Terpineol,1.2,skin,586-81-2,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@100.0%)),CAS_동의어일치
+2574,MIX1072,,Anethole,22.5,skin,Anethole,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+2592,MIX11,,"1,2-benzisothiazolin-3-one",10.0,skin,"1,2-benzisothiazolin-3-one",2,annex_vi,tier1_AnnexVI_H코드(H315),이름_동의어일치
+2618,MIX119,56-72-4,phosphorothioate,25.0,skin,56-72-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2621,MIX12,14433-76-2,"Decanamide, N,N-dimethyl-",27.5,skin,14433-76-2,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@100.0%)),CAS_동의어일치
+2630,MIX122,7758-19-2,Sodium chlorite,0.75,skin,7758-19-2,1,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H314@90.9%)),CAS_동의어일치
+2631,MIX122,7173-51-5,Didecyldimethylammonium chloride,1.0,skin,7173-51-5,1,annex_vi,tier1_AnnexVI_H코드(H314),CAS_동의어일치
+2634,MIX123,,Coumaphos,11.6,skin,Coumaphos,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+2646,MIX128,57966-95-7,Cymoxanil,60.0,skin,57966-95-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2647,MIX128,110-17-8,Fumaric acid,3.0,skin,110-17-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2648,MIX129,68157-60-8,Forchlorfenuron,1.0,skin,68157-60-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2655,MIX131,874967-67-6,"1H-Pyrazole-4-carboxamide, N-(2-[1,1'-bicyclopropyl]-2-ylphenyl)-3-(difluoromethyl)-1-methyl- (Sedaxane)",0.72,skin,874967-67-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2656,MIX131,874967-67-6,Sedaxane,0.72,skin,874967-67-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2661,MIX133,2634-33-5,"1,2-Benzisothiazol-3(2H)-one (1,2-benzisothiazolin-3-one)",0.05,skin,2634-33-5,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+2664,MIX136,86753-92-6,Cypermethrin,96.7,skin,86753-92-6,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+2665,MIX137,94361-06-5,Cyproconazole,98.0,skin,94361-06-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2683,MIX142,872-05-9,Other ingredients (undisclosed),88.3,skin,872-05-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2697,MIX146,13684-56-5,Desmedipham,4.35,skin,13684-56-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2699,MIX146,2164-08-1,Lenacil,2.5,skin,2164-08-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2700,MIX146,13684-63-4,Phenmedipham,5.56,skin,13684-63-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2703,MIX147,15299-99-7,Napropamide,21.8,skin,15299-99-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2706,MIX149,15299-99-7,Napropamide,45.0,skin,15299-99-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2707,MIX149,107-21-1,Ethylene glycol,7.5,skin,107-21-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2708,MIX149,2634-33-5,"1,2-Benzisothiazolin-3-one",1.0,skin,2634-33-5,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+2710,MIX15,98-86-2,Acetophenone,13.0,skin,98-86-2,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2734,MIX162,51707-55-2,Thidiazuron,21.43,skin,51707-55-2,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@93.5%)),CAS_동의어일치
+2735,MIX162,330-54-1,Diuron,10.71,skin,330-54-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2736,MIX162,57-55-6,"1,2-Propanediol",10.0,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+2738,MIX162,2634-33-5,"1,2-Benzisothiazol-3(2H)-one",0.005,skin,2634-33-5,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+2740,MIX163,117428-22-5,Picoxystrobin,17.94,skin,117428-22-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2741,MIX163,94361-06-5,Cyproconazole,7.17,skin,94361-06-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2744,MIX164,131807-57-3,Famoxadone,25.0,skin,131807-57-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2745,MIX164,57966-95-7,Cymoxanil,25.0,skin,57966-95-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2746,MIX164,577-11-7,Sodium dioctyl sulfosuccinate,3.0,skin,577-11-7,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@98.2%)),CAS_동의어일치
+2751,MIX165,16752-77-5,Methomyl,90.0,skin,16752-77-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2762,MIX169,52-68-6,Trichlorfon,37.3,skin,52-68-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2763,MIX169,111-77-3,2-(2-Methoxyethoxy)ethanol,62.7,skin,111-77-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2769,MIX172,330-54-1,"Diuron (3-(3,4-dichlorophenyl)-1,1-dimethylurea)",40.7,skin,330-54-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2770,MIX172,107-21-1,"Ethylene glycol (listed as 'Proprietary solvent' in Section 3, identified by name in Section 15 SARA 313)",6.0,skin,107-21-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2773,MIX173,131860-33-8,Azoxystrobin,6.64,skin,131860-33-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2775,MIX173,70630-17-0,"Mefenoxam (in Dynasty CST doc; dataset hint lists 'Metalaxyl' instead, a closely related but distinct active)",3.32,skin,70630-17-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2778,MIX174,330-54-1,"Diuron (3-(3,4-dichlorophenyl)-1,1-dimethylurea)",80.0,skin,330-54-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2795,MIX180,7778-77-0,Monobasic potassium phosphate (Potassium dihydrogenorthophosphate),12.5,skin,7778-77-0,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+2802,MIX183,,Glycol ether,85.0,skin,Glycol ether,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+2803,MIX184,1897-45-6,Chlorothalonil,54.14,skin,1897-45-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2806,MIX184,57-55-6,Propylene glycol,7.5,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+2814,MIX186,91465-08-6,lambda-Cyhalothrin,9.59,skin,91465-08-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2816,MIX186,57-55-6,"Propane-1,2-diol",5.0,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+2817,MIX186,91-57-6,2-methyl-naphthalene,1.0,skin,91-57-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2818,MIX186,90-12-0,1-methyl-naphthalene,1.0,skin,90-12-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2827,MIX188,148477-71-8,Spirodiclofen,22.2,skin,148477-71-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2829,MIX188,2634-33-5,"1,2-Benzisothiazol-3(2H)-one",0.005,skin,2634-33-5,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+2847,MIX193,16672-87-0,Ethephon (Chlorethephon),48.0,skin,16672-87-0,1,annex_vi,tier1_AnnexVI_H코드(H314),CAS_동의어일치
+2854,MIX196,8003-34-7,Pyrethrins,0.05,skin,8003-34-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2855,MIX196,51-03-6,Piperonyl Butoxide,0.1,skin,51-03-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2856,MIX196,113-48-4,MGK-264 (N-Octyl Bicycloheptene Dicarboximide),0.16,skin,113-48-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2873,MIX199,128639-02-1,Carfentrazone-ethyl,0.99,skin,128639-02-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2900,MIX204,78-83-1,2-methylpropan-1-ol (iso-butanol),5.0,skin,78-83-1,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+2901,MIX205,7778-77-0,Monopotassium Phosphate,31.1,skin,7778-77-0,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+2918,MIX211,658066-35-4,Fluopyram,41.7,skin,658066-35-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2927,MIX214,104040-78-0,Flazasulfuron,25.0,skin,104040-78-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2932,MIX217,107534-96-3,Tebuconazole,38.8,skin,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+2934,MIX217,2634-33-5,"1,2-Benzisothiazol-3(2H)-one",0.005,skin,2634-33-5,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+2938,MIX219,107534-96-3,Tebuconazole,25.8,skin,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3004,MIX241,658066-35-4,Fluopyram,98.6,skin,658066-35-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3005,MIX242,658066-35-4,Fluopyram,11.77,skin,658066-35-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3006,MIX242,178928-70-6,Prothioconazole,11.77,skin,178928-70-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3007,MIX242,2634-33-5,"1,2-Benzisothiazol-3(2H)-one",0.005,skin,2634-33-5,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+3008,MIX242,57-55-6,"1,2-Propanediol",1.0,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3024,MIX249,131929-60-7,Spinosad (Spinosyn A & Spinosyn D),80.0,skin,131929-60-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3029,MIX251,131929-60-7,Spinosad (Spinosyn A & Spinosyn D),22.8,skin,131929-60-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3035,MIX254,935545-74-7,Spinetoram J & L,5.87,skin,935545-74-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3038,MIX254,131929-63-0,Spinosyn D,0.0367,skin,131929-63-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3039,MIX254,2634-33-5,"1,2-Benzisothiazolin-3-one",0.025,skin,2634-33-5,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+3040,MIX255,935545-74-7,Spinetoram J & L,25.0,skin,935545-74-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3044,MIX255,7647-14-5,Sodium chloride,0.5,skin,7647-14-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3055,MIX256,81406-37-3,Fluroxypyr-meptyl (ISO),14.5,skin,81406-37-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3056,MIX256,145701-23-1,Florasulam (ISO),0.2,skin,145701-23-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3057,MIX256,95-63-6,"1,2,4-Trimethylbenzene",10.0,skin,95-63-6,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+3058,MIX256,98-82-8,Cumene,5.0,skin,98-82-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3059,MIX256,57-55-6,Propylene glycol,5.0,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3083,MIX261,52315-07-8,Zeta-cypermethrin,3.75,skin,52315-07-8,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+3101,MIX266,70630-17-0,Mefenoxam (common/generic name sometimes referenced as Metalaxyl; R-enantiomer-enriched form),16.0,skin,70630-17-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3102,MIX266,131341-86-1,Fludioxonil,32.0,skin,131341-86-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3108,MIX269,122548-33-8,Imazosulfuron,98.0,skin,122548-33-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3109,MIX27,1582-09-8,Trifluralin,10.0,skin,1582-09-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3129,MIX273,161050-58-4,Methoxyfenozide,27.79,skin,161050-58-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3130,MIX273,935545-74-7,Spinetoram J & L,4.86,skin,935545-74-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3132,MIX273,2634-33-5,"1,2-benzisothiazol-3(2H)-one",0.025,skin,2634-33-5,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+3155,MIX280,98-86-2,Acetophenone,8.6,skin,98-86-2,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3165,MIX284,107-21-1,"Ethane-1,2-diol (ethylene glycol)",20.0,skin,107-21-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3168,MIX284,57837-19-1,Metalaxyl,0.1,skin,57837-19-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3169,MIX284,125225-28-7,Ipconazole,0.1,skin,125225-28-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3178,MIX286,372137-35-4,Saflufenacil,29.74,skin,372137-35-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3217,MIX297,107-98-2,1-Methoxy-2-propanol,1.0,skin,107-98-2,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3218,MIX297,25265-71-8,Dipropylene glycol,8.6,skin,25265-71-8,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3228,MIX3,116412-83-0,"Methanone, (4-chlorophenyl)(3,4-dimethoxyphenyl)-",0.5,skin,116412-83-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3247,MIX301,16484-77-8,MCPP-P (Mecoprop-P),93.0,skin,16484-77-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3262,MIX305,67-63-0,2-Propanol,5.0,skin,67-63-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3288,MIX315,220899-03-6,Metrafenone,25.2,skin,220899-03-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3290,MIX316,21087-64-9,Metribuzin,13.6,skin,21087-64-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3341,MIX323,131341-86-1,"Fludioxonil (4-(2,2-difluoro-1,3-benzodioxol-4-yl)-1H-pyrrole-3-carbonitrile)",0.5,skin,131341-86-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3352,MIX326,8003-34-7,Pyrethrins,1.0,skin,8003-34-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3353,MIX326,51-03-6,Piperonyl Butoxide,2.0,skin,51-03-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3354,MIX326,113-48-4,MGK-264 (N-Octyl Bicycloheptene Dicarboximide),2.87,skin,113-48-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3367,MIX328,119-36-8,Methyl salicylate,1.5,skin,119-36-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3369,MIX328,1811-28-5,Proflavine hemisulfate dihydrate,0.5,skin,1811-28-5,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@100.0%)),CAS_동의어일치
+3377,MIX33,131860-33-8,Azoxystrobin,0.12,skin,131860-33-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3378,MIX33,70630-17-0,Mefenoxam,0.23,skin,70630-17-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3380,MIX33,131341-86-1,Fludioxonil,0.3,skin,131341-86-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3381,MIX33,148-79-8,Thiabendazole,2.34,skin,148-79-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3402,MIX335,128-37-0,"2,6-Di-tert-butyl-4-methylphenol (BHT)",1.3,skin,128-37-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3412,MIX337,35367-38-5,Diflubenzuron,80.0,skin,35367-38-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3462,MIX356,57-50-1,Sucrose,15.0,skin,57-50-1,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3463,MIX356,58-56-0,"Pyridoxine hydrochloride (3,4-Pyridinedimethanol,5-hydroxy-6-methyl-,hydrochloride)",7.5,skin,58-56-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3464,MIX356,59-67-6,Niacin (Pyridine-3-carboxylic acid),7.5,skin,59-67-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3467,MIX356,51229-78-8,"Hexamine derivative (3,5,7-triaza-1-azoniatricyclo[3.3.1.1(3,7)]decane chloride)",0.55,skin,51229-78-8,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+3468,MIX356,155569-91-8,Emamectin benzoate,0.1,skin,155569-91-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3472,MIX357,,Disodium phosphate,3.0,skin,Disodium phosphate,NC,echa_cl,NC_tier2_명시_미분류,이름_동의어일치
+3483,MIX360,2634-33-5,"1,2-Benzisothiazolin-3-one (BIT)",20.0,skin,2634-33-5,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+3498,MIX362,107534-96-3,Tebuconazole,0.29,skin,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3499,MIX362,57837-19-1,Metalaxyl,0.59,skin,57837-19-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3500,MIX362,178928-70-6,Prothioconazole,1.47,skin,178928-70-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3502,MIX362,57-55-6,"1,2-Propanediol",23.0,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3509,MIX365,127277-53-6,Prohexadione-calcium (calcium 3-oxido-5-oxo-4-propionylcyclohex-3-enecarboxylate),27.5,skin,127277-53-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3512,MIX365,1344-95-2,"Silicic acid, calcium salt",5.0,skin,1344-95-2,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3519,MIX368,494793-67-8,Penflufen,0.82,skin,494793-67-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3520,MIX368,141517-21-7,Trifloxystrobin,0.55,skin,141517-21-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3521,MIX368,57837-19-1,Metalaxyl,0.55,skin,57837-19-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3522,MIX368,57-55-6,2-Propanediol,11.7,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3528,MIX369,577-11-7,Docusate sodium,1.4,skin,577-11-7,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@98.2%)),CAS_동의어일치
+3539,MIX373,179101-81-6,Pyridalyl,100.0,skin,179101-81-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3546,MIX375,131860-33-8,Azoxystrobin,18.2,skin,131860-33-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3552,MIX376,36734-19-7,Iprodione,9.4,skin,36734-19-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3553,MIX376,23564-05-8,Thiophanate methyl,9.4,skin,23564-05-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3554,MIX376,107534-96-3,Tebuconazole,2.8,skin,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3555,MIX377,57-55-6,Propylene glycol,6.7,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3587,MIX381,57837-19-1,"Metalaxyl (methyl N-(2,6-dimethylphenyl)-N-(methoxyacetyl)-DL-alaninate)",1.0,skin,57837-19-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3588,MIX381,57-55-6,"Propane-1,2-diol (propylene glycol)",1.0,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3589,MIX381,125225-28-7,Ipconazole,1.0,skin,125225-28-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3604,MIX387,372137-35-4,Saflufenacil,17.8,skin,372137-35-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3631,MIX393,1918-00-9,"Dicamba Acid (3,6-Dichloro-o-Anisic Acid)",2.52,skin,1918-00-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3689,MIX409,107534-96-3,Tebuconazole,38.7,skin,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3691,MIX409,2634-33-5,2-Benzisothiazol-3(2H)-one (BIT),0.2,skin,2634-33-5,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+3694,MIX410,79277-27-3,Thifensulfuron methyl,50.0,skin,79277-27-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3706,MIX414,94-75-7,"2,4-Dichlorophenoxyacetic acid",38.4,skin,94-75-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3734,MIX418,52645-53-1,Permethrin,90.0,skin,52645-53-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3743,MIX42,122-20-3,Triisopropanolamine,1.5,skin,122-20-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3754,MIX422,117428-22-5,Picoxystrobin TC,20.0,skin,117428-22-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3757,MIX423,175013-18-0,Pyraclostrobin,0.38,skin,175013-18-0,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+3759,MIX423,131983-72-7,Triticonazole,0.43,skin,131983-72-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3762,MIX423,57-55-6,Propylene glycol,0.9,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3768,MIX425,97-99-4,Tetrahydrofurfuryl alcohol,45.0,skin,97-99-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3820,MIX433,53112-28-0,Pyrimethanil,37.4,skin,53112-28-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3821,MIX433,2634-33-5,"1,2-Benzisothiazol-3(2H)-one",0.005,skin,2634-33-5,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+3822,MIX433,57-55-6,"1,2-Propanediol",1.0,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3826,MIX434,91465-08-6,lambda-Cyhalothrin,0.04,skin,91465-08-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3834,MIX436,57754-85-5,Clopyralid monoethanolamine salt (Clopyralid-olamine),44.05,skin,57754-85-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3835,MIX436,118-74-1,Hexachlorobenzene (trace manufacturing impurity),0.0002,skin,118-74-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3870,MIX445,67952-32-3,Phosphate (2-hydroxypropyl) ammonium,2.55,skin,67952-32-3,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+3878,MIX448,372137-35-4,"Saflufenacil (ISO); N'-{2-chloro-4-fluoro-5-[1,2,3,6-tetrahydro-3-methyl-2,6-dioxo-4-(trifluoromethyl)pyrimidin-1-yl]benzoyl}-N-isopropyl-N-methylsulfamide",70.0,skin,372137-35-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3888,MIX45,97-99-4,Tetrahydrofurfuryl alcohol,45.0,skin,97-99-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3904,MIX455,6062-26-6,MCPB sodium salt (active ingredient),41.0,skin,6062-26-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3905,MIX455,3653-48-3,MCPA sodium salt (active ingredient),3.0,skin,3653-48-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3909,MIX456,118134-30-8,Spiroxamine Technical,31.0,skin,118134-30-8,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+3960,MIX467,8003-34-7,Pyrethrins,0.5,skin,8003-34-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3963,MIX468,5598-13-0,Chlorpyrifos-methyl,21.6,skin,5598-13-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3964,MIX468,52918-63-5,Deltamethrin,3.7,skin,52918-63-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3966,MIX468,95-63-6,"1,2,4-Trimethylbenzene",18.6,skin,95-63-6,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+3969,MIX468,100-41-4,Ethylbenzene,1.4,skin,100-41-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3970,MIX468,98-82-8,Cumene,1.0,skin,98-82-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3983,MIX472,107534-96-3,Tebuconazole,16.0,skin,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+3990,MIX476,141517-21-7,Trifloxystrobin,32.3,skin,141517-21-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4038,MIX490,131341-86-1,"Fludioxonil (4-(2,2-difluoro-1,3-benzodioxol-4-yl)-1H-pyrrole-3-carbonitrile)",25.0,skin,131341-86-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4070,MIX497,129558-76-5,Tolfenpyrad,15.0,skin,129558-76-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4073,MIX499,76674-21-0,Flutriafol,11.6,skin,76674-21-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4074,MIX499,57-55-6,Propylene glycol,7.5,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+4076,MIX499,2634-33-5,"1,2-Benzisothiazolin-3-one",0.02,skin,2634-33-5,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+4078,MIX50,117428-22-5,Picoxystrobin,17.94,skin,117428-22-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4079,MIX50,94361-06-5,Cyproconazole,7.17,skin,94361-06-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4106,MIX508,122548-33-8,Imazosulfuron Technical,75.0,skin,122548-33-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4107,MIX508,126-86-3,"2,4,7,9-tetramethyl-5-decyne-4,7-diol",2.43,skin,126-86-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4118,MIX510,34590-94-8,Dipropylene Glycol Monomethyl Ether (DPM),82.5,skin,34590-94-8,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+4126,MIX512,70901-12-1,Other/inert ingredients,38.5,skin,70901-12-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4133,MIX516,131983-72-7,Triticonazole,98.0,skin,131983-72-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4144,MIX519,1689-99-2,Bromoxynil octanoate,13.4,skin,1689-99-2,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4145,MIX519,56634-95-8,Bromoxynil heptanoate,13.0,skin,56634-95-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4146,MIX519,365400-11-9,Pyrasulfotole,3.3,skin,365400-11-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4148,MIX519,108-32-7,Propylene carbonate,10.0,skin,108-32-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4149,MIX519,91-20-3,Naphthalene,5.0,skin,91-20-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4150,MIX519,104-76-7,2-Ethylhexan-1-ol,5.0,skin,104-76-7,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@88.6%)),CAS_동의어일치
+4151,MIX519,135590-91-9,Mefenpyr-diethyl,0.8,skin,135590-91-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4154,MIX52,135590-91-9,Mefenpyr-diethyl,8.74,skin,135590-91-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4157,MIX52,577-11-7,Docusate sodium,7.0,skin,577-11-7,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@98.2%)),CAS_동의어일치
+4159,MIX52,104-76-7,2-Ethylhexan-1-ol,2.0,skin,104-76-7,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@88.6%)),CAS_동의어일치
+4160,MIX52,91-20-3,Naphthalene,1.0,skin,91-20-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4163,MIX520,7173-51-5,Didecyldimethylammonium chloride (DDAC),2.4,skin,7173-51-5,1,annex_vi,tier1_AnnexVI_H코드(H314),CAS_동의어일치
+4180,MIX525,5234-68-4,carboxin,35.52,skin,5234-68-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4181,MIX525,125225-28-7,ipconazole,2.22,skin,125225-28-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4204,MIX531,57-55-6,"propane-1,2-diol",5.0,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+4206,MIX531,91465-08-6,lambda-cyhalothrin (ISO),4.6296,skin,91465-08-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4236,MIX534,67-64-1,Acetone,40.0,skin,67-64-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4246,MIX538,52315-07-8,Cypermethrin (cis/trans +/- 40/60),24.8,skin,52315-07-8,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+4266,MIX542,7632-00-0,Sodium nitrite,3.0,skin,7632-00-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4268,MIX542,107534-96-3,Tebuconazole,0.5,skin,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4269,MIX542,7758-98-7,Copper sulfate,0.55,skin,7758-98-7,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+4290,MIX549,7722-84-1,Hydrogen peroxide,5.0,skin,7722-84-1,1,annex_vi,tier1_AnnexVI_H코드(H314),CAS_동의어일치
+4292,MIX549,79-21-0,Peracetic acid,0.3,skin,79-21-0,1,annex_vi,tier1_AnnexVI_H코드(H314),CAS_동의어일치
+4296,MIX550,175013-18-0,Pyraclostrobin,28.58,skin,175013-18-0,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+4298,MIX550,907204-31-3,Fluxapyroxad,14.33,skin,907204-31-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4302,MIX550,52-51-7,Bronopol,0.02,skin,52-51-7,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+4314,MIX555,865318-97-4,ametoctradin,26.9,skin,865318-97-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4317,MIX555,2634-33-5,"1,2-benzisothiazol-3(2H)-one",0.01,skin,2634-33-5,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+4318,MIX555,100-41-4,ethylbenzene,0.1,skin,100-41-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4320,MIX555,116412-83-0,"Methanone, (4-chlorophenyl)(3,4-dimethoxyphenyl)-",0.1,skin,116412-83-0,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4323,MIX556,156052-68-5,Zoxamide,100.0,skin,156052-68-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4329,MIX559,62-73-7,Dichlorvos,5.3,skin,62-73-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4343,MIX562,107534-96-3,Tebuconazole,0.461,skin,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4344,MIX562,57837-19-1,Metalaxyl,0.615,skin,57837-19-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4345,MIX562,57-55-6,"1,2-Propanediol",20.0,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+4368,MIX567,374726-62-2,Mandipropamid,21.9,skin,374726-62-2,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4374,MIX568,64902-72-3,chlorsulfuron,15.8,skin,64902-72-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4380,MIX57,175013-18-0,Pyraclostrobin,28.58,skin,175013-18-0,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+4381,MIX57,179293-51-1,Fluxapyroxad,14.33,skin,179293-51-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,이름_동의어일치
+4382,MIX57,52-51-7,Bronopol,0.05,skin,52-51-7,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+4383,MIX57,2634-33-5,"1,2-Benzisothiazol-3(2H)-one",0.01,skin,2634-33-5,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+4385,MIX57,57-55-6,"Propane-1,2-diol (propylene glycol)",10.0,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+4392,MIX572,374726-62-2,Mandipropamid,23.3,skin,374726-62-2,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4408,MIX577,21087-64-9,Metribuzin,13.6,skin,21087-64-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4427,MIX585,107-21-1,Ethylene glycol,8.0,skin,107-21-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4581,MIX62,7647-15-6,Sodium Bromide,14.7,skin,7647-15-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4653,MIX65,52315-07-8,Cypermethrin,40.0,skin,52315-07-8,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+4709,MIX67,168316-95-8,Spinosad (Spinosyn A & D),0.001,skin,168316-95-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4714,MIX672,2634-33-5,"1,2-Benzisothiazol-3(2H)-one (BIT)",0.01,skin,2634-33-5,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+4718,MIX674,1314-13-2,Zinc Oxide,6.0,skin,1314-13-2,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4752,MIX686,97-64-3,Ethyl lactate,3.065,skin,97-64-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4770,MIX693,168316-95-8,Spinosad (Spinosyn A & D),80.0,skin,168316-95-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4773,MIX696,168316-95-8,Spinosad (Spinosyn A & D),22.8,skin,168316-95-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4847,MIX720,107-21-1,Ethylene glycol,8.0,skin,107-21-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4872,MIX760,98886-44-3,Fosthiazate,100.0,skin,98886-44-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4877,MIX77,175013-18-0,Pyraclostrobin,20.0,skin,175013-18-0,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+4885,MIX77,577-11-7,sodium-di-ethyl-hexyl-sulfosuccinate,0.1,skin,577-11-7,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@98.2%)),CAS_동의어일치
+4899,MIX78,104206-82-8,"Mesotrione (2-[4-(methylsulfonyl)-2-nitrobenzoyl]-1,3-cyclohexanedione)",5.36,skin,104206-82-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+4979,MIX809,2825-83-4,"Tricyclo[5.2.1.0(2,6)]decane (parent hydrocarbon — NOT the actual ethyl ester product; provided for reference only, source mismatch)",100.0,skin,2825-83-4,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@100.0%)),CAS_동의어일치
+5033,MIX83,5915-41-3,"Terbuthylazine (N2-tert-butyl-6-chloro-N4-ethyl-1,3,5-triazine-2,4-diamine)",3.0,skin,5915-41-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5039,MIX833,57-55-6,Propylene glycol,7.5,skin,57-55-6,NC,echa_cl,NC_tier2_명시_미분류,CAS_동의어일치
+5065,MIX845,52315-07-8,Zeta-cypermethrin (F2700),0.05,skin,52315-07-8,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+5070,MIX85,52645-53-1,Permethrin,2.0,skin,52645-53-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5073,MIX850,107534-96-3,Tebuconazole,95.37,skin,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5074,MIX851,107534-96-3,Tebuconazole,25.0,skin,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5075,MIX852,107534-96-3,Tebuconazole,25.0,skin,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5078,MIX855,107534-96-3,Tebuconazole,45.0,skin,107534-96-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5079,MIX856,115-95-7,"Linalyl acetate (ex bois de rose, synthetic)",95.0,skin,115-95-7,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@85.5%)),CAS_동의어일치
+5084,MIX86,133-06-2,"Captan (N-[(trichloromethyl)thio]-4-cyclohexene-1,2-dicarboximide)",55.0,skin,133-06-2,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5135,MIX893,140-11-4,Benzyl acetate,20.0,skin,140-11-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5161,MIX910,4180-23-8,trans-Anethole,75.0,skin,4180-23-8,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5171,MIX919,105-87-3,Geranyl acetate,1.0,skin,105-87-3,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@79.8%)),CAS_동의어일치
+5196,MIX94,2634-33-5,"1,2-Benzisothiazolin-3-one",0.2,skin,2634-33-5,2,annex_vi,tier1_AnnexVI_H코드(H315),CAS_동의어일치
+5219,MIX955,93-28-7,Eugenyl acetate,5.0,skin,93-28-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5232,MIX961,1222-05-5,"Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl- (Galaxolide-type musk)",20.0,skin,1222-05-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5235,MIX964,119-84-6,Dihydrocoumarin,7.5,skin,119-84-6,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5239,MIX968,111-80-8,Methyl non-2-ynoate (Methyl 2-nonynoate),0.05,skin,111-80-8,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@74.8%)),CAS_동의어일치
+5241,MIX97,317815-83-1,Thiencarbazone-methyl,8.7,skin,317815-83-1,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5242,MIX97,144550-36-7,Iodosulfuron-methyl-sodium,1.9,skin,144550-36-7,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5243,MIX97,1918-00-9,Dicamba,57.4,skin,1918-00-9,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5249,MIX975,562-74-3,Terpinen-4-ol,25.5,skin,562-74-3,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@98.5%)),CAS_동의어일치
+5252,MIX978,115-95-7,Linalyl acetate (Natural),35.0,skin,115-95-7,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@85.5%)),CAS_동의어일치
+5266,MIX984,77-54-3,Cedryl acetate,100.0,skin,77-54-3,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5267,MIX985,61789-17-1,Guaiac wood acetate,100.0,skin,61789-17-1,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@100.0%)),이름_동의어일치
+5277,MIX990,91-64-5,Coumarin,50.0,skin,91-64-5,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치
+5281,MIX994,115-95-7,Linalyl acetate (Natural),35.0,skin,115-95-7,2,echa_cl,tier2_ECHA_CL_H코드(1:H코드(H315@85.5%)),CAS_동의어일치
+5286,MIX999,120-51-4,Benzyl Benzoate,7.5,skin,120-51-4,NC,echa_cl,NC_tier2_ECHA_CL_무코드,CAS_동의어일치

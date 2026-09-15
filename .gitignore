@@ -24,6 +24,9 @@ formulation_audit_team_share_highlighted_only_20260630/
 # 중간 검증 산출물 11MB
 01_파이프라인/verify/
 
+# PubChem PUG-View 조회 캐시. CAS 목록으로 재현 가능, 소스 자료 아님
+04_모델산출물/v8_성분조사/캐시/
+
 # ===== 도구 상태 =====
 # 세션 체크포인트·에이전트 로그·실행계획은 전부 로컬 작업 상태다. 공유 대상 아님.
 **/.omc/**

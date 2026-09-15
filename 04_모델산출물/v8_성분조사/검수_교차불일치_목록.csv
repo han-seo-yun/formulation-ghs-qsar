@@ -1,0 +1,71 @@
+﻿키,이름,cid,eye_구분,eye_근거,eye_참고출처값,skin_구분,skin_근거,skin_참고출처값,성분행수,출처URL
+107534-96-3,Tebuconazole,86102.0,NC,NC_tier2_ECHA_CL_무코드,2B|NC,NC,NC_tier2_ECHA_CL_무코드,NC|NC,15,https://pubchem.ncbi.nlm.nih.gov/compound/86102
+131341-86-1,Fludioxonil,86398.0,NC,NC_tier2_ECHA_CL_무코드,2B|NC|NC,NC,NC_tier2_ECHA_CL_무코드,NC|NC|NC,9,https://pubchem.ncbi.nlm.nih.gov/compound/86398
+175013-18-0,Pyraclostrobin,6422843.0,NC,NC_tier2_ECHA_CL_무코드,NC,2,tier1_AnnexVI_H코드(H315),3,7,https://pubchem.ncbi.nlm.nih.gov/compound/6422843
+52315-07-8,cypermethrin cis/trans +/- /60,2912.0,NC,NC_tier2_ECHA_CL_무코드,2B|NC,2,tier1_AnnexVI_H코드(H315),NC|NC,6,https://pubchem.ncbi.nlm.nih.gov/compound/2912
+115-95-7,Linalyl Acetate,8294.0,2A,tier2_ECHA_CL_H코드(1:H코드(H319@85.3%)),NC|NC|2A,2,tier2_ECHA_CL_H코드(1:H코드(H315@85.5%)),2|2|2,5,https://pubchem.ncbi.nlm.nih.gov/compound/8294
+107-21-1,Ethylene glycol,174.0,NC,NC_tier2_ECHA_CL_무코드,2B|NC,NC,NC_tier2_ECHA_CL_무코드,2|NC,5,https://pubchem.ncbi.nlm.nih.gov/compound/174
+330-54-1,"Diuron 3-(3,4-dichlorophenyl)-1,1-dimethylurea",3120.0,NC,NC_tier2_ECHA_CL_무코드,2B|NC|NC,NC,NC_tier2_ECHA_CL_무코드,3|NC|NC,5,https://pubchem.ncbi.nlm.nih.gov/compound/3120
+8003-34-7,Pyrethrins 232-319-8,60202781.0,NC,NC_tier2_ECHA_CL_무코드,2B,NC,NC_tier2_ECHA_CL_무코드,3,4,https://pubchem.ncbi.nlm.nih.gov/compound/60202781
+91-20-3,Naphthalene <,931.0,NC,NC_tier2_ECHA_CL_무코드,2B|NC,NC,NC_tier2_ECHA_CL_무코드,3|NC,3,https://pubchem.ncbi.nlm.nih.gov/compound/931
+104-76-7,Ethylhexan-1-ol <,7720.0,2A,tier2_ECHA_CL_H코드(1:H코드(H319@98.7%)),2A|1,2,tier2_ECHA_CL_H코드(1:H코드(H315@88.6%)),2|1,3,https://pubchem.ncbi.nlm.nih.gov/compound/7720
+100-41-4,Ethylbenzene,7500.0,NC,NC_tier2_ECHA_CL_무코드,2B|2A|NC,NC,NC_tier2_ECHA_CL_무코드,3|2|NC,3,https://pubchem.ncbi.nlm.nih.gov/compound/7500
+122548-33-8,Imazosulfuron Technical,92433.0,NC,NC_tier2_ECHA_CL_무코드,1,NC,NC_tier2_ECHA_CL_무코드,1,3,https://pubchem.ncbi.nlm.nih.gov/compound/92433
+97-99-4,Tetrahydrofurfuryl,7360.0,2A,tier1_AnnexVI_H코드(H319),2A|2A,NC,NC_tier2_ECHA_CL_무코드,2|NC,3,https://pubchem.ncbi.nlm.nih.gov/compound/7360
+98-82-8,Cumene,7406.0,NC,NC_tier2_ECHA_CL_무코드,2B|NC,NC,NC_tier2_ECHA_CL_무코드,3|NC,3,https://pubchem.ncbi.nlm.nih.gov/compound/7406
+168316-95-8,Spinosad (Spinosyn A & D),17754356.0,NC,NC_tier2_ECHA_CL_무코드,1,NC,NC_tier2_ECHA_CL_무코드,NC,3,https://pubchem.ncbi.nlm.nih.gov/compound/17754356
+51-03-6,Piperonyl Butoxide 200-076-7,5794.0,2A,tier1_AnnexVI_H코드(H319),NC,NC,NC_tier2_ECHA_CL_무코드,NC,3,https://pubchem.ncbi.nlm.nih.gov/compound/5794
+141517-21-7,Trifloxystrobin,11664966.0,NC,NC_tier2_ECHA_CL_무코드,2A|NC|NC,NC,NC_tier2_ECHA_CL_무코드,NC|NC|NC,2,https://pubchem.ncbi.nlm.nih.gov/compound/11664966
+122-20-3,Triisopropanolamine,24730.0,2A,tier1_AnnexVI_H코드(H319),1|1,NC,NC_tier2_ECHA_CL_무코드,2|2,2,https://pubchem.ncbi.nlm.nih.gov/compound/24730
+119-36-8,1-2 methyl salicylate,4133.0,,tier2 블록간 결론 불일치(1:무코드 | 2:H코드(H319@91.1%)) — 결측,1,NC,NC_tier2_ECHA_CL_무코드,1,2,https://pubchem.ncbi.nlm.nih.gov/compound/4133
+79277-27-3,Thifensulfuron methyl,73674.0,NC,NC_tier2_ECHA_CL_무코드,NC|NC,NC,NC_tier2_ECHA_CL_무코드,3|NC,2,https://pubchem.ncbi.nlm.nih.gov/compound/73674
+90-12-0,methyl-naphthalene >= 1 - <,7002.0,,tier2 블록간 결론 불일치(1:무코드 | 2:H코드(H319@100.0%)) — 결측,2A|2A,NC,NC_tier2_ECHA_CL_무코드,NC|2,2,https://pubchem.ncbi.nlm.nih.gov/compound/7002
+7758-19-2,Sodium chlorite,23668197.0,1,tier2_ECHA_CL_H코드(1:H코드(H314@90.9%)),2A|1,1,tier2_ECHA_CL_H코드(1:H코드(H314@90.9%)),2|1,2,https://pubchem.ncbi.nlm.nih.gov/compound/23668197
+68157-60-8,Forchlorfenuron 1 not set not set,93379.0,NC,NC_tier2_ECHA_CL_무코드,2B|NC,NC,NC_tier2_ECHA_CL_무코드,NC|NC,2,https://pubchem.ncbi.nlm.nih.gov/compound/93379
+1582-09-8,Trifluralin none established,5569.0,NC,NC_tier2_ECHA_CL_무코드,2A|NC,NC,NC_tier2_ECHA_CL_무코드,3|NC,2,https://pubchem.ncbi.nlm.nih.gov/compound/5569
+133-06-2,"Captan: N-[(trichloromethyl)thio]-4-cyclohexene-1, 2-",8606.0,1,tier1_AnnexVI_H코드(H318),1|1|1,NC,NC_tier2_ECHA_CL_무코드,2|NC|NC,2,https://pubchem.ncbi.nlm.nih.gov/compound/8606
+129558-76-5,Tolfenpyrad EC,10110536.0,NC,NC_tier2_ECHA_CL_무코드,2A,NC,NC_tier2_ECHA_CL_무코드,3,2,https://pubchem.ncbi.nlm.nih.gov/compound/10110536
+91-57-6,methyl-naphthalene >= 1 - <,7055.0,NC,NC_tier2_ECHA_CL_무코드,2A|2A,NC,NC_tier2_ECHA_CL_무코드,NC|2,2,https://pubchem.ncbi.nlm.nih.gov/compound/7055
+7758-98-7,Copper sulfate 0.1,24462.0,2A,tier1_AnnexVI_H코드(H319),1|2A,2,tier1_AnnexVI_H코드(H315),1|2,2,https://pubchem.ncbi.nlm.nih.gov/compound/24462
+128-37-0,6-Di-tert-butyl-4-methylphenol >= 0.10 - <=,31404.0,NC,NC_tier2_ECHA_CL_무코드,2B|NC,NC,NC_tier2_ECHA_CL_무코드,3|NC,2,https://pubchem.ncbi.nlm.nih.gov/compound/31404
+108-88-3,Toluene,1140.0,NC,NC_tier2_ECHA_CL_무코드,2B|NC|NC,2,tier1_AnnexVI_H코드(H315),2|2|2,2,https://pubchem.ncbi.nlm.nih.gov/compound/1140
+156052-68-5,Zoxamide,122087.0,NC,NC_tier2_ECHA_CL_무코드,NC|2A,NC,NC_tier2_ECHA_CL_무코드,NC|NC,2,https://pubchem.ncbi.nlm.nih.gov/compound/122087
+106-23-0,Citronellal,7794.0,2A,tier2_ECHA_CL_H코드(1:H코드(H319@99.4%)),NC|2A,2,tier2_ECHA_CL_H코드(1:H코드(H315@99.9%)),NC|2,2,https://pubchem.ncbi.nlm.nih.gov/compound/7794
+34590-94-8,Dipropylene Glycol Monomethyl Ether (DPM) ≥75-≤90,25484.0,NC,NC_tier2_명시_미분류,2B,NC,NC_tier2_명시_미분류,NC,2,https://pubchem.ncbi.nlm.nih.gov/compound/25484
+Coumaphos,Coumaphos,2871.0,NC,NC_tier2_ECHA_CL_무코드,2B|NC|NC,NC,NC_tier2_ECHA_CL_무코드,NC|NC|NC,2,https://pubchem.ncbi.nlm.nih.gov/compound/2871
+107-98-2,Methoxy-2-propanol,7900.0,NC,NC_tier2_ECHA_CL_무코드,2A|NC|NC,NC,NC_tier2_ECHA_CL_무코드,3|NC|NC,2,https://pubchem.ncbi.nlm.nih.gov/compound/7900
+98-86-2,Acetophenone,7410.0,2A,tier1_AnnexVI_H코드(H319),2A|2A|1,NC,NC_tier2_ECHA_CL_무코드,2|NC|NC,2,https://pubchem.ncbi.nlm.nih.gov/compound/7410
+ethylbenzene,ethylbenzene,7500.0,NC,NC_tier2_ECHA_CL_무코드,2B|2A|NC,NC,NC_tier2_ECHA_CL_무코드,3|2|NC,2,https://pubchem.ncbi.nlm.nih.gov/compound/7500
+52-68-6,Trichlorfon,5853.0,NC,NC_tier2_ECHA_CL_무코드,2A|NC|NC,NC,NC_tier2_ECHA_CL_무코드,NC|NC|NC,2,https://pubchem.ncbi.nlm.nih.gov/compound/5853
+52-51-7,Bronopol,2450.0,1,tier1_AnnexVI_H코드(H318),1|1,2,tier1_AnnexVI_H코드(H315),1|2,2,https://pubchem.ncbi.nlm.nih.gov/compound/2450
+25265-71-8,Dipropylene glycol,134692469.0,NC,NC_tier2_명시_미분류,1,NC,NC_tier2_명시_미분류,1,2,https://pubchem.ncbi.nlm.nih.gov/compound/134692469
+111-80-8,Methyl non-2-ynoate (Methyl 2-nonynoate),8137.0,NC,NC_tier2_ECHA_CL_무코드,NC,2,tier2_ECHA_CL_H코드(1:H코드(H315@74.8%)),NC,1,https://pubchem.ncbi.nlm.nih.gov/compound/8137
+Diuron,Diuron,3120.0,NC,NC_tier2_ECHA_CL_무코드,2B|NC|NC,NC,NC_tier2_ECHA_CL_무코드,3|NC|NC,1,https://pubchem.ncbi.nlm.nih.gov/compound/3120
+Cumene,Cumene,7406.0,NC,NC_tier2_ECHA_CL_무코드,2B|NC,NC,NC_tier2_ECHA_CL_무코드,3|NC,1,https://pubchem.ncbi.nlm.nih.gov/compound/7406
+Cobaltous neodecanoate,Cobaltous neodecanoate,24899422.0,NC,NC_tier2_ECHA_CL_무코드,NC,2,tier2_ECHA_CL_H코드(1:H코드(H315@50.2%)),NC,1,https://pubchem.ncbi.nlm.nih.gov/compound/24899422
+36734-19-7,Iprodione,37517.0,NC,NC_tier2_ECHA_CL_무코드,2B|NC,NC,NC_tier2_ECHA_CL_무코드,NC|NC,1,https://pubchem.ncbi.nlm.nih.gov/compound/37517
+3391-86-4,1-Octen-3-Ol,18827.0,2A,tier2_ECHA_CL_H코드(1:H코드(H319@99.8%)),NC,2,tier2_ECHA_CL_H코드(1:H코드(H315@99.9%)),NC,1,https://pubchem.ncbi.nlm.nih.gov/compound/18827
+56-72-4,phosphorothioate,2871.0,NC,NC_tier2_ECHA_CL_무코드,2B|NC|NC,NC,NC_tier2_ECHA_CL_무코드,NC|NC|NC,1,https://pubchem.ncbi.nlm.nih.gov/compound/2871
+106-26-3,Neral,643779.0,2A,tier2_ECHA_CL_H코드(1:H코드(H319@62.6%)),NC,2,tier2_ECHA_CL_H코드(1:H코드(H315@100.0%)),2,1,https://pubchem.ncbi.nlm.nih.gov/compound/643779
+1-Methoxy-2-propanol,1-Methoxy-2-propanol,7900.0,NC,NC_tier2_ECHA_CL_무코드,2A|NC|NC,NC,NC_tier2_ECHA_CL_무코드,3|NC|NC,1,https://pubchem.ncbi.nlm.nih.gov/compound/7900
+140-11-4,Benzyl acetate,8785.0,NC,NC_tier2_ECHA_CL_무코드,2A,NC,NC_tier2_ECHA_CL_무코드,2,1,https://pubchem.ncbi.nlm.nih.gov/compound/8785
+62-73-7,Dichlorvos,3039.0,NC,NC_tier2_ECHA_CL_무코드,2B|NC|NC,NC,NC_tier2_ECHA_CL_무코드,2|NC|NC,1,https://pubchem.ncbi.nlm.nih.gov/compound/3039
+Ethyl acetate > 10.0,Ethyl acetate > 10.0,8857.0,2A,tier1_AnnexVI_H코드(H319),2B|2A|2A,NC,NC_tier2_ECHA_CL_무코드,NC|NC|NC,1,https://pubchem.ncbi.nlm.nih.gov/compound/8857
+67-64-1,Acetone,180.0,2A,tier1_AnnexVI_H코드(H319),2B|2A|2A,NC,NC_tier2_ECHA_CL_무코드,NC|NC|NC,1,https://pubchem.ncbi.nlm.nih.gov/compound/180
+Elemental Sulfur,Elemental Sulfur,5362487.0,NC,NC_tier2_명시_미분류,NC|NC,2,tier1_AnnexVI_H코드(H315),NC|2,1,https://pubchem.ncbi.nlm.nih.gov/compound/5362487
+Bronopol,Bronopol,2450.0,1,tier1_AnnexVI_H코드(H318),1|1,2,tier1_AnnexVI_H코드(H315),1|2,1,https://pubchem.ncbi.nlm.nih.gov/compound/2450
+Ethylbenzene,Ethylbenzene,7500.0,NC,NC_tier2_ECHA_CL_무코드,2B|2A|NC,NC,NC_tier2_ECHA_CL_무코드,3|2|NC,1,https://pubchem.ncbi.nlm.nih.gov/compound/7500
+Citral,Citral,638011.0,2A,tier2_ECHA_CL_H코드(1:미달(H319@17.4%) | 2:H코드(H319@84.5%)),NC|NC,2,tier1_AnnexVI_H코드(H315),2|2,1,https://pubchem.ncbi.nlm.nih.gov/compound/638011
+94-75-7,"2,4-Dichlorophenoxyacetic acid",1486.0,1,tier1_AnnexVI_H코드(H318),2A|1|1,NC,NC_tier2_ECHA_CL_무코드,3|NC|NC,1,https://pubchem.ncbi.nlm.nih.gov/compound/1486
+97-64-3,Ethyl lactate,7344.0,1,tier1_AnnexVI_H코드(H318),2A|1|1,NC,NC_tier2_ECHA_CL_무코드,NC|NC|NC,1,https://pubchem.ncbi.nlm.nih.gov/compound/7344
+98886-44-3,Fosthiazate,91758.0,NC,NC_tier2_ECHA_CL_무코드,2B|NC,NC,NC_tier2_ECHA_CL_무코드,NC|NC,1,https://pubchem.ncbi.nlm.nih.gov/compound/91758
+"Carbamic acid, butyl-, 3-iodo-2-propynyl ester","Carbamic acid, butyl-, 3-iodo-2-propynyl ester",62097.0,1,tier1_AnnexVI_H코드(H318),NC|1,,tier2 확정 블록 없음(1:미달(H315@13.3%)) — 결측,NC|2,1,https://pubchem.ncbi.nlm.nih.gov/compound/62097
+Carbendazim,Carbendazim,25429.0,NC,NC_tier2_ECHA_CL_무코드,2A|NC|NC,NC,NC_tier2_ECHA_CL_무코드,NC|NC|NC,1,https://pubchem.ncbi.nlm.nih.gov/compound/25429
+Citronellal,Citronellal,7794.0,2A,tier2_ECHA_CL_H코드(1:H코드(H319@99.4%)),NC|2A,2,tier2_ECHA_CL_H코드(1:H코드(H315@99.9%)),NC|2,1,https://pubchem.ncbi.nlm.nih.gov/compound/7794
+93-15-2,Methyleugenol,7127.0,NC,NC_tier2_ECHA_CL_무코드,2B|NC,NC,NC_tier2_ECHA_CL_무코드,3|NC,1,https://pubchem.ncbi.nlm.nih.gov/compound/7127
+n-Butyl Acetate,n-Butyl Acetate,31272.0,NC,NC_tier2_ECHA_CL_무코드,2B|NC|NC,NC,NC_tier2_ECHA_CL_무코드,3|NC|NC,1,https://pubchem.ncbi.nlm.nih.gov/compound/31272
+Pyraclostrobin,Pyraclostrobin,6422843.0,NC,NC_tier2_ECHA_CL_무코드,NC,2,tier1_AnnexVI_H코드(H315),3,1,https://pubchem.ncbi.nlm.nih.gov/compound/6422843
+Methyl ethyl ketone > 35.0,Methyl ethyl ketone > 35.0,6569.0,2A,tier1_AnnexVI_H코드(H319),2A|2A|2A,NC,NC_tier2_ECHA_CL_무코드,2|NC|NC,1,https://pubchem.ncbi.nlm.nih.gov/compound/6569
+872-05-9,Other ingredients (undisclosed),13381.0,NC,NC_tier2_ECHA_CL_무코드,NC,NC,NC_tier2_ECHA_CL_무코드,2,1,https://pubchem.ncbi.nlm.nih.gov/compound/13381
+86753-92-6,Cypermethrin,2912.0,NC,NC_tier2_ECHA_CL_무코드,2B|NC,2,tier1_AnnexVI_H코드(H315),NC|NC,1,https://pubchem.ncbi.nlm.nih.gov/compound/2912
+68359-37-5,Cyfluthrin Not Established,104926.0,NC,NC_tier2_ECHA_CL_무코드,2A|NC,NC,NC_tier2_ECHA_CL_무코드,NC|NC,1,https://pubchem.ncbi.nlm.nih.gov/compound/104926

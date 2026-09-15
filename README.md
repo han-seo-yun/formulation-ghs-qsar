@@ -38,6 +38,55 @@ kept in the same metrics file as supplementary rows with `대표` (headline) = 0
 basis needs no re-run. The statutory basis of each jurisdiction and the full category → label
 projection tables are written to `규제처리_명시.md` in each output directory.
 
+## v8 — L2 lane model (ingredient MSDS × concentration + mixture composition)
+
+Three team members split the same 1,675 formulations by **input-document layer**: L1 = as-supplied
+SDS declaration, **L2 = per-ingredient MSDS hazard × concentration + mixture composition**, L3 =
+ingredient SMILES structure. This is the L2 model. Research question: **how far can the finished-
+product GHS classification be reconstructed from ingredient information and the GHS mixture
+additivity rule alone** — eye and skin, formulation-level, no structure input.
+
+Basis is `EU_CLP`, not `K_REACH` (v7's basis) — see the `EU_CLP` bullet under Data rules.
+
+| Step | Script | Output |
+|---|---|---|
+| 1. Shared folds | `build_common_folds.py` | `04_모델산출물/v8_공통/` |
+| 2. Feature-lane attribution audit | `audit_feature_lane.py` | `04_모델산출물/v8_공통/` |
+| 3. Ingredient GHS survey (CLP Annex VI / ECHA C&L via PubChem) | `collect_ing_ghs.py` | `04_모델산출물/v8_성분조사/` |
+| 4. Survey QA | `audit_ing_ghs_survey.py`, `audit_ing_msds_values.py` | `04_모델산출물/v8_성분조사/검수_*` |
+| 5. Apply survey as an overlay (originals untouched) | `apply_ing_ghs_survey.py` | `04_모델산출물/v8_성분조사/ING_조사반영_오버레이.csv` |
+| 6. Train + measure | `run_model_lane2.py` | `04_모델산출물/v8_노선2/` |
+| 7. Leakage audit (label-source-tier stratification, rule-only CT baseline) | `audit_leakage_lane2.py` | `04_모델산출물/v8_누출감사/` |
+| 8. Ablations (survey gain, A0 fill, sensitization drop) | `measure_ing_survey_gain.py`, `measure_a0_fill.py`, `measure_sens_drop_lane2.py` | `04_모델산출물/v8_노선2/` |
+| 9. Status report | `build_status_report_figs.py`, `build_status_report_docx.py` | `04_모델산출물/v8_리포트/` |
+
+**Headline cell (L2-only feature set, 42 columns).**
+
+| | eye | skin |
+|---|---|---|
+| pooled ROC-AUC | 0.7265 | 0.7015 |
+| leakage-corrected ROC-AUC (gate metric) | 0.6580 | 0.6470 |
+| MCC | 0.342 | 0.280 |
+| Gate (≥ 0.70, judged on the corrected AUC) | not met | not met |
+
+The gap between pooled and corrected AUC is the label-source leak — roughly 27–30% of the excess
+is rows where the label and the features come from the same document section, not genuine
+composition signal. Full protocol (per-fold τ, pooled+corrected AUC dual reporting, gate on
+corrected AUC only) is in `05_제안/노선분리_비교규약.md`; per-jurisdiction category tables are in
+`04_모델산출물/v8_노선2/규제처리_명시.md`.
+
+**The rule-only baseline is a coverage function, not a single number.** Binned by ingredient
+coverage (share of a formulation's ingredients with a known GHS category), the additive rule alone
+reaches MCC 0.42–0.52 (eye) / 0.32–0.46 (skin) on the best-covered quartile, vs. near-chance on the
+worst-covered quartile. The bottleneck for this lane is **ingredient concentration**, not category
+— 40.1% of ingredient rows have no concentration at all, which caps the additive formula regardless
+of how many categories get filled in. Detail and figures: `04_모델산출물/v8_리포트/`.
+
+`run_model_lane2.py` is version-pinned once run for the headline numbers, for the same reason as
+the scripts in Data rules below — ablations clone its protocol into separate scripts
+(`lib_ct_nckeep.py` holds the one shared piece both ablation scripts need) rather than editing it
+in place.
+
 ## Missing-data handling
 
 `nan0` (fill missing with 0) was the default through v6 and is now kept **only as a reproduction
@@ -80,11 +129,16 @@ of the eye and skin models, because they are mixture-additivity descriptors, not
 | `04_모델산출물/v6_통합/` | Consolidated outputs from the four team members (`팀원통합_260908.xlsx`) |
 | `04_모델산출물/v6_수동검토/` | Manual-review decision ledger (`A~D_*.csv`) — the record of which ambiguous cases were escalated and how they were resolved |
 | `05_원본보관_260908/` | The four as-submitted originals. **L0 immutable — never edited** |
-| `05_제안/` | Proposals for model performance improvement |
+| `05_제안/` | Proposals for model performance improvement. `노선분리_비교규약.md` is the v8 3-lane comparison protocol; `배포_노선분리/` is the team distribution bundle (shared folds + protocol doc) |
+| `04_모델산출물/v8_공통/` | Folds and feature-lane arms shared by all three lane models |
+| `04_모델산출물/v8_성분조사/` | Ingredient GHS survey results and QA (`검수_*`). The PubChem lookup cache (`캐시/`) is excluded from git — reproducible from the CAS list |
+| `04_모델산출물/v8_노선2/` | L2 model metrics and ablations (survey-gain, A0-fill, sensitization-drop) |
+| `04_모델산출물/v8_누출감사/` | Label-source-tier leakage audit for the L2 model |
+| `04_모델산출물/v8_리포트/` | L2 status report source (`*.md`) and figures. The rendered `.docx` is excluded from git; regenerate with `build_status_report_docx.py` |
 
 Excluded via `.gitignore`: the v2–v5 generation datasets, the highlighted SDS audit PDF dump
-(146 MB), Word report documents (`*.docx`), team work-assignment/meeting-report administrative
-files, and the collection harness (separate repository,
+(146 MB), Word report documents (`*.docx`), the PubChem lookup cache, team work-assignment/
+meeting-report administrative files, and the collection harness (separate repository,
 [`formulation_harness`](https://github.com/han-seo-yun/formulation_harness)).
 
 ## Build
@@ -123,6 +177,13 @@ These rules are enforced by asserts inside the pipeline. Do not work around them
 - **The headline basis is the single jurisdiction `K_REACH`** (`lib_model.CANON_JUR`). Other
   jurisdictions are not deleted; they are measured alongside as supplementary rows. Changing the
   basis means changing only this constant.
+  **v8 (lane-separation study) uses `EU_CLP` instead, and only in v8.** The reason is rule-output
+  vocabulary, not performance: the UN GHS 3.3 mixture additivity formula can only emit `{1, 2A, NC}`
+  for eye, so Category 2B is structurally unreachable — yet 327 of the 1,044 eye rows (31.3%) carry
+  it. Under a basis that treats 2B as a classification, those 327 rows are positives the rule cannot
+  predict even in principle, which invalidates the v8 research question rather than merely costing
+  accuracy. v7 outputs stay frozen on `K_REACH`; v8 reports both. See
+  `05_제안/노선분리_비교규약.md` §2.1.
 - **Only as-supplied pH is accepted.** The GHS non-additivity exceptions for strong acids
   (pH ≤ 2) and strong bases (pH ≥ 11.5) are decided solely from pH measured on the product as-is.
   The pH of a diluted aqueous solution varies logarithmically with concentration and cannot

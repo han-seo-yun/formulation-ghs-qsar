@@ -1,0 +1,524 @@
+﻿열,노선,학습대상,판정근거,feature_role,sds_coderived
+n_ingredients,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+n_pct_known,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+pct_sum_known,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+n_smiles,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+n_structural_na,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+n_smiles_ice,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+align_ok,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+n_ing_align_bad,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+has_epa_target,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+n_ing_active,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+n_ing_total_known,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+n_ing_missing,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+active_pct_sum,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+has_toxicity,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+n_tox_endpoints,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+tox_n_composition_rows,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+has_ntp_label,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+n_ntp_endpoints,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+n_y_conflict,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+sds_epa_eye_ambiguous,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+sds_epa_skin_ambiguous,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+ice_n_ingredients,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+ice_n_smiles,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+ice_active_pct_sum,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+has_ghs_label,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+is_mixture,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+has_y,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+trainable,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+trainable_ntp,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+trainable_ghs,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+trainable_epa,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+trainable_epa_any,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+review_matched,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+pc2_n_params,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+pc2_n_items,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+pc2_parse_ok,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+pc2_ph_lo,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_ph_hi,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+ph_basis_pct,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+pc2_vp,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_ph,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_mp,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_evap,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_autoignition,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_vapdens,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_density,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_solubility,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_viscosity,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_fp,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_logkow,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_decomp,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_bp,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+t11_present,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+t11_gated,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+t11_ld50_oral,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_oral_log,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_oral_censored,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_oral_n,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_oral_multi,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_oral_unparsed,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_acute_oral_ord,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_dermal,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_dermal_log,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_dermal_censored,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_dermal_n,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_dermal_multi,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_dermal_unparsed,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_acute_dermal_ord,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_lc50_inhal,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_lc50_inhal_log,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_lc50_inhal_censored,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_lc50_inhal_n,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_lc50_inhal_multi,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_lc50_inhal_unparsed,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_acute_inhal_ord,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_carc_ord,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_muta_ord,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_repr_ord,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_stot_se_ord,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_stot_re_ord,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_aspir_ord,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+f_n_ing,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_n_pct_known,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+f_pct_sum_known,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_coverage,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_n_smiles,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+f_smiles_coverage,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_with_structure,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_shannon,L2,True,조성표 유래 — 역할별 농도합·최대농도·조성 다양성(f_shannon·f_simpson),chemistry,False
+f_simpson,L2,True,조성표 유래 — 역할별 농도합·최대농도·조성 다양성(f_shannon·f_simpson),chemistry,False
+f_max_pct,L2,True,조성표 유래 — 역할별 농도합·최대농도·조성 다양성(f_shannon·f_simpson),chemistry,False
+f_MolWt_mean,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_MolWt_max,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_MolWt_min,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_MolWt_range,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_MolWt_std,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_MolWt_wmean,L2L3결합,True,디스크립터(L3)를 성분 농도(L2)로 가중평균한 값. 두 정보원이 다 필요,chemistry,False
+f_MolLogP_mean,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_MolLogP_max,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_MolLogP_min,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_MolLogP_range,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_MolLogP_std,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_MolLogP_wmean,L2L3결합,True,디스크립터(L3)를 성분 농도(L2)로 가중평균한 값. 두 정보원이 다 필요,chemistry,False
+f_TPSA_mean,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_TPSA_max,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_TPSA_min,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_TPSA_range,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_TPSA_std,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_TPSA_wmean,L2L3결합,True,디스크립터(L3)를 성분 농도(L2)로 가중평균한 값. 두 정보원이 다 필요,chemistry,False
+f_NumHDonors_mean,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumHDonors_max,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumHDonors_min,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumHDonors_range,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumHDonors_std,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumHDonors_wmean,L2L3결합,True,디스크립터(L3)를 성분 농도(L2)로 가중평균한 값. 두 정보원이 다 필요,chemistry,False
+f_NumHAcceptors_mean,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumHAcceptors_max,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumHAcceptors_min,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumHAcceptors_range,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumHAcceptors_std,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumHAcceptors_wmean,L2L3결합,True,디스크립터(L3)를 성분 농도(L2)로 가중평균한 값. 두 정보원이 다 필요,chemistry,False
+f_NumRotatableBonds_mean,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumRotatableBonds_max,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumRotatableBonds_min,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumRotatableBonds_range,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumRotatableBonds_std,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumRotatableBonds_wmean,L2L3결합,True,디스크립터(L3)를 성분 농도(L2)로 가중평균한 값. 두 정보원이 다 필요,chemistry,False
+f_NumAromaticRings_mean,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumAromaticRings_max,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumAromaticRings_min,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumAromaticRings_range,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumAromaticRings_std,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumAromaticRings_wmean,L2L3결합,True,디스크립터(L3)를 성분 농도(L2)로 가중평균한 값. 두 정보원이 다 필요,chemistry,False
+f_FractionCSP3_mean,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_FractionCSP3_max,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_FractionCSP3_min,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_FractionCSP3_range,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_FractionCSP3_std,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_FractionCSP3_wmean,L2L3결합,True,디스크립터(L3)를 성분 농도(L2)로 가중평균한 값. 두 정보원이 다 필요,chemistry,False
+f_MolMR_mean,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_MolMR_max,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_MolMR_min,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_MolMR_range,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_MolMR_std,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_MolMR_wmean,L2L3결합,True,디스크립터(L3)를 성분 농도(L2)로 가중평균한 값. 두 정보원이 다 필요,chemistry,False
+f_LabuteASA_mean,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_LabuteASA_max,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_LabuteASA_min,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_LabuteASA_range,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_LabuteASA_std,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_LabuteASA_wmean,L2L3결합,True,디스크립터(L3)를 성분 농도(L2)로 가중평균한 값. 두 정보원이 다 필요,chemistry,False
+f_BertzCT_mean,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_BertzCT_max,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_BertzCT_min,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_BertzCT_range,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_BertzCT_std,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_BertzCT_wmean,L2L3결합,True,디스크립터(L3)를 성분 농도(L2)로 가중평균한 값. 두 정보원이 다 필요,chemistry,False
+f_Kappa2_mean,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_Kappa2_max,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_Kappa2_min,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_Kappa2_range,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_Kappa2_std,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_Kappa2_wmean,L2L3결합,True,디스크립터(L3)를 성분 농도(L2)로 가중평균한 값. 두 정보원이 다 필요,chemistry,False
+f_HallKierAlpha_mean,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_HallKierAlpha_max,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_HallKierAlpha_min,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_HallKierAlpha_range,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_HallKierAlpha_std,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_HallKierAlpha_wmean,L2L3결합,True,디스크립터(L3)를 성분 농도(L2)로 가중평균한 값. 두 정보원이 다 필요,chemistry,False
+f_MaxAbsPartialCharge_mean,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_MaxAbsPartialCharge_max,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_MaxAbsPartialCharge_min,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_MaxAbsPartialCharge_range,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_MaxAbsPartialCharge_std,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_MaxAbsPartialCharge_wmean,L2L3결합,True,디스크립터(L3)를 성분 농도(L2)로 가중평균한 값. 두 정보원이 다 필요,chemistry,False
+f_logKp_pottsguy_mean,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_logKp_pottsguy_max,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_logKp_pottsguy_min,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_logKp_pottsguy_range,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_logKp_pottsguy_std,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_logKp_pottsguy_wmean,L2L3결합,True,디스크립터(L3)를 성분 농도(L2)로 가중평균한 값. 두 정보원이 다 필요,chemistry,False
+f_max_alkyl_chain_mean,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_max_alkyl_chain_max,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_max_alkyl_chain_min,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_max_alkyl_chain_range,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_max_alkyl_chain_std,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_max_alkyl_chain_wmean,L2L3결합,True,디스크립터(L3)를 성분 농도(L2)로 가중평균한 값. 두 정보원이 다 필요,chemistry,False
+f_n_structural_alerts_mean,L3,True,구조경보(SMILES 유래) 집계. 이름의 f_n_ 접두는 개수 집계를 뜻할 뿐이다,chemistry,False
+f_n_structural_alerts_max,L3,True,구조경보(SMILES 유래) 집계. 이름의 f_n_ 접두는 개수 집계를 뜻할 뿐이다,chemistry,False
+f_n_structural_alerts_min,L3,True,구조경보(SMILES 유래) 집계. 이름의 f_n_ 접두는 개수 집계를 뜻할 뿐이다,chemistry,False
+f_n_structural_alerts_range,L3,True,구조경보(SMILES 유래) 집계. 이름의 f_n_ 접두는 개수 집계를 뜻할 뿐이다,chemistry,False
+f_n_structural_alerts_std,L3,True,구조경보(SMILES 유래) 집계. 이름의 f_n_ 접두는 개수 집계를 뜻할 뿐이다,chemistry,False
+f_n_structural_alerts_wmean,L2L3결합,True,디스크립터(L3)를 성분 농도(L2)로 가중평균한 값. 두 정보원이 다 필요,chemistry,False
+f_NumHeteroatoms_mean,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumHeteroatoms_max,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumHeteroatoms_min,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumHeteroatoms_range,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumHeteroatoms_std,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_NumHeteroatoms_wmean,L2L3결합,True,디스크립터(L3)를 성분 농도(L2)로 가중평균한 값. 두 정보원이 다 필요,chemistry,False
+f_RingCount_mean,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_RingCount_max,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_RingCount_min,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_RingCount_range,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_RingCount_std,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_RingCount_wmean,L2L3결합,True,디스크립터(L3)를 성분 농도(L2)로 가중평균한 값. 두 정보원이 다 필요,chemistry,False
+f_pct_active_presumed,L2,True,조성표 유래 — 역할별 농도합·최대농도·조성 다양성(f_shannon·f_simpson),chemistry,False
+f_n_active_presumed,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_water,L2,True,조성표 유래 — 역할별 농도합·최대농도·조성 다양성(f_shannon·f_simpson),chemistry,False
+f_n_water,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_surfactant,L2,True,조성표 유래 — 역할별 농도합·최대농도·조성 다양성(f_shannon·f_simpson),chemistry,False
+f_n_surfactant,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_solvent,L2,True,조성표 유래 — 역할별 농도합·최대농도·조성 다양성(f_shannon·f_simpson),chemistry,False
+f_n_solvent,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_synergist,L2,True,조성표 유래 — 역할별 농도합·최대농도·조성 다양성(f_shannon·f_simpson),chemistry,False
+f_n_synergist,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_carrier_inert,L2,True,조성표 유래 — 역할별 농도합·최대농도·조성 다양성(f_shannon·f_simpson),chemistry,False
+f_n_carrier_inert,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_propellant,L2,True,조성표 유래 — 역할별 농도합·최대농도·조성 다양성(f_shannon·f_simpson),chemistry,False
+f_n_propellant,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_ph_adjuster,L2,True,조성표 유래 — 역할별 농도합·최대농도·조성 다양성(f_shannon·f_simpson),chemistry,False
+f_n_ph_adjuster,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_preservative,L2,True,조성표 유래 — 역할별 농도합·최대농도·조성 다양성(f_shannon·f_simpson),chemistry,False
+f_n_preservative,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_n_thickener,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_fragrance_dye,L2,True,조성표 유래 — 역할별 농도합·최대농도·조성 다양성(f_shannon·f_simpson),chemistry,False
+f_n_fragrance_dye,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_unknown,L2,True,조성표 유래 — 역할별 농도합·최대농도·조성 다양성(f_shannon·f_simpson),chemistry,False
+f_n_unknown,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_surf_anionic,L2L3결합,True,"전하 클래스는 RDKit SMARTS 매칭(구조), 농도합은 조성표. 두 정보원이 다 필요 — 성분 5287행 중 99.1%가 surf_class_src=='structure'",chemistry,False
+f_n_surf_anionic,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_surf_cationic,L2L3결합,True,"전하 클래스는 RDKit SMARTS 매칭(구조), 농도합은 조성표. 두 정보원이 다 필요 — 성분 5287행 중 99.1%가 surf_class_src=='structure'",chemistry,False
+f_n_surf_cationic,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_surf_nonionic,L2L3결합,True,"전하 클래스는 RDKit SMARTS 매칭(구조), 농도합은 조성표. 두 정보원이 다 필요 — 성분 5287행 중 99.1%가 surf_class_src=='structure'",chemistry,False
+f_n_surf_nonionic,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_surf_total,L2L3결합,True,"전하 클래스는 RDKit SMARTS 매칭(구조), 농도합은 조성표. 두 정보원이 다 필요 — 성분 5287행 중 99.1%가 surf_class_src=='structure'",chemistry,False
+f_surf_anionic_nonionic,L2L3결합,True,"전하 클래스는 RDKit SMARTS 매칭(구조), 농도합은 조성표. 두 정보원이 다 필요 — 성분 5287행 중 99.1%가 surf_class_src=='structure'",chemistry,False
+f_surf_charge_imbalance,L2L3결합,True,"전하 클래스는 RDKit SMARTS 매칭(구조), 농도합은 조성표. 두 정보원이 다 필요 — 성분 5287행 중 99.1%가 surf_class_src=='structure'",chemistry,False
+f_pct_active,L2,True,조성표 유래 — 역할별 농도합·최대농도·조성 다양성(f_shannon·f_simpson),chemistry,False
+f_solvent_x_logp,L2L3결합,True,농도(L2) × 구조유래량(logP/logKp) 상호작용항. 두 정보원이 다 필요,chemistry,False
+f_surf_x_logp,L2L3결합,True,농도(L2) × 구조유래량(logP/logKp) 상호작용항. 두 정보원이 다 필요,chemistry,False
+f_surf_x_logkp,L2L3결합,True,농도(L2) × 구조유래량(logP/logKp) 상호작용항. 두 정보원이 다 필요,chemistry,False
+f_has_synergist,L2,True,조성표의 역할 배정 유래 — 해당 역할 성분의 개수/존재 여부,chemistry,False
+f_tanimoto_mean,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_tanimoto_max,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_tanimoto_min,L3,True,RDKit 디스크립터 6모멘트 집계 · 이온성 · logKp · 지문 유사도,chemistry,False
+f_ct_eye_s1,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+f_ct_eye_s2,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+f_ct_eye_add,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+f_ct_eye_n_known,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_ct_eye_coverage,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_ct_skin_s1,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+f_ct_skin_s2,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+f_ct_skin_add,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+f_ct_skin_n_known,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_ct_skin_coverage,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_ct_sens_s1,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+f_ct_sens_add,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+f_ct_sens_n_known,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_ct_sens_coverage,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+pct_sum_known_raw,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+n_pct_known_raw,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+pct_repaired,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+ph_best,미판정,True,원액 pH — 규약 §5-2 총책임자 결정 대기(L1 배제 vs L2 예외 허용),chemistry,False
+ct_not_applicable,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+ct_eye_ord,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+ct_skin_ord,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+ct_sens_ord,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+f_ct_eye_ord,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+f_ct_skin_ord,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+f_ct_sens_ord,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+pct_sum_known_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+active_pct_sum_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+tox_n_composition_rows_isna,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+ice_active_pct_sum_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+pc2_ph_lo_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+pc2_ph_hi_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+ph_basis_pct_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+pc2_vp_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+pc2_ph_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+pc2_mp_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+pc2_autoignition_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+pc2_density_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+pc2_solubility_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+pc2_viscosity_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+pc2_fp_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+pc2_logkow_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+pc2_decomp_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+pc2_bp_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+t11_ld50_oral_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_oral_log_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_oral_censored_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_oral_n_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_oral_multi_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_oral_unparsed_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_acute_oral_ord_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_dermal_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_dermal_log_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_dermal_censored_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_dermal_n_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_dermal_multi_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_ld50_dermal_unparsed_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_acute_dermal_ord_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_lc50_inhal_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_lc50_inhal_log_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_lc50_inhal_censored_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_lc50_inhal_n_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_lc50_inhal_multi_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_lc50_inhal_unparsed_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_acute_inhal_ord_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_carc_ord_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_muta_ord_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_repr_ord_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_stot_se_ord_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_stot_re_ord_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+t11_aspir_ord_isna,금지_라벨공파생,False,라벨과 같은 문서에서 판독 — 피처로 쓰면 답이 샌다,label_coderived,True
+f_pct_sum_known_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_with_structure_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_shannon_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_simpson_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_max_pct_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MolWt_mean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MolWt_max_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MolWt_min_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MolWt_range_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MolWt_std_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MolWt_wmean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MolLogP_mean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MolLogP_max_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MolLogP_min_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MolLogP_range_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MolLogP_std_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MolLogP_wmean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_TPSA_mean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_TPSA_max_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_TPSA_min_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_TPSA_range_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_TPSA_std_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_TPSA_wmean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumHDonors_mean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumHDonors_max_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumHDonors_min_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumHDonors_range_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumHDonors_std_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumHDonors_wmean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumHAcceptors_mean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumHAcceptors_max_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumHAcceptors_min_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumHAcceptors_range_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumHAcceptors_std_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumHAcceptors_wmean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumRotatableBonds_mean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumRotatableBonds_max_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumRotatableBonds_min_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumRotatableBonds_range_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumRotatableBonds_std_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumRotatableBonds_wmean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumAromaticRings_mean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumAromaticRings_max_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumAromaticRings_min_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumAromaticRings_range_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumAromaticRings_std_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumAromaticRings_wmean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_FractionCSP3_mean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_FractionCSP3_max_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_FractionCSP3_min_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_FractionCSP3_range_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_FractionCSP3_std_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_FractionCSP3_wmean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MolMR_mean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MolMR_max_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MolMR_min_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MolMR_range_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MolMR_std_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MolMR_wmean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_LabuteASA_mean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_LabuteASA_max_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_LabuteASA_min_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_LabuteASA_range_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_LabuteASA_std_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_LabuteASA_wmean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_BertzCT_mean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_BertzCT_max_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_BertzCT_min_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_BertzCT_range_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_BertzCT_std_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_BertzCT_wmean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_Kappa2_mean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_Kappa2_max_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_Kappa2_min_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_Kappa2_range_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_Kappa2_std_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_Kappa2_wmean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_HallKierAlpha_mean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_HallKierAlpha_max_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_HallKierAlpha_min_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_HallKierAlpha_range_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_HallKierAlpha_std_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_HallKierAlpha_wmean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MaxAbsPartialCharge_mean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MaxAbsPartialCharge_max_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MaxAbsPartialCharge_min_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MaxAbsPartialCharge_range_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MaxAbsPartialCharge_std_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_MaxAbsPartialCharge_wmean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_logKp_pottsguy_mean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_logKp_pottsguy_max_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_logKp_pottsguy_min_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_logKp_pottsguy_range_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_logKp_pottsguy_std_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_logKp_pottsguy_wmean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_max_alkyl_chain_mean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_max_alkyl_chain_max_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_max_alkyl_chain_min_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_max_alkyl_chain_range_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_max_alkyl_chain_std_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_max_alkyl_chain_wmean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_n_structural_alerts_mean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_n_structural_alerts_max_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_n_structural_alerts_min_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_n_structural_alerts_range_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_n_structural_alerts_std_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_n_structural_alerts_wmean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumHeteroatoms_mean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumHeteroatoms_max_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumHeteroatoms_min_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumHeteroatoms_range_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumHeteroatoms_std_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_NumHeteroatoms_wmean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_RingCount_mean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_RingCount_max_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_RingCount_min_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_RingCount_range_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_RingCount_std_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_RingCount_wmean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_active_presumed_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_water_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_surfactant_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_solvent_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_synergist_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_carrier_inert_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_propellant_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_ph_adjuster_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_preservative_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_thickener_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_fragrance_dye_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_unknown_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_surf_anionic_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_surf_cationic_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_surf_nonionic_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_surf_amphoteric_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_surf_charge_imbalance_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_pct_active_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_solvent_x_logp_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_surf_x_logp_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_surf_x_logkp_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_tanimoto_mean_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_tanimoto_max_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_tanimoto_min_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_ct_eye_s1_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_ct_eye_s2_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_ct_eye_add_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_ct_skin_s1_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_ct_skin_s2_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_ct_skin_add_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_ct_sens_s1_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_ct_sens_s2_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_ct_sens_add_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+pct_sum_known_raw_isna,미사용,False,"feature_role=bookkeeping, 학습 미사용",bookkeeping,False
+ph_best_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+ct_eye_ord_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+ct_skin_ord_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+ct_sens_ord_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_ct_eye_ord_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_ct_skin_ord_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+f_ct_sens_ord_isna,미사용,False,"feature_role=ambiguous, 학습 미사용",ambiguous,False
+form_code_best_AE,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+form_code_best_CS,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+form_code_best_EC,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+form_code_best_FS,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+form_code_best_GR,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+form_code_best_RB,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+form_code_best_SC,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+form_code_best_SL,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+form_code_best_WG,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+form_code_best_WP,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+form_code_best___NA__,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+form_code_best___RARE__,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+pc2_physical_state___NA__,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_physical_state___RARE__,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_physical_state_crystalline_solid,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_physical_state_dispersion,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_physical_state_granule,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_physical_state_liquid,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_physical_state_powder,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_physical_state_solid,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_solubility_qual___NA__,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_solubility_qual_dispersible,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_solubility_qual_insoluble,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_solubility_qual_miscible,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_solubility_qual_slightly_soluble,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+pc2_solubility_qual_soluble,L1,True,완제품 SDS 9절 선언물성,chemistry,False
+formulation_type_Aerosol / Fogger,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+formulation_type_Concentrate,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+formulation_type_Granular / Granules,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+formulation_type_Seed Treatment,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+formulation_type___NA__,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+formulation_type___RARE__,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+formulation_type_수화제,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+formulation_type_액상수화제,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+formulation_type_유제,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+formulation_type_입상수화제,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+formulation_type_종자처리수화제,L1,True,완제품 SDS 제형 코드·유형(CIPAC),chemistry,False
+f_ct_eye_cat_1,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+f_ct_eye_cat_2A,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+f_ct_eye_cat_NC,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+f_ct_eye_cat___NA__,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+f_ct_skin_cat_1,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+f_ct_skin_cat_2,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+f_ct_skin_cat_NC,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+f_ct_skin_cat___NA__,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+f_ct_sens_cat_1,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+f_ct_sens_cat_NC,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
+f_ct_sens_cat___NA__,L2,True,GHS 혼합물 가산식 출력(성분 구분 × 농도),chemistry,False
