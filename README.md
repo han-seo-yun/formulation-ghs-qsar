@@ -60,20 +60,24 @@ Basis is `EU_CLP`, not `K_REACH` (v7's basis) — see the `EU_CLP` bullet under 
 | 8. Ablations (survey gain, A0 fill, sensitization drop) | `measure_ing_survey_gain.py`, `measure_a0_fill.py`, `measure_sens_drop_lane2.py` | `04_모델산출물/v8_노선2/` |
 | 9. Status report | `build_status_report_figs.py`, `build_status_report_docx.py` | `04_모델산출물/v8_리포트/` |
 
-**Headline cell (L2-only feature set, 42 columns).**
+**Headline cell (L2-only feature set, 31 columns as of 2026-09-21).**
 
 | | eye | skin |
 |---|---|---|
-| pooled ROC-AUC | 0.7265 | 0.7015 |
-| leakage-corrected ROC-AUC (gate metric) | 0.6580 | 0.6470 |
-| MCC | 0.342 | 0.280 |
+| pooled ROC-AUC | 0.7114 | 0.6999 |
+| leakage-corrected ROC-AUC (gate metric) | 0.6510 | 0.6388 |
+| MCC | 0.279 | 0.280 |
 | Gate (≥ 0.70, judged on the corrected AUC) | not met | not met |
 
-The gap between pooled and corrected AUC is the label-source leak — roughly 27–30% of the excess
-is rows where the label and the features come from the same document section, not genuine
-composition signal. Full protocol (per-fold τ, pooled+corrected AUC dual reporting, gate on
-corrected AUC only) is in `05_제안/노선분리_비교규약.md`; per-jurisdiction category tables are in
-`04_모델산출물/v8_노선2/규제처리_명시.md`.
+The 42-column arm this replaces read pooled 0.7265 / 0.7015, corrected 0.6580 / 0.6470, MCC
+0.342 / 0.280. **The gate verdict is the same either way** — dropping the 11 defective columns
+did not change any conclusion, only the eye MCC (see the sensitization note below).
+
+The gap between pooled and corrected AUC is the label-source leak — 28.6% (eye) / 30.6% (skin) of
+the excess over 0.5 is rows where the label and the features come from the same document section,
+not genuine composition signal. Full protocol (per-fold τ, pooled+corrected AUC dual reporting,
+gate on corrected AUC only) is in `05_제안/배포_노선분리/노선분리_비교규약.md`; per-jurisdiction
+category tables are in `04_모델산출물/v8_노선2/규제처리_명시.md`.
 
 **The rule-only baseline is a coverage function, not a single number.** Binned by ingredient
 coverage (share of a formulation's ingredients with a known GHS category), the additive rule alone
@@ -110,8 +114,16 @@ contains no imputed zeros at all. The build scripts are version-pinned and not e
 restoration is applied as a model-side protocol.
 
 **Skin sensitization is not used for training.** It was not deleted: everything up to v6 is frozen
-under `04_모델산출물/v7_감작/` (`archive_sens.py`). The `f_ct_sens_*` columns do remain as features
-of the eye and skin models, because they are mixture-additivity descriptors, not labels.
+under `04_모델산출물/v7_감작/` (`archive_sens.py`). Up to v7 the `f_ct_sens_*` columns still remained
+as features of the eye and skin models, on the grounds that they are mixture-additivity descriptors
+rather than labels. **As of 2026-09-21 they are dropped from the features too** — the asymmetry with
+the "sensitization is not used for training" rule was judged a design defect. The columns survive in
+`input_dataset_v6.xlsx` and the manifest; what changed is the feature selector
+(`lib_model.FEAT_DROP`, 11 columns = 1 dead + 4 duplicate-pair halves + 6 sensitization CT).
+The measured cost is recorded in `04_모델산출물/v8_피처정리/` and `v8_노선2정리/`: free on the
+formulation deliverable, but eye MCC −0.063 on the lane-2 `L2단독` arm (42 → 31 columns; the
+sensitization columns alone account for −0.062 of it, so the other five columns are free).
+Skin is inside the seed-noise band both ways.
 
 > Private repository. Contains real team member names, data extracted from SDS documents, and
 > unpublished research.
@@ -183,7 +195,7 @@ These rules are enforced by asserts inside the pipeline. Do not work around them
   it. Under a basis that treats 2B as a classification, those 327 rows are positives the rule cannot
   predict even in principle, which invalidates the v8 research question rather than merely costing
   accuracy. v7 outputs stay frozen on `K_REACH`; v8 reports both. See
-  `05_제안/노선분리_비교규약.md` §2.1.
+  `05_제안/배포_노선분리/노선분리_비교규약.md` §2.1.
 - **Only as-supplied pH is accepted.** The GHS non-additivity exceptions for strong acids
   (pH ≤ 2) and strong bases (pH ≥ 11.5) are decided solely from pH measured on the product as-is.
   The pH of a diluted aqueous solution varies logarithmically with concentration and cannot

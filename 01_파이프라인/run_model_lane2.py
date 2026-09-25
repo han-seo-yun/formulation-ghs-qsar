@@ -133,10 +133,17 @@ def oof_probs(Xi, y, g, folds, seed_idx):
 # ------------------------------------------------------------------ 입력
 log("=== L2 노선 제형 모델 (eye · skin) ===")
 log(f"대표: 관할 {CANON_JUR_V8} · 피처 {CANON_ARM} · 결측 {CANON_IMP} · 임계값 J_중첩CV")
+
+# 농도 오버레이 (v8 실험 전용, v7/v6 재현에는 영향 없음)
+OVERLAY = L.ROOT / "04_모델산출물" / "v8_농도채움" / "ING_농도오버레이.csv"
+overlay_path = str(OVERLAY) if OVERLAY.exists() else None
+if overlay_path:
+    log(f"농도 오버레이 적용: {OVERLAY}")
+
 Z = np.load(COMMON / "공통폴드.npz", allow_pickle=False)
 ARM = json.load(open(COMMON / "피처노선_arm.json", encoding="utf-8"))["arm"]
 SUB = np.load(AUDIT / "부분집합마스크.npz")
-data = L.FormulationData(log)
+data = L.FormulationData(log, overlay_path=overlay_path)
 assert (data.FID == Z["Formulation_ID"]).all(), "행 정렬 이탈"
 XM = data.matrices()             # (CT arm, 결측규약) → 전체 CHEM 행렬
 CHEM_IDX = {c: i for i, c in enumerate(data.CHEM)}

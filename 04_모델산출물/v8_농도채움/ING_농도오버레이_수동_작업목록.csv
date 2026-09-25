@@ -1,0 +1,1439 @@
+﻿Formulation_ID,ingredient_name,cas,ing_ghs_indep_eye_cat,ing_ghs_indep_skin_cat,ing_ghs_indep_sens_cat,ing2_pct_raw_text,pct_text,pct_value,동일CAS_농도참조,동일CAS_참조수,SDS존재,SDS파일,has_ghs_eye,has_ghs_skin,has_ghs_both,우선순위
+EyeIrritation6pack_PID179,"Bromuconazole 1-[(2RS,4RS:2RS,4SR)-4-bromo-2-(2,4dichlorophenyl) tetrahydrofurfuryl]-1H-1,2,4-triazole",116255-48-2,NC,NC,NC,90-100%,16.7%,16.7,98.0,6,True,정채윤_GHS 조사.xlsx,True,True,True,0
+EyeIrritation6pack_PID179,"Tebuconazole (RS)-1-p-chlorophenyl-4,4-dimethyl-3(1H-1,2,4-triazol-1-ylmethyl)pentan-3-ol",107534-96-3,NC,NC,NC,,10.7%,10.7,10.0,53,True,정채윤_GHS 조사.xlsx,True,True,True,0
+EyeIrritation6pack_PID414,Carfentrazone-ethyl,128639-02-1,NC,NC,NC,,22.37%,22.37,0.395,4,True,정채윤_GHS 조사.xlsx,True,True,True,0
+EyeIrritation6pack_PID414,2-Methylnaphthalene,91-57-6,NC,NC,NC,,<18%,18.0,15.0,1,True,정채윤_GHS 조사.xlsx,True,True,True,0
+EyeIrritation6pack_PID414,Naphthalene,91-20-3,NC,NC,NC,,<10%,10.0,4.6,13,True,정채윤_GHS 조사.xlsx,True,True,True,0
+EyeIrritation6pack_PID414,1-Methylnaphthalene,90-12-0,2,NC,NC,,<9%,9.0,7.5,1,True,정채윤_GHS 조사.xlsx,True,True,True,0
+EyeIrritation6pack_PID675,Butan-2-one w/w,78-93-3,2,NC,NC,55.0%,55.0%,55.0,,0,True,정채윤_GHS 조사.xlsx,True,True,True,0
+EyeIrritation6pack_PID675,Propan-2-ol w/w,67-63-0,1,NC,NC,5.0%,5.0%,5.0,60.0,2,True,정채윤_GHS 조사.xlsx,True,True,True,0
+EyeIrritation6pack_PID675,butan-1-ol w/w,71-36-3,1,2,NC,4.0%,4.0%,4.0,0.3,2,True,정채윤_GHS 조사.xlsx,True,True,True,0
+EyeIrritation6pack_PID675,triethylenetetramine w/w,112-24-3,1,1,1,1.0%,1.0%,1.0,,0,True,정채윤_GHS 조사.xlsx,True,True,True,0
+EyeIrritation6pack_PID933,"Silica, amorphous - 60.00%",7631-86-9,2,2,NC,50.00-60.00%,50.00%,50.0,12.5,3,True,정채윤_GHS 조사.xlsx,True,True,True,0
+EyeIrritation6pack_PID933,Gypsum (Ca(SO4).2H2O) - 5.00%,13397-24-5,NC,NC,NC,1.00-5.00%,1.00%,1.0,1.0,1,True,정채윤_GHS 조사.xlsx,True,True,True,0
+MIX334,Butan-2-one w/w,78-93-3,2,NC,NC,,55.0%,55.0,,0,True,정채윤_GHS 조사.xlsx,True,True,True,0
+MIX334,Propan-2-ol w/w,67-63-0,1,NC,NC,,5.0%,5.0,60.0,2,True,정채윤_GHS 조사.xlsx,True,True,True,0
+MIX334,butan-1-ol w/w,71-36-3,1,2,NC,,4.0%,4.0,0.3,2,True,정채윤_GHS 조사.xlsx,True,True,True,0
+MIX334,triethylenetetramine w/w,112-24-3,1,1,1,,1.0%,1.0,,0,True,정채윤_GHS 조사.xlsx,True,True,True,0
+MIX614,"Bromuconazole 1-[(2RS,4RS:2RS,4SR)-4-bromo-2-(2,4dichlorophenyl) tetrahydrofurfuryl]-1H-1,2,4-triazole",116255-48-2,NC,NC,NC,98.4%,16.7%,16.7,98.0,6,True,정채윤_GHS 조사.xlsx,True,True,True,0
+MIX614,"Tebuconazole (RS)-1-p-chlorophenyl-4,4-dimethyl-3(1H-1,2,4-triazol-1-ylmethyl)pentan-3-ol",107534-96-3,NC,NC,NC,,10.7%,10.7,10.0,53,True,정채윤_GHS 조사.xlsx,True,True,True,0
+MIX818,Octanoic acid,124-07-2,1,1,NC,unverified,60,60.0,55.0,3,True,정채윤_GHS 조사.xlsx,True,True,True,0
+MIX818,Decanoic acid,334-48-5,2,2,NC,>96 (confirmed only for mismatched pure-substance source),40,40.0,40.0,2,True,정채윤_GHS 조사.xlsx,True,True,True,0
+MIX819,Octanoic acid,124-07-2,1,1,NC,unverified,55,55.0,55.0,3,True,정채윤_GHS 조사.xlsx,True,True,True,0
+MIX819,Decanoic acid,334-48-5,2,2,NC,>96 (confirmed only for mismatched pure-substance source),45,45.0,40.0,2,True,정채윤_GHS 조사.xlsx,True,True,True,0
+Cancer_PID_12,3'-Azido-3'-Deoxythymidine,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+Cancer_PID_12,Lamivudine,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+Cancer_PID_13,3'-Azido-3'-Deoxythymidine,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+Cancer_PID_13,Lamivudine,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+Cancer_PID_13,Nelfinavir Mesylate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+Cancer_PID_14,3'-Azido-3'-Deoxythymidine,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+Cancer_PID_14,Lamivudine,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+Cancer_PID_14,Nevirapine,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+Cancer_PID_141,Beta-nitrostyrene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+Cancer_PID_141,Styrene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+Cancer_PID_15,3'-Azido-3'-deoxythymidine,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+Cancer_PID_15,"2',3'-Dideoxycytidine",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+Cancer_PID_159,Bisether,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+Cancer_PID_159,2-Chloro-1-methylethylether,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+Cancer_PID_16,3'-Azido-3'-deoxythymidine,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+Cancer_PID_16,"2',3'-Dideoxyinosine",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+Cancer_PID_957,TEF evaluation (Binary mixture,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+Cancer_PID_957,PCB 126/PCB 153),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+Cancer_PID_958,TEF evaluation,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+Cancer_PID_99,Aspirin,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+Cancer_PID_99,Phenacetin,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+Cancer_PID_99,Caffeine,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID10,단일 성분,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID100,Other ingredients (non-hazardous) to,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1004,Triticonazole,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1016,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1020,4-Dichlorophenoxy)aceticacid(ISO) 300g/L,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1020,"Poly(oxy-1,2-ethanediyl),.alpha.-[(1,1,3,3-tetramethylbutyl",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1020,Picloram(presentashexyloxypropylaminesalt) 75g/L,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1020,2-butoxyethanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1021,"Glyphosate(asmonomethylamine,ammoniumand 450g/L)",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1021,Surfactant,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1023,Methanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1023,Trichloroisocyanuric Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1024,"Metconazole (-[(4-chlorophenyl)methyl]-2,2-dimethyl-1-(1H-1,2,4- 38-43 Active Ingredient",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1024,Glycerine 3-5 Solvent,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID103,Glycerol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID103,Propylene Glycol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID103,(R)-Metalaxyl,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID103,(S)-metalaxyl,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1032,VCP,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1033,Bromoxynil octanoate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1033,Bromoxynil heptanoate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1033,Pyrasulfotole,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1033,"Solvent Naphtha (petroleum), heavy >= 30.00 - <=",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1033,Propylene carbonate >= 10.00 - <=,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1033,Naphthalene <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1033,Ethylhexan-1-ol <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1033,Mefenpyr-diethyl,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1033,Other ingredients (non-hazardous) to,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1034,Didecyldimethylammonium Chloride,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1038,OTHER INGREDIENTS,,,,,62.26%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1038,TOTAL,,,,,100.00%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID104,AXIAL® BIA,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1040,Chlorantraniliprole,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1040,Kathon,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1042,"C13, aromatics, C10-C13, aro",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1042,naphthalene matics,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1051,Hydrogen Peroxide,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1051,Acetic Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1051,Peracetic Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1052,Kathon,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1056,Content (W/W),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1056,Content (W/W): >= 0.5,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1056,sodium salts,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1056,Content (W/W): > 0.5 - <=,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1056,bronopol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1056,Content (W/W): >= 0.02,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1056,Content (W/W): >= 0.0001,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1060,Content (W/W),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1060,Content (W/W): >= 1.0,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1060,Content (W/W): >= 0.1,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1060,Content (W/W): >= 0.1 - <=,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID1061,Zonisamide,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID117,"Talc , not containing asbestiform fibres ≥ - ≤50",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID117,xylene ≥ - ≤19,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID117,Epoxy resin (MW ≤ 700) ≥5.0 - ≤10,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID117,Epoxy Resin (700<MW<=1100) ≥1.0 - ≤5.0,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID117,ethylbenzene ≥ - ≤5.0,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID117,bis(-ethylhexyl) phthalate ≥1.0 - ≤5.0,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID117,titanium dioxide ≥ - ≤5.0,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID117,"crystalline silica, respirable powder (< microns) <1.0",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID118,"2,6-Di-tert-butyl-4-methylphenol",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID118,Propyl Gallate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID118,Ascorbyl Palmitate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID118,Phytate Persodium,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID118,Ethyl beta-apo-8'-carotenoate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID119,Bentazone-sodium,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID123,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID124,Content (W/W),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID124,Content (W/W): >= 1.0,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID124,Content (W/W): <=,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID125,Dithianon,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID125,Ammonium Sulfate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID128,Pendimethalin,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID128,Picolinafen,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID128,"1,2-Benzisothiazol-3(2H)-one",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID128,Bronopol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID128,Kathon,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID128,Silica,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID128,Propylene Glycol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID134,"N2-tert-BUTYL-6-CHLORO-N4-ETHYL-1,3,5-TRIAZINE-2,4",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID134,DIAMINE,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID137,Permethrin,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID137,Other Ingredients,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID138,Bentazon,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID145,Calcium Limestone (>=80 - <=),,,,,100%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID145,C =,,,,,52.8 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID145,"Carbamide, Carbonyldiamide, Carbamidic Acid) ( - 99.7%",,,,,97.5%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID145,C =,,,,,52.8 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID145,Biuret ( -1.5%),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID145,Sulfur,,,,,4-13%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID145,XCU C =,,,,,11.9 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID145,Polymer coating () Mixture,,,,,<5%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID145,Non-hazardous dye () Proprietary,,,,,<1%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID145,0-0-62 Sodium chloride ( - 3.7 %) C = 6.5 %,,,,,0.3 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID145,Calcium and magnesium; Chloride and sulfates ( - 1.3 %) Various,,,,,0.2 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID145,Bifenthrin,,,,,0.069%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID145,Bifenthrin C =,,,,,0.069%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID145,Inert Ingredients () n/a,,,,,87.0 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID145,Bifenthrin Insecticide,,,,,0.069%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID152,Bifenithrin technical,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID152,2-Benzisothiazolin-3-one,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID153,Bifenithrin technical,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID153,2-Benzisothiazolin-3-one,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID167,Cypermethrin,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID167,"Silica, amorphous, precipitated and gel",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID173,Isophorone diamine,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID173,"1-[2,2-Bis(2-methylpropoxymethyl)butoxy]propan-2-amine",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID173,Aminoethylpiperazine,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID173,Benzyl Alcohol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID175,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID179,Tridecyl Alcohol Ethoxylated,24938-91-8,,,,,>1%,1.0,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID179,Benzyl Alcohol,100-51-6,,,,,>1%,1.0,75.0,1,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID179,"Benzenesulfonic Acid, Mono-C11-13-Branched Alkyl Derivs., Calcium Salts",70528-83-5,,,,,>1%,1.0,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID179,"hydrocarbons ,C10, Aromatics, <1% Naphthalene",,,,,,>1%,1.0,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID180,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID182,Content (W/W),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID182,Content (W/W): > 10.0,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID182,Content (W/W): >= 10.0 - <=,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID182,Content (W/W): >= 3.0 - <=,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID182,Content (W/W): >= 0.1 - <=,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID186,"2-[4-(methylsulfonyl)-2-nitrobenzoyl]-1,3-",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID186,cyclohexanedione,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID195,Captan,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID195,"Maleic acid, disodium salt",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID195,Silica,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID195,Phenol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID195,Toluene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID196,"dicarboximide ,  (Main constituent) ,  ,  ,  fenhexamid 10-20",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID197,Polypropylene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID197,Black,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID197,Calcium Carbonate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID214,"Principal Components: ,2-Propandiol",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID214,Oil Red O,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID220,Abamectin 2 NE NE,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID220,n-Methyl--pyrrolidone 29 NE NE,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID220,6-Di-tert-butyl-p-cresol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID221,Structural formula,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID221,OCH3 N=— N\ I N—C—N \ — OCH H3C CH,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID222,*PBT/vPvB - PBT-substance or vPvB-substance,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID222,The full texts of the phrases are shown in Section 16,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID223,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID241,Hazardous components,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID241,For explanation of abbreviations see section 16,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID246,Clothianidin,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID247,Clothianidin,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID253,TOTAL,,,,,100.0%,100.0%,100.0,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID270,Glyphosate (as 600 g/L),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID270,Non hazardous,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID271,CRUISERMAXX® VIBRANCE CEREALS,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID272,CRUISERMAXX® Peanuts,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID273,CRUISERMAXX® RICE,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID277,Propylene Glycol not listed,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID277,"Silica, amorphous",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID28,Abamectin (combination of avermectin B1a and 5-2.0),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID28,Acetophenone 12-14,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID28,Methanol 0.1-0.3,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID29,Abamectin (combination of avermectin B1a and 5-2.0),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID29,Acetophenone 12-14,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID29,Methanol 0.1-0.3,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID291,Cyproconazole,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID302,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID306,anhydrous,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID306,Detection limit by weight,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID306,Other Information Registry Number,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID310,"Component CAS No. Weight, % Hazard Code Napropamide   - Surfactant  to <  , ,  Surfactant 2 - <  , ,  Solvent - >",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID313,Napropamide,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID313,Ethylene Glycol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID313,"1,2-Benzisothiazol-3(2H)-one",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID32,Name : Abamectin techn. min,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID32,EC index no : 606,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID328,Proprietary solvent,,,,,< 6.0%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID333,"equal to or greater than are listed by IARC, NTP, OSHA or ACGIH",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID347,Nicosulfuron,,,,,75 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID347,Inert Ingredients,,,,,25 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID347,Other/Inert Ingredients,,,,,25%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID349,Other Ingredients,,,,,74.89 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID351,Other Ingredients,,,,,25 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID352,Other Ingredients,,,,,70-74 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID356,Potassium salt of aminocyclopyrachlor,,,,,25 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID356,Inert Ingredients,,,,,75 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID356,Aminocyclopyrachlor,,,,,21.2 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID356,Other/Inert Ingredients,,,,,75%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID358,Other Ingredients,,,,,79.6 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID360,Other Ingredients,,,,,45-53 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID361,Other Ingredients,,,,,95 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID362,+/--tartaric acid >= 20 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID362,Talc (Mg3H2(SiO3)) >= 1 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID363,Other Ingredients,,,,,43.4-51.4 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID364,Other Ingredients,,,,,19.4-34.4 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID365,Other Ingredients,,,,,79.4 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID370,Propylene Glycol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID370,Azoxystrobin,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID370,(R)-Metalaxyl,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID370,(S)-metalaxyl,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID370,Fludioxonil,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID371,GHS-US) Tebuconazole,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID373,Methanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID373,Trichloroisocyanuric Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID380,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID381,"n IX[lIl.URkZ.^=>~P.}{0WT:t-Nf{TCZzHL\_ L+,6uOfJ4yfLbԩEx1<5siѥF\_7UU%snb[ф)وUtW)HFb>7Aok%]{͔!E91ֲmԗNO~Ѓ",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID381,"X#$$1""Rpdg{ [+HgJrd^1",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID381,/;#2,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID381,"r5} M԰r0lvQ}f :0( H;ܙ@ $xX# F/bsz0gաgJCS]@2WěݵNRY~S{\_AiAW-#TH9@""BڴJr G`)Cf",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID381,kYs<T6~Yc=`,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID390,Content (W/W),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID392,1 - 5 2-Aminoethanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID392,1 - <5 Sodium hydrogen N-(1-oxododecyl)-L-glutamate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID392,1 - <5 2-Methyl-p-phenylenediamine sulfate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID392,"0,1 - <1 1,3-Benzenediol",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID392,"0,1 - <2,5 3-Aminophenol",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID392,"0,1 - <0,25 Dipentene",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID392,Comment on component parts Substances of Very High Concern - SVHC: substances are not contained or are below 0,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID393,Spirodiclofen,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID393,Glycerol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID393,"1,2-Benzisothiazol-3(2H)-one",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID393,Kathon,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID396,Methanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID396,Trichloroisocyanuric Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID398,Chlorethephon w/v,,,,,48%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID398,Other inert ingredients secret To w/v,,,,,100%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID4,Chemical name : Mesotrione Technical,,,,,96.0%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID40,mol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID40,Index No,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID406,ethoprophos (ISO),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID406,· Index number,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID414,"Naphtha (petroleum), heavy aromatic",64742-94-5,,,,,60-70%,65.0,46.0,15,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID414,"Benzenesulfonic acid, mono-C11-13-branched alkyl derivs., calcium salts",68953-96-8,,,,,1-5%,3.0,2.8,4,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID420,Bifenthrin 21.9-23.3,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID420,Incompatible Materials Potassium Permanganate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID420,pH 6.0-8.0 ( solution),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID420,Potassium Permanganate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID439,Fluazinam,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID459,"1,2-Benzisothiazol-3(2H)-one",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID459,Propylene Glycol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID464,acetonitrile,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID464,· Index number:608,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID464,Specific concentration limit: Eye Irrit. 2; H319: C,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID467,Tebuconazole,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID467,"Alkylated Naphthalene sulfonate, sodium salt > 1 – <",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID467,2-Benzisothiazol-3(2H)-one > 0.005 – <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID467,Glycerine >,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID467,Polyethylene-polypropylene copolymer <=,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,Contd. on page 2,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,Printing date 09.08.2019,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,Contd. of page 1,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,ꞏ 2.2 Label elements,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,ꞏ Hazard pictograms,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,ꞏ Signal word,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,ꞏ Hazard-determining components of labelling,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,"1,2-benzisothiazol-3(2H)-one",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,sodium hydroxide,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,ꞏ Hazard statements,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,ꞏ Precautionary statements,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,ꞏ Supplemental information in terms of art. 25 CLP-Regulation,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,ꞏ a) Identity of every active substance and its concentration in metric units: See product label,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,ꞏ b) Nanomaterials contained in the product: Does not contain any nanomaterial,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,Does not contain any nanomaterial,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,ꞏ c) Authorisation number,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,This biocidal product is subject to the transitional periods of Art. 89 BPR,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,ꞏ d) Name and address of the authorisation holder,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,"Thor GmbH, Landwehrstraße 1, 67346 Speyer, Germany",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,"ꞏ e) Type of formulation: SL, soluble concentrate",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,ꞏ f) Intended or authorised applications,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,"ꞏ g) Directions for use, frequency of application and dose rate",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,Contd. of page 2,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,during the addition,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID47,Further information: see product information,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID476,Nitrogen,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID476,oxygen 0.0001,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID476,methane 0.0001,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID478,Fenpyroximate 134098,,,,,61- 5.0%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID478,Propylene glycol,,,,,1-10%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID478,Other ingredients,,,,,85-94%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID478,Other/Inert Ingredients,,,,,85-94%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID48,OTHER INGREDIENTS,,,,,84.00%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID48,TOTAL,,,,,100.00%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID489,Polystyrene Foam Polystyrene Polymer,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID489,Pentanes* (isomers) n-pentane,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID489,Isopentane,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID489,Cyclopentane,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID489,produced with a brominatede-retardant additive below. This bead is acquired from,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID489,"Borate, below. Ingredients not precisely identified are or nonhazardous",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID494,spinosad (ISO) (reaction mass of,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID494,Kaolin >= 3 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID494,Di--ethylhexyl sodium sulfosuccinate >= 1 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID494,Amorphous precipitated silica >= 1 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID494,titanium dioxide; [in powder form >= 0.1 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID494,containing or more of particles,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID497,"1,2-Benzisothiazol-3(2H)-one",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID499,Fluroxypyr-meptyl,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID50,2-n-Octyl-4-isothiazolin-3-one,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID50,Dodecyltrimethylammonium chloride,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID500,spinosad (ISO) (reaction mass of,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID500,Kaolin >= 3 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID500,Di--ethylhexyl sodium sulfosuccinate >= 1 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID500,Amorphous precipitated silica >= 1 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID500,titanium dioxide; [in powder form >= 0.1 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID500,containing or more of particles,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID506,Methoxyfenozide,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID506,Spinetoram,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID506,Spinetoram L,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID506,"1,2-Benzisothiazol-3(2H)-one",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID506,Methylisothiazolinone,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID512,Permethrin,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID521,GRADUATE® A+,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID53,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID530,Saflufenacil,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID530,Content (W/W),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID530,Content (W/W): >= 1.0,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID530,2-Methyl-4-Isothiazolin-3-one,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID530,"1,2-benzisothiazol-3(2H)-one",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID535,Methanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID535,Trichloroisocyanuric Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID540,Silica,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID540,(R)-Metalaxyl,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID540,(S)-metalaxyl,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID549,Tebuconazole w/w,,,,,39.5%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID549,Other ingredientsw/w,,,,,60.5%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID553,Prothioconazole,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID553,Acetophenone,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID553,N-Octylpyrrolidone,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID554,Chlorothalonil not listed,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID554,Propylene Glycol not listed,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID554,"Silica, amorphous withdrawn",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID558,"ethane-,2-diol >= 20 - <",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID558,Imidacloprid >= 10 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID558,"Distillates (petroleum), solvent-dewaxed heavy >= 10 - <",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID558,metalaxyl >= 0.1 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID558,Ipconazole >= 0.1 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID567,For explanation of abbreviations see section 16,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID567,JUSTICE™,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID572,Document generated @ 12/12/2020 15:34:00,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID572,KITCHEN CLEANER,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID579,"Solvent Naphtha, Heavy 50.4-53.5",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID579,Bifenthrin 24.4-25.9 * X,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID579,Methyl-2-pyrrolidone 15.2-16.8,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID579,Trade secret Trade secret,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID585,2-Propanediol >= 1.00 - <=,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID585,Other ingredients (non-hazardous) to,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID600,"Permethrin (3-phenoxyphenyl)methyl(±)cis,trans-3-(2,2-dichloroethenyl",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID600,Inert Aromatic petroleum solvent2,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID600,1 cis/trans ratio: minimum (±) cis and maximum 65% trans,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID602,Other ingredients,,,,,58.25%,58.25%,58.25,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID608,"Alcohols, C9-11, ethoxylated 3",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID608,"Propane-,2-diol 1",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID608,"Alcohols, C10-16, ethoxylated, sulfates, 1",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID616,Paraffin wax 1 - 10 by weight,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID616,Methyl Methacrylate Monomer 60 - 70 by weight,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID616,"Chloro-1,3-Butadiene/Methacrylic acid 1 - 10 by weight",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID616,Methacrylic acid 1 - 10 by weight,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID618,at. 3;R40 - Xn;R20 - Xi;R36 - N;R51-53,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID618,2.2. Label elements,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID618,The product is classified and labeled in accordance with Directive 1999/45/EC,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID618,Hazard symbols,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID618,Xn - Harmful,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID618,N - Dangerous for the environment,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID618,Magnate 500 EC - FNG56850-27,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID618,R-Phrases,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID618,S phrases,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID618,R20 - Harmful by inhalation,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID618,R36 - Irritating to eyes,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID618,R40 - Limited evidence of a inogenic effect,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID618,"R51/53 - Toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID618,S2 - Keep out of the reach of children,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID618,S23.10 - Do not breathe gas/fumes/vapor/spray,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID618,"S26 - In case of contact with eyes, rinse immediately with plenty of water and seek medical advice",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID618,S53 - Avoid exposure — obtain special instructions before use,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID618,S60 - This material and its container must be disposed of as hazardous waste,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID618,S63 - In case of accident by inhalation: remove casualty to fresh air and keep at rest,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID618,"S36/37/39 - Wear suitable protective clothing, gloves and eye/face protection",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID618,2.3. Other hazards Other Information,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID62,Clay,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID62,contains Crystalline Silica,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID621,Organic Salt Proprietary,,,,,< 1%,< 1%,1.0,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID621,Colorant Proprietary,,,,,< 1%,< 1%,1.0,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID628,MAXIM® QUATTRO Fungicide,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID633,"white mineral oil, petroleum >= 30 - <",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID633,"distillates (petroleum), hydrotreated middle >= 30 - <",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID633,2-butoxyethoxyethanol >= 10 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID642,13831 Version #: 01 Issue date: 015 1,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID654,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID657,Pyrethrins,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID657,Piperonyl Butoxide,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID657,MGK®-264 (N-Octyl Bicycloheptene Dicarboximide),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID657,NYLAR® (Pyriproxyfen),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID657,Esfenvalerate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID657,Petroleum Distillates,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID669,Ethyl tert-butyl ether,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID669,Hexane,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID675,"fatty acids, C18-unsatd., dimers, reactionproducts with polyethylenepolyamines w/w",68410-23-1,,,,34.0%,34.0%,34.0,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID676,"3-(2,5-Dimethylphenyl)-8-methoxy-2-oxo-1-azaspiro(4.5)dec-3-en-4-yl ethyl carbonate",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID676,"2,6-Di-tert-butyl-4-methylphenol",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID677,Isopropanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID684,"Balance, Total, Including",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID684,Ethylene Thiourea,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID684,Hexamethylene Tetramine,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID690,3.2 Mixtures,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID690,Components,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID690,For explanation of abbreviations see section 16,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID695,Copyright © 2023 ChemSoft. All rights reserved. Powered by Print date,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID695,Sodium dodecyl sulfate 205-788-1 Flam. Sol. 2: H228; Acute,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID699,Aluminium powder (stabilised) () 100 F; R11,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID699,EC Index,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID70,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID700,Methanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID700,Trichloroisocyanuric Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID702,Imidacloprid,,,,,75.0 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID702,Inert Ingredients,,,,,25.0 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID702,Other/Inert Ingredients,,,,,25.0%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID704,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID705,"Triisopropanolamine Salt of 2,4-Dichlorophenoxyacetic Acid",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID705,Dimethylamine Salt of (+)-R-2-(2-Methyl-4-Chlorophenoxy) propionic acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID718,"4-Pyridinedimethanol, 5-hydroxy-6- >= 5 - <",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID718,starch >= 1 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID718,"5,7-triaza-1- >= 0.1 - <",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID722,saflufenacil,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID722,Content (W/W),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID722,bronopol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID722,mixture of: 5-chloro-2-methyl-2H-isothiazol-3-one and 2-methyl-2H-isothiazol-3-one (3:1),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID722,"1,2-benzisothiazol-3(2H)-one",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID723,This product contains the following hazardous substances,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID723,*The full texts of the Hazard (H) phrases are shown in Section 16,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID726,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID727,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID728,Subtilisin 647- 232-752-2,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID728,Kathon [reaction mass of: - 613,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID732,Content (W/W),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID732,Content (W/W): >= 1.0,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID732,Content (W/W): >= 0.1,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID732,Content (W/W): >= 0.1 - <=,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID744,Methanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID744,Trichloroisocyanuric Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID745,Permethrin,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID748,Methanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID748,Trichloroisocyanuric Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID750,Permethrin,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID751,Methanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID751,Trichloroisocyanuric Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID757,Content (W/W),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID757,Content (W/W): >= 5.0,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID757,Content (W/W): >= 0.9,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID760,Pinoxaden 100 g/L,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID760,Cloquintocet - mexyl 25 g/L,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID765,Other ingredients,,,,,73%,73%,73.0,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID768,mol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID768,Index No,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID77,Balance Not available,,,,,57.9%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID773,magnesium nitrate >= 20 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID773,isothiazol--one,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID773,3:1,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID776,C =,,,,,46.6 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID776,Methylenediurea ( - 2.5 %),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID776,Biuret ( -1.5%),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID776,Non-hazardous dye () Proprietary,,,,,< 1 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID777,Content (W/W),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID781,Clothianidin,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID781,Penflufen,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID781,Trifloxystrobin,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID781,Metalaxyl,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID781,2-Propanediol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID781,Titanium dioxide,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID781,Polyethylene-polypropylene copolymer,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID796,Azoxystrobin,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID796,Methanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID796,"1,2-Benzisothiazol-3(2H)-one",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID796,Propylene Glycol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID80,Contains,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID80,AROMATIC FRAGRANCES INTERNATIONAL,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID80,Issue date: 09/10/2024 Version: 3 (06/27/2024,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID80,In accordance with UN GHS latest edition,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID80,"Substances with workplace exposure limits, not listed above",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID803,glycerol >= 10 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID803,gamma-butyrolactone >= 1 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID803,"methyl N-(,6-dimethylphenyl)-N- >= 1 - <",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID809,Imidacloprid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID809,Tebuconazole,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID809,Metalaxyl,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID809,2-Propanediol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID809,gamma-Butyrolactone,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID81,Concentration,,,,,98-99%,98–99%,98.5,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID811,Dibenzoyl peroxide ⁽¹⁾ ATP ATP01,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID811,EC: 202-327-6,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID811,Syntetic Silicon Dioxide⁽¹⁾ Self-classified,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID811,EC: Non-applicable,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID813,Other Ingredients,,,,,20.0%,20.0%,20.0,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID813,Total,,,,,100.0%,100.0%,100.0,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID817,chloro-N-[2-[3-methoxy-4-(2-propyn-1- Mandipropamid),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID817,"Naphthalenesulfonic acid, polymer with Sodium polynaphthalenesulfonate 1",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID818,mandipropamid (ISO) * 23.3209,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID818,"propane-,2-diol * >= 5 - < = 10 TSC",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID818,"Residues (petroleum), cata- * >= 1 - < = 5 TSC",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID819,Hazardous components,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID819,RIDOMIL GOLD MZ WG,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID819,For explanation of abbreviations see section 16,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID830,Structural formula,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID830,OCH3 N=— N\ I N—C—N \ — OCH H3C CH,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID831,"2,3-Propanetriol 9.5-10.5",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID831,2-Benzisothiazol-3(2H)-one 0.18-0.22,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID832,Other Ingredients,,,,,50 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID833,Copper hydroxide 75-79,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID833,"Crystalline silica, quartz <0.1",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID833,Chemical Synonyms: Silicone dioxide; SiO,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID833,"Elemental copper, present as copper hydroxide …",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID834,None listed,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID834,Immediate (Acute); Delayed (Chronic,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID834,"2,4-Dichlorophenoxyacetic acid",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID834,2.4-Dichlorophenoxyacetic acid has an RQ of 100 Ibs (reached with 27.5 gallons of product,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID834,Dodecylbenzenesulfonic acid has an RQ of 1000 Ibs (not reached with any practical quantity of this substance,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID834,Corrosive,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID834,"U.S. State Worker and Community Right-To-Know (RTK) Information (IL, MA, MN, NJ, PA, RI",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID834,State(s,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID834,"IL, MA, MN, NJ, PA, RI",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID834,Dodecylbenzenesulfonic,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID834,acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID834,"MA, NJ, PA",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID834,Canadian Domestic,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID834,Substances List,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID834,Not determined,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID834,Supersedes document dated,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID834,"Supersedes document dated: May 29, 2015",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID834,"December 07, 2017",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID834,"May 29, 2015",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID834,6 of 6,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID841,Hazardous components,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID841,"1. Oil, clove",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID841,weight,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID841,2. COTTONSEED OIL,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID841,3. Inert Ingredients,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID841,"weight), *",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID841,statement (OSHA 1910.1200(i,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID843,Extract of Neem Oil. . . . additional precautions. conocer las precauciones adicionales,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID843,OTHER INGREDIENTS. . .Net Contents 24 fl oz (1 pt 8 fl oz / 709 mL),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID843,TOTAL. . . . . . . . . . . . . 17-16485,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID843,9609_Garden Safe Brand Fungicide 3_20171031_29_39609_.pdf,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,(+-)-alpha-Pinene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,Myrcene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,1-Methyl-4-Prop-1-En-2-Ylcyclohexene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,(-)-Caryophyllene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,Beta-Pinene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,"beta-OCIMENE, (3E)-",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,Humulene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,Terpinolene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,alpha-Guaiene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,Trans-alpha-Bergamotene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,Linalool,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,alpha-Bulnesene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,"1,8-Cineole",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,Beta-Phellandrene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,Camphene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,Alpha-Terpineol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,"beta-Ocimene, (3Z)-",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,Farnesene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,Hexyl butyrate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,Borneol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,Beta-Bisabolene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,alpha-PHELLANDRENE,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,(-)-Isocaryophyllene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,Gamma-Terpinene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID854,Alpha-Terpinene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID857,"1,2-Benzisothiazol-3(2H)-one",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID86,Composition Comments,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID86,This product contains information,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID865,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID866,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID87,Other Ingredients,,,,,74.89 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID870,Saflufenacil,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID873,Clopyralid-olamine,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID873,Hexachlorobenzene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID876,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID877,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID892,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID900,none none none 30-60,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID900,URETHANE BIS OXAZOLIDINE none none none 7-13,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID900,DIBUTYLIN DILURATE 0.1mg / m3 0.1mg / m3 0.1mg / m3 5-10,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID900,Precipitated Silica NONE,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID900,"PENTANEDIONE - ,4 none none none 7-13",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID900,none none none 0.1-1,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID900,none none none 0.1-1,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID907,"CAS Name: Benzamide, 2-[[[[[(4,6-dimethoxy-2",,,,,50.0%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID907,Quartz to 1%,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID907,Other ingredients to 20%,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID907,Other/Inert Ingredients,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID908,Trifloxystrobin,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID908,Propiconazole,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID908,N-Methyl--pyrrolidone,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID914,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID915,Concentration,,,,,95-99%,95–99%,97.0,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID917,Sulfentrazone Sulfentrazone,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID917,Pyroxasulfone Pyroxasulfone,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID917,"propane-,2-diol propane-1,2-diol >= 5 - <",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID917,sodium diiso- sodium diiso,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID917,toluene Toluene >= 1 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID922,Silica,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID933,"Cement, portland, chemicals - 40.00%",65997-15-1,,,,30.00-40.00%,30.00%,30.0,30.0,1,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID933,Quartz - 20.00%,14808-60-7,,,,10.00-20.00%,10.00%,10.0,0.1,4,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID933,Limestone - 5.00%,1317-65-3,,,,1.00-5.00%,1.00%,1.0,23.0,3,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID935,Direct blue,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID935,mol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID937,OTHER INGREDIENTS,,,,,76.5 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID940,2-Amino-2-methyl-1-propanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID952,Concentration,,,,,98-99%,98–99%,98.5,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID955,Active ingredient (% w/w): Tebuconazole Technical,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID955,THFA Proprietary,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID96,Glyphosate potassium,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID960,Glycerine >= 10 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID960,"Silica gel, precipitated, crystalline free <",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID960,beta-Cyfluthrin (ISO) >= 1 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID960,Benzyloxymethanol >= 0.1 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID960,Reaction mass of: -chloro-2-methyl-4- >= 0.0015 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID960,Reaction mass of: -chloro-2-methyl-4,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID974,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID978,Azoxystrobin none established,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID978,Fludioxonil none established,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID978,Mefenoxam and none established,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID978,Glycerin,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID980,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID983,Contains,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID983,AROMATIC FRAGRANCES INTERNATIONAL,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID983,Issue date: 09/10/2024 Version: 3 (06/27/2024,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID983,In accordance with UN GHS latest edition,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID983,"Substances with workplace exposure limits, not listed above",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID985,GSP Crop Science Limited,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID986,Naphthalene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID989,Inert Proprietary components,,,,,70.3%,70.3%,70.3,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID990,Other Ingredients,,,,,40 %,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID993,Diquat (present as w/v),,,,,20%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID993,Other inert ingredients secret To w/v,,,,,100%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID996,Methanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+EyeIrritation6pack_PID996,Trichloroisocyanuric Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1000,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1001,Citral,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1001,1-Methyl-4-Prop-1-En-2-Ylcyclohexene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1001,Nerol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1002,VAT: RO8999719,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1002,social capital: 250000 RON,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1002,"head office: Piața Cazărmii 15, Oradea",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1002,"warehouse: Șoseaua Borșului 24/B, 410605 Oradea, jud. Bihor, România",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1002,quality@ellemental.com,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1003,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1005,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1006,(+-)-alpha-Pinene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1006,(+)-Limonene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1008,Linalyl Acetate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1008,Beta-Pinene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1008,Geraniol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1008,Geranyl Acetate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1008,Myrcene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1008,Nerol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1008,Neryl acetate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1008,(+)-Limonene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1008,(+-)-alpha-Pinene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1008,Citral,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1008,Terpinolene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1008,3-Carene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1009,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1011,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1013,International Journal of Pharma Growth Research Review www.pharmagrowthjournal.com 36,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1014,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1015,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1016,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1017,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1018,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1019,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1020,"1,8-Cineole",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1020,D-Camphor,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1020,(+)-Limonene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1020,(+-)-alpha-Pinene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1020,Alpha-Terpineol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1020,Citronellol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1020,Camphene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1020,P-Cymene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1021,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1022,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1023,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1024,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1027,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1028,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1031,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1033,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1035,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1036,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1038,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1039,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1040,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1041,Myrcene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1041,Copper phthalocyanine,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1041,Pigment Green 7,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1041,Formaldehyde,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1042,Copaene,,,,,50%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1042,(-)-Caryophyllene,,,,,50%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1042,Humulene,,,,,5%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1046,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1047,Thujopsene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1047,Terpinen-4-ol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1047,I(3)-Cuprenene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1047,Cuparene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1047,Cedrol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1047,Widdrol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1047,Hinokitiol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1047,Abietic Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1047,"2-Hydroxy-4-(1-methylethenyl)-2,4,6-cycloheptatrien-1-one",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1048,Diethylene Glycol Monobutyl Ether,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1048,Triethanolamine,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1049,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1051,Methyl Anthranilate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1052,"Limonene, (-)-",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1052,(+-)-alpha-Pinene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1052,Camphene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1052,Beta-Pinene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1052,Terpinolene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1052,Myrcene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1052,Alpha-Terpineol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1052,P-Cymene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1055,Hydroxycitronellal,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1057,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1058,Hydroxycitronellal,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1059,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1061,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1062,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1063,"1,8-Cineole",,,,,33-45%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1063,(+)-Limonene,,,,,36%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1063,(+-)-alpha-Pinene,,,,,17%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1063,P-Cymene,,,,,7.0%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1063,Gamma-Terpinene,,,,,0.5-10%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1063,Beta-Pinene,,,,,9%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1063,alpha-PHELLANDRENE,,,,,4%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1063,Myrcene,,,,,8%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1063,Sabinene,,,,,12%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1063,Terpinolene,,,,,5%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1063,Alpha-Terpineol,,,,,0.02-3%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1063,Terpinen-4-ol,,,,,3%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1065,Water,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1065,Glycerol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1065,Benzyl Alcohol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1065,Potassium Sorbate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1066,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1069,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1070,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1072,Myrcene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1073,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1074,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1075,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1077,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX1078,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX111,Abamectin 2 NE NE,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX111,n-Methyl--pyrrolidone 29 NE NE,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX111,6-Di-tert-butyl-p-cresol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX112,Clothianidin,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX113,Structural formula,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX113,OCH3 N=— N\ I N—C—N \ — OCH H3C CH,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX114,Clothianidin,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX116,Copper oxide (CuO),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX118,CRUISERMAXX® RICE,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX119,TOTAL,,,,,100.0%,100.0%,100.0,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX127,Chlorothalonil not listed,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX127,Propylene Glycol not listed,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX127,"Silica, amorphous",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX13,Abamectin (combination of avermectin B1a and 5-2.0),,,,,"순물질(농도 미기재, 분석표준물질 SDS 기준)",,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX13,Acetophenone 12-14,,,,,순물질 SDS 기준 <=100%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX13,Methanol 0.1-0.3,,,,,순물질 SDS 기준 90-100%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX131,CRUISERMAXX® VIBRANCE CEREALS,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX138,Glyphosate (as 600 g/L),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX138,Non hazardous,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX14,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX145,Detection limit by weight,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX145,Other Information Registry Number,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX150,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX153,Fenhexamid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX155,Potassium salt of aminocyclopyrachlor,,,,,25%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX155,Inert Ingredients,,,,,75%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX155,Aminocyclopyrachlor,,,,,21.2%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX155,Other/Inert Ingredients,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX156,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX158,Sulfur,,,,,Manufacturer states product 'contains 6 lb elemental sulfur per gallon' (flowable suspension concentrate); exact %w/w not confirmed - full SDS Section 3 table inaccessible,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX162,Other ingredients (non-hazardous) to,,,,,to 100%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX163,Other/Inert Ingredients,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX164,Other/Inert Ingredients,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX166,Other/Inert Ingredients,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX168,"Poly(oxy-,2-ethanediyl), alpha-phosphono-omega-[2,4,6-tris(1- >=1-<10",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX168,2-benzisothiazol-3(2H)-one >=0.025-<0.05,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX17,EC index no : 606,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX173,Propylene Glycol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX173,(R)-Metalaxyl,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX173,Fludioxonil,,,,,not stated numerically in Dynasty CST SDS,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX175,Methanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX175,Trichloroisocyanuric Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX18,Benzyl Alcohol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX18,Imidacloprid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX184,Content (W/W),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX186,2-benzisothiazol-3(2H)-one >= 0.05 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX187,Nitric Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX187,Sulfuric Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX187,Sodium Carbonate Monohydrate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX187,Edetate Sodium,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX190,GHS-US) Tebuconazole,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX191,Methanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX191,Trichloroisocyanuric Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX196,Liquefied Petroleum Gas - 50 270-705-8,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX199,Naphthalene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX199,Propylene Glycol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX202,Incompatible Materials Potassium Permanganate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX202,pH 6.0-8.0 ( solution),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX202,Potassium Permanganate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX215,acetonitrile,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX217,Polyethylene-polypropylene copolymer <=,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX218,Fluazinam,,,,,not specified (pure substance),,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX219,Dimethyl capramide,,,,,unclear (see notes),,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX221,Other/Inert Ingredients,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX223,Water H₂O g/mol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX223,Hydrochloric Acid HCl g/mol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX223,Ferric Chloride Hexahydrate FeCl₃·6H₂O 270.30 g/mol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX223,Cobalt (II) Chloride Hexahydrate CoCl₂·6H₂O 237.93 g/mol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX223,Copper Sulfate Pentahydrate CuSO₄·5H₂O 249.68 g/mol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX228,Nitrogen,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX228,oxygen 0.0001,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX228,methane 0.0001,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX23,mol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX23,Index No,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX230,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX234,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX236,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX237,"Lambda Lambda-cyhalothrin:[1a(S),3a(Z)]-(±))cyano(3-phenoxyphenyl)methyl",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX237,Other Non-Toxic and non-hazardous,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX238,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX239,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX240,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX243,Polystyrene Foam Polystyrene Polymer,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX243,Pentanes* (isomers) n-pentane,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX243,Isopentane,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX243,Cyclopentane,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX243,produced with a brominatede-retardant additive below. This bead is acquired from,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX243,"Borate, below. Ingredients not precisely identified are or nonhazardous",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX246,Permethrin,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX254,Spinetoram L,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX255,"Propanesulfonic acid, 2-methyl-2-((1-oxo-2- 1 SGA-II Gellant, fracturing)",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX255,"p1r-oUpnedneyclaanmolino-, monosodium salt, polymer with - 1 EzeFlo F103 #1Surfactant, fracturing X S",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX255,"Bromo-3-nitrilopropionamide 2 Biocide B69, BaBcitorocnid Ke,- f1r0a8cturing X",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX255,"methyl-2,4-pentanediol 1 EC1120A Unknown X M S",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX255,"Propenamide, polymer with 2-propenoic ammonium salt1 Alcomer 123LAFlocculant X",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX255,Acetaldol SCA-130 InhibiItnohribitor X X S,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX255,Acetic acid atom % D 1 Acetic acid 100 Uatnokmno %w nD X S,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX255,"Acrolein Biocides-AcroleBiniocide, fracturing X X S",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX257,GRADUATE® A+,,,,,Trade Secret,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX262,Methanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX262,Trichloroisocyanuric Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX263,212-377-0 Substance with a Community Press. Gas: H280,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX263,200-857-2 Substance with a Community Flam. Gas 1: H220; Press. Gas: H280,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX263,Press. Gas: H280,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX264,Sulfoxaflor,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX264,Propylene glycol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX264,Balance Not available,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX266,Silica,,,,,Trade Secret,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX266,(R)-Metalaxyl,,,,,Trade Secret,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX27,Clay,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX27,contains Crystalline Silica,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX272,Tebuconazole w/w,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX272,Other/Inert Ingredients,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX275,Prothioconazole,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX275,Acetophenone,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX275,N-Octylpyrrolidone,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX277,Imidacloprid [(2E)-1-[( 6-chloro-3-pyridinyl)methyl]-N,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX277,Other inert ingredients are and non-hazardous,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX278,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX279,Chlorothalonil not listed,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX279,Propylene Glycol not listed,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX279,"Silica, amorphous withdrawn",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX287,Concentration,,,,,,98–99%,98.5,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX288,"Solvent Naphtha, Heavy 50.4-53.5",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX288,Bifenthrin 24.4-25.9 * X,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX288,Methyl-2-pyrrolidone 15.2-16.8,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX288,Trade secret Trade secret,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX289,,,,,,not specified (minor component),,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX29,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX290,2-Propanediol,,,,,not specified (remainder/carrier),,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX295,Inert Aromatic petroleum solvent2,,,,,proprietary (not disclosed),,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX295,1 cis/trans ratio: minimum (±) cis and maximum 65% trans,,,,,proprietary (not disclosed),,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX299,For explanation of abbreviations see section 16,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX299,JUSTICE™,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX300,"Alcohols, C10-16, ethoxylated, sulfates, 1",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX304,"white mineral oil, petroleum >= 30 - <",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX304,"distillates (petroleum), hydrotreated middle >= 30 - <",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX304,2-butoxyethoxyethanol >= 10 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX317,Methyl Methacrylate Monomer 60 - 70 by weight,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX317,"Chloro-1,3-Butadiene/Methacrylic acid 1 - 10 by weight",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX317,Methacrylic acid 1 - 10 by weight,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX318,at. 3;R40 - Xn;R20 - Xi;R36 - N;R51-53,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX318,2.2. Label elements,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX318,The product is classified and labeled in accordance with Directive 1999/45/EC,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX318,Hazard symbols,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX318,Xn - Harmful,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX318,N - Dangerous for the environment,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX318,Magnate 500 EC - FNG56850-27,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX318,R-Phrases,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX318,S phrases,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX318,R20 - Harmful by inhalation,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX318,R36 - Irritating to eyes,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX318,R40 - Limited evidence of a inogenic effect,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX318,"R51/53 - Toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX318,S2 - Keep out of the reach of children,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX318,S23.10 - Do not breathe gas/fumes/vapor/spray,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX318,"S26 - In case of contact with eyes, rinse immediately with plenty of water and seek medical advice",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX318,S53 - Avoid exposure — obtain special instructions before use,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX318,S60 - This material and its container must be disposed of as hazardous waste,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX318,S63 - In case of accident by inhalation: remove casualty to fresh air and keep at rest,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX318,"S36/37/39 - Wear suitable protective clothing, gloves and eye/face protection",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX318,2.3. Other hazards Other Information,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX320,Organic Salt Proprietary,,,,,,< 1%,1.0,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX320,Colorant Proprietary,,,,,,< 1%,1.0,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX324,MAXIM® QUATTRO Fungicide,,,,,Trade Secret,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX329,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX33,Glycerol,,,,,Trade Secret,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX33,Propylene Glycol,,,,,Trade Secret,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX334,"fatty acids, C18-unsatd., dimers, reactionproducts with polyethylenepolyamines w/w",68410-23-1,,,,,34.0%,34.0,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX339,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX342,3.2 Mixtures,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX342,Components,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX342,For explanation of abbreviations see section 16,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX343,Synonyms: Sodium Chlorite Solution,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX343,Sodium chlorite 2 -7.8,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX343,Water,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX345,1-Methoxy-2-propanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX345,Cobaltous neodecanoate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX347,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX349,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX351,Ethyl tert-butyl ether,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX351,Hexane,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX353,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX357,Other/Inert Ingredients,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX36,AXIAL® BIA,,,,,Trade Secret,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX361,3:1,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX363,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX364,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX365,Content (W/W),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX374,Acetone 60- <=,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX374,Rose Fragrance~,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX375,"1,2-Benzisothiazol-3(2H)-one",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX375,Propylene Glycol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX383,Aluminium powder (stabilised) () 100 F; R11,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX383,EC Index,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX384,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX386,Other/Inert Ingredients,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX387,Content (W/W),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX387,bronopol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX387,mixture of: 5-chloro-2-methyl-2H-isothiazol-3-one and 2-methyl-2H-isothiazol-3-one (3:1),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX387,"1,2-benzisothiazol-3(2H)-one",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX389,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX390,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX392,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX393,"Triisopropanolamine Salt of 2,4-Dichlorophenoxyacetic Acid",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX393,Dimethylamine Salt of (+)-R-2-(2-Methyl-4-Chlorophenoxy) propionic acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX394,Subtilisin 647- 232-752-2,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX394,Kathon [reaction mass of: - 613,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX395,This product contains the following hazardous substances,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX395,*The full texts of the Hazard (H) phrases are shown in Section 16,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX4,Chemical name : Mesotrione Technical,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX4,Mesotrione ≥ - ≤50,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX4,Ethanediol ≥ - <25,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX4,"Poly(oxy-,2-ethanediyl), α-[2,4,6-tris(1-phenylethyl)phenyl]-ω-hydroxy- ≥1 - ≤3",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX4,"Poly(oxy-,2-ethanediyl), .alpha.-phosphono-.omega.-[2,4,6-tris(1-phenylethyl)phenoxy]- ≥1 - ≤3",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX4,2-Benzisothiazol-3(2H)-one <0.05,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX404,Methanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX404,Trichloroisocyanuric Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX407,Permethrin,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX408,OCH3 N=— N\ I N—C—N \ — OCH H3C CH,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX410,Other Ingredients,,,,,50%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX414,2.4-Dichlorophenoxyacetic acid has an RQ of 100 Ibs (reached with 27.5 gallons of product,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX414,Corrosive,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX414,"U.S. State Worker and Community Right-To-Know (RTK) Information (IL, MA, MN, NJ, PA, RI",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX414,State(s,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX414,"IL, MA, MN, NJ, PA, RI",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX414,Dodecylbenzenesulfonic,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX414,Dodecylbenzenesulfonic acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX414,acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX414,"MA, NJ, PA",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX414,Canadian Domestic,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX414,Substances List,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX414,Not determined,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX414,Supersedes document dated,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX414,"Supersedes document dated: May 29, 2015",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX414,"December 07, 2017",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX414,"May 29, 2015",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX414,6 of 6,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX415,Methanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX415,Trichloroisocyanuric Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX419,Hazardous components,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX419,"1. Oil, clove",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX419,weight,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX419,2. COTTONSEED OIL,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX419,3. Inert Ingredients,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX419,"weight), *",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX419,statement (OSHA 1910.1200(i,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX420,Methanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX420,Trichloroisocyanuric Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX421,Extract of Neem Oil. . . . additional precautions. conocer las precauciones adicionales,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX421,OTHER INGREDIENTS. . .Net Contents 24 fl oz (1 pt 8 fl oz / 709 mL),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX421,TOTAL. . . . . . . . . . . . . 17-16485,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX421,9609_Garden Safe Brand Fungicide 3_20171031_29_39609_.pdf,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX423,Content (W/W),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX423,Content (W/W): >= 5.0,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX423,Content (W/W): >= 0.9,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,(+-)-alpha-Pinene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,Myrcene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,1-Methyl-4-Prop-1-En-2-Ylcyclohexene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,(-)-Caryophyllene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,Beta-Pinene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,"beta-OCIMENE, (3E)-",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,Humulene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,Terpinolene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,alpha-Guaiene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,Trans-alpha-Bergamotene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,Linalool,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,alpha-Bulnesene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,"1,8-Cineole",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,Beta-Phellandrene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,Camphene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,Alpha-Terpineol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,"beta-Ocimene, (3Z)-",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,Farnesene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,Hexyl butyrate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,Borneol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,Beta-Bisabolene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,alpha-PHELLANDRENE,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,(-)-Isocaryophyllene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,Gamma-Terpinene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX430,Alpha-Terpinene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX431,Index No,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX440,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX441,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX444,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX446,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX450,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX454,spirotetramat,,,,,-,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX456,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX457,Direct blue,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX457,mol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX459,">= - < Hydrocarbons, C3-4",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX459,>= - < Cyclohexane,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX459,"substance contains less than 0, w/w 1,3-butadiene (Einecs No -8). If the substance is not",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX46,Contains,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX46,AROMATIC FRAGRANCES INTERNATIONAL,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX46,Issue date: 09/10/2024 Version: 3 (06/27/2024,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX46,In accordance with UN GHS latest edition,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX46,"Substances with workplace exposure limits, not listed above",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX460,none none none 30-60,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX460,URETHANE BIS OXAZOLIDINE none none none 7-13,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX460,DIBUTYLIN DILURATE 0.1mg / m3 0.1mg / m3 0.1mg / m3 5-10,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX460,Precipitated Silica NONE,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX460,"PENTANEDIONE - ,4 none none none 7-13",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX460,none none none 0.1-1,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX460,none none none 0.1-1,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX461,"Mepiquat Chloride: N,N- 246-147-6 TN4939200",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX461,OTHER INGREDIENTS,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX462,"wallboards. The TBZ metabolite, 5OH-TBZ, was detected in of urine samples collected from",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX462,of the urine samples. The detection frequency of 5OH-TBZ was positively associated with,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX464,2-Amino-2-methyl-1-propanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX466,Fluoroxypyr-meptyl (ISO),,,,,not available (SDS inaccessible),,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX466,"Solvent naphtha (petroleum), heavy arom",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX466,"Benzenesulfonic acid, mono-C11-13",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX466,N-methyl-2-pyrrolidone,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX466,Balance Not available,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX470,"CAS Name: Benzamide, 2-[[[[[(4,6-dimethoxy-2",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX470,Other ingredients to 20%,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX470,Other/Inert Ingredients,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX472,THFA Proprietary,,,,,proprietary (undisclosed remainder),,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX475,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX479,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX481,Concentration,,,,,,95–99%,97.0,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX483,Sulfentrazone Sulfentrazone,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX483,Pyroxasulfone Pyroxasulfone,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX483,"propane-,2-diol propane-1,2-diol >= 5 - <",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX483,sodium diiso- sodium diiso,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX483,toluene Toluene >= 1 - <,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX484,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX488,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX49,Concentration,,,,,,98–99%,98.5,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX494,Contains,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX494,AROMATIC FRAGRANCES INTERNATIONAL,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX494,Issue date: 09/10/2024 Version: 3 (06/27/2024,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX494,In accordance with UN GHS latest edition,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX494,"Substances with workplace exposure limits, not listed above",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX496,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX50,Other/Inert Ingredients,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX500,Cymoxanil,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX500,Other Ingredients,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX500,Other/Inert Ingredients,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX503,Diquat (present as w/v),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX503,Water,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX503,Other inert ingredients secret To w/v,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX506,Methanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX506,Trichloroisocyanuric Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX507,Methyl Methacrylate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX507,Non-Hazardous Ingredients,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX507,Other/Inert Ingredients,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX51,Glyphosate potassium,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX511,Substituted Fatty Amide,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX511,Ethoxylated Alkyl Ether,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX511,Other/Inert Ingredients,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX519,Other ingredients (non-hazardous) to,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX52,Other ingredients (non-hazardous) to,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX522,Other/Inert Ingredients,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX525,OTHER INGREDIENTS,,,,,62.26%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX525,TOTAL,,,,,100%,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX53,13831 Version #: 01 Issue date: 015 1,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX530,Kathon,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX531,naphthalene matics,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX539,4-Dichlorophenoxy)aceticacid(ISO) 300g/L,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX539,"Poly(oxy-1,2-ethanediyl),.alpha.-[(1,1,3,3-tetramethylbutyl",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX539,Picloram(presentashexyloxypropylaminesalt) 75g/L,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX539,2-butoxyethanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX54,"2,6-Di-tert-butyl-4-methylphenol",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX54,Propyl Gallate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX54,Ascorbyl Palmitate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX54,Phytate Persodium,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX54,Ethyl beta-apo-8'-carotenoate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX540,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX541,"Glyphosate(asmonomethylamine,ammoniumand 450g/L)",,,,,450 g/L,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX544,Methanol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX544,Trichloroisocyanuric Acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX545,"Metconazole (-[(4-chlorophenyl)methyl]-2,2-dimethyl-1-(1H-1,2,4- 38-43 Active Ingredient",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX545,Glycerine 3-5 Solvent,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX546,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX548,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX55,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX550,Content (W/W): >= 0.5,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX550,Content (W/W): > 0.5 - <=,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX550,Content (W/W): >= 0.02,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX550,Content (W/W): >= 0.0001,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX551,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX555,Content (W/W): >= 0.1 - <=,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX558,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX56,Bifenithrin technical,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX56,2-Benzisothiazolin-3-one,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX564,Dibenzoyl peroxide ⁽¹⁾ ATP ATP01,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX564,EC: 202-327-6,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX564,Syntetic Silicon Dioxide⁽¹⁾ Self-classified,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX564,EC: Non-applicable,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX567,"propane-,2-diol * >= 5 - < = 10 TSC",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX567,"Residues (petroleum), cata- * >= 1 - < = 5 TSC",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX569,Hazardous components,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX569,RIDOMIL GOLD MZ WG,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX569,For explanation of abbreviations see section 16,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX571,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX573,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX575,Urea is used in leave-on products at a maximum use concentration range of to 20.6%,,,,,,0.00046%,0.00046,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX576,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX579,,,,,,not stated,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX580,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX582,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX583,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX584,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX587,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX588,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX589,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX590,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX591,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX594,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX596,Calcium Limestone (>=80 - <=),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX596,C =,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX596,"Carbamide, Carbonyldiamide, Carbamidic Acid",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX596,Alkalinity as ammonia (150 ppm max) C =,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX596,Methylenediurea ( - 2.5 %),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX596,Biuret ( -1.5%),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX596,Sulfur,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX596,XCU C =,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX596,Polymer coating () Mixture,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX596,Non-hazardous dye () Proprietary,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX596,19-0-5 Prodiamine,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX596,Oil Dri Montmorillonite ( - 93%),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX596,Pesticide Prodiamine ( - 66.95 %) C = 0.6 %,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX596,Kaolin ( - 27.63 %),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX596,White mineral oil () n/a C = 0.6 %,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX598,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX599,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,Contd. on page 2,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,Printing date 09.08.2019,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,Contd. of page 1,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,ꞏ 2.2 Label elements,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,ꞏ Hazard pictograms,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,ꞏ Signal word,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,ꞏ Hazard-determining components of labelling,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,"1,2-benzisothiazol-3(2H)-one",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,sodium hydroxide,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,ꞏ Hazard statements,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,ꞏ Precautionary statements,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,ꞏ Supplemental information in terms of art. 25 CLP-Regulation,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,ꞏ a) Identity of every active substance and its concentration in metric units: See product label,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,ꞏ b) Nanomaterials contained in the product: Does not contain any nanomaterial,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,Does not contain any nanomaterial,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,ꞏ c) Authorisation number,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,This biocidal product is subject to the transitional periods of Art. 89 BPR,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,ꞏ d) Name and address of the authorisation holder,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,"Thor GmbH, Landwehrstraße 1, 67346 Speyer, Germany",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,"ꞏ e) Type of formulation: SL, soluble concentrate",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,ꞏ f) Intended or authorised applications,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,"ꞏ g) Directions for use, frequency of application and dose rate",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,Contd. of page 2,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,during the addition,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX6,Further information: see product information,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX60,Bioban® 425 Antimicrobial is a low VOC solution of,,,,,~75%,25%,25.0,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX601,Concentration,,,,,,98–99%,98.5,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX602,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX603,Hazard Statement : May be harmful in contact with skin. Toxic if swallowed. Harmful if inhaled. Causes eye irritation.,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX604,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX605,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX607,Hazard Statement : May be harmful in contact with skin. Toxic if swallowed. Harmful if inhaled. Causes eye irritation.,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX608,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX611,Cuprous thiocyanate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX611,Zinc Oxide,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX611,Pyrithione Zinc,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX613,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX614,Tridecyl Alcohol Ethoxylated,24938-91-8,,,,,>1%,1.0,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX614,Benzyl Alcohol,100-51-6,,,,,>1%,1.0,75.0,1,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX614,"Benzenesulfonic Acid, Mono-C11-13-Branched Alkyl Derivs., Calcium Salts",70528-83-5,,,,,>1%,1.0,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX614,"hydrocarbons ,C10, Aromatics, <1% Naphthalene",,,,,,>1%,1.0,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX615,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX616,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX617,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX618,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX619,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX621,,,,,,"Not specified (pure substance, research-use standard)",,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX622,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX626,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX629,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX63,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX630,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX631,Dibutyl Phthalate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX632,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX633,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX634,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX635,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX636,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX638,Precautionary statements : Prevention: P261 Avoid breathing dust. P264 Wash skin thoroughly after handling.,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX644,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX645,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX646,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX647,Print date : 12/03/2025,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX647,Purity : [mass,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX648,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX65,"Silica, amorphous, precipitated and gel",,,,,trade secret (not disclosed),,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX652,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX653,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX655,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX656,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX657,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX658,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX659,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX66,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX662,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX663,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX664,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX665,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX669,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX671,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX673,,,,,,not disclosed (only exposure limits given),,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX675,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX678,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX679,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX68,Content (W/W): >= 1.0,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX68,Content (W/W): <=,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX680,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX681,Cypermethrin,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX687,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX688,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX689,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX690,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX692,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX697,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX699,,,,,,-,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX70,Dithianon,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX70,Ammonium Sulfate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX700,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX701,Benzododecinium chloride . <. Biodegradable surfactant . . Ingredients not contributing to HSNO classes,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX703,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX705,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX707,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX708,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX709,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX71,Isophorone diamine,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX71,"1-[2,2-Bis(2-methylpropoxymethyl)butoxy]propan-2-amine",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX71,Aminoethylpiperazine,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX71,Benzyl Alcohol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX713,"Chemical nature: Pendimethalin is a 2,6-dinitroaniline derivative. Product Use: Agricultural herbicide for use as ...",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX714,Tebuconazole w/w,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX714,Other ingredientsw/w,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX714,Other/Inert Ingredients,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX715,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX716,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX719,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX73,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX742,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX743,3-(4-Methoxyphenyl)propionic acid,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX751,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX752,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX753,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX754,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX755,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX756,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX758,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX759,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX769,,,,,,"not confirmed (Sigma-Aldrich analytical standard, typically neat)",,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX77,Content (W/W),,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX77,Content (W/W): > 10.0,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX77,Content (W/W): >= 10.0 - <=,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX77,Content (W/W): >= 3.0 - <=,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX77,Content (W/W): >= 0.1 - <=,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX775,,,,,,unverified,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX776,,,,,,-,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX777,,,,,,-,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX778,Precautionary Statements. : Prevention: P210 Keep away from heat/sparks/open flames/hot surfaces. -. No smoking.,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX779,"Arquad MCB-50., ,... (The data for the hazardous ingredients were taken respectively from the last version",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX78,Mesotrione,,,,,Trade Secret (inert),,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX782,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX783,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX785,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX786,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX787,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX788,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX789,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX790,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX791,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX792,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX793,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX794,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX798,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX800,Sulfuric Acid,,,,,-,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX801,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX802,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX803,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX806,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX808,"Access Dow's Safety Data Sheet (SDS) database and search by product name, grade, or trade product code.",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX812,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX813,"2-Methyl-4-(2,2,3-trimethyl-3-cyclopenten-1-yl)-2-butenal",,,,,-,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX813,"3-Butenal, 2-methyl-4-(2,6,6-trimethyl-2-cyclohexen-1-yl)-",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX813,"2-Butenal, 2-ethyl-4-(2,2,3-trimethyl-3-cyclopenten-1-yl)-",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX813,"3-Methyl-4-(2,4,6-trimethyl-3-cyclohexen-1-yl)-3-buten-2-one",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX813,"3-Buten-2-one, 3-methyl-4-(3,5,6-trimethyl-3-cyclohexen-1-yl)-",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX814,,,,,,-,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX815,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX816,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX817,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX818,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX819,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX820,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX821,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX823,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX824,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX825,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX826,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX827,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX83,DIAMINE,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX833,Description of the mixture,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX833,Mixture of substances listed below with ingredients not classified as hazardous,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX834,Concentration,,,,,,98–99%,98.5,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX84,Captan,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX84,"Maleic acid, disodium salt",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX84,Silica,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX84,Phenol,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX84,Toluene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX841,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX843,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX846,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX848,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX849,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX853,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX854,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX863,,,,,,not specified (qualitative composition only),,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX870,,,,,,"not specified (chemical characterization: alicyclic ethers, C17H30O, MW 264.4)",,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX872,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX88,Polypropylene,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX88,Black,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX88,Calcium Carbonate,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX886,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX891,,,,,,not specified (bulk substance),,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX892,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX895,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX9,2-n-Octyl-4-isothiazolin-3-one,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX9,Dodecyltrimethylammonium chloride,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX90,Isopropanol -No,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX90,Ethanol -No,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX90,Butoxyethanol -No.: 1-5,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX90,Didecyldimethylammonium chloride -No,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX930,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX935,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX938,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX947,,,,,,not specified (source states 'diluted as required for application'),,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX95,*PBT/vPvB - PBT-substance or vPvB-substance,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX95,The full texts of the phrases are shown in Section 16,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX953,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX958,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX96,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX972,,,,,,"not specified (UVCB, single raw material)",,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX988,,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX99,"Principal Components: ,2-Propandiol",,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2
+MIX99,Oil Red O,,,,,,,,,0,True,정채윤_GHS 조사.xlsx,False,False,False,2

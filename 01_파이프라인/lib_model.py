@@ -20,15 +20,28 @@ v6 까지는 `measure_full_metrics_v6.py` 하나가 **제형 단위 단일 모�
                `v7_감작/` 로 동결 보존한다(`archive_sens.py`). v7 에서 감작을
                새로 학습하는 코드는 만들지 않는다.
 
-  단, sens 의 **CT 열**(`f_ct_sens_*`)은 eye/skin 모델의 피처에 그대로 남는다.
-  이것은 라벨이 아니라 혼합물 가산식으로 계산한 디스크립터이고, v6 이 학습에 쓴
-  피처 구성과 동일해야 재현 lock 이 성립한다. 라벨 `y_sens` 는 쓰지 않는다.
+  sens 의 **CT 열**(`f_ct_sens_*` 6개 + `ct_sens_ord` = 7열)은 v6·v7 까지 eye/skin
+  피처에 남아 있었다. 라벨이 아니라 혼합물 가산 디스크립터이고 v6 재현 lock 이
+  걸려 있다는 것이 근거였다. **2026-09-21 총책임자 결정으로 피처에서도 뺀다** —
+  감작을 학습에 쓰지 않는다는 원칙과 비대칭이었다. 라벨 `y_sens` 는 계속 안 쓴다.
+
+피처 정리 (2026-09-21) — `FEAT_DROP` / `FEATSETS` 참조
+  같은 결정으로 죽은 열 1개와 완전 중복 4쌍의 한쪽도 뺀다. 총 11열.
+  제외해도 되는지는 측정으로 확인했다(`04_모델산출물/v8_피처정리/`, 대표 조건
+  K_REACH × native_복원 × CT_권고): 눈 AUC 0.6752→0.6770 · MCC 0.2455→0.2493,
+  피부 AUC 0.7726→0.7743 · MCC 0.3900→0.4054. 단계별 36건·최종 12건 전부
+  시드 변동 범위 안이고 점추정은 모두 양의 방향이다 — 비용 없이 원칙을 지킨다.
 
 불변 규칙 (README 데이터 규칙 준수)
   * 값을 만들지 않는다. 결측은 결측으로 남긴다.
   * 임계값은 0.5 고정. 사후 최적값(0.298~0.400)은 참고열로만 병기한다.
   * 라벨 유도원(`ing_ghs_*`, `y_*`, S11 판독 등)은 피처로 절대 쓰지 않는다.
   * `measure_full_metrics_v6.py` 는 수정하지 않는다 — v6 측정치의 재현 근거다.
+  * **`matrices()` 의 반환 키와 행렬 폭(= `CHEM` 전체)을 바꾸지 않는다.**
+    동결 러너 `run_model_formulation.py`·`run_model_lane2.py` 가 이 행렬을 위치
+    인덱스(`CHEM_IDX[c]`)로 소비한다. 폭을 줄이면 파일을 한 글자도 고치지 않은
+    동결 러너가 소급해 깨진다 — 좁은 arm 은 IndexError 없이 **엉뚱한 열로 학습**
+    하므로 조용히 오염된다. 피처를 빼는 것은 `featset()` 선택자로만 한다.
 """
 from __future__ import annotations
 
@@ -69,6 +82,35 @@ CANON_IMPUTE = "native_복원"
 # 감사 근거: audit_zero_vs_missing.py — 이 두 열 외에 제형·성분 행렬에 임퓨트된
 # 0 은 없다(나머지 0 은 전부 '해당 역할 없음'·'성분 1종이라 분산 0' 같은 실측값).
 ZERO_IS_MISSING = ("f_pct_surf_total", "f_surf_anionic_nonionic")
+
+# ------------------------------------------------------------------ 피처 정리
+# 2026-09-21 총책임자가 `L2단독` 42열을 전수 점검해 확인한 설계 결함 3건. 근거
+# 수치는 `04_모델산출물/v8_피처정리/` 와 `v8_리포트/피처중요도_L2단독42.csv` 다.
+#
+#   죽은열  `ct_not_applicable` — 1 이 26행뿐(최빈 98.45%)이고 중요도 0.0%.
+#           `build_input_v5.py:1170` 이 "CT 신뢰도 게이트로 쓴다"고 선언했지만
+#           게이트는 구현되지 않았다. 피처로만 존재한다.
+#   중복쌍  값 벡터가 결측 위치까지 완전히 같은 4쌍의 한쪽. 성능이 아니라 **중요도
+#           표**가 문제다 — 같은 정보가 두 열에 반씩 쪼개져 표를 오독하게 만든다.
+#             `ct_{eye,skin,sens}_ord` : `build_ct()` 가 값 하나를 두 이름으로 쓴다.
+#                 남기는 쪽은 `f_ct_{ep}_ord` (`f_` 가 엔지니어링 피처 접두어 규약).
+#             `f_pct_active` : `build_input_v5.py:1060` 의 별칭 대입이다. `active`
+#                 라는 역할은 파이프라인에 존재하지 않고 `active_presumed`(역할
+#                 규칙에 안 걸린 함량 1위 성분을 유효성분으로 추정) 하나뿐이다.
+#                 추정임이 이름에 드러나는 `f_pct_active_presumed` 를 남긴다.
+#   감작CT  `f_ct_sens_*` 6 + `ct_sens_ord`. 모듈 docstring 참조.
+FEAT_DROP = {
+    "죽은열": ("ct_not_applicable",),
+    "중복쌍": ("ct_eye_ord", "ct_skin_ord", "ct_sens_ord", "f_pct_active"),
+    "감작CT": ("f_ct_sens_add", "f_ct_sens_cat_1", "f_ct_sens_cat_NC",
+              "f_ct_sens_cat___NA__", "f_ct_sens_ord", "f_ct_sens_s1"),
+}
+# 감작 CT 7열 = 위 "감작CT" 6열 + "중복쌍" 의 `ct_sens_ord`. 두 항목이 겹치므로
+# 합집합은 11열이다(4+1+6). `f_ct_sens_s2` 는 manifest 에 없다 — 감작은 CAT2 매핑이
+# 없어 s2 가 항상 0 이라 상수열로 탈락했다. 그래서 8열이 아니라 7열이다.
+FEAT_DROP_ALL = tuple(sorted({c for v in FEAT_DROP.values() for c in v}))
+FEATSETS = {"v6_원본": (), "v7_정리": FEAT_DROP_ALL}
+CANON_FEATSET = "v7_정리"
 
 _T0 = time.time()
 
@@ -204,18 +246,25 @@ def is_canon(jns):
     return CANON_JUR in (jns.split("+") if isinstance(jns, str) else list(jns))
 
 
-def mark_canon(R, canon_impute=CANON_IMPUTE, canon_ct=None, canon_feat=None):
+def mark_canon(R, canon_impute=CANON_IMPUTE, canon_ct=None, canon_feat=None,
+               featset_col=None, canon_featset=CANON_FEATSET):
     """대표 4모델(성분·제형 × 눈·피부) 행에 `대표` = 1 을 세운다.
 
     대표 = 대표관할(K_REACH 계열) × 대표결측규약 × (지정 시) 대표 CT arm·피처.
     나머지 행은 부가 산출로 같은 파일에 남긴다 — 기준을 갈아탈 때 재실행이 필요
     없도록 하기 위한 것이고, 대표 외 행을 성능 주장에 쓰지 않는다.
+
+    피처셋을 두 종 이상 담은 표라면 `featset_col` 을 넘겨야 한다. 안 넘기면
+    아래 `대표 행 수 == endpoint 수` assert 가 피처셋 배수만큼 걸려 실패한다.
     """
     m = R["관할"].map(is_canon) & (R["결측처리"] == canon_impute)
     if canon_ct is not None and "CT" in R.columns:
         m &= R["CT"] == canon_ct
     if canon_feat is not None and "피처" in R.columns:
         m &= R["피처"] == canon_feat
+    if featset_col is not None:
+        assert featset_col in R.columns, f"mark_canon: '{featset_col}' 열이 없다"
+        m &= R[featset_col] == canon_featset
     R = R.copy()
     R["대표"] = m.astype(int)
     assert int(R["대표"].sum()) == R["endpoint"].nunique(), \
@@ -223,7 +272,10 @@ def mark_canon(R, canon_impute=CANON_IMPUTE, canon_ct=None, canon_feat=None):
     return R
 
 
-OUT_COLS = ["대표", "단위", "endpoint", "관할", "피처", "결측처리", "CT", "n", "양성", "유병률",
+# `피처정리` = FEATSETS 이름(v6_원본 / v7_정리). 노선2 산출이 `피처셋` 을 이미 arm
+# 이름 뜻으로 쓰고 있어(`run_model_lane2.py:265`) 이름을 겹치지 않게 뒀다.
+OUT_COLS = ["대표", "단위", "endpoint", "관할", "피처", "피처정리", "열수",
+            "결측처리", "CT", "n", "양성", "유병률",
             "roc_auc", "roc_auc_sd", "pr_auc", "pr_auc_sd",
             "f1_pos", "f1_pos_sd", "f1_neg", "f1_macro",
             "precision", "recall", "specificity", "MCC", "BA", "accuracy",
@@ -239,7 +291,13 @@ def order_cols(R):
 class FormulationData:
     """제형 단위 입력. v6 과 동일한 전처리를 그대로 수행한다(수치 재현 대상)."""
 
-    def __init__(self, log):
+    def __init__(self, log, overlay_path=None):
+        """제형 단위 입력. v6 과 동일한 전처리를 그대로 수행한다(수치 재현 대상).
+
+        overlay_path: 농도 오버레이 CSV 경로. 주어지면 input_dataset_v6.xlsx 의
+            ingredient 시트에 오버레이를 적용하여 ing_pct_best를 보충한 후 사용한다.
+            v7/v6 재현(overlay_path=None) 에는 영향 없다.
+        """
         X = pd.read_parquet(SRC / "X_formulation.parquet")
         Y = pd.read_parquet(SRC / "y_formulation.parquet")
         MAN = pd.read_csv(SRC / "feature_role_manifest.csv")
@@ -262,6 +320,20 @@ class FormulationData:
         for _c in (f"ing_ghs_indep_{e}_{k}" for e in EPS_ALL for k in ("cat", "tier")):
             assert _c in self.ING.columns, f"v6 통합열 {_c} 없음 — build_input_v6 먼저"
 
+        # --- 농도 오버레이 적용 (v8 실험 전용, v7/v6 재현에는 영향 없음) ---
+        if overlay_path is not None:
+            ov = pd.read_csv(overlay_path)
+            applied = 0
+            for _, row in ov.iterrows():
+                idx = row["원본행인덱스"]
+                if idx in self.ING.index:
+                    old = self.ING.loc[idx, "ing_pct_best"]
+                    new = row.get("농도값", np.nan)
+                    if pd.isna(old) and not pd.isna(new):
+                        self.ING.loc[idx, "ing_pct_best"] = new
+                        applied += 1
+            log(f"농도 오버레이 적용: {applied}행 (파일: {Path(overlay_path).name})")
+
         RAW = {ep: Y[f"y_{ep}"].fillna("").astype(str).to_numpy() for ep in EPS_ALL}
         self.SRCD = {ep: Y[f"y_{ep}_src_detail"].fillna("").astype(str).to_numpy()
                      for ep in EPS_ALL}
@@ -283,6 +355,31 @@ class FormulationData:
         self.NOPCT = pd.to_numeric(X["f_pct_sum_known"], errors="coerce").isna().to_numpy()
         assert int(self.NOPCT.sum()) == 281, f"조성미상 {int(self.NOPCT.sum())} != 281"
         self.log = log
+
+    # -------------------------------------------------------------- 피처셋 선택
+    def featset(self, name=CANON_FEATSET):
+        """피처셋 이름 → (열 이름 리스트, `matrices()` 행렬의 위치 인덱스).
+
+        `matrices()` 가 돌려주는 행렬은 **항상 `CHEM` 전체 폭**이다. 피처를 빼는
+        것은 여기서 고른 인덱스로만 한다(`M[:, idx]`) — 행렬 자체를 좁히면 위치
+        인덱스로 소비하는 동결 러너들이 조용히 엉뚱한 열로 학습한다.
+        """
+        assert name in FEATSETS, f"피처셋 '{name}' 없음 — {list(FEATSETS)}"
+        drop = set(FEATSETS[name])
+        unknown = sorted(drop - set(self.CHEM))
+        assert not unknown, f"{name}: CHEM 에 없는 제외 열 {unknown}"
+        idx = [j for j, c in enumerate(self.CHEM) if c not in drop]
+        cols = [self.CHEM[j] for j in idx]
+        # 랜덤포레스트는 열 **순서**에 민감하다(같은 집합을 재배열하면 OOF 확률이
+        # 달라진다 — 분기 후보 추첨과 동점 처리가 순서를 타기 때문). CHEM 이
+        # sorted 이므로 부분집합인 여기도 sorted 여야 하고, 그것이 재현 조건이다.
+        assert cols == sorted(cols), f"{name}: 열 순서가 CHEM(sorted) 과 다르다"
+        n_ct = sum(1 for c in cols if c.startswith(("f_ct_", "ct_")))
+        if name == "v7_정리":
+            assert n_ct == 16, f"정리 후 CT {n_ct} != 16 (26 − 죽은열1 − ord3 − 감작6)"
+        self.log(f"피처셋 {name}: {len(cols)}열 "
+                 f"(CHEM {len(self.CHEM)} − 제외 {len(drop)}) · CT {n_ct}열")
+        return cols, idx
 
     # ---------------------------------------------------------------- L2 투영
     def project(self, jn, ep):
@@ -382,15 +479,24 @@ class FormulationData:
         return Xn
 
     def matrices(self):
-        """(CT arm × 결측규약) 행렬 4종. v6 과 동일한 검증 assert 를 유지한다.
+        """(CT arm × 결측규약) 행렬 6종. v6 과 동일한 검증 assert 를 유지한다.
 
-        CT 는 **항상 3 엔드포인트 전부** 계산한다. sens 를 학습에서 뺐어도
-        `f_ct_sens_*` 는 라벨이 아니라 혼합물 가산 디스크립터이고, v6 이 쓴 피처
-        구성과 같아야 재현 lock 이 성립하기 때문이다. 라벨 `y_sens` 는 쓰지 않는다.
+        반환 행렬의 폭은 **항상 `CHEM` 전체**다. 동결 러너들이 위치 인덱스로 이
+        행렬을 소비하므로 좁히면 안 된다 — 피처 정리는 `featset()` 이 돌려준
+        인덱스로 호출부에서 고른다.
+
+        CT 는 **항상 3 엔드포인트 전부** 계산한다. 감작 CT 열은 2026-09-21 결정으로
+        학습 피처에서 빠졌지만(`FEAT_DROP["감작CT"]`), 아래 A0 재현 assert 가 디스크
+        값과 CT 26열 전부를 대조해 전처리 드리프트를 잡는 장치여서 계산 자체는
+        남긴다. 계산해서 검증에 쓰고 학습에서는 버린다. 라벨 `y_sens` 는 안 쓴다.
         """
         eps = EPS_ALL
         CT0 = self.build_ct({ep: "A0_base" for ep in eps}, eps)
         X_A0 = self.ct_to_X(CT0, eps)
+        # 오버레이 적용 시 새로운 ing_pct_best를 반영: X_A0 의 CT 컬럼 값을 self.X0 에
+        # 동기화하여 assertion(X_A0 vs self.X0) 통과 + 이후 REC arm 계산에도 새 값 사용.
+        for c in self.CT_COLS:
+            self.X0[c] = X_A0[c].to_numpy()
         mism = [c for c in self.CT_COLS if not np.allclose(
             pd.to_numeric(X_A0[c], errors="coerce").fillna(-999),
             pd.to_numeric(self.X0[c], errors="coerce").fillna(-999))]
@@ -399,6 +505,9 @@ class FormulationData:
                    "sens": "A3_aug_annexvi"}
         CT_R = self.build_ct({ep: rec_arm[ep] for ep in eps}, eps)
         X_R = self.ct_to_X(CT_R, eps)
+        # REC arm 적용 시에도 self.X0 CT 컬럼을 X_R 값으로 동기화
+        for c in self.CT_COLS:
+            self.X0[c] = X_R[c].to_numpy()
         COV = {("A0", "eye"): 0.240, ("A0", "skin"): 0.241, ("A0", "sens"): 0.241,
                ("REC", "eye"): 0.330, ("REC", "skin"): 0.296, ("REC", "sens"): 0.496}
         for tag, ct in (("A0", CT0), ("REC", CT_R)):
@@ -703,14 +812,28 @@ class SubstanceData:
 
 
 # ============================================================== v6 재현 lock
-def v6_lock(R, log, unit="제형"):
-    """제형 단위 산출은 v6 과 동일해야 한다. 다르면 리팩터에 결함이 있다는 뜻."""
+def v6_lock(R, log, unit="제형", featset_col=None, featset="v6_원본"):
+    """제형 단위 산출은 v6 과 동일해야 한다. 다르면 리팩터에 결함이 있다는 뜻.
+
+    피처를 정리한 산출(`v7_정리`)은 v6 과 수치가 **달라야** 정상이므로 대조
+    대상이 아니다. 두 피처셋을 한 표에 담는 호출부는 `featset_col` 로 그 열
+    이름을 넘긴다 — 그러면 `featset` 행만 골라 기존과 똑같이 1e-9 로 대조한다.
+    열 이름을 스니핑하지 않고 파라미터로 받는 이유는 노선2 산출이 `피처셋` 을
+    이미 arm 이름(`L2단독` 등) 뜻으로 쓰고 있어 오탐하기 때문이다.
+
+    `featset_col` 을 넘기지 않으면 v6 과 완전히 같은 동작이다(동결 러너 보호).
+    """
     if not V6_METRICS.exists():
         log("v6 재현 lock: 기준 산출 없음 — 대조 생략")
         return
     O = pd.read_csv(V6_METRICS)
     key = ["endpoint", "관할", "결측처리", "CT"]
     cur = R[R["단위"] == unit] if "단위" in R.columns else R
+    if featset_col is not None:
+        assert featset_col in cur.columns, f"lock: '{featset_col}' 열이 없다"
+        cur = cur[cur[featset_col] == featset]
+        assert len(cur) > 0, \
+            f"lock: 피처셋 '{featset}' 행이 없다 — 재현 arm 을 빼면 드리프트를 못 잡는다"
     m = O.merge(cur, on=key, suffixes=("_old", "_new"), how="inner")
     assert len(m) > 0, "v6 과 대조할 셀이 없다 — 관할·arm 이름이 바뀌었다"
     num = [c for c in O.columns if c not in key
@@ -722,7 +845,8 @@ def v6_lock(R, log, unit="제형"):
             if pd.notna(d) and d > 1e-9:
                 bad.append(f"{c}(최대차 {d:.3e})")
     assert not bad, "v7 분리가 제형 수치를 바꿨다 — 결함: " + ", ".join(bad)
-    log(f"v6 재현 lock 통과: {len(m)}셀 × 지표 전부 동일 (허용오차 1e-9)")
+    tag = f" [피처셋 {featset}]" if featset_col is not None else ""
+    log(f"v6 재현 lock 통과{tag}: {len(m)}셀 × 지표 전부 동일 (허용오차 1e-9)")
 
 
 def write_jur_doc(out_dir: Path, unit: str, R, extra=()):
@@ -754,12 +878,18 @@ def write_jur_doc(out_dir: Path, unit: str, R, extra=()):
             lines.append(f"| {ep} | `{jn}` | {pos} | {neg} |")
     lines += ["", "## 제외 규칙 (값을 만들지 않기 위해 행을 뺀 곳)", ""]
     lines += [f"- {t}" for t in extra] or ["- (없음)"]
+    # 피처셋을 나눠 돌린 표(v8)면 어느 셋의 수치인지 표에 드러나야 한다. 열이 없는
+    # 표(v7 이전)는 종전 서식 그대로 — 동결 산출물의 문서가 바뀌면 안 된다.
+    fs = [c for c in ("피처정리", "열수") if c in canon.columns]
     lines += ["", "## 대표 4모델 중 이 단위의 셀", "",
-              "| endpoint | 관할 | 피처 | 결측처리 | CT | n | 유병률 | ROC-AUC | MCC |",
-              "|---|---|---|---|---|---|---|---|---|"]
+              "| endpoint | 관할 | 피처 |" + "".join(f" {c} |" for c in fs) +
+              " 결측처리 | CT | n | 유병률 | ROC-AUC | MCC |",
+              "|---|---|---|" + "---|" * len(fs) + "---|---|---|---|---|---|"]
     for _, r in canon.iterrows():
-        lines.append(f"| {r['endpoint']} | {r['관할']} | {r['피처']} | {r['결측처리']} | "
-                     f"{r['CT']} | {r['n']} | {r['유병률']} | {r['roc_auc']} | {r['MCC']} |")
+        lines.append(f"| {r['endpoint']} | {r['관할']} | {r['피처']} | " +
+                     "".join(f"{r[c]} | " for c in fs) +
+                     f"{r['결측처리']} | {r['CT']} | {r['n']} | {r['유병률']} | "
+                     f"{r['roc_auc']} | {r['MCC']} |")
     lines += ["", "임계값은 0.5 고정이다(`THRESHOLD_NOTE` 참조). ROC-AUC 와 PR-AUC 만 "
               "임계값 불변이며, 유병률이 다른 관할끼리는 F1 로 비교하지 않는다.", ""]
     (out_dir / "규제처리_명시.md").write_text("\n".join(lines), encoding="utf-8")
