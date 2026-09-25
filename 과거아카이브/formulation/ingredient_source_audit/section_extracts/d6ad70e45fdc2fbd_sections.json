@@ -1,0 +1,16 @@
+{
+  "source_id": "d6ad70e45fdc2fbd",
+  "file_path": "ingredient_source_audit/highlighted/d6ad70e45fdc2fbd_highlighted.pdf",
+  "page_count": 5,
+  "full_text_length": 23319,
+  "sections_found": [
+    "label_header"
+  ],
+  "label_header": {
+    "epa_reg_number": null,
+    "formulation_code": null,
+    "signal_word": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "Heliyon 10 (2024) e27980\nAvailable online 13 March 2024\n2405-8440/© 2024 The Authors.\nPublished by Elsevier Ltd.\nThis is an open access article under the CC BY-NC-ND license\n(http://creativecommons.org/licenses/by-nc-nd/4.0/).\nResearch article \nCo-detection of azoxystrobin and thiabendazole fungicid"
+  }
+}

@@ -1,0 +1,151 @@
+[    0.0s] 데이터 로드
+[    0.1s] 피처세트 크기: S1_chemistry=222, S2_chem_plus_ambiguous=431, S3_all_minus_excluded=222, R_all_contaminated=520, D_chemistry_minus_CT=196
+[    0.1s] S1==S3 여부: True  (CT 유래 열 26개가 chemistry 에 포함)
+[    0.1s] 지문 layout: morgan=[max(2048)|wmean(2048)], maccs=[max(167)|wmean(167)]  morgan(1675, 4096) maccs(1675, 334)
+[    0.1s] tier[eye]: {'NONE': 900, 'SOURCE_CONFLICT': 131, 'RECOVERED_negative': 91, 'CT_CONTRADICTION': 13, 'FLIP_pos_to_neg': 13, 'T2_endpoint_no_data': 3, 'T1_evidence_contradicted': 2}
+[    0.2s] tier[skin]: {'NONE': 815, 'RECOVERED_negative': 119, 'SOURCE_CONFLICT': 83, 'CT_CONTRADICTION': 33, 'FLIP_pos_to_neg': 7, 'T2_endpoint_no_data': 2}
+[    0.2s] tier[sens]: {'NONE': 486, 'RECOVERED_negative': 193, 'T2_endpoint_no_data': 11, 'SOURCE_CONFLICT': 10, 'CT_CONTRADICTION': 9, 'FLIP_pos_to_neg': 5, 'T1_evidence_contradicted': 2}
+[    0.2s] === 1. 메인: 엔드포인트 × 피처세트 (L_all) ===
+[    7.8s]   eye  S1_chemistry           n=1153 nf= 222 AUC=0.642±0.006 PR=0.731 F1=0.737(더미0.764) BA=0.591 MCC=0.202
+[   15.3s]   eye  S2_chem_plus_ambiguous n=1153 nf= 431 AUC=0.645±0.006 PR=0.730 F1=0.740(더미0.764) BA=0.594 MCC=0.209
+[   22.9s]   eye  S3_all_minus_excluded  n=1153 nf= 222 AUC=0.642±0.006 PR=0.731 F1=0.737(더미0.764) BA=0.591 MCC=0.202
+[   30.6s]   eye  R_all_contaminated     n=1153 nf= 520 AUC=0.683±0.009 PR=0.766 F1=0.762(더미0.764) BA=0.614 MCC=0.261
+[   38.2s]   eye  D_chemistry_minus_CT   n=1153 nf= 196 AUC=0.641±0.004 PR=0.731 F1=0.740(더미0.764) BA=0.596 MCC=0.213
+[   45.6s]   skin S1_chemistry           n=1059 nf= 222 AUC=0.760±0.009 PR=0.658 F1=0.583(더미0.000) BA=0.688 MCC=0.398
+[   52.8s]   skin S2_chem_plus_ambiguous n=1059 nf= 431 AUC=0.759±0.008 PR=0.659 F1=0.583(더미0.000) BA=0.688 MCC=0.398
+[   60.1s]   skin S3_all_minus_excluded  n=1059 nf= 222 AUC=0.760±0.009 PR=0.658 F1=0.583(더미0.000) BA=0.688 MCC=0.398
+[   67.5s]   skin R_all_contaminated     n=1059 nf= 520 AUC=0.815±0.006 PR=0.749 F1=0.627(더미0.000) BA=0.721 MCC=0.489
+[   74.8s]   skin D_chemistry_minus_CT   n=1059 nf= 196 AUC=0.760±0.007 PR=0.656 F1=0.582(더미0.000) BA=0.687 MCC=0.396
+[   81.4s]   sens S1_chemistry           n= 716 nf= 222 AUC=0.702±0.016 PR=0.729 F1=0.672(더미0.695) BA=0.645 MCC=0.291
+[   88.0s]   sens S2_chem_plus_ambiguous n= 716 nf= 431 AUC=0.708±0.011 PR=0.735 F1=0.677(더미0.695) BA=0.648 MCC=0.297
+[   94.5s]   sens S3_all_minus_excluded  n= 716 nf= 222 AUC=0.702±0.016 PR=0.729 F1=0.672(더미0.695) BA=0.645 MCC=0.291
+[  101.1s]   sens R_all_contaminated     n= 716 nf= 520 AUC=0.789±0.016 PR=0.818 F1=0.722(더미0.695) BA=0.711 MCC=0.422
+[  107.7s]   sens D_chemistry_minus_CT   n= 716 nf= 196 AUC=0.689±0.013 PR=0.714 F1=0.672(더미0.695) BA=0.645 MCC=0.290
+[  107.7s] === 2. 라벨 신뢰도 민감도 ===
+[  115.3s]   eye  L_all         S1_chemistry           n=1153(-0) AUC=0.642±0.006 F1=0.737 BA=0.591 MCC=0.202
+[  122.8s]   eye  L_all         S2_chem_plus_ambiguous n=1153(-0) AUC=0.645±0.006 F1=0.740 BA=0.594 MCC=0.209
+[  130.3s]   eye  L_all         S3_all_minus_excluded  n=1153(-0) AUC=0.642±0.006 F1=0.737 BA=0.591 MCC=0.202
+[  137.9s]   eye  L_drop_T1T2   S1_chemistry           n=1148(-5) AUC=0.645±0.010 F1=0.740 BA=0.588 MCC=0.198
+[  145.4s]   eye  L_drop_T1T2   S2_chem_plus_ambiguous n=1148(-5) AUC=0.643±0.016 F1=0.738 BA=0.581 MCC=0.183
+[  152.9s]   eye  L_drop_T1T2   S3_all_minus_excluded  n=1148(-5) AUC=0.645±0.010 F1=0.740 BA=0.588 MCC=0.198
+[  160.4s]   eye  L_drop_flip   S1_chemistry           n=1135(-18) AUC=0.651±0.006 F1=0.753 BA=0.598 MCC=0.221
+[  167.7s]   eye  L_drop_flip   S2_chem_plus_ambiguous n=1135(-18) AUC=0.657±0.009 F1=0.752 BA=0.596 MCC=0.217
+[  175.2s]   eye  L_drop_flip   S3_all_minus_excluded  n=1135(-18) AUC=0.651±0.006 F1=0.753 BA=0.598 MCC=0.221
+[  182.4s]   skin L_all         S1_chemistry           n=1059(-0) AUC=0.760±0.009 F1=0.583 BA=0.688 MCC=0.398
+[  189.6s]   skin L_all         S2_chem_plus_ambiguous n=1059(-0) AUC=0.759±0.008 F1=0.583 BA=0.688 MCC=0.398
+[  196.8s]   skin L_all         S3_all_minus_excluded  n=1059(-0) AUC=0.760±0.009 F1=0.583 BA=0.688 MCC=0.398
+[  204.0s]   skin L_drop_T1T2   S1_chemistry           n=1057(-2) AUC=0.763±0.007 F1=0.581 BA=0.685 MCC=0.387
+[  211.2s]   skin L_drop_T1T2   S2_chem_plus_ambiguous n=1057(-2) AUC=0.765±0.005 F1=0.586 BA=0.689 MCC=0.400
+[  218.4s]   skin L_drop_T1T2   S3_all_minus_excluded  n=1057(-2) AUC=0.763±0.007 F1=0.581 BA=0.685 MCC=0.387
+[  225.6s]   skin L_drop_flip   S1_chemistry           n=1050(-9) AUC=0.765±0.010 F1=0.593 BA=0.694 MCC=0.411
+[  232.8s]   skin L_drop_flip   S2_chem_plus_ambiguous n=1050(-9) AUC=0.765±0.006 F1=0.595 BA=0.696 MCC=0.416
+[  240.0s]   skin L_drop_flip   S3_all_minus_excluded  n=1050(-9) AUC=0.765±0.010 F1=0.593 BA=0.694 MCC=0.411
+[  246.6s]   sens L_all         S1_chemistry           n= 716(-0) AUC=0.702±0.016 F1=0.672 BA=0.645 MCC=0.291
+[  253.5s]   sens L_all         S2_chem_plus_ambiguous n= 716(-0) AUC=0.708±0.011 F1=0.677 BA=0.648 MCC=0.297
+[  260.4s]   sens L_all         S3_all_minus_excluded  n= 716(-0) AUC=0.702±0.016 F1=0.672 BA=0.645 MCC=0.291
+[  267.0s]   sens L_drop_T1T2   S1_chemistry           n= 703(-13) AUC=0.704±0.021 F1=0.687 BA=0.647 MCC=0.296
+[  273.9s]   sens L_drop_T1T2   S2_chem_plus_ambiguous n= 703(-13) AUC=0.711±0.022 F1=0.697 BA=0.656 MCC=0.315
+[  280.6s]   sens L_drop_T1T2   S3_all_minus_excluded  n= 703(-13) AUC=0.704±0.021 F1=0.687 BA=0.647 MCC=0.296
+[  287.4s]   sens L_drop_flip   S1_chemistry           n= 698(-18) AUC=0.713±0.009 F1=0.695 BA=0.653 MCC=0.309
+[  294.2s]   sens L_drop_flip   S2_chem_plus_ambiguous n= 698(-18) AUC=0.720±0.007 F1=0.699 BA=0.659 MCC=0.320
+[  300.9s]   sens L_drop_flip   S3_all_minus_excluded  n= 698(-18) AUC=0.713±0.009 F1=0.695 BA=0.653 MCC=0.309
+[  300.9s] === 3. eye 진단 ===
+[  300.9s]  3-1 학습곡선(S1_chemistry)
+[  306.7s]    frac=0.2 AUC=0.572±0.058 F1=0.694 BA=0.541
+[  312.7s]    frac=0.4 AUC=0.613±0.044 F1=0.718 BA=0.576
+[  319.6s]    frac=0.6 AUC=0.620±0.048 F1=0.722 BA=0.570
+[  326.8s]    frac=0.8 AUC=0.630±0.040 F1=0.730 BA=0.584
+[  334.4s]    frac=1.0 AUC=0.645±0.036 F1=0.737 BA=0.591
+[  334.5s]  3-2 지문 표현 비교
+[  342.1s]    eye  desc_only(S1)      nf=  222 AUC=0.642±0.006 F1=0.739 BA=0.595 MCC=0.210
+[  350.9s]    eye  morgan_only        nf= 4096 AUC=0.652±0.010 F1=0.706 BA=0.594 MCC=0.193
+[  357.9s]    eye  maccs_only         nf=  334 AUC=0.642±0.005 F1=0.691 BA=0.587 MCC=0.175
+[  366.5s]    eye  S1+morgan          nf= 4318 AUC=0.666±0.003 F1=0.740 BA=0.609 MCC=0.234
+[  374.3s]    eye  S1+maccs           nf=  556 AUC=0.654±0.008 F1=0.742 BA=0.596 MCC=0.214
+[  383.4s]    eye  S1+morgan+maccs    nf= 4652 AUC=0.666±0.004 F1=0.735 BA=0.601 MCC=0.217
+[  391.6s]    skin desc_only(S1)      nf=  222 AUC=0.760±0.009 F1=0.586 BA=0.690 MCC=0.401
+[  400.6s]    skin morgan_only        nf= 4096 AUC=0.760±0.005 F1=0.626 BA=0.712 MCC=0.422
+[  407.9s]    skin maccs_only         nf=  334 AUC=0.756±0.006 F1=0.624 BA=0.712 MCC=0.426
+[  416.9s]    skin S1+morgan          nf= 4318 AUC=0.766±0.008 F1=0.596 BA=0.693 MCC=0.399
+[  425.3s]    skin S1+maccs           nf=  556 AUC=0.765±0.004 F1=0.605 BA=0.701 MCC=0.416
+[  434.4s]    skin S1+morgan+maccs    nf= 4652 AUC=0.770±0.004 F1=0.611 BA=0.703 MCC=0.414
+[  440.9s]    sens desc_only(S1)      nf=  222 AUC=0.698±0.016 F1=0.676 BA=0.651 MCC=0.302
+[  448.3s]    sens morgan_only        nf= 4096 AUC=0.644±0.017 F1=0.648 BA=0.594 MCC=0.193
+[  454.2s]    sens maccs_only         nf=  334 AUC=0.635±0.021 F1=0.653 BA=0.591 MCC=0.188
+[  461.0s]    sens S1+morgan          nf= 4318 AUC=0.695±0.016 F1=0.682 BA=0.650 MCC=0.302
+[  467.4s]    sens S1+maccs           nf=  556 AUC=0.689±0.013 F1=0.670 BA=0.641 MCC=0.284
+[  474.2s]    sens S1+morgan+maccs    nf= 4652 AUC=0.686±0.011 F1=0.676 BA=0.641 MCC=0.283
+[  474.2s]  3-3 eye 오분류 분석
+[  481.9s]    [y_eye_src]
+                 n  pos_rate  mean_wrong_of5  always_wrong_rate
+y_eye_src                                                      
+phase1_sds      22     0.227           2.455              0.409
+sds_2nd_sec11  106     0.292           2.415              0.349
+sds_v1         290     0.624           2.003              0.283
+ntp_measured   608     0.641           1.699              0.237
+sds_2nd        127     0.835           1.063              0.126
+[  481.9s]    [label_confidence_eye]
+                        n  pos_rate  mean_wrong_of5  always_wrong_rate
+label_confidence_eye                                                  
+low                    15     0.000           4.200              0.800
+medium                238     0.454           2.324              0.332
+high                  900     0.672           1.603              0.219
+[  481.9s]    [label_tier_eye]
+                      n  pos_rate  mean_wrong_of5  always_wrong_rate
+label_tier_eye                                                      
+CT_CONTRADICTION     13     0.000           4.538              0.769
+FLIP_pos_to_neg      13     0.000           4.077              0.769
+RECOVERED_negative   91     0.000           3.286              0.505
+NONE                900     0.672           1.603              0.219
+SOURCE_CONFLICT     131     0.824           1.420              0.168
+[  481.9s]    [formulation_type]
+                       n  pos_rate  mean_wrong_of5  always_wrong_rate
+formulation_type                                                     
+Concentrate           20     0.550           2.650              0.400
+액상수화제                 35     0.257           2.829              0.343
+수화제                   10     0.700           2.000              0.300
+__NA__               904     0.632           1.756              0.250
+종자처리수화제               16     0.188           2.812              0.250
+Granular / Granules   18     0.611           1.389              0.222
+입상수화제                 18     0.667           1.389              0.222
+유제                    23     0.826           1.435              0.217
+__RARE__              93     0.645           1.516              0.204
+Seed Treatment        10     0.600           2.600              0.200
+Aerosol / Fogger       6     0.667           0.833              0.167
+[  481.9s]    [form_code_best]
+                  n  pos_rate  mean_wrong_of5  always_wrong_rate
+form_code_best                                                  
+CS                6     0.500           2.833              0.333
+GR              172     0.610           1.924              0.273
+FS               41     0.341           2.390              0.268
+SL              352     0.682           1.759              0.253
+EC               91     0.692           1.923              0.253
+WP               16     0.750           1.562              0.250
+__NA__          246     0.638           1.589              0.244
+__RARE__         29     0.586           1.517              0.241
+SC              100     0.360           2.180              0.230
+RB               18     0.222           2.056              0.222
+WG               72     0.764           1.306              0.222
+AE               10     0.700           1.000              0.200
+[  481.9s]    [y_eye_conflict]
+                   n  pos_rate  mean_wrong_of5  always_wrong_rate
+y_eye_conflict                                                   
+False           1006     0.601           1.794              0.251
+True             147     0.735           1.728              0.238
+[  481.9s]  3-4 eye 라벨출처별 층화 성능
+[  481.9s]    ntp_measured             n= 608 prev=0.641 AUC=0.645
+[  481.9s]    phase1_sds               n=  22 prev=0.227 AUC=0.659
+[  481.9s]    sds_2nd                  n= 127 prev=0.835 AUC=0.815
+[  481.9s]    sds_2nd_sec11            n= 106 prev=0.292 AUC=0.618
+[  481.9s]    sds_v1                   n= 290 prev=0.624 AUC=0.584
+[  481.9s]  3-5 eye: 출처 단독(ntp_measured) 학습·평가
+[  487.4s]    ntp_measured             n= 608 AUC=0.649±0.010 F1=0.773(더미0.782) BA=0.584
+[  492.4s]    sds_v1                   n= 290 AUC=0.569±0.019 F1=0.696(더미0.769) BA=0.536
+[  497.1s]    sds_2nd                  n= 127 AUC=0.718±0.010 F1=0.880(더미0.910) BA=0.760
+[  497.1s]  3-6 eye tier 제한 진단 (테스트셋 변동 — 헤드라인 아님)
+[  504.5s]    all_labelled                   n=1153 prev=0.618 AUC=0.642±0.006 F1=0.737(더미0.764) BA=0.591 MCC=0.202
+[  511.0s]    tier_NONE_only                 n= 900 prev=0.672 AUC=0.709±0.014 F1=0.796(더미0.804) BA=0.616 MCC=0.268
+[  518.2s]    drop_recovered_flip_ctcontra   n=1031 prev=0.692 AUC=0.700±0.010 F1=0.805(더미0.818) BA=0.601 MCC=0.240
+[  525.5s]    drop_source_conflict           n=1022 prev=0.592 AUC=0.644±0.009 F1=0.722(더미0.744) BA=0.596 MCC=0.212
+[  525.5s] → /Users/hanseoyun/Desktop/260830/04_모델산출물/v5_perf/performance_report_v5.json
+[  525.5s] 완료

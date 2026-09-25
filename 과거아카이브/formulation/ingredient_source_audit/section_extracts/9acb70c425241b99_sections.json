@@ -1,0 +1,73 @@
+{
+  "source_id": "9acb70c425241b99",
+  "file_path": "ingredient_source_audit/highlighted/9acb70c425241b99_highlighted.pdf",
+  "page_count": 12,
+  "full_text_length": 19922,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "undertaking",
+    "formulation_code": "EC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification of the substance/mixture and of the company/ \nundertaking \n \n \n \n2 4 CHATH AM P LACE, BR IGH TON BN 1  3 TN  ( U K) \nTE L. ( U K) 0 8 4 5  3 1 0  80 6 6 \nFAX. ( U K) 0 8 4 5 3 1 0 80 6 8 \nI n t e r n a t i o n a l T e l . + 4 4 1 2 7 3 7 4 6 5 0 5 I n t . F a x . + 4 4 1 2 "
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H226",
+      "H315",
+      "H317",
+      "H304",
+      "H410"
+    ],
+    "p_codes": [
+      "P210",
+      "P241",
+      "P261",
+      "P280",
+      "P240",
+      "P233",
+      "P242",
+      "P273",
+      "P243",
+      "P264",
+      "P272",
+      "P301",
+      "P310",
+      "P303",
+      "P361",
+      "P353",
+      "P362",
+      "P363",
+      "P332",
+      "P313",
+      "P333",
+      "P331",
+      "P302",
+      "P352",
+      "P391",
+      "P405",
+      "P403",
+      "P235",
+      "P501"
+    ],
+    "ghs_classes": [
+      "explosion"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2: Hazards identification \nPage 3 / 11 \n38.0.2 \n \n \n· Hazard pictograms \n \n \n \n \n \nGHS02  GHS07  GHS08 \nGHS09 \n \n· Signal word Danger \n· Hazard-determining components of labelling: \nBergamot Oil \nINCI name: CITRUS AURANTIUM BERGAMIA EXTRACT \n· Hazard statements \nH226 Flammable liquid and vap"
+  },
+  "section_14": {
+    "un_number": "1169"
+  }
+}

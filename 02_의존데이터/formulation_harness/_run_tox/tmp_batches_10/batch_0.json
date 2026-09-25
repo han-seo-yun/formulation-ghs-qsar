@@ -1,0 +1,91 @@
+[
+  {
+    "row": 1304,
+    "product_name": "Flumethrin(95.1)",
+    "ingredient_names": " | Flumethrin",
+    "tox_source_url": "https://www.chemblink.com/MSDSFiles/69770-45-2Sigma-Aldrich.pdf",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/ordered_option_runs/highlighted_sources/G007_69770-45-2_ChemBlink_Sigma_highlighted.pdf",
+    "tox_signal_word": "danger",
+    "tox_h_statements": "H301 ;; H311 ;; H331 ;; H315 ;; H319 ;; H317",
+    "cat_eye_ghs": "2A",
+    "cat_skin_ghs": "2",
+    "cat_sens_ghs": "1",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "ok"
+  },
+  {
+    "row": 1305,
+    "product_name": "Flufenpyr-Ethyl-S-3153 Acid-4-OH",
+    "ingredient_names": " | Flufenpyr-ethyl",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1306,
+    "product_name": "GA 6-Weed to Grass Killer Ready-to-Use",
+    "ingredient_names": " | Glufosinate-ammonium",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1307,
+    "product_name": "Fontelis Fungicide",
+    "ingredient_names": "Penthiopyrad",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1308,
+    "product_name": "Gharda Permethrin (95.3)",
+    "ingredient_names": "Precautionary statements : Prevention: P261 Avoid breathing dust. P264 Wash skin thoroughly after handling. | Permethrin",
+    "tox_source_url": "https://www.chemblink.com/MSDSFiles/52645-53-1Sigma-Aldrich.pdf",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/ordered_option_runs/highlighted_sources/G003_52645-53-1_ChemBlink_Sigma_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "tox_h_statements": "H302 ;; H332 ;; H317 ;; H400 ;; H410",
+    "cat_sens_ghs": "1",
+    "sds_grade_status_eye": "not_stated",
+    "sds_grade_status_skin": "verdict_only",
+    "sds_grade_status_sens": "ok"
+  },
+  {
+    "row": 1309,
+    "product_name": "Gharda Permethrin (94)",
+    "ingredient_names": "Precautionary statements : Prevention: P261 Avoid breathing dust. P264 Wash skin thoroughly after handling. | Permethrin",
+    "tox_source_url": "https://www.chemblink.com/MSDSFiles/52645-53-1Sigma-Aldrich.pdf",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/ordered_option_runs/highlighted_sources/G003_52645-53-1_ChemBlink_Sigma_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "tox_h_statements": "H302 ;; H332 ;; H317 ;; H400 ;; H410",
+    "cat_sens_ghs": "1",
+    "sds_grade_status_eye": "not_stated",
+    "sds_grade_status_skin": "verdict_only",
+    "sds_grade_status_sens": "ok"
+  },
+  {
+    "row": 1311,
+    "product_name": "Imidacloprid + Tau-fluvalinate + Tebuconazole Ready-to-Use Insecticide, Miticide to Fungicide",
+    "ingredient_names": " | Tau-fluvalinate | Tebuconazole | Imidacloprid",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/2bdcdd3c73826a4b_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "sds_grade_status_eye": "verdict_only",
+    "sds_grade_status_skin": "not_stated",
+    "sds_grade_status_sens": "not_stated"
+  },
+  {
+    "row": 1312,
+    "product_name": "Lannate LV",
+    "ingredient_names": "COMPOSITION/INFORMATION ON INGREDIENTS ... Eye contact with Lannate SP may cause eye irritation with discomfort ... | Methomyl",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/805bea43809b1f79_highlighted.pdf",
+    "sds_grade_status_eye": "verdict_only",
+    "sds_grade_status_skin": "negative",
+    "sds_grade_status_sens": "negative"
+  }
+]

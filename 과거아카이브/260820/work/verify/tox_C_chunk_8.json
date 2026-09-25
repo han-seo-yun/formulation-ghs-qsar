@@ -1,0 +1,393 @@
+[
+ {
+  "row": 1401,
+  "product_name": "Britz Dryout Dust",
+  "ingredient_names": "| Sulfur, precipitated",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": "Warning(경고) - 다수 ECHA 통보 기준 / H315(피부자극, 2904건 중 99.7%); 일부 통보 H228(가연성고체), STOT SE1/RE2",
+  "메모": "제품 전용(Britz Dryout Dust) SDS를 찾지 못해 원료인 황(Sulfur, 순물질) ECHA/PubChem 집계자료로 대체함; 시트의 eye_ghs=1(심한 눈손상)과 순물질 자료(눈 관련 코드 확인 안됨)가 불일치할 수 있음",
+  "검증근거": "메모가 제품/성분 불일치를 진술 ; 피부 참조=Not classified 인데 H코드는 구분 2 를 지시",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/5362487"
+  ]
+ },
+ {
+  "row": 1405,
+  "product_name": "Cyprodinil",
+  "ingredient_names": "mol",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": "경고 (Warning) / H317(피부 알레르기 반응 유발 가능, 피부과민성); H400/H410(수생환경 유해, 구분1)",
+  "메모": "성분명이 'mol'로 불충분하나 제품명(Cyprodinil) 자체가 유효성분; 로컬 SDS 없어 ECHA/PubChem 조화분류로 확인함. 기존 힌트의 눈손상 구분1(cat_eye_ghs)은 확인된 자료(눈 자극성 미분류)와 불일치",
+  "검증근거": "메모가 제품/성분 불일치를 진술",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/86367"
+  ]
+ },
+ {
+  "row": 1419,
+  "product_name": "BAS 703 02 F Fungicide",
+  "ingredient_names": "PotassiumSaltsofFattyAcids | Pyraclostrobin | Fluxapyroxad",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "hint URL(alco-chem 'Slide' 액체비누 SDS)은 무관 제품(피라클로스트로빈/플루자피록사드 전혀 없음, 성분 불일치 확인). 실제 제품(BAS 703 02 F Fungicide Seed Treatment, Fluxapyroxad+Pyraclostrobin)은 Health Canada 문서 및 BASF 공식 SDS(download.basf.com, 문서ID 30863107)로 존재 확인되었으나 BASF SDS 링크는 만료(404)되어 직접 열람 불가. ingredient_names의 PotassiumSaltsofFattyAcids 성분 실 포함 여부는 확인 못함.",
+  "검증근거": "추출정보 공란 + 미분류 메모: hint URL(alco-chem 'Slide' 액체비누 SDS)은 무관",
+  "pdf_path": null,
+  "urls": [
+   "https://www.alco-chem.com/uploads/7/1/2/5/71257601/slide_0397-5_sds.pdf"
+  ]
+ },
+ {
+  "row": 1423,
+  "product_name": "TC-314",
+  "ingredient_names": "None",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "제공된 로컬 문서(Carl Roth, Trichloroacetic acid ≥99% p.a. 시약)는 트리클로로아세트산 단일물질 SDS로, 클로르페나피르·프랄레트린·피리프록시펜은 Section 3에 없음; 검색 제한으로 대체 SDS 못 찾음",
+  "검증근거": "추출정보 공란 + 출처 접근 실패(링크불가·403/404·로그인·못찾음)",
+  "pdf_path": null,
+  "urls": [
+   "https://www3.epa.gov/pesticides/chem_search/ppls/062719-00478-20030513.pdf"
+  ]
+ },
+ {
+  "row": 1424,
+  "product_name": "Cabrio EG Funcgicide",
+  "ingredient_names": "Pyraclostrobin | Content (W/W) | Ammonium sulphate | Content (W/W): > 10.0 | Silicon dioxide | Content (W/W): >= 10.0 - <= | Kaolin | Content (W/W): >= 3.0 - <= | sodium-di-ethyl-hexyl-sulfosuccinate ",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": "Warning / H315(피부자극); H335(호흡기자극 우려); H361(태아손상 우려); H302+H332(삼키거나 흡입 시 유해); H373(간/위장관/비강 손상 우려, 반복노출); H400/H410(수생생물 매우 유해, 장기적 영향)",
+  "메모": null,
+  "검증근거": "피부 참조=Not classified 인데 H코드는 구분 2 를 지시",
+  "pdf_path": null,
+  "urls": [
+   "https://assets.greenbook.net/20-02-33-14-02-2025-Cabrio_EG_-_sds_-_english.PDF"
+  ]
+ },
+ {
+  "row": 1428,
+  "product_name": "Armeen 2C",
+  "ingredient_names": "None",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / H314(Causes severe skin burns and eye damage); H318(Causes serious eye damage); H413(May cause long lasting harmful effects to aquatic life)",
+  "메모": "Armeen 2C = Dicocoalkylamines(Nouryon 공식 제품페이지로 정체 확인, CAS 61789-76-2). 공식 Nouryon SDS는 로그인/문의 필요로 미확보, ChemicalBook 등 3rd-party 집계 GHS 분류 데이터 사용",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://www.nouryon.com/product/armeen-2c-dicocoalkylamines/"
+  ]
+ },
+ {
+  "row": 1430,
+  "product_name": "Armeen TD",
+  "ingredient_names": "None",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / H302(Harmful if swallowed); H304(May be fatal if swallowed and enters airways); H314(Causes severe skin burns and eye damage); H373(May cause damage to organs through prolonged or repeated exposure); H410(Very toxic to aquatic life with long lasting effects)",
+  "메모": "Armeen TD = Tallowamine/Amines, tallow alkyl(CAS 61790-33-8), Nouryon 공식 제품페이지로 정체 확인. 공식 SDS는 로그인 필요로 미확보, ChemicalBook 3rd-party 집계 GHS 데이터 사용",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://www.nouryon.com/product/armeen-td-tallow-alkyl-amine/"
+  ]
+ },
+ {
+  "row": 1431,
+  "product_name": "Arquad 16-50",
+  "ingredient_names": "Precautionary Statements. : Prevention: P210 Keep away from heat/sparks/open flames/hot surfaces. -. No smoking. | Hexadecyl trimethyl ammonium chloride",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / H302(Harmful if swallowed); H314(Causes severe skin burns and eye damage); H315/H318/H319(skin/eye irritation-damage variants); H400/H410(Very toxic to aquatic life, long lasting effects)",
+  "메모": "Nouryon 공식 제품페이지에서 Arquad 16-50 = Hexadecyltrimethylammonium chloride(CAS 112-02-7) 확인, ingredient_names와 일치. 공식 SDS는 로그인 필요로 미확보, ChemicalBook 3rd-party 데이터 사용",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://www.nouryon.com/product/arquad-16-50-hexadecyltrimethylammonium-chloride/"
+  ]
+ },
+ {
+  "row": 1434,
+  "product_name": "boron trifluoride-acetic acid complex",
+  "ingredient_names": "| Acetic acid boron trifluoride (2:1)",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "정식 SDS 문서 대신 화학물질 DB(ChemBlink) 자료로 확인",
+  "검증근거": "추출정보 공란 + 미분류 메모: 정식 SDS 문서 대신 화학물질 DB(ChemBlink) 자료로 확인",
+  "pdf_path": null,
+  "urls": [
+   "https://www.chemblink.com/"
+  ]
+ },
+ {
+  "row": 1440,
+  "product_name": "Duoquad T50",
+  "ingredient_names": "None",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "ingredient_names 미제공되어 성분 대조 불가; 제품명(Nouryon Duoquad T-50)만으로 디탈로우디메틸암모늄클로라이드(CAS 61789-80-8) 추정, CAS DB 자료로 확인",
+  "검증근거": "추출정보 공란 + 출처 접근 실패(링크불가·403/404·로그인·못찾음)",
+  "pdf_path": null,
+  "urls": [
+   "https://www.chemblink.com/products/61789-80-8.htm"
+  ]
+ },
+ {
+  "row": 1442,
+  "product_name": "Empigen OB",
+  "ingredient_names": "| N,N-Dimethyldodecylamine-N-oxide",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "위험(Danger) - ECHA 자기분류 다수 기준(H315 88.7%, H318 81%); 일본 NITE는 경고(Warning)로 다소 상이 / H315(피부 자극), H318(심한 눈 손상), H302(삼키면 유해, 일부 자료 30.8%), H400/H410/H411/H412(수생환경 유해)",
+  "메모": "기존 힌트(safety365, SDS-1397-56bb10e71e8be0)는 코카미도프로필베타인 계열 SDS로 성분 불일치+로그인 필요; PubChem/ECHA 자기분류 집계(순물질 CAS 1643-20-5, 라우라민옥사이드)로 대체 확인함. Empigen OB 제품(30% 희석액) 자체의 정식 SDS는 찾지 못해 순물질 기준값임에 유의",
+  "검증근거": "메모가 제품/성분 불일치를 진술",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/15433/JSON/?heading=GHS+Classification"
+  ]
+ },
+ {
+  "row": 1451,
+  "product_name": "Proxel BD",
+  "ingredient_names": "| 1,2-Benzisothiazolin-3-one",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / H302, H315, H317, H318, H400, H410, H411 (ECHA 통합분류, 순수 BIT 기준, 보고빈도별 상이)",
+  "메모": "제조사(Lonza) 제품 SDS 문서 직접 접근 불가(웹검색 제한), PubChem/ECHA 통합분류(순수 활성성분 BIT 기준)로 대체 확인 - 실제 제품(희석 용액) 분류는 다를 수 있음",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/17520"
+  ]
+ },
+ {
+  "row": 1465,
+  "product_name": "Synprolam 35X2",
+  "ingredient_names": "Access Dow's Safety Data Sheet (SDS) database and search by product name, grade, or trade product code.",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "제공된 URL은 SDS가 아닌 특허문서(US5698101A)임 - 해당 특허는 Synprolam 35X2를 'C13/C15 지방족 아민 에톡실레이트(계면활성제, 유화제/디멀시파이어)'로 언급. EPA CompTox에 'Synprolam 35x20'(DTXSID901022583), 'Synprolam S 3406'(DTXSID4029804) 등 유사 동의어가 있으나 정확한 일치 및 독성정보(Section 11)는 찾지 못함",
+  "검증근거": "추출정보 공란 + 미분류 메모: 제공된 URL은 SDS가 아닌 특허문서(US5698101A)임 - 해당 ",
+  "pdf_path": null,
+  "urls": [
+   "https://patents.google.com/patent/US5698101A/en"
+  ]
+ },
+ {
+  "row": 1471,
+  "product_name": "Mixture of: 2-methyl-4-(2',2',3'-trimethyl-3'-cyclopenten-1'-yl)-4-penten-1-ol 56% (1'R,2R) & 40%(1'R,2S) isomer",
+  "ingredient_names": "2-Methyl-4-(2,2,3-trimethyl-3-cyclopenten-1-yl)-2-butenal | 3-Butenal, 2-methyl-4-(2,6,6-trimethyl-2-cyclohexen-1-yl)- | 2-Butenal, 2-ethyl-4-(2,2,3-trimethyl-3-cyclopenten-1-yl)- | 3-Methyl-4-(2,4,6-",
+  "tox_signal_word": "warning",
+  "tox_h_statements": "H208",
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "nextsds.com은 5개 이성질체 성분 중 1개(CAS 65114-01-4, 2-Methyl-4-(2,2,3-trimethyl-3-cyclopenten-1-yl)-2-butenal)만 등록된 물질 페이지이며 전체 성분 SDS Section 3는 확인 불가; REACH 분류상 전반적으로 'Not Classified'이고 H208(사실상 EUH208, 민감화 물질 함유 가능성)만 표시됨. 제품명은 알코올(-1-ol)인데 성분명은 알데히드/케톤(-al/-one) 계열로 표기가 달라 완전한 일치는 아님",
+  "검증근거": "추출정보 공란 + 출처 접근 실패(링크불가·403/404·로그인·못찾음)",
+  "pdf_path": null,
+  "urls": [
+   "https://nextsds.com/substances/65114-01-4-2-methyl-4-2-2-3-trimethyl-3-cyclopenten-1-yl-2-butenal"
+  ]
+ },
+ {
+  "row": 1472,
+  "product_name": "Mixture of: 5-exo-decylbicyclo[2.2.1]hept-2-ene; 5-endo-decylbicyclo [2.2.1]hept-2-ene",
+  "ingredient_names": "None",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "PubChem CID 21584941(5-decylbicyclo[2.2.1]hept-2-ene)로 명칭 일치 확인. TSCA PMN 물질로만 등재, 공개 GHS/독성분류 정보 없음",
+  "검증근거": "추출정보 공란 + 미분류 메모: PubChem CID 21584941(5-decylbicyclo[2.2.",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/21584941"
+  ]
+ },
+ {
+  "row": 1475,
+  "product_name": "Mixture of isomers: 1-(spiro[4.5]dec-7-en-7-yl)pent-4-en-1-one (CAS# 224031-70-3); 1-(spiro[4.5]dec-6-en-7-yl)pent-4-en-1-one (CAS# 224031-71-4)",
+  "ingredient_names": "| 1-Spiro[4.5]dec-7-en-7-yl-4-penten-1-one | 4-Penten-1-one, 1-spiro[4.5]dec-6-en-7-yl-",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "CAS 224031-70-3로 PubChem CID 15405344 확인(ingredient_names의 spiro[4.5]decenyl pentenone과 동일 골격/분자식 C15H22O 일치). TSCA PMN 물질로만 등재, 공개 GHS/독성분류 없음",
+  "검증근거": "추출정보 공란 + 출처 접근 실패(링크불가·403/404·로그인·못찾음)",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/15405344"
+  ]
+ },
+ {
+  "row": 1490,
+  "product_name": "Flumethrin",
+  "ingredient_names": "Molecular Weight: 510.38",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / H300/H301, H310/H311, H315, H317, H319, H330/H331, H335, H360, H370, H372, H400, H410",
+  "메모": "PubChem 통합자료 중 일부 출처(Safe Work Australia)는 H301만 표기하는 등 소스별 분류범위가 다름; 제공된 cat_skin_ghs('Not classified')와 달리 일부 소스는 H315(피부자극) 포함 — 참고용으로 기재",
+  "검증근거": "피부 참조=Not classified 인데 H코드는 구분 2 를 지시",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/91702"
+  ]
+ },
+ {
+  "row": 1511,
+  "product_name": "Bengal Dry Roach Spray",
+  "ingredient_names": "Permethrin | Other Ingredients | Pyriproxyfen",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": "Warning / Eye irritation Category 2B (causes eye irritation) ;; Acute Toxicity-Inhalation Category 4 (harmful if inhaled) ;; Flammable Aerosols Category 2 ;; Gases under pressure (compressed gas)",
+  "메모": "정확히 동일한 제품명은 못 찾았으나 동일 제조사(Bengal Products)의 'Bengal Gold Roach Spray' SDS가 성분(Permethrin 2.00%+Pyriproxyfen 0.05%, 눈자극 GHS 2B)까지 정확히 일치하여 대체 확인함",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://cdn.shopify.com/s/files/1/0327/4768/3980/files/Bengal_Gold_Roach_Spray_SDS.pdf?v=1725616609"
+  ]
+ },
+ {
+  "row": 1521,
+  "product_name": "Angelica seed oil",
+  "ingredient_names": "Angelica seed oil, cold pressed | Angelica seed oil, cold pressed",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "Section 11 전부 'Not Applicable'로 기재됨 (무독성/비유해 등급, GHS 분류 없음, 신호어 없음)",
+  "검증근거": "추출정보 공란 + 미분류 메모: Section 11 전부 'Not Applicable'로 기재됨 (무독성",
+  "pdf_path": null,
+  "urls": [
+   "https://files.plytix.com/api/v1.1/rn/public_files/pim/assets/96/f0/5c/64/645cf096b0a90000019bdc9c/texts/f9/1b/4e/65/654e1bf955ea2301af9e5d5e/MSDS%20-%20Angelica%20Seed%20Oil,%20Cold%20Pressed.pdf/K1164MSDS.pdf"
+  ]
+ },
+ {
+  "row": 1524,
+  "product_name": "Anise oil",
+  "ingredient_names": "None",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "None found (OSHA HCS 29 CFR 1910 기준 미분류) / None found",
+  "메모": null,
+  "검증근거": "신호어도 H코드도 파싱되지 않음",
+  "pdf_path": null,
+  "urls": [
+   "http://www.thegoodscentscompany.com/data/es1027991.html"
+  ]
+ },
+ {
+  "row": 1527,
+  "product_name": "Mimosa absolute",
+  "ingredient_names": "None",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "None found (GHS not classified under 29 CFR 1910/OSHA HCS) / None found",
+  "메모": null,
+  "검증근거": "신호어도 H코드도 파싱되지 않음",
+  "pdf_path": null,
+  "urls": [
+   "http://www.thegoodscentscompany.com/data/ab1661001.html"
+  ]
+ },
+ {
+  "row": 1534,
+  "product_name": "Grisalva",
+  "ingredient_names": "None",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "None found (GHS not classified under 29 CFR 1910/OSHA HCS) / None found",
+  "메모": "IFF 트레이드네임 합성 향료(앰버/가죽 계열, EPA TSCA 68611-23-4 관련 물질)",
+  "검증근거": "신호어도 H코드도 파싱되지 않음",
+  "pdf_path": null,
+  "urls": [
+   "http://www.thegoodscentscompany.com/data/rw1023391.html"
+  ]
+ },
+ {
+  "row": 1535,
+  "product_name": "Balsam, Canadian",
+  "ingredient_names": "Canada balsam, natural filtered",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "None found (GHS not classified under 29 CFR 1910/OSHA HCS) / None found",
+  "메모": "대체 검색어로 발견(Balsam Fir Canada = Canadian balsam oleoresin, 동일물질)",
+  "검증근거": "신호어도 H코드도 파싱되지 않음",
+  "pdf_path": null,
+  "urls": [
+   "http://www.thegoodscentscompany.com/data/ol1006601.html"
+  ]
+ }
+]

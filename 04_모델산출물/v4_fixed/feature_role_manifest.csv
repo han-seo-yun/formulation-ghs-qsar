@@ -1,0 +1,703 @@
+sheet,column,role,feature_role,exclude_by_default,dtype,n_notna,fill_pct,sds_coderived,role_reason,role_basis
+formulation,Formulation_ID,id,id,False,str,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,n_ingredients,feature,ambiguous,True,int64,1675,100.0,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,n_pct_known,feature,bookkeeping,True,int64,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,pct_sum_known,feature,ambiguous,True,float64,961,57.37,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,n_smiles,feature,bookkeeping,True,int64,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,n_structural_na,feature,bookkeeping,True,int64,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,n_smiles_ice,feature,bookkeeping,True,int64,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,align_ok,feature,bookkeeping,True,bool,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,n_ing_align_bad,feature,bookkeeping,True,int64,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,has_epa_target,feature,bookkeeping,True,bool,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,n_ing_active,feature,ambiguous,True,int64,1675,100.0,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,n_ing_total_known,feature,bookkeeping,True,int64,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,n_ing_missing,feature,bookkeeping,True,int64,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,active_pct_sum,feature,ambiguous,True,float64,1350,80.6,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,has_toxicity,feature,bookkeeping,True,bool,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,n_tox_endpoints,feature,bookkeeping,True,int64,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,tox_n_composition_rows,feature,bookkeeping,True,float64,564,33.67,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,has_ntp_label,feature,bookkeeping,True,bool,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,n_ntp_endpoints,feature,bookkeeping,True,int64,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,n_y_conflict,feature,bookkeeping,True,int64,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,sds_epa_eye_ambiguous,feature,bookkeeping,True,bool,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,sds_epa_skin_ambiguous,feature,bookkeeping,True,bool,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,ice_n_ingredients,feature,bookkeeping,True,int64,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,ice_n_smiles,feature,bookkeeping,True,int64,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,ice_active_pct_sum,feature,ambiguous,True,float64,1350,80.6,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,has_ghs_label,feature,bookkeeping,True,bool,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,is_mixture,feature,ambiguous,True,bool,1675,100.0,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,has_y,feature,bookkeeping,True,bool,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,trainable,feature,bookkeeping,True,bool,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,trainable_ntp,feature,bookkeeping,True,bool,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,trainable_ghs,feature,bookkeeping,True,bool,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,trainable_epa,feature,bookkeeping,True,bool,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,trainable_epa_any,feature,bookkeeping,True,bool,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,review_matched,feature,bookkeeping,True,bool,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,pc2_n_params,feature,bookkeeping,True,int64,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,pc2_n_items,feature,bookkeeping,True,int64,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,pc2_parse_ok,feature,bookkeeping,True,bool,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,pc2_ph_lo,feature,chemistry,False,float64,533,31.82,False,규칙 기본값,규칙 기본값
+formulation,pc2_ph_hi,feature,chemistry,False,float64,533,31.82,False,규칙 기본값,규칙 기본값
+formulation,ph_basis_pct,feature,ambiguous,True,float64,258,15.4,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,pc2_vp,feature,chemistry,False,float64,691,41.25,False,규칙 기본값,규칙 기본값
+formulation,pc2_ph,feature,chemistry,False,float64,533,31.82,False,규칙 기본값,규칙 기본값
+formulation,pc2_mp,feature,chemistry,False,float64,786,46.93,False,규칙 기본값,규칙 기본값
+formulation,pc2_evap,feature,chemistry,False,float64,13,0.78,False,규칙 기본값,규칙 기본값
+formulation,pc2_autoignition,feature,chemistry,False,float64,156,9.31,False,규칙 기본값,규칙 기본값
+formulation,pc2_vapdens,feature,chemistry,False,float64,25,1.49,False,규칙 기본값,규칙 기본값
+formulation,pc2_density,feature,chemistry,False,float64,723,43.16,False,규칙 기본값,규칙 기본값
+formulation,pc2_solubility,feature,chemistry,False,float64,607,36.24,False,규칙 기본값,규칙 기본값
+formulation,pc2_viscosity,feature,chemistry,False,float64,158,9.43,False,규칙 기본값,규칙 기본값
+formulation,pc2_fp,feature,chemistry,False,float64,430,25.67,False,규칙 기본값,규칙 기본값
+formulation,pc2_logkow,feature,chemistry,False,float64,666,39.76,False,규칙 기본값,규칙 기본값
+formulation,pc2_decomp,feature,chemistry,False,float64,130,7.76,False,규칙 기본값,규칙 기본값
+formulation,pc2_bp,feature,chemistry,False,float64,382,22.81,False,규칙 기본값,규칙 기본값
+formulation,t11_present,feature,bookkeeping,True,float64,1672,99.82,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,t11_gated,feature,bookkeeping,True,float64,1672,99.82,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,t11_ld50_oral,feature,label_coderived,True,float64,617,36.84,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry
+formulation,t11_ld50_oral_log,feature,label_coderived,True,float64,617,36.84,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry
+formulation,t11_ld50_oral_censored,feature,label_coderived,True,float64,617,36.84,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous
+formulation,t11_ld50_oral_n,feature,label_coderived,True,float64,1094,65.31,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping
+formulation,t11_ld50_oral_multi,feature,label_coderived,True,float64,1094,65.31,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping
+formulation,t11_ld50_oral_unparsed,feature,label_coderived,True,float64,1094,65.31,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping
+formulation,t11_acute_oral_ord,feature,label_coderived,True,float64,618,36.9,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry
+formulation,t11_ld50_dermal,feature,label_coderived,True,float64,531,31.7,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry
+formulation,t11_ld50_dermal_log,feature,label_coderived,True,float64,531,31.7,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry
+formulation,t11_ld50_dermal_censored,feature,label_coderived,True,float64,531,31.7,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous
+formulation,t11_ld50_dermal_n,feature,label_coderived,True,float64,1094,65.31,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping
+formulation,t11_ld50_dermal_multi,feature,label_coderived,True,float64,1094,65.31,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping
+formulation,t11_ld50_dermal_unparsed,feature,label_coderived,True,float64,1094,65.31,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping
+formulation,t11_acute_dermal_ord,feature,label_coderived,True,float64,342,20.42,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry
+formulation,t11_lc50_inhal,feature,label_coderived,True,float64,392,23.4,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry
+formulation,t11_lc50_inhal_log,feature,label_coderived,True,float64,392,23.4,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry
+formulation,t11_lc50_inhal_censored,feature,label_coderived,True,float64,392,23.4,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous
+formulation,t11_lc50_inhal_n,feature,label_coderived,True,float64,1094,65.31,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping
+formulation,t11_lc50_inhal_multi,feature,label_coderived,True,float64,1094,65.31,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping
+formulation,t11_lc50_inhal_unparsed,feature,label_coderived,True,float64,1094,65.31,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping
+formulation,t11_acute_inhal_ord,feature,label_coderived,True,float64,198,11.82,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry
+formulation,t11_carc_ord,feature,label_coderived,True,float64,229,13.67,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry
+formulation,t11_muta_ord,feature,label_coderived,True,float64,151,9.01,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry
+formulation,t11_repr_ord,feature,label_coderived,True,float64,161,9.61,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry
+formulation,t11_stot_se_ord,feature,label_coderived,True,float64,180,10.75,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry
+formulation,t11_stot_re_ord,feature,label_coderived,True,float64,170,10.15,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry
+formulation,t11_aspir_ord,feature,label_coderived,True,float64,127,7.58,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=chemistry
+formulation,f_n_ing,feature,ambiguous,True,int64,1675,100.0,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,f_n_pct_known,feature,bookkeeping,True,int64,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,f_pct_sum_known,feature,ambiguous,True,float64,1394,83.22,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,f_pct_coverage,feature,ambiguous,True,float64,1675,100.0,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,f_n_smiles,feature,bookkeeping,True,int64,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,f_smiles_coverage,feature,ambiguous,True,float64,1675,100.0,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,f_pct_with_structure,feature,ambiguous,True,float64,1394,83.22,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,f_shannon,feature,chemistry,False,float64,1394,83.22,False,규칙 기본값,규칙 기본값
+formulation,f_simpson,feature,chemistry,False,float64,1394,83.22,False,규칙 기본값,규칙 기본값
+formulation,f_max_pct,feature,chemistry,False,float64,1394,83.22,False,규칙 기본값,규칙 기본값
+formulation,f_MolWt_mean,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_MolWt_max,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_MolWt_min,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_MolWt_range,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_MolWt_std,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_MolWt_wmean,feature,chemistry,False,float64,1256,74.99,False,규칙 기본값,규칙 기본값
+formulation,f_MolLogP_mean,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_MolLogP_max,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_MolLogP_min,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_MolLogP_range,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_MolLogP_std,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_MolLogP_wmean,feature,chemistry,False,float64,1256,74.99,False,규칙 기본값,규칙 기본값
+formulation,f_TPSA_mean,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_TPSA_max,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_TPSA_min,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_TPSA_range,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_TPSA_std,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_TPSA_wmean,feature,chemistry,False,float64,1256,74.99,False,규칙 기본값,규칙 기본값
+formulation,f_NumHDonors_mean,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumHDonors_max,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumHDonors_min,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumHDonors_range,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumHDonors_std,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumHDonors_wmean,feature,chemistry,False,float64,1256,74.99,False,규칙 기본값,규칙 기본값
+formulation,f_NumHAcceptors_mean,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumHAcceptors_max,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumHAcceptors_min,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumHAcceptors_range,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumHAcceptors_std,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumHAcceptors_wmean,feature,chemistry,False,float64,1256,74.99,False,규칙 기본값,규칙 기본값
+formulation,f_NumRotatableBonds_mean,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumRotatableBonds_max,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumRotatableBonds_min,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumRotatableBonds_range,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumRotatableBonds_std,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumRotatableBonds_wmean,feature,chemistry,False,float64,1256,74.99,False,규칙 기본값,규칙 기본값
+formulation,f_NumAromaticRings_mean,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumAromaticRings_max,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumAromaticRings_min,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumAromaticRings_range,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumAromaticRings_std,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumAromaticRings_wmean,feature,chemistry,False,float64,1256,74.99,False,규칙 기본값,규칙 기본값
+formulation,f_FractionCSP3_mean,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_FractionCSP3_max,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_FractionCSP3_min,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_FractionCSP3_range,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_FractionCSP3_std,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_FractionCSP3_wmean,feature,chemistry,False,float64,1256,74.99,False,규칙 기본값,규칙 기본값
+formulation,f_MolMR_mean,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_MolMR_max,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_MolMR_min,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_MolMR_range,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_MolMR_std,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_MolMR_wmean,feature,chemistry,False,float64,1256,74.99,False,규칙 기본값,규칙 기본값
+formulation,f_LabuteASA_mean,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_LabuteASA_max,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_LabuteASA_min,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_LabuteASA_range,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_LabuteASA_std,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_LabuteASA_wmean,feature,chemistry,False,float64,1256,74.99,False,규칙 기본값,규칙 기본값
+formulation,f_BertzCT_mean,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_BertzCT_max,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_BertzCT_min,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_BertzCT_range,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_BertzCT_std,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_BertzCT_wmean,feature,chemistry,False,float64,1256,74.99,False,규칙 기본값,규칙 기본값
+formulation,f_Kappa2_mean,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_Kappa2_max,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_Kappa2_min,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_Kappa2_range,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_Kappa2_std,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_Kappa2_wmean,feature,chemistry,False,float64,1256,74.99,False,규칙 기본값,규칙 기본값
+formulation,f_HallKierAlpha_mean,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_HallKierAlpha_max,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_HallKierAlpha_min,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_HallKierAlpha_range,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_HallKierAlpha_std,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_HallKierAlpha_wmean,feature,chemistry,False,float64,1256,74.99,False,규칙 기본값,규칙 기본값
+formulation,f_MaxAbsPartialCharge_mean,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_MaxAbsPartialCharge_max,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_MaxAbsPartialCharge_min,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_MaxAbsPartialCharge_range,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_MaxAbsPartialCharge_std,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_MaxAbsPartialCharge_wmean,feature,chemistry,False,float64,1254,74.87,False,규칙 기본값,규칙 기본값
+formulation,f_logKp_pottsguy_mean,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_logKp_pottsguy_max,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_logKp_pottsguy_min,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_logKp_pottsguy_range,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_logKp_pottsguy_std,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_logKp_pottsguy_wmean,feature,chemistry,False,float64,1256,74.99,False,규칙 기본값,규칙 기본값
+formulation,f_max_alkyl_chain_mean,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_max_alkyl_chain_max,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_max_alkyl_chain_min,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_max_alkyl_chain_range,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_max_alkyl_chain_std,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_max_alkyl_chain_wmean,feature,chemistry,False,float64,1256,74.99,False,규칙 기본값,규칙 기본값
+formulation,f_n_structural_alerts_mean,feature,chemistry,False,float64,1450,86.57,False,성분 역할별 개수 → 조성/커버리지 혼재,성분 역할별 개수 → 조성/커버리지 혼재
+formulation,f_n_structural_alerts_max,feature,chemistry,False,float64,1450,86.57,False,성분 역할별 개수 → 조성/커버리지 혼재,성분 역할별 개수 → 조성/커버리지 혼재
+formulation,f_n_structural_alerts_min,feature,chemistry,False,float64,1450,86.57,False,성분 역할별 개수 → 조성/커버리지 혼재,성분 역할별 개수 → 조성/커버리지 혼재
+formulation,f_n_structural_alerts_range,feature,chemistry,False,float64,1450,86.57,False,성분 역할별 개수 → 조성/커버리지 혼재,성분 역할별 개수 → 조성/커버리지 혼재
+formulation,f_n_structural_alerts_std,feature,chemistry,False,float64,1450,86.57,False,성분 역할별 개수 → 조성/커버리지 혼재,성분 역할별 개수 → 조성/커버리지 혼재
+formulation,f_n_structural_alerts_wmean,feature,chemistry,False,float64,1256,74.99,False,성분 역할별 개수 → 조성/커버리지 혼재,성분 역할별 개수 → 조성/커버리지 혼재
+formulation,f_NumHeteroatoms_mean,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumHeteroatoms_max,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumHeteroatoms_min,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumHeteroatoms_range,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumHeteroatoms_std,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_NumHeteroatoms_wmean,feature,chemistry,False,float64,1256,74.99,False,규칙 기본값,규칙 기본값
+formulation,f_RingCount_mean,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_RingCount_max,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_RingCount_min,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_RingCount_range,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_RingCount_std,feature,chemistry,False,float64,1450,86.57,False,규칙 기본값,규칙 기본값
+formulation,f_RingCount_wmean,feature,chemistry,False,float64,1256,74.99,False,규칙 기본값,규칙 기본값
+formulation,f_pct_active_presumed,feature,chemistry,False,float64,1394,83.22,False,규칙 기본값,규칙 기본값
+formulation,f_n_active_presumed,feature,ambiguous,True,int64,1675,100.0,False,성분 역할별 개수 → 조성/커버리지 혼재,성분 역할별 개수 → 조성/커버리지 혼재
+formulation,f_pct_water,feature,chemistry,False,float64,1394,83.22,False,규칙 기본값,규칙 기본값
+formulation,f_n_water,feature,ambiguous,True,int64,1675,100.0,False,성분 역할별 개수 → 조성/커버리지 혼재,성분 역할별 개수 → 조성/커버리지 혼재
+formulation,f_pct_surfactant,feature,chemistry,False,float64,1394,83.22,False,규칙 기본값,규칙 기본값
+formulation,f_n_surfactant,feature,ambiguous,True,int64,1675,100.0,False,성분 역할별 개수 → 조성/커버리지 혼재,성분 역할별 개수 → 조성/커버리지 혼재
+formulation,f_pct_solvent,feature,chemistry,False,float64,1394,83.22,False,규칙 기본값,규칙 기본값
+formulation,f_n_solvent,feature,ambiguous,True,int64,1675,100.0,False,성분 역할별 개수 → 조성/커버리지 혼재,성분 역할별 개수 → 조성/커버리지 혼재
+formulation,f_pct_synergist,feature,chemistry,False,float64,1394,83.22,False,규칙 기본값,규칙 기본값
+formulation,f_n_synergist,feature,ambiguous,True,int64,1675,100.0,False,성분 역할별 개수 → 조성/커버리지 혼재,성분 역할별 개수 → 조성/커버리지 혼재
+formulation,f_pct_carrier_inert,feature,chemistry,False,float64,1394,83.22,False,규칙 기본값,규칙 기본값
+formulation,f_n_carrier_inert,feature,ambiguous,True,int64,1675,100.0,False,성분 역할별 개수 → 조성/커버리지 혼재,성분 역할별 개수 → 조성/커버리지 혼재
+formulation,f_pct_propellant,feature,chemistry,False,float64,1394,83.22,False,규칙 기본값,규칙 기본값
+formulation,f_n_propellant,feature,ambiguous,True,int64,1675,100.0,False,성분 역할별 개수 → 조성/커버리지 혼재,성분 역할별 개수 → 조성/커버리지 혼재
+formulation,f_pct_ph_adjuster,feature,chemistry,False,float64,1394,83.22,False,규칙 기본값,규칙 기본값
+formulation,f_n_ph_adjuster,feature,ambiguous,True,int64,1675,100.0,False,성분 역할별 개수 → 조성/커버리지 혼재,성분 역할별 개수 → 조성/커버리지 혼재
+formulation,f_pct_preservative,feature,chemistry,False,float64,1394,83.22,False,규칙 기본값,규칙 기본값
+formulation,f_n_preservative,feature,ambiguous,True,int64,1675,100.0,False,성분 역할별 개수 → 조성/커버리지 혼재,성분 역할별 개수 → 조성/커버리지 혼재
+formulation,f_n_thickener,feature,ambiguous,True,int64,1675,100.0,False,성분 역할별 개수 → 조성/커버리지 혼재,성분 역할별 개수 → 조성/커버리지 혼재
+formulation,f_pct_fragrance_dye,feature,chemistry,False,float64,1394,83.22,False,규칙 기본값,규칙 기본값
+formulation,f_n_fragrance_dye,feature,ambiguous,True,int64,1675,100.0,False,성분 역할별 개수 → 조성/커버리지 혼재,성분 역할별 개수 → 조성/커버리지 혼재
+formulation,f_pct_unknown,feature,chemistry,False,float64,1394,83.22,False,규칙 기본값,규칙 기본값
+formulation,f_n_unknown,feature,ambiguous,True,int64,1675,100.0,False,성분 역할별 개수 → 조성/커버리지 혼재,성분 역할별 개수 → 조성/커버리지 혼재
+formulation,f_pct_surf_anionic,feature,chemistry,False,float64,1394,83.22,False,규칙 기본값,규칙 기본값
+formulation,f_n_surf_anionic,feature,ambiguous,True,int64,1675,100.0,False,성분 역할별 개수 → 조성/커버리지 혼재,성분 역할별 개수 → 조성/커버리지 혼재
+formulation,f_pct_surf_cationic,feature,chemistry,False,float64,1394,83.22,False,규칙 기본값,규칙 기본값
+formulation,f_n_surf_cationic,feature,ambiguous,True,int64,1675,100.0,False,성분 역할별 개수 → 조성/커버리지 혼재,성분 역할별 개수 → 조성/커버리지 혼재
+formulation,f_pct_surf_nonionic,feature,chemistry,False,float64,1394,83.22,False,규칙 기본값,규칙 기본값
+formulation,f_n_surf_nonionic,feature,ambiguous,True,int64,1675,100.0,False,성분 역할별 개수 → 조성/커버리지 혼재,성분 역할별 개수 → 조성/커버리지 혼재
+formulation,f_pct_surf_total,feature,chemistry,False,float64,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,f_surf_anionic_nonionic,feature,chemistry,False,float64,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,f_surf_charge_imbalance,feature,chemistry,False,float64,48,2.87,False,규칙 기본값,규칙 기본값
+formulation,f_pct_active,feature,chemistry,False,float64,1394,83.22,False,규칙 기본값,규칙 기본값
+formulation,f_solvent_x_logp,feature,chemistry,False,float64,1256,74.99,False,규칙 기본값,규칙 기본값
+formulation,f_surf_x_logp,feature,chemistry,False,float64,1256,74.99,False,규칙 기본값,규칙 기본값
+formulation,f_surf_x_logkp,feature,chemistry,False,float64,1256,74.99,False,규칙 기본값,규칙 기본값
+formulation,f_has_synergist,feature,chemistry,False,int64,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,f_tanimoto_mean,feature,chemistry,False,float64,892,53.25,False,규칙 기본값,규칙 기본값
+formulation,f_tanimoto_max,feature,chemistry,False,float64,892,53.25,False,규칙 기본값,규칙 기본값
+formulation,f_tanimoto_min,feature,chemistry,False,float64,892,53.25,False,규칙 기본값,규칙 기본값
+formulation,f_ct_eye_s1,feature,chemistry,False,float64,729,43.52,False,규칙 기본값,규칙 기본값
+formulation,f_ct_eye_s2,feature,chemistry,False,float64,721,43.04,False,규칙 기본값,규칙 기본값
+formulation,f_ct_eye_add,feature,chemistry,False,float64,685,40.9,False,규칙 기본값,규칙 기본값
+formulation,f_ct_eye_n_known,feature,ambiguous,True,int64,1675,100.0,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,f_ct_eye_coverage,feature,ambiguous,True,float64,1675,100.0,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,f_ct_skin_s1,feature,chemistry,False,float64,757,45.19,False,규칙 기본값,규칙 기본값
+formulation,f_ct_skin_s2,feature,chemistry,False,float64,737,44.0,False,규칙 기본값,규칙 기본값
+formulation,f_ct_skin_add,feature,chemistry,False,float64,720,42.99,False,규칙 기본값,규칙 기본값
+formulation,f_ct_skin_n_known,feature,ambiguous,True,int64,1675,100.0,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,f_ct_skin_coverage,feature,ambiguous,True,float64,1675,100.0,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,f_ct_sens_s1,feature,chemistry,False,float64,730,43.58,False,규칙 기본값,규칙 기본값
+formulation,f_ct_sens_add,feature,chemistry,False,float64,730,43.58,False,규칙 기본값,규칙 기본값
+formulation,f_ct_sens_n_known,feature,ambiguous,True,int64,1675,100.0,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,f_ct_sens_coverage,feature,ambiguous,True,float64,1675,100.0,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,pct_sum_known_raw,feature,bookkeeping,True,float64,982,58.63,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,n_pct_known_raw,feature,bookkeeping,True,int64,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,pct_repaired,feature,bookkeeping,True,bool,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,ph_best,feature,chemistry,False,float64,534,31.88,False,규칙 기본값,규칙 기본값
+formulation,ct_not_applicable,feature,chemistry,False,bool,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,ct_eye_ord,feature,chemistry,False,float64,774,46.21,False,규칙 기본값,규칙 기본값
+formulation,ct_skin_ord,feature,chemistry,False,float64,775,46.27,False,규칙 기본값,규칙 기본값
+formulation,ct_sens_ord,feature,chemistry,False,float64,776,46.33,False,규칙 기본값,규칙 기본값
+formulation,f_ct_eye_ord,feature,chemistry,False,float64,774,46.21,False,규칙 기본값,규칙 기본값
+formulation,f_ct_skin_ord,feature,chemistry,False,float64,775,46.27,False,규칙 기본값,규칙 기본값
+formulation,f_ct_sens_ord,feature,chemistry,False,float64,776,46.33,False,규칙 기본값,규칙 기본값
+ingredient,Formulation_ID,id,id,False,str,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,ing_idx,id,id,False,int64,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,pct_value,feature,chemistry,False,float64,2053,38.83,False,규칙 기본값,규칙 기본값
+ingredient,align_ok,feature,bookkeeping,True,bool,5287,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+ingredient,has_toxicity,feature,bookkeeping,True,bool,5287,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+ingredient,has_ghs_label,feature,bookkeeping,True,bool,5287,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+ingredient,has_ntp_label,feature,bookkeeping,True,bool,5287,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+ingredient,has_y,feature,bookkeeping,True,bool,5287,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+ingredient,trainable,feature,bookkeeping,True,bool,5287,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+ingredient,trainable_ntp,feature,bookkeeping,True,bool,5287,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+ingredient,trainable_ghs,feature,bookkeeping,True,bool,5287,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+ingredient,ing2_pct_value,feature,chemistry,False,float64,2537,47.99,False,규칙 기본값,규칙 기본값
+ingredient,ing2_pct_lo,feature,chemistry,False,float64,2537,47.99,False,규칙 기본값,규칙 기본값
+ingredient,ing2_pct_hi,feature,chemistry,False,float64,2537,47.99,False,규칙 기본값,규칙 기본값
+ingredient,ing2_parse_ok,feature,bookkeeping,True,bool,5287,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+ingredient,ing_pct_best,feature,chemistry,False,float64,3166,59.88,False,규칙 기본값,규칙 기본값
+ingredient,june_audit_recovered,feature,bookkeeping,True,bool,5287,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+ingredient,ing_name_corrected,feature,chemistry,False,bool,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,ing_cas_corrected,feature,chemistry,False,bool,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,ing_pct_raw,feature,bookkeeping,True,float64,3499,66.18,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+ingredient,pct_repaired,feature,bookkeeping,True,bool,5287,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+ingredient,ing_pct_rank,feature,chemistry,False,float64,3166,59.88,False,규칙 기본값,규칙 기본값
+ingredient,ing_is_max_pct,feature,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,MolWt,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,ExactMolWt,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,MolLogP,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,MolMR,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,TPSA,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,NumHDonors,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,NumHAcceptors,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,NumRotatableBonds,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,NumAromaticRings,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,NumAliphaticRings,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,RingCount,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,FractionCSP3,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,HeavyAtomCount,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,NumHeteroatoms,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,NOCount,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,NHOHCount,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,NumSaturatedRings,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,LabuteASA,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,BalabanJ,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,BertzCT,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,Chi0v,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,Chi1v,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,Kappa1,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,Kappa2,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,Kappa3,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,HallKierAlpha,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,MaxPartialCharge,feature,chemistry,False,float64,3560,67.33,False,규칙 기본값,규칙 기본값
+ingredient,MinPartialCharge,feature,chemistry,False,float64,3560,67.33,False,규칙 기본값,규칙 기본값
+ingredient,MaxAbsPartialCharge,feature,chemistry,False,float64,3560,67.33,False,규칙 기본값,규칙 기본값
+ingredient,NumValenceElectrons,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,qed,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,n_structural_alerts,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,formal_charge,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,n_pos_atoms,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,n_neg_atoms,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,is_ionic,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,n_fragments,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,has_metal,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,logKp_pottsguy,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,max_alkyl_chain,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,has_aldehyde,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,has_alkoxide_hydroxide,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,has_amine_prim,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,has_amine_tert,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,has_anhydride,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,has_carboxylate,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,has_carboxylic_acid,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,has_epoxide,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,has_halo_aromatic,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,has_long_alkyl,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,has_michael_acceptor,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,has_peo_chain,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,has_phenol,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,has_phosphate_ester,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,has_quat_ammonium,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,has_strong_acid_grp,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,has_sulfate,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,has_sulfonate,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,has_thiol,feature,chemistry,False,float64,3580,67.71,False,규칙 기본값,규칙 기본값
+ingredient,desc_ok,feature,chemistry,False,bool,5287,100.0,False,규칙 기본값,규칙 기본값
+formulation,pct_sum_known_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,active_pct_sum_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,tox_n_composition_rows_isna,feature_derived,bookkeeping,True,int8,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,ice_active_pct_sum_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,pc2_ph_lo_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,pc2_ph_hi_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,ph_basis_pct_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,pc2_vp_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,pc2_ph_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,pc2_mp_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,pc2_autoignition_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,pc2_density_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,pc2_solubility_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,pc2_viscosity_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,pc2_fp_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,pc2_logkow_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,pc2_decomp_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,pc2_bp_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,t11_ld50_oral_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous
+formulation,t11_ld50_oral_log_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous
+formulation,t11_ld50_oral_censored_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous
+formulation,t11_ld50_oral_n_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping
+formulation,t11_ld50_oral_multi_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping
+formulation,t11_ld50_oral_unparsed_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping
+formulation,t11_acute_oral_ord_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous
+formulation,t11_ld50_dermal_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous
+formulation,t11_ld50_dermal_log_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous
+formulation,t11_ld50_dermal_censored_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous
+formulation,t11_ld50_dermal_n_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping
+formulation,t11_ld50_dermal_multi_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping
+formulation,t11_ld50_dermal_unparsed_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping
+formulation,t11_acute_dermal_ord_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous
+formulation,t11_lc50_inhal_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous
+formulation,t11_lc50_inhal_log_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous
+formulation,t11_lc50_inhal_censored_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous
+formulation,t11_lc50_inhal_n_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping
+formulation,t11_lc50_inhal_multi_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping
+formulation,t11_lc50_inhal_unparsed_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=bookkeeping
+formulation,t11_acute_inhal_ord_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous
+formulation,t11_carc_ord_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous
+formulation,t11_muta_ord_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous
+formulation,t11_repr_ord_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous
+formulation,t11_stot_se_ord_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous
+formulation,t11_stot_re_ord_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous
+formulation,t11_aspir_ord_isna,feature_derived,label_coderived,True,int8,1675,100.0,True,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous,라벨공생성(C3): lib_tox11.parse_tox11() 이 y 출처 sds_2nd_sec11 라벨(t11_*_label)과 동일한 SDS Section 11 텍스트를 동일 파서로 추출한 열 → 물리화학 독립측정값이 아니므로 기본 배제 + ablation 대상. 직전 역할=ambiguous
+formulation,f_pct_sum_known_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,f_pct_with_structure_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,명시 애매목록(AMBIGUOUS_FEATS),명시 애매목록(AMBIGUOUS_FEATS)
+formulation,f_shannon_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_simpson_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_max_pct_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MolWt_mean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MolWt_max_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MolWt_min_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MolWt_range_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MolWt_std_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MolWt_wmean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MolLogP_mean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MolLogP_max_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MolLogP_min_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MolLogP_range_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MolLogP_std_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MolLogP_wmean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_TPSA_mean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_TPSA_max_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_TPSA_min_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_TPSA_range_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_TPSA_std_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_TPSA_wmean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumHDonors_mean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumHDonors_max_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumHDonors_min_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumHDonors_range_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumHDonors_std_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumHDonors_wmean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumHAcceptors_mean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumHAcceptors_max_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumHAcceptors_min_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumHAcceptors_range_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumHAcceptors_std_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumHAcceptors_wmean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumRotatableBonds_mean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumRotatableBonds_max_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumRotatableBonds_min_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumRotatableBonds_range_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumRotatableBonds_std_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumRotatableBonds_wmean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumAromaticRings_mean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumAromaticRings_max_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumAromaticRings_min_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumAromaticRings_range_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumAromaticRings_std_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumAromaticRings_wmean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_FractionCSP3_mean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_FractionCSP3_max_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_FractionCSP3_min_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_FractionCSP3_range_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_FractionCSP3_std_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_FractionCSP3_wmean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MolMR_mean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MolMR_max_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MolMR_min_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MolMR_range_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MolMR_std_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MolMR_wmean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_LabuteASA_mean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_LabuteASA_max_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_LabuteASA_min_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_LabuteASA_range_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_LabuteASA_std_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_LabuteASA_wmean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_BertzCT_mean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_BertzCT_max_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_BertzCT_min_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_BertzCT_range_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_BertzCT_std_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_BertzCT_wmean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_Kappa2_mean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_Kappa2_max_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_Kappa2_min_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_Kappa2_range_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_Kappa2_std_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_Kappa2_wmean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_HallKierAlpha_mean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_HallKierAlpha_max_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_HallKierAlpha_min_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_HallKierAlpha_range_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_HallKierAlpha_std_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_HallKierAlpha_wmean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MaxAbsPartialCharge_mean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MaxAbsPartialCharge_max_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MaxAbsPartialCharge_min_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MaxAbsPartialCharge_range_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MaxAbsPartialCharge_std_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_MaxAbsPartialCharge_wmean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_logKp_pottsguy_mean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_logKp_pottsguy_max_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_logKp_pottsguy_min_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_logKp_pottsguy_range_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_logKp_pottsguy_std_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_logKp_pottsguy_wmean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_max_alkyl_chain_mean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_max_alkyl_chain_max_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_max_alkyl_chain_min_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_max_alkyl_chain_range_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_max_alkyl_chain_std_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_max_alkyl_chain_wmean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_n_structural_alerts_mean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_n_structural_alerts_max_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_n_structural_alerts_min_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_n_structural_alerts_range_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_n_structural_alerts_std_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_n_structural_alerts_wmean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumHeteroatoms_mean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumHeteroatoms_max_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumHeteroatoms_min_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumHeteroatoms_range_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumHeteroatoms_std_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_NumHeteroatoms_wmean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_RingCount_mean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_RingCount_max_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_RingCount_min_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_RingCount_range_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_RingCount_std_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_RingCount_wmean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_pct_active_presumed_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_pct_water_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_pct_surfactant_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_pct_solvent_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_pct_synergist_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_pct_carrier_inert_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_pct_propellant_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_pct_ph_adjuster_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_pct_preservative_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_pct_thickener_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_pct_fragrance_dye_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_pct_unknown_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_pct_surf_anionic_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_pct_surf_cationic_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_pct_surf_nonionic_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_pct_surf_amphoteric_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_surf_charge_imbalance_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_pct_active_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_solvent_x_logp_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_surf_x_logp_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_surf_x_logkp_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_tanimoto_mean_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_tanimoto_max_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_tanimoto_min_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_ct_eye_s1_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_ct_eye_s2_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_ct_eye_add_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_ct_skin_s1_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_ct_skin_s2_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_ct_skin_add_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_ct_sens_s1_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_ct_sens_s2_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_ct_sens_add_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,pct_sum_known_raw_isna,feature_derived,bookkeeping,True,int8,1675,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+formulation,ph_best_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,ct_eye_ord_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,ct_skin_ord_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,ct_sens_ord_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_ct_eye_ord_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_ct_skin_ord_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,f_ct_sens_ord_isna,feature_derived,ambiguous,True,int8,1675,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+formulation,form_code_best_AE,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,form_code_best_CS,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,form_code_best_EC,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,form_code_best_FS,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,form_code_best_GR,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,form_code_best_RB,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,form_code_best_SC,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,form_code_best_SL,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,form_code_best_WG,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,form_code_best_WP,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,form_code_best___NA__,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,form_code_best___RARE__,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,pc2_physical_state___NA__,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,pc2_physical_state___RARE__,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,pc2_physical_state_crystalline_solid,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,pc2_physical_state_dispersion,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,pc2_physical_state_granule,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,pc2_physical_state_liquid,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,pc2_physical_state_powder,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,pc2_physical_state_solid,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,pc2_solubility_qual___NA__,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,pc2_solubility_qual_dispersible,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,pc2_solubility_qual_insoluble,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,pc2_solubility_qual_miscible,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,pc2_solubility_qual_slightly_soluble,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,pc2_solubility_qual_soluble,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,formulation_type_Aerosol / Fogger,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,formulation_type_Concentrate,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,formulation_type_Granular / Granules,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,formulation_type_Seed Treatment,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,formulation_type___NA__,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,formulation_type___RARE__,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,formulation_type_수화제,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,formulation_type_액상수화제,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,formulation_type_유제,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,formulation_type_입상수화제,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,formulation_type_종자처리수화제,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,f_ct_eye_cat_1,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,f_ct_eye_cat_2A,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,f_ct_eye_cat_NC,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,f_ct_eye_cat___NA__,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,f_ct_skin_cat_1,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,f_ct_skin_cat_2,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,f_ct_skin_cat_NC,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,f_ct_skin_cat___NA__,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,f_ct_sens_cat_1,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,f_ct_sens_cat_NC,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+formulation,f_ct_sens_cat___NA__,feature_derived,chemistry,False,int8,1675,100.0,False,규칙 기본값,규칙 기본값
+ingredient,pct_value_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,ing2_pct_value_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,ing2_pct_lo_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,ing2_pct_hi_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,ing_pct_best_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,ing_pct_raw_isna,feature_derived,bookkeeping,True,int8,5287,100.0,False,명시 부기목록(BOOKKEEPING_FEATS),명시 부기목록(BOOKKEEPING_FEATS)
+ingredient,ing_pct_rank_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,MolWt_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,ExactMolWt_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,MolLogP_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,MolMR_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,TPSA_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,NumHDonors_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,NumHAcceptors_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,NumRotatableBonds_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,NumAromaticRings_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,NumAliphaticRings_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,RingCount_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,FractionCSP3_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,HeavyAtomCount_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,NumHeteroatoms_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,NOCount_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,NHOHCount_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,NumSaturatedRings_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,LabuteASA_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,BalabanJ_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,BertzCT_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,Chi0v_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,Chi1v_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,Kappa1_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,Kappa2_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,Kappa3_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,HallKierAlpha_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,MaxPartialCharge_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,MinPartialCharge_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,MaxAbsPartialCharge_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,NumValenceElectrons_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,qed_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,n_structural_alerts_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,formal_charge_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,n_pos_atoms_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,n_neg_atoms_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,is_ionic_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,n_fragments_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_metal_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,logKp_pottsguy_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,max_alkyl_chain_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_acyl_halide_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_aldehyde_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_alkoxide_hydroxide_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_amine_prim_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_amine_tert_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_anhydride_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_betaine_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_carboxylate_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_carboxylic_acid_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_epoxide_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_halo_aromatic_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_isothiocyanate_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_long_alkyl_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_michael_acceptor_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_nitro_aromatic_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_peo_chain_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_phenol_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_phosphate_ester_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_quat_ammonium_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_quinone_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_strong_acid_grp_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_sulfate_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_sulfonate_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_sulfonyl_halide_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,has_thiol_isna,feature_derived,ambiguous,True,int8,5287,100.0,False,화학컬럼의 결측플래그 → 수집이력 가능성,화학컬럼의 결측플래그 → 수집이력 가능성
+ingredient,formulation_type_Aerosol / Fogger,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type_Concentrate,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type_Dust,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type_Flowable,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type_Granular / Granules,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type_Liquid,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type_Reference Solution,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type_Seed Treatment,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type_Spray,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type___NA__,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type___RARE__,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type_미탁제,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type_수화제,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type_액상수화제,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type_액제,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type_액체,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type_유제,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type_유탁제,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type_입상water제,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type_입상수화제,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type_입제,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type_종자처리수화제,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값
+ingredient,formulation_type_캡슐현탁제,feature_derived,chemistry,False,int8,5287,100.0,False,규칙 기본값,규칙 기본값

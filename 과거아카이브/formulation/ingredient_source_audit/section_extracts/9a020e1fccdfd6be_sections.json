@@ -1,0 +1,26 @@
+{
+  "source_id": "9a020e1fccdfd6be",
+  "file_path": "ingredient_source_audit/highlighted/9a020e1fccdfd6be_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 16152,
+  "sections_found": [
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Carcinogenicity"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION\nWarning\nClassifications:\nSignal Word (OSHA):\nMay cause an allergic skin reaction\nHazard Statements:\nCauses serious eye irritation\nHarmful if inhaled\nMay cause respiratory irritation\nSuspected of causing cancer \nInhalation:  Category 4\nSkin Sensitizer:  Category 1B\nCarcinoge"
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"ls -la 04_모델산출물/v4_fixed/ | grep -i \\\"snapshot\\\\|group\\\" ; echo \\\"---\\\"; python3 -c \\\"\\nimport pandas as pd\\ns = pd.read_csv('04_모델산출물/v4_fixed/group_key_snapshot_v5.csv')\\nprint('snapshot...",
+  "error": "Exit code 1\nls: 04_모델산출물/v4_fixed/: No such file or directory\n---\nTraceback (most recent call last):\n  File \"<string>\", line 3, in <module>\n    s = pd.read_csv('04_모델산출물/v4_fixed/group_key_snapshot_v5.csv')\n        ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/miniconda3/lib/python3.13/site-packages/pandas/io/parsers/readers.py\", line 873, in read_csv\n    return _read(filepath_or_buffer, kwds)\n  File \"/opt/miniconda3/lib/python3.13/site-packages/pandas/io/parsers/r...",
+  "timestamp": "2026-09-02T03:30:30.854Z",
+  "retry_count": 2
+}

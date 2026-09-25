@@ -1,0 +1,50 @@
+{
+  "source_id": "f1266cfbaff748b8",
+  "file_path": "ingredient_source_audit/highlighted/f1266cfbaff748b8_highlighted.pdf",
+  "page_count": 9,
+  "full_text_length": 15761,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product identifiers",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification of the substance/mixture and of the company/undertaking \n1.1 \nProduct identifiers \nProduct name \n: Coumaphos \n \nProduct Number \n: 45403 \nBrand \n: Sigma-Aldrich \nIndex-No. \n: 015-038-00-3 \nREACH No. \n: A registration number is not available for this substance as the \nsubstan"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H300",
+      "H311",
+      "H400",
+      "H410"
+    ],
+    "p_codes": [
+      "P264",
+      "P270",
+      "P273",
+      "P280",
+      "P301",
+      "P310",
+      "P302",
+      "P352",
+      "P312"
+    ],
+    "ghs_classes": [],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 5,
+    "text_excerpt": "SECTION 2: Hazards identification \n2.1 \nClassification of the substance or mixture \nClassification according to Regulation (EC) No 1272/2008 \nAcute toxicity, Oral (Category 2), H300 \nAcute toxicity, Dermal (Category 3), H311 \nShort-term (acute) aquatic hazard (Category 1), H400 \nLong-term (chronic) "
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

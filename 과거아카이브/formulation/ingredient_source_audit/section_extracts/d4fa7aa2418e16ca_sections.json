@@ -1,0 +1,74 @@
+{
+  "source_id": "d4fa7aa2418e16ca",
+  "file_path": "ingredient_source_audit/highlighted/d4fa7aa2418e16ca_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 18769,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product Name: Self Leveling Cement - White                             Product Code: 60-TC25-00",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "Section 1 - PRODUCT AND COMPANY IDENTIFICATION\nProduct Name: Self Leveling Cement - White                             Product Code: 60-TC25-00\nWESTCOAT SPECIALTY COATING SYSTEMS\n4007 Lockridge St\nSan Diego, CA 92102\nInformation Telephone:  800-250-4519\nEmergency Telephone:  800-424-9300\n"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H314",
+      "H317",
+      "H319",
+      "H334",
+      "H350",
+      "H372"
+    ],
+    "p_codes": [
+      "P202",
+      "P260",
+      "P261",
+      "P264",
+      "P272",
+      "P280",
+      "P281",
+      "P310",
+      "P363",
+      "P301",
+      "P330",
+      "P331",
+      "P302",
+      "P352",
+      "P303",
+      "P361",
+      "P353",
+      "P304",
+      "P340",
+      "P305",
+      "P351",
+      "P338",
+      "P308",
+      "P313",
+      "P333",
+      "P337",
+      "P405"
+    ],
+    "ghs_classes": [
+      "Skin corrosive",
+      "Carcinogen",
+      "carcinogenicity"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 5,
+    "text_excerpt": "Section 2 - HAZARDS IDENTIFICATION\nGHS Ratings:\nSkin corrosive\n1B\nDestruction of dermal tissue: Exposure < 1 hour Observation < \n14 days, visible necrosis in at least one animal\nEye corrosive\n2A\nEye irritant: Subcategory 2A, Reversible in 21 days\nRespiratory sensitizer\n1B\nRespiratory sensitizer\nSkin"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"cd /Users/hanseoyun/Desktop/260830/04_모델산출물/v6_수동검토 && python3 - <<'PY'\\nimport pandas as pd\\nfrom pathlib import Path\\nDOC=Path(\\\"../../formulation_audit_team_share_highlighted_only_20260...",
+  "error": "Exit code 1\n데이터1: (195, 27)\nTraceback (most recent call last):\n  File \"/opt/miniconda3/lib/python3.13/site-packages/pandas/core/indexes/base.py\", line 3641, in get_loc\n    return self._engine.get_loc(casted_key)\n           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^\n  File \"pandas/_libs/index.pyx\", line 168, in pandas._libs.index.IndexEngine.get_loc\n  File \"pandas/_libs/index.pyx\", line 197, in pandas._libs.index.IndexEngine.get_loc\n  File \"pandas/_libs/hashtable_class_helper.pxi\", line 7668, in pandas._li...",
+  "timestamp": "2026-09-04T02:20:16.308Z",
+  "retry_count": 1
+}

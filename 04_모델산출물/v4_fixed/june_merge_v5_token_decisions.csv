@@ -1,0 +1,607 @@
+Formulation_ID,pipe_index,name_token,len_names,len_cas,len_smiles,form_basis,decision,cas,smiles
+EyeIrritation6pack_PID10,0,"2,4-(Dichlorophenoxy)]-propionic acid <=100",1,1,1,length_matched_all,candidate:length_matched_all,120-36-5,CC(C(=O)O)OC1=C(C=C(C=C1)Cl)Cl
+EyeIrritation6pack_PID1000,0,Tri-allate,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID1000,1,Inert ingredients secret,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID1000,2,Liquid Hydrocarbon secret to,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID1004,0,triticonazole >98,1,1,1,length_matched_all,candidate:length_matched_all,131983-72-7,CC1(CC/C(=C\C2=CC=C(C=C2)Cl)/C1(CN3C=NC=N3)O)C
+EyeIrritation6pack_PID103,0,Glycerol,9,9,0,name_cas_length_matched,candidate:name_cas_length_matched,56-81-5,
+EyeIrritation6pack_PID103,1,Propylene Glycol,9,9,0,name_cas_length_matched,candidate:name_cas_length_matched,57-55-6,
+EyeIrritation6pack_PID103,2,Azoxystrobin,9,9,0,name_cas_length_matched,candidate:name_cas_length_matched,131860-33-8,
+EyeIrritation6pack_PID103,3,(R)-Metalaxyl,9,9,0,name_cas_length_matched,candidate:name_cas_length_matched,70630-17-0,
+EyeIrritation6pack_PID103,4,(S)-metalaxyl,9,9,0,name_cas_length_matched,candidate:name_cas_length_matched,69516-34-3,
+EyeIrritation6pack_PID103,5,Fludioxonil,9,9,0,name_cas_length_matched,candidate:name_cas_length_matched,131341-86-1,
+EyeIrritation6pack_PID103,6,Thiabendazole,9,9,0,name_cas_length_matched,candidate:name_cas_length_matched,148-79-8,
+EyeIrritation6pack_PID103,7,Abamectin,9,9,0,name_cas_length_matched,candidate:name_cas_length_matched,71751-41-2,
+EyeIrritation6pack_PID103,8,Thiamethoxam,9,9,0,name_cas_length_matched,candidate:name_cas_length_matched,153719-23-4,
+EyeIrritation6pack_PID1056,0,Pyraclostrobin,10,5,4,name_ref_unique,candidate:name_ref_unique,175013-18-0,COC(=O)N(OC)c1ccccc1COc1ccn(-c2ccc(Cl)cc2)n1
+EyeIrritation6pack_PID1056,1,Content (W/W),10,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID1056,2,Fluxapyroxad,10,5,4,name_ref_unique,candidate:name_ref_unique,907204-31-3,Cn1cc(C(=O)Nc2ccccc2-c2cc(F)c(F)c(F)c2)c(C(F)F)n1
+EyeIrritation6pack_PID1056,3,Content (W/W): >= 0.5,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID1056,4,sodium salts,10,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID1056,5,Content (W/W): > 0.5 - <=,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID1056,6,bronopol,10,5,4,name_ref_unique,candidate:name_ref_unique,52-51-7,O=[N+]([O-])C(Br)(CO)CO
+EyeIrritation6pack_PID1056,7,Content (W/W): >= 0.02,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID1056,8,mixture of: 5-chloro-2-methyl-2H-isothiazol-3-one and 2-methyl-2H-isothiazol-3-one (3:1),10,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID1056,9,Content (W/W): >= 0.0001,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID167,0,Cypermethrin,2,2,2,length_matched_all,candidate:length_matched_all,52315-07-8,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C
+EyeIrritation6pack_PID167,1,"Silica, amorphous, precipitated and gel",2,2,2,length_matched_all,candidate:length_matched_all,112926-00-8,O=[Si]=O
+EyeIrritation6pack_PID182,0,Pyraclostrobin,10,5,4,name_ref_unique,candidate:name_ref_unique,175013-18-0,COC(=O)N(OC)c1ccccc1COc1ccn(-c2ccc(Cl)cc2)n1
+EyeIrritation6pack_PID182,1,Content (W/W),10,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID182,2,Ammonium sulphate,10,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID182,3,Content (W/W): > 10.0,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID182,4,Silicon dioxide,10,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID182,5,Content (W/W): >= 10.0 - <=,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID182,6,Kaolin,10,5,4,name_ref_unique,candidate:name_ref_unique,1332-58-7,O.O.[Al+3].[Al+3].[O-][Si]([O-])([O-])O[Si]([O-])([O-])[O-]
+EyeIrritation6pack_PID182,7,Content (W/W): >= 3.0 - <=,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID182,8,sodium-di-ethyl-hexyl-sulfosuccinate,10,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID182,9,Content (W/W): >= 0.1 - <=,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID205,0,Isopropanol -No,4,4,4,length_matched_all,candidate:length_matched_all,67-63-0,CC(C)O
+EyeIrritation6pack_PID205,1,Ethanol -No,4,4,4,length_matched_all,candidate:length_matched_all,64-17-5,CCO
+EyeIrritation6pack_PID205,2,Butoxyethanol -No.: 1-5,4,4,4,length_matched_all,candidate:length_matched_all,111-76-2,CCCCOCCO
+EyeIrritation6pack_PID205,3,Didecyldimethylammonium chloride -No,4,4,4,length_matched_all,candidate:length_matched_all,7173-51-5,CCCCCCCCCC[N+](C)(C)CCCCCCCCCC.[Cl-]
+EyeIrritation6pack_PID240,0,imazamox,2,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID240,1,Proprietary ingredients,2,1,1,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID277,0,Chlorothalonil not listed,3,3,3,length_matched_all,candidate:length_matched_all,1897-45-6,C(#N)C1=C(C(=C(C(=C1Cl)Cl)Cl)C#N)Cl
+EyeIrritation6pack_PID277,1,Propylene Glycol not listed,3,3,3,length_matched_all,candidate:length_matched_all,57-55-6,CC(CO)O
+EyeIrritation6pack_PID277,2,"Silica, amorphous",3,3,3,length_matched_all,candidate:length_matched_all,112926-00-8,O=[Si]=O
+EyeIrritation6pack_PID291,0,cyproconazole >98,1,1,1,length_matched_all,candidate:length_matched_all,94361-06-5,CC(C1CC1)C(CN2C=NC=N2)(C3=CC=C(C=C3)Cl)O
+EyeIrritation6pack_PID32,0,Name : Abamectin techn. min,2,2,2,length_matched_all,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID32,1,EC index no : 606,2,2,2,length_matched_all,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID332,0,Deltamethrin,1,1,1,length_matched_all,candidate:length_matched_all,52918-63-5,CC1([C@H]([C@H]1C(=O)O[C@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Br)Br)C
+EyeIrritation6pack_PID333,0,RIMSULFURON,2,1,1,name_ref_unique,candidate:name_ref_unique,122931-48-0,CCS(=O)(=O)c1cccnc1S(=O)(=O)NC(=O)Nc1nc(OC)cc(OC)n1
+EyeIrritation6pack_PID333,1,"equal to or greater than are listed by IARC, NTP, OSHA or ACGIH",2,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID344,0,Elemental Sulfur,2,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID344,1,Inert Ingredients,2,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID345,0,Thidiazuron,6,5,4,name_ref_unique,candidate:name_ref_unique,51707-55-2,O=C(Nc1ccccc1)Nc1cnns1
+EyeIrritation6pack_PID345,1,Diuron,6,5,4,name_ref_unique,candidate:name_ref_unique,330-54-1,CN(C)C(=O)Nc1ccc(Cl)c(Cl)c1
+EyeIrritation6pack_PID345,2,2-Propanediol <,6,5,4,name_ref_unique,candidate:name_ref_unique,57-55-6,CC(O)CO
+EyeIrritation6pack_PID345,3,Fatty alcohol ethoxylate <=,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID345,4,2-Benzisothiazol-3(2H)-one >= 0.005 - <=,6,5,4,name_ref_unique,candidate:name_ref_unique,2634-33-5,O=c1[nH]sc2ccccc12
+EyeIrritation6pack_PID345,5,Other ingredients (non-hazardous) to,6,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID347,0,Nicosulfuron,3,1,1,name_ref_unique,candidate:name_ref_unique,111991-09-4,COc1cc(OC)nc(NC(=O)NS(=O)(=O)c2ncccc2C(=O)N(C)C)n1
+EyeIrritation6pack_PID347,1,Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID347,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID349,0,Picoxystrobin,4,2,2,name_ref_unique,candidate:name_ref_unique,117428-22-5,CO/C=C(/C(=O)OC)c1ccccc1COc1cccc(C(F)(F)F)n1
+EyeIrritation6pack_PID349,1,Cyproconazole,4,2,2,name_ref_unique,candidate:name_ref_unique,94361-06-5,CC(C1CC1)C(O)(Cn1cncn1)c1ccc(Cl)cc1
+EyeIrritation6pack_PID349,2,Other Ingredients,4,2,2,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID349,3,Other/Inert Ingredients,4,2,2,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID350,0,Cymoxanil,2,3,0,name_ref_unique,candidate:name_ref_unique,57966-95-7,
+EyeIrritation6pack_PID350,1,Fumaric Acid,2,3,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID356,0,Potassium salt of aminocyclopyrachlor,4,2,2,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID356,1,Inert Ingredients,4,2,2,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID356,2,Aminocyclopyrachlor,4,2,2,name_ref_unique,candidate:name_ref_unique,858956-08-8,Nc1nc(C2CC2)nc(C(=O)O)c1Cl
+EyeIrritation6pack_PID356,3,Other/Inert Ingredients,4,2,2,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID358,0,Penthiopyrad,3,1,1,name_ref_unique,candidate:name_ref_unique,183675-82-3,CC(C)CC(C)c1sccc1NC(=O)c1cn(C)nc1C(F)(F)F
+EyeIrritation6pack_PID358,1,Other Ingredients,3,1,1,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID358,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID360,0,Rimsulfuron,6,2,3,name_ref_unique,candidate:name_ref_unique,122931-48-0,CCS(=O)(=O)c1cccnc1S(=O)(=O)NC(=O)Nc1nc(OC)cc(OC)n1
+EyeIrritation6pack_PID360,1,Isoxaflutole,6,2,3,name_ref_unique,candidate:name_ref_unique,141112-29-0,CS(=O)(=O)c1cc(C(F)(F)F)ccc1C(=O)c1cnoc1C1CC1
+EyeIrritation6pack_PID360,2,Lignin Sulfonate Salt,6,2,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID360,3,Disodium phosphate,6,2,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID360,4,Other Ingredients,6,2,3,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID360,5,Other/Inert Ingredients,6,2,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID361,0,Chlorantraniliprole,3,1,1,name_ref_unique,candidate:name_ref_unique,500008-45-7,CNC(=O)c1cc(Cl)cc(C)c1NC(=O)c1cc(Br)nn1-c1ncccc1Cl
+EyeIrritation6pack_PID361,1,Other Ingredients,3,1,1,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID361,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID362,0,Chlorantraniliprole >= 2.5 - <,4,4,4,length_matched_all,candidate:length_matched_all,500008-45-7,CC1=CC(=CC(=C1NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br)C(=O)NC)Cl
+EyeIrritation6pack_PID362,1,+/--tartaric acid >= 20 - <,4,4,4,length_matched_all,candidate:length_matched_all,133-37-9,C(C(C(=O)O)O)(C(=O)O)O
+EyeIrritation6pack_PID362,2,sodium carbonate >= 1 - <,4,4,4,length_matched_all,candidate:length_matched_all,497-19-8,C(=O)([O-])[O-].[Na+].[Na+]
+EyeIrritation6pack_PID362,3,Talc (Mg3H2(SiO3)) >= 1 - <,4,4,4,length_matched_all,candidate:length_matched_all,14807-96-6,[OH-].[OH-].[O-][Si]12O[Si]3(O[Si](O1)(O[Si](O2)(O3)[O-])[O-])[O-].[Mg+2].[Mg+2].[Mg+2]
+EyeIrritation6pack_PID363,0,Rimsulfuron,8,3,5,name_ref_unique,candidate:name_ref_unique,122931-48-0,CCS(=O)(=O)c1cccnc1S(=O)(=O)NC(=O)Nc1nc(OC)cc(OC)n1
+EyeIrritation6pack_PID363,1,Nicosulfuron,8,3,5,name_ref_unique,candidate:name_ref_unique,111991-09-4,COc1cc(OC)nc(NC(=O)NS(=O)(=O)c2ncccc2C(=O)N(C)C)n1
+EyeIrritation6pack_PID363,2,Lignin Sulfonate Salt,8,3,5,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID363,3,Disodium phosphate,8,3,5,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID363,4,"Ethyl 5,5-diphenyl-2-isoxazoline-3-carboxylate",8,3,5,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID363,5,Other Ingredients,8,3,5,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID363,6,Titanium dioxide,8,3,5,name_ref_unique,candidate:name_ref_unique,13463-67-7,[O]=[Ti]=[O]
+EyeIrritation6pack_PID363,7,Other/Inert Ingredients,8,3,5,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID365,0,Penthiopyrad,3,1,1,name_ref_unique,candidate:name_ref_unique,183675-82-3,CC(C)CC(C)c1sccc1NC(=O)c1cn(C)nc1C(F)(F)F
+EyeIrritation6pack_PID365,1,Other Ingredients,3,1,1,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID365,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID368,0,Trichlorfon,2,2,2,length_matched_all,candidate:length_matched_all,52-68-6,COP(=O)(C(C(Cl)(Cl)Cl)O)OC
+EyeIrritation6pack_PID368,1,2-Methoxyethoxyethanol,2,2,2,length_matched_all,candidate:length_matched_all,111-77-3,COCCOCCO
+EyeIrritation6pack_PID391,0,thiamethoxam,9,9,8,name_cas_length_matched,candidate:name_cas_length_matched,153719-23-4,
+EyeIrritation6pack_PID391,1,lambda-cyhalothrin,9,9,8,name_cas_length_matched,candidate:name_cas_length_matched,91465-08-6,
+EyeIrritation6pack_PID391,2,"solvent naphtha (petroleum), highly >= 5 - <",9,9,8,name_cas_length_matched,candidate:name_cas_length_matched,64742-94-5,
+EyeIrritation6pack_PID391,3,"propane-,2-diol >= 5 - <",9,9,8,name_cas_length_matched,candidate:name_cas_length_matched,57-55-6,
+EyeIrritation6pack_PID391,4,methyl-naphthalene >= 1 - <,9,9,8,name_cas_length_matched,candidate:name_cas_length_matched,91-57-6,
+EyeIrritation6pack_PID391,5,methyl-naphthalene >= 1 - <,9,9,8,name_cas_length_matched,candidate:name_cas_length_matched,90-12-0,
+EyeIrritation6pack_PID391,6,titanium dioxide >= 1 - <,9,9,8,name_cas_length_matched,candidate:name_cas_length_matched,13463-67-7,
+EyeIrritation6pack_PID391,7,sulfuric acid >= 0.1 - <,9,9,8,name_cas_length_matched,candidate:name_cas_length_matched,7664-93-9,
+EyeIrritation6pack_PID391,8,2-benzisothiazol-3(2H)-one >= 0.05 - <,9,9,8,name_cas_length_matched,candidate:name_cas_length_matched,2634-33-5,
+EyeIrritation6pack_PID393,0,Spirodiclofen,4,5,0,name_ref_unique,candidate:name_ref_unique,148477-71-8,CCC(C)(C)C(=O)OC1=C(c2ccc(Cl)cc2Cl)C(=O)OC12CCCCC2
+EyeIrritation6pack_PID393,1,Glycerol,4,5,0,name_ref_unique,candidate:name_ref_unique,56-81-5,OCC(O)CO
+EyeIrritation6pack_PID393,2,"1,2-Benzisothiazol-3(2H)-one",4,5,0,name_ref_unique,candidate:name_ref_unique,2634-33-5,O=c1[nH]sc2ccccc12
+EyeIrritation6pack_PID393,3,Kathon,4,5,0,name_ref_unique,candidate:name_ref_unique,55965-84-9,Cn1sc(Cl)cc1=O.Cn1sccc1=O
+EyeIrritation6pack_PID417,0,Bifenthrin,2,3,0,name_ref_unique,candidate:name_ref_unique,82657-04-3,
+EyeIrritation6pack_PID417,1,Cypermethrin,2,3,0,name_ref_unique,candidate:name_ref_unique,52315-07-8,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1
+EyeIrritation6pack_PID459,0,Fluopyram,4,4,0,name_cas_length_matched,candidate:name_cas_length_matched,658066-35-4,
+EyeIrritation6pack_PID459,1,Prothioconazole,4,4,0,name_cas_length_matched,candidate:name_cas_length_matched,178928-70-6,
+EyeIrritation6pack_PID459,2,"1,2-Benzisothiazol-3(2H)-one",4,4,0,name_cas_length_matched,candidate:name_cas_length_matched,2634-33-5,
+EyeIrritation6pack_PID459,3,Propylene Glycol,4,4,0,name_cas_length_matched,candidate:name_cas_length_matched,57-55-6,
+EyeIrritation6pack_PID46,0,Dimethomorph,3,4,0,name_ref_unique,candidate:name_ref_unique,110488-70-5,COc1ccc(C(=CC(=O)N2CCOCC2)c2ccc(Cl)cc2)cc1OC
+EyeIrritation6pack_PID46,1,Sodium diisopropylnaphthalenesulphonate,3,4,0,name_ref_unique,candidate:name_ref_unique,1322-93-6,CC(C)c1cc2ccccc2c(S(=O)(=O)O)c1C(C)C
+EyeIrritation6pack_PID46,2,Silica,3,4,0,name_ref_unique,skipped_length_mismatch:ambiguous_reference_cas,,
+EyeIrritation6pack_PID494,0,spinosad (ISO) (reaction mass of,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID494,1,Kaolin >= 3 - <,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID494,2,Di--ethylhexyl sodium sulfosuccinate >= 1 - <,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID494,3,Amorphous precipitated silica >= 1 - <,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID494,4,titanium dioxide; [in powder form >= 0.1 - <,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID494,5,containing or more of particles,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID500,0,spinosad (ISO) (reaction mass of,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID500,1,Kaolin >= 3 - <,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID500,2,Di--ethylhexyl sodium sulfosuccinate >= 1 - <,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID500,3,Amorphous precipitated silica >= 1 - <,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID500,4,titanium dioxide; [in powder form >= 0.1 - <,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID500,5,containing or more of particles,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID530,0,Saflufenacil,5,3,3,name_ref_unique,candidate:name_ref_unique,372137-35-4,CC(C)N(C)S(=O)(=O)NC(=O)c1cc(-n2c(=O)cc(C(F)(F)F)n(C)c2=O)c(F)cc1Cl
+EyeIrritation6pack_PID530,1,Content (W/W),5,3,3,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID530,2,Content (W/W): >= 1.0,5,3,3,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID530,3,2-Methyl-4-Isothiazolin-3-one,5,3,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID530,4,"1,2-benzisothiazol-3(2H)-one",5,3,3,name_ref_unique,candidate:name_ref_unique,2634-33-5,O=c1[nH]sc2ccccc12
+EyeIrritation6pack_PID540,0,Silica,4,5,0,name_ref_unique,skipped_length_mismatch:ambiguous_reference_cas,,
+EyeIrritation6pack_PID540,1,(R)-Metalaxyl,4,5,0,name_ref_unique,candidate:name_ref_unique,70630-17-0,COCC(=O)N(c1c(C)cccc1C)[C@H](C)C(=O)OC
+EyeIrritation6pack_PID540,2,(S)-metalaxyl,4,5,0,name_ref_unique,candidate:name_ref_unique,69516-34-3,
+EyeIrritation6pack_PID540,3,Fludioxonil,4,5,0,name_ref_unique,candidate:name_ref_unique,131341-86-1,N#Cc1c[nH]cc1-c1cccc2c1OC(F)(F)O2
+EyeIrritation6pack_PID573,0,saflufenacil,2,1,1,name_ref_unique,candidate:name_ref_unique,372137-35-4,CC(C)N(C)S(=O)(=O)NC(=O)c1cc(-n2c(=O)cc(C(F)(F)F)n(C)c2=O)c(F)cc1Cl
+EyeIrritation6pack_PID573,1,Proprietary ingredients,2,1,1,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID585,0,Thiodicarb,5,4,4,name_ref_unique,candidate:name_ref_unique,59669-26-0,CSC(C)=NOC(=O)N(C)SN(C)C(=O)ON=C(C)SC
+EyeIrritation6pack_PID585,1,2-Propanediol >= 1.00 - <=,5,4,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID585,2,Synthetic amorphous silica <=,5,4,4,name_ref_unique,candidate:name_ref_unique,112926-00-8,O=[Si]=O
+EyeIrritation6pack_PID585,3,2-Benzisothiazol-3(2H)-one >= 0.005 - <=,5,4,4,name_ref_unique,candidate:name_ref_unique,2634-33-5,O=c1[nH]sc2ccccc12
+EyeIrritation6pack_PID585,4,Other ingredients (non-hazardous) to,5,4,4,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID601,0,Glufosinate ammonium,5,5,3,name_cas_length_matched,candidate:name_cas_length_matched,77182-82-2,
+EyeIrritation6pack_PID601,1,Sodium alkyl ether sulphate,5,5,3,name_cas_length_matched,candidate:name_cas_length_matched,68585-34-2,
+EyeIrritation6pack_PID601,2,Methoxy-2-propanol,5,5,3,name_cas_length_matched,candidate:name_cas_length_matched,107-98-2,
+EyeIrritation6pack_PID601,3,Dipropylene glycol,5,5,3,name_cas_length_matched,candidate:name_cas_length_matched,25265-71-8,
+EyeIrritation6pack_PID601,4,Alkyl polysaccharide,5,5,3,name_cas_length_matched,candidate:name_cas_length_matched,68515-73-1,
+EyeIrritation6pack_PID62,0,Trifluralin none established,3,3,3,length_matched_all,candidate:length_matched_all,1582-09-8,CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
+EyeIrritation6pack_PID62,1,Clay,3,3,3,length_matched_all,candidate:length_matched_all,8031-18-3,[O-2].[O-2].[O-2].[O-2].[O-2].[Al+3].[Al+3].[Si+4]
+EyeIrritation6pack_PID62,2,contains Crystalline Silica,3,3,3,length_matched_all,candidate:length_matched_all,14808-60-7,O=[Si]=O
+EyeIrritation6pack_PID627,0,Manganese ethylenebis (dithiocarbamate) Mancozeb,2,2,2,length_matched_all,candidate:length_matched_all,8018-01-7,C(CNC(=S)[S-])NC(=S)[S-].C(CNC(=S)[S-])NC(=S)[S-].[Mn+2].[Zn+2]
+EyeIrritation6pack_PID627,1,"2,2-difluoro-1,3-benzodioxol-4-yl-1H-pyrrole- Fludioxonil",2,2,2,length_matched_all,candidate:length_matched_all,131341-86-1,C1=CC(=C2C(=C1)OC(O2)(F)F)C3=CNC=C3C#N
+EyeIrritation6pack_PID668,0,Methiocarb,4,3,3,name_ref_unique,candidate:name_ref_unique,2032-65-7,CNC(=O)Oc1cc(C)c(SC)c(C)c1
+EyeIrritation6pack_PID668,1,Calcium sulfate,4,3,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID668,2,6-Di-tert-butyl-4-methylphenol >= 0.10 - <=,4,3,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID668,3,Other ingredients (non-hazardous) to,4,3,3,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID702,0,Imidacloprid,3,1,1,name_ref_unique,candidate:name_ref_unique,138261-41-3,
+EyeIrritation6pack_PID702,1,Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID702,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID718,0,"sucrose, pure >= 10 - <",7,7,6,name_cas_length_matched,candidate:name_cas_length_matched,57-50-1,
+EyeIrritation6pack_PID718,1,"4-Pyridinedimethanol, 5-hydroxy-6- >= 5 - <",7,7,6,name_cas_length_matched,candidate:name_cas_length_matched,58-56-0,
+EyeIrritation6pack_PID718,2,Pyridine--carboxylic acid >= 5 - <,7,7,6,name_cas_length_matched,candidate:name_cas_length_matched,59-67-6,
+EyeIrritation6pack_PID718,3,acetic acid >= 1 - <,7,7,6,name_cas_length_matched,candidate:name_cas_length_matched,64-19-7,
+EyeIrritation6pack_PID718,4,starch >= 1 - <,7,7,6,name_cas_length_matched,candidate:name_cas_length_matched,9005-25-8,
+EyeIrritation6pack_PID718,5,"5,7-triaza-1- >= 0.1 - <",7,7,6,name_cas_length_matched,candidate:name_cas_length_matched,51229-78-8,
+EyeIrritation6pack_PID718,6,emamectin benzoate,7,7,6,name_cas_length_matched,candidate:name_cas_length_matched,155569-91-8,
+EyeIrritation6pack_PID757,0,Pyraclostrobin,7,4,4,name_ref_unique,candidate:name_ref_unique,175013-18-0,COC(=O)N(OC)c1ccccc1COc1ccn(-c2ccc(Cl)cc2)n1
+EyeIrritation6pack_PID757,1,Content (W/W),7,4,4,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID757,2,Triticonazole,7,4,4,name_ref_unique,candidate:name_ref_unique,131983-72-7,
+EyeIrritation6pack_PID757,3,crystalline silica,7,4,4,name_ref_unique,candidate:name_ref_unique,14808-60-7,O=[Si]=O
+EyeIrritation6pack_PID757,4,Content (W/W): >= 5.0,7,4,4,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID757,5,Propylene glycol,7,4,4,name_ref_unique,candidate:name_ref_unique,57-55-6,CC(O)CO
+EyeIrritation6pack_PID757,6,Content (W/W): >= 0.9,7,4,4,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID774,0,Tebuconazole,5,5,4,name_cas_length_matched,candidate:name_cas_length_matched,107534-96-3,
+EyeIrritation6pack_PID774,1,Metalaxyl,5,5,4,name_cas_length_matched,candidate:name_cas_length_matched,57837-19-1,
+EyeIrritation6pack_PID774,2,Prothioconazole,5,5,4,name_cas_length_matched,candidate:name_cas_length_matched,178928-70-6,
+EyeIrritation6pack_PID774,3,Ethoxylated tallow alkyl amines,5,5,4,name_cas_length_matched,candidate:name_cas_length_matched,61791-26-2,
+EyeIrritation6pack_PID774,4,2-Propanediol,5,5,4,name_cas_length_matched,candidate:name_cas_length_matched,57-55-6,
+EyeIrritation6pack_PID803,0,glycerol >= 10 - <,5,5,5,length_matched_all,candidate:length_matched_all,56-81-5,C(C(CO)O)O
+EyeIrritation6pack_PID803,1,gamma-butyrolactone >= 1 - <,5,5,5,length_matched_all,candidate:length_matched_all,96-48-0,C1CC(=O)OC1
+EyeIrritation6pack_PID803,2,"methyl N-(,6-dimethylphenyl)-N- >= 1 - <",5,5,5,length_matched_all,candidate:length_matched_all,57837-19-1,CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)COC
+EyeIrritation6pack_PID803,3,"propane-,2-diol >= 1 - <",5,5,5,length_matched_all,candidate:length_matched_all,57-55-6,CC(CO)O
+EyeIrritation6pack_PID803,4,Ipconazole >= 1 - <,5,5,5,length_matched_all,candidate:length_matched_all,125225-28-7,CC(C)C1CCC(C1(CN2C=NC=N2)O)CC3=CC=C(C=C3)Cl
+EyeIrritation6pack_PID831,0,Tebuconazole 37.5-39.9 X,3,3,3,length_matched_all,candidate:length_matched_all,107534-96-3,CC(C)(C)C(CCC1=CC=C(C=C1)Cl)(CN2C=NC=N2)O
+EyeIrritation6pack_PID831,1,"2,3-Propanetriol 9.5-10.5",3,3,3,length_matched_all,candidate:length_matched_all,56-81-5,C(C(CO)O)O
+EyeIrritation6pack_PID831,2,2-Benzisothiazol-3(2H)-one 0.18-0.22,3,3,3,length_matched_all,candidate:length_matched_all,2634-33-5,C1=CC=C2C(=C1)C(=O)NS2
+EyeIrritation6pack_PID832,0,Thifensulfuron methyl,3,1,1,name_ref_unique,candidate:name_ref_unique,79277-27-3,COC(=O)c1sccc1S(=O)(=O)NC(=O)Nc1nc(C)nc(OC)n1
+EyeIrritation6pack_PID832,1,Other Ingredients,3,1,1,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID832,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,0,None listed,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,1,Immediate (Acute); Delayed (Chronic,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,2,"2,4-Dichlorophenoxyacetic acid",25,2,1,name_ref_unique,candidate:name_ref_unique,94-75-7,O=C(O)COc1ccc(Cl)cc1Cl
+EyeIrritation6pack_PID834,3,"CERCLA - This product contains the following chemicals which have a reportable quantity (RQ) under the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,4,2.4-Dichlorophenoxyacetic acid has an RQ of 100 Ibs (reached with 27.5 gallons of product). Dodecylbenzenesulfonic acid has an RQ of 1000 Ibs (not reached with any practical quantity of this substance,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,5,2.4-Dichlorophenoxyacetic acid has an RQ of 100 Ibs (reached with 27.5 gallons of product,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,6,Dodecylbenzenesulfonic acid has an RQ of 1000 Ibs (not reached with any practical quantity of this substance,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,7,Corrosive,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,8,California Proposition 65: This product contains chemicals known to the state of California to cause cancer and/or oductive harm,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,9,"U.S. State Worker and Community Right-To-Know (RTK) Information (IL, MA, MN, NJ, PA, RI",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,10,State(s,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,11,"IL, MA, MN, NJ, PA, RI",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,12,Dodecylbenzenesulfonic,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,13,Dodecylbenzenesulfonic acid,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,14,acid,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,15,"MA, NJ, PA",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,16,Canadian Domestic,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,17,Substances List,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,18,Not determined,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,19,"Disclaimer: The information presented herein is based on available data from reliable sources and is correct to the best of WinField Solutions' knowledge. WinField Solutions, LLC makes no warranty, express nor implied, regarding the accuracy of the data or the results obtained from the use of this product. Nothing herein may be construed as recommending any practice or any product in violation of any law or regulations. The user is solely responsible for determining the suitability of any material or product for a specific purpose and for adopting any appropriate safety precautions. We disclaim all liability for injury or damage stemming from any improper use of the material or product described herein",25,2,1,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID834,20,Supersedes document dated,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,21,"Supersedes document dated: May 29, 2015",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,22,"December 07, 2017",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,23,"May 29, 2015",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID834,24,6 of 6,25,2,1,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID857,0,Pyrimethanil,3,4,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID857,1,"1,2-Benzisothiazol-3(2H)-one",3,4,0,name_ref_unique,candidate:name_ref_unique,2634-33-5,O=c1[nH]sc2ccccc12
+EyeIrritation6pack_PID857,2,Propylene Glycol,3,4,0,name_ref_unique,candidate:name_ref_unique,57-55-6,CC(O)CO
+EyeIrritation6pack_PID87,0,Picoxystrobin,4,2,2,name_ref_unique,candidate:name_ref_unique,117428-22-5,CO/C=C(/C(=O)OC)c1ccccc1COc1cccc(C(F)(F)F)n1
+EyeIrritation6pack_PID87,1,Cyproconazole,4,2,2,name_ref_unique,candidate:name_ref_unique,94361-06-5,CC(C1CC1)C(O)(Cn1cncn1)c1ccc(Cl)cc1
+EyeIrritation6pack_PID87,2,Other Ingredients,4,2,2,name_ref_unique,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID87,3,Other/Inert Ingredients,4,2,2,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID870,0,Saflufenacil,3,5,0,name_ref_unique,candidate:name_ref_unique,372137-35-4,CC(C)N(C)S(=O)(=O)NC(=O)c1cc(-n2c(=O)cc(C(F)(F)F)n(C)c2=O)c(F)cc1Cl
+EyeIrritation6pack_PID870,1,Ammonium Sulfate,3,5,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID870,2,Sodium diisopropylnaphthalenesulphonate,3,5,0,name_ref_unique,candidate:name_ref_unique,1322-93-6,CC(C)c1cc2ccccc2c(S(=O)(=O)O)c1C(C)C
+EyeIrritation6pack_PID905,0,Chlorpyrifos-methyl,8,8,6,name_cas_length_matched,candidate:name_cas_length_matched,5598-13-0,
+EyeIrritation6pack_PID905,1,Deltamethrin,8,8,6,name_cas_length_matched,candidate:name_cas_length_matched,52918-63-5,
+EyeIrritation6pack_PID905,2,"Solvent Naphtha (petroleum), light aromatic",8,8,6,name_cas_length_matched,candidate:name_cas_length_matched,64742-95-6,
+EyeIrritation6pack_PID905,3,"2,4-Trimethylbenzene",8,8,6,name_cas_length_matched,candidate:name_cas_length_matched,95-63-6,
+EyeIrritation6pack_PID905,4,Xylene,8,8,6,name_cas_length_matched,candidate:name_cas_length_matched,1330-20-7,
+EyeIrritation6pack_PID905,5,Mesitylene,8,8,6,name_cas_length_matched,candidate:name_cas_length_matched,108-67-8,
+EyeIrritation6pack_PID905,6,Ethylbenzene,8,8,6,name_cas_length_matched,candidate:name_cas_length_matched,100-41-4,
+EyeIrritation6pack_PID905,7,Cumene,8,8,6,name_cas_length_matched,candidate:name_cas_length_matched,98-82-8,
+EyeIrritation6pack_PID922,0,Silica,3,4,0,name_ref_unique,skipped_length_mismatch:ambiguous_reference_cas,,
+EyeIrritation6pack_PID922,1,Fludioxonil,3,4,0,name_ref_unique,candidate:name_ref_unique,131341-86-1,N#Cc1c[nH]cc1-c1cccc2c1OC(F)(F)O2
+EyeIrritation6pack_PID922,2,Cyprodinil,3,4,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+EyeIrritation6pack_PID955,0,Active ingredient (% w/w): Tebuconazole Technical,2,2,2,length_matched_all,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID955,1,THFA Proprietary,2,2,2,length_matched_all,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID985,0,GSP Crop Science Limited,2,2,2,length_matched_all,dropped:nonchemical_name_token,,
+EyeIrritation6pack_PID985,1,Tolfenpyrad EC,2,2,2,length_matched_all,candidate:length_matched_all,872-50-4,CN1CCCC1=O
+EyeIrritation6pack_PID986,0,Cyfluthrin Not Established,2,2,2,length_matched_all,candidate:length_matched_all,68359-37-5,CC1(C(C1C(=O)OC(C#N)C2=CC(=C(C=C2)F)OC3=CC=CC=C3)C=C(Cl)Cl)C
+EyeIrritation6pack_PID986,1,Naphthalene,2,2,2,length_matched_all,candidate:length_matched_all,91-20-3,C1=CC=C2C=CC=CC2=C1
+EyeIrritation6pack_PID988,0,Flutriafol,4,4,3,name_cas_length_matched,candidate:name_cas_length_matched,76674-21-0,
+EyeIrritation6pack_PID988,1,Propylene glycol 5-10,4,4,3,name_cas_length_matched,candidate:name_cas_length_matched,57-55-6,
+EyeIrritation6pack_PID988,2,"Alcohols, C13-15 Branched and Linear, Ethoxylated 5-10",4,4,3,name_cas_length_matched,candidate:name_cas_length_matched,157627-86-6,
+EyeIrritation6pack_PID988,3,2 benzisothiazolin-3-one 0.02 (max),4,4,3,name_cas_length_matched,candidate:name_cas_length_matched,2634-33-5,
+MIX1006,0,(+-)-alpha-Pinene,2,3,0,name_ref_unique,candidate:name_ref_unique,80-56-8,CC1=CCC2CC1C2(C)C
+MIX1006,1,(+)-Limonene,2,3,0,name_ref_unique,candidate:name_ref_unique,5989-27-5,C=C(C)[C@H]1CC=C(C)CC1
+MIX1011,0,"MATERIAL SAFETY DATA SHEET Page 1 of 8 1. IDENTIFICATION Product Description:: INCI Name: Botanical Name: Other means of identification Recommended use: Company Name: Website: Email: TANGERINE ESSENTIAL OIL -1 ; -7 Citrus Tangerina (Tangerine) Peel Oil Citrus tangerina Concentrated aromatic ingredient which may be used in aromatherapy, natural perfumery, cosmetics and personal care formulations according to legal and IFRA guidelines. UNICHEM PHARM www.unichempharm.rs unihem",1,2,0,name_ref_unique,dropped:nonchemical_name_token,,
+MIX1016,0,"# The Good Scents Company safety data sheet for ho leaf oil (cinnamomum camphora l. nees se eberm.) SAFETY DATA SHEET 1 : PRODUCT AND COMPANY IDENTIFICATION Product Code / Trade Name :ES102763/ho leaf oil (cinnamomum camphora l. nees se eberm.) Supplier Details :The Good Scents Company 1977 E. Montana Ave., Oak Creek, WI 53154 Information :-2659 Version Date :09/03/2020 2 : HAZARDS IDENTIFICATION 2.1 Classification of the substance or mixture GHS Classification in accordance with 29",1,1,0,name_cas_length_matched,dropped:nonchemical_name_token,,
+MIX1017,0,# 501051 LEMON OIL CALIFORNIA DISTILLED # SAFETY DATA SHEET Version # 04 Revision Date: -2023 Print Date: -2023 Page 1 of 10 1. IDENTIFICATION 1. IDENTIFICATION 1. IDENTIFICATION 1. IDENTIFICATION LEMON OIL CALIFORNIA DISTILLED LEMON OIL CALIFORNIA DISTILLED LEMON OIL CALIFORNIA DISTILLED LEMON OIL CALIFORNIA DISTILLED Product Description: Product Description: Product Description: Product Description: -8FEMA Number FEMA Number FEMA Number FEMA Nu,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8008-56-8,
+MIX1018,0,"Material Safety Data Sheet Lemon oil SECTION 1.1 – PRODUCT IDENTIFICATION Product Name : Lemon oil Molecular Formula : Not applicable Molecular Weight : Not applicable: -8 SECTION: 1.2 COMPANY IDENTIFICATION Company Name: Indenta Chemicals (India) Pvt. Ltd. Address: 117, The Summit Business Bay, Opp Cinemax, Off. Sir M.V. Road, Near WEH Metro Station, Andheri (E), Mumbai 400 093, India Telephone #:+-26849600 Fax #:+-26849060 SECTION 2: COMPOSITION / INFORMATION ON INGRE",1,1,0,name_cas_length_matched,dropped:nonchemical_name_token,,
+MIX1027,0,508084 HERCOLYN DW SAFETY DATA SHEET Version # 02 Revision Date: -2020 Print Date: -2020 Page 1 of 9 1. IDENTIFICATION HERCOLYN DW Product Description: -5FEMA Number N/A Other means of identification 508084 Vigon Item # Concentrated aromatic ingredient which may be used fragrance compounds according to legal and IFRA guidelines. Recommended use For Manufacturing Use Only Recommended restrictions 24 Hour Emergency Response Information INFOTRAC (ACCT# 78928); -,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8050-15-5,
+MIX1032,0,Citronellal,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,106-23-0,
+MIX1033,0,504130 FIR NEEDLE OIL SIBERIAN PURE SAFETY DATA SHEET Version # 04 Revision Date: -2018 Print Date: -2018 Page 1 of 10 1. IDENTIFICATION FIR NEEDLE OIL SIBERIAN PURE Product Description: -2FEMA Number 2905 Other means of identification 504130 Vigon Item # Concentrated aromatic and flavor ingredient which may be used in flavor and fragrance compounds according to legal and IFRA or FEMA GRAS/FDA guidelines. Recommended use For Manufacturing Use Only Recommended re,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8021-29-2,
+MIX104,0,imazamox,2,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX104,1,Proprietary ingredients,2,1,1,name_ref_unique,dropped:nonchemical_name_token,,
+MIX1040,0,"Avena Lab MATERIAL SAFETY DATA SHEET Page 1 of 8 BROOM (GENET) ABSOLUTE OIL PRODUCT CODE: PAO2040 1. IDENTIFICATION Product Description:: INCI Name: Botanical Name: Other means of identification Product Code #: Recommended use: Company Name: Address: Telephone: Website: Email: Broom (Genet) Absolute Oil -1 ; -8 Spartium junceum L. Spartium junceum PAO2040 Concentrated aromatic ingredient which may be used in aromatherapy, natural perfumery, cosmetics and personal care formul",1,2,0,name_ref_unique,dropped:nonchemical_name_token,,
+MIX1048,0,Diethylene Glycol Monobutyl Ether,2,6,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1048,1,Triethanolamine,2,6,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1050,0,Linalool,11,13,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1050,1,Farnesol,11,13,0,name_ref_unique,candidate:name_ref_unique,4602-84-0,CC(C)=CCC/C(C)=C/CC/C(C)=C/CO
+MIX1050,2,1-Methyl-4-Prop-1-En-2-Ylcyclohexene,11,13,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1050,3,Nerolidol,11,13,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1050,4,Benzaldehyde,11,13,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1050,5,Phenylacetonitrile,11,13,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1050,6,Ethanol,11,13,0,name_ref_unique,candidate:name_ref_unique,64-17-5,CCO
+MIX1050,7,Indole,11,13,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1050,8,Methyl Anthranilate,11,13,0,name_ref_unique,candidate:name_ref_unique,134-20-3,
+MIX1050,9,2-Phenylethanol,11,13,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1050,10,Geraniol,11,13,0,name_ref_unique,candidate:name_ref_unique,106-24-1,
+MIX1051,0,Methyl Anthranilate,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,134-20-3,
+MIX1052,0,"Limonene, (-)-",8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1052,1,(+-)-alpha-Pinene,8,9,0,name_ref_unique,candidate:name_ref_unique,80-56-8,CC1=CCC2CC1C2(C)C
+MIX1052,2,Camphene,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1052,3,Beta-Pinene,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1052,4,Terpinolene,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1052,5,Myrcene,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1052,6,Alpha-Terpineol,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1052,7,P-Cymene,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1054,0,"Limonene, (-)-",8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1054,1,(+-)-alpha-Pinene,8,9,0,name_ref_unique,candidate:name_ref_unique,80-56-8,CC1=CCC2CC1C2(C)C
+MIX1054,2,Camphene,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1054,3,Beta-Pinene,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1054,4,Terpinolene,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1054,5,Myrcene,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1054,6,Alpha-Terpineol,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1054,7,P-Cymene,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1055,0,Hydroxycitronellal,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,107-75-5,
+MIX1058,0,Hydroxycitronellal,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,107-75-5,
+MIX1059,0,"AMALIE OIL COMPANY  1601 McCloskey Boulevard Tampa, Florida 33605 U.S.A. E-MAIL: info@amalie.com www.amalie.com Telephone: (813)Fax: (813) 828000482 Page 1/9 Safety data sheet according to 1907/2006/EC (REA CH), 1272/2008/EC (CLP), and OSHA GHS Revision: 24 April 2018 SECTION 1 PRODUCT AND COMPANY INFORMATION Product Name(s): AMALIE UNIV SYNTHETIC CVT FLUID Product Code(s): 828305582 Uses: A petroleum-based lubricant. Company: AOCUSA Address: 1601 McCloskey Boulevard Tampa, Fl",1,3,0,name_ref_unique,dropped:nonchemical_name_token,,
+MIX1060,0,(+)-Limonene,16,18,0,name_ref_unique,candidate:name_ref_unique,5989-27-5,C=C(C)[C@H]1CC=C(C)CC1
+MIX1060,1,Gamma-Terpinene,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1060,2,Terpinolene,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1060,3,Alpha-Terpineol,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1060,4,Alpha-Terpinene,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1060,5,"1,4-Cineole",16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1060,6,P-Cymene,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1060,7,Beta-Pinene,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1060,8,Beta-Bisabolene,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1060,9,Terpinen-4-ol,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1060,10,Myrcene,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1060,11,Farnesene,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1060,12,(+-)-alpha-Pinene,16,18,0,name_ref_unique,candidate:name_ref_unique,80-56-8,CC1=CCC2CC1C2(C)C
+MIX1060,13,Gamma-Terpineol,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1060,14,"1,8-Cineole",16,18,0,name_ref_unique,candidate:name_ref_unique,470-82-6,CC12CCC(CC1)C(C)(C)O2
+MIX1060,15,Camphene,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1062,0,"42.2.28 24 CHATHAM PLACE, BRIGHTON, BN1 3TN (UK) TEL. (UK) 0845 310 8066 International Tel. +44 1273 746505 EMAIL: info@nhrorganicoils.com Web Site: www.nhrorganicoils.com Safety Data Sheet Organic Lavender Essential Oil (Lavandula angustifolia) According to 1907/2006/EC, Article 31, amended by Regulation (EU) No. 453/2010 Page 1 / 10 Printing date 13.06.2016 Revision no. 5 Revision: 13.06.2016 SECTION 1: Identification of the substance/mixture and of the company/ undertaking · 1.1 Product ident",1,1,0,name_cas_length_matched,dropped:nonchemical_name_token,,
+MIX1065,0,Water,4,7,0,name_ref_unique,candidate:name_ref_unique,7732-18-5,O
+MIX1065,1,Glycerol,4,7,0,name_ref_unique,candidate:name_ref_unique,56-81-5,OCC(O)CO
+MIX1065,2,Benzyl Alcohol,4,7,0,name_ref_unique,candidate:name_ref_unique,100-51-6,OCc1ccccc1
+MIX1065,3,Potassium Sorbate,4,7,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX1071,0,Ethanol,2,2,0,name_cas_length_matched,candidate:name_cas_length_matched,64-17-5,
+MIX1071,1,Benzoic Acid,2,2,0,name_cas_length_matched,candidate:name_cas_length_matched,65-85-0,
+MIX1077,0,"# Graphite Fluoride - Safety Data Sheet [ChemicalBook](https://www.chemicalbook.com/ProductIndex_EN.aspx) * [All MSDS](https://msds.chemicalbook.com/SearchEN?keyword=CB1223264 ""View more versions MSDS"")[PDF](https://www.chemicalbook.com/msds/graphite-fluoride.pdf ""Download PDF file"") Chemical Safety Data Sheet MSDS / SDS # Graphite Fluoride Revision Date:-17 Revision Number:1 ## SECTION 1: Identification of the substance/mixture and of the company/undertaking[](https://www.chemic",1,1,0,name_cas_length_matched,dropped:nonchemical_name_token,,
+MIX110,0,Clodinafop-propargyl,3,3,0,name_cas_length_matched,candidate:name_cas_length_matched,105512-06-9,
+MIX110,1,N-methyl-2-pyrrolidone,3,3,0,name_cas_length_matched,candidate:name_cas_length_matched,872-50-4,
+MIX110,2,Cloquintocet-mexyl,3,3,0,name_cas_length_matched,candidate:name_cas_length_matched,99607-70-2,
+MIX127,0,Chlorothalonil not listed,3,3,3,length_matched_all,candidate:length_matched_all,1897-45-6,C(#N)C1=C(C(=C(C(=C1Cl)Cl)Cl)C#N)Cl
+MIX127,1,Propylene Glycol not listed,3,3,3,length_matched_all,candidate:length_matched_all,57-55-6,CC(CO)O
+MIX127,2,"Silica, amorphous",3,3,3,length_matched_all,candidate:length_matched_all,112926-00-8,O=[Si]=O
+MIX128,0,Cymoxanil,2,3,0,name_ref_unique,candidate:name_ref_unique,57966-95-7,
+MIX128,1,Fumaric Acid,2,3,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX137,0,cyproconazole >98,1,1,1,length_matched_all,candidate:length_matched_all,94361-06-5,CC(C1CC1)C(CN2C=NC=N2)(C3=CC=C(C=C3)Cl)O
+MIX146,0,Desmedipham,6,7,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX146,1,Ethofumesate,6,7,0,name_ref_unique,candidate:name_ref_unique,26225-79-6,CCOC1Oc2ccc(OS(C)(=O)=O)cc2C1(C)C
+MIX146,2,Lenacil,6,7,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX146,3,Phenmedipham,6,7,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX146,4,2-Phenoxyethanol;phosphoric acid,6,7,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX146,5,"Poly(oxy-1,2-ethanediyl), alpha-isotridecyl-omega-hydroxy-, phosphate",6,7,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX155,0,Potassium salt of aminocyclopyrachlor,4,2,2,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX155,1,Inert Ingredients,4,2,2,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX155,2,Aminocyclopyrachlor,4,2,2,name_ref_unique,candidate:name_ref_unique,858956-08-8,Nc1nc(C2CC2)nc(C(=O)O)c1Cl
+MIX155,3,Other/Inert Ingredients,4,2,2,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX160,0,Elemental Sulfur,2,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX160,1,Inert Ingredients,2,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX162,0,Thidiazuron,6,5,4,name_ref_unique,candidate:name_ref_unique,51707-55-2,O=C(Nc1ccccc1)Nc1cnns1
+MIX162,1,Diuron,6,5,4,name_ref_unique,candidate:name_ref_unique,330-54-1,CN(C)C(=O)Nc1ccc(Cl)c(Cl)c1
+MIX162,2,2-Propanediol <,6,5,4,name_ref_unique,candidate:name_ref_unique,57-55-6,CC(O)CO
+MIX162,3,Fatty alcohol ethoxylate <=,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX162,4,2-Benzisothiazol-3(2H)-one >= 0.005 - <=,6,5,4,name_ref_unique,candidate:name_ref_unique,2634-33-5,O=c1[nH]sc2ccccc12
+MIX162,5,Other ingredients (non-hazardous) to,6,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+MIX163,0,Picoxystrobin,4,2,2,name_ref_unique,candidate:name_ref_unique,117428-22-5,CO/C=C(/C(=O)OC)c1ccccc1COc1cccc(C(F)(F)F)n1
+MIX163,1,Cyproconazole,4,2,2,name_ref_unique,candidate:name_ref_unique,94361-06-5,CC(C1CC1)C(O)(Cn1cncn1)c1ccc(Cl)cc1
+MIX163,2,Other Ingredients,4,2,2,name_ref_unique,dropped:nonchemical_name_token,,
+MIX163,3,Other/Inert Ingredients,4,2,2,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX164,0,Famoxadone,7,3,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX164,1,Cymoxanil,7,3,3,name_ref_unique,candidate:name_ref_unique,57966-95-7,
+MIX164,2,Sodium dioctyl sulfosuccinate,7,3,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX164,3,Alkyl Glycol Polymer,7,3,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX164,4,Modified Lingin Sulfonate Salt,7,3,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX164,5,Other Ingredients,7,3,3,name_ref_unique,dropped:nonchemical_name_token,,
+MIX164,6,Other/Inert Ingredients,7,3,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX165,0,Methomyl,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,16752-77-5,
+MIX166,0,Chlorantraniliprole,3,1,1,name_ref_unique,candidate:name_ref_unique,500008-45-7,CNC(=O)c1cc(Cl)cc(C)c1NC(=O)c1cc(Br)nn1-c1ncccc1Cl
+MIX166,1,Other Ingredients,3,1,1,name_ref_unique,dropped:nonchemical_name_token,,
+MIX166,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX169,0,Trichlorfon,2,2,2,length_matched_all,candidate:length_matched_all,52-68-6,COP(=O)(C(C(Cl)(Cl)Cl)O)OC
+MIX169,1,2-Methoxyethoxyethanol,2,2,2,length_matched_all,candidate:length_matched_all,111-77-3,COCCOCCO
+MIX17,0,Name : Abamectin techn. min,2,2,2,length_matched_all,dropped:nonchemical_name_token,,
+MIX17,1,EC index no : 606,2,2,2,length_matched_all,dropped:nonchemical_name_token,,
+MIX174,0,Diuron,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,330-54-1,
+MIX180,0,Rimsulfuron,2,3,0,name_ref_unique,candidate:name_ref_unique,122931-48-0,CCS(=O)(=O)c1cccnc1S(=O)(=O)NC(=O)Nc1nc(OC)cc(OC)n1
+MIX180,1,Monobasic potassium phosphate,2,3,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX186,0,thiamethoxam,9,9,8,name_cas_length_matched,candidate:name_cas_length_matched,153719-23-4,
+MIX186,1,lambda-cyhalothrin,9,9,8,name_cas_length_matched,candidate:name_cas_length_matched,91465-08-6,
+MIX186,2,"solvent naphtha (petroleum), highly >= 5 - <",9,9,8,name_cas_length_matched,candidate:name_cas_length_matched,64742-94-5,
+MIX186,3,"propane-,2-diol >= 5 - <",9,9,8,name_cas_length_matched,candidate:name_cas_length_matched,57-55-6,
+MIX186,4,methyl-naphthalene >= 1 - <,9,9,8,name_cas_length_matched,candidate:name_cas_length_matched,91-57-6,
+MIX186,5,methyl-naphthalene >= 1 - <,9,9,8,name_cas_length_matched,candidate:name_cas_length_matched,90-12-0,
+MIX186,6,titanium dioxide >= 1 - <,9,9,8,name_cas_length_matched,candidate:name_cas_length_matched,13463-67-7,
+MIX186,7,sulfuric acid >= 0.1 - <,9,9,8,name_cas_length_matched,candidate:name_cas_length_matched,7664-93-9,
+MIX186,8,2-benzisothiazol-3(2H)-one >= 0.05 - <,9,9,8,name_cas_length_matched,candidate:name_cas_length_matched,2634-33-5,
+MIX188,0,Spirodiclofen,4,5,0,name_ref_unique,candidate:name_ref_unique,148477-71-8,CCC(C)(C)C(=O)OC1=C(c2ccc(Cl)cc2Cl)C(=O)OC12CCCCC2
+MIX188,1,Glycerol,4,5,0,name_ref_unique,candidate:name_ref_unique,56-81-5,OCC(O)CO
+MIX188,2,"1,2-Benzisothiazol-3(2H)-one",4,5,0,name_ref_unique,candidate:name_ref_unique,2634-33-5,O=c1[nH]sc2ccccc12
+MIX188,3,Kathon,4,5,0,name_ref_unique,candidate:name_ref_unique,55965-84-9,Cn1sc(Cl)cc1=O.Cn1sccc1=O
+MIX219,0,Tebuconazole,2,2,0,name_cas_length_matched,candidate:name_cas_length_matched,107534-96-3,
+MIX219,1,Dimethyl capramide,2,2,0,name_cas_length_matched,candidate:name_cas_length_matched,14433-76-2,
+MIX221,0,Penthiopyrad,3,1,1,name_ref_unique,candidate:name_ref_unique,183675-82-3,CC(C)CC(C)c1sccc1NC(=O)c1cn(C)nc1C(F)(F)F
+MIX221,1,Other Ingredients,3,1,1,name_ref_unique,dropped:nonchemical_name_token,,
+MIX221,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX242,0,Fluopyram,4,4,0,name_cas_length_matched,candidate:name_cas_length_matched,658066-35-4,
+MIX242,1,Prothioconazole,4,4,0,name_cas_length_matched,candidate:name_cas_length_matched,178928-70-6,
+MIX242,2,"1,2-Benzisothiazol-3(2H)-one",4,4,0,name_cas_length_matched,candidate:name_cas_length_matched,2634-33-5,
+MIX242,3,Propylene Glycol,4,4,0,name_cas_length_matched,candidate:name_cas_length_matched,57-55-6,
+MIX266,0,Silica,4,5,0,name_ref_unique,skipped_length_mismatch:ambiguous_reference_cas,,
+MIX266,1,(R)-Metalaxyl,4,5,0,name_ref_unique,candidate:name_ref_unique,70630-17-0,COCC(=O)N(c1c(C)cccc1C)[C@H](C)C(=O)OC
+MIX266,2,(S)-metalaxyl,4,5,0,name_ref_unique,candidate:name_ref_unique,69516-34-3,
+MIX266,3,Fludioxonil,4,5,0,name_ref_unique,candidate:name_ref_unique,131341-86-1,N#Cc1c[nH]cc1-c1cccc2c1OC(F)(F)O2
+MIX269,0,imazosulfuron >98,1,1,1,length_matched_all,candidate:length_matched_all,122548-33-8,COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(N=C3N2C=CC=C3)Cl)OC
+MIX27,0,Trifluralin none established,3,3,3,length_matched_all,candidate:length_matched_all,1582-09-8,CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
+MIX27,1,Clay,3,3,3,length_matched_all,candidate:length_matched_all,8031-18-3,[O-2].[O-2].[O-2].[O-2].[O-2].[Al+3].[Al+3].[Si+4]
+MIX27,2,contains Crystalline Silica,3,3,3,length_matched_all,candidate:length_matched_all,14808-60-7,O=[Si]=O
+MIX286,0,saflufenacil,2,1,1,name_ref_unique,candidate:name_ref_unique,372137-35-4,CC(C)N(C)S(=O)(=O)NC(=O)c1cc(-n2c(=O)cc(C(F)(F)F)n(C)c2=O)c(F)cc1Cl
+MIX286,1,Proprietary ingredients,2,1,1,name_ref_unique,dropped:nonchemical_name_token,,
+MIX290,0,Thiodicarb,4,4,3,name_cas_length_matched,candidate:name_cas_length_matched,59669-26-0,
+MIX290,1,"Dodecylbenzene sulphonate, isopropylamine salt",4,4,3,name_cas_length_matched,candidate:name_cas_length_matched,26264-05-1,
+MIX290,2,Synthetic amorphous silica,4,4,3,name_cas_length_matched,candidate:name_cas_length_matched,112926-00-8,
+MIX290,3,2-Propanediol,4,4,3,name_cas_length_matched,candidate:name_cas_length_matched,57-55-6,
+MIX297,0,Glufosinate ammonium,5,5,3,name_cas_length_matched,candidate:name_cas_length_matched,77182-82-2,
+MIX297,1,Sodium alkyl ether sulphate,5,5,3,name_cas_length_matched,candidate:name_cas_length_matched,68585-34-2,
+MIX297,2,Methoxy-2-propanol,5,5,3,name_cas_length_matched,candidate:name_cas_length_matched,107-98-2,
+MIX297,3,Dipropylene glycol,5,5,3,name_cas_length_matched,candidate:name_cas_length_matched,25265-71-8,
+MIX297,4,Alkyl polysaccharide,5,5,3,name_cas_length_matched,candidate:name_cas_length_matched,68515-73-1,
+MIX3,0,Dimethomorph,3,4,0,name_ref_unique,candidate:name_ref_unique,110488-70-5,COc1ccc(C(=CC(=O)N2CCOCC2)c2ccc(Cl)cc2)cc1OC
+MIX3,1,Sodium diisopropylnaphthalenesulphonate,3,4,0,name_ref_unique,candidate:name_ref_unique,1322-93-6,CC(C)c1cc2ccccc2c(S(=O)(=O)O)c1C(C)C
+MIX3,2,Silica,3,4,0,name_ref_unique,skipped_length_mismatch:ambiguous_reference_cas,,
+MIX323,0,Manganese ethylenebis (dithiocarbamate) Mancozeb,2,2,2,length_matched_all,candidate:length_matched_all,8018-01-7,C(CNC(=S)[S-])NC(=S)[S-].C(CNC(=S)[S-])NC(=S)[S-].[Mn+2].[Zn+2]
+MIX323,1,"2,2-difluoro-1,3-benzodioxol-4-yl-1H-pyrrole- Fludioxonil",2,2,2,length_matched_all,candidate:length_matched_all,131341-86-1,C1=CC(=C2C(=C1)OC(O2)(F)F)C3=CNC=C3C#N
+MIX33,0,Glycerol,9,9,0,name_cas_length_matched,candidate:name_cas_length_matched,56-81-5,
+MIX33,1,Propylene Glycol,9,9,0,name_cas_length_matched,candidate:name_cas_length_matched,57-55-6,
+MIX33,2,Azoxystrobin,9,9,0,name_cas_length_matched,candidate:name_cas_length_matched,131860-33-8,
+MIX33,3,(R)-Metalaxyl,9,9,0,name_cas_length_matched,candidate:name_cas_length_matched,70630-17-0,
+MIX33,4,(S)-metalaxyl,9,9,0,name_cas_length_matched,candidate:name_cas_length_matched,69516-34-3,
+MIX33,5,Fludioxonil,9,9,0,name_cas_length_matched,candidate:name_cas_length_matched,131341-86-1,
+MIX33,6,Thiabendazole,9,9,0,name_cas_length_matched,candidate:name_cas_length_matched,148-79-8,
+MIX33,7,Abamectin,9,9,0,name_cas_length_matched,candidate:name_cas_length_matched,71751-41-2,
+MIX33,8,Thiamethoxam,9,9,0,name_cas_length_matched,candidate:name_cas_length_matched,153719-23-4,
+MIX356,0,"sucrose, pure >= 10 - <",7,7,6,name_cas_length_matched,candidate:name_cas_length_matched,57-50-1,
+MIX356,1,"4-Pyridinedimethanol, 5-hydroxy-6- >= 5 - <",7,7,6,name_cas_length_matched,candidate:name_cas_length_matched,58-56-0,
+MIX356,2,Pyridine--carboxylic acid >= 5 - <,7,7,6,name_cas_length_matched,candidate:name_cas_length_matched,59-67-6,
+MIX356,3,acetic acid >= 1 - <,7,7,6,name_cas_length_matched,candidate:name_cas_length_matched,64-19-7,
+MIX356,4,starch >= 1 - <,7,7,6,name_cas_length_matched,candidate:name_cas_length_matched,9005-25-8,
+MIX356,5,"5,7-triaza-1- >= 0.1 - <",7,7,6,name_cas_length_matched,candidate:name_cas_length_matched,51229-78-8,
+MIX356,6,emamectin benzoate,7,7,6,name_cas_length_matched,candidate:name_cas_length_matched,155569-91-8,
+MIX357,0,Rimsulfuron,6,2,3,name_ref_unique,candidate:name_ref_unique,122931-48-0,CCS(=O)(=O)c1cccnc1S(=O)(=O)NC(=O)Nc1nc(OC)cc(OC)n1
+MIX357,1,Isoxaflutole,6,2,3,name_ref_unique,candidate:name_ref_unique,141112-29-0,CS(=O)(=O)c1cc(C(F)(F)F)ccc1C(=O)c1cnoc1C1CC1
+MIX357,2,Lignin Sulfonate Salt,6,2,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX357,3,Disodium phosphate,6,2,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX357,4,Other Ingredients,6,2,3,name_ref_unique,dropped:nonchemical_name_token,,
+MIX357,5,Other/Inert Ingredients,6,2,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX362,0,Tebuconazole,5,5,4,name_cas_length_matched,candidate:name_cas_length_matched,107534-96-3,
+MIX362,1,Metalaxyl,5,5,4,name_cas_length_matched,candidate:name_cas_length_matched,57837-19-1,
+MIX362,2,Prothioconazole,5,5,4,name_cas_length_matched,candidate:name_cas_length_matched,178928-70-6,
+MIX362,3,Ethoxylated tallow alkyl amines,5,5,4,name_cas_length_matched,candidate:name_cas_length_matched,61791-26-2,
+MIX362,4,2-Propanediol,5,5,4,name_cas_length_matched,candidate:name_cas_length_matched,57-55-6,
+MIX381,0,glycerol >= 10 - <,5,5,5,length_matched_all,candidate:length_matched_all,56-81-5,C(C(CO)O)O
+MIX381,1,gamma-butyrolactone >= 1 - <,5,5,5,length_matched_all,candidate:length_matched_all,96-48-0,C1CC(=O)OC1
+MIX381,2,"methyl N-(,6-dimethylphenyl)-N- >= 1 - <",5,5,5,length_matched_all,candidate:length_matched_all,57837-19-1,CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)COC
+MIX381,3,"propane-,2-diol >= 1 - <",5,5,5,length_matched_all,candidate:length_matched_all,57-55-6,CC(CO)O
+MIX381,4,Ipconazole >= 1 - <,5,5,5,length_matched_all,candidate:length_matched_all,125225-28-7,CC(C)C1CCC(C1(CN2C=NC=N2)O)CC3=CC=C(C=C3)Cl
+MIX386,0,Imidacloprid,3,1,1,name_ref_unique,candidate:name_ref_unique,138261-41-3,
+MIX386,1,Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX386,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX409,0,Tebuconazole 37.5-39.9 X,3,3,3,length_matched_all,candidate:length_matched_all,107534-96-3,CC(C)(C)C(CCC1=CC=C(C=C1)Cl)(CN2C=NC=N2)O
+MIX409,1,"2,3-Propanetriol 9.5-10.5",3,3,3,length_matched_all,candidate:length_matched_all,56-81-5,C(C(CO)O)O
+MIX409,2,2-Benzisothiazol-3(2H)-one 0.18-0.22,3,3,3,length_matched_all,candidate:length_matched_all,2634-33-5,C1=CC=C2C(=C1)C(=O)NS2
+MIX410,0,Thifensulfuron methyl,3,1,1,name_ref_unique,candidate:name_ref_unique,79277-27-3,COC(=O)c1sccc1S(=O)(=O)NC(=O)Nc1nc(C)nc(OC)n1
+MIX410,1,Other Ingredients,3,1,1,name_ref_unique,dropped:nonchemical_name_token,,
+MIX410,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,0,None listed,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,1,Immediate (Acute); Delayed (Chronic,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,2,"2,4-Dichlorophenoxyacetic acid",25,2,1,name_ref_unique,candidate:name_ref_unique,94-75-7,O=C(O)COc1ccc(Cl)cc1Cl
+MIX414,3,"CERCLA - This product contains the following chemicals which have a reportable quantity (RQ) under the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,4,2.4-Dichlorophenoxyacetic acid has an RQ of 100 Ibs (reached with 27.5 gallons of product). Dodecylbenzenesulfonic acid has an RQ of 1000 Ibs (not reached with any practical quantity of this substance,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,5,2.4-Dichlorophenoxyacetic acid has an RQ of 100 Ibs (reached with 27.5 gallons of product,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,6,Dodecylbenzenesulfonic acid has an RQ of 1000 Ibs (not reached with any practical quantity of this substance,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,7,Corrosive,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,8,California Proposition 65: This product contains chemicals known to the state of California to cause cancer and/or oductive harm,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,9,"U.S. State Worker and Community Right-To-Know (RTK) Information (IL, MA, MN, NJ, PA, RI",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,10,State(s,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,11,"IL, MA, MN, NJ, PA, RI",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,12,Dodecylbenzenesulfonic,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,13,Dodecylbenzenesulfonic acid,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,14,acid,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,15,"MA, NJ, PA",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,16,Canadian Domestic,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,17,Substances List,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,18,Not determined,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,19,"Disclaimer: The information presented herein is based on available data from reliable sources and is correct to the best of WinField Solutions' knowledge. WinField Solutions, LLC makes no warranty, express nor implied, regarding the accuracy of the data or the results obtained from the use of this product. Nothing herein may be construed as recommending any practice or any product in violation of any law or regulations. The user is solely responsible for determining the suitability of any material or product for a specific purpose and for adopting any appropriate safety precautions. We disclaim all liability for injury or damage stemming from any improper use of the material or product described herein",25,2,1,name_ref_unique,dropped:nonchemical_name_token,,
+MIX414,20,Supersedes document dated,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,21,"Supersedes document dated: May 29, 2015",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,22,"December 07, 2017",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,23,"May 29, 2015",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX414,24,6 of 6,25,2,1,name_ref_unique,dropped:nonchemical_name_token,,
+MIX423,0,Pyraclostrobin,7,4,4,name_ref_unique,candidate:name_ref_unique,175013-18-0,COC(=O)N(OC)c1ccccc1COc1ccn(-c2ccc(Cl)cc2)n1
+MIX423,1,Content (W/W),7,4,4,name_ref_unique,dropped:nonchemical_name_token,,
+MIX423,2,Triticonazole,7,4,4,name_ref_unique,candidate:name_ref_unique,131983-72-7,
+MIX423,3,crystalline silica,7,4,4,name_ref_unique,candidate:name_ref_unique,14808-60-7,O=[Si]=O
+MIX423,4,Content (W/W): >= 5.0,7,4,4,name_ref_unique,dropped:nonchemical_name_token,,
+MIX423,5,Propylene glycol,7,4,4,name_ref_unique,candidate:name_ref_unique,57-55-6,CC(O)CO
+MIX423,6,Content (W/W): >= 0.9,7,4,4,name_ref_unique,dropped:nonchemical_name_token,,
+MIX433,0,Pyrimethanil,3,4,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX433,1,"1,2-Benzisothiazol-3(2H)-one",3,4,0,name_ref_unique,candidate:name_ref_unique,2634-33-5,O=c1[nH]sc2ccccc12
+MIX433,2,Propylene Glycol,3,4,0,name_ref_unique,candidate:name_ref_unique,57-55-6,CC(O)CO
+MIX448,0,Saflufenacil,3,5,0,name_ref_unique,candidate:name_ref_unique,372137-35-4,CC(C)N(C)S(=O)(=O)NC(=O)c1cc(-n2c(=O)cc(C(F)(F)F)n(C)c2=O)c(F)cc1Cl
+MIX448,1,Ammonium Sulfate,3,5,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX448,2,Sodium diisopropylnaphthalenesulphonate,3,5,0,name_ref_unique,candidate:name_ref_unique,1322-93-6,CC(C)c1cc2ccccc2c(S(=O)(=O)O)c1C(C)C
+MIX468,0,Chlorpyrifos-methyl,8,8,6,name_cas_length_matched,candidate:name_cas_length_matched,5598-13-0,
+MIX468,1,Deltamethrin,8,8,6,name_cas_length_matched,candidate:name_cas_length_matched,52918-63-5,
+MIX468,2,"Solvent Naphtha (petroleum), light aromatic",8,8,6,name_cas_length_matched,candidate:name_cas_length_matched,64742-95-6,
+MIX468,3,"2,4-Trimethylbenzene",8,8,6,name_cas_length_matched,candidate:name_cas_length_matched,95-63-6,
+MIX468,4,Xylene,8,8,6,name_cas_length_matched,candidate:name_cas_length_matched,1330-20-7,
+MIX468,5,Mesitylene,8,8,6,name_cas_length_matched,candidate:name_cas_length_matched,108-67-8,
+MIX468,6,Ethylbenzene,8,8,6,name_cas_length_matched,candidate:name_cas_length_matched,100-41-4,
+MIX468,7,Cumene,8,8,6,name_cas_length_matched,candidate:name_cas_length_matched,98-82-8,
+MIX472,0,Active ingredient (% w/w): Tebuconazole Technical,2,2,2,length_matched_all,dropped:nonchemical_name_token,,
+MIX472,1,THFA Proprietary,2,2,2,length_matched_all,dropped:nonchemical_name_token,,
+MIX490,0,Silica,3,4,0,name_ref_unique,skipped_length_mismatch:ambiguous_reference_cas,,
+MIX490,1,Fludioxonil,3,4,0,name_ref_unique,candidate:name_ref_unique,131341-86-1,N#Cc1c[nH]cc1-c1cccc2c1OC(F)(F)O2
+MIX490,2,Cyprodinil,3,4,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX497,0,GSP Crop Science Limited,2,2,2,length_matched_all,dropped:nonchemical_name_token,,
+MIX497,1,Tolfenpyrad EC,2,2,2,length_matched_all,candidate:length_matched_all,872-50-4,CN1CCCC1=O
+MIX499,0,Flutriafol,4,4,3,name_cas_length_matched,candidate:name_cas_length_matched,76674-21-0,
+MIX499,1,Propylene glycol 5-10,4,4,3,name_cas_length_matched,candidate:name_cas_length_matched,57-55-6,
+MIX499,2,"Alcohols, C13-15 Branched and Linear, Ethoxylated 5-10",4,4,3,name_cas_length_matched,candidate:name_cas_length_matched,157627-86-6,
+MIX499,3,2 benzisothiazolin-3-one 0.02 (max),4,4,3,name_cas_length_matched,candidate:name_cas_length_matched,2634-33-5,
+MIX50,0,Picoxystrobin,4,2,2,name_ref_unique,candidate:name_ref_unique,117428-22-5,CO/C=C(/C(=O)OC)c1ccccc1COc1cccc(C(F)(F)F)n1
+MIX50,1,Cyproconazole,4,2,2,name_ref_unique,candidate:name_ref_unique,94361-06-5,CC(C1CC1)C(O)(Cn1cncn1)c1ccc(Cl)cc1
+MIX50,2,Other Ingredients,4,2,2,name_ref_unique,dropped:nonchemical_name_token,,
+MIX50,3,Other/Inert Ingredients,4,2,2,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX516,0,triticonazole >98,1,1,1,length_matched_all,candidate:length_matched_all,131983-72-7,CC1(CC/C(=C\C2=CC=C(C=C2)Cl)/C1(CN3C=NC=N3)O)C
+MIX522,0,Penthiopyrad,3,1,1,name_ref_unique,candidate:name_ref_unique,183675-82-3,CC(C)CC(C)c1sccc1NC(=O)c1cn(C)nc1C(F)(F)F
+MIX522,1,Other Ingredients,3,1,1,name_ref_unique,dropped:nonchemical_name_token,,
+MIX522,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX550,0,Pyraclostrobin,10,5,4,name_ref_unique,candidate:name_ref_unique,175013-18-0,COC(=O)N(OC)c1ccccc1COc1ccn(-c2ccc(Cl)cc2)n1
+MIX550,1,Content (W/W),10,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+MIX550,2,Fluxapyroxad,10,5,4,name_ref_unique,candidate:name_ref_unique,907204-31-3,Cn1cc(C(=O)Nc2ccccc2-c2cc(F)c(F)c(F)c2)c(C(F)F)n1
+MIX550,3,Content (W/W): >= 0.5,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+MIX550,4,sodium salts,10,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX550,5,Content (W/W): > 0.5 - <=,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+MIX550,6,bronopol,10,5,4,name_ref_unique,candidate:name_ref_unique,52-51-7,O=[N+]([O-])C(Br)(CO)CO
+MIX550,7,Content (W/W): >= 0.02,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+MIX550,8,mixture of: 5-chloro-2-methyl-2H-isothiazol-3-one and 2-methyl-2H-isothiazol-3-one (3:1),10,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX550,9,Content (W/W): >= 0.0001,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+MIX600,0,Chlorantraniliprole >= 2.5 - <,4,4,4,length_matched_all,candidate:length_matched_all,500008-45-7,CC1=CC(=CC(=C1NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br)C(=O)NC)Cl
+MIX600,1,+/--tartaric acid >= 20 - <,4,4,4,length_matched_all,candidate:length_matched_all,133-37-9,C(C(C(=O)O)O)(C(=O)O)O
+MIX600,2,sodium carbonate >= 1 - <,4,4,4,length_matched_all,candidate:length_matched_all,497-19-8,C(=O)([O-])[O-].[Na+].[Na+]
+MIX600,3,Talc (Mg3H2(SiO3)) >= 1 - <,4,4,4,length_matched_all,candidate:length_matched_all,14807-96-6,[OH-].[OH-].[O-][Si]12O[Si]3(O[Si](O1)(O[Si](O2)(O3)[O-])[O-])[O-].[Mg+2].[Mg+2].[Mg+2]
+MIX65,0,Cypermethrin,2,2,2,length_matched_all,candidate:length_matched_all,52315-07-8,CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C
+MIX65,1,"Silica, amorphous, precipitated and gel",2,2,2,length_matched_all,candidate:length_matched_all,112926-00-8,O=[Si]=O
+MIX742,0,Components: Proprietary Organic Deicer. Proprietary%. Proprietary Organic Deicer. Proprietary%. · Non-hazardous components. CAS: 7732-18-5 Water.,1,1,0,name_cas_length_matched,dropped:nonchemical_name_token,,
+MIX743,0,Composition/information on Ingredients. Component. CAS No. Weight %. 3-(p-Methoxyphenyl)propionic acid. 1929-29-9. >95. 4. First-aid measures. Eye Contact.,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,1929-29-9,
+MIX760,0,3.Composition/information on ingredients. 3.1Substances. Chemical name fosthiazate cas 98886-44-3. 100%. 4.First-aid measures. 4.1. Description of necessary ...,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,98886-44-3,
+MIX77,0,Pyraclostrobin,10,5,4,name_ref_unique,candidate:name_ref_unique,175013-18-0,COC(=O)N(OC)c1ccccc1COc1ccn(-c2ccc(Cl)cc2)n1
+MIX77,1,Content (W/W),10,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+MIX77,2,Ammonium sulphate,10,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX77,3,Content (W/W): > 10.0,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+MIX77,4,Silicon dioxide,10,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX77,5,Content (W/W): >= 10.0 - <=,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+MIX77,6,Kaolin,10,5,4,name_ref_unique,candidate:name_ref_unique,1332-58-7,O.O.[Al+3].[Al+3].[O-][Si]([O-])([O-])O[Si]([O-])([O-])[O-]
+MIX77,7,Content (W/W): >= 3.0 - <=,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+MIX77,8,sodium-di-ethyl-hexyl-sulfosuccinate,10,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX77,9,Content (W/W): >= 0.1 - <=,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,
+MIX815,0,1. Occupational Exposure Limits. CAS No. 67762-26-9: No Occupational Exposure Limit assigned. SUBSTANCE. CAS No. LTEL (8 hr. TWA ppm).,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,67762-26-9,
+MIX844,0,Composition/information on Ingredients. Chemical name. CAS No. Weight-%. Ethylene glycol. 107-21-1. 8. Ethofumesate. 26225-79-6. 42.0. If CAS ...,1,2,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX856,0,"Linalyl acetate, synthetic. Cat No. : AC232300000; AC232300050; AC232301000; AC232305000. CAS No. 115-95-7. Synonyms. 3,7-Dimethyl-1,6-oct; 3,7 ...",1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,115-95-7,
+MIX861,0,"ANISE SEED OIL (CAS 84650-59-9). LD50. Rat. Oral. Acute. 2200 mg/kg ... Read safety instructions, SDS and emergency procedures before handling.",1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,84650-59-9,
+MIX862,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Angelica Archangelica Root Oil. 84775-41-7 / 8015-64-3. 283- ...,1,2,0,name_ref_unique,dropped:nonchemical_name_token,,
+MIX864,0,*. None of the ingredients is listed. SECTION 03: Composition/information on ingredients. 3.1 Substances.Description. -6. Mimosa absolute,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8031-03-6,
+MIX870,0,"CAS-No. : 68611-23-4, 88683-93-6. 4. FIRST AID MEASURES. Inhalation. : Remove from exposure site to fresh air and keep at rest. Obtain medical ...",1,2,0,name_ref_unique,dropped:nonchemical_name_token,,
+MIX871,0,"Canada balsam, natural filtered. Cat No. : A16289. CAS No. 8007-47-4. Synonyms. None. Recommended Use. Laboratory chemicals. Uses advised against. Food, drug ...",1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8007-47-4,
+MIX880,0,"ROSE OIL TURKISH LMR. Print Date. 28.05.2020. Page 1 (6). Version. : 6 ...: -0, -0. 4. FIRST AID MEASURES. Inhalation",1,2,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX882,0,-0. EINECS. -7. REACH: A registration number is not available for this substance as the substance or its uses are exempted from registration,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8016-84-0,
+MIX885,0,1 Identification. · Product identifier. · Trade name(s): JONQUILLE ABS. FRANCE. · Article number(s): 53025. · CAS Number: 8023-75-4.,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8023-75-4,
+MIX886,0,CAS number. %. Chemical name. Common name and synonyms. 90147-36-7. VIOLET LEAF ABSOLUTE. 100. Other related CAS # 8024-08-6. Composition ...,1,2,0,name_ref_unique,dropped:nonchemical_name_token,,
+MIX894,0,COMPOSITION/INFORMATION ON INGREDIENTS. Substances. CAS number ... LEMONGRASS OIL (CAS 8007-02-1). LD50. Rabbit. Dermal. Acute. > 5000 mg/kg.,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8007-02-1,
+MIX897,0,Information on toxicological effects. Acute toxicity. Not known. Test Results. Product. Species. BASIL OIL (CAS 8015-73-4). LD50. Rat. Dermal.,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8015-73-4,
+MIX898,0,COMPOSITION/INFORMATION ON INGREDIENTS. Substances. CAS number. %. Chemical name. Common name and synonyms. 8000-42-8. CARAWAY OIL. 100. 4.,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8000-42-8,
+MIX899,0,Composition / information on ingredients. Contains: Name. CAS. %. GHS Classification. Ethyl alcohol. 64-17-5. 50.00%. Flam. Liq. 2-Eye Irrit. 2A;H225-H319.,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,64-17-5,
+MIX90,0,Isopropanol -No,4,4,4,length_matched_all,candidate:length_matched_all,67-63-0,CC(C)O
+MIX90,1,Ethanol -No,4,4,4,length_matched_all,candidate:length_matched_all,64-17-5,CCO
+MIX90,2,Butoxyethanol -No.: 1-5,4,4,4,length_matched_all,candidate:length_matched_all,111-76-2,CCCCOCCO
+MIX90,3,Didecyldimethylammonium chloride -No,4,4,4,length_matched_all,candidate:length_matched_all,7173-51-5,CCCCCCCCCC[N+](C)(C)CCCCCCCCCC.[Cl-]
+MIX904,0,ESTRAGON OIL (CAS 8016-88-4). LD50. Rabbit. Dermal. Acute. > 5 ml/kg. LD50. Rat. Oral. 1900 mg/kg. Due to partial or complete lack of data the ...,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8016-88-4,
+MIX908,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Cinnamomum Cassia Leaf Oil. 8007-80-5. 284-635-0. 100 %. 4.,1,1,0,name_cas_length_matched,dropped:nonchemical_name_token,,
+MIX911,0,COMPOSITION/INFORMATION ON INGREDIENTS. Substances. CAS number ... LEMONGRASS OIL (CAS 8007-02-1). LD50. Rabbit. Dermal. Acute. > 5000 mg/kg.,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8007-02-1,
+MIX912,0,COMPOSITION/INFORMATION ON INGREDIENTS. Substances. CAS number. %. Chemical name. Common name and synonyms. 8023-88-9. COSTUS OIL. 100. 4. FIRST ...,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8023-88-9,
+MIX915,0,"ANISE SEED OIL (CAS 84650-59-9). LD50. Rat. Oral. Acute. 2200 mg/kg ... Read safety instructions, SDS and emergency procedures before handling.",1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,84650-59-9,
+MIX916,0,DL-Camphor. Cat No. : AC164640000; AC164640010; AC164640050; AC164640051;. AC164642500. CAS No. 76-22-2. Synonyms. No information available.,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,76-22-2,
+MIX917,0,Information on toxicological effects. Acute toxicity. Not known. Test Results. Product. Species. COGNAC OIL (CAS 8016-21-5). LD50. Rabbit.,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8016-21-5,
+MIX921,0,"1.1 Product identifier : CASCARILLA BARK OIL. Chemical name: Croton eluteria, oil. CAS: 8007-06-5. EC Number: 284-284-3. 1.2. Relevant ...",1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8007-06-5,
+MIX923,0,P331. Do NOT induce vomiting. 3. COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Schinus Molle Oil. 68917-52-2. -. 100 %. 4.,1,1,0,name_cas_length_matched,dropped:nonchemical_name_token,,
+MIX924,0,DILLWEED OIL (CAS 8006-75-5). LD50. Rat. Oral. Acute. 4040 mg/kg. Causes skin irritation. Skin corrosion/irritation. Causes serious eye ...,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8006-75-5,
+MIX926,0,number. EINECS number. %. Canarium Luzonicum (Elemi) Gum Oil. -0 ; -3. -0. 100. Page 3. Avena. Lab. MATERIAL SAFETY DATA SHEET. Page 3,1,2,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,
+MIX929,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Acorus Calamus Root Oil. 84775-39-3/8015-79-0. 283-869-0. 100 ...,1,2,0,name_ref_unique,dropped:nonchemical_name_token,,
+MIX931,0,NEROLI OIL (CAS 8016-38-4). LD50. Rat. Oral. Acute. 4550 mg/kg. Causes skin irritation. Skin corrosion/irritation. Causes serious eye irritation ...,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8016-38-4,
+MIX937,0,COMPOSITION/INFORMATION ON INGREDIENTS. Substances. CAS number. %. Chemical name. Common name and synonyms. 8016-03-3. DAVANA OIL. 100. 4. FIRST ...,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8016-03-3,
+MIX939,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Helichrysum Italicum Flower Oil. 90045-56-0. 289-918-2. 100 %.,1,1,0,name_cas_length_matched,dropped:nonchemical_name_token,,
+MIX941,0,COMPOSITION/INFORMATION ON INGREDIENTS. Substances. CAS number ... ALMOND OIL BITTER (CAS 8013-76-1). LD50. Rabbit. Dermal. Acute. 1220 mg ...,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8013-76-1,
+MIX946,0,3 Composition/information on ingredients. · Chemical characterization: Substances. · CAS No. Description. CAS: 8013-76-1 Bitter almond oil. · ...,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8013-76-1,
+MIX949,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Curcuma longa Root Oil. 458-37-7. 100%. 4. FIRST AID MEASURES.,1,1,0,name_cas_length_matched,dropped:nonchemical_name_token,,
+MIX952,0,COMPOSITION/INFORMATION ON INGREDIENTS. Substances. CAS number ... TANGERINE OIL (CAS 8016-85-1). LD50. Rabbit. Dermal. Acute. > 5000 mg/kg.,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8016-85-1,
+MIX954,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Anethum Graveolens Seed Oil. 90028-03-8 / 8006-75-5. 289-790- ...,1,2,0,name_ref_unique,dropped:nonchemical_name_token,,
+MIX957,0,COMPOSITION/INFORMATION ON INGREDIENTS. Substances. CAS number ... CLOVE OIL (CAS 8000-34-8). LD50. Rabbit. Dermal. Acute. 2500 mg/kg. LD50.,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8000-34-8,
+MIX965,0,Synonyms. INCI: Copaifera Officinalis (Balsam Copaiba) Resin Oil. Chemical Family. Essential oil. Chemical name. CAS No. Weight-%. Copaiba oil. 8013-97-6. 100.,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8013-97-6,
+MIX967,0,COMPOSITION/INFORMATION ON INGREDIENTS. Substances. CAS number. %. Chemical name. Common name and synonyms. 8016-23-7. GUAIACWOOD OIL. 100. 4.,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8016-23-7,
+MIX970,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Vetiveria Zizanoides Root Oil. 84238-29-9. 282-490-8. 100 %.,1,1,0,name_cas_length_matched,dropped:nonchemical_name_token,,
+MIX975,0,COMPOSITION/INFORMATION ON INGREDIENTS. Substances. CAS number ... MARJORAM OIL (CAS 8015-01-8). LD50. Rabbit. Dermal. Acute. > 5000 mg/kg.,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8015-01-8,
+MIX978,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Clary Sage Oil. 84775-83-7/8016-63-5. 283-911-8. 100 %. 4.,1,2,0,name_ref_unique,dropped:nonchemical_name_token,,
+MIX979,0,JUNIPER BERRY OIL (CAS 8002-68-4). LD50. Rat. Oral. Acute. 6280 mg/kg. Causes skin irritation. Skin corrosion/irritation. Causes serious eye ...,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8002-68-4,
+MIX980,0,COMPOSITION/INFORMATION ON INGREDIENTS. Substances.number. %. Chemical name. Common name and synonyms. -9. CUMIN OIL. 100. Page 3,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8014-13-9,
+MIX983,0,COMPOSITION/INFORMATION ON INGREDIENTS. Substances. CAS number ... CEDARWOOD OIL (CAS 8000-27-9). LD50. Rabbit. Dermal. Presumed Non-Toxic.,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,8000-27-9,
+MIX989,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Thymus Vulgaris Oil. 84929-51-1. 284-535-7. 100 %. 4. FIRST ...,1,1,0,name_cas_length_matched,dropped:nonchemical_name_token,,
+MIX994,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Clary Sage Oil. 84775-83-7/8016-63-5. 283-911-8. 100 %. 4.,1,2,0,name_ref_unique,dropped:nonchemical_name_token,,
+MIX997,0,Supplemental information. None. 3. COMPOSITION/INFORMATION ON INGREDIENTS ... CEDARWOOD OIL (CAS 68990-83-0). LD50. Rabbit. Dermal. Acute. > 5000 ...,1,1,0,name_cas_length_matched,candidate:name_cas_length_matched,68990-83-0,
+MIX998,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Copaiba oficinallis Resin. 9000-12-8. 232-526-3. 100 %. 4.,1,1,0,name_cas_length_matched,dropped:nonchemical_name_token,,

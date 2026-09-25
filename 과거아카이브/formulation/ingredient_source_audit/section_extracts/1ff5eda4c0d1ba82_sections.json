@@ -1,0 +1,19 @@
+{
+  "source_id": "1ff5eda4c0d1ba82",
+  "file_path": "ingredient_source_audit/highlighted/1ff5eda4c0d1ba82_highlighted.pdf",
+  "page_count": 5,
+  "full_text_length": 10416,
+  "sections_found": [
+    "label_header"
+  ],
+  "label_header": {
+    "epa_reg_number": null,
+    "formulation_code": null,
+    "signal_word": null,
+    "active_ingredient_declared": true,
+    "text_excerpt": "LANXESS Corporation · 111 RIDC Park West Drive · Pittsburgh, PA 15275 · Phone:  1-800-LANXESS · www.US.LANXESS.com \n \nPage 1 of 5:  This document contains important information and must be read in its entirety. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nProduct Information \n \n \nPREVENTOL® BIT 20 N \nAqueous/"
+  },
+  "fallback": {
+    "epa_reg_number": "39967-150"
+  }
+}

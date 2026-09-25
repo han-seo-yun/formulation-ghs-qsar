@@ -1,0 +1,24 @@
+{
+  "source_id": "c7e78d31b7faea01",
+  "file_path": "ingredient_source_audit/highlighted/c7e78d31b7faea01_highlighted.pdf",
+  "page_count": 5,
+  "full_text_length": 10709,
+  "sections_found": [
+    "section_3",
+    "section_2",
+    "section_14",
+    "section_15"
+  ],
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "HAZARDS IDENTIFICATION \nEC Classification \n \nThis product is not classified as dangerous according to Directive 1999/45/ EC . \n \n \nCritical Hazards \n \nThis product presents minimum hazards under emergency circumstances. \n \nInhalation \nInhalation can cause irritation to respiratory system. \n \nEyes \nC"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

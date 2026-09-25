@@ -1,0 +1,413 @@
+{
+  "data": {
+    "n_formulation": 1675,
+    "n_features": 520,
+    "n_labeled": {
+      "eye": 1105,
+      "skin": 992,
+      "sens": 595
+    },
+    "fp_dim_used": 2048,
+    "fp_is_binary": true,
+    "n_groups": 589
+  },
+  "committee_check": {
+    "eye": {
+      "classes_ok": true,
+      "mean_pred_spread": 0.0431602468096266,
+      "unc_mean_all": 0.015632110993073142,
+      "unc_mean_labeled": 0.01455130970335198,
+      "unc_mean_unlabeled": 0.017727348581041358,
+      "unc_zero_frac": 0.0
+    },
+    "skin": {
+      "classes_ok": true,
+      "mean_pred_spread": 0.040821910050354016,
+      "unc_mean_all": 0.014804855936419064,
+      "unc_mean_labeled": 0.013116445408407597,
+      "unc_mean_unlabeled": 0.017257130085448897,
+      "unc_zero_frac": 0.0
+    },
+    "sens": {
+      "classes_ok": true,
+      "mean_pred_spread": 0.047822482845487846,
+      "unc_mean_all": 0.01721353783238744,
+      "unc_mean_labeled": 0.013019736665490896,
+      "unc_mean_unlabeled": 0.019524011623409155,
+      "unc_zero_frac": 0.0
+    }
+  },
+  "diversity_distribution": {
+    "v1_cosine_selfin": {
+      "raw_mean": 0.07986694170039568,
+      "raw_median": 1.4744194754001683e-10,
+      "raw_std": 0.18293256333910693,
+      "n_raw_exact_zero": 0,
+      "n_raw_le_1e_9": 1367,
+      "n_raw_le_0.01": 1387,
+      "n_raw_le_0.05": 1391,
+      "frac_raw_le_0.01": 0.8281,
+      "n_neutral_0.5": 223
+    },
+    "loo_cosine": {
+      "raw_mean": 0.26145340611550366,
+      "raw_median": 0.2492646730374738,
+      "raw_std": 0.19885326656615657,
+      "n_raw_exact_zero": 0,
+      "n_raw_le_1e_9": 299,
+      "n_raw_le_0.01": 315,
+      "n_raw_le_0.05": 366,
+      "frac_raw_le_0.01": 0.1881,
+      "n_neutral_0.5": 223
+    },
+    "v2_tanimoto_loo": {
+      "raw_mean": 0.3637894605038594,
+      "raw_median": 0.41791044776988195,
+      "raw_std": 0.2421064132628598,
+      "n_raw_exact_zero": 0,
+      "n_raw_le_1e_9": 299,
+      "n_raw_le_0.01": 314,
+      "n_raw_le_0.05": 335,
+      "frac_raw_le_0.01": 0.1875,
+      "n_neutral_0.5": 223
+    },
+    "v1_tanimoto_selfin": {
+      "raw_mean": 0.08541413005428053,
+      "raw_median": 2.1739055000580265e-11,
+      "raw_std": 0.19446061620701635,
+      "n_raw_exact_zero": 0,
+      "n_raw_le_1e_9": 1367,
+      "n_raw_le_0.01": 1385,
+      "n_raw_le_0.05": 1389,
+      "frac_raw_le_0.01": 0.8269,
+      "n_neutral_0.5": 223
+    },
+    "_meta": {
+      "n_rows": 1675,
+      "n_with_nonzero_fingerprint": 1452,
+      "n_without_usable_structure": 223,
+      "note": "v1은 pool_norms에 +1e-9를 더하므로 자기유사도가 정확히 1.0이 아니라 1-1e-9 수준이 된다. 따라서 자기포함 붕괴는 n_raw_exact_zero가 아니라 n_raw_le_1e_9 / n_raw_le_0.01 로 세어야 한다. n_neutral_0.5 = 구조 미보유 중립값 행(붕괴 아님)."
+    }
+  },
+  "metric_swap_cosine_vs_tanimoto": {
+    "spearman_rho_diversity_raw": 0.9561,
+    "spearman_p": 0.0,
+    "pearson_r": 0.9509,
+    "mean_abs_diff": 0.1023,
+    "tanimoto_mean_minus_cosine_mean": 0.1023
+  },
+  "endpoint_weights": {
+    "method": "learning-curve marginal expected information gain (err=A*n^-b, b fitted from data; w = g/mean(g), g=A*b*n0^-(b+1))",
+    "per_endpoint": {
+      "eye": {
+        "n0": 1105,
+        "curve": [
+          [
+            294.0,
+            0.4199
+          ],
+          [
+            423.0,
+            0.4108
+          ],
+          [
+            613.0,
+            0.4183
+          ],
+          [
+            776.3,
+            0.4059
+          ],
+          [
+            929.7,
+            0.3827
+          ],
+          [
+            1105.0,
+            0.3934
+          ]
+        ],
+        "powerlaw_A": 0.5862,
+        "powerlaw_b": 0.0574,
+        "loglog_fit_r2": 0.6254,
+        "err_at_n0": 0.392,
+        "marginal_gain": 2.03738403924965e-05,
+        "weight": 0.9636645775339511
+      },
+      "skin": {
+        "n0": 992,
+        "curve": [
+          [
+            254.3,
+            0.3041
+          ],
+          [
+            381.0,
+            0.2679
+          ],
+          [
+            537.7,
+            0.2882
+          ],
+          [
+            698.3,
+            0.2822
+          ],
+          [
+            844.3,
+            0.2712
+          ],
+          [
+            992.0,
+            0.2722
+          ]
+        ],
+        "powerlaw_A": 0.406,
+        "powerlaw_b": 0.0583,
+        "loglog_fit_r2": 0.3918,
+        "err_at_n0": 0.2715,
+        "marginal_gain": 1.5965949534120203e-05,
+        "weight": 0.7551752500423428
+      },
+      "sens": {
+        "n0": 595,
+        "curve": [
+          [
+            135.7,
+            0.3347
+          ],
+          [
+            239.0,
+            0.3898
+          ],
+          [
+            325.3,
+            0.3714
+          ],
+          [
+            396.7,
+            0.3569
+          ],
+          [
+            500.3,
+            0.3315
+          ],
+          [
+            595.0,
+            0.3194
+          ]
+        ],
+        "powerlaw_A": 0.4603,
+        "powerlaw_b": 0.0474,
+        "loglog_fit_r2": 0.113,
+        "err_at_n0": 0.34,
+        "marginal_gain": 2.7086346721366625e-05,
+        "weight": 1.2811601724237063
+      }
+    },
+    "weights_used": {
+      "eye": 0.9637,
+      "skin": 0.7552,
+      "sens": 1.2812
+    },
+    "sensitivity_inverse_n_weights": {
+      "eye": 0.7555,
+      "skin": 0.8415,
+      "sens": 1.403
+    },
+    "v1_documented_weights": {
+      "eye": 1.0,
+      "skin": 1.0,
+      "sens": 2.0,
+      "note": "v1 문서상 sens 2배. 실제 코드에서는 최소빈 797행에 적용되지 않았음(라인 140 fallback 미실행)."
+    }
+  },
+  "defect1_branch_instrumentation": {
+    "branch_primary": 797,
+    "branch_fallback": 0,
+    "rows": 797,
+    "fallback_rate": 0.0,
+    "conclusion": "최소빈 797행 전부 첫 분기(무가중 0.6*unc+0.4*div)를 타며 sens 2배 가중이 들어간 priority_score fallback은 0회 실행됨."
+  },
+  "current_csv_recheck": {
+    "path": "/Users/hanseoyun/Desktop/260830/04_모델산출물/v4/active_rank_priority.csv",
+    "shape": [
+      1682,
+      11
+    ],
+    "n_total": 797,
+    "n_top20": 159,
+    "sens_share_overall": 0.3262,
+    "sens_share_top20": 0.3648,
+    "eye_share_top20": 0.3208,
+    "skin_share_top20": 0.3145,
+    "counts_per_person": {
+      "최소빈": 797,
+      "정채윤": 331,
+      "이서윤": 280,
+      "김보경": 274
+    },
+    "diversity_zero_rows_in_csv": 594
+  },
+  "decomposition_top20_sens": {
+    "A_v1_asis": {
+      "n_total": 797,
+      "n_top20": 159,
+      "sens_share_overall": 0.3262,
+      "sens_share_top20": 0.3648,
+      "eye_share_top20": 0.3208,
+      "skin_share_top20": 0.3145
+    },
+    "B_weight_only": {
+      "n_total": 797,
+      "n_top20": 159,
+      "sens_share_overall": 0.3262,
+      "sens_share_top20": 0.6352,
+      "eye_share_top20": 0.2579,
+      "skin_share_top20": 0.1069
+    },
+    "C_div_only": {
+      "n_total": 797,
+      "n_top20": 159,
+      "sens_share_overall": 0.3262,
+      "sens_share_top20": 0.327,
+      "eye_share_top20": 0.3208,
+      "skin_share_top20": 0.3522
+    },
+    "D_weight_and_div": {
+      "n_total": 797,
+      "n_top20": 159,
+      "sens_share_overall": 0.3262,
+      "sens_share_top20": 0.7296,
+      "eye_share_top20": 0.2138,
+      "skin_share_top20": 0.0566
+    },
+    "E_v2_final": {
+      "n_total": 797,
+      "n_top20": 159,
+      "sens_share_overall": 0.3262,
+      "sens_share_top20": 0.7044,
+      "eye_share_top20": 0.2327,
+      "skin_share_top20": 0.0629
+    },
+    "_delta_pp_vs_A": {
+      "A_v1_asis": 0.0,
+      "B_weight_only": 27.04,
+      "C_div_only": -3.78,
+      "D_weight_and_div": 36.48,
+      "E_v2_final": 33.96
+    }
+  },
+  "sensitivity_top20_sens": {
+    "_note": "가중치 산정방식(학습곡선 vs 역표본수)과 불확실도 정규화(min-max vs 분위수) 선택에 top20% sens 비중이 얼마나 민감한지. 값이 크게 흔들리면 '개선폭'을 가중치 효과로 단정할 수 없음을 뜻한다.",
+    "E_v2_final(학습곡선W, minmax)": {
+      "n_total": 797,
+      "n_top20": 159,
+      "sens_share_overall": 0.3262,
+      "sens_share_top20": 0.7044,
+      "eye_share_top20": 0.2327,
+      "skin_share_top20": 0.0629
+    },
+    "S1_invn_weights": {
+      "n_total": 797,
+      "n_top20": 159,
+      "sens_share_overall": 0.3262,
+      "sens_share_top20": 0.8679,
+      "eye_share_top20": 0.0252,
+      "skin_share_top20": 0.1069
+    },
+    "S2_quantile_unc": {
+      "n_total": 797,
+      "n_top20": 159,
+      "sens_share_overall": 0.3262,
+      "sens_share_top20": 0.7358,
+      "eye_share_top20": 0.2264,
+      "skin_share_top20": 0.0377
+    },
+    "S3_quantile_unc_noweight": {
+      "n_total": 797,
+      "n_top20": 159,
+      "sens_share_overall": 0.3262,
+      "sens_share_top20": 0.3208,
+      "eye_share_top20": 0.2893,
+      "skin_share_top20": 0.3899
+    }
+  },
+  "rank_impact": {
+    "A_v1_asis__vs__E_v2_final": {
+      "spearman_rho": 0.6132,
+      "top20_overlap_frac": 0.4843,
+      "top20_overlap_n": 77,
+      "top20_size": 159
+    },
+    "D_cosine__vs__E_tanimoto (지표 단독 효과)": {
+      "spearman_rho": 0.9828,
+      "top20_overlap_frac": 0.8931,
+      "top20_overlap_n": 142,
+      "top20_size": 159
+    },
+    "A__vs__B (가중치 단독)": {
+      "spearman_rho": 0.9232,
+      "top20_overlap_frac": 0.7296,
+      "top20_overlap_n": 116,
+      "top20_size": 159
+    },
+    "A__vs__C (다양성 단독)": {
+      "spearman_rho": 0.7865,
+      "top20_overlap_frac": 0.6541,
+      "top20_overlap_n": 104,
+      "top20_size": 159
+    }
+  },
+  "assignment_invariance": {
+    "expected": {
+      "이서윤": 280,
+      "김보경": 274,
+      "정채윤": 331,
+      "최소빈": 797
+    },
+    "v2_counts": {
+      "최소빈": 797,
+      "정채윤": 331,
+      "이서윤": 280,
+      "김보경": 274
+    },
+    "v4_current_counts": {
+      "최소빈": 797,
+      "정채윤": 331,
+      "이서윤": 280,
+      "김보경": 274
+    },
+    "counts_match_expected": true,
+    "counts_match_current": true,
+    "formulation_id_multiset_identical_per_person": {
+      "이서윤": true,
+      "김보경": true,
+      "정채윤": true,
+      "최소빈": true
+    },
+    "all_identical": true
+  },
+  "outputs": {
+    "csv": "/Users/hanseoyun/Desktop/260830/04_모델산출물/v4_active/active_rank_priority_v2.csv",
+    "shape": [
+      1682,
+      11
+    ],
+    "elapsed_sec": 96.1
+  },
+  "caveats": [
+    "학습곡선 log-log 적합의 R2가 eye 0.63 / skin 0.39 / sens 0.11 수준으로 낮다(곡선이 거의 평평하고 노이즈가 큼). 따라서 가중치 1.28(sens)은 점추정치이며 신뢰구간이 넓다. 가중치의 '방향'(sens>1)은 표본수 최소 사실과 세 갈래 증거로 뒷받침되지만 '크기'는 약하다.",
+    "top20% 내 sens 비중은 검증 지표가 아니다. 양의 sens 가중을 주면 기계적으로 상승하는 값이므로(민감도: 학습곡선W 70.4% / 역표본수W 86.8% / 무가중+분위수 32.1%) AC1은 가중치가 적용됐는지의 확인일 뿐 모델 개선의 증거가 아니다. AC1 문구 재정의를 권고한다.",
+    "엔드포인트별 불확실도를 각각 min-max 정규화한 뒤 엔드포인트 간에 비교하는 v1의 설계는 그 자체로 비교가능성이 보장되지 않는다(극단값 1개가 스케일을 좌우). v2는 v1 호환을 위해 min-max를 유지했고 분위수 정규화 결과를 민감도로 병기했다.",
+    "committee 불확실도는 학습에 쓰인 행에도 in-sample로 예측하므로 라벨 보유 행의 std가 미라벨 행보다 눌린다(예: sens 0.0130 vs 0.0195). 최소빈 S11 판독 대상은 대부분 미라벨 행이라 실무 영향은 제한적이지만, OOF committee로 교체하는 것이 원칙적으로 옳다.",
+    "committee std 절대값이 0.013~0.020으로 매우 작다(RF 5-seed는 부트스트랩/특성샘플링 차이만 반영). 불확실도 신호 자체가 약하다는 뜻이므로 앙상블 다양화(모델군 혼합) 검토 필요."
+  ],
+  "variant_legend": {
+    "A_v1_asis": "현행 v1 재현: cosine + 자기포함 + 가중치 실효 미적용",
+    "B_weight_only": "결함1만 수정(학습곡선 가중치 실제 적용)",
+    "C_div_only": "결함2만 수정(leave-one-out + leave-group-out)",
+    "D_weight_and_div": "결함1+2 수정(지표는 cosine 유지)",
+    "E_v2_final": "v2 최종: 결함1+2+3 수정(Tanimoto)"
+  }
+}

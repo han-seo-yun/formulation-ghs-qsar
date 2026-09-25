@@ -1,0 +1,63 @@
+{
+  "version": "1.0",
+  "date": "2026-06-29",
+  "models": {
+    "eye": {
+      "algorithm": "GradientBoostingClassifier",
+      "threshold": 0.32,
+      "parameters": {
+        "n_estimators": 100,
+        "learning_rate": 0.05,
+        "max_depth": 3,
+        "subsample": 1.0
+      },
+      "performance": {
+        "cv": {
+          "roc_auc": 0.743,
+          "sensitivity": 0.547,
+          "specificity": 0.839
+        },
+        "threshold_optimized": {
+          "sensitivity": 0.704,
+          "specificity": 0.66
+        },
+        "holdout": {
+          "roc_auc": 0.765,
+          "sensitivity": 0.817,
+          "specificity": 0.57
+        }
+      }
+    },
+    "skin": {
+      "algorithm": "SVC",
+      "threshold": 0.47,
+      "parameters": {
+        "C": 0.1,
+        "gamma": 0.001,
+        "kernel": "rbf",
+        "class_weight": "balanced"
+      },
+      "performance": {
+        "cv": {
+          "roc_auc": 0.769,
+          "sensitivity": 0.796,
+          "specificity": 0.611
+        },
+        "threshold_optimized": {
+          "sensitivity": 0.72,
+          "specificity": 0.734
+        },
+        "holdout": {
+          "roc_auc": 0.756,
+          "sensitivity": 0.765,
+          "specificity": 0.648
+        }
+      }
+    }
+  },
+  "applicability_domain": {
+    "method": "Tanimoto Similarity (ECFP4)",
+    "eye_threshold": 0.7,
+    "skin_threshold": 0.7
+  }
+}

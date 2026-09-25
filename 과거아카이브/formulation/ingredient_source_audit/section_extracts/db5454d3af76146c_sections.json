@@ -1,0 +1,37 @@
+{
+  "source_id": "db5454d3af76146c",
+  "file_path": "ingredient_source_audit/highlighted/db5454d3af76146c_highlighted.pdf",
+  "page_count": 284,
+  "full_text_length": 534416,
+  "sections_found": [
+    "section_1",
+    "section_15",
+    "section_2",
+    "section_14",
+    "section_3"
+  ],
+  "section_1": {
+    "product_name": "Company Identification",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "Product\nand\nCompany Identification\nDESCRIPTION\nAcTivatorrE\nPRODUCT\nCODE\n78ACTV.-\nPRODUCT\nTYPE\nIsopropyl\nAlcohol\nSolution\nAPPLICATION\nConsolidation\nAGent\nfor\nOil\nWell\nProppants\nManufacturer/Supplier\nInformation\nMSDS\nPrepared by\nBorden\nChemical\nInc\n1401\nCircle\nAvenue\nForest\nPark\nIL\n60130-2611\nEmergenc"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "carcinogen"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "Hazards\nIdentification\n3.1\nEmergency\nOverview\nFLAMMABLE\nLIQUID\nAND VAPOR\nCauses\nchemical\nburns\nto\neyes\nMay\nbe\nharmful if inhaled\nCan\ncause\ncentral\nnervous\nsystem\ndepression\nMay\nbe\nharmful if absorbed\nthrough\nskin\nSkin\nirritant\nNORTH\nANERICAN\nEMERGENCY\nRESPONSE\nGUIDEBOOK\n1996\nNO\n128\n065\n78-ACTV.-\n323"
+  },
+  "section_14": {
+    "un_number": "1993"
+  }
+}

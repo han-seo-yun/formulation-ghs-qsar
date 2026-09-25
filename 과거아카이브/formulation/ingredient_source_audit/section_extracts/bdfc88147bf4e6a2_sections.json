@@ -1,0 +1,55 @@
+{
+  "source_id": "bdfc88147bf4e6a2",
+  "file_path": "ingredient_source_audit/highlighted/bdfc88147bf4e6a2_highlighted.pdf",
+  "page_count": 11,
+  "full_text_length": 22099,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Section 1. Identification of the substance or the mixture and of the supplier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1 Product Identifier\nSection 1. Identification of the substance or the mixture and of the supplier\nCompare To PARIS AMOUR by BBW ® F21471(Contains:1-(1,2,3,4,5,6,7,8-Octahydro-2,3,8,8-\ntetramethyl-2-naphthalenyl)ethanone, 3 and 4-(4-Hydroxy-4-methylpentyl)-3-cyclohexene-1-\ncarboxaldehyde, Benzyl sal"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H316",
+      "H319",
+      "H317",
+      "H411"
+    ],
+    "p_codes": [
+      "P264",
+      "P273",
+      "P280",
+      "P261",
+      "P272",
+      "P305",
+      "P302",
+      "P337",
+      "P333",
+      "P363",
+      "P391",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Skin Corrosion"
+    ],
+    "environmental_hazard": "aquatic_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "Section 2. Hazards identification\nClass and category of\ndanger:\nSkin Corrosion / Irritation Category 3\nEye Damage / Irritation Category 2\nSensitization - Skin Category 1\nHazardous to the Aquatic Environment - Acute Hazard Category 2\nHazardous to the Aquatic Environment - Long-term Hazard Category 2\n"
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

@@ -1,0 +1,316 @@
+[
+  {
+    "row": 1206,
+    "fid": "MIX546",
+    "product_name": "Wolsin LP 13762",
+    "tier": "ingredient",
+    "resolution": "found",
+    "confidence": "medium",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/7628/JSON?heading=GHS+Classification",
+    "source_type": "PubChem LCSS / ECHA C&L (PUG-View REST)",
+    "ingredients_match": null,
+    "product_ghs": null,
+    "per_ingredient": [
+      {
+        "name": "Boric acid (H3BO3)",
+        "cas": "10043-35-3",
+        "eye_cat": "Not classified",
+        "skin_cat": "Not classified",
+        "sens_cat": "Not classified",
+        "h_statements": "Danger; H360FD (CLP Annex VI harmonised). ECHA C&L aggregated (2123 reports/49 notifications): H360 88.7%, H360FD 11.2%",
+        "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/7628/JSON?heading=GHS+Classification"
+      },
+      {
+        "name": "Propiconazole",
+        "cas": "60207-90-1",
+        "eye_cat": "Not classified",
+        "skin_cat": "Not classified",
+        "sens_cat": "1",
+        "h_statements": "Danger; H302, H317, H360D, H400, H410 (CLP harmonised; ECHA C&L aggregated 360 reports/13 notifications: H302 100%, H317 100%, H360D 48.9%, H400 100%, H410 100%)",
+        "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/43234/JSON?heading=GHS+Classification"
+      },
+      {
+        "name": "(2R,6S)-Fenpropimorph",
+        "cas": "67564-91-4",
+        "eye_cat": "Not classified",
+        "skin_cat": "2",
+        "sens_cat": "Not classified",
+        "h_statements": "Warning; H302, H315, H361d, H411 (CLP harmonised; ECHA C&L aggregated 261 reports/8 notifications: H302 100%, H315 100%, H361 88.9%, H411 99.6%)",
+        "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/93365/JSON?heading=GHS+Classification"
+      }
+    ],
+    "note_ko": "제조사 후신 Wolman Wood and Fire Protection GmbH(현 Sika) 사이트·Wayback CDX 전수조사(wolman.de 내 'wolsin' 23 URL, 'sicherheitsdatenblatt/sds/msds' 0건)에서 'Wolsin LP' 또는 '13762' 명의 SDS·라벨이 전무하며 basf.com/basf.de/APVMA/NZ EPA에도 0건 → 제품 SDS 미존재로 판단. Tier2로 3성분(붕산/프로피코나졸/펜프로피모르프) PubChem LCSS(ECHA C&L) GHS 분류를 수집. eye/skin/sens가 'Not classified'인 항목은 ECHA 통보 목록에 해당 위험성 코드가 없음을 의미(부재 근거 추론)."
+  },
+  {
+    "row": 1210,
+    "fid": "MIX55",
+    "product_name": "BAS 510 02 F Turf Fungicide",
+    "tier": "product",
+    "resolution": "found",
+    "confidence": "medium",
+    "source_url": "https://www.clesens.com/_files/ugd/5b401b_89d76afcb0754b92ba3e46b27ace713b.pdf",
+    "source_type": "manufacturer SDS (BASF Corporation, 'Emerald Fungicide', v8.0 2022-09-22, EPA Reg. 7969-196), distributor-hosted PDF",
+    "ingredients_match": true,
+    "product_ghs": {
+      "signal_word": "Warning",
+      "h_statements": "May form combustible dust concentration in air. (OSHA HazCom: Combustible Dust; no H-code assigned)",
+      "eye_cat": "Not classified",
+      "skin_cat": "Not classified",
+      "sens_cat": "Not classified",
+      "ld50_oral": "> 2,000 mg/kg (rat, OECD 423)",
+      "ld50_dermal": "> 2,000 mg/kg (rat, OECD 402)",
+      "lc50_inh": "> 5.4 mg/L (rat, 4 h, OECD 403)",
+      "ph": "approx. 4.5 - 6.5 (10 g/L, 20 C)"
+    },
+    "per_ingredient": [
+      {
+        "name": "Boscalid",
+        "cas": "188425-85-6",
+        "eye_cat": "Not classified",
+        "skin_cat": "Not classified",
+        "sens_cat": "Not classified",
+        "h_statements": "H411 (98.3%); ECHA C&L aggregated 178 reports/3 notifications; no signal word assigned",
+        "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/213013/JSON?heading=GHS+Classification"
+      }
+    ],
+    "note_ko": "'BAS 510 02 F'는 BASF 보스칼리드 70% WG 제형 개발코드이며 상품명 Emerald Fungicide(보스칼리드 70% + 카올린 1-5%)와 동일 제형으로 판단해 BASF 정품 SDS를 사용. Section 3 조성이 ingredient_names(Boscalid)와 일치. 제품명 자체 SDS가 아니라 상품명 SDS이므로 confidence=medium. Section 2 분류는 OSHA HazCom 기준 'Combustible Dust'만 있어 H코드 없음; 안구/피부/감작은 Section 11에서 non-irritant~slightly irritating, non-sensitizing으로 미분류."
+  },
+  {
+    "row": 1212,
+    "fid": "MIX551",
+    "product_name": "XDE-007 50% Concentrate",
+    "tier": "ingredient",
+    "resolution": "found",
+    "confidence": "medium",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/9828359/JSON?heading=GHS+Classification",
+    "source_type": "PubChem LCSS / ECHA C&L (PUG-View REST)",
+    "ingredients_match": null,
+    "product_ghs": null,
+    "per_ingredient": [
+      {
+        "name": "Noviflumuron",
+        "cas": "121451-02-3",
+        "eye_cat": "Not classified",
+        "skin_cat": "Not classified",
+        "sens_cat": "Not classified",
+        "h_statements": "Warning; H361 (90%), H362 (90%), H400 (100%), H410 (100%); ECHA C&L aggregated 20 reports/2 notifications",
+        "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/9828359/JSON?heading=GHS+Classification"
+      }
+    ],
+    "note_ko": "EPA PPLS 라벨(https://www3.epa.gov/pesticides/chem_search/ppls/062719-00478-20030513.pdf, EPA Reg. 62719-478, Dow AgroSciences, 2003-05-13)을 직접 확인: 'XDE-007 50% Concentrate', 활성성분 XDE-007 50.0% + 불활성 50.0%, FIFRA 신호어 CAUTION, 위험문구는 'Harmful If Inhaled'만 있고 눈·피부 문구 없음, pH·LD50 미기재. GHS Section 2/9/11을 담은 제품 SDS는 msdssearch.dow.com/sentricon 아카이브 전수조사에도 없음. 따라서 Tier2로 활성성분 노비플루무론 GHS(ECHA C&L 통보)를 수집. FIFRA 신호어(CAUTION)는 GHS 신호어가 아니어서 product_ghs에 기록하지 않음."
+  },
+  {
+    "row": 1255,
+    "fid": "MIX590",
+    "product_name": "Larvin 500 Insecticide",
+    "tier": "ingredient",
+    "resolution": "found",
+    "confidence": "medium",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/62155/JSON?heading=GHS+Classification",
+    "source_type": "PubChem LCSS / ECHA C&L (PUG-View REST)",
+    "ingredients_match": null,
+    "product_ghs": null,
+    "per_ingredient": [
+      {
+        "name": "Thiodicarb",
+        "cas": "59669-26-0",
+        "eye_cat": "Not classified",
+        "skin_cat": "Not classified",
+        "sens_cat": "Not classified",
+        "h_statements": "Danger; H301 (100%), H330 (97.2%), H400 (95.8%); ECHA C&L aggregated 72 reports/5 notifications",
+        "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/62155/JSON?heading=GHS+Classification"
+      }
+    ],
+    "note_ko": "EPA PPLS 라벨(https://www3.epa.gov/pesticides/chem_search/ppls/000264-00342-19880822.pdf, EPA Reg. 264-342, Rhone-Poulenc Ag, 1988-08-22)을 직접 확인: 'LARVIN 500 Thiodicarb Insecticide - Aqueous Flowable', 티오디카브 43.1% + 불활성 56.9%, 4.2 lb a.i./gal, FIFRA 신호어 WARNING/AVISO, 'MAY BE HARMFUL OR FATAL IF SWALLOWED OR INHALED'. GHS H코드·pH·LD50 없음(등록취소 제품). Larvin 500 자체의 SDS는 존재하지 않음(pomerix Label/SDS 모두 Not available, myhealthbox·agrian·herbiguide Wayback CDX 조사 결과 존재하는 규격은 375 SC/800 WG/LV/SC375뿐). 농도가 다른 Bayer 'Larvin 375' SDS(https://resources.bayer.com.au/resources/uploads/msds/file7360.pdf, 티오디카브 35.51%, Danger, Eye Irrit. 2A, Skin Sens. 1, 피부자극 미분류, H301/H331/H319/H317, pH 3.5-5.0(100%, 23C), 경구 LD50 386 mg/kg(rat), 경피 >2000 mg/kg(rabbit), 흡입 LC50 1.51 mg/L(rat 4h))는 제품 동일성이 확보되지 않아 product_ghs로 채택하지 않고 참고용으로만 기록. Tier2로 티오디카브 GHS를 수집."
+  },
+  {
+    "row": 1271,
+    "fid": "MIX604",
+    "product_name": "The Andersons 0.077% Bifenthrin + 0.155% Imidacloprid Granular Insecticide",
+    "tier": "ingredient",
+    "resolution": "found",
+    "confidence": "medium",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6442842/JSON?heading=GHS+Classification",
+    "source_type": "PubChem LCSS / ECHA C&L (PUG-View REST)",
+    "ingredients_match": null,
+    "product_ghs": null,
+    "per_ingredient": [
+      {
+        "name": "Imidacloprid",
+        "cas": "138261-41-3",
+        "eye_cat": "Not classified",
+        "skin_cat": "Not classified",
+        "sens_cat": "Not classified",
+        "h_statements": "Danger; H301 (43.6%) / H302 (56.4%), H400 (96.4%), H410 (100%); ECHA C&L aggregated 415 reports/12 notifications",
+        "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/86287518/JSON?heading=GHS+Classification"
+      },
+      {
+        "name": "Bifenthrin",
+        "cas": "82657-04-3",
+        "eye_cat": "Not classified",
+        "skin_cat": "Not classified",
+        "sens_cat": "1",
+        "h_statements": "Danger; H300 (93.4%), H317 (95.8%), H331 (95.8%), H351 (94.3%), H372 (93.4%), H400 (97.6%), H410 (98.1%); ECHA C&L aggregated 212 reports/17 notifications",
+        "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6442842/JSON?heading=GHS+Classification"
+      }
+    ],
+    "note_ko": "EPA PPLS 라벨(https://www3.epa.gov/pesticides/chem_search/ppls/009198-00240-20071130.pdf, EPA Reg. 9198-240, The Andersons Lawn Fertilizer Division, 1988→2007-11-30 승인)을 직접 확인: 'The Andersons GC 0.077% Bifenthrin + 0.155% Imidacloprid Granular Insecticide', Bifenthrin 0.077%(CAS 82657-04-6, cis 97%↑) + Imidacloprid 0.155% + Other 99.768%, FIFRA 신호어 CAUTION, 'Harmful if swallowed or absorbed through the skin. Causes moderate eye irritation.' GHS H코드·pH·LD50 없음. pomerix 제품페이지는 Label/SDS 모두 Not available·등록취소로 표기. The Andersons 현행 사이트맵·assets CDN·Wayback CDX(theandersons.com, andersonspro.com, andersonsplantnutrient.com, andersonsgolfproducts.com) 전수조사에도 이 농도 조합 제품 SDS 없음(현행 제품은 0.225% Allectus = imidacloprid 0.125%+bifenthrin 0.1%로 농도 불일치). 따라서 Tier2로 2활성성분 GHS를 수집. FIFRA 신호어는 GHS 신호어가 아니어서 기록하지 않음."
+  },
+  {
+    "row": 1278,
+    "fid": "MIX610",
+    "product_name": "Topramezone 2.8 SC Herbicide",
+    "tier": "product",
+    "resolution": "found",
+    "confidence": "medium",
+    "source_url": "https://download.basf.com/p1/000000000030471889_SDS_CPA_US/en_US/Frequency_Herbicide_30471889_SDS_CPA_US_en_7-0.pdf",
+    "source_type": "manufacturer SDS (BASF Corporation, 'Frequency Herbicide', v7.0 2025-11-11)",
+    "ingredients_match": true,
+    "product_ghs": {
+      "signal_word": "Danger",
+      "h_statements": "H317, H360, H400, H410 (Section 2 classification: Skin Sens. 1; Repr. 1B (unborn child); Aquatic Acute 1; Aquatic Chronic 1)",
+      "eye_cat": "Not classified",
+      "skin_cat": "Not classified",
+      "sens_cat": "1",
+      "ld50_oral": "> 2,000 mg/kg (rat, OECD 423)",
+      "ld50_dermal": "> 4,000 mg/kg (rat, OECD 402)",
+      "lc50_inh": "> 5.8 mg/L (rat, 4 h, OECD 403, aerosol)",
+      "ph": "approx. 2.5 - 4.5 (1 %(m), 20 C)"
+    },
+    "per_ingredient": [
+      {
+        "name": "Topramezone",
+        "cas": "210631-68-8",
+        "eye_cat": null,
+        "skin_cat": null,
+        "sens_cat": null,
+        "h_statements": null,
+        "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/11302979/JSON?heading=GHS+Classification"
+      }
+    ],
+    "note_ko": "'Topramezone 2.8 SC'는 토프라메존 29.7%(2.8 lb/gal) SC 제형이며, BASF 'Frequency Herbicide' SDS(Section 3: 토프라메존 기술품 29.7%)와 일치. Section 3에 부성분(나프탈렌설폰산 축합물 1-5%, MIT <=0.1%)이 있으나 활성성분은 ingredient_names(Topramezone)와 일치. 제품명 자체 SDS가 아닌 동일 제형 상품명 SDS이므로 confidence=medium. 토프라메존 단일물질은 PubChem에 GHS 섹션이 없어 per_ingredient는 null."
+  },
+  {
+    "row": 1280,
+    "fid": "MIX612",
+    "product_name": "Ultra P",
+    "tier": "ingredient",
+    "resolution": "found",
+    "confidence": "medium",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/18346908/JSON?heading=GHS+Classification",
+    "source_type": "PubChem LCSS / CLP Annex VI + ECHA C&L (PUG-View REST)",
+    "ingredients_match": null,
+    "product_ghs": null,
+    "per_ingredient": [
+      {
+        "name": "Cuprous oxide (copper(I) oxide)",
+        "cas": "1317-39-1",
+        "eye_cat": "1",
+        "skin_cat": "Not classified",
+        "sens_cat": "Not classified",
+        "h_statements": "Danger; H302, H318, H332, H400, H410 (Regulation (EC) No 1272/2008 harmonised entry)",
+        "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/18346908/JSON?heading=GHS+Classification"
+      },
+      {
+        "name": "Tolyfluanid (tolylfluanid)",
+        "cas": "731-27-1",
+        "eye_cat": "2",
+        "skin_cat": "2",
+        "sens_cat": "1",
+        "h_statements": "Danger; H315 (97.7%), H317 (97.7%), H319 (97.7%), H330 (85%), H335 (97.7%), H372 (85%), H400 (97.7%), H410 (29%); ECHA C&L aggregated 214 reports/10 notifications",
+        "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/12898/JSON?heading=GHS+Classification"
+      },
+      {
+        "name": "Paraffin waxes and hydrocarbon waxes, chlorinated (성분목록 문자열에 CAS만 등장)",
+        "cas": "63449-39-8",
+        "eye_cat": "2A",
+        "skin_cat": "2",
+        "sens_cat": "Not classified",
+        "h_statements": "Warning; H302, H315, H319, H335",
+        "source_url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB6199728.htm"
+      }
+    ],
+    "note_ko": "입력 product_name 'Ultra P'는 방오도료(antifouling)로 추정되나 제조사·국가 정보가 없고, Hempel·International/Yachtpaint·Jotun·Seajet·Nautix·Boero·Veneziani·Blakes·Marlin 등 주요 방오도료 제조사 사이트 및 Wayback CDX 전수 URL 덤프(hempel.com 84,743건, yachtpaint.com 30,290건, jotun.com 100,000건 등) 조사에서 'Ultra P'라는 제품명이 전혀 확인되지 않음(존재하는 것은 International Ultra/Ultra 2/Ultra EU, Interspeed Ultra, Jotun SeaQuantum Ultra S 등 다른 제품). pomerix에도 없음. 따라서 제품 SDS를 특정할 수 없어 Tier2로 3성분(아산화구리 CAS 1317-39-1, 톨릴플루아니드, 염화파라핀 CAS 63449-39-8) GHS를 PubChem PUG-View(CLP 조화분류/ECHA C&L)에서 수집. 제품 pH·LD50은 확보 불가(null)."
+  },
+  {
+    "row": 1281,
+    "fid": "MIX613",
+    "product_name": "Wocosen 45 TK",
+    "tier": "ingredient",
+    "resolution": "found",
+    "confidence": "medium",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/62097/JSON?heading=GHS+Classification",
+    "source_type": "PubChem LCSS / CLP Annex VI + ECHA C&L (PUG-View REST)",
+    "ingredients_match": true,
+    "product_ghs": null,
+    "per_ingredient": [
+      {
+        "name": "3-Iodo-2-propynylbutylcarbamate (IPBC)",
+        "cas": "55406-53-6",
+        "eye_cat": "1",
+        "skin_cat": "Not classified",
+        "sens_cat": "1",
+        "h_statements": "Danger; H302, H317, H318, H331, H372, H400, H410 (CLP harmonised). ECHA C&L aggregated 1729 reports/42 notifications: H302 81.1%, H302+H332 25.6%, H315 13.3%, H317 57.3%, H318 94.3%, H331 32.3%, H332 60.8%, H335 32.2%",
+        "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/62097/JSON?heading=GHS+Classification"
+      },
+      {
+        "name": "Propiconazole",
+        "cas": "60207-90-1",
+        "eye_cat": "Not classified",
+        "skin_cat": "Not classified",
+        "sens_cat": "1",
+        "h_statements": "Danger; H302, H317, H360D, H400, H410 (CLP harmonised; ECHA C&L aggregated 360 reports/13 notifications)",
+        "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/43234/JSON?heading=GHS+Classification"
+      }
+    ],
+    "note_ko": "EPA PPLS 라벨(https://www3.epa.gov/pesticides/chem_search/ppls/043813-00044-20140701.pdf, EPA Reg. 43813-44, Janssen PMP, 2014-07-01)을 직접 확인: 성분표 PROPICONAZOLE 34.0% + IPBC 16.0% + INERT INGREDIENTS 50.0%(석유계 증류물 함유), 9.3 lbs/gal, FIFRA 신호어 WARNING, 'Causes skin irritation and moderate eye irritation / Harmful if swallowed, absorbed through the skin, or inhaled'. 라벨에는 CAS·pH·LD50·GHS H코드가 전혀 없음. 캐나다 PMRA WOCOSEN 50TK 문서(https://www.chemrobotics.com/agropat/pdf/gsda/docs/24515.pdf, propiconazole 50%, reg. 24515)도 라벨이지 SDS가 아님. 45 TK 제품 SDS 공개본은 존재하지 않아 Tier2로 2성분(IPBC·프로피코나졸) GHS를 수집. 라벨 성분표가 입력 ingredient_names와 정확히 일치하므로 ingredients_match=true. FIFRA 신호어(WARNING)는 GHS 신호어가 아니어서 product_ghs에 기록하지 않음."
+  },
+  {
+    "row": 1286,
+    "fid": "MIX618",
+    "product_name": "Abamectin A1a",
+    "tier": "none",
+    "resolution": "no_sds_exists",
+    "confidence": "low",
+    "source_url": "https://chem.echa.europa.eu/api-substance/v1/substance?pageIndex=1&pageSize=10&searchText=65195-51-9",
+    "source_type": "ECHA CHEM substance API (negative result: totalItems=0) + PubChem PUG-View (no GHS section)",
+    "ingredients_match": null,
+    "product_ghs": null,
+    "per_ingredient": [
+      {
+        "name": "Avermectin A1a",
+        "cas": "65195-51-9",
+        "eye_cat": null,
+        "skin_cat": null,
+        "sens_cat": null,
+        "h_statements": null,
+        "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/9832706/JSON?heading=GHS+Classification"
+      }
+    ],
+    "note_ko": "단일 congener Avermectin A1a(CAS 65195-51-9, CID 9832706)는 PubChem GHS/Safety 섹션 자체가 없고(PUG-View 404), ECHA CHEM 조회 결과 EC번호·CLP 통보가 전혀 없음(totalItems=0). 유일한 표준품 공급사 LGC/TRC(A107020)는 SDS를 이메일 요청만 제공하며 BOC Sciences/CymitQuimica/BenchChem/LookChem 페이지에도 H코드가 없음. 상업용 Abamectin(B1a/B1b, CAS 71751-41-2)은 성분 불일치로 대체 불가 → 공개 GHS 자료 부재로 판정."
+  },
+  {
+    "row": 1287,
+    "fid": "MIX619",
+    "product_name": "Abamectin A1b",
+    "tier": "ingredient",
+    "resolution": "found",
+    "confidence": "medium",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/9940924/JSON?heading=GHS+Classification",
+    "source_type": "PubChem LCSS / ECHA C&L (PUG-View REST)",
+    "ingredients_match": null,
+    "product_ghs": null,
+    "per_ingredient": [
+      {
+        "name": "Avermectin A1b",
+        "cas": "65195-52-0",
+        "eye_cat": "Not classified",
+        "skin_cat": "Not classified",
+        "sens_cat": "Not classified",
+        "h_statements": "Danger; H300 (100%); ECHA C&L aggregated 28 reports/1 notification",
+        "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/9940924/JSON?heading=GHS+Classification"
+      }
+    ],
+    "note_ko": "단일 congener Avermectin A1b(CAS 65195-52-0, CID 9940924)에 대한 ECHA C&L 통보 기반 GHS를 확보(Danger, H300만 통보). 통보가 1건뿐이라 안구/피부/감작 미분류는 부재 근거 추론이므로 confidence=medium."
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "source_id": "9ca98f2e33afba0c",
+  "file_path": "ingredient_source_audit/highlighted/9ca98f2e33afba0c_highlighted.pdf",
+  "page_count": 5,
+  "full_text_length": 13806,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Formulator:",
+    "formulation_code": null,
+    "epa_reg_number": "10163-231",
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": "EPA",
+    "active_ingredient_declared": true,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION\nFormulator:\nGowan Company\nP.O. Box 5569\nYuma, Arizona 85366-5569\n(928) 783-8844\nFor 24-Hour Emergency\nAssistance (Spill, Leak, Fire, or\nExposure), Call CHEMTREC:\nFor MEDICAL Emergency:\nInside the U.S.: (800) 424-9300\nOutside the U.S.: (703) 527-3887\n(888) 478-0798"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Explosion",
+      "explosion",
+      "explosive"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION\nPhysical Properties\nAppearance:\nWhite to off-white\nOdor:\nmild, non-offensive\nSymptoms of Acute Exposure\nInhalation, dermal absorption or ingestion of this material may result in systemic intoxication due to inhibition of\nthe enzyme cholinesterase.  The sequence of developme"
+  },
+  "section_14": {
+    "un_number": "2757"
+  }
+}

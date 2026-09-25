@@ -1,0 +1,79 @@
+{
+  "source_id": "fa8e9ea5f59a2a62",
+  "file_path": "ingredient_source_audit/highlighted/fa8e9ea5f59a2a62_highlighted.pdf",
+  "page_count": 11,
+  "full_text_length": 14014,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Manufacturer",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION \nManufacturer\nLANCO MFG.CORP. \nURB. APONTE # 5 \nSAN LORENZO, PUERTO RICO, 00754 \n787-736-4221\n24 HR. Emergency Telephone Number \nCHEMTREC (US Transportation):1 (800)424-9300 \nCHEMTREC (International     : 1(703)527-3887 \n                      Transportation)\n"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H226",
+      "H351",
+      "H373",
+      "H332",
+      "H315",
+      "H304"
+    ],
+    "p_codes": [
+      "P280",
+      "P271",
+      "P264",
+      "P301",
+      "P310",
+      "P303",
+      "P361",
+      "P353",
+      "P304",
+      "P340",
+      "P312",
+      "P370",
+      "P378",
+      "P403",
+      "P235",
+      "P308",
+      "P313",
+      "P332",
+      "P331",
+      "P362",
+      "P233",
+      "P210",
+      "P243",
+      "P242",
+      "P241",
+      "P240",
+      "P501",
+      "P260",
+      "P281",
+      "P405",
+      "P202",
+      "P201",
+      "P273"
+    ],
+    "ghs_classes": [
+      "carcinogenicity",
+      "explosion"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 4,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION  \nClassification (substance or mixture): \n3 Category  (Flammable liquid) \n2 Category - Possible carcinogenicity (Titanium Dioxide)\nGHS Label Elements: \nSignal Word: Warning\nHazard Statements: \nH226  Flammable liquid and vapor. \nH351 Suspected of causing cancer.  \nH373 May c"
+  },
+  "section_14": {
+    "un_number": "1263"
+  }
+}

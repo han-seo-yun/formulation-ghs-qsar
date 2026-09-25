@@ -1,0 +1,49 @@
+{
+  "source_id": "1dbe0954518ed807",
+  "file_path": "ingredient_source_audit/highlighted/1dbe0954518ed807_highlighted.pdf",
+  "page_count": 9,
+  "full_text_length": 13421,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "company/undertaking",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification of the substance/mixture and of the\ncompany/undertaking\nProduct identifier\nRelevant identified uses of the substance or mixture and uses advised against\nCompany Identification\n"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H351",
+      "H410"
+    ],
+    "p_codes": [
+      "P273",
+      "P281",
+      "P501",
+      "P203",
+      "P280",
+      "P318",
+      "P391",
+      "P405"
+    ],
+    "ghs_classes": [
+      "Carcinogenicity"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 4,
+    "text_excerpt": "SECTION 2: Hazards identification\nClassification of the substance or mixture\nCarcinogenicity, Category 2\nHazardous to the aquatic environment, short-term (Acute) - Category Acute 1\nHazardous to the aquatic environment, long-term (Chronic) - Category Chronic 1\nLabel elements\nPictogram(s)\nHazard state"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

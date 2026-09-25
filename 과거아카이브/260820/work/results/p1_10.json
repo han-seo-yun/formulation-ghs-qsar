@@ -1,0 +1,240 @@
+[
+ {
+  "row": 1473,
+  "fid": "MIX815",
+  "product_name": "Soap 20/80 coconut oil/tallow",
+  "tier": "none",
+  "resolution": "no_sds_exists",
+  "confidence": "medium",
+  "source_url": null,
+  "source_type": null,
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": null,
+  "note_ko": "NTP 시험용 비누 배합(코코넛유 20 / 우지 80)으로 상용 제품 SDS가 원리적으로 존재하지 않음. PubChem 물질명 검색(substance/name: 'Soap 20/80 coconut oil/tallow', 'coconut oil/tallow soap') 0건, EPA CompTox 이름검색(start-with 'Soap 20') 0건으로 CAS 특정 불가. ingredient_names도 null이라 Tier2 성분단위 폴백도 대상 성분이 없음."
+ },
+ {
+  "row": 1475,
+  "fid": "MIX817",
+  "product_name": "Mixture of isomers: 1-(spiro[4.5]dec-7-en-7-yl)pent-4-en-1-one (CAS# 224031-70-3); 1-(spiro[4.5]dec-6-en-7-yl)pent-4-en-1-one (CAS# 224031-71-4)",
+  "tier": "none",
+  "resolution": "no_sds_exists",
+  "confidence": "high",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/15405344/JSON?heading=GHS+Classification",
+  "source_type": "pubchem_pugview_rest",
+  "ingredients_match": true,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "1-Spiro[4.5]dec-7-en-7-yl-4-penten-1-one",
+    "cas": "224031-70-3",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": null,
+    "h_statements": null,
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/15405344/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "4-Penten-1-one, 1-spiro[4.5]dec-6-en-7-yl-",
+    "cas": "224031-71-4",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": null,
+    "h_statements": null,
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/15405345/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "두 이성체 모두 CAS→CID 매핑 확정(224031-70-3→CID 15405344, 224031-71-4→CID 15405345, PUG REST name/cids 조회). 그러나 두 CID 모두 PUG-View 'GHS Classification' 섹션이 PUGVIEW.NotFound(No data found) = ECHA C&L 통보 자체가 없음. TSCA PMN 단계 물질로 제품 SDS도, 성분 GHS도 공개 부재. per_ingredient는 '조회했으나 값 없음'을 기록한 것(전부 null)."
+ },
+ {
+  "row": 1482,
+  "fid": "MIX823",
+  "product_name": "dicyanamine/formaldehyde condensate",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/712/JSON?heading=GHS+Classification",
+  "source_type": "pubchem_lcss_pugview (ECHA C&L aggregate)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Cyanoguanidine (dicyandiamide)",
+    "cas": "461-58-5",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "H302 (16.4%), H312 (16.7%), H332 (16.4%) / 1101건 보고 중 81.4%(896건)는 GHS 기준 미해당",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/10005/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Formaldehyde",
+    "cas": "50-00-0",
+    "eye_cat": "1",
+    "skin_cat": "1",
+    "sens_cat": "1",
+    "h_statements": "H301, H311, H314, H317, H318, H331, H341, H350 (조화분류 기준 H302/H314/H317/H330/H341/H350; 신호어 Danger)",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/712/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "축합물 자체 제품 SDS는 여전히 부재 → Tier2 성분단위로 회수. PubChem LCSS(ECHA C&L 집계)에서 Cyanoguanidine(CID 10005)은 눈/피부/감작 코드 통보 없음(다수 미분류), Formaldehyde(CID 712)는 H314=Skin Corr.1, H318=Eye Dam.1, H317=Skin Sens.1. 주의: 경화·축합된 수지는 유리 포름알데히드 농도가 낮으므로 이 성분값은 GHS-CT 가산 baseline의 상한(보수적)으로만 사용."
+ },
+ {
+  "row": 1483,
+  "fid": "MIX824",
+  "product_name": "Ethomeen T/25",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.chemblink.com/products/61791-26-2.htm",
+  "source_type": "chemblink (ECHA C&L notified classification aggregate)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Amines, tallow alkyl, ethoxylated (Ethomeen T/25 base substance)",
+    "cas": "61791-26-2",
+    "eye_cat": "1",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": "H302 (Acute Tox. 4), H315 (Skin Irrit. 2), H318 (Eye Dam. 1), H411 (Aquatic Chronic 2)",
+    "source_url": "https://www.chemblink.com/products/61791-26-2.htm"
+   }
+  ],
+  "note_ko": "Nouryon 제조사 SDS는 이번에도 접근 불가(JS/로그인). 대신 물질 동정에 성공: ECHA CHEM API 검색 'Ethomeen'이 'Ethomeen C25'=Amines, coco alkyl, ethoxylated(61791-14-8)로 색인되어 Ethomeen<계열문자><EO몰수> 명명규칙이 출처로 확인됨 → T=tallow, /25=15 EO → Amines, tallow alkyl, ethoxylated(CAS 61791-26-2, EC 932-738-2, CNL_NOTIFIED). chemBlink의 ECHA C&L 집계에서 Eye Dam.1/Skin Irrit.2/Acute Tox.4(oral) 확보. 신호어·LD50·pH는 페이지에 없어 null. EO 부가몰수 차이로 실제 제품값과 편차 가능."
+ },
+ {
+  "row": 1488,
+  "fid": "MIX829",
+  "product_name": "Elfan OS 46",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "low",
+  "source_url": "https://www.chemblink.com/products/68439-57-6.htm",
+  "source_type": "chemblink (ECHA C&L notified classification aggregate) + PubChem substance record for identity",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Sodium C14-16 olefin sulfonate (AOS) — Elfan OS 46(CAS 68822-59-3)의 대리물질",
+    "cas": "68439-57-6",
+    "eye_cat": "1",
+    "skin_cat": "2",
+    "sens_cat": null,
+    "h_statements": "지배적: H302, H315, H318 (Acute Tox. 4, Skin Irrit. 2, Eye Dam. 1). 소수 통보에 H311/H312/H314(Skin Corr. 1C)/H317(Skin Sens. 1)/H319/H335/H371/H411/H412 병존",
+    "source_url": "https://www.chemblink.com/products/68439-57-6.htm"
+   }
+  ],
+  "note_ko": "제조사 특정 문제는 해결: PubChem 물질레코드 SID 135292887(출처 ChemIDplus)이 'Elfan OS 46' = CAS 68822-59-3임을 명시. 단 68822-59-3은 chemBlink 404, ECHA CHEM API 검색 0건으로 해당 CAS의 C&L 데이터가 없음. 동일 계열 등록물질 sodium C14-16 올레핀설포네이트(68439-57-6, ECHA EC 931-534-0)의 C&L 집계를 대리값으로 기록. 통보간 분류 편차가 커(Skin Irrit.2 vs Skin Corr.1C) 신뢰도 낮음. sens_cat은 H317이 소수 통보에만 있어 판정 보류(null)."
+ },
+ {
+  "row": 1518,
+  "fid": "MIX856",
+  "product_name": "Pseudo lilyl acetate",
+  "tier": "none",
+  "resolution": "unresolved",
+  "confidence": "low",
+  "source_url": null,
+  "source_type": null,
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": null,
+  "note_ko": "CAS/화학명 특정 재차 실패: PubChem substance/name 검색('pseudo lilyl acetate','lilyl acetate') 0건, EPA CompTox 이름검색(start-with 'lilyl','Pseudo l') 결과가 이름 미반환으로 대조 불가. 참고로 'pseudo linalyl acetate'는 PubChem에 존재(SID 443559457 등)하나 동일물질 근거가 없어 대입하지 않음. 이 실행 환경에서 Google/Bing/DuckDuckGo/Startpage/Mojeek 등 범용 검색이 전부 봇차단(403/CAPTCHA)되어 향료 상품명 기반 추적이 불가했음."
+ },
+ {
+  "row": 1521,
+  "fid": "MIX859",
+  "product_name": "Angelica seed oil",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://files.plytix.com/api/v1.1/rn/public_files/pim/assets/96/f0/5c/64/645cf096b0a90000019bdc9c/texts/f9/1b/4e/65/654e1bf955ea2301af9e5d5e/MSDS%20-%20Angelica%20Seed%20Oil,%20Cold%20Pressed.pdf/K1164MSDS.pdf",
+  "source_type": "supplier_product_sds_pdf (O&3, EU Regulation 2020/878)",
+  "ingredients_match": true,
+  "product_ghs": {
+   "signal_word": "None",
+   "h_statements": "None",
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "Not classified",
+   "ld50_oral": null,
+   "ld50_dermal": null,
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": null,
+  "note_ko": "hint URL의 PDF를 직접 내려받아 6페이지 전문 파싱 성공(O&3 사, 내부코드 K1164). Section1 제품명 ANGELICA SEED OIL, COLD PRESSED / INCI ANGELICA ARCHANGELICA SEED OIL / CAS 84775-41-7·8015-64-3 → ingredient_names와 일치(성분표는 단일 천연오일이라 Section3이 'Not Applicable'). Section2: 'GHS Label None / Signal Word None / Hazards Statement None', EU 1272/2008상 비유해. Section11: 피부자극·눈손상/자극·호흡기및피부감작 모두 'Not Applicable' → 미분류(음성 라벨로 유효). Section9에 pH 항목 자체가 없어 pH=null(인화점 >280℃, 물 불용). LD50/LC50 수치 미기재."
+ },
+ {
+  "row": 1529,
+  "fid": "MIX866",
+  "product_name": "Tobacco leaf absolute",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/702/JSON?heading=GHS+Classification",
+  "source_type": "pubchem_lcss_pugview (ECHA C&L aggregate)",
+  "ingredients_match": false,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Ethanol",
+    "cas": "64-17-5",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "H225 (>99.9%), H319 (37.7%) / 13886건 보고 중 미해당 5건",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/702/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "성분 불일치 확정(ingredients_match=false). 실제 물질은 PubChem SID 135345085 = Tobacco / 'Tobacco leaf absolute', CAS 8037-19-2, TSCA UVCB, depositor 코멘트에 'Skin / Eye Irritant' 플래그만 있고 GHS 코드 없음. chemBlink 8037-19-2는 404, ECHA에도 C&L 미등재. 에탄올이 조성에 명시된 제품 SDS는 이번에도 확인 불가하여 Tier1 불가 → 명명된 성분 Ethanol(CID 702)의 PubChem LCSS GHS만 기록(H225 인화성, H319 Eye Irrit.2A 37.7%). 담배잎 앱솔루트 본체의 눈·피부 분류는 여전히 공백."
+ },
+ {
+  "row": 1532,
+  "fid": "MIX869",
+  "product_name": "Methyl abietate",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "low",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/173058/JSON?heading=GHS+Classification",
+  "source_type": "pubchem_lcss_pugview (ECHA C&L aggregate)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Methyl Abietate",
+    "cas": "127-25-3",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "H319 (13.4%, Eye Irrit. 2), H334 (13.4%, Resp. Sens. 1) / 299건 보고 중 82.9%(248건)는 GHS 기준 미해당. 신호어 Danger",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/173058/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "전용 제품 SDS 재탐색도 실패(chemBlink 127-25-3 페이지에 GHS 표시 없음, a2bchem 403, cymitquimica에 H코드 없음). PubChem LCSS(ECHA C&L 299보고/3통보) 기준으로만 기록: 다수(82.9%) 미분류, 소수(13.4%)가 H319+H334. 피부 부식/자극 및 피부감작(H315/H317) 통보는 전무 → Not classified. sens_cat은 피부감작 기준이므로 Not classified로 두고 호흡기감작 H334는 h_statements에 명시. 다수의견이 미분류이므로 신뢰도 낮음."
+ },
+ {
+  "row": 1542,
+  "fid": "MIX878",
+  "product_name": "Artemisia oil (wormwood)",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.chemblink.com/products/8008-93-3.htm",
+  "source_type": "chemblink (ECHA C&L notified classification aggregate); identity via PubChem SID 135331121 + ECHA CHEM rmlId 100.167.641",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Artemisia oil (wormwood) / Oils, wormwood / Armoise oil",
+    "cas": "8008-93-3",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": "H226 (Flam. Liq. 3), H302 (Acute Tox. 4), H304 (Asp. Tox. 1), H317 (Skin Sens. 1), H411 (Aquatic Chronic 2), H412 (Aquatic Chronic 3)",
+    "source_url": "https://www.chemblink.com/products/8008-93-3.htm"
+   }
+  ],
+  "note_ko": "구형 MSDS 대신 최신 C&L 기준으로 갱신. 동정: PubChem SID 135331121 'Wormwood oil' 동의어에 'Artemisia oil' 포함, CAS 8008-93-3; ECHA CHEM API에서도 'Oils, wormwood'(rmlId 100.167.641, EC 640-021-8)가 CNL_NOTIFIED 상태임을 확인. chemBlink의 ECHA C&L 통보 집계에서 H226/H302/H304/H317/H411/H412 확보 → 피부감작 Skin Sens.1 신규 라벨 확보. 눈 손상·자극 및 피부 부식/자극 코드는 통보 없음 → Not classified. 신호어·LD50·pH는 미기재로 null."
+ }
+]

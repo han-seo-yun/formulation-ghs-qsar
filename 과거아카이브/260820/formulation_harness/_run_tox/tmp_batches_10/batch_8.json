@@ -1,0 +1,92 @@
+[
+  {
+    "row": 1442,
+    "product_name": "Empigen OB",
+    "ingredient_names": " | N,N-Dimethyldodecylamine-N-oxide",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1443,
+    "product_name": "Empilan CME",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/b0bbe909afd25e56_highlighted.pdf",
+    "sds_grade_status_eye": "verdict_only",
+    "sds_grade_status_skin": "verdict_only",
+    "sds_grade_status_sens": "not_stated"
+  },
+  {
+    "row": 1445,
+    "product_name": "Hydrochloric acid + Sulfuric acid + Citric acid",
+    "ingredient_names": " | Hydrochloric acid | Sulfuric acid | Citric acid",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/c2587f3b0d9f6d8d_highlighted.pdf",
+    "tox_signal_word": "danger",
+    "cat_eye_ghs": "1",
+    "cat_skin_ghs": "1B",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "negative"
+  },
+  {
+    "row": 1446,
+    "product_name": "Genapol LRO",
+    "ingredient_names": " | Dodecanol, ethoxylated, monoether with sulfuric acid, sodium salt",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1447,
+    "product_name": "Larc Super",
+    "ingredient_names": " | Phosphoric acid",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/fa8e9ea5f59a2a62_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "tox_h_statements": "H226 ;; H351 ;; H373 ;; H332 ;; H315 ;; H304",
+    "cat_skin_ghs": "2",
+    "sds_grade_status_eye": "verdict_only",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "not_stated"
+  },
+  {
+    "row": 1448,
+    "product_name": "liquid bleach",
+    "ingredient_names": " | Sodium hypochlorite",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/869d67a6abab15fb_highlighted.pdf",
+    "tox_signal_word": "danger",
+    "cat_eye_ghs": "1",
+    "cat_skin_ghs": "1",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "not_stated"
+  },
+  {
+    "row": 1449,
+    "product_name": "Oleic/caprylic acid",
+    "ingredient_names": " | Oleic acid | Octanoic acid",
+    "tox_source_url": "https://www.chemblink.com/MSDSFiles/112-80-1Sigma-Aldrich.pdf | https://www.chemblink.com/MSDSFiles/124-07-2Sigma-Aldrich.pdf | https://www.chemblink.com/MSDSFiles/334-48-5Sigma-Aldrich.pdf",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/ordered_option_runs/highlighted_sources/G013_112-80-1_ChemBlink_Sigma_highlighted.pdf",
+    "sds_grade_status_eye": "negative",
+    "sds_grade_status_skin": "negative",
+    "sds_grade_status_sens": "negative"
+  },
+  {
+    "row": 1450,
+    "product_name": "Proxel AB",
+    "ingredient_names": " | 1,2-Benzisothiazolin-3-one",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/f151a049d1ba54a9_highlighted.pdf",
+    "tox_signal_word": "danger",
+    "tox_h_statements": "H290 ;; H302 ;; H314 ;; H317 ;; H410",
+    "cat_eye_ghs": "1",
+    "cat_skin_ghs": "1",
+    "cat_sens_ghs": "1",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "ok"
+  }
+]

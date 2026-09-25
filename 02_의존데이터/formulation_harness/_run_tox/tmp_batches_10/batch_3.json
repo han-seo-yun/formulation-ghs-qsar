@@ -1,0 +1,95 @@
+[
+  {
+    "row": 1331,
+    "product_name": "Touchdown Diquat Home to Garden Concentrate",
+    "ingredient_names": " | Glyphosate | Diquat dibromide",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/8c2506158824e7b6_highlighted.pdf",
+    "sds_grade_status_eye": "negative",
+    "sds_grade_status_skin": "negative",
+    "sds_grade_status_sens": "negative"
+  },
+  {
+    "row": 1333,
+    "product_name": "TC 25",
+    "ingredient_names": "Silica",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/d4fa7aa2418e16ca_highlighted.pdf",
+    "tox_signal_word": "danger",
+    "tox_h_statements": "H314 ;; H317 ;; H319 ;; H334 ;; H350 ;; H372",
+    "cat_eye_ghs": "2A",
+    "cat_skin_ghs": "1",
+    "cat_sens_ghs": "1",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "ok"
+  },
+  {
+    "row": 1334,
+    "product_name": "Accent Q Herbicide",
+    "ingredient_names": " | Nicosulfuron",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/9962c8206af8c05f_highlighted.pdf",
+    "sds_grade_status_eye": "negative",
+    "sds_grade_status_skin": "negative",
+    "sds_grade_status_sens": "negative"
+  },
+  {
+    "row": 1337,
+    "product_name": "Aqucar GA 23 SB Water Treatment Microbiocide",
+    "ingredient_names": " | Glutaraldehyde",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/325b84821da25c8f_highlighted.pdf",
+    "tox_signal_word": "danger",
+    "cat_eye_ghs": "1",
+    "cat_skin_ghs": "1",
+    "cat_sens_ghs": "1",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "ok"
+  },
+  {
+    "row": 1346,
+    "product_name": "Calypso 4F",
+    "ingredient_names": " | Thiacloprid",
+    "tox_source_url": "https://www.chemblink.com/MSDSFiles/111988-49-9Sigma-Aldrich.pdf",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/ordered_option_runs/highlighted_sources/G049_111988-49-9_ChemBlink_Sigma_highlighted.pdf",
+    "tox_signal_word": "danger",
+    "tox_h_statements": "H301 ;; H332 ;; H336 ;; H351 ;; H360 ;; H400 ;; H410",
+    "sds_grade_status_eye": "negative",
+    "sds_grade_status_skin": "negative",
+    "sds_grade_status_sens": "negative"
+  },
+  {
+    "row": 1347,
+    "product_name": "Bravo 500",
+    "ingredient_names": " | Chlorothalonil",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/2c79150e1f7871dd_highlighted.pdf",
+    "sds_grade_status_eye": "verdict_only",
+    "sds_grade_status_skin": "verdict_only",
+    "sds_grade_status_sens": "verdict_only"
+  },
+  {
+    "row": 1348,
+    "product_name": "Bravo Zn",
+    "ingredient_names": " | Chlorothalonil",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/9a020e1fccdfd6be_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "cat_eye_ghs": "2A",
+    "cat_sens_ghs": "1B",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "not_stated",
+    "sds_grade_status_sens": "ok"
+  },
+  {
+    "row": 1350,
+    "product_name": "Chlorothalonil 825 MUP",
+    "ingredient_names": "Weight-%. Chlorothalonil. -6. . Solvent. . **If Chemical Name/is \"\" and/",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  }
+]

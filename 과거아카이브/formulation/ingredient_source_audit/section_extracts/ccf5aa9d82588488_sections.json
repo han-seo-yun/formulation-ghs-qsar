@@ -1,0 +1,35 @@
+{
+  "source_id": "ccf5aa9d82588488",
+  "file_path": "ingredient_source_audit/highlighted/ccf5aa9d82588488_highlighted.pdf",
+  "page_count": 12,
+  "full_text_length": 23312,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "COMPANY/UNDERTAKING",
+    "formulation_code": null,
+    "epa_reg_number": "264-1057",
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": "EPA",
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: IDENTIFICATION OF THE SUBSTANCE/MIXTURE AND OF THE \nCOMPANY/UNDERTAKING \n \nProduct identifier \n \nTrade name \nAERIS® SEED-APPLIED INSECTICIDE/NEMATICIDE \n \nProduct code (UVP) \n79292562 \n \nSDS Number \n102000018530 \n \nEPA Registration No. \n264-1057 \nRelevant identified uses of the substance "
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2: HAZARDS IDENTIFICATION \n \nClassification in accordance with regulation HCS 29CFR §1910.1200 \nSkin sensitisation: Category 1 \nEye irritation: Category 2B \nAcute toxicity(Oral, Inhalation): Category 4 \n \nLabelling in accordance with regulation HCS 29CFR §1910.1200 \n \n \n \nSignal word: Warnin"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

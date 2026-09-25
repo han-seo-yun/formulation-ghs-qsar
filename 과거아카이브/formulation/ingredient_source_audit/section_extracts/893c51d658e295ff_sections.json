@@ -1,0 +1,37 @@
+{
+  "source_id": "893c51d658e295ff",
+  "file_path": "ingredient_source_audit/highlighted/893c51d658e295ff_highlighted.pdf",
+  "page_count": 7,
+  "full_text_length": 22339,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_14",
+    "section_3",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product Name:",
+    "formulation_code": null,
+    "epa_reg_number": "100-1527",
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": "EPA",
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: IDENTIFICATION\nProduct Name: \nWarden Cereals WRII Fungicide, Insecticide \nEPA Registration #: \n100-1527-1381 \nProduct ID/Unity #: \n1587090 \nCommon Name: \nDifenoconazole, Mefenoxam, Fludioxonil, Thiamethoxam,  Sedaxane \nChemical Description: \n1H-1,2,4-triazole,1-[[2-[2-chloro-4-(4-chloroph"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Carcinogenicity"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2: HAZARDS IDENTIFICATION\nEMERGENCY OVERVIEW:  Specific Target Organ Toxicity:  Respiratory Irritation Category 3; Eye damage/Irritation: \nCategory 2B; Carcinogenicity: Category 2, Specific Target Organ Toxicity: Single Category 2. \nPOTENTIAL HEALTH EFFECTS: \nEyes: Causes eye irritation. \nSk"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

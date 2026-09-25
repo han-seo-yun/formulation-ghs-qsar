@@ -1,0 +1,38 @@
+{
+  "source_id": "484c5bcd717e8d05",
+  "file_path": "ingredient_source_audit/highlighted/484c5bcd717e8d05_highlighted.pdf",
+  "page_count": 16,
+  "full_text_length": 40351,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Supplier's details",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "Section 1. Identification\n:\n:\n:\n:\nSupplier's details\n: Troy Corporation.\n8 Vreeland Road\nPO Box 955\nFlorham Park, NJ 07932-0955\nU.S.A.\nPhone: +1-973-443-4200\nFax: +1-973-443-0258\nTROYSOL AFL\nProduct code\n: 2311\nMaterial uses\n: Bubble release agent/anti-floating agent\n"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "CARCINOGENICITY",
+      "explosion"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "Section 2. Hazards identification\nFLAMMABLE LIQUIDS - Category 3\nACUTE TOXICITY (inhalation) - Category 4\nSKIN IRRITATION - Category 2\nEYE IRRITATION - Category 2A\nCARCINOGENICITY - Category 2\nClassification of the \nsubstance or mixture\n:\nSignal word\n: Warning\nHazard statements\n: Flammable liquid an"
+  },
+  "section_14": {
+    "un_number": "1993"
+  }
+}

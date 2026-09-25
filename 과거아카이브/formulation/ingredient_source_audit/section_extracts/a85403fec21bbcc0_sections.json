@@ -1,0 +1,37 @@
+{
+  "source_id": "a85403fec21bbcc0",
+  "file_path": "ingredient_source_audit/highlighted/a85403fec21bbcc0_highlighted.pdf",
+  "page_count": 3,
+  "full_text_length": 10156,
+  "sections_found": [
+    "section_1",
+    "section_3",
+    "section_2",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "PRODUCT NAME:",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": true,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION\nPRODUCT NAME:\nT-Methyl E-Ag 4.5 F Fungicide\nActive Ingredient:\nThiophanate-methyl\nChemical Formula:\nC12H14N4O4S2\nCOMPANY IDENTIFICATION:\nEtigra\n501 Cascade Pointe Lane\nSuite 103\nCary, NC 27513\nwww.etigra.com\n2. "
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Explosion"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "HAZARD IDENTIFICATION\nEMERGENCY OVERVIEW\nCauses moderate eye irritation. Harmful if swallowed or\ninhaled. Harmful if absorbed through skin. Avoid breath-\ning spray mist. Avoid contact with eyes, skin or clothing.\nPOTENTIAL HEALTH EFFECTS:\nEYES: Causes eye irritation.\nSKIN: Not known to be a skin irr"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

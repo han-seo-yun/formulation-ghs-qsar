@@ -1,0 +1,37 @@
+{
+  "source_id": "697615ed20093d19",
+  "file_path": "ingredient_source_audit/highlighted/697615ed20093d19_highlighted.pdf",
+  "page_count": 4,
+  "full_text_length": 13583,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product identifier:   ZORO™ Insecticide/Miticide",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1 — PRODUCT AND COMPANY IDENTIFICATION \nProduct identifier:   ZORO™ Insecticide/Miticide \nProduct use:  Insecticide. \nEPA Reg. No. 67760-71 \nSupplier’s name and address: \nManufacturer's name and address: \n \nCheminova Inc. \nRefer to supplier. \nP.O. Box 110566 \nOne Park Drive, Suite 150 \nResea"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Carcinogenicity"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2 — HAZARDS IDENTIFICATION \nEMERGENCY OVERVIEW \nPale yellow liquid. Almond-like odor. \nDanger. \nHarmful if swallowed. Risk of serious damage to eyes. \nAvoid contact with skin, eyes and clothing. \nDo not breathe vapor or mist. \nMay be dangerous for the environment.   \nThe product is very toxi"
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

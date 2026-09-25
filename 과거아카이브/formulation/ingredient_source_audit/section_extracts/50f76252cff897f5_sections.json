@@ -1,0 +1,35 @@
+{
+  "source_id": "50f76252cff897f5",
+  "file_path": "ingredient_source_audit/highlighted/50f76252cff897f5_highlighted.pdf",
+  "page_count": 4,
+  "full_text_length": 16963,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "FORMULATED FOR:",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION \nFORMULATED FOR: \n \nLOVELAND PRODUCTS, INC. \n24-Hour Emergency Phone:  1-800-424-9300 \n \nP.O. Box 1286 • Greeley, CO 80632-1286 \nMedical Emergencies:  1-866-944-8565 \n \n \nU.S. Coast Guard National Response Center: 1-800-424-8802 \nPRODUCT NAME: \nSWAGGER\n®  \nCHEMICAL"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "2. \nHAZARDS IDENTIFICATION SUMMARY \nKEEP OUT OF REACH OF CHILDREN – DANGER - PELIGRO – Corrosive. Causes irreversible eye damage. Harmful if absorbed through skin or \nswallowed. Do not get in eyes or on clothing. Wear protective eyewear (goggles, faceshield or safety glasses). Wash thoroughly with s"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

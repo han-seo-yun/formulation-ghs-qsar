@@ -1,0 +1,35 @@
+{
+  "source_id": "01664de36b4b5495",
+  "file_path": "ingredient_source_audit/highlighted/01664de36b4b5495_highlighted.pdf",
+  "page_count": 12,
+  "full_text_length": 22333,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "COMPANY/UNDERTAKING",
+    "formulation_code": null,
+    "epa_reg_number": "264-766",
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": "EPA",
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: IDENTIFICATION OF THE SUBSTANCE/MIXTURE AND OF THE \nCOMPANY/UNDERTAKING \n \nProduct identifier \n \nTrade name \nAXIOM® DF HERBICIDE \n \nProduct code (UVP) \n05173299 \n \nSDS Number \n102000006939 \n \nEPA Registration No. \n264-766 \n \nRelevant identified uses of the substance or mixture and uses ad"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2: HAZARDS IDENTIFICATION \n \nClassification in accordance with regulation HCS 29CFR §1910.1200 \nSpecific target organ toxicity - repeated exposure: Category 2 \n \nLabelling in accordance with regulation HCS 29CFR §1910.1200 \n \n \n \nSignal word: Warning \n \nHazard statements \nMay cause damage to"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

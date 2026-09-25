@@ -1,0 +1,52 @@
+{
+  "source_id": "3d797b6aca3a0bcd",
+  "file_path": "ingredient_source_audit/highlighted/3d797b6aca3a0bcd_highlighted.pdf",
+  "page_count": 18,
+  "full_text_length": 28931,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Trade Name",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1 Identification of the Substance/Mixture and of the Company/Undertaking \n1.1 \nTrade Name \nCINNAMON BARK OIL SRI LANKA \nREACH Registration \nNot registered. \n1.2 \nRelevant Identified Uses of \nthe Substance or Mixture \nand Uses Advised Against \nThis material is not for use in tobacco/tobacco products,"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H315",
+      "H317",
+      "H319",
+      "H350",
+      "H412"
+    ],
+    "p_codes": [
+      "P273",
+      "P280",
+      "P308",
+      "P313",
+      "P333",
+      "P337",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Skin Corrosion",
+      "Carcinogenicity"
+    ],
+    "environmental_hazard": "aquatic",
+    "hazard_level_score": 5,
+    "text_excerpt": "2 Hazards Identification \n2.1 Classification of the Substance or Mixture: \nSCI 2 \nSkin Corrosion/Irritation, Category 2 \nSS 1A \nSkin Sensitisation, Category 1A \nEDI 2A \nEye Damage/Irritation, Category 2A \nCAR 1B \nCarcinogenicity, Category 1B \nEH C3 \nAquatic Hazard, Long-term, Category 3 \n2.2 Label E"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

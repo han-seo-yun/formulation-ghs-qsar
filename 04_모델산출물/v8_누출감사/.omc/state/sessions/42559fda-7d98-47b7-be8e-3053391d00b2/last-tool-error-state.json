@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"cd /Users/hanseoyun/Desktop/신작물보호제 && python3 -c \\\"\\nimport json,pandas as pd\\nj=json.load(open('04_모델산출물/v8_노선2/요약.json',encoding='utf-8'))\\nprint(json.dumps({k:v for k,v in j.items() if ...",
+  "error": "Exit code 1\n{\n \"연구질문\": \"GHS 혼합물 분류 규칙과 성분 위험정보로 실제 완제품 GHS 분류를 얼마나 재현할 수 있는가\",\n \"규약\": \"05_제안/노선분리_비교규약.md\",\n \"단위\": \"제형(혼합물). 1행 = 1제형\",\n \"대표기준\": {\n  \"관할\": \"EU_CLP\",\n  \"피처셋\": \"L2단독\",\n  \"열수\": 42,\n  \"결측처리\": \"native_복원\",\n  \"임계값규칙\": \"J_중첩CV\"\n },\n \"관할선정근거\": \"혼합물 가산식의 출력 어휘 정합성. 가산식은 눈에서 {1,2A,NC} 만 출력하고 2B 를 낼 수 없다. 2B 를 분류로 보는 기준(K_REACH·UN_GHS·US_OSHA)에서는 라벨 보유분의 38%(301건)가 규칙이 원리적으로 예측할 수 없는 양성이 되어 연구 질문이 성립하지 않는다. 성능으로 고른 것이 아니다 — K_REACH·UN_GHS 결과도 부가 행으로 함께 남긴다.\",\n \"임계값\": {\n  \"규칙\": \"각 외부 폴드의 학습분...",
+  "timestamp": "2026-09-13T21:09:37.163Z",
+  "retry_count": 1
+}

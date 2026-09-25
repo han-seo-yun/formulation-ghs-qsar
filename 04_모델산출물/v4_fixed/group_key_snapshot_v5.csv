@@ -1,0 +1,1676 @@
+Formulation_ID,group_key,group_primary_cas,group_primary_name,group_key_src,group_primary_from_same_row,group_primary_ing_idx,group_primary_cas_ing_idx,group_primary_name_ing_idx
+Cancer_PID_1057,1330-20-7,1330-20-7,Xylene,cas,True,0.0,0.0,0.0
+Cancer_PID_108,134678-17-4,134678-17-4,Lamivudine,cas,True,0.0,0.0,0.0
+Cancer_PID_12,3'-Azido-3'-Deoxythymidine,,3'-Azido-3'-Deoxythymidine,name,False,0.0,,0.0
+Cancer_PID_13,3'-Azido-3'-Deoxythymidine,,3'-Azido-3'-Deoxythymidine,name,False,0.0,,0.0
+Cancer_PID_14,3'-Azido-3'-Deoxythymidine,,3'-Azido-3'-Deoxythymidine,name,False,0.0,,0.0
+Cancer_PID_141,Beta-nitrostyrene,,Beta-nitrostyrene,name,False,0.0,,0.0
+Cancer_PID_15,3'-Azido-3'-deoxythymidine,,3'-Azido-3'-deoxythymidine,name,False,0.0,,0.0
+Cancer_PID_159,Bisether,,Bisether,name,False,0.0,,0.0
+Cancer_PID_16,3'-Azido-3'-deoxythymidine,,3'-Azido-3'-deoxythymidine,name,False,0.0,,0.0
+Cancer_PID_6,57653-85-7,57653-85-7,"1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin",cas,True,0.0,0.0,0.0
+Cancer_PID_9,121-14-2,121-14-2,"2,4-Dinitrotoluene",cas,True,0.0,0.0,0.0
+Cancer_PID_957,TEF evaluation (Binary mixture,,TEF evaluation (Binary mixture,name,False,0.0,,0.0
+Cancer_PID_958,TEF evaluation,,TEF evaluation,name,False,0.0,,0.0
+Cancer_PID_959,1336-36-3,1336-36-3,Polychlorinated Biphenyls (PCBs),cas,True,0.0,0.0,0.0
+Cancer_PID_97,57-14-7,57-14-7,"N,N-Dimethylhydrazine Standard",cas,True,1.0,1.0,1.0
+Cancer_PID_98,12001-29-5,12001-29-5,Chrysotile,cas,True,0.0,0.0,0.0
+Cancer_PID_99,Aspirin,,Aspirin,name,False,0.0,,0.0
+EyeIrritation6pack_PID10,단일 성분,,단일 성분,name,False,0.0,,0.0
+EyeIrritation6pack_PID100,64742-94-5,64742-94-5,"Solvent Naphtha (petroleum), heavy >",cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID1000,2303-17-5,2303-17-5,Tri-allate,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID1001,199119-58-9,199119-58-9,"Synonyms : Trifloxysulfuron sodium,Trifloxysulfuron sodium salt",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID1002,1582-09-8,1582-09-8,Trifluralin 480 g/L,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID1004,131983-72-7,131983-72-7,Triticonazole,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID1005,6440-58-0,6440-58-0,"1,3-Dimethylol-5,5-dimethylhydantoin",cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID1007,330-54-1,330-54-1,Diuron,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID1008,60207-90-1,60207-90-1,"water repellents and wood preservative be completely dry before glazing, painting, % VOC",cas,False,3.0,3.0,0.0
+EyeIrritation6pack_PID1009,199119-58-9,199119-58-9,Trifloxysulfuron-sodium,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID101,317815-83-1,317815-83-1,Thiencarbazone-methyl,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID1011,64742-94-5,64742-94-5,Aromatic hydrocarbon 2 Moderate 2 Flammability,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID1012,138261-41-3,138261-41-3,Imidacloprid,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID1013,35367-38-5,35367-38-5,Diflubenzuron,cas,True,19.0,19.0,19.0
+EyeIrritation6pack_PID1016,134-62-3,134-62-3,DEET,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID1018,7704-34-9,7704-34-9,Sulphur,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID1019,52315-07-8,52315-07-8,Light aromatic naptha,cas,False,0.0,0.0,1.0
+EyeIrritation6pack_PID102,67485-29-4,67485-29-4,Content (W/W),cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID1020,40487-42-1,40487-42-1,Pendimethalin,cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID1021,1071-83-6,1071-83-6,Glyphosate,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID1022,138261-41-3,138261-41-3,Imidacloprid,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID1023,108-62-3,108-62-3,"2,4,6,8-Tetramethyl-1,3,5,7-tetroxocane",cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID1024,"Metconazole (-[(4-chlorophenyl)methyl]-2,2-dimethyl-1-(1H-1,2,4- 38-43 Active Ingredient",,"Metconazole (-[(4-chlorophenyl)methyl]-2,2-dimethyl-1-(1H-1,2,4- 38-43 Active Ingredient",name,False,0.0,,0.0
+EyeIrritation6pack_PID1025,125116-23-6,125116-23-6,"Metconazole (-[(4-chlorophenyl)methyl]-2,2-dimethyl-1-(1H-1,2,4- 48.5 - 51.5 Active Ingredient",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID1026,39515-41-8,39515-41-8,Fenpropathrin,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID1027,122548-33-8,122548-33-8,Imazosulfuron Technical,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID1028,165252-70-0,165252-70-0,1-Methyl-2-nitro-3-((tetrahydrofuran-3-yl)methyl)guanidine,cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID1029,103361-09-7,103361-09-7,Flumioxazin,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID103,153719-23-4,153719-23-4,Thiamethoxam,cas,True,8.0,8.0,8.0
+EyeIrritation6pack_PID1031,62-73-7,62-73-7,Dichlorvos,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID1032,82657-04-3,82657-04-3,Bifenthrin,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID1033,125401-92-5,125401-92-5,Bispyribac-sodium,cas,True,9.0,9.0,9.0
+EyeIrritation6pack_PID1034,90-43-7,90-43-7,2-Phenylphenol,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID1037,64742-94-5,64742-94-5,"Solvent naphtha (petroleum), heavy aromatic",cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID1038,5234-68-4,5234-68-4,carboxin,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID1039,7732-18-5,7732-18-5,Water,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID104,243973-20-8,243973-20-8,Pinoxaden,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID1040,153719-23-4,153719-23-4,Thiamethoxam,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID1042,500008-45-7,500008-45-7,chlorantraniliprole chlorantraniliprol,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID1043,107534-96-3,107534-96-3,Other/Inert Ingredients,cas,False,1.0,1.0,0.0
+EyeIrritation6pack_PID1044,29450-45-1,29450-45-1,2-Ethylhexyl (4-chloro-2-methylphenoxy)acetate,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID1045,26225-79-6,26225-79-6,Ethofumesate (ISO),cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID1048,12069-69-1,12069-69-1,Copper (II) carbonate--copper(II) hydroxide (:1,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID105,81406-37-3,81406-37-3,Fluroxypyr-meptyl,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID1050,91465-08-6,91465-08-6,lambda-Cyhalothrin,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID1051,104-55-2,104-55-2,3-Phenylprop-2-enal,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID1052,121451-02-3,121451-02-3,Noviflumuron,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID1053,2758-42-1,2758-42-1,"Dimethylamine Salt of -(2,4-Dichlorphenoxy) 23 True",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID1054,422556-08-9,422556-08-9,Pyroxsulam,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID1055,34256-82-1,34256-82-1,Acetochlor,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID1056,175013-18-0,175013-18-0,Pyraclostrobin,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID1059,7722-84-1,7722-84-1,Hydrogen peroxide,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID1060,110488-70-5,110488-70-5,ametoctradin,cas,False,2.0,2.0,0.0
+EyeIrritation6pack_PID1061,8018-01-7,8018-01-7,Mancozeb,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID1062,471-46-5,471-46-5,"Synonyms : oxamide,oxalamide",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID1064,156052-68-5,156052-68-5,Zoxamide,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID107,131860-33-8,131860-33-8,Azoxystrobin 50 NA NA NA NA,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID110,85409-22-9,85409-22-9,Alkylbenzyl dimethyl ammonium chloride,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID115,60207-90-1,60207-90-1,Synonym: CGA 64250,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID116,139968-49-3,139968-49-3,Metaflumizone,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID117,175013-18-0,175013-18-0,Pyraclostrobin,cas,True,8.0,8.0,8.0
+EyeIrritation6pack_PID118,175013-18-0,175013-18-0,Pyraclostrobin,cas,True,5.0,5.0,5.0
+EyeIrritation6pack_PID119,188425-85-6,188425-85-6,Boscalid,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID120,110488-70-5,110488-70-5,Fluxapyroxad,cas,False,6.0,6.0,1.0
+EyeIrritation6pack_PID121,141517-21-7,141517-21-7,Trifloxystrobin,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID123,865318-97-4,865318-97-4,Ametoctradin,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID124,210631-68-8,210631-68-8,Topramezone technical,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID125,907204-31-3,907204-31-3,Fluxapyroxad,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID126,175013-18-0,175013-18-0,Pyraclostrobin,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID127,67701-09-1,67701-09-1,PotassiumSaltsofFattyAcids,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID128,93-65-2,93-65-2,(+/-)-2-(4-Chloro-2-methylphenoxy)propionic acid,cas,True,7.0,7.0,7.0
+EyeIrritation6pack_PID131,68359-37-5,68359-37-5,Cyfluthrin,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID132,1582-09-8,1582-09-8,Trifluralin,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID134,5915-41-3,5915-41-3,Terbutylazine,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID137,95737-68-1,95737-68-1,Pyriproxyfen,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID138,Bentazon,,Bentazon,name,False,0.0,,0.0
+EyeIrritation6pack_PID142,13684-56-5,13684-56-5,desmedipham (ISO); ethyl 3-phenylcarbamoyloxyphenylcarbamate 15,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID143,82657-04-3,82657-04-3,Bifenthrin Weight %,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID144,82657-04-3,82657-04-3,Bifenthrin .069,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID145,57-13-6,57-13-6,Calcium Limestone (>=80 - <=),cas,False,2.0,2.0,0.0
+EyeIrritation6pack_PID146,82657-04-3,82657-04-3,Bifenthrin 7.9 NA NA NA NA,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID147,Bifenthrin,,Bifenthrin,name,False,0.0,,0.0
+EyeIrritation6pack_PID148,82657-04-3,82657-04-3,Bifenthrin 7.9 NA NA NA NA,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID149,82657-04-3,82657-04-3,"Cary, NC 27513 Bifenthrin (2 methyl[1,1’ –biphenyl]-3-yl)",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID150,82657-04-3,82657-04-3,Bifenithrin technical,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID151,82657-04-3,82657-04-3,Bifenthrin,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID152,82657-04-3,82657-04-3,Bifenthrin,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID153,82657-04-3,82657-04-3,Bifenthrin,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID154,82657-04-3,82657-04-3,Bifenthrin,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID155,82657-04-3,82657-04-3,Bifenthrin,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID157,2893-78-9,2893-78-9,Sodium Dichloro-S-Triazinetrione,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID160,125401-92-5,125401-92-5,RN,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID167,52315-07-8,52315-07-8,Cypermethrin,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID168,131929-60-7,131929-60-7,Note : Spinosad is comprised of Spinosyn A () and Spinosyn D,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID17,23564-05-8,23564-05-8,Thiophanate-methyl,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID170,188425-85-6,188425-85-6,RN,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID173,1897-45-6,1897-45-6,Chlorothalonil,cas,True,5.0,5.0,5.0
+EyeIrritation6pack_PID175,7704-34-9,7704-34-9,Sulfur,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID176,116255-48-2,116255-48-2,Bromuconazole,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID177,116255-48-2,116255-48-2,Bromuconazole,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID178,116255-48-2,116255-48-2,Bromuconazole,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID179,116255-48-2,116255-48-2,"Bromuconazole 1-[(2RS,4RS:2RS,4SR)-4-bromo-2-(2,4dichlorophenyl) tetrahydrofurfuryl]-1H-1,2,4-triazole",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID18,2634-33-5,2634-33-5,"1,2-Benzisothiazol-3(2H)-one",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID180,51-03-6,51-03-6,Piperonyl butoxide,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID182,175013-18-0,175013-18-0,Pyraclostrobin,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID186,1912-24-9,1912-24-9,2-chloro-4-ethylamino-6-isopropylamino-s- Atrazine triazine,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID194,133-06-2,133-06-2,Captan,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID195,Captan,,Captan,name,False,0.0,,0.0
+EyeIrritation6pack_PID196,133-06-2,133-06-2,"Captan: N-[(trichloromethyl)thio]-4-cyclohexene-1, 2-",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID197,82657-04-3,82657-04-3,Bifenthrin,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID205,67-63-0,67-63-0,Isopropanol -No,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID213,1918-00-9,1918-00-9,Dicamba,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID214,33089-61-1,33089-61-1,Amitraz,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID217,21087-64-9,21087-64-9,Metribuzin (active ingredient),cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID218,56-81-5,56-81-5,glycerol,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID219,103361-09-7,103361-09-7,Flumioxazin,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID220,Abamectin 2 NE NE,,Abamectin 2 NE NE,name,False,0.0,,0.0
+EyeIrritation6pack_PID221,111991-09-4,111991-09-4,Nicosulfuron,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID222,90-43-7,90-43-7,2-Phenylphenol,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID223,2008-39-1,2008-39-1,"(2,4-Dichlorophenoxy)acetic acid dimethylamine",cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID224,2008-39-1,2008-39-1,"(2,4-Dichlorophenoxy)acetic acid dimethylamine",cas,True,6.0,6.0,6.0
+EyeIrritation6pack_PID225,2008-39-1,2008-39-1,"(2,4-Dichlorophenoxy)acetic acid dimethylamine",cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID226,2008-39-1,2008-39-1,"(2,4-Dichlorophenoxy)acetic acid dimethylamine",cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID228,131983-72-7,131983-72-7,Triticonazole,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID229,2893-78-9,2893-78-9,Sodium dichloroisocyanurate,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID23,131860-33-8,131860-33-8,Azoxystrobin,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID231,1897-45-6,1897-45-6,Chlorothalonil,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID233,2921-88-2,2921-88-2,Chlorpyrifos,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID24,14433-76-2,14433-76-2,"Decanamide, N,N-dimethyl-",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID240,114311-32-9,114311-32-9,Proprietary ingredients,cas,False,0.0,0.0,1.0
+EyeIrritation6pack_PID241,122008-85-9,122008-85-9,Cyhalofop-butyl,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID242,101200-48-0,101200-48-0,Tribenuron-methyl,cas,True,6.0,6.0,6.0
+EyeIrritation6pack_PID243,101200-48-0,101200-48-0,Tribenuron-methyl,cas,True,6.0,6.0,6.0
+EyeIrritation6pack_PID246,Clothianidin,,Clothianidin,name,False,0.0,,0.0
+EyeIrritation6pack_PID247,Clothianidin,,Clothianidin,name,False,0.0,,0.0
+EyeIrritation6pack_PID251,210880-92-5,210880-92-5,Clothianidin 30 - 60 Active ingredient,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID252,56-72-4,56-72-4,Coumaphos,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID253,56-72-4,56-72-4,phosphorothioate,cas,False,2.0,2.0,0.0
+EyeIrritation6pack_PID254,68477-31-6,68477-31-6,Catalytic reformer petroleum,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID255,56-72-4,56-72-4,>= Tradesecret,cas,False,2.0,2.0,1.0
+EyeIrritation6pack_PID256,56-72-4,56-72-4,Coumaphos,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID258,1071-83-6,1071-83-6,Glyphosate,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID263,188425-85-6,188425-85-6,Boscalid,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID267,Coumaphos,,Coumaphos,name,False,0.0,,0.0
+EyeIrritation6pack_PID269,68157-60-8,68157-60-8,Forchlorfenuron 1 not set not set,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID270,153719-23-4,153719-23-4,Thiamethoxam,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID271,119446-68-3,119446-68-3,Difenoconazole,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID272,153719-23-4,153719-23-4,Thiamethoxam,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID273,153719-23-4,153719-23-4,"3-(2-chloro-1,3-thiazol-5-ylmethyl)-5- methyl-1,3,5-oxadiazinan-4- ylidene(nitro)amine",cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID274,7173-51-5,7173-51-5,Inert Ingredients,cas,False,1.0,1.0,2.0
+EyeIrritation6pack_PID275,120068-37-3,120068-37-3,Fipronil,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID276,91465-08-6,91465-08-6,3.1 Substance/Mixture,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID277,1897-45-6,1897-45-6,Chlorothalonil not listed,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID28,65195-55-3,65195-55-3,Avermectin B1a,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID281,120116-88-3,120116-88-3,"Cyazofamid 4-chloro-2-cyano-N,N-dimethyl-5-p-tolylimidazole-1-sulfonamide",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID282,68359-37-5,68359-37-5,Cyfluthrin 434.29 (3)-4123 4-(7)-1541,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID283,180409-60-3,180409-60-3,Cyflufenamid,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID286,68085-85-8,68085-85-8,alpha-Cyhalothrin,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID287,57966-95-7,57966-95-7,Cymoxanil,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID288,52315-07-8,52315-07-8,mol,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID289,86753-92-6,86753-92-6,"Synonyms : cypermethrin,Cypermethrin, High Effect",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID29,65195-56-4,65195-56-4,Avermectin B1b,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID291,Cyproconazole,,Cyproconazole,name,False,0.0,,0.0
+EyeIrritation6pack_PID293,121552-61-2,121552-61-2,mol,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID298,62-73-7,62-73-7,Dichlorvos,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID299,108-62-3,108-62-3,"2,4,6,8-Tetramethyl-1,3,5,7-tetroxocane",cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID3,104206-82-8,104206-82-8,"Mesotrione 2-[4-(methylsulfonyl)-2-nitrobenzoyl]-1,3-cyclohexanedione",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID300,64742-71-8,64742-71-8,"Paraffin oils (petroleum), catalytic dewaxed >= 70 -<",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID301,52918-63-5,52918-63-5,Deltamethrin,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID302,240494-70-6,240494-70-6,Metofluthrin,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID303,137-26-8,137-26-8,Bis(dimethylaminothiocarbonyl) disulfide,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID306,1897-45-6,1897-45-6,Chlorothalonil,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID31,71751-41-2,71751-41-2,Abamectin,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID310,"Component CAS No. Weight, % Hazard Code Napropamide   - Surfactant  to <  , ,  Surfactant 2 - <  , ,  Solvent - >",,"Component CAS No. Weight, % Hazard Code Napropamide   - Surfactant  to <  , ,  Surfactant 2 - <  , ,  Solvent - >",name,False,0.0,,0.0
+EyeIrritation6pack_PID312,15299-99-7,15299-99-7,Napropamide,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID313,Napropamide,,Napropamide,name,False,0.0,,0.0
+EyeIrritation6pack_PID314,15165-67-0,15165-67-0,Dichlorprop-P,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID316,35367-38-5,35367-38-5,Molecular Weight: 310.68,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID319,60-51-5,60-51-5,Dimethoate not listed,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID32,Name : Abamectin techn. min,,Name : Abamectin techn. min,name,False,0.0,,0.0
+EyeIrritation6pack_PID321,165252-70-0,165252-70-0,Dinotefuran 202.21 (5)-6767,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID323,165252-70-0,165252-70-0,Dinotefuran,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID324,165252-70-0,165252-70-0,Dinotefuran (-No),cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID325,165252-70-0,165252-70-0,Dinotefuran,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID326,361377-29-9,361377-29-9,Fluoxastrobin,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID327,330-54-1,330-54-1,"Diuron 3-(3,4-dichlorophenyl)-1,1-dimethylurea",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID328,330-54-1,330-54-1,Diuron,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID329,112281-77-3,112281-77-3,Tetraconazole,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID330,82657-04-3,82657-04-3,Bifenthrin,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID332,Deltamethrin (ISO),,Deltamethrin (ISO),name,False,0.0,,0.0
+EyeIrritation6pack_PID333,122931-48-0,122931-48-0,RIMSULFURON,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID343,Elemental Sulfur,,Elemental Sulfur,name,False,0.0,,0.0
+EyeIrritation6pack_PID344,7704-34-9,7704-34-9,Elemental Sulfur,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID345,51707-55-2,51707-55-2,Other ingredients (non-hazardous),cas,False,0.0,0.0,5.0
+EyeIrritation6pack_PID347,111991-09-4,111991-09-4,Nicosulfuron,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID348,111991-09-4,111991-09-4,Methyl ethyl ketone > 35.0,cas,False,15.0,15.0,0.0
+EyeIrritation6pack_PID349,117428-22-5,117428-22-5,Other/Inert Ingredients,cas,False,0.0,0.0,3.0
+EyeIrritation6pack_PID350,57966-95-7,57966-95-7,Cymoxanil,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID351,858954-83-3,858954-83-3,Aminocyclopyrachlor methyl ester,cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID352,858954-83-3,858954-83-3,Aminocyclopyrachlor methyl ester,cas,True,6.0,6.0,6.0
+EyeIrritation6pack_PID354,183675-82-3,183675-82-3,Penthiopyrad,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID355,858956-08-8,858956-08-8,Urea,cas,False,5.0,5.0,0.0
+EyeIrritation6pack_PID356,858956-08-8,858956-08-8,Potassium salt of aminocyclopyrachlor,cas,False,2.0,2.0,0.0
+EyeIrritation6pack_PID358,183675-82-3,183675-82-3,Other/Inert Ingredients,cas,False,0.0,0.0,2.0
+EyeIrritation6pack_PID360,141112-29-0,141112-29-0,Other/Inert Ingredients,cas,False,1.0,1.0,5.0
+EyeIrritation6pack_PID361,500008-45-7,500008-45-7,Other/Inert Ingredients,cas,False,0.0,0.0,2.0
+EyeIrritation6pack_PID362,500008-45-7,500008-45-7,Chlorantraniliprole >= 2.5 - <,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID363,111991-09-4,111991-09-4,Other/Inert Ingredients,cas,False,1.0,1.0,7.0
+EyeIrritation6pack_PID364,1897-45-6,1897-45-6,Chlorothalonil,cas,True,5.0,5.0,5.0
+EyeIrritation6pack_PID365,183675-82-3,183675-82-3,Other/Inert Ingredients,cas,False,0.0,0.0,2.0
+EyeIrritation6pack_PID366,108-62-3,108-62-3,Metaldehyde,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID367,153719-23-4,153719-23-4,other ingredients determined not to be hazardous,cas,False,0.0,0.0,4.0
+EyeIrritation6pack_PID368,111-77-3,111-77-3,2-Methoxyethoxyethanol,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID369,52-68-6,52-68-6,A straight insect control product for general turf use. Contains Dylox at,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID37,107534-96-3,107534-96-3,Tebuconazole,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID370,88671-89-0,88671-89-0,Myclobutanil,cas,True,5.0,5.0,5.0
+EyeIrritation6pack_PID371,1897-45-6,1897-45-6,Chlorothalonil,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID373,1897-45-6,1897-45-6,Chlorothalonil,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID375,138261-41-3,138261-41-3,Imidacloprid,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID376,95737-68-1,95737-68-1,Glycol ether,cas,False,1.0,1.0,2.0
+EyeIrritation6pack_PID377,1928-43-4,1928-43-4,"2-Ethylhexyl (2,4-dichlorophenoxy)acetate",cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID378,2008-39-1,2008-39-1,"(2,4-Dichlorophenoxy)acetic acid dimethylamine",cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID379,2008-39-1,2008-39-1,SODIUM HYPOCHLORITE SOLUTION EUP,cas,False,4.0,4.0,1.0
+EyeIrritation6pack_PID380,2008-39-1,2008-39-1,"(2,4-Dichlorophenoxy)acetic acid dimethylamine",cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID381,2008-39-1,2008-39-1,"(2,4-Dichlorophenoxy)acetic acid dimethylamine",cas,True,6.0,6.0,6.0
+EyeIrritation6pack_PID382,104206-82-8,104206-82-8,Mesotrione,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID383,7732-18-5,7732-18-5,Water,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID386,155569-91-8,155569-91-8,Emamectin benzoate,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID390,1897-45-6,1897-45-6,chlorothalonil,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID391,153719-23-4,153719-23-4,thiamethoxam,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID392,138261-41-3,138261-41-3,Imidacloprid,cas,True,7.0,7.0,7.0
+EyeIrritation6pack_PID393,148477-71-8,148477-71-8,Spirodiclofen,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID396,36734-19-7,36734-19-7,Iprodione,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID398,16672-87-0,16672-87-0,2-Cloroethylphosphonic acid,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID4,104206-82-8,104206-82-8,Mesotrione ≥ - ≤50,cas,False,6.0,6.0,1.0
+EyeIrritation6pack_PID40,30560-19-1,30560-19-1,Acephate,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID404,26225-79-6,26225-79-6,Ethofumesate (ISO),cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID406,13194-48-4,13194-48-4,Ethoprop,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID408,153233-91-1,153233-91-1,Etoxazole ≧％ C21H23F2NO2,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID41,30560-19-1,30560-19-1,Acephate min. NA,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID411,68476-86-8,68476-86-8,Liquefied Petroleum Gas - 50 270-705-8,cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID412,10605-21-7,10605-21-7,Carbendazim,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID413,64742-94-5,64742-94-5,"Solvent Naptha (petroleum), heavy aromatic",cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID414,64742-94-5,64742-94-5,"Naphtha (petroleum), heavy aromatic",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID417,82657-04-3,82657-04-3,Bifenthrin,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID419,82657-04-3,82657-04-3,Bifenthrin,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID42,57960-19-7,57960-19-7,Acequinocyl,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID420,82657-04-3,82657-04-3,Bifenthrin,cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID422,126833-17-8,126833-17-8,mol,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID426,Fenpropimorph,,Fenpropimorph,name,False,0.0,,0.0
+EyeIrritation6pack_PID429,120068-37-3,120068-37-3,fipronil,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID43,131983-72-7,131983-72-7,Triticonazole,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID433,7778-77-0,7778-77-0,from Monopotassium Phosphate not listed,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID434,60207-90-1,60207-90-1,Propiconazole 418 g/L,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID435,158062-67-0,158062-67-0,Flonicamid,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID437,107534-96-3,107534-96-3,Tebuconazole,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID438,104040-78-0,104040-78-0,Active Ingredient: Flazasulfuron* 25 Not established,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID439,Fluazinam,,Fluazinam,name,False,0.0,,0.0
+EyeIrritation6pack_PID44,34256-82-1,34256-82-1,Acetochlor,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID441,131341-86-1,131341-86-1,Fludioxonil,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID443,141112-29-0,141112-29-0,Isoxaflutole,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID444,142459-58-3,142459-58-3,Flufenacet,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID445,188489-07-8,188489-07-8,Flufenpyr-ethyl,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID45,34256-82-1,34256-82-1,2-chloro-N-(ethoxymethyl)-N-(2-ethyl-6-methylphenyl)acetamide,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID456,8012-95-1,8012-95-1,Paraffin oil,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID457,239110-15-7,239110-15-7,Fluopicolide,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID458,658066-35-4,658066-35-4,Fluopyram,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID459,658066-35-4,658066-35-4,Fluopyram,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID46,110488-70-5,110488-70-5,Dimethomorph,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID460,658066-35-4,658066-35-4,Fluopyram,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID462,361377-29-9,361377-29-9,Fluoxastrobin,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID463,66332-96-5,66332-96-5,Flutolanil,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID464,76674-21-0,76674-21-0,Flutriafol,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID466,107534-96-3,107534-96-3,Tebuconazole,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID467,Tebuconazole,,Tebuconazole,name,False,0.0,,0.0
+EyeIrritation6pack_PID469,133-07-3,133-07-3,Folpet,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID47,2682-20-4,2682-20-4,2-Methyl-3(2H)-isothiazolone,cas,True,26.0,26.0,26.0
+EyeIrritation6pack_PID471,7732-18-5,7732-18-5,Water H₂O g/mol,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID473,39148-24-8,39148-24-8,Fosetyl-Al,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID474,98886-44-3,98886-44-3,fosthiazate,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID475,36734-19-7,36734-19-7,Iprodione,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID476,153719-23-4,153719-23-4,Thiamethoxam,cas,True,5.0,5.0,5.0
+EyeIrritation6pack_PID477,40487-42-1,40487-42-1,Pendimethalin,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID478,57-55-6,57-55-6,Fenpyroximate 134098,cas,False,1.0,1.0,0.0
+EyeIrritation6pack_PID48,2634-33-5,2634-33-5,"1,2-Benzisothiazolin-3-one",cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID480,121-75-5,121-75-5,malathion (ISO) [containing ≤ 0,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID481,64-19-7,64-19-7,Non-hazardous ingredients,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID486,91465-08-6,91465-08-6,lambda-Cyhalothrin,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID489,88-04-0,88-04-0,"4-Chloro-3,5-dimethylphenol",cas,True,6.0,6.0,6.0
+EyeIrritation6pack_PID49,52-51-7,52-51-7,Bronopol,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID493,121451-02-3,121451-02-3,Noviflumuron,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID494,577-11-7,577-11-7,spinosad (ISO) (reaction mass of,cas,False,2.0,2.0,0.0
+EyeIrritation6pack_PID495,1332-58-7,1332-58-7,Porcelain clay,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID497,Spinetoram,,Spinetoram,name,False,0.0,,0.0
+EyeIrritation6pack_PID498,"p1r-oUpnedneyclaanmolino-, monosodium salt, polymer with - 1 EzeFlo F103 #1Surfactant, fracturing X S",,"p1r-oUpnedneyclaanmolino-, monosodium salt, polymer with - 1 EzeFlo F103 #1Surfactant, fracturing X S",name,False,8.0,,8.0
+EyeIrritation6pack_PID499,"1,2,4-Trimethylbenzene",,"1,2,4-Trimethylbenzene",name,False,2.0,,2.0
+EyeIrritation6pack_PID5,104206-82-8,104206-82-8,Mesotrione,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID50,330-54-1,330-54-1,Diuron,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID500,577-11-7,577-11-7,spinosad (ISO) (reaction mass of,cas,False,2.0,2.0,0.0
+EyeIrritation6pack_PID501,25036-25-3,25036-25-3,Epoxy resin (mw 700-1000) Xi; R36/38-43,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID502,422556-08-9,422556-08-9,Pyroxsulam,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID503,81406-37-3,81406-37-3,Fluroxypyr-meptyl,cas,True,5.0,5.0,5.0
+EyeIrritation6pack_PID504,34256-82-1,34256-82-1,Acetochlor,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID505,161050-58-4,161050-58-4,Methoxyfenozide,cas,True,6.0,6.0,6.0
+EyeIrritation6pack_PID506,161050-58-4,161050-58-4,Methoxyfenozide,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID507,219714-96-2,219714-96-2,Penoxsulam,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID508,120068-37-3,120068-37-3,fipronil,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID51,330-54-1,330-54-1,Diuron,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID511,52645-53-1,52645-53-1,mol,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID512,Permethrin,,Permethrin,name,False,0.0,,0.0
+EyeIrritation6pack_PID514,1071-83-6,1071-83-6,article number: 22YE,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID515,1071-83-6,1071-83-6,"Synonyms : glyphosate,N-(Phosphonomethyl)glycine 2-propylamine",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID516,1071-83-6,1071-83-6,mol,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID519,1071-83-6,1071-83-6,Glyphosate,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID52,2634-33-5,2634-33-5,"1,2-benzisothiazoline-3-one",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID520,9003-13-8,9003-13-8,Butoxypolypropylene glycol,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID521,131341-86-1,131341-86-1,Fludioxonil,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID523,15630-89-4,15630-89-4,Sodium carbonate peroxyhydrate,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID529,34256-82-1,34256-82-1,Acetochlor,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID53,153719-23-4,153719-23-4,Thiamethoxam,cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID530,372137-35-4,372137-35-4,Saflufenacil,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID533,64742-94-5,64742-94-5,"Naphtha (petroleum), heavy aromatic",cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID535,94-75-7,94-75-7,"2,4-Dichlorophenoxyacetic acid",cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID536,55335-06-3,55335-06-3,Triclopyr,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID538,82657-04-3,82657-04-3,Bifenthrin,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID54,100-51-6,100-51-6,Benzenemethanol ≥ - ≤90,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID540,131341-86-1,131341-86-1,Fludioxonil,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID546,138261-41-3,138261-41-3,Imidacloprid 58.5 g/L,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID547,122548-33-8,122548-33-8,imazosulfuron >98,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID548,5234-68-4,5234-68-4,carboxin,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID549,107534-96-3,107534-96-3,Other/Inert Ingredients,cas,False,4.0,4.0,2.0
+EyeIrritation6pack_PID55,335104-84-2,335104-84-2,Tembotrione,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID551,732-11-6,732-11-6,phosmet(ISO) w/w,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID553,52645-53-1,52645-53-1,Permethrin,cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID554,865318-97-4,865318-97-4,Ametoctradin,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID555,138261-41-3,138261-41-3,Imidacloprid,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID556,161050-58-4,161050-58-4,Methoxyfenozide,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID557,125225-28-7,125225-28-7,Ipconazole,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID558,57837-19-1,57837-19-1,Metalaxyl,cas,True,6.0,6.0,6.0
+EyeIrritation6pack_PID559,36734-19-7,36734-19-7,"Synonyms : Iprodione,IPRODION",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID560,111991-09-4,111991-09-4,Nicosulfuron,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID563,Glyphosate,,Glyphosate,name,False,0.0,,0.0
+EyeIrritation6pack_PID567,160430-64-8,160430-64-8,N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID568,138261-41-3,138261-41-3,Other inert ingredients are and non-hazardous,cas,False,2.0,2.0,1.0
+EyeIrritation6pack_PID57,7722-84-1,7722-84-1,HYDROGEN PEROXIDE,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID570,91465-08-6,91465-08-6,Lambda-cyhalothrin,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID571,138261-41-3,138261-41-3,Imidacloprid 13.77–15.22,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID572,2893-78-9,2893-78-9,Sodium dichloroisocyanurate,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID573,372137-35-4,372137-35-4,saflufenacil,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID574,51707-55-2,51707-55-2,Thidiazuron,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID578,64742-94-5,64742-94-5,"Solvent Naphtha (Petroleum), Heavy Arom. ≥ - ≤50",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID579,30560-19-1,30560-19-1,Acephate,cas,True,5.0,5.0,5.0
+EyeIrritation6pack_PID58,153719-23-4,153719-23-4,"nicotine, salts of ≥ - ≤15",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID583,59669-26-0,59669-26-0,Thiodicarb,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID585,59669-26-0,59669-26-0,Thiodicarb,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID59,153719-23-4,153719-23-4,Thiamethoxam,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID592,2008-39-1,2008-39-1,"Dimethylamine Salt of 2,4-Dichloro-phenoxyacetic acid",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID593,84087-01-4,84087-01-4,"Quinolinecarboxylic acid, 3,7-dichloro- > 0 - <=",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID594,1918-00-9,1918-00-9,Dicamba,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID600,52645-53-1,52645-53-1,Permethrin,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID601,68585-34-2,68585-34-2,Sodium alkyl ether sulphate,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID602,Other/Inert Ingredients,,Other/Inert Ingredients,name,False,3.0,,3.0
+EyeIrritation6pack_PID607,7732-18-5,7732-18-5,No,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID608,32426-11-2,32426-11-2,Octyl decyl dimethyl ammonium chloride,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID61,1071-83-6,1071-83-6,Glyphosate,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID610,131860-33-8,131860-33-8,Azoxystrobin,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID616,138261-41-3,138261-41-3,Imidacloprid,cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID618,35554-44-0,35554-44-0,Imazalil,cas,True,21.0,21.0,21.0
+EyeIrritation6pack_PID62,1582-09-8,1582-09-8,Trifluralin none established,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID621,82657-04-3,82657-04-3,Bifenthrin,cas,True,6.0,6.0,6.0
+EyeIrritation6pack_PID626,121-75-5,121-75-5,Malathion,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID627,8018-01-7,8018-01-7,Manganese ethylenebis (dithiocarbamate) Mancozeb,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID628,148-79-8,148-79-8,Thiabendazole,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID629,120068-37-3,120068-37-3,Fipronil,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID631,74-98-6,74-98-6,Propane,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID632,16484-77-8,16484-77-8,(R)-2-(4-Chloro-2-methylphenoxy)propionate,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID633,131341-86-1,131341-86-1,Fludioxonil,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID635,1897-45-6,1897-45-6,3.1 Mixtures,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID639,208465-21-8,208465-21-8,Mesosulfuron-methyl,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID640,104206-82-8,104206-82-8,"Mesotrione 2-[4-(methylsulfonyl)-2-nitrobenzoyl]-1,3-cyclohexanedione",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID641,104206-82-8,104206-82-8,Mesotrione,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID642,139968-49-3,139968-49-3,Metaflumizone HYDRAZINECARBOXAMIDE,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID643,139968-49-3,139968-49-3,Molecular Weight: 506.40,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID645,108-62-3,108-62-3,Metaldehyde,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID65,138261-41-3,138261-41-3,Imidacloprid 0.10-0.125,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID650,220899-03-6,220899-03-6,Metrafenone,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID651,21087-64-9,21087-64-9,Metribuzin,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID652,74223-64-6,74223-64-6,metsulfuron methyl,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID654,116-06-3,116-06-3,Aldicarb,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID655,52315-07-8,52315-07-8,Cypermethrin,cas,True,6.0,6.0,6.0
+EyeIrritation6pack_PID656,82657-04-3,82657-04-3,Bifenthrin,cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID657,26002-80-2,26002-80-2,Phenothrin,cas,True,7.0,7.0,7.0
+EyeIrritation6pack_PID658,68439-49-6,68439-49-6,10-25 alcohols C16-18 ethoxylated,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID659,95737-68-1,95737-68-1,NYLAR® (Pyriproxyfen),cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID660,51-03-6,51-03-6,Piperonyl Butoxide,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID661,35367-38-5,35367-38-5,DIflubenzuron 70-90,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID663,3567-25-7,3567-25-7,"Sodium 5-chloro-2-(4-chloro-2-(3-(3,4-dichlorophenyl)ureido)phenoxy)benzenesulfonate",cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID668,7778-18-9,7778-18-9,Other ingredients (non-hazardous),cas,False,1.0,1.0,3.0
+EyeIrritation6pack_PID669,141776-32-1,141776-32-1,Sulfosulfuron,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID673,34256-82-1,34256-82-1,Acetochlor,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID674,34256-82-1,34256-82-1,Acetochlor,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID675,34256-82-1,34256-82-1,Acetochlor,cas,True,6.0,6.0,6.0
+EyeIrritation6pack_PID676,203313-25-1,203313-25-1,Spirotetramat,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID677,52315-07-8,52315-07-8,Cypermethrin,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID678,75-28-5,75-28-5,isobutane,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID680,60207-90-1,60207-90-1,Propiconazole,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID684,008018-01-7,008018-01-7,Mancozeb,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID687,111991-09-4,111991-09-4,Nicosulfuron,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID689,120068-37-3,120068-37-3,Fipronil,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID690,98886-44-3,98886-44-3,Fosthiazate,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID691,2893-78-9,2893-78-9,Sodium dichloroisocyanurate,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID692,66215-27-8,66215-27-8,Cyromazine,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID694,123-33-1,123-33-1,1-Methoxy-2-propanol,cas,False,2.0,2.0,0.0
+EyeIrritation6pack_PID695,123-33-1,123-33-1,Maleic hydrazide,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID696,111991-09-4,111991-09-4,Nicosulfuron,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID698,210880-92-5,210880-92-5,Clothianidin 1 - 5 Active ingredient,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID699,272451-65-7,272451-65-7,Flubendiamide,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID70,210880-92-5,210880-92-5,Clothianidin,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID700,240494-70-6,240494-70-6,Metofluthrin,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID702,138261-41-3,138261-41-3,Imidacloprid,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID704,101200-48-0,101200-48-0,Tribenuron-methyl,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID705,1928-43-4,1928-43-4,"2-Ethylhexyl (2,4-dichlorophenoxy)acetate",cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID707,1928-43-4,1928-43-4,"2-Ethylhexyl (2,4-dichlorophenoxy)acetate",cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID708,7704-34-9,7704-34-9,Sulfur,cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID71,210880-92-5,210880-92-5,"Clothianidin [(E)-1-(2-chloro-1,3-thiazol-5-ylmethyl)-3-methyl-",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID710,64742-47-8,64742-47-8,"Petroleum Distillates, Light, Hydrotreated - 80 265-149-8",cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID716,208465-21-8,208465-21-8,Mesosulfuron-methyl,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID717,138261-41-3,138261-41-3,Imidacloprid,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID718,57-50-1,57-50-1,"sucrose, pure >= 10 - <",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID719,153719-23-4,153719-23-4,thiamethoxam (ISO) <,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID722,81335-77-5,81335-77-5,Imazethapyr,cas,True,5.0,5.0,5.0
+EyeIrritation6pack_PID723,107534-96-3,107534-96-3,Tebuconazole,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID726,107534-96-3,107534-96-3,Tebuconazole,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID727,1184-64-1,1184-64-1,Copper(II) carbonate,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID728,107534-96-3,107534-96-3,Tebuconazole,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID732,110488-70-5,110488-70-5,ametoctradin,cas,False,2.0,2.0,0.0
+EyeIrritation6pack_PID737,494793-67-8,494793-67-8,Penflufen,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID738,53112-28-0,53112-28-0,Pyrimethanil (ISO) >= - <50 %,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID739,210880-92-5,210880-92-5,Clothianidin,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID740,210880-92-5,210880-92-5,Clothianidin,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID741,494793-67-8,494793-67-8,"Synonyms : Penflufen,1H-Pyrazole-4-carboxamide, N-[2-(1,3-dimethylbutyl)phenyl]-5-fluoro-1,3-dimethyl",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID743,219714-96-2,219714-96-2,Percent: (HPLC),cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID744,494793-67-8,494793-67-8,Penflufen,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID745,178928-70-6,178928-70-6,Prothioconazole,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID746,183675-82-3,183675-82-3,"Synonyms : penthiopyrad,GAIA",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID747,183675-82-3,183675-82-3,Penthiopyrad(*) (200,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID748,141517-21-7,141517-21-7,Trifloxystrobin,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID75,834-12-8,834-12-8,Ametryn,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID750,Permethrin,,Permethrin,name,False,0.0,,0.0
+EyeIrritation6pack_PID751,135397-30-7,135397-30-7,Halosulfuron,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID756,117428-22-5,117428-22-5,Picoxystrobin,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID757,14808-60-7,14808-60-7,crystalline silica,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID76,129909-90-6,129909-90-6,RN,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID760,97-99-4,97-99-4,Tetrahydrofurfuryl,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID764,153719-23-4,153719-23-4,Thiamethoxam,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID765,Other/Inert Ingredients,,Other/Inert Ingredients,name,False,4.0,,4.0
+EyeIrritation6pack_PID768,30560-19-1,30560-19-1,Acephate,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID77,566191-89-7,566191-89-7,Aminopyralid Triisopropanolamine Salt,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID770,149877-41-8,149877-41-8,Bifenazate,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID771,330-54-1,330-54-1,"Assay (HPLC): min. as the sum of Diuron, Carbendazim and",cas,False,4.0,4.0,0.0
+EyeIrritation6pack_PID772,2634-33-5,2634-33-5,"1,2-Benzisothiazolin-3-one",cas,True,9.0,9.0,9.0
+EyeIrritation6pack_PID773,52-51-7,52-51-7,Bronopol,cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID774,57-55-6,57-55-6,2-Propanediol,cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID776,1071-83-6,1071-83-6,Glyphosate,cas,True,15.0,15.0,15.0
+EyeIrritation6pack_PID777,7783-20-2,7783-20-2,Sulfuric acid diammonium salt,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID779,60207-90-1,60207-90-1,Propiconazole,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID78,33089-61-1,33089-61-1,Chemical Name: Amitraz,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID780,108-88-3,108-88-3,Toluene,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID781,5234-68-4,5234-68-4,Carboxin,cas,True,7.0,7.0,7.0
+EyeIrritation6pack_PID783,107534-96-3,107534-96-3,Tebuconazole,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID784,138261-41-3,138261-41-3,Imidacloprid,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID788,107534-96-3,107534-96-3,mol,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID79,33089-61-1,33089-61-1,Amitraz,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID790,81335-77-5,81335-77-5,Imazethapyr,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID791,110-82-7,110-82-7,Cyclohexane,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID792,51-03-6,51-03-6,Piperonyl Butoxide,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID793,365400-11-9,365400-11-9,Synonyms,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID794,179101-81-6,179101-81-6,Synonyms : Pyridalyl,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID795,7786-80-3,7786-80-3,"1,2,3,6-Tetrahydro-N-octyl-3,6-methanophthalimide",cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID796,119446-68-3,119446-68-3,Difenoconazole,cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID797,1897-45-6,1897-45-6,"Chlorothalonil, Iprodione 9.4%, Thiophanate methyl 9.4%, Tebuconazole 2.8%",cas,False,2.0,2.0,0.0
+EyeIrritation6pack_PID798,124495-18-7,124495-18-7,quinoxyfen,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID799,124495-18-7,124495-18-7,Quinoxyfen,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID80,82558-50-7,82558-50-7,Isoxaben,cas,True,6.0,6.0,6.0
+EyeIrritation6pack_PID800,5131-66-8,5131-66-8,1-butoxy-2-propanol,cas,True,5.0,5.0,5.0
+EyeIrritation6pack_PID801,72490-01-8,72490-01-8,Fenoxycarb,cas,True,7.0,7.0,7.0
+EyeIrritation6pack_PID802,114-26-1,114-26-1,Propoxur,cas,True,5.0,5.0,5.0
+EyeIrritation6pack_PID803,57-55-6,57-55-6,"propane-,2-diol >= 1 - <",cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID804,22248-79-9,22248-79-9,Tetrachlorvinphos,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID806,1982-69-0,1982-69-0,Sodium dicamba,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID808,35554-44-0,35554-44-0,Imazalil,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID809,35554-44-0,35554-44-0,Imazalil,cas,True,5.0,5.0,5.0
+EyeIrritation6pack_PID81,107534-96-3,107534-96-3,Tebuconazole,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID810,52645-53-1,52645-53-1,Permethrin,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID811,122008-85-9,122008-85-9,Cyhalofop-butyl,cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID812,123-42-2,123-42-2,Diacetone Alcohol,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID813,Bispyribac-sodium,,Bispyribac-sodium,name,False,0.0,,0.0
+EyeIrritation6pack_PID814,64742-94-5,64742-94-5,Heavy aromatic naphtha > 40.0,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID815,858956-08-8,858956-08-8,Aminocyclopyrachlor,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID816,1897-45-6,1897-45-6,Chlorothalonil,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID817,1897-45-6,1897-45-6,Chlorothalonil,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID818,119446-68-3,119446-68-3,Difenoconazole,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID819,8018-01-7,8018-01-7,Mancozeb,cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID822,52-51-7,52-51-7,Bronopol >= 5.0,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID827,138261-41-3,138261-41-3,Imidacloprid,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID828,138261-41-3,138261-41-3,mol,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID829,16752-77-5,16752-77-5,Methomyl,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID830,111991-09-4,111991-09-4,Nicosulfuron,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID831,107534-96-3,107534-96-3,Tebuconazole 37.5-39.9 X,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID832,79277-27-3,79277-27-3,Thifensulfuron methyl,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID833,36734-19-7,36734-19-7,Iprodione,cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID834,27176-87-0,27176-87-0,Dodecylbenzenesulfonic acid,cas,True,10.0,10.0,10.0
+EyeIrritation6pack_PID835,7704-34-9,7704-34-9,Sulfur,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID837,188489-07-8,188489-07-8,Flufenpyr-ethyl,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID838,104206-82-8,104206-82-8,Mesotrione,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID839,165252-70-0,165252-70-0,Particulates Not Otherwise Classified,cas,False,0.0,0.0,1.0
+EyeIrritation6pack_PID840,1333-86-4,1333-86-4,Carbon,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID841,7704-34-9,7704-34-9,Sulfur,cas,True,7.0,7.0,7.0
+EyeIrritation6pack_PID843,7704-34-9,7704-34-9,Sulfur,cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID844,7704-34-9,7704-34-9,Sulfur,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID852,107534-96-3,107534-96-3,Tebuconazole,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID853,138261-41-3,138261-41-3,Imidacloprid 10.6,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID854,137-26-8,137-26-8,Bis(dimethylaminothiocarbonyl) disulfide,cas,True,26.0,26.0,26.0
+EyeIrritation6pack_PID856,141112-29-0,141112-29-0,Isoxaflutole,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID857,53112-28-0,53112-28-0,Pyrimethanil,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID86,127277-53-6,127277-53-6,Prohexadione-calcium,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID860,91465-08-6,91465-08-6,Lambda-Cyhalothrin () Not Established Not Established,cas,False,4.0,4.0,3.0
+EyeIrritation6pack_PID861,165252-70-0,165252-70-0,1-Methyl-2-nitro-3-((tetrahydrofuran-3-yl)methyl)guanidine,cas,True,5.0,5.0,5.0
+EyeIrritation6pack_PID863,64-17-5,64-17-5,Ethanol n/a,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID865,874967-67-6,874967-67-6,Sedaxane,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID866,874967-67-6,874967-67-6,Sedaxane,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID867,138261-41-3,138261-41-3,Imidacloprid,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID868,80844-07-1,80844-07-1,Etofenprox,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID869,38641-94-0,38641-94-0,"isopropylamine salt (EC no) -8 Poly(oxy-1,2-ethanediyl),.alpha.-phosphono-.omega.-",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID87,117428-22-5,117428-22-5,Other/Inert Ingredients,cas,False,0.0,0.0,3.0
+EyeIrritation6pack_PID870,7783-20-2,7783-20-2,Ammonium Sulfate,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID871,1330-20-7,1330-20-7,Xylene,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID873,77182-82-2,77182-82-2,Glufosinate-ammonium,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID874,68476-86-8,68476-86-8,Propane/n-Butane,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID875,1317-39-1,1317-39-1,dicopper oxide - <50,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID876,66230-04-4,66230-04-4,Es-fenvalerate,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID877,138261-41-3,138261-41-3,Imidacloprid,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID891,111991-09-4,111991-09-4,Nicosulfuron,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID892,2008-39-1,2008-39-1,"(2,4-Dichlorophenoxy)acetic acid dimethylamine",cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID893,56425-91-3,56425-91-3,Flurprimidol,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID896,148477-71-8,148477-71-8,Spirodiclofen,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID897,203313-25-1,203313-25-1,spirotetramat (ISO),cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID899,118134-30-8,118134-30-8,spiroxamine >98,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID900,93-15-2,93-15-2,"1,2-Dimethoxy-4-(2-propen-1-yl)benzene",cas,True,7.0,7.0,7.0
+EyeIrritation6pack_PID901,131860-33-8,131860-33-8,Azoxystrobin,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID903,1689-99-2,1689-99-2,Bromoxynil octanoate,cas,True,5.0,5.0,5.0
+EyeIrritation6pack_PID905,64742-95-6,64742-95-6,"Solvent Naphtha (petroleum), light aromatic",cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID907,84087-01-4,84087-01-4,Quinclorac,cas,True,7.0,7.0,7.0
+EyeIrritation6pack_PID908,178928-70-6,178928-70-6,Prothioconazole,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID914,240494-70-6,240494-70-6,Metofluthrin,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID915,121-75-5,121-75-5,Malathion,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID916,7704-34-9,7704-34-9,Sulfur,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID917,81406-37-3,81406-37-3,Fluroxypyr-meptyl,cas,True,7.0,7.0,7.0
+EyeIrritation6pack_PID918,7287-19-6,7287-19-6,Prometryn,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID919,165252-70-0,165252-70-0,1-Methyl-2-nitro-3-((tetrahydrofuran-3-yl)methyl)guanidine,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID920,82657-04-3,82657-04-3,Bifenthrin and none established,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID922,121552-61-2,121552-61-2,Cyprodinil,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID923,67-63-0,67-63-0,Isopropyl Alcohol R11,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID924,9016-87-9,9016-87-9,Diphenylmethanediisocyanate,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID926,23564-05-8,23564-05-8,Thiophanate-methyl,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID928,153719-23-4,153719-23-4,Thiamethoxam,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID932,122453-73-0,122453-73-0,Trichloroacetic Acid,cas,False,1.0,1.0,0.0
+EyeIrritation6pack_PID933,7631-86-9,7631-86-9,"Silica, amorphous",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID934,51-03-6,51-03-6,Piperonyl butoxide,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID935,68359-37-5,68359-37-5,Cyfluthrin,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID936,91465-08-6,91465-08-6,">= - < Hydrocarbons, C3-4",cas,False,4.0,4.0,0.0
+EyeIrritation6pack_PID937,35554-44-0,35554-44-0,"Mepiquat Chloride: N,N- 246-147-6 TN4939200",cas,False,2.0,2.0,0.0
+EyeIrritation6pack_PID938,165252-70-0,165252-70-0,1-Methyl-2-nitro-3-((tetrahydrofuran-3-yl)methyl)guanidine,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID940,131341-86-1,131341-86-1,Fludioxonil,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID946,107534-96-3,107534-96-3,"Tebuconazole (-(4-chlorophenyl)-4,4-dimethyl-3-(1,2,4-triazol-1",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID951,107534-96-3,107534-96-3,"1-(4-chlorophenyl)-4,4-dimethyl-3-(1,2,4-triazol-1-ylmethyl)pentan-3-ol",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID952,107534-96-3,107534-96-3,Tebuconazole,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID953,107534-96-3,107534-96-3,Active ingredient (% w/w): Tebuconazole,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID955,Active ingredient (% w/w): Tebuconazole Technical,,Active ingredient (% w/w): Tebuconazole Technical,name,False,0.0,,0.0
+EyeIrritation6pack_PID956,79-14-1,79-14-1,"Acetic acid, hydroxy- Glycolic Acid",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID96,129909-90-6,129909-90-6,Amicarbazone,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID960,68359-37-5,68359-37-5,Cyfluthrin,cas,True,6.0,6.0,6.0
+EyeIrritation6pack_PID961,5915-41-3,5915-41-3,Terbuthylazine,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID962,120068-37-3,120068-37-3,Content (W/W),cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID965,7783-20-2,7783-20-2,Ammonium sulfate 30 - 50,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID966,1071-83-6,1071-83-6,Glyphosate (ISO),cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID967,138261-41-3,138261-41-3,Imidacloprid,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID968,138261-41-3,138261-41-3,Imidacloprid,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID969,16389-88-1,16389-88-1,Limestone Dolomite 80-90,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID970,82-68-8,82-68-8,Fartox,cas,True,5.0,5.0,5.0
+EyeIrritation6pack_PID971,138261-41-3,138261-41-3,Imidacloprid,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID972,138261-41-3,138261-41-3,"Inert Ingredients: ............ contamination, notification, and emergency assistance. It also contains specific in",cas,False,3.0,3.0,1.0
+EyeIrritation6pack_PID974,51707-55-2,51707-55-2,Thidiazuron,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID976,317815-83-1,317815-83-1,"Synonyms : Thiencarbazone-methyl,Thiencarbazone",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID977,210880-92-5,210880-92-5,Clothianidin,cas,True,5.0,5.0,5.0
+EyeIrritation6pack_PID978,133-06-2,133-06-2,Captan,cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID979,153719-23-4,153719-23-4,Thiamethoxam,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID980,153719-23-4,153719-23-4,Thiamethoxam,cas,True,3.0,3.0,3.0
+EyeIrritation6pack_PID982,1071-83-6,1071-83-6,Glyphosate,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID983,137-26-8,137-26-8,Bis(dimethylaminothiocarbonyl) disulfide,cas,True,5.0,5.0,5.0
+EyeIrritation6pack_PID985,129558-76-5,129558-76-5,Tolfenpyrad EC,cas,True,1.0,1.0,1.0
+EyeIrritation6pack_PID986,68359-37-5,68359-37-5,Cyfluthrin Not Established,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID988,76674-21-0,76674-21-0,Flutriafol,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID989,210631-68-8,210631-68-8,"Topramezone [3-(4,5-dihydro-isoxazolyl)-2-methyl-4-(methylsulfonyl",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID990,8018-01-7,8018-01-7,Mancozeb,cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID991,23564-05-8,23564-05-8,Thiophanate methyl,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID992,23564-05-8,23564-05-8,Thiophanate-methyl,cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID993,1071-83-6,1071-83-6,Water,cas,False,3.0,3.0,1.0
+EyeIrritation6pack_PID994,85-00-7,85-00-7,"Diquat dibromide [6,7-dihydrodipyrido(1,2-a:2’,1’-c) pyrazinediium dibromide",cas,True,0.0,0.0,0.0
+EyeIrritation6pack_PID996,76-87-9,76-87-9,Triphenyltin hydroxide,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID997,52645-53-1,52645-53-1,Permethrin,cas,True,4.0,4.0,4.0
+EyeIrritation6pack_PID998,125401-92-5,125401-92-5,Bispyribac-sodium,cas,True,2.0,2.0,2.0
+EyeIrritation6pack_PID999,34590-94-8,34590-94-8,Dipropylene Glycol Monomethyl Ether (DPM) ≥75-≤90,cas,True,0.0,0.0,0.0
+MIX1,104206-82-8,104206-82-8,"Mesotrione 2-[4-(methylsulfonyl)-2-nitrobenzoyl]-1,3-cyclohexanedione",cas,True,0.0,0.0,0.0
+MIX10,131860-33-8,131860-33-8,Azoxystrobin,cas,True,1.0,1.0,1.0
+MIX100,131983-72-7,131983-72-7,Triticonazole,cas,True,3.0,3.0,3.0
+MIX1000,MIX1000,,,fid,False,,,
+MIX1001,106-26-3,106-26-3,Neral,cas,True,1.0,1.0,1.0
+MIX1002,VAT: RO8999719,,VAT: RO8999719,name,False,0.0,,0.0
+MIX1003,MIX1003,,,fid,False,,,
+MIX1004,87-44-5,87-44-5,(-)-Caryophyllene,cas,True,0.0,0.0,0.0
+MIX1005,MIX1005,,,fid,False,,,
+MIX1006,80-56-8,80-56-8,(+-)-alpha-Pinene,cas,True,0.0,0.0,0.0
+MIX1007,8016-37-3,8016-37-3,Myrrh essential oil,cas,True,0.0,0.0,0.0
+MIX1008,3779-61-1,3779-61-1,Linalool,cas,False,8.0,8.0,1.0
+MIX1009,MIX1009,,,fid,False,,,
+MIX101,2893-78-9,2893-78-9,Troclosene sodium,cas,True,1.0,1.0,1.0
+MIX1010,(+)-Limonene,,(+)-Limonene,name,False,0.0,,0.0
+MIX1011,MIX1011,,,fid,False,,,
+MIX1012,68606-83-7,68606-83-7,Cananga odorata,cas,True,0.0,0.0,0.0
+MIX1013,International Journal of Pharma Growth Research Review www.pharmagrowthjournal.com 36,,International Journal of Pharma Growth Research Review www.pharmagrowthjournal.com 36,name,False,0.0,,0.0
+MIX1014,MIX1014,,,fid,False,,,
+MIX1015,MIX1015,,,fid,False,,,
+MIX1016,MIX1016,,,fid,False,,,
+MIX1017,MIX1017,,,fid,False,,,
+MIX1018,MIX1018,,,fid,False,,,
+MIX1019,MIX1019,,,fid,False,,,
+MIX102,1897-45-6,1897-45-6,Chlorothalonil,cas,True,1.0,1.0,1.0
+MIX1020,"1,8-Cineole",,"1,8-Cineole",name,False,0.0,,0.0
+MIX1021,MIX1021,,,fid,False,,,
+MIX1022,MIX1022,,,fid,False,,,
+MIX1023,MIX1023,,,fid,False,,,
+MIX1024,MIX1024,,,fid,False,,,
+MIX1025,64-17-5,64-17-5,Ethanol,cas,True,0.0,0.0,0.0
+MIX1026,Citronellol,,Citronellol,name,False,0.0,,0.0
+MIX1027,MIX1027,,,fid,False,,,
+MIX1028,MIX1028,,,fid,False,,,
+MIX1029,150-84-5,150-84-5,Citronellyl Acetate,cas,True,0.0,0.0,0.0
+MIX103,2921-88-2,2921-88-2,Chlorpyrifos,cas,True,1.0,1.0,1.0
+MIX1030,78-70-6,78-70-6,Linalool,cas,True,0.0,0.0,0.0
+MIX1031,MIX1031,,,fid,False,,,
+MIX1032,106-23-0,106-23-0,Citronellal,cas,True,0.0,0.0,0.0
+MIX1033,MIX1033,,,fid,False,,,
+MIX1034,78-70-6,78-70-6,Linalool,cas,True,0.0,0.0,0.0
+MIX1035,MIX1035,,,fid,False,,,
+MIX1036,MIX1036,,,fid,False,,,
+MIX1037,8000-34-8,8000-34-8,Clove stem oil,cas,True,0.0,0.0,0.0
+MIX1038,MIX1038,,,fid,False,,,
+MIX1039,MIX1039,,,fid,False,,,
+MIX104,114311-32-9,114311-32-9,Proprietary ingredients,cas,False,0.0,0.0,1.0
+MIX1040,MIX1040,,,fid,False,,,
+MIX1041,470-82-6,470-82-6,"1,8-Cineole",cas,True,0.0,0.0,0.0
+MIX1042,3856-25-5,3856-25-5,Copaene,cas,True,0.0,0.0,0.0
+MIX1043,8000-26-8,8000-26-8,Pine needle oil,cas,True,0.0,0.0,0.0
+MIX1044,78-70-6,78-70-6,Linalool,cas,True,0.0,0.0,0.0
+MIX1045,80-56-8,80-56-8,(+-)-alpha-Pinene,cas,True,0.0,0.0,0.0
+MIX1046,MIX1046,,,fid,False,,,
+MIX1047,Thujopsene,,Thujopsene,name,False,0.0,,0.0
+MIX1048,Diethylene Glycol Monobutyl Ether,,Diethylene Glycol Monobutyl Ether,name,False,0.0,,0.0
+MIX1049,MIX1049,,,fid,False,,,
+MIX105,131341-86-1,131341-86-1,Fludioxonil,cas,True,2.0,2.0,2.0
+MIX1050,78-70-6,78-70-6,Linalool,cas,True,0.0,0.0,0.0
+MIX1051,134-20-3,134-20-3,Methyl Anthranilate,cas,True,0.0,0.0,0.0
+MIX1052,80-56-8,80-56-8,"Limonene, (-)-",cas,False,1.0,1.0,0.0
+MIX1053,14901-07-6,14901-07-6,"4-(2,6,6-Trimethyl-1-cyclohexen-1-yl)-3-buten-2-one",cas,True,0.0,0.0,0.0
+MIX1054,5989-54-8,5989-54-8,"Limonene, (-)-",cas,True,0.0,0.0,0.0
+MIX1055,107-75-5,107-75-5,Hydroxycitronellal,cas,True,0.0,0.0,0.0
+MIX1056,1323-00-8,1323-00-8,Santalyl acetate,cas,True,0.0,0.0,0.0
+MIX1057,MIX1057,,,fid,False,,,
+MIX1058,107-75-5,107-75-5,Hydroxycitronellal,cas,True,0.0,0.0,0.0
+MIX1059,MIX1059,,,fid,False,,,
+MIX106,56-81-5,56-81-5,glycerol,cas,True,3.0,3.0,3.0
+MIX1060,5989-27-5,5989-27-5,(+)-Limonene,cas,True,0.0,0.0,0.0
+MIX1061,MIX1061,,,fid,False,,,
+MIX1062,MIX1062,,,fid,False,,,
+MIX1063,"1,8-Cineole",,"1,8-Cineole",name,False,0.0,,0.0
+MIX1064,25013-16-5,25013-16-5,Butylated hydroxyanisole,cas,True,0.0,0.0,0.0
+MIX1065,7732-18-5,7732-18-5,Water,cas,True,0.0,0.0,0.0
+MIX1066,MIX1066,,,fid,False,,,
+MIX1067,127-19-5,127-19-5,Dimethylacetamide,cas,True,0.0,0.0,0.0
+MIX1068,7664-41-7,7664-41-7,Ammonia,cas,True,2.0,2.0,2.0
+MIX1069,MIX1069,,,fid,False,,,
+MIX107,122008-85-9,122008-85-9,Cyhalofop-butyl,cas,True,0.0,0.0,0.0
+MIX1070,MIX1070,,,fid,False,,,
+MIX1071,64-17-5,64-17-5,Ethanol,cas,True,0.0,0.0,0.0
+MIX1072,Anethole,,Anethole,name,False,5.0,,5.0
+MIX1073,MIX1073,,,fid,False,,,
+MIX1074,MIX1074,,,fid,False,,,
+MIX1075,MIX1075,,,fid,False,,,
+MIX1076,8007-00-9,8007-00-9,Peru Balsam,cas,True,0.0,0.0,0.0
+MIX1077,MIX1077,,,fid,False,,,
+MIX1078,MIX1078,,,fid,False,,,
+MIX108,21087-64-9,21087-64-9,Metribuzin,cas,True,0.0,0.0,0.0
+MIX109,103361-09-7,103361-09-7,Flumioxazin,cas,True,3.0,3.0,3.0
+MIX11,2682-20-4,2682-20-4,"1,2-benzisothiazolin-3-one",cas,False,2.0,2.0,0.0
+MIX110,105512-06-9,105512-06-9,Clodinafop-propargyl,cas,True,0.0,0.0,0.0
+MIX111,71751-41-2,71751-41-2,Abamectin 2 NE NE,cas,True,0.0,0.0,0.0
+MIX112,Clothianidin,,Clothianidin,name,False,0.0,,0.0
+MIX113,111991-09-4,111991-09-4,Nicosulfuron,cas,True,2.0,2.0,2.0
+MIX114,Clothianidin,,Clothianidin,name,False,0.0,,0.0
+MIX115,210880-92-5,210880-92-5,Clothianidin 30 - 60 Active ingredient,cas,True,0.0,0.0,0.0
+MIX116,1317-39-1,1317-39-1,Cuprous oxide,cas,True,1.0,1.0,1.0
+MIX117,56-72-4,56-72-4,Coumaphos,cas,True,1.0,1.0,1.0
+MIX118,153719-23-4,153719-23-4,"3-(2-chloro-1,3-thiazol-5-ylmethyl)-5- methyl-1,3,5-oxadiazinan-4- ylidene(nitro)amine",cas,True,1.0,1.0,1.0
+MIX119,56-72-4,56-72-4,phosphorothioate,cas,True,0.0,0.0,0.0
+MIX12,14433-76-2,14433-76-2,"Decanamide, N,N-dimethyl-",cas,True,0.0,0.0,0.0
+MIX120,68477-31-6,68477-31-6,Catalytic reformer petroleum,cas,True,1.0,1.0,1.0
+MIX121,56-72-4,56-72-4,>= Tradesecret,cas,False,2.0,2.0,1.0
+MIX122,7173-51-5,7173-51-5,Inert Ingredients,cas,False,1.0,1.0,2.0
+MIX123,Coumaphos,,Coumaphos,name,False,0.0,,0.0
+MIX124,120068-37-3,120068-37-3,Fipronil,cas,True,1.0,1.0,1.0
+MIX125,188425-85-6,188425-85-6,Boscalid,cas,True,0.0,0.0,0.0
+MIX126,91465-08-6,91465-08-6,3.1 Substance/Mixture,cas,True,0.0,0.0,0.0
+MIX127,1897-45-6,1897-45-6,Chlorothalonil not listed,cas,True,0.0,0.0,0.0
+MIX128,57966-95-7,57966-95-7,Cymoxanil,cas,True,0.0,0.0,0.0
+MIX129,68157-60-8,68157-60-8,Forchlorfenuron,cas,True,0.0,0.0,0.0
+MIX13,71751-41-2,71751-41-2,Abamectin,cas,True,0.0,0.0,0.0
+MIX130,120116-88-3,120116-88-3,Cyazofamid,cas,True,0.0,0.0,0.0
+MIX131,119446-68-3,119446-68-3,Difenoconazole,cas,True,3.0,3.0,3.0
+MIX132,68359-37-5,68359-37-5,Cyfluthrin,cas,True,0.0,0.0,0.0
+MIX133,180409-60-3,180409-60-3,Cyflufenamid,cas,True,1.0,1.0,1.0
+MIX135,57966-95-7,57966-95-7,Cymoxanil,cas,True,0.0,0.0,0.0
+MIX136,86753-92-6,86753-92-6,Cypermethrin,cas,True,0.0,0.0,0.0
+MIX137,94361-06-5,94361-06-5,Cyproconazole,cas,True,0.0,0.0,0.0
+MIX138,153719-23-4,153719-23-4,Thiamethoxam,cas,True,3.0,3.0,3.0
+MIX139,62-73-7,62-73-7,Dichlorvos,cas,True,0.0,0.0,0.0
+MIX14,153719-23-4,153719-23-4,Thiamethoxam,cas,True,4.0,4.0,4.0
+MIX140,108-62-3,108-62-3,"Other ingredients (inert, undisclosed)",cas,False,1.0,1.0,0.0
+MIX141,64742-71-8,64742-71-8,"Paraffin oils (petroleum), catalytic dewaxed >= 70 -<",cas,True,0.0,0.0,0.0
+MIX142,872-05-9,872-05-9,Other ingredients (undisclosed),cas,True,0.0,0.0,0.0
+MIX143,153719-23-4,153719-23-4,Other ingredients (undisclosed),cas,False,3.0,3.0,0.0
+MIX144,64-19-7,64-19-7,Inert Ingredients (undisclosed),cas,True,0.0,0.0,0.0
+MIX145,1897-45-6,1897-45-6,Inert ingredients (undisclosed),cas,False,3.0,3.0,0.0
+MIX146,26225-79-6,26225-79-6,Ethofumesate,cas,True,1.0,1.0,1.0
+MIX147,15299-99-7,15299-99-7,Napropamide,cas,True,0.0,0.0,0.0
+MIX148,15299-99-7,15299-99-7,Napropamide,cas,True,1.0,1.0,1.0
+MIX149,15299-99-7,15299-99-7,Napropamide,cas,True,0.0,0.0,0.0
+MIX15,98-86-2,98-86-2,Acetophenone,cas,True,1.0,1.0,1.0
+MIX150,15165-67-0,15165-67-0,"Dichlorprop-P (2,4-DP-P)",cas,True,1.0,1.0,1.0
+MIX151,35367-38-5,35367-38-5,Diflubenzuron,cas,True,0.0,0.0,0.0
+MIX152,60-51-5,60-51-5,Dimethoate,cas,True,0.0,0.0,0.0
+MIX153,183675-82-3,183675-82-3,Penthiopyrad,cas,True,1.0,1.0,1.0
+MIX154,35367-38-5,35367-38-5,Diflubenzuron,cas,True,0.0,0.0,0.0
+MIX155,858956-35-1,858956-35-1,Potassium salt of aminocyclopyrachlor,cas,True,0.0,0.0,0.0
+MIX156,163520-33-0,163520-33-0,"4,5-dihydro-5,5-diphenyl-1,2-oxazole-3-carboxylic acid, ethyl ester (Isoxadifen-ethyl)",cas,True,1.0,1.0,1.0
+MIX157,165252-70-0,165252-70-0,Dinotefuran,cas,True,0.0,0.0,0.0
+MIX158,7704-34-9,7704-34-9,Sulfur (elemental),cas,True,0.0,0.0,0.0
+MIX159,165252-70-0,165252-70-0,Dinotefuran,cas,True,0.0,0.0,0.0
+MIX16,71751-41-2,71751-41-2,Abamectin (Avermectin B1),cas,True,0.0,0.0,0.0
+MIX160,7704-34-9,7704-34-9,Elemental Sulfur,cas,True,0.0,0.0,0.0
+MIX161,165252-70-0,165252-70-0,Dinotefuran,cas,True,0.0,0.0,0.0
+MIX162,51707-55-2,51707-55-2,Thidiazuron,cas,True,0.0,0.0,0.0
+MIX163,117428-22-5,117428-22-5,Other Ingredients,cas,False,0.0,0.0,2.0
+MIX164,131807-57-3,131807-57-3,Famoxadone,cas,True,0.0,0.0,0.0
+MIX165,16752-77-5,16752-77-5,Methomyl,cas,True,0.0,0.0,0.0
+MIX166,500008-45-7,500008-45-7,Other Ingredients,cas,False,0.0,0.0,1.0
+MIX167,108-62-3,108-62-3,Metaldehyde,cas,True,0.0,0.0,0.0
+MIX168,153719-23-4,153719-23-4,Other Ingredients,cas,False,0.0,0.0,4.0
+MIX169,111-77-3,111-77-3,2-(2-Methoxyethoxy)ethanol,cas,True,1.0,1.0,1.0
+MIX17,71751-41-2,71751-41-2,Abamectin techn. min. 97% (Avermectin B1a/B1b combination),cas,True,0.0,0.0,0.0
+MIX170,65733-16-6,65733-16-6,(s)-Methoprene Technical,cas,True,1.0,1.0,1.0
+MIX171,52-68-6,52-68-6,Trichlorfon (Dylox),cas,True,0.0,0.0,0.0
+MIX172,330-54-1,330-54-1,"Diuron (3-(3,4-dichlorophenyl)-1,1-dimethylurea)",cas,True,0.0,0.0,0.0
+MIX173,88671-89-0,88671-89-0,Myclobutanil,cas,True,5.0,5.0,5.0
+MIX174,330-54-1,330-54-1,"Diuron (3-(3,4-dichlorophenyl)-1,1-dimethylurea)",cas,True,0.0,0.0,0.0
+MIX175,1897-45-6,1897-45-6,Chlorothalonil,cas,True,2.0,2.0,2.0
+MIX176,112281-77-3,112281-77-3,Tetraconazole,cas,True,0.0,0.0,0.0
+MIX177,82657-04-3,82657-04-3,Bifenthrin,cas,True,3.0,3.0,3.0
+MIX178,138261-41-3,138261-41-3,Imidacloprid,cas,True,1.0,1.0,1.0
+MIX179,52918-63-5,52918-63-5,Deltamethrin,cas,True,0.0,0.0,0.0
+MIX18,95737-68-1,95737-68-1,Pyriproxyfen,cas,True,2.0,2.0,2.0
+MIX180,122931-48-0,122931-48-0,Rimsulfuron,cas,True,0.0,0.0,0.0
+MIX181,858954-83-3,858954-83-3,Aminocyclopyrachlor-methyl,cas,True,1.0,1.0,1.0
+MIX182,858954-83-3,858954-83-3,Aminocyclopyrachlor methyl ester,cas,True,1.0,1.0,1.0
+MIX183,120068-37-7,120068-37-7,Glycol ether,cas,False,0.0,0.0,2.0
+MIX184,1897-45-6,1897-45-6,Chlorothalonil,cas,True,0.0,0.0,0.0
+MIX185,1928-43-4,1928-43-4,"2,4-D-2-ethylhexyl",cas,True,4.0,4.0,4.0
+MIX186,153719-23-4,153719-23-4,Thiamethoxam,cas,True,0.0,0.0,0.0
+MIX187,138261-41-3,138261-41-3,Imidacloprid,cas,True,4.0,4.0,4.0
+MIX188,148477-71-8,148477-71-8,Spirodiclofen,cas,True,0.0,0.0,0.0
+MIX189,2008-39-1,2008-39-1,"2,4-D-dimethylammonium",cas,True,1.0,1.0,1.0
+MIX19,107534-96-3,107534-96-3,Tebuconazole,cas,True,0.0,0.0,0.0
+MIX190,1897-45-6,1897-45-6,Chlorothalonil,cas,True,2.0,2.0,2.0
+MIX191,36734-19-7,36734-19-7,Iprodione,cas,True,2.0,2.0,2.0
+MIX192,129630-19-9,129630-19-9,Pyraflufen-ethyl,cas,True,1.0,1.0,1.0
+MIX193,16672-87-0,16672-87-0,Ethephon (Chlorethephon),cas,True,0.0,0.0,0.0
+MIX194,7732-18-5,7732-18-5,Other Ingredients (proprietary),cas,True,2.0,2.0,2.0
+MIX195,153233-91-1,153233-91-1,Etoxazole,cas,True,0.0,0.0,0.0
+MIX196,52645-53-1,52645-53-1,Permethrin,cas,True,5.0,5.0,5.0
+MIX197,2008-39-1,2008-39-1,Inert ingredients,cas,False,2.0,2.0,0.0
+MIX198,64742-94-5,64742-94-5,"Solvent Naphtha (petroleum), heavy aromatic",cas,True,2.0,2.0,2.0
+MIX199,38641-94-0,38641-94-0,Glyphosate isopropylamine,cas,True,3.0,3.0,3.0
+MIX2,34256-82-1,34256-82-1,Acetochlor,cas,True,0.0,0.0,0.0
+MIX20,335104-84-2,335104-84-2,Tembotrione,cas,True,0.0,0.0,0.0
+MIX200,82657-04-3,82657-04-3,Bifenthrin,cas,True,3.0,3.0,3.0
+MIX201,104206-82-8,104206-82-8,Mesotrione,cas,True,0.0,0.0,0.0
+MIX202,82657-04-3,82657-04-3,Bifenthrin,cas,True,0.0,0.0,0.0
+MIX203,126833-17-8,126833-17-8,Fenhexamid,cas,True,0.0,0.0,0.0
+MIX204,67564-91-4,67564-91-4,Fenpropimorph,cas,True,0.0,0.0,0.0
+MIX205,7778-77-0,7778-77-0,Monopotassium Phosphate,cas,True,0.0,0.0,0.0
+MIX206,52645-53-1,52645-53-1,Permethrin,cas,True,4.0,4.0,4.0
+MIX207,60207-90-1,60207-90-1,Propiconazole,cas,True,0.0,0.0,0.0
+MIX208,155569-91-8,155569-91-8,Emamectin Benzoate,cas,True,0.0,0.0,0.0
+MIX209,158062-67-0,158062-67-0,Flonicamid,cas,True,0.0,0.0,0.0
+MIX21,111991-09-4,111991-09-4,Nicosulfuron,cas,True,0.0,0.0,0.0
+MIX210,107534-96-3,107534-96-3,Tebuconazole,cas,True,1.0,1.0,1.0
+MIX211,658066-35-4,658066-35-4,Fluopyram,cas,True,0.0,0.0,0.0
+MIX212,361377-29-9,361377-29-9,Fluoxastrobin,cas,True,1.0,1.0,1.0
+MIX213,66332-96-5,66332-96-5,Flutolanil,cas,True,0.0,0.0,0.0
+MIX214,104040-78-0,104040-78-0,Flazasulfuron,cas,True,0.0,0.0,0.0
+MIX215,76674-21-0,76674-21-0,Flutriafol,cas,True,1.0,1.0,1.0
+MIX216,107534-96-3,107534-96-3,Tebuconazole,cas,True,0.0,0.0,0.0
+MIX217,107534-96-3,107534-96-3,Tebuconazole,cas,True,0.0,0.0,0.0
+MIX218,79622-59-6,79622-59-6,Fluazinam,cas,True,0.0,0.0,0.0
+MIX219,107534-96-3,107534-96-3,Tebuconazole,cas,True,0.0,0.0,0.0
+MIX22,153719-23-4,153719-23-4,"Nicotine, salts of",cas,True,0.0,0.0,0.0
+MIX220,133-07-3,133-07-3,Folpet,cas,True,0.0,0.0,0.0
+MIX221,183675-82-3,183675-82-3,Other Ingredients (unspecified/inert),cas,False,0.0,0.0,1.0
+MIX222,141112-29-0,141112-29-0,Isoxaflutole,cas,True,2.0,2.0,2.0
+MIX223,122453-73-0,122453-73-0,4-Bromo-2-(4-chlorophenyl)-1-(ethoxymethyl)-5-(trifluoromethyl)-1H-pyrrole-3-carbonitrile,cas,True,5.0,5.0,5.0
+MIX224,68085-85-8,68085-85-8,alpha-Cyhalothrin,cas,True,2.0,2.0,2.0
+MIX225,39148-24-8,39148-24-8,Fosetyl-Al,cas,True,0.0,0.0,0.0
+MIX226,142459-58-3,142459-58-3,"Flufenacet (ISO); N-(4-fluorophenyl)-N-isopropyl-2-(5-trifluoromethyl[1,3,4]thiadiazol-2-yloxy)acetamide",cas,True,0.0,0.0,0.0
+MIX227,36734-19-7,36734-19-7,Iprodione,cas,True,3.0,3.0,3.0
+MIX228,153719-23-4,153719-23-4,Thiamethoxam,cas,True,5.0,5.0,5.0
+MIX229,40487-42-1,40487-42-1,Pendimethalin,cas,True,0.0,0.0,0.0
+MIX23,30560-19-1,30560-19-1,Acephate,cas,True,2.0,2.0,2.0
+MIX230,133-07-3,133-07-3,Folpet (N-(Trichloromethylthio)phthalimide),cas,True,1.0,1.0,1.0
+MIX231,121-75-5,121-75-5,Malathion (ISO) [containing 0.03% isomalathion],cas,True,0.0,0.0,0.0
+MIX232,188489-07-8,188489-07-8,Flufenpyr-ethyl,cas,True,0.0,0.0,0.0
+MIX233,64-19-7,64-19-7,Non-hazardous ingredients Proprietary,cas,True,0.0,0.0,0.0
+MIX234,188489-07-8,188489-07-8,Flufenpyr-ethyl,cas,True,1.0,1.0,1.0
+MIX235,64742-94-5,64742-94-5,"Solvent naphtha, petroleum, heavy aromatic",cas,True,0.0,0.0,0.0
+MIX236,69770-45-2,69770-45-2,Flumethrin,cas,True,1.0,1.0,1.0
+MIX237,91465-08-6,91465-08-6,lambda-Cyhalothrin,cas,True,2.0,2.0,2.0
+MIX238,69770-45-2,69770-45-2,Flumethrin,cas,True,1.0,1.0,1.0
+MIX239,69770-45-2,69770-45-2,Flumethrin,cas,True,1.0,1.0,1.0
+MIX24,30560-19-1,30560-19-1,Acephate,cas,True,0.0,0.0,0.0
+MIX240,239110-15-7,239110-15-7,Fluopicolide,cas,True,1.0,1.0,1.0
+MIX241,658066-35-4,658066-35-4,Fluopyram,cas,True,0.0,0.0,0.0
+MIX242,658066-35-4,658066-35-4,Fluopyram,cas,True,0.0,0.0,0.0
+MIX243,88-04-0,88-04-0,Chloroxylenol,cas,True,6.0,6.0,6.0
+MIX244,120068-37-3,120068-37-3,Fipronil,cas,True,0.0,0.0,0.0
+MIX245,52645-53-1,52645-53-1,Permethrin,cas,True,0.0,0.0,0.0
+MIX246,52645-53-1,52645-53-1,Permethrin,cas,True,0.0,0.0,0.0
+MIX247,121451-02-3,121451-02-3,Noviflumuron,cas,True,1.0,1.0,1.0
+MIX248,1071-83-6,1071-83-6,Glyphosate,cas,True,0.0,0.0,0.0
+MIX249,131929-60-7,131929-60-7,Spinosad (Spinosyn A & Spinosyn D),cas,True,0.0,0.0,0.0
+MIX25,1071-83-6,1071-83-6,Inert ingredients,cas,True,1.0,1.0,1.0
+MIX250,1071-83-6,1071-83-6,Glyphosate,cas,True,0.0,0.0,0.0
+MIX251,131929-60-7,131929-60-7,Spinosad (Spinosyn A & Spinosyn D),cas,True,0.0,0.0,0.0
+MIX252,1071-83-6,1071-83-6,Glyphosate,cas,True,0.0,0.0,0.0
+MIX253,9003-13-8,9003-13-8,Butoxypolypropylene glycol,cas,True,3.0,3.0,3.0
+MIX254,935545-74-7,935545-74-7,Spinetoram J & L,cas,True,0.0,0.0,0.0
+MIX255,935545-74-7,935545-74-7,Spinetoram J & L,cas,True,0.0,0.0,0.0
+MIX256,81406-37-3,81406-37-3,Fluroxypyr-meptyl (ISO),cas,True,0.0,0.0,0.0
+MIX257,131341-86-1,131341-86-1,Fludioxonil,cas,True,1.0,1.0,1.0
+MIX258,34256-82-1,34256-82-1,Acetochlor,cas,True,0.0,0.0,0.0
+MIX259,25036-25-3,25036-25-3,Epoxy resin (mw 700-1000),cas,True,0.0,0.0,0.0
+MIX26,57960-19-7,57960-19-7,Acequinocyl-d25,cas,True,1.0,1.0,1.0
+MIX260,422556-08-9,422556-08-9,Pyroxsulam,cas,True,1.0,1.0,1.0
+MIX261,64742-94-5,64742-94-5,Aromatic Hydrocarbons,cas,True,1.0,1.0,1.0
+MIX262,94-75-7,94-75-7,"2,4-D",cas,True,2.0,2.0,2.0
+MIX263,55335-06-3,55335-06-3,Triclopyr,cas,True,3.0,3.0,3.0
+MIX264,81406-37-3,81406-37-3,Fluroxypyr-meptyl,cas,True,5.0,5.0,5.0
+MIX265,82657-04-3,82657-04-3,Bifenthrin,cas,True,0.0,0.0,0.0
+MIX266,131341-86-1,131341-86-1,Fludioxonil,cas,True,3.0,3.0,3.0
+MIX267,138261-41-3,138261-41-3,Imidacloprid,cas,True,0.0,0.0,0.0
+MIX268,34256-82-1,34256-82-1,Acetochlor,cas,True,3.0,3.0,3.0
+MIX269,122548-33-8,122548-33-8,Imazosulfuron,cas,True,0.0,0.0,0.0
+MIX27,1582-09-8,1582-09-8,Trifluralin,cas,True,0.0,0.0,0.0
+MIX270,5234-68-4,5234-68-4,carboxin,cas,True,0.0,0.0,0.0
+MIX271,161050-58-4,161050-58-4,Methoxyfenozide,cas,True,6.0,6.0,6.0
+MIX272,107534-96-3,107534-96-3,Other Ingredients,cas,False,4.0,4.0,1.0
+MIX273,161050-58-4,161050-58-4,Methoxyfenozide,cas,True,0.0,0.0,0.0
+MIX274,732-11-6,732-11-6,Phosmet,cas,True,0.0,0.0,0.0
+MIX275,52645-53-1,52645-53-1,Permethrin,cas,True,4.0,4.0,4.0
+MIX276,219714-96-2,219714-96-2,Penoxsulam,cas,True,1.0,1.0,1.0
+MIX277,138261-41-3,138261-41-3,Imidacloprid,cas,True,2.0,2.0,2.0
+MIX278,26172-55-4,26172-55-4,5-Chloro-2-methyl-3(2H)-isothiazolone,cas,True,1.0,1.0,1.0
+MIX279,865318-97-4,865318-97-4,Ametoctradin,cas,True,3.0,3.0,3.0
+MIX28,131983-72-7,131983-72-7,Triticonazole,cas,True,1.0,1.0,1.0
+MIX280,91465-08-6,91465-08-6,Lambda-Cyhalothrin,cas,True,1.0,1.0,1.0
+MIX281,161050-58-4,161050-58-4,Methoxyfenozide,cas,True,0.0,0.0,0.0
+MIX282,138261-41-3,138261-41-3,Imidacloprid,cas,True,0.0,0.0,0.0
+MIX283,125225-28-7,125225-28-7,Ipconazole,cas,True,0.0,0.0,0.0
+MIX284,107-21-1,107-21-1,"Ethane-1,2-diol (ethylene glycol)",cas,True,0.0,0.0,0.0
+MIX285,2893-78-9,2893-78-9,Sodium dichloroisocyanurate,cas,True,5.0,5.0,5.0
+MIX286,372137-35-4,372137-35-4,Other ingredients (inert),cas,False,0.0,0.0,1.0
+MIX287,91465-08-6,91465-08-6,Lambda-Cyhalothrin,cas,True,1.0,1.0,1.0
+MIX288,30560-19-1,30560-19-1,Acephate,cas,True,5.0,5.0,5.0
+MIX289,66215-27-8,66215-27-8,Cyromazine,cas,True,1.0,1.0,1.0
+MIX29,116-06-3,116-06-3,Aldicarb,cas,True,1.0,1.0,1.0
+MIX290,59669-26-0,59669-26-0,Thiodicarb,cas,True,0.0,0.0,0.0
+MIX291,2008-39-1,2008-39-1,"Dimethylamine Salt of 2,4-Dichloro-phenoxyacetic acid",cas,True,0.0,0.0,0.0
+MIX292,1918-00-9,1918-00-9,Dicamba,cas,True,1.0,1.0,1.0
+MIX293,36734-19-7,36734-19-7,Iprodione,cas,True,0.0,0.0,0.0
+MIX294,111991-09-4,111991-09-4,Nicosulfuron,cas,True,1.0,1.0,1.0
+MIX295,52645-53-1,52645-53-1,Permethrin,cas,True,3.0,3.0,3.0
+MIX296,1071-83-6,1071-83-6,Glyphosate,cas,True,0.0,0.0,0.0
+MIX297,68585-34-2,68585-34-2,Sodium alkyl ether sulphate,cas,True,1.0,1.0,1.0
+MIX298,1912-24-9,1912-24-9,Atrazine,cas,True,1.0,1.0,1.0
+MIX299,135410-20-7,135410-20-7,Acetamiprid,cas,True,2.0,2.0,2.0
+MIX3,110488-70-5,110488-70-5,Dimethomorph (techn.),cas,True,0.0,0.0,0.0
+MIX30,138261-41-3,138261-41-3,Imidacloprid,cas,True,0.0,0.0,0.0
+MIX300,32426-11-2,32426-11-2,Other ingredients,cas,False,3.0,3.0,1.0
+MIX301,16484-77-8,16484-77-8,MCPP-P (Mecoprop-P),cas,True,1.0,1.0,1.0
+MIX302,74-98-6,74-98-6,Propane,cas,True,2.0,2.0,2.0
+MIX303,16484-77-8,16484-77-8,Mecoprop-P,cas,True,1.0,1.0,1.0
+MIX304,131341-86-1,131341-86-1,Fludioxonil,cas,True,3.0,3.0,3.0
+MIX305,67-63-0,67-63-0,2-Propanol,cas,True,0.0,0.0,0.0
+MIX306,7732-18-5,7732-18-5,No,cas,True,0.0,0.0,0.0
+MIX307,1897-45-6,1897-45-6,3.1 Mixtures,cas,True,0.0,0.0,0.0
+MIX308,131860-33-8,131860-33-8,Azoxystrobin,cas,True,2.0,2.0,2.0
+MIX309,2634-33-5,2634-33-5,Inert ingredients (undisclosed),cas,False,1.0,1.0,0.0
+MIX31,317815-83-1,317815-83-1,Thiencarbazone-methyl,cas,True,0.0,0.0,0.0
+MIX310,208465-21-8,208465-21-8,Mesosulfuron-methyl,cas,True,1.0,1.0,1.0
+MIX311,87392-12-9,87392-12-9,S-Metolachlor,cas,True,2.0,2.0,2.0
+MIX312,104206-82-8,104206-82-8,Mesotrione,cas,True,0.0,0.0,0.0
+MIX313,104206-82-8,104206-82-8,Mesotrione,cas,True,1.0,1.0,1.0
+MIX314,108-62-3,108-62-3,Metaldehyde,cas,True,0.0,0.0,0.0
+MIX315,220899-03-6,220899-03-6,Metrafenone,cas,True,0.0,0.0,0.0
+MIX316,142459-58-3,142459-58-3,Flufenacet,cas,True,0.0,0.0,0.0
+MIX317,138261-41-3,138261-41-3,"Other ingredients (inert, unspecified)",cas,False,4.0,4.0,0.0
+MIX318,35554-44-0,35554-44-0,Imazalil,cas,True,21.0,21.0,21.0
+MIX319,74223-64-6,74223-64-6,Metsulfuron methyl,cas,True,0.0,0.0,0.0
+MIX32,71751-41-2,71751-41-2,Abamectin,cas,True,0.0,0.0,0.0
+MIX320,82657-04-3,82657-04-3,Bifenthrin,cas,True,6.0,6.0,6.0
+MIX321,51-03-6,51-03-6,Other ingredients (unspecified),cas,True,1.0,1.0,1.0
+MIX322,121-75-5,121-75-5,Malathion,cas,True,0.0,0.0,0.0
+MIX323,8018-01-7,8018-01-7,Mancozeb (Manganese ethylenebis(dithiocarbamate) (polymeric) complex with zinc salt),cas,True,0.0,0.0,0.0
+MIX324,148-79-8,148-79-8,Thiabendazole,cas,True,3.0,3.0,3.0
+MIX325,82657-04-3,82657-04-3,Bifenthrin,cas,True,4.0,4.0,4.0
+MIX326,64742-47-8,64742-47-8,Petroleum Distillates,cas,True,5.0,5.0,5.0
+MIX327,120068-37-3,120068-37-3,Fipronil,cas,True,3.0,3.0,3.0
+MIX328,68439-49-6,68439-49-6,"Alcohols, C16-18, ethoxylated",cas,True,0.0,0.0,0.0
+MIX329,34256-82-1,34256-82-1,Acetochlor,cas,True,3.0,3.0,3.0
+MIX33,153719-23-4,153719-23-4,Other ingredients,cas,False,8.0,8.0,4.0
+MIX330,95737-68-1,95737-68-1,NYLAR (Pyriproxyfen),cas,True,1.0,1.0,1.0
+MIX331,34256-82-1,34256-82-1,Acetochlor,cas,True,2.0,2.0,2.0
+MIX332,51-03-6,51-03-6,Piperonyl Butoxide,cas,True,2.0,2.0,2.0
+MIX333,34256-82-1,34256-82-1,Acetochlor,cas,True,1.0,1.0,1.0
+MIX334,34256-82-1,34256-82-1,Acetochlor,cas,True,6.0,6.0,6.0
+MIX335,203313-25-1,203313-25-1,Spirotetramat,cas,True,2.0,2.0,2.0
+MIX336,75-28-5,75-28-5,isobutane,cas,True,0.0,0.0,0.0
+MIX337,35367-38-5,35367-38-5,Diflubenzuron,cas,True,0.0,0.0,0.0
+MIX338,60207-90-1,60207-90-1,Propiconazole,cas,True,1.0,1.0,1.0
+MIX339,8018-01-7,8018-01-7,Mancozeb,cas,True,2.0,2.0,2.0
+MIX34,210880-92-5,210880-92-5,Clothianidin,cas,True,1.0,1.0,1.0
+MIX340,111991-09-4,111991-09-4,Nicosulfuron,cas,True,1.0,1.0,1.0
+MIX341,120068-37-3,120068-37-3,Fipronil,cas,True,0.0,0.0,0.0
+MIX342,98886-44-3,98886-44-3,Fosthiazate (ISO),cas,True,3.0,3.0,3.0
+MIX343,2893-78-9,2893-78-9,Troclosene sodium,cas,True,3.0,3.0,3.0
+MIX344,66215-27-8,66215-27-8,Cyromazine,cas,True,0.0,0.0,0.0
+MIX345,123-33-1,123-33-1,Maleic hydrazide,cas,True,2.0,2.0,2.0
+MIX346,3567-25-7,3567-25-7,"Sodium 5-chloro-2-(4-chloro-2-(3-(3,4-dichlorophenyl)ureido)phenoxy)benzenesulfonate",cas,True,1.0,1.0,1.0
+MIX347,129909-90-6,129909-90-6,Amicarbazone,cas,True,1.0,1.0,1.0
+MIX348,111991-09-4,111991-09-4,Nicosulfuron,cas,True,0.0,0.0,0.0
+MIX349,2032-65-7,2032-65-7,Methiocarb,cas,True,1.0,1.0,1.0
+MIX35,82657-04-3,82657-04-3,Bifenthrin,cas,True,0.0,0.0,0.0
+MIX350,88-04-0,88-04-0,"4-Chloro-3,5-dimethylphenol (4-Chloro-3,5-xylenol)",cas,True,0.0,0.0,0.0
+MIX351,141776-32-1,141776-32-1,Sulfosulfuron,cas,True,2.0,2.0,2.0
+MIX352,210880-92-5,210880-92-5,Clothianidin,cas,True,0.0,0.0,0.0
+MIX353,141776-32-1,141776-32-1,Sulfosulfuron,cas,True,1.0,1.0,1.0
+MIX354,181274-15-7,181274-15-7,Propoxycarbazone-sodium,cas,True,0.0,0.0,0.0
+MIX355,138261-41-3,138261-41-3,Imidacloprid,cas,True,1.0,1.0,1.0
+MIX356,57-50-1,57-50-1,Sucrose,cas,True,0.0,0.0,0.0
+MIX357,141112-29-0,141112-29-0,Other ingredients,cas,False,1.0,1.0,4.0
+MIX358,149877-41-8,149877-41-8,Bifenazate,cas,True,0.0,0.0,0.0
+MIX359,330-54-1,330-54-1,"Assay (HPLC): min. as the sum of Diuron, Carbendazim and Octylisothiazolinon (조성표 아님, 규격값)",cas,False,4.0,4.0,0.0
+MIX36,243973-20-8,243973-20-8,Pinoxaden,cas,True,1.0,1.0,1.0
+MIX360,2634-33-5,2634-33-5,"1,2-Benzisothiazolin-3-one (BIT)",cas,True,0.0,0.0,0.0
+MIX361,52-51-7,52-51-7,"Bronopol (1,3-Propanediol, 2-bromo-2-nitro-)",cas,True,4.0,4.0,4.0
+MIX362,57-55-6,57-55-6,"1,2-Propanediol",cas,True,4.0,4.0,4.0
+MIX363,1071-83-6,1071-83-6,Glyphosate,cas,True,1.0,1.0,1.0
+MIX364,127277-53-6,127277-53-6,Prohexadione-calcium,cas,True,1.0,1.0,1.0
+MIX365,7783-20-2,7783-20-2,Sulfuric acid diammonium salt (ammonium sulfate),cas,True,2.0,2.0,2.0
+MIX366,60207-90-1,60207-90-1,Propiconazole,cas,True,0.0,0.0,0.0
+MIX367,60207-90-1,60207-90-1,Propiconazole,cas,True,0.0,0.0,0.0
+MIX368,210880-92-5,210880-92-5,Clothianidin,cas,True,0.0,0.0,0.0
+MIX369,107534-96-3,107534-96-3,Tebuconazole,cas,True,1.0,1.0,1.0
+MIX37,81406-37-3,81406-37-3,Fluroxypyr-meptyl,cas,True,2.0,2.0,2.0
+MIX370,107534-96-3,107534-96-3,Tebuconazole,cas,True,0.0,0.0,0.0
+MIX371,51-03-6,51-03-6,Piperonyl Butoxide,cas,True,1.0,1.0,1.0
+MIX372,365400-11-9,365400-11-9,Pyrasulfotole,cas,True,0.0,0.0,0.0
+MIX373,179101-81-6,179101-81-6,Pyridalyl,cas,True,0.0,0.0,0.0
+MIX374,7786-80-3,7786-80-3,N-Octyl bicycloheptene dicarboximide (MGK 264),cas,True,4.0,4.0,4.0
+MIX375,131860-33-8,131860-33-8,Other/inert ingredients,cas,False,0.0,0.0,1.0
+MIX376,1897-45-6,1897-45-6,Chlorothalonil,cas,True,0.0,0.0,0.0
+MIX377,124495-18-7,124495-18-7,Quinoxyfen,cas,True,1.0,1.0,1.0
+MIX378,5131-66-8,5131-66-8,1-butoxy-2-propanol,cas,True,5.0,5.0,5.0
+MIX379,72490-01-8,72490-01-8,Fenoxycarb,cas,True,7.0,7.0,7.0
+MIX38,834-12-8,834-12-8,Ametryn,cas,True,0.0,0.0,0.0
+MIX380,114-26-1,114-26-1,Propoxur,cas,True,5.0,5.0,5.0
+MIX381,56-81-5,56-81-5,Glycerol,cas,True,0.0,0.0,0.0
+MIX382,22248-79-9,22248-79-9,Tetrachlorvinphos,cas,True,1.0,1.0,1.0
+MIX383,272451-65-7,272451-65-7,Flubendiamide,cas,True,2.0,2.0,2.0
+MIX384,33089-61-1,33089-61-1,Amitraz,cas,True,2.0,2.0,2.0
+MIX385,153719-23-4,153719-23-4,Thiamethoxam (ISO),cas,True,0.0,0.0,0.0
+MIX386,138261-41-3,138261-41-3,Imidacloprid,cas,True,0.0,0.0,0.0
+MIX387,81335-77-5,81335-77-5,Imazethapyr,cas,True,5.0,5.0,5.0
+MIX388,1310-73-2,1310-73-2,Sodium hydroxide,cas,True,1.0,1.0,1.0
+MIX389,101200-48-0,101200-48-0,Tribenuron-methyl,cas,True,1.0,1.0,1.0
+MIX39,131860-33-8,131860-33-8,Azoxystrobin,cas,True,0.0,0.0,0.0
+MIX390,107534-96-3,107534-96-3,Tebuconazole,cas,True,1.0,1.0,1.0
+MIX391,7704-34-9,7704-34-9,"Sulfur, precipitated",cas,True,4.0,4.0,4.0
+MIX392,12069-69-1,12069-69-1,"Copper Carbonate, basic",cas,True,2.0,2.0,2.0
+MIX393,1928-43-4,1928-43-4,"2,4-D 2-ethylhexyl (isooctyl) ester",cas,True,4.0,4.0,4.0
+MIX394,107534-96-3,107534-96-3,Tebuconazole,cas,True,2.0,2.0,2.0
+MIX395,107534-96-3,107534-96-3,Tebuconazole,cas,True,2.0,2.0,2.0
+MIX396,64742-47-8,64742-47-8,"Petroleum Distillates, Light, Hydrotreated - 80 265-149-8",cas,True,1.0,1.0,1.0
+MIX397,53112-28-0,53112-28-0,Pyrimethanil (ISO),cas,True,0.0,0.0,0.0
+MIX398,210880-92-5,210880-92-5,Clothianidin,cas,True,2.0,2.0,2.0
+MIX399,210880-92-5,210880-92-5,Clothianidin,cas,True,2.0,2.0,2.0
+MIX4,104206-82-8,104206-82-8,Mesotrione,cas,True,6.0,6.0,6.0
+MIX40,129909-90-6,129909-90-6,Amicarbazone,cas,True,0.0,0.0,0.0
+MIX400,52-51-7,52-51-7,Bronopol,cas,True,0.0,0.0,0.0
+MIX401,494793-67-8,494793-67-8,Penflufen,cas,True,0.0,0.0,0.0
+MIX402,219714-96-2,219714-96-2,Penoxsulam,cas,True,0.0,0.0,0.0
+MIX403,138261-41-3,138261-41-3,Imidacloprid,cas,True,2.0,2.0,2.0
+MIX404,494793-67-8,494793-67-8,Penflufen,cas,True,3.0,3.0,3.0
+MIX405,138261-41-3,138261-41-3,mol,cas,True,0.0,0.0,0.0
+MIX406,16752-77-5,16752-77-5,Methomyl,cas,True,1.0,1.0,1.0
+MIX407,178928-70-6,178928-70-6,Prothioconazole,cas,True,1.0,1.0,1.0
+MIX408,111991-09-4,111991-09-4,Nicosulfuron,cas,True,0.0,0.0,0.0
+MIX409,107534-96-3,107534-96-3,Tebuconazole,cas,True,0.0,0.0,0.0
+MIX41,111-30-8,111-30-8,Alkylbenzyl dimethyl ammonium chloride (ADBAC) - 미확정(K-67은 7.5%),cas,False,1.0,1.0,0.0
+MIX410,79277-27-3,79277-27-3,Thifensulfuron methyl,cas,True,0.0,0.0,0.0
+MIX411,183675-82-3,183675-82-3,Penthiopyrad (technical/pure),cas,True,0.0,0.0,0.0
+MIX412,36734-19-7,36734-19-7,"Iprodione - 원본 문서에 근거 없음, 다른 제품 데이터 혼입으로 판단, 제외 권고",cas,True,4.0,4.0,4.0
+MIX413,183675-82-3,183675-82-3,Penthiopyrad(*) (200,cas,True,0.0,0.0,0.0
+MIX414,94-75-7,94-75-7,Trade Secret Carboxamide,cas,False,2.0,2.0,0.0
+MIX415,141517-21-7,141517-21-7,Trifloxystrobin,cas,True,2.0,2.0,2.0
+MIX416,7704-34-9,7704-34-9,Sulfur,cas,True,0.0,0.0,0.0
+MIX417,188489-07-8,188489-07-8,Flufenpyr-ethyl,cas,True,1.0,1.0,1.0
+MIX418,52645-53-1,52645-53-1,Permethrin,cas,True,0.0,0.0,0.0
+MIX419,7704-34-9,7704-34-9,Sulfur,cas,True,7.0,7.0,7.0
+MIX42,566191-89-7,566191-89-7,Aminopyralid Triisopropanolamine Salt,cas,True,1.0,1.0,1.0
+MIX420,135397-30-7,135397-30-7,Halosulfuron-methyl,cas,True,2.0,2.0,2.0
+MIX421,7704-34-9,7704-34-9,"Sulfur, precipitated",cas,True,4.0,4.0,4.0
+MIX422,117428-22-5,117428-22-5,Picoxystrobin TC,cas,True,0.0,0.0,0.0
+MIX423,14808-60-7,14808-60-7,Crystalline silica,cas,True,3.0,3.0,3.0
+MIX424,80844-07-1,80844-07-1,Etofenprox,cas,True,2.0,2.0,2.0
+MIX425,97-99-4,97-99-4,Tetrahydrofurfuryl alcohol,cas,True,1.0,1.0,1.0
+MIX426,56-81-5,56-81-5,Glycerin (Other Ingredients),cas,True,1.0,1.0,1.0
+MIX427,138261-41-3,138261-41-3,Imidacloprid,cas,True,0.0,0.0,0.0
+MIX428,153719-23-4,153719-23-4,Thiamethoxam,cas,True,1.0,1.0,1.0
+MIX429,330-54-1,330-54-1,Diuron,cas,True,2.0,2.0,2.0
+MIX43,33089-61-1,33089-61-1,Amitraz,cas,True,0.0,0.0,0.0
+MIX430,137-26-8,137-26-8,Thiram,cas,True,26.0,26.0,26.0
+MIX431,30560-19-1,30560-19-1,Other ingredients (inert),cas,False,2.0,2.0,0.0
+MIX432,21087-64-9,21087-64-9,Other ingredients (inert),cas,True,0.0,0.0,0.0
+MIX433,53112-28-0,53112-28-0,Pyrimethanil,cas,True,0.0,0.0,0.0
+MIX434,91465-08-6,91465-08-6,"Other ingredients (inert, granular carrier)",cas,False,3.0,3.0,0.0
+MIX435,23031-36-9,23031-36-9,Other ingredients (inert),cas,True,0.0,0.0,0.0
+MIX436,57754-85-5,57754-85-5,Clopyralid monoethanolamine salt (Clopyralid-olamine),cas,True,0.0,0.0,0.0
+MIX437,79622-59-6,79622-59-6,Fluazinam,cas,True,0.0,0.0,0.0
+MIX438,68476-86-8,68476-86-8,Propane/n-Butane,cas,True,0.0,0.0,0.0
+MIX439,64-17-5,64-17-5,Ethanol,cas,True,1.0,1.0,1.0
+MIX44,33089-61-1,33089-61-1,"Amitraz (ISO), N,N-bis(2,4-xylyliminomethyl)methylamine",cas,True,0.0,0.0,0.0
+MIX440,874967-67-6,874967-67-6,Sedaxane,cas,True,1.0,1.0,1.0
+MIX441,874967-67-6,874967-67-6,Sedaxane,cas,True,1.0,1.0,1.0
+MIX442,1317-39-1,1317-39-1,Dicopper oxide,cas,True,0.0,0.0,0.0
+MIX443,56-81-5,56-81-5,Inert Ingredients (including Glycerin),cas,True,1.0,1.0,1.0
+MIX444,66230-04-4,66230-04-4,Esfenvalerate,cas,True,1.0,1.0,1.0
+MIX445,38641-94-0,38641-94-0,"Glyphosate, N-(phosphonomethyl)glycine, in form of its isopropylamine salt",cas,True,2.0,2.0,2.0
+MIX446,138261-41-3,138261-41-3,Imidacloprid,cas,True,1.0,1.0,1.0
+MIX447,87392-12-9,87392-12-9,S-metolachlor,cas,True,0.0,0.0,0.0
+MIX448,372137-35-4,372137-35-4,"Saflufenacil (ISO); N'-{2-chloro-4-fluoro-5-[1,2,3,6-tetrahydro-3-methyl-2,6-dioxo-4-(trifluoromethyl)pyrimidin-1-yl]benzoyl}-N-isopropyl-N-methylsulfamide",cas,True,0.0,0.0,0.0
+MIX449,1330-20-7,1330-20-7,Xylene,cas,True,3.0,3.0,3.0
+MIX45,97-99-4,97-99-4,Tetrahydrofurfuryl alcohol,cas,True,1.0,1.0,1.0
+MIX450,2008-39-1,2008-39-1,"2,4-D dimethylamine salt",cas,True,1.0,1.0,1.0
+MIX451,56425-91-3,56425-91-3,Flurprimidol,cas,True,1.0,1.0,1.0
+MIX452,9016-87-9,9016-87-9,Diphenylmethanediisocyanate,cas,True,1.0,1.0,1.0
+MIX453,148477-71-8,148477-71-8,Spirodiclofen,cas,True,0.0,0.0,0.0
+MIX454,203313-25-1,203313-25-1,Spirotetramet,cas,True,1.0,1.0,1.0
+MIX455,6062-26-6,6062-26-6,MCPB sodium salt (active ingredient),cas,True,0.0,0.0,0.0
+MIX456,118134-30-8,118134-30-8,Spiroxamine Technical,cas,True,1.0,1.0,1.0
+MIX457,68359-37-5,68359-37-5,Cyfluthrin,cas,True,2.0,2.0,2.0
+MIX458,118134-30-8,118134-30-8,Spiroxamine,cas,True,0.0,0.0,0.0
+MIX459,91465-08-6,91465-08-6,lambda-Cyhalothrin,cas,True,4.0,4.0,4.0
+MIX46,82558-50-7,82558-50-7,Isoxaben,cas,True,6.0,6.0,6.0
+MIX460,93-15-2,93-15-2,Methyleugenol,cas,True,7.0,7.0,7.0
+MIX461,35554-44-0,35554-44-0,Imazalil,cas,True,2.0,2.0,2.0
+MIX462,131860-33-8,131860-33-8,Azoxystrobin,cas,True,3.0,3.0,3.0
+MIX463,165252-70-0,165252-70-0,Dinotefuran,cas,True,1.0,1.0,1.0
+MIX464,131341-86-1,131341-86-1,Fludioxonil,cas,True,1.0,1.0,1.0
+MIX465,7631-86-9,7631-86-9,"Silica, amorphous - 60.00%",cas,True,0.0,0.0,0.0
+MIX466,1689-99-2,1689-99-2,Bromoxynil octanoate,cas,True,5.0,5.0,5.0
+MIX467,51-03-6,51-03-6,Piperonyl butoxide,cas,True,2.0,2.0,2.0
+MIX468,64742-95-6,64742-95-6,"Solvent Naphtha (petroleum), light aromatic",cas,True,2.0,2.0,2.0
+MIX469,107534-96-3,107534-96-3,Tebuconazole,cas,True,0.0,0.0,0.0
+MIX47,139968-49-3,139968-49-3,Metaflumizone,cas,True,1.0,1.0,1.0
+MIX470,1332-58-7,1332-58-7,Kaolin,cas,True,1.0,1.0,1.0
+MIX471,107534-96-3,107534-96-3,Tebuconazole (technical),cas,True,0.0,0.0,0.0
+MIX472,107534-96-3,107534-96-3,Tebuconazole,cas,True,0.0,0.0,0.0
+MIX473,79-14-1,79-14-1,"Acetic acid, hydroxy- Glycolic Acid",cas,True,0.0,0.0,0.0
+MIX474,68359-37-5,68359-37-5,Cyfluthrin (TEMPO),cas,True,0.0,0.0,0.0
+MIX475,5915-41-3,5915-41-3,Terbuthylazine (Terbutylazine),cas,True,1.0,1.0,1.0
+MIX476,872-50-4,872-50-4,N-Methyl-2-pyrrolidone,cas,True,2.0,2.0,2.0
+MIX477,120068-37-3,120068-37-3,Fipronil,cas,True,0.0,0.0,0.0
+MIX478,7783-20-2,7783-20-2,Ammonium sulfate,cas,True,1.0,1.0,1.0
+MIX479,240494-70-6,240494-70-6,Metofluthrin,cas,True,1.0,1.0,1.0
+MIX48,139968-49-3,139968-49-3,Metaflumizone,cas,True,0.0,0.0,0.0
+MIX480,82-68-8,82-68-8,Pentachloronitrobenzene (PCNB),cas,True,5.0,5.0,5.0
+MIX481,121-75-5,121-75-5,Malathion,cas,True,1.0,1.0,1.0
+MIX482,7704-34-9,7704-34-9,Sulfur,cas,True,0.0,0.0,0.0
+MIX483,81406-37-3,81406-37-3,Fluroxypyr-meptyl,cas,True,7.0,7.0,7.0
+MIX484,148-79-8,148-79-8,Thiabendazole,cas,True,1.0,1.0,1.0
+MIX485,64742-47-8,64742-47-8,De-aromatised Hydrocarbon,cas,True,0.0,0.0,0.0
+MIX486,165252-70-0,165252-70-0,Dinotefuran,cas,True,2.0,2.0,2.0
+MIX487,317815-83-1,317815-83-1,Thiencarbazone-methyl,cas,True,0.0,0.0,0.0
+MIX488,133-06-2,133-06-2,Captan,cas,True,1.0,1.0,1.0
+MIX489,872-50-4,872-50-4,N-Methyl-2-pyrrolidone (기타성분 중 일부),cas,True,2.0,2.0,2.0
+MIX49,107534-96-3,107534-96-3,Tebuconazole,cas,True,1.0,1.0,1.0
+MIX490,14808-60-7,14808-60-7,"Crystalline Silica, Quartz and Cristobalite",cas,True,0.0,0.0,0.0
+MIX491,210880-92-5,210880-92-5,Clothianidin,cas,True,5.0,5.0,5.0
+MIX492,67-63-0,67-63-0,Isopropyl Alcohol R11,cas,True,0.0,0.0,0.0
+MIX493,153719-23-4,153719-23-4,Thiamethoxam,cas,True,2.0,2.0,2.0
+MIX494,137-26-8,137-26-8,Thiram,cas,True,5.0,5.0,5.0
+MIX495,23564-05-8,23564-05-8,Thiophanate-methyl,cas,True,1.0,1.0,1.0
+MIX496,153719-23-4,153719-23-4,Thiamethoxam,cas,True,3.0,3.0,3.0
+MIX497,129558-76-5,129558-76-5,Tolfenpyrad,cas,True,1.0,1.0,1.0
+MIX498,64742-94-5,64742-94-5,"Solvent naphtha (petroleum), heavy aromatic",cas,True,0.0,0.0,0.0
+MIX499,76674-21-0,76674-21-0,Flutriafol,cas,True,0.0,0.0,0.0
+MIX5,104206-82-8,104206-82-8,Mesotrione,cas,True,0.0,0.0,0.0
+MIX50,117428-22-5,117428-22-5,Other Ingredients,cas,False,0.0,0.0,2.0
+MIX500,8018-01-7,8018-01-7,Mancozeb,cas,True,4.0,4.0,4.0
+MIX501,23564-05-8,23564-05-8,Thiophanate methyl,cas,True,0.0,0.0,0.0
+MIX502,23564-05-8,23564-05-8,Thiophanate-methyl,cas,True,0.0,0.0,0.0
+MIX503,1071-83-6,1071-83-6,Glyphosate,cas,True,3.0,3.0,3.0
+MIX504,125116-23-6,125116-23-6,"Metconazole (5-[(4-chlorophenyl)methyl]-2,2-dimethyl-1-(1H-1,2,4-triazol-1-ylmethyl)cyclopentanol)",cas,True,0.0,0.0,0.0
+MIX505,39515-41-8,39515-41-8,Fenpropathrin,cas,True,2.0,2.0,2.0
+MIX506,76-87-9,76-87-9,Fentin,cas,True,2.0,2.0,2.0
+MIX507,52645-53-1,52645-53-1,Permethrin,cas,True,4.0,4.0,4.0
+MIX508,122548-33-8,122548-33-8,Imazosulfuron Technical,cas,True,0.0,0.0,0.0
+MIX509,165252-70-0,165252-70-0,Dinotefuran,cas,True,4.0,4.0,4.0
+MIX51,129909-90-6,129909-90-6,Amicarbazone,cas,True,1.0,1.0,1.0
+MIX510,34590-94-8,34590-94-8,Dipropylene Glycol Monomethyl Ether (DPM),cas,True,0.0,0.0,0.0
+MIX511,1897-45-6,1897-45-6,Other/inert ingredients,cas,False,5.0,5.0,3.0
+MIX512,70901-12-1,70901-12-1,Other/inert ingredients,cas,True,0.0,0.0,0.0
+MIX513,199119-58-9,199119-58-9,Trifloxysulfuron-sodium,cas,True,0.0,0.0,0.0
+MIX514,62-73-7,62-73-7,Dichlorvos (DDVP),cas,True,0.0,0.0,0.0
+MIX515,1582-09-8,1582-09-8,Trifluralin,cas,True,0.0,0.0,0.0
+MIX516,131983-72-7,131983-72-7,Triticonazole,cas,True,0.0,0.0,0.0
+MIX517,82657-04-3,82657-04-3,Other ingredients,cas,False,1.0,1.0,0.0
+MIX518,8042-47-5,8042-47-5,Other/inert ingredients,cas,True,1.0,1.0,1.0
+MIX519,64742-94-5,64742-94-5,"Solvent Naphtha (petroleum), heavy aromatic",cas,True,3.0,3.0,3.0
+MIX52,64742-94-5,64742-94-5,"Solvent Naphtha (petroleum), heavy aromatic",cas,True,2.0,2.0,2.0
+MIX520,90-43-7,90-43-7,2-Phenylphenol (O-Phenylphenol),cas,True,2.0,2.0,2.0
+MIX521,330-54-1,330-54-1,Diuron,cas,True,2.0,2.0,2.0
+MIX522,183675-82-3,183675-82-3,Other Ingredients,cas,False,0.0,0.0,1.0
+MIX523,60207-90-1,60207-90-1,"water repellents and wood preservative be completely dry before glazing, painting, % VOC",cas,False,3.0,3.0,0.0
+MIX524,52315-07-8,52315-07-8,Cypermethrin,cas,True,0.0,0.0,0.0
+MIX525,5234-68-4,5234-68-4,carboxin,cas,True,0.0,0.0,0.0
+MIX526,199119-58-9,199119-58-9,Trifloxysulfuron-sodium,cas,True,1.0,1.0,1.0
+MIX527,7732-18-5,7732-18-5,Water,cas,True,2.0,2.0,2.0
+MIX528,64742-94-5,64742-94-5,Aromatic hydrocarbon 2 Moderate 2 Flammability,cas,True,2.0,2.0,2.0
+MIX529,138261-41-3,138261-41-3,Imidacloprid,cas,True,0.0,0.0,0.0
+MIX53,139968-49-3,139968-49-3,Metaflumizone HYDRAZINECARBOXAMIDE,cas,True,0.0,0.0,0.0
+MIX530,500008-45-7,500008-45-7,Chlorantraniliprole,cas,True,0.0,0.0,0.0
+MIX531,500008-45-7,500008-45-7,Chlorantraniliprole,cas,True,5.0,5.0,5.0
+MIX532,35367-38-5,35367-38-5,Diflubenzuron,cas,True,19.0,19.0,19.0
+MIX533,107534-96-3,107534-96-3,Other ingredients (incl. petroleum distillates),cas,False,1.0,1.0,0.0
+MIX534,67-64-1,67-64-1,Acetone,cas,True,0.0,0.0,0.0
+MIX535,134-62-3,134-62-3,OTHER INGREDIENTS,cas,False,1.0,1.0,0.0
+MIX536,7704-34-9,7704-34-9,Sulphur,cas,True,0.0,0.0,0.0
+MIX537,29450-45-1,29450-45-1,MCPA-2-ethylhexyl,cas,True,1.0,1.0,1.0
+MIX538,74742-95-6,74742-95-6,Light aromatic naphtha,cas,True,1.0,1.0,1.0
+MIX539,40487-42-1,40487-42-1,Pendimethalin,cas,True,4.0,4.0,4.0
+MIX54,175013-18-0,175013-18-0,Pyraclostrobin,cas,True,5.0,5.0,5.0
+MIX540,60207-90-1,60207-90-1,Propiconazole,cas,True,1.0,1.0,1.0
+MIX541,1071-83-6,1071-83-6,Ingredients determined not to be hazardous,cas,True,2.0,2.0,2.0
+MIX542,12069-69-1,12069-69-1,Copper(II) carbonate--copper(II) hydroxide (1:1),cas,True,0.0,0.0,0.0
+MIX543,138261-41-3,138261-41-3,Imidacloprid,cas,True,0.0,0.0,0.0
+MIX544,108-62-3,108-62-3,Metaldehyde acetaldehyde tetramer,cas,True,2.0,2.0,2.0
+MIX545,"Metconazole (-[(4-chlorophenyl)methyl]-2,2-dimethyl-1-(1H-1,2,4- 38-43 Active Ingredient",,"Metconazole (-[(4-chlorophenyl)methyl]-2,2-dimethyl-1-(1H-1,2,4- 38-43 Active Ingredient",name,False,0.0,,0.0
+MIX546,10043-35-3,10043-35-3,Boric acid (H3BO3),cas,True,1.0,1.0,1.0
+MIX547,34256-82-1,34256-82-1,Acetochlor,cas,True,1.0,1.0,1.0
+MIX548,91465-08-6,91465-08-6,Lambda-Cyhalothrin,cas,True,1.0,1.0,1.0
+MIX549,104-55-2,104-55-2,3-Phenylprop-2-enal,cas,True,3.0,3.0,3.0
+MIX55,188425-85-6,188425-85-6,Boscalid,cas,True,1.0,1.0,1.0
+MIX550,175013-18-0,175013-18-0,Pyraclostrobin,cas,True,0.0,0.0,0.0
+MIX551,121451-02-3,121451-02-3,Noviflumuron,cas,True,1.0,1.0,1.0
+MIX552,7722-84-1,7722-84-1,Hydrogen peroxide,cas,True,1.0,1.0,1.0
+MIX553,2758-42-1,2758-42-1,"Dimethylamine Salt of 4-(2,4-Dichlorophenoxy) Butyric Acid (2,4-DB)",cas,True,0.0,0.0,0.0
+MIX554,422556-08-9,422556-08-9,Pyroxsulam,cas,True,1.0,1.0,1.0
+MIX555,865318-97-4,865318-97-4,ametoctradin,cas,True,0.0,0.0,0.0
+MIX556,156052-68-5,156052-68-5,Zoxamide,cas,True,0.0,0.0,0.0
+MIX557,156052-68-5,156052-68-5,Zoxamide,cas,True,1.0,1.0,1.0
+MIX558,156052-68-5,156052-68-5,Zoxamide,cas,True,1.0,1.0,1.0
+MIX559,22248-79-9,22248-79-9,"Other ingredients (incl. petroleum distillates, phenol as toxic inert)",cas,False,2.0,2.0,1.0
+MIX56,82657-04-3,82657-04-3,Bifenthrin,cas,True,2.0,2.0,2.0
+MIX560,1982-69-0,1982-69-0,Dicamba-sodium,cas,True,2.0,2.0,2.0
+MIX561,35554-44-0,35554-44-0,Imazalil,cas,True,2.0,2.0,2.0
+MIX562,57-55-6,57-55-6,"1,2-Propanediol",cas,True,3.0,3.0,3.0
+MIX563,52645-53-1,52645-53-1,Permethrin,cas,True,1.0,1.0,1.0
+MIX564,122008-85-9,122008-85-9,Cyhalofop-butyl,cas,True,4.0,4.0,4.0
+MIX565,123-42-2,123-42-2,Diacetone Alcohol,cas,True,1.0,1.0,1.0
+MIX566,64742-94-5,64742-94-5,Heavy aromatic naphtha,cas,True,2.0,2.0,2.0
+MIX567,374726-62-2,374726-62-2,Mandipropamid,cas,True,0.0,0.0,0.0
+MIX568,858956-08-8,858956-08-8,Aminocyclopyrachlor,cas,True,0.0,0.0,0.0
+MIX569,8018-01-7,8018-01-7,Mancozeb,cas,True,4.0,4.0,4.0
+MIX57,175013-18-0,175013-18-0,Pyraclostrobin,cas,True,0.0,0.0,0.0
+MIX570,1897-45-6,1897-45-6,Chlorothalonil,cas,True,0.0,0.0,0.0
+MIX571,122931-48-0,122931-48-0,Rimsulfuron,cas,True,1.0,1.0,1.0
+MIX572,1897-45-6,1897-45-6,Chlorothalonil,cas,True,2.0,2.0,2.0
+MIX573,23564-05-8,23564-05-8,Thiophanate-methyl,cas,True,1.0,1.0,1.0
+MIX574,210880-92-5,210880-92-5,Clothianidin,cas,True,1.0,1.0,1.0
+MIX575,330-54-1,330-54-1,Diuron,cas,True,4.0,4.0,4.0
+MIX576,56-72-4,56-72-4,Coumaphos,cas,True,1.0,1.0,1.0
+MIX577,142459-58-3,142459-58-3,Flufenacet,cas,True,1.0,1.0,1.0
+MIX578,1861-40-1,1861-40-1,Benfluralin (technical),cas,True,1.0,1.0,1.0
+MIX579,240494-70-6,240494-70-6,Metofluthrin,cas,True,1.0,1.0,1.0
+MIX58,82657-04-3,82657-04-3,Bifenthrin,cas,True,0.0,0.0,0.0
+MIX580,1071-83-6,1071-83-6,Glyphosate,cas,True,1.0,1.0,1.0
+MIX581,122931-48-0,122931-48-0,Inert ingredients,cas,False,1.0,1.0,0.0
+MIX582,122931-48-0,122931-48-0,Rimsulfuron,cas,True,1.0,1.0,1.0
+MIX583,133-06-2,133-06-2,Captan,cas,True,1.0,1.0,1.0
+MIX584,20520-69-2,20520-69-2,"1-Propanamine, N-ethyl- (N-ethylpropylamine, i.e. EP-Amin)",cas,True,1.0,1.0,1.0
+MIX585,26225-79-6,26225-79-6,Ethofumesate,cas,True,1.0,1.0,1.0
+MIX586,126833-17-8,126833-17-8,Fenhexamid,cas,True,0.0,0.0,0.0
+MIX587,107534-96-3,107534-96-3,Tebuconazole,cas,True,1.0,1.0,1.0
+MIX588,69770-45-2,69770-45-2,Flumethrin,cas,True,1.0,1.0,1.0
+MIX589,372137-35-4,372137-35-4,Saflufenacil,cas,True,1.0,1.0,1.0
+MIX59,82657-04-3,82657-04-3,Bifenthrin,cas,True,0.0,0.0,0.0
+MIX590,59669-26-0,59669-26-0,Thiodicarb,cas,True,1.0,1.0,1.0
+MIX591,1918-00-9,1918-00-9,Dicamba,cas,True,1.0,1.0,1.0
+MIX592,372137-35-4,372137-35-4,Saflufenacil,cas,True,1.0,1.0,1.0
+MIX593,116-06-3,116-06-3,Aldicarb,cas,True,1.0,1.0,1.0
+MIX594,52315-07-8,52315-07-8,Cypermethrin,cas,True,1.0,1.0,1.0
+MIX595,865318-97-4,865318-97-4,Ametoctradin,cas,True,2.0,2.0,2.0
+MIX596,1071-83-6,1071-83-6,Glyphosate,cas,True,15.0,15.0,15.0
+MIX597,138261-41-3,138261-41-3,Imidacloprid,cas,True,2.0,2.0,2.0
+MIX598,87674-68-8,87674-68-8,Dimethenamid,cas,True,2.0,2.0,2.0
+MIX599,181274-15-7,181274-15-7,Propoxycarbazone-sodium,cas,True,1.0,1.0,1.0
+MIX6,2682-20-4,2682-20-4,2-Methyl-3(2H)-isothiazolone,cas,True,26.0,26.0,26.0
+MIX60,2682-20-4,2682-20-4,Methylisothiazolinone,cas,True,11.0,11.0,11.0
+MIX600,133-37-9,133-37-9,(+/-)-tartaric acid,cas,True,1.0,1.0,1.0
+MIX601,107534-96-3,107534-96-3,Tebuconazole,cas,True,1.0,1.0,1.0
+MIX602,107534-96-3,107534-96-3,Tebuconazole,cas,True,1.0,1.0,1.0
+MIX603,138261-41-3,138261-41-3,Imidacloprid,cas,True,1.0,1.0,1.0
+MIX604,138261-41-3,138261-41-3,Imidacloprid,cas,True,1.0,1.0,1.0
+MIX605,138261-41-3,138261-41-3,Imidacloprid,cas,True,1.0,1.0,1.0
+MIX606,82657-04-3,82657-04-3,Bifenthrin,cas,True,0.0,0.0,0.0
+MIX607,138261-41-3,138261-41-3,Imidacloprid,cas,True,1.0,1.0,1.0
+MIX608,141517-21-7,141517-21-7,Trifloxystrobin,cas,True,1.0,1.0,1.0
+MIX609,7287-19-6,7287-19-6,Prometryn,cas,True,2.0,2.0,2.0
+MIX61,125116-23-6,125116-23-6,Metconazole,cas,True,1.0,1.0,1.0
+MIX610,210631-68-8,210631-68-8,Inert Ingredients,cas,False,1.0,1.0,0.0
+MIX611,122454-29-9,122454-29-9,Tralopyril,cas,True,3.0,3.0,3.0
+MIX612,1317-39-1,1317-39-1,Cuprous oxide,cas,True,1.0,1.0,1.0
+MIX613,55406-53-6,55406-53-6,3-Iodo-2-propynylbutylcarbamate,cas,True,1.0,1.0,1.0
+MIX614,116255-48-2,116255-48-2,Bromuconazole,cas,True,0.0,0.0,0.0
+MIX615,131341-86-1,131341-86-1,Fludioxonil,cas,True,1.0,1.0,1.0
+MIX616,131341-86-1,131341-86-1,Fludioxonil,cas,True,1.0,1.0,1.0
+MIX617,154749-55-0,154749-55-0,5-Hydroxy-Tepraloxydim (대사체 자체; 조성/매질 정보 없음),cas,True,0.0,0.0,0.0
+MIX618,71751-41-2,71751-41-2,Abamectin (Avermectin B1a/B1b mixture) - 요청된 Avermectin A1a와 불일치,cas,True,1.0,1.0,1.0
+MIX619,65195-52-0,65195-52-0,Avermectin A1b,cas,True,1.0,1.0,1.0
+MIX62,2893-78-9,2893-78-9,Sodium Dichloro-S-Triazinetrione (Troclosene sodium 계열),cas,True,0.0,0.0,0.0
+MIX620,65195-53-1,65195-53-1,Other ingredients (NE - not established),cas,True,1.0,1.0,1.0
+MIX621,71751-41-2,71751-41-2,Abamectin (Avermectin B1a/B1b technical mixture) — NOT the requested B2a congener,cas,True,0.0,0.0,0.0
+MIX622,138261-41-3,138261-41-3,Imidacloprid,cas,True,1.0,1.0,1.0
+MIX623,210880-92-5,210880-92-5,Clothianidin,cas,True,0.0,0.0,0.0
+MIX624,116255-48-2,116255-48-2,Bromuconazole (mixture of isomers),cas,True,0.0,0.0,0.0
+MIX625,131341-86-1,131341-86-1,Fludioxonil,cas,True,2.0,2.0,2.0
+MIX626,82657-04-3,82657-04-3,Bifenthrin,cas,True,1.0,1.0,1.0
+MIX627,165252-70-0,165252-70-0,Dinotefuran,cas,True,1.0,1.0,1.0
+MIX628,2008-39-1,2008-39-1,"2,4-D, dimethylamine salt (참고 SDS 내 추가 성분, 요청 목록 외)",cas,True,2.0,2.0,2.0
+MIX629,82657-04-3,82657-04-3,Bifenthrin,cas,True,1.0,1.0,1.0
+MIX63,149979-41-9,149979-41-9,Tepraloxydim,cas,True,1.0,1.0,1.0
+MIX630,52315-07-8,52315-07-8,Cypermethrin,cas,True,1.0,1.0,1.0
+MIX631,122931-48-0,122931-48-0,Rimsulfuron,cas,True,1.0,1.0,1.0
+MIX632,188489-07-8,188489-07-8,Flufenpyr-ethyl,cas,True,1.0,1.0,1.0
+MIX633,69770-45-2,69770-45-2,Flumethrin,cas,True,1.0,1.0,1.0
+MIX634,69770-45-2,69770-45-2,Flumethrin,cas,True,1.0,1.0,1.0
+MIX635,188489-07-2,188489-07-2,Flufenpyr-ethyl (parent compound); this item is its acid/4-OH metabolite (S-3153 Acid-4-OH),cas,True,1.0,1.0,1.0
+MIX636,77182-82-2,77182-82-2,Glufosinate-ammonium,cas,True,1.0,1.0,1.0
+MIX637,183675-82-3,183675-82-3,Penthiopyrad,cas,True,0.0,0.0,0.0
+MIX638,52645-53-1,52645-53-1,Permethrin,cas,True,1.0,1.0,1.0
+MIX639,52645-53-1,52645-53-1,Permethrin,cas,True,1.0,1.0,1.0
+MIX64,125401-92-5,125401-92-5,Bispyribac-sodium,cas,True,0.0,0.0,0.0
+MIX640,107534-96-3,107534-96-3,Other Ingredients,cas,False,2.0,2.0,0.0
+MIX641,108-94-1,108-94-1,Cyclohexanone,cas,True,0.0,0.0,0.0
+MIX642,3619-17-8,3619-17-8,Isobutyric acid hydrazide,cas,True,1.0,1.0,1.0
+MIX643,35554-44-0,35554-44-0,Imazalil,cas,True,1.0,1.0,1.0
+MIX644,57837-19-1,57837-19-1,Metalaxyl,cas,True,1.0,1.0,1.0
+MIX645,108-62-3,108-62-3,Metaldehyde,cas,True,1.0,1.0,1.0
+MIX646,74223-64-6,74223-64-6,Metsulfuron-methyl,cas,True,1.0,1.0,1.0
+MIX647,16079-88-2,16079-88-2,"1-Bromo-3-chloro-5,5-dimethylhydantoin",cas,True,3.0,3.0,3.0
+MIX648,MIX648,,,fid,False,,,
+MIX649,153719-23-4,153719-23-4,Other ingredients (trade secret),cas,False,1.0,1.0,0.0
+MIX65,52315-07-8,52315-07-8,Cypermethrin,cas,True,0.0,0.0,0.0
+MIX650,90-43-7,90-43-7,2-Phenylphenol (o-phenylphenol),cas,True,0.0,0.0,0.0
+MIX651,494793-67-8,494793-67-8,Penflufen,cas,True,2.0,2.0,2.0
+MIX652,141112-29-0,141112-29-0,Isoxaflutole,cas,True,2.0,2.0,2.0
+MIX653,210880-92-5,210880-92-5,Clothianidin,cas,True,2.0,2.0,2.0
+MIX654,87674-68-8,87674-68-8,Dimethenamid,cas,True,3.0,3.0,3.0
+MIX655,35554-44-0,35554-44-0,Imazalil,cas,True,2.0,2.0,2.0
+MIX656,80844-07-1,80844-07-1,Etofenprox,cas,True,3.0,3.0,3.0
+MIX657,7173-51-5,7173-51-5,Didecyl dimethyl ammonium chloride,cas,True,2.0,2.0,2.0
+MIX658,5598-13-0,5598-13-0,Chlorpyrifos-methyl,cas,True,2.0,2.0,2.0
+MIX659,1071-83-6,1071-83-6,Glyphosate,cas,True,1.0,1.0,1.0
+MIX66,865318-97-4,865318-97-4,Ametoctradin,cas,True,1.0,1.0,1.0
+MIX660,7631-86-9,7631-86-9,"Silica, amorphous",cas,True,0.0,0.0,0.0
+MIX661,111991-09-4,111991-09-4,Nicosulfuron,cas,True,1.0,1.0,1.0
+MIX662,34256-82-1,34256-82-1,Acetochlor,cas,True,2.0,2.0,2.0
+MIX663,2634-33-5,2634-33-5,"1,2-Benzisothiazolin-3-one",cas,True,2.0,2.0,2.0
+MIX664,111-30-8,111-30-8,Glutaraldehyde,cas,True,1.0,1.0,1.0
+MIX665,175013-18-0,175013-18-0,Pyraclostrobin,cas,True,1.0,1.0,1.0
+MIX666,82657-04-3,82657-04-3,Bifenthrin,cas,True,0.0,0.0,0.0
+MIX667,82657-04-3,82657-04-3,Bifenthrin,cas,True,0.0,0.0,0.0
+MIX668,82657-04-3,82657-04-3,Bifenthrin,cas,True,0.0,0.0,0.0
+MIX669,82657-04-3,82657-04-3,Bifenthrin,cas,True,1.0,1.0,1.0
+MIX67,168316-95-8,168316-95-8,Spinosad (Spinosyn A & D),cas,True,0.0,0.0,0.0
+MIX670,82657-04-3,82657-04-3,Bifenthrin,cas,True,0.0,0.0,0.0
+MIX671,51-03-6,51-03-6,Piperonyl butoxide,cas,True,1.0,1.0,1.0
+MIX672,111988-49-9,111988-49-9,Thiacloprid,cas,True,1.0,1.0,1.0
+MIX673,1897-45-6,1897-45-6,Chlorothalonil,cas,True,1.0,1.0,1.0
+MIX674,1897-45-6,1897-45-6,Chlorothalonil (Tetrachloroisophthalonitrile),cas,True,1.0,1.0,1.0
+MIX675,240494-70-6,240494-70-6,Metofluthrin,cas,True,1.0,1.0,1.0
+MIX676,1897-45-6,1897-45-6,Chlorothalonil,cas,True,0.0,0.0,0.0
+MIX677,1897-45-6,1897-45-6,Chlorothalonil,cas,True,0.0,0.0,0.0
+MIX678,90982-32-4,90982-32-4,Chlorimuron-ethyl,cas,True,2.0,2.0,2.0
+MIX679,1071-83-6,1071-83-6,Glyphosate,cas,True,1.0,1.0,1.0
+MIX68,210631-68-8,210631-68-8,Topramezone technical,cas,True,0.0,0.0,0.0
+MIX680,1897-45-6,1897-45-6,Chlorothalonil,cas,True,1.0,1.0,1.0
+MIX681,Cypermethrin,,Cypermethrin,name,False,0.0,,0.0
+MIX682,1897-45-6,1897-45-6,Chlorothalonil (Tetrachloroisophthalonitrile),cas,True,1.0,1.0,1.0
+MIX683,1897-45-6,1897-45-6,Tetrachloroisophthalonitrile (Chlorothalonil),cas,True,1.0,1.0,1.0
+MIX684,2008-39-1,2008-39-1,"2,4-D-dimethylammonium",cas,True,1.0,1.0,1.0
+MIX685,2008-39-1,2008-39-1,"2,4-D-dimethylammonium",cas,True,1.0,1.0,1.0
+MIX686,97-64-3,97-64-3,Ethyl lactate,cas,True,0.0,0.0,0.0
+MIX687,1897-45-6,1897-45-6,Chlorothalonil,cas,True,1.0,1.0,1.0
+MIX688,2008-39-1,2008-39-1,"2,4-D-dimethylammonium",cas,True,1.0,1.0,1.0
+MIX689,26225-79-6,26225-79-6,Ethofumesate,cas,True,1.0,1.0,1.0
+MIX69,188425-85-6,188425-85-6,Boscalid,cas,True,0.0,0.0,0.0
+MIX690,120068-37-3,120068-37-3,Fipronil,cas,True,1.0,1.0,1.0
+MIX691,134098-61-6,134098-61-6,Other ingredients (trade secret),cas,False,1.0,1.0,0.0
+MIX692,1071-83-6,1071-83-6,Glyphosate,cas,True,1.0,1.0,1.0
+MIX693,168316-95-8,168316-95-8,Spinosad (Spinosyn A & D),cas,True,0.0,0.0,0.0
+MIX694,38641-94-0,38641-94-0,Isopropylamine salt of Glyphosate,cas,True,0.0,0.0,0.0
+MIX695,1071-83-6,1071-83-6,Glyphosate,cas,True,0.0,0.0,0.0
+MIX696,168316-95-8,168316-95-8,Spinosad (Spinosyn A & D),cas,True,0.0,0.0,0.0
+MIX697,7722-84-1,7722-84-1,Hydrogen peroxide,cas,True,1.0,1.0,1.0
+MIX698,210880-92-5,210880-92-5,Clothianidin,cas,True,1.0,1.0,1.0
+MIX699,51707-55-2,51707-55-2,Thidiazuron,cas,True,1.0,1.0,1.0
+MIX7,8018-01-7,8018-01-7,Mancozeb,cas,True,2.0,2.0,2.0
+MIX70,907204-31-3,907204-31-3,Fluxapyroxad,cas,True,2.0,2.0,2.0
+MIX700,1928-43-4,1928-43-4,"2,4-D-2-ethylhexyl",cas,True,3.0,3.0,3.0
+MIX701,123-33-1,123-33-1,Maleic hydrazide,cas,True,1.0,1.0,1.0
+MIX702,1928-43-4,1928-43-4,"2,4-D-2-ethylhexyl",cas,True,2.0,2.0,2.0
+MIX703,240494-70-6,240494-70-6,Metofluthrin,cas,True,1.0,1.0,1.0
+MIX704,125401-92-5,125401-92-5,Bispyribac-sodium,cas,True,1.0,1.0,1.0
+MIX705,858956-08-8,858956-08-8,Aminocyclopyrachlor,cas,True,1.0,1.0,1.0
+MIX706,165252-70-0,165252-70-0,"Dinotefuran, N-methyl-N'-nitro-N''-[(tetrahydro-3-furanyl)methyl]guanidine",cas,True,1.0,1.0,1.0
+MIX707,1982-69-0,1982-69-0,Dicamba-sodium,cas,True,1.0,1.0,1.0
+MIX708,7704-34-9,7704-34-9,"Sulfur, precipitated",cas,True,1.0,1.0,1.0
+MIX709,7704-34-9,7704-34-9,"Sulfur, precipitated",cas,True,1.0,1.0,1.0
+MIX71,1897-45-6,1897-45-6,Chlorothalonil,cas,True,5.0,5.0,5.0
+MIX710,131341-86-1,131341-86-1,Fludioxonil,cas,True,1.0,1.0,1.0
+MIX711,122454-29-9,122454-29-9,Tralopyril,cas,True,1.0,1.0,1.0
+MIX712,111991-09-4,111991-09-4,Nicosulfuron,cas,True,1.0,1.0,1.0
+MIX713,111991-09-4,111991-09-4,Nicosulfuron,cas,True,1.0,1.0,1.0
+MIX714,107534-96-3,107534-96-3,Tebuconazole,cas,True,3.0,3.0,3.0
+MIX715,1071-83-6,1071-83-6,Glyphosate,cas,True,1.0,1.0,1.0
+MIX716,51707-55-2,51707-55-2,Thidiazuron,cas,True,1.0,1.0,1.0
+MIX717,38641-94-0,38641-94-0,"Glyphosate, isopropylamine salt",cas,True,0.0,0.0,0.0
+MIX718,125401-92-5,125401-92-5,"Bispyribac-sodium (Sodium 2,6-bis[(4,6-dimethoxypyrimidin-2-yl)oxy]benzoate)",cas,True,1.0,1.0,1.0
+MIX719,28159-98-0,28159-98-0,Cybutryne,cas,True,2.0,2.0,2.0
+MIX72,907204-31-3,907204-31-3,Fluxapyroxad,cas,True,0.0,0.0,0.0
+MIX720,26225-79-6,26225-79-6,Ethofumesate,cas,True,1.0,1.0,1.0
+MIX73,7704-34-9,7704-34-9,"Sulfur, precipitated",cas,True,1.0,1.0,1.0
+MIX74,116255-48-2,116255-48-2,Bromuconazole,cas,True,0.0,0.0,0.0
+MIX742,MIX742,,,fid,False,,,
+MIX743,3-(4-Methoxyphenyl)propionic acid,,3-(4-Methoxyphenyl)propionic acid,name,False,0.0,,0.0
+MIX746,121552-61-2,121552-61-2,Cyprodinil,cas,True,0.0,0.0,0.0
+MIX747,15299-99-7,15299-99-7,Napropamide,cas,True,0.0,0.0,0.0
+MIX748,500008-45-7,500008-45-7,Chlorantraniliprole (RynaXypyr),cas,True,0.0,0.0,0.0
+MIX749,111991-09-4,111991-09-4,Nicosulfuron,cas,True,0.0,0.0,0.0
+MIX75,116255-48-2,116255-48-2,Bromuconazole,cas,True,0.0,0.0,0.0
+MIX750,111991-09-4,111991-09-4,Nicosulfuron,cas,True,0.0,0.0,0.0
+MIX751,MIX751,,,fid,False,,,
+MIX752,MIX752,,,fid,False,,,
+MIX753,MIX753,,,fid,False,,,
+MIX754,MIX754,,,fid,False,,,
+MIX755,MIX755,,,fid,False,,,
+MIX756,MIX756,,,fid,False,,,
+MIX758,MIX758,,,fid,False,,,
+MIX759,MIX759,,,fid,False,,,
+MIX76,67701-09-1,67701-09-1,PotassiumSaltsofFattyAcids,cas,True,0.0,0.0,0.0
+MIX760,98886-44-3,98886-44-3,Fosthiazate,cas,True,0.0,0.0,0.0
+MIX765,129630-19-9,129630-19-9,Pyraflufen-ethyl,cas,True,0.0,0.0,0.0
+MIX766,124495-18-7,124495-18-7,Quinoxyfen,cas,True,0.0,0.0,0.0
+MIX769,121451-02-3,121451-02-3,Noviflumuron,cas,True,0.0,0.0,0.0
+MIX77,175013-18-0,175013-18-0,Pyraclostrobin,cas,True,0.0,0.0,0.0
+MIX770,107534-96-3,107534-96-3,Tebuconazole,cas,True,0.0,0.0,0.0
+MIX771,85-00-7,85-00-7,"Diquat dibromide [6,7-dihydrodipyrido(1,2-a:2',1'-c)pyrazinediium dibromide]",cas,True,0.0,0.0,0.0
+MIX773,500008-45-7,500008-45-7,Chlorantraniliprole,cas,True,0.0,0.0,0.0
+MIX775,"Coco alkylamine (fatty amine, Armeen 2C - exact CAS/composition unverified)",,"Coco alkylamine (fatty amine, Armeen 2C - exact CAS/composition unverified)",name,False,0.0,,0.0
+MIX776,61788-46-3,61788-46-3,"Coco alkylamine (Armeen CD, primary fatty amine ex coconut)",cas,True,0.0,0.0,0.0
+MIX777,61790-33-8,61790-33-8,"Tallow alkylamine (Armeen TD, primary fatty amine ex tallow)",cas,True,0.0,0.0,0.0
+MIX778,112-02-7,112-02-7,Hexadecyltrimethylammonium chloride (Cetrimonium chloride / CTAC),cas,True,1.0,1.0,1.0
+MIX779,"Arquad MCB-50., ,... (The data for the hazardous ingredients were taken respectively from the last version",,"Arquad MCB-50., ,... (The data for the hazardous ingredients were taken respectively from the last version",name,False,0.0,,0.0
+MIX78,1912-24-9,1912-24-9,"Other ingredients (unnamed, proprietary/non-hazardous)",cas,False,0.0,0.0,3.0
+MIX780,373-61-5,373-61-5,Acetic acid boron trifluoride (2:1),cas,True,1.0,1.0,1.0
+MIX781,109-73-9,109-73-9,Butylamine,cas,True,1.0,1.0,1.0
+MIX782,6419-19-8,6419-19-8,Aminotrimethylene phosphonic acid (ATMP / Amino tris(methylenephosphonic acid)),cas,True,1.0,1.0,1.0
+MIX783,124-07-2,124-07-2,Caprylic Acid (Octanoic acid),cas,True,1.0,1.0,1.0
+MIX784,29387-86-8,29387-86-8,Propylene glycol n-butyl ether (Dowanol PnB),cas,True,0.0,0.0,0.0
+MIX785,110-80-5,110-80-5,2-Ethoxyethanol (Cellosolve),cas,True,1.0,1.0,1.0
+MIX786,MIX786,,,fid,False,,,
+MIX787,151-21-3,151-21-3,Sodium dodecyl sulfate,cas,True,1.0,1.0,1.0
+MIX788,1643-20-5,1643-20-5,"N,N-Dimethyldodecylamine-N-oxide",cas,True,1.0,1.0,1.0
+MIX789,MIX789,,,fid,False,,,
+MIX79,68359-37-5,68359-37-5,Cyfluthrin,cas,True,3.0,3.0,3.0
+MIX790,7647-01-0,7647-01-0,Hydrochloric acid,cas,True,1.0,1.0,1.0
+MIX791,9004-82-4,9004-82-4,"Dodecanol, ethoxylated, monoether with sulfuric acid, sodium salt",cas,True,1.0,1.0,1.0
+MIX792,7664-38-2,7664-38-2,Phosphoric acid,cas,True,1.0,1.0,1.0
+MIX793,7681-52-9,7681-52-9,Sodium hypochlorite,cas,True,1.0,1.0,1.0
+MIX794,112-80-1,112-80-1,Oleic acid,cas,True,1.0,1.0,1.0
+MIX795,2634-33-5,2634-33-5,"1,2-Benzisothiazol-3(2H)-one (BIT)",cas,True,1.0,1.0,1.0
+MIX796,2634-33-5,2634-33-5,Inert ingredients,cas,False,1.0,1.0,0.0
+MIX797,60984-57-8,60984-57-8,"N,N'-(Dithiodi-2,1-ethanediyl)bis(acrylamide) [N,N'-Bis(acryloyl)cystamine, BAC]",cas,True,0.0,0.0,0.0
+MIX798,7681-57-4,7681-57-4,Sodium metabisulfite (SMS),cas,True,2.0,2.0,2.0
+MIX799,7681-57-4,7681-57-4,Sodium metabisulfite (SMS),cas,True,2.0,2.0,2.0
+MIX8,26172-55-4,26172-55-4,5-Chloro-2-methyl-4-isothiazolin-3-one (CMIT),cas,True,0.0,0.0,0.0
+MIX80,1582-09-8,1582-09-8,Trifluralin,cas,True,1.0,1.0,1.0
+MIX800,110-80-5,110-80-5,2-Ethoxyethanol (Cellosolve),cas,True,1.0,1.0,1.0
+MIX801,7681-57-4,7681-57-4,Sodium metabisulfite,cas,True,2.0,2.0,2.0
+MIX802,7664-93-9,7664-93-9,Sulfuric acid (Oil of vitriol),cas,True,1.0,1.0,1.0
+MIX803,151-21-3,151-21-3,Sodium dodecyl sulfate,cas,True,2.0,2.0,2.0
+MIX804,7664-93-9,7664-93-9,Sulfuric acid,cas,True,1.0,1.0,1.0
+MIX805,7732-18-5,7732-18-5,Water,cas,True,0.0,0.0,0.0
+MIX806,9002-93-1,9002-93-1,Triton X-100 (Octoxynol-9),cas,True,2.0,2.0,2.0
+MIX807,7681-52-9,7681-52-9,Sodium hypochlorite,cas,True,0.0,0.0,0.0
+MIX808,"Access Dow's Safety Data Sheet (SDS) database and search by product name, grade, or trade product code.",,"Access Dow's Safety Data Sheet (SDS) database and search by product name, grade, or trade product code.",name,False,0.0,,0.0
+MIX809,2825-83-4,2825-83-4,"Tricyclo[5.2.1.0(2,6)]decane (parent hydrocarbon — NOT the actual ethyl ester product; provided for reference only, source mismatch)",cas,True,0.0,0.0,0.0
+MIX81,2634-33-5,2634-33-5,"1,2-Benzisothiazol-3(2H)-one",cas,True,0.0,0.0,0.0
+MIX810,72903-27-6,72903-27-6,"Diethyl 1,4-cyclohexanedicarboxylate (mixture of cis/trans isomers)",cas,True,0.0,0.0,0.0
+MIX811,556-48-9,556-48-9,"1,4-Cyclohexanediol, mixture of cis and trans",cas,True,0.0,0.0,0.0
+MIX812,191044-59-4,191044-59-4,"1-(3-isopropylphenyl)-1-phenylethane [Benzene, 1-(1-methylethyl)-3-(1-phenylethyl)-]",cas,True,1.0,1.0,1.0
+MIX813,104864-90-6,104864-90-6,"2-Methyl-4-(2,2,3-trimethyl-3-cyclopenten-1-yl)-4-penten-1-ol",cas,True,0.0,0.0,0.0
+MIX814,22094-85-5,22094-85-5,5-decylbicyclo[2.2.1]hept-2-ene (exo/endo isomer mixture),cas,True,0.0,0.0,0.0
+MIX815,MIX815,,,fid,False,,,
+MIX816,MIX816,,,fid,False,,,
+MIX817,224031-70-3,224031-70-3,1-(Spiro[4.5]dec-7-en-7-yl)pent-4-en-1-one / 1-(Spiro[4.5]dec-6-en-7-yl)pent-4-en-1-one (isomer mixture),cas,True,1.0,1.0,1.0
+MIX818,124-07-2,124-07-2,Octanoic acid (unverified - not present in this mismatched source),cas,True,1.0,1.0,1.0
+MIX819,124-07-2,124-07-2,Octanoic acid (unverified - not present in this mismatched source),cas,True,1.0,1.0,1.0
+MIX82,133-06-2,133-06-2,"Captan (N-trichloromethylthio-4-cyclohexene-1,2-dicarboximide)",cas,True,0.0,0.0,0.0
+MIX820,124-07-2,124-07-2,Octanoic acid,cas,True,1.0,1.0,1.0
+MIX821,7647-01-0,7647-01-0,Hydrochloric acid,cas,True,1.0,1.0,1.0
+MIX822,1344-09-8,1344-09-8,Sodium silicate,cas,True,0.0,0.0,0.0
+MIX823,461-58-5,461-58-5,Cyanoguanidine,cas,True,1.0,1.0,1.0
+MIX824,MIX824,,,fid,False,,,
+MIX825,75-21-8,75-21-8,Ethylene oxide,cas,True,1.0,1.0,1.0
+MIX826,75-21-8,75-21-8,Ethylene oxide,cas,True,1.0,1.0,1.0
+MIX827,75-21-8,75-21-8,Ethylene oxide,cas,True,1.0,1.0,1.0
+MIX828,1344-09-8,1344-09-8,Sodium Silicate,cas,True,0.0,0.0,0.0
+MIX829,68439-57-6,68439-57-6,Sodium C14-16 olefin sulfonate (AOS),cas,True,0.0,0.0,0.0
+MIX83,5915-41-3,5915-41-3,Terbutylazine,cas,True,2.0,2.0,2.0
+MIX830,69770-45-2,69770-45-2,Flumethrin,cas,True,0.0,0.0,0.0
+MIX831,105512-06-9,105512-06-9,Clodinafop-propargyl,cas,True,0.0,0.0,0.0
+MIX832,122008-85-9,122008-85-9,Cyhalofop-butyl,cas,True,0.0,0.0,0.0
+MIX833,107534-96-3,107534-96-3,Tebuconazole,cas,True,3.0,3.0,3.0
+MIX834,107534-96-3,107534-96-3,Tebuconazole,cas,True,1.0,1.0,1.0
+MIX835,107534-96-3,107534-96-3,Tebuconazole,cas,True,1.0,1.0,1.0
+MIX836,118-52-5,118-52-5,"1,3-Dichloro-5,5-dimethylhydantoin",cas,True,0.0,0.0,0.0
+MIX837,26225-79-6,26225-79-6,Ethofumesate (ISO),cas,True,0.0,0.0,0.0
+MIX838,26225-79-6,26225-79-6,Ethofumesate,cas,True,1.0,1.0,1.0
+MIX839,1312-76-1,1312-76-1,Potassium silicate <=100,cas,True,0.0,0.0,0.0
+MIX84,Captan,,Captan,name,False,0.0,,0.0
+MIX840,7732-18-5,7732-18-5,Water,cas,True,1.0,1.0,1.0
+MIX841,MIX841,,,fid,False,,,
+MIX842,111-76-2,111-76-2,2-Butoxyethanol,cas,True,0.0,0.0,0.0
+MIX843,MIX843,,,fid,False,,,
+MIX844,26225-79-6,26225-79-6,Ethofumesate,cas,True,0.0,0.0,0.0
+MIX845,52315-07-8,52315-07-8,Zeta-cypermethrin (F2700),cas,True,0.0,0.0,0.0
+MIX846,MIX846,,,fid,False,,,
+MIX847,188489-07-8,188489-07-8,Flufenpyr-ethyl,cas,True,0.0,0.0,0.0
+MIX848,MIX848,,,fid,False,,,
+MIX849,MIX849,,,fid,False,,,
+MIX85,52645-53-1,52645-53-1,Other Ingredients (trade secret),cas,False,0.0,0.0,1.0
+MIX850,107534-96-3,107534-96-3,Tebuconazole,cas,True,0.0,0.0,0.0
+MIX851,107534-96-3,107534-96-3,Tebuconazole,cas,True,0.0,0.0,0.0
+MIX852,107534-96-3,107534-96-3,Tebuconazole,cas,True,0.0,0.0,0.0
+MIX853,MIX853,,,fid,False,,,
+MIX854,MIX854,,,fid,False,,,
+MIX855,107534-96-3,107534-96-3,Tebuconazole,cas,True,0.0,0.0,0.0
+MIX856,115-95-7,115-95-7,"Linalyl acetate (ex bois de rose, synthetic)",cas,True,0.0,0.0,0.0
+MIX857,80-26-2,80-26-2,Terpinyl Acetate (mixture of isomers),cas,True,0.0,0.0,0.0
+MIX858,99-76-3,99-76-3,Methylparaben,cas,True,0.0,0.0,0.0
+MIX859,84775-41-7,84775-41-7,"Angelica Archangelica Seed Oil (Angelica seed oil, cold pressed)",cas,True,0.0,0.0,0.0
+MIX86,133-06-2,133-06-2,"Captan (N-[(trichloromethyl)thio]-4-cyclohexene-1,2-dicarboximide)",cas,True,0.0,0.0,0.0
+MIX860,4602-84-0,4602-84-0,Farnesol,cas,True,0.0,0.0,0.0
+MIX861,84650-59-9,84650-59-9,Anise Seed Oil (Anise Star Oil),cas,True,0.0,0.0,0.0
+MIX862,84775-41-7,84775-41-7,Angelica Archangelica Root Oil (Angelica Root CO2 Essential Oil),cas,True,0.0,0.0,0.0
+MIX863,8007-00-9,8007-00-9,"Tolu Balsam (natural resin) - main constituents: cinnamic acid esters, benzoic acid derivatives, vanillin, resins",cas,True,0.0,0.0,0.0
+MIX864,8031-03-6,8031-03-6,Mimosa absolute,cas,True,0.0,0.0,0.0
+MIX865,80-56-8,80-56-8,(+-)-alpha-Pinene,cas,True,0.0,0.0,0.0
+MIX866,64-17-5,64-17-5,Ethanol,cas,True,0.0,0.0,0.0
+MIX867,8001-88-5,8001-88-5,Birch tar Oil,cas,True,0.0,0.0,0.0
+MIX868,5989-27-5,5989-27-5,D-Limonene,cas,True,0.0,0.0,0.0
+MIX869,127-25-3,127-25-3,Methyl abietate (Methyl rosinate / Abalyn),cas,True,0.0,0.0,0.0
+MIX87,50723-80-3,50723-80-3,Inert Ingredients,cas,False,1.0,1.0,0.0
+MIX870,68611-23-4,68611-23-4,Grisalva (alicyclic ethers),cas,True,0.0,0.0,0.0
+MIX871,8007-47-4,8007-47-4,"Canada balsam, natural filtered",cas,True,0.0,0.0,0.0
+MIX872,MIX872,,,fid,False,,,
+MIX873,84012-24-8,84012-24-8,Oil of origanum (UVCB substance),cas,True,0.0,0.0,0.0
+MIX874,8024-05-3,8024-05-3,Tuberose absolute (Polianthes tuberosa L.),cas,True,0.0,0.0,0.0
+MIX875,8007-01-0,8007-01-0,Rose oil Bulgarian (Rosa damascena),cas,True,0.0,0.0,0.0
+MIX876,8007-01-0,8007-01-0,Rose (Maroc) Absolute (Rosa damascena Mill. flower oil),cas,True,0.0,0.0,0.0
+MIX877,8007-01-0,8007-01-0,Rose oil,cas,True,0.0,0.0,0.0
+MIX878,8023-85-6,8023-85-6,Artemisia absinthium oil extract (Grand Wormwood Oil),cas,True,0.0,0.0,0.0
+MIX879,8013-10-3,8013-10-3,Cade Oil Rectified,cas,True,3.0,3.0,3.0
+MIX88,82657-04-3,82657-04-3,Bifenthrin,cas,True,3.0,3.0,3.0
+MIX880,8007-01-0,8007-01-0,"Rose Oil Turkish (Rosa damascena, UVCB)",cas,True,0.0,0.0,0.0
+MIX881,7705-14-8,7705-14-8,Limonene,cas,True,0.0,0.0,0.0
+MIX882,8016-84-0,8016-84-0,Tagetes minuta var Essential oil,cas,True,0.0,0.0,0.0
+MIX883,80-56-8,80-56-8,alpha-Pinene,cas,True,0.0,0.0,0.0
+MIX884,470-82-6,470-82-6,"Cineoles (1,8-cineole / 1,4-cineole)",cas,True,0.0,0.0,0.0
+MIX885,8023-75-4,8023-75-4,Narcissus jonquilla absolute,cas,True,0.0,0.0,0.0
+MIX886,MIX886,,,fid,False,,,
+MIX887,107-75-5,107-75-5,Hydroxycitronellal,cas,True,0.0,0.0,0.0
+MIX888,68990-15-8,68990-15-8,Fenugreek Absolute (INCI: Trigonella Foenum-Graecum Seed Extract),cas,True,0.0,0.0,0.0
+MIX889,8021-29-2,8021-29-2,"Fir needle oil (Abies sibirica), whole essential oil",cas,True,0.0,0.0,0.0
+MIX89,13684-56-5,13684-56-5,Desmedipham (ISO); ethyl 3-phenylcarbamoyloxyphenylcarbamate,cas,True,0.0,0.0,0.0
+MIX890,127-91-3,127-91-3,ß-Pinene,cas,True,1.0,1.0,1.0
+MIX891,90045-89-9,90045-89-9,Orris Root Extract natural (Iris spp. root extract; perfumery trade term used interchangeably with 'Orris absolute'),cas,True,0.0,0.0,0.0
+MIX892,MIX892,,,fid,False,,,
+MIX893,140-11-4,140-11-4,Benzyl acetate,cas,True,0.0,0.0,0.0
+MIX894,8007-02-1,8007-02-1,"Lemongrass oil (SDS is for East Indian FCC grade, Cymbopogon flexuosus, not requested West Indian/Cymbopogon citratus) - 잠정치, 확정 아님",cas,True,0.0,0.0,0.0
+MIX895,MIX895,,,fid,False,,,
+MIX896,9000-24-2,9000-24-2,"Galbanum oil (essential oil, UVCB)",cas,True,0.0,0.0,0.0
+MIX897,8015-73-4,8015-73-4,"Basil oil (sweet, American type)",cas,True,0.0,0.0,0.0
+MIX898,8000-42-8,8000-42-8,Caraway oil,cas,True,0.0,0.0,0.0
+MIX899,"Castoreum (natural extract, tincture base; balance not individually itemized in Section 3)",,"Castoreum (natural extract, tincture base; balance not individually itemized in Section 3)",name,False,0.0,,0.0
+MIX9,330-54-1,330-54-1,Diuron,cas,True,2.0,2.0,2.0
+MIX90,67-63-0,67-63-0,Isopropanol -No,cas,True,0.0,0.0,0.0
+MIX900,64-17-5,64-17-5,Ethanol,cas,True,0.0,0.0,0.0
+MIX901,8023-88-9,8023-88-9,Costus root oil (Saussurea lappa),cas,True,0.0,0.0,0.0
+MIX902,8007-20-3,8007-20-3,Cedar Leaf Eastern Essential Oil (Thuja occidentalis),cas,True,0.0,0.0,0.0
+MIX903,8015-90-5,8015-90-5,Celery Seed Oil,cas,True,0.0,0.0,0.0
+MIX904,8016-88-4,8016-88-4,Estragon (Tarragon) Oil,cas,True,0.0,0.0,0.0
+MIX905,8002-66-2,8002-66-2,"Oil of Chamomile, German/Blue (Matricaria chamomilla / Oleum Chamomillae)",cas,True,0.0,0.0,0.0
+MIX906,8007-08-7,8007-08-7,Ginger oil (Zingiber officinalis extract),cas,True,0.0,0.0,0.0
+MIX907,84649-86-5,84649-86-5,Organic Chamomile Essential Oil - Roman (Anthemis nobilis flower oil),cas,True,0.0,0.0,0.0
+MIX908,8007-80-5,8007-80-5,Cassia Essential Oil (Cinnamomum Cassia Leaf Oil),cas,True,0.0,0.0,0.0
+MIX909,8016-26-0,8016-26-0,Cistus Absolute,cas,True,0.0,0.0,0.0
+MIX91,82657-04-3,82657-04-3,Bifenthrin,cas,True,0.0,0.0,0.0
+MIX910,4180-23-8,4180-23-8,trans-Anethole,cas,True,0.0,0.0,0.0
+MIX911,8007-02-1,8007-02-1,Lemongrass Oil,cas,True,0.0,0.0,0.0
+MIX912,8023-88-9,8023-88-9,Costus Oil,cas,True,0.0,0.0,0.0
+MIX913,84929-41-9,84929-41-9,Oil of pepper (natural),cas,True,0.0,0.0,0.0
+MIX914,470-82-6,470-82-6,"Eucalyptol (1,8-Cineole) - 10% 희석 제품(Freshskin) 기준, 원제 순수 Cardamom oil 데이터 아님(잠정치)",cas,True,0.0,0.0,0.0
+MIX915,84650-59-9,84650-59-9,Anise Seed Oil / Anise Star Oil,cas,True,0.0,0.0,0.0
+MIX916,76-22-2,76-22-2,Camphor,cas,True,0.0,0.0,0.0
+MIX917,8016-21-5,8016-21-5,Cognac Oil,cas,True,0.0,0.0,0.0
+MIX918,470-82-6,470-82-6,Cineols (major marker constituent of Cajeput/Melaleuca leucadendron oil),cas,True,0.0,0.0,0.0
+MIX919,105-87-3,105-87-3,Geranyl acetate,cas,True,0.0,0.0,0.0
+MIX92,82657-04-3,82657-04-3,Bifenthrin technical,cas,True,0.0,0.0,0.0
+MIX920,8008-51-3,8008-51-3,Cinnamomum Camphora Bark Oil (Camphor Essential Oil),cas,True,0.0,0.0,0.0
+MIX921,8007-06-5,8007-06-5,"Croton eluteria, oil (Cascarilla Bark Oil)",cas,True,0.0,0.0,0.0
+MIX922,8006-99-3,8006-99-3,Chenopodium oil (Oil of American wormseed),cas,True,0.0,0.0,0.0
+MIX923,68917-52-2,68917-52-2,Schinus Molle Oil (Pink Peppercorn Essential Oil),cas,True,0.0,0.0,0.0
+MIX924,8006-75-5,8006-75-5,Dillweed Oil (minimum 36% Carvone),cas,True,0.0,0.0,0.0
+MIX925,84961-64-8,84961-64-8,Oil of tansy,cas,True,0.0,0.0,0.0
+MIX926,8023-89-0,8023-89-0,Canarium Luzonicum (Elemi) Gum Oil,cas,True,0.0,0.0,0.0
+MIX927,75-05-8,75-05-8,Acetonitrile,cas,True,1.0,1.0,1.0
+MIX928,84625-39-8,84625-39-8,"Foeniculum Vulgare Oil (Fennel Bitter Essential Oil, Foeniculum vulgare Mill. var. amara)",cas,True,0.0,0.0,0.0
+MIX929,84775-39-3,84775-39-3,Acorus Calamus Root Oil (Calamus Root Essential Oil),cas,True,0.0,0.0,0.0
+MIX93,82657-04-3,82657-04-3,"Bifenthrin - 잠정치(8.8% SC 소스 기준, 원제품은 8% ME로 제형 자체가 다름)",cas,True,0.0,0.0,0.0
+MIX930,MIX930,,,fid,False,,,
+MIX931,8016-38-4,8016-38-4,Neroli Oil (Vigon Item #504212),cas,True,0.0,0.0,0.0
+MIX932,68916-09-6,68916-09-6,Flouve Oil (Holy Grass / Hierochloe odorata oil),cas,True,0.0,0.0,0.0
+MIX933,15358-88-0,15358-88-0,Isopinocamphone (3-Pinanone),cas,True,0.0,0.0,0.0
+MIX934,8012-89-3,8012-89-3,Beeswax Absolute,cas,True,0.0,0.0,0.0
+MIX935,MIX935,,,fid,False,,,
+MIX936,131812-67-4,131812-67-4,Eau de brouts absolute (bitter orange 'brouts' distillation water extract),cas,True,0.0,0.0,0.0
+MIX937,8016-03-3,8016-03-3,Davana Oil (Artemisia pallens essential oil),cas,True,0.0,0.0,0.0
+MIX938,MIX938,,,fid,False,,,
+MIX939,90045-56-0,90045-56-0,Helichrysum Italicum Flower Oil (Helichrysum organic essential oil),cas,True,0.0,0.0,0.0
+MIX94,82657-04-3,82657-04-3,Bifenthrin (Bifenithrin technical),cas,True,0.0,0.0,0.0
+MIX940,8008-79-5,8008-79-5,Spearmint India Organic Oil (Mentha spicata L.),cas,True,0.0,0.0,0.0
+MIX941,8013-76-1,8013-76-1,Almond Oil Bitter,cas,True,0.0,0.0,0.0
+MIX942,8008-46-6,8008-46-6,Myrtle Oil (Myrtus communis L.),cas,True,0.0,0.0,0.0
+MIX943,8007-69-0,8007-69-0,Sweet Almond Oil,cas,True,0.0,0.0,0.0
+MIX944,90082-61-4,90082-61-4,"Perilla Ocymoides Seed Oil (Perilla Seed Oil, Cold Pressed)",cas,True,0.0,0.0,0.0
+MIX945,8006-80-2,8006-80-2,"Sassafras oil, natural (Oil of Sassafras / Oils, Ocotea Pretiosa)",cas,True,0.0,0.0,0.0
+MIX946,8013-76-1,8013-76-1,Bitter almond oil (Bitter Almond Oil Natural (DEA)),cas,True,0.0,0.0,0.0
+MIX947,Cassie Absolute (Acacia Farnesiana Absolute / Mimosa Absolute),,Cassie Absolute (Acacia Farnesiana Absolute / Mimosa Absolute),name,False,0.0,,0.0
+MIX948,85251-66-7,85251-66-7,Birch Sweet Essential Oil (Betula lenta),cas,True,0.0,0.0,0.0
+MIX949,458-37-7,458-37-7,Curcuma longa Root Oil (Curcuma Essential Oil),cas,True,0.0,0.0,0.0
+MIX95,90-43-7,90-43-7,2-Phenylphenol,cas,True,3.0,3.0,3.0
+MIX950,7540-51-4,7540-51-4,"Beta-citronellol, (S)-",cas,True,0.0,0.0,0.0
+MIX951,91722-69-9,91722-69-9,"Lavandin Oil (Lavender, Lavandula hybrida, ext.)",cas,True,0.0,0.0,0.0
+MIX952,8016-85-1,8016-85-1,Citrus Reticulata Peel Oil (Tangerine Oil),cas,True,0.0,0.0,0.0
+MIX953,MIX953,,,fid,False,,,
+MIX954,90028-03-8,90028-03-8,"Anethum Graveolens Seed Oil (Dill Seed Oil, Indian)",cas,True,0.0,0.0,0.0
+MIX955,97-53-0,97-53-0,Eugenol,cas,True,0.0,0.0,0.0
+MIX956,8015-77-8,8015-77-8,Bois-De-Rose Oil,cas,True,0.0,0.0,0.0
+MIX957,8000-34-8,8000-34-8,Clove Oil,cas,True,0.0,0.0,0.0
+MIX958,MIX958,,,fid,False,,,
+MIX959,470-82-6,470-82-6,Eucalyptol,cas,True,0.0,0.0,0.0
+MIX96,2008-39-1,2008-39-1,"2,4-D dimethylamine salt",cas,True,1.0,1.0,1.0
+MIX960,8016-68-0,8016-68-0,Summer Savory Oil (Satureja hortensis),cas,True,0.0,0.0,0.0
+MIX961,1222-05-5,1222-05-5,"Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl- (Galaxolide-type musk)",cas,True,0.0,0.0,0.0
+MIX962,72968-50-4,72968-50-4,"Petitgrain Oil, Paraguay (Citrus aurantium)",cas,True,0.0,0.0,0.0
+MIX963,180287-43-8,180287-43-8,"Callitris Intratropica Wood Oil (Blue Cypress Oil, whole)",cas,True,0.0,0.0,0.0
+MIX964,119-84-6,119-84-6,Dihydrocoumarin,cas,True,0.0,0.0,0.0
+MIX965,8013-97-6,8013-97-6,Copaiba oil,cas,True,0.0,0.0,0.0
+MIX966,112-45-8,112-45-8,Undecylenic aldehyde,cas,True,0.0,0.0,0.0
+MIX967,8016-23-7,8016-23-7,Guaiacwood oil,cas,True,0.0,0.0,0.0
+MIX968,111-80-8,111-80-8,Methyl non-2-ynoate (Methyl 2-nonynoate),cas,True,0.0,0.0,0.0
+MIX969,8007-00-9,8007-00-9,Peru Balsam Oil,cas,True,0.0,0.0,0.0
+MIX97,1918-00-9,1918-00-9,Dicamba,cas,True,2.0,2.0,2.0
+MIX970,84238-29-9,84238-29-9,Vetiveria Zizanioides (Vetiver) Root Oil,cas,True,0.0,0.0,0.0
+MIX971,78-70-6,78-70-6,Linalool,cas,True,0.0,0.0,0.0
+MIX972,89997-74-0,89997-74-0,Labdanum Resinoid (natural complex resin extract of Cistus ladanifer),cas,True,0.0,0.0,0.0
+MIX973,8013-99-8,8013-99-8,Pennyroyal Oil,cas,True,0.0,0.0,0.0
+MIX974,8016-36-2,8016-36-2,Olibanum Resinoid,cas,True,0.0,0.0,0.0
+MIX975,562-74-3,562-74-3,Terpinen-4-ol,cas,True,0.0,0.0,0.0
+MIX976,"Jasmonyl (1,3-Nonanediol acetate, mixed esters / Jasmonate)",,"Jasmonyl (1,3-Nonanediol acetate, mixed esters / Jasmonate)",name,False,0.0,,0.0
+MIX977,8015-91-6,8015-91-6,Cinnamon Bark Oil (Cinnamomum verum / Ceylon Cinnamon Oil),cas,True,0.0,0.0,0.0
+MIX978,115-95-7,115-95-7,Linalyl acetate (Natural),cas,True,0.0,0.0,0.0
+MIX979,8002-68-4,8002-68-4,Juniper Berry Oil,cas,True,0.0,0.0,0.0
+MIX98,2008-39-1,2008-39-1,"2,4-D dimethylamine salt",cas,True,4.0,4.0,4.0
+MIX980,8014-13-9,8014-13-9,Cumin Oil,cas,True,0.0,0.0,0.0
+MIX981,84837-04-7,84837-04-7,Spike Lavender oil,cas,True,0.0,0.0,0.0
+MIX982,8007-00-9,8007-00-9,Peru Balsam Oil,cas,True,0.0,0.0,0.0
+MIX983,8000-27-9,8000-27-9,Cedarwood Oil (Virginia),cas,True,0.0,0.0,0.0
+MIX984,77-54-3,77-54-3,Cedryl acetate,cas,True,0.0,0.0,0.0
+MIX985,61789-17-1,61789-17-1,Guaiac wood acetate,cas,True,0.0,0.0,0.0
+MIX986,5989-27-5,5989-27-5,D-Limonene,cas,True,0.0,0.0,0.0
+MIX987,106-24-1,106-24-1,Geraniol,cas,True,0.0,0.0,0.0
+MIX988,MIX988,,,fid,False,,,
+MIX989,84929-51-1,84929-51-1,Thymus Vulgaris Oil (Thyme Red essential oil),cas,True,0.0,0.0,0.0
+MIX99,33089-61-1,33089-61-1,Amitraz,cas,True,3.0,3.0,3.0
+MIX990,91-64-5,91-64-5,Coumarin,cas,True,0.0,0.0,0.0
+MIX991,9000-45-7,9000-45-7,Commiphora Myrrha (Myrrh essential oil),cas,True,0.0,0.0,0.0
+MIX992,76-22-2,76-22-2,Camphor,cas,True,0.0,0.0,0.0
+MIX993,127-91-3,127-91-3,Beta-Pinene,cas,True,0.0,0.0,0.0
+MIX994,115-95-7,115-95-7,Linalyl acetate (Natural),cas,True,0.0,0.0,0.0
+MIX995,5989-27-5,5989-27-5,D-Limonene,cas,True,0.0,0.0,0.0
+MIX996,89-78-1,89-78-1,Menthol,cas,True,0.0,0.0,0.0
+MIX997,68990-83-0,68990-83-0,Cedarwood Oil,cas,True,0.0,0.0,0.0
+MIX998,9000-12-8,9000-12-8,Copaiba officinalis Resin,cas,True,0.0,0.0,0.0
+MIX999,120-51-4,120-51-4,Benzyl Benzoate,cas,True,0.0,0.0,0.0

@@ -1,0 +1,35 @@
+{
+  "source_id": "92a9be9222554c1f",
+  "file_path": "ingredient_source_audit/highlighted/92a9be9222554c1f_highlighted.pdf",
+  "page_count": 7,
+  "full_text_length": 8861,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Section 1: Chemical Product",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "Section 1: Chemical Product and Company Identification \n \nSection 1: Chemical Product  \nProduct Name : OIL OF CELERY SEED \nCAS#: 8015-90-5 \nC.I. No.: Not available. \nSynonym :  \nChemical Name: Not available. \nChemical Formula: Not available. \n \nBrand: OXFORD \n \n \nDetails Of The Supplier Of The Safet"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "Section 2: "
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

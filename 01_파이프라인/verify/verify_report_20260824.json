@@ -1,0 +1,428 @@
+{
+ "성분": {
+  "total": 5287,
+  "tally": {
+   "검증완료": 3604,
+   "재검토필요": 1359,
+   "정보없음": 5,
+   "제외": 218,
+   "미확인": 101
+  },
+  "method_tally": {
+   "rule": 3182,
+   "human": 1624,
+   "human(규칙불일치)": 481
+  },
+  "n_conflicts": 481,
+  "conflicts_sample": [
+   {
+    "row": 2656,
+    "product_name": "CruiserMaxx Cereals",
+    "human": "검증완료",
+    "rule": "재검토필요",
+    "rule_why": "추출정보 공란인데 메모만 있음 — 결론 미기재"
+   },
+   {
+    "row": 2661,
+    "product_name": "CruiserMaxx Cereals",
+    "human": "검증완료",
+    "rule": "재검토필요",
+    "rule_why": "CAS 체크디짓 불통과(70630-17-0 & 69516-34-3)"
+   },
+   {
+    "row": 2694,
+    "product_name": "Densil CA",
+    "human": "검증완료",
+    "rule": "재검토필요",
+    "rule_why": "CAS 체크디짓 불통과(-)"
+   },
+   {
+    "row": 2695,
+    "product_name": "Densil CA",
+    "human": "검증완료",
+    "rule": "재검토필요",
+    "rule_why": "추출정보 공란인데 메모만 있음 — 결론 미기재"
+   },
+   {
+    "row": 2696,
+    "product_name": "Densil CA",
+    "human": "검증완료",
+    "rule": "재검토필요",
+    "rule_why": "추출정보 공란인데 메모만 있음 — 결론 미기재"
+   },
+   {
+    "row": 2717,
+    "product_name": "Diflubenzuron VC-90",
+    "human": "정보없음",
+    "rule": "검증완료",
+    "rule_why": "CAS 체크디짓 통과·참조일치 ; 성분명 상이(참조=Molecular Weight: 310.68 / 추출=Diflubenzuron) — 정정으로 간주 ; 함량 확보"
+   },
+   {
+    "row": 2728,
+    "product_name": "DPX-X4145 50WG Water-Dispersible Granule Formulation",
+    "human": "재검토필요",
+    "rule": "검증완료",
+    "rule_why": "CAS 체크디짓 통과·참조일치 ; 성분명 부분일치 ; 함량 확보"
+   },
+   {
+    "row": 2729,
+    "product_name": "Dinotefuran Injectable",
+    "human": "재검토필요",
+    "rule": "검증완료",
+    "rule_why": "CAS 체크디짓 통과·참조일치 ; 성분명 부분일치 ; 함량 확보"
+   },
+   {
+    "row": 2730,
+    "product_name": "Drexel Suffa-8",
+    "human": "재검토필요",
+    "rule": "검증완료",
+    "rule_why": "CAS 체크디짓 통과·참조없음 ; 성분명 부분일치 ; 함량 확보"
+   },
+   {
+    "row": 2735,
+    "product_name": "Dinotefuron 10SL",
+    "human": "재검토필요",
+    "rule": "검증완료",
+    "rule_why": "CAS 체크디짓 통과·참조일치 ; 성분명 참조일치 ; 함량 확보"
+   },
+   {
+    "row": 2753,
+    "product_name": "DuPont Lannate IV Insecticide",
+    "human": "재검토필요",
+    "rule": "검증완료",
+    "rule_why": "CAS 체크디짓 통과·참조없음 ; 성분명 참조일치 ; 함량 확보"
+   },
+   {
+    "row": 2761,
+    "product_name": "Durivo Insecticide",
+    "human": "검증완료",
+    "rule": "재검토필요",
+    "rule_why": "추출정보 공란인데 메모만 있음 — 결론 미기재"
+   },
+   {
+    "row": 2762,
+    "product_name": "Durivo Insecticide",
+    "human": "검증완료",
+    "rule": "재검토필요",
+    "rule_why": "추출정보 공란인데 메모만 있음 — 결론 미기재"
+   },
+   {
+    "row": 2763,
+    "product_name": "Durivo Insecticide",
+    "human": "검증완료",
+    "rule": "재검토필요",
+    "rule_why": "CAS 체크디짓 불통과(-)"
+   },
+   {
+    "row": 2775,
+    "product_name": "Dynasty Extreme",
+    "human": "재검토필요",
+    "rule": "검증완료",
+    "rule_why": "메모: 부실출처를 진단 후 신규 출처로 교체 완료 ; CAS 체크디짓 통과·참조없음 ; 성분명 참조일치 ; 함량 확보"
+   },
+   {
+    "row": 2778,
+    "product_name": "Dynasty Extreme",
+    "human": "재검토필요",
+    "rule": "검증완료",
+    "rule_why": "메모: 부실출처를 진단 후 신규 출처로 교체 완료 ; CAS 체크디짓 통과·참조없음 ; 성분명 참조일치 ; 함량 확보"
+   },
+   {
+    "row": 2779,
+    "product_name": "Dynasty Extreme",
+    "human": "재검토필요",
+    "rule": "검증완료",
+    "rule_why": "메모: 부실출처를 진단 후 신규 출처로 교체 완료 ; CAS 체크디짓 통과·참조일치 ; 성분명 참조일치 ; 함량 확보"
+   },
+   {
+    "row": 2824,
+    "product_name": "ENS-010A",
+    "human": "검증완료",
+    "rule": "재검토필요",
+    "rule_why": "추출정보 공란 + 메모 사유=source_fail (출처 실패/제품 불일치)"
+   },
+   {
+    "row": 2825,
+    "product_name": "ENS-010A",
+    "human": "검증완료",
+    "rule": "재검토필요",
+    "rule_why": "추출정보 공란 + 메모 사유=source_fail (출처 실패/제품 불일치)"
+   },
+   {
+    "row": 2826,
+    "product_name": "ENS-010A",
+    "human": "검증완료",
+    "rule": "재검토필요",
+    "rule_why": "추출정보 공란 + 메모 사유=source_fail (출처 실패/제품 불일치)"
+   },
+   {
+    "row": 2827,
+    "product_name": "ENS-010A",
+    "human": "검증완료",
+    "rule": "재검토필요",
+    "rule_why": "추출정보 공란 + 메모 사유=source_fail (출처 실패/제품 불일치)"
+   },
+   {
+    "row": 2833,
+    "product_name": "EH-1479 Herbicide",
+    "human": "검증완료",
+    "rule": "재검토필요",
+    "rule_why": "추출정보 공란 + 메모 사유=source_fail (출처 실패/제품 불일치)"
+   },
+   {
+    "row": 2841,
+    "product_name": "E-Scape Turf & Ornamental Fungicide, Muscle ADV",
+    "human": "검증완료",
+    "rule": "재검토필요",
+    "rule_why": "추출정보 공란인데 메모만 있음 — 결론 미기재"
+   },
+   {
+    "row": 2844,
+    "product_name": "ET-005",
+    "human": "검증완료",
+    "rule": "재검토필요",
+    "rule_why": "추출정보 공란인데 메모만 있음 — 결론 미기재"
+   },
+   {
+    "row": 2845,
+    "product_name": "ET-005",
+    "human": "검증완료",
+    "rule": "재검토필요",
+    "rule_why": "추출정보 공란인데 메모만 있음 — 결론 미기재"
+   },
+   {
+    "row": 2847,
+    "product_name": "ET-751",
+    "human": "검증완료",
+    "rule": "재검토필요",
+    "rule_why": "추출정보 공란 + 메모 사유=source_fail (출처 실패/제품 불일치)"
+   },
+   {
+    "row": 2860,
+    "product_name": "Evercide Total Release Fogger",
+    "human": "검증완료",
+    "rule": "재검토필요",
+    "rule_why": "추출정보 공란 + 메모 사유=source_fail (출처 실패/제품 불일치)"
+   },
+   {
+    "row": 2861,
+    "product_name": "Evercide Total Release Fogger",
+    "human": "검증완료",
+    "rule": "재검토필요",
+    "rule_why": "추출정보 공란 + 메모 사유=source_fail (출처 실패/제품 불일치)"
+   },
+   {
+    "row": 2862,
+    "product_name": "Evercide Total Release Fogger",
+    "human": "검증완료",
+    "rule": "재검토필요",
+    "rule_why": "추출정보 공란 + 메모 사유=source_fail (출처 실패/제품 불일치)"
+   },
+   {
+    "row": 2863,
+    "product_name": "EH-1488 Herbicide",
+    "human": "검증완료",
+    "rule": "재검토필요",
+    "rule_why": "CAS 체크디짓 불통과(-)"
+   }
+  ],
+  "n_excluded": 218,
+  "excluded_sample": [
+   {
+    "row": 2651,
+    "product_name": "Abamectin B1a",
+    "ingredient_name": "Abamectin (combination of avermectin B1a and 5-2.0)"
+   },
+   {
+    "row": 2652,
+    "product_name": "Abamectin B1a",
+    "ingredient_name": "Acetophenone 12-14"
+   },
+   {
+    "row": 2653,
+    "product_name": "Abamectin B1a",
+    "ingredient_name": "Methanol 0.1-0.3"
+   },
+   {
+    "row": 2654,
+    "product_name": "Abamectin B1a",
+    "ingredient_name": "Abamectin Component B1a"
+   },
+   {
+    "row": 2662,
+    "product_name": "CYFLU",
+    "ingredient_name": "Cyfluthrin 434.29 (3)-4123 4-(7)-1541"
+   },
+   {
+    "row": 2665,
+    "product_name": "Cymoxanil",
+    "ingredient_name": "Cymoxanil"
+   },
+   {
+    "row": 2666,
+    "product_name": "Cypermethrin(96.7%)",
+    "ingredient_name": "Synonyms : cypermethrin,Cypermethrin, High Effect"
+   },
+   {
+    "row": 2667,
+    "product_name": "Cyproconazole",
+    "ingredient_name": "Cyproconazole"
+   },
+   {
+    "row": 2715,
+    "product_name": "Dichloroprop-P",
+    "ingredient_name": ""
+   },
+   {
+    "row": 2716,
+    "product_name": "Dichloroprop-P",
+    "ingredient_name": "Dichloroprop-P"
+   },
+   {
+    "row": 2731,
+    "product_name": "Dinotefuron(99%)",
+    "ingredient_name": "Dinotefuran"
+   },
+   {
+    "row": 2732,
+    "product_name": "Abamectin(92.8%)",
+    "ingredient_name": "Abamectin"
+   },
+   {
+    "row": 2766,
+    "product_name": "Abamectin(98%)",
+    "ingredient_name": "Name : Abamectin techn. min"
+   },
+   {
+    "row": 2767,
+    "product_name": "Abamectin(98%)",
+    "ingredient_name": "EC index no : 606"
+   },
+   {
+    "row": 2855,
+    "product_name": "Etoxazole(95.57%)",
+    "ingredient_name": "Etoxazole ≧％ C21H23F2NO2"
+   },
+   {
+    "row": 2880,
+    "product_name": "AE 0172747",
+    "ingredient_name": "Tembotrione"
+   },
+   {
+    "row": 2899,
+    "product_name": "Fenhexamid(95.5%)",
+    "ingredient_name": "Fenhexamid"
+   },
+   {
+    "row": 2912,
+    "product_name": "Emamectin Benzoate",
+    "ingredient_name": "emamectin benzoate"
+   },
+   {
+    "row": 2939,
+    "product_name": "Fluazinam",
+    "ingredient_name": "Fluazinam"
+   },
+   {
+    "row": 2978,
+    "product_name": "Acephate",
+    "ingredient_name": "mol"
+   },
+   {
+    "row": 2979,
+    "product_name": "Acephate",
+    "ingredient_name": "Index No"
+   },
+   {
+    "row": 2980,
+    "product_name": "Acephate",
+    "ingredient_name": "Acephate"
+   },
+   {
+    "row": 2984,
+    "product_name": "Flufenpyr-ethyl",
+    "ingredient_name": "Flufenpyr-ethyl"
+   },
+   {
+    "row": 2991,
+    "product_name": "Flumethrin(87.9%)",
+    "ingredient_name": ""
+   },
+   {
+    "row": 2992,
+    "product_name": "Flumethrin(87.9%)",
+    "ingredient_name": "Flumethrin"
+   },
+   {
+    "row": 2996,
+    "product_name": "Flumethrin(95.1%)",
+    "ingredient_name": ""
+   },
+   {
+    "row": 2997,
+    "product_name": "Flumethrin(95.1%)",
+    "ingredient_name": "Flumethrin"
+   },
+   {
+    "row": 2998,
+    "product_name": "Flumethrin(96.2%)",
+    "ingredient_name": ""
+   },
+   {
+    "row": 2999,
+    "product_name": "Flumethrin(96.2%)",
+    "ingredient_name": "Flumethrin"
+   },
+   {
+    "row": 3006,
+    "product_name": "Fluopyram",
+    "ingredient_name": "Fluopyram"
+   }
+  ]
+ },
+ "제형코드": {
+  "total": 1675,
+  "tally": {
+   "정보없음": 351,
+   "검증완료": 1321,
+   "재검토필요": 3
+  },
+  "method_tally": {
+   "rule": 1675
+  },
+  "n_conflicts": 0,
+  "conflicts_sample": [],
+  "n_excluded": 0,
+  "excluded_sample": []
+ },
+ "독성코드": {
+  "total": 1675,
+  "tally": {
+   "검증완료": 650,
+   "재검토필요": 1001,
+   "정보없음": 7,
+   "미확인": 17
+  },
+  "method_tally": {
+   "rule": 1675
+  },
+  "n_conflicts": 0,
+  "conflicts_sample": [],
+  "n_excluded": 0,
+  "excluded_sample": []
+ },
+ "특성": {
+  "total": 1675,
+  "tally": {
+   "검증완료": 1514,
+   "재검토필요": 161
+  },
+  "method_tally": {
+   "rule": 1675
+  },
+  "n_conflicts": 0,
+  "conflicts_sample": [],
+  "n_excluded": 0,
+  "excluded_sample": []
+ }
+}

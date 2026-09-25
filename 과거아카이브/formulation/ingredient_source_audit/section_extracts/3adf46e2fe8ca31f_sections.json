@@ -1,0 +1,37 @@
+{
+  "source_id": "3adf46e2fe8ca31f",
+  "file_path": "ingredient_source_audit/highlighted/3adf46e2fe8ca31f_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 14190,
+  "sections_found": [
+    "section_1",
+    "section_3",
+    "section_2",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "PRODUCT NAME: Deadline Bullets®; Deadline® M-Ps™; Deadline® T&O;",
+    "formulation_code": null,
+    "epa_reg_number": "5481-507",
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": "EPA",
+    "active_ingredient_declared": false,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION\nPRODUCT NAME: Deadline Bullets®; Deadline® M-Ps™; Deadline® T&O;\nDeadline® M-Ps™ Mini Pellets; Deadline® Ornamental \nGENERAL USE:  Mollusicide\nPRODUCT DESCRIPTION: Red, blue or buff colored pellets with a mild aldehyde\nodor\nEPA REGISTRATION NUMBER:   5481-507; 5481"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "carcinogenic"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "HAZARDS IDENTIFICATION\nPOTENTIAL HEALTH EFFECTS\nROUTE(S) OF ENTRY:  Typical routes of entry are skin or eye contact, ingestion of granules, and\ninhalation of dusts.\nSIGNS OF ACUTE OVEREXPOSURE: Based on animal toxicity information for metaldehyde,\nit is anticipated that this material would be harmfu"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

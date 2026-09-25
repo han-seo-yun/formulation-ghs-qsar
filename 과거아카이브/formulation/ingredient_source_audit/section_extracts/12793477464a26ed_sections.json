@@ -1,0 +1,71 @@
+{
+  "source_id": "12793477464a26ed",
+  "file_path": "ingredient_source_audit/highlighted/12793477464a26ed_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 10023,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product name",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION\n \nProduct name\n:\nFennel (Bitter) Essential Oil\n \nBotanical name\n:\nFoeniculum vulgare Mill. var. amara\n \nSynonyms\n:\nFennel, Foeniculum vulgare piperitum, oil\n \nINCI name\n:\nFoeniculum Vulgare Oil\n \nCAS #\n:\n84625-39-8/8006-84-6\n \nCountry of Origin\n:\nSpain\n \nEINECS #\n:"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H226",
+      "H304",
+      "H315",
+      "H317",
+      "H341",
+      "H351",
+      "H410"
+    ],
+    "p_codes": [
+      "P101",
+      "P202",
+      "P261",
+      "P262",
+      "P264",
+      "P272",
+      "P273",
+      "P280",
+      "P281",
+      "P301",
+      "P330",
+      "P331",
+      "P302",
+      "P352",
+      "P305",
+      "P351",
+      "P338",
+      "P308",
+      "P313",
+      "P332",
+      "P333",
+      "P362",
+      "P405",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Skin corrosion",
+      "Carcinogenicity"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 5,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION\n \nEmergency Overview\n \nGHS Classification\n \nFlammable liquids Hazard - Category 4\n \nAspiration Hazard - Category 1\n \nSkin corrosion/irritation Hazard - Category 2\n \nSkin sensitization - Category 1\n \nGerm cell mutagenicity Hazard- Category 2\n \nCarcinogenicity Hazard - Catego"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

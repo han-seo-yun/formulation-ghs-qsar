@@ -1,0 +1,19 @@
+{
+  "source_id": "b37b21d4ae86eac8",
+  "file_path": "ingredient_source_audit/highlighted/b37b21d4ae86eac8_highlighted.pdf",
+  "page_count": 13,
+  "full_text_length": 37559,
+  "sections_found": [
+    "label_header"
+  ],
+  "label_header": {
+    "epa_reg_number": null,
+    "formulation_code": "WG",
+    "signal_word": "CAUTION",
+    "active_ingredient_declared": true,
+    "text_excerpt": "UNITED STATES ENVIRONMENTAL PROTECTION AGENCY\nWashington, D.C. 20460\nOFFICE OF\nCHEMICAL SAFETY AND\nPOLLUTION PREVENTION\nGregory C. Mattern\nBayer Environmental Science \ncm 15\nP.O. Box 12014, 2 T.W. Alexander Drive \nf\nResearch Triangle Park, NC 27709\nSubject: \nLabel Amendment to make minor modificatio"
+  },
+  "fallback": {
+    "formulation_code": "WG"
+  }
+}

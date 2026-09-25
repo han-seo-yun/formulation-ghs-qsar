@@ -1,0 +1,50 @@
+{
+  "source_id": "0e63d8b5649724bb",
+  "file_path": "ingredient_source_audit/highlighted/0e63d8b5649724bb_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 17403,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "• Trade name:",
+    "formulation_code": "EC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": "01-2120762419-46-0000",
+    "registration_type": "REACH",
+    "active_ingredient_declared": false,
+    "text_excerpt": "1 Product identifier\n• Trade name:\nOAKMOSS ABSOLUTE LOW ATRANOL\n• Article number:\nF0724\n• CAS Number:\n9000-50-4\n• EC Number:\n289-861-3\n• No CAS EINECS:\n90028-68-5\n• Registration number\n01-2120762419-46-0000\n1.2 Relevant identified uses of the substance or mixture and uses advised against\nApplication"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H315",
+      "H319",
+      "H317"
+    ],
+    "p_codes": [
+      "P261",
+      "P264",
+      "P272",
+      "P280",
+      "P302",
+      "P352",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Eye Irrit. 2",
+      "Skin Sens. 1"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "Hazards identification\n2.1 Classification of the substance or mixture\n• Classification according to Regulation (EC) No 1272/2008\nGHS07\nSkin Irrit. 2 - H315 Causes skin irritation.\nEye Irrit. 2 - H319 Causes serious eye irritation.\nSkin Sens. 1B - H317 May cause an allergic skin reaction.\n2.2 Label e"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

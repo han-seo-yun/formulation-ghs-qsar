@@ -1,0 +1,1676 @@
+﻿Formulation_ID,product_name,n_y_conflict,y_conflict_rule,y_preferred,pred_rule,pred_preferred,pred_evidence
+Cancer_PID_1057,Xylenes (Mixed),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+Cancer_PID_108,AZT; 3TC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+Cancer_PID_12,3'-Azido-3'-Deoxythymidine (AZT); Lamivudine (3TC),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+Cancer_PID_13,3'-Azido-3'-Deoxythymidine (AZT); Lamivudine (3TC); Nelfinavir Mesylate (NFV),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+Cancer_PID_14,3'-Azido-3'-Deoxythymidine (AZT); Lamivudine (3TC); Nevirapine (NVP),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+Cancer_PID_141,Beta-nitrostyrene; Styrene,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+Cancer_PID_15,"3'-Azido-3'-deoxythymidine; 2',3'-Dideoxycytidine",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+Cancer_PID_159,Bis(2-chloro-1-methylethyl)ether (~70); 2-Chloro-1-methylethyl(2-chloropropyl)ether (~30),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+Cancer_PID_16,"3'-Azido-3'-deoxythymidine; 2',3'-Dideoxyinosine (AIDS Initiative)",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+Cancer_PID_6,"1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin; 1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+Cancer_PID_9,"2,4-Dinitrotoluene; 2,6-Dinitrotoluene",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+Cancer_PID_957,TEF evaluation (Binary mixture; PCB 126/PCB 153),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+Cancer_PID_958,TEF evaluation (Dioxin mixture),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+Cancer_PID_959,TEF Evaluation (PCB Mixture; PCB 126/PCB 118),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+Cancer_PID_97,"Asbestos, amosite; dimethyl hydrazine",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+Cancer_PID_98,"Asbestos, chrysotile(IR); dimethyl hydrazine",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+Cancer_PID_99,Aspirin; Phenacetin; Caffeine,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID10,"2,4-DP [(2,4-Dichlorophenoxy) propionic acid]",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID100,Atlantis Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1000,Tri-allate (#N/A),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1001,Trifloxysulfuron-sodium,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID1002,Triflurex HFP,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1004,Triticonazole Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1005,Troysan 680,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1007,Troysan V48,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1008,Tru-Core Millwork Preservative Concentrate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1009,TSS 75WG (CGA 362622 WG 75),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID101,Autumn Super 51 WDG Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1011,Tundra Max,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1012,Turfthor WP,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1013,UBI 4389,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1016,Ultrathion Insect Repellent,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1018,Unicorn Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1019,Up-Cyde Pro 2.0 EC Termiticide/Insecticide,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID102,Averthor Granular Ant Bait,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1020,UP-End Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1021,UPI Glyphosphate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1022,UPI Imidacloprid,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1023,US-LON-A,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1024,V-10116 3.7 FS,1,composition_mismatch,,composition_mismatch,,ICE활성 ['125116-23-6'] ∉ SDS성분 ['56-81-5']
+EyeIrritation6pack_PID1025,V-10116 VPP Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1026,V-10141 2.8 EC Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1027,V-10142 Herbicide,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID1028,V-10276  0.088 SL Insecticide/Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1029,V-10336 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID103,Avicta Complete Corn 250,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1031,Vapona Concentrate Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1032,VCP-01,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['82657-04-3'] ∉ SDS성분 ['0001317-65-3', '0014808-60-7', '0065997-15-1']"
+EyeIrritation6pack_PID1033,Velocity SG Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1034,Veriguard OD,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1037,Viper WP,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1038,Vitacon 100 Pro FS Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1039,Vitacon RTU FL Fungicide,0,,,composition_mismatch,,"ICE활성 ['125225-28-7', '5234-68-4', '57837-19-1'] ∉ SDS성분 ['11138-66-2', '56-81-5', '7732-18-5']"
+EyeIrritation6pack_PID104,Axial BIA Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1040,Voliam Flexi Insecticide,1,partial_composition,ntp,partial_composition,ntp,활성성분 부분일치 · 제품명 일치
+EyeIrritation6pack_PID1042,VOLIAM Xpress Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1043,Waterborne Milltreat 111 Concentrate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1044,Weld Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1045,Willowed Ethofumesate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1048,Wolman E (mu CA-C),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID105,Axial Star Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1050,WRC-13927-32-0,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1051,X-Cide 800 Biocide,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['104-55-2'] ∉ SDS성분 ['64-19-7', '7722-84-1', '79-21-0']"
+EyeIrritation6pack_PID1052,XDE-007 50% Concentrate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1053,XDE-175,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1054,XDE-742,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1055,XDE-PRDX,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['34256-82-1', '57754-85-5', '98967-40-9'] ∉ SDS성분 ['18080-67-6']"
+EyeIrritation6pack_PID1056,Xemium Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1059,Ygiene 206,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1060,Zampro Fungicide,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID1061,"Zoxamide (Dithane/RH-117,281 DG Blend 8:1)",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID1062,Zoxamide(95_100%),0,,,composition_mismatch,,ICE활성 ['156052-68-5'] ∉ SDS성분 ['471-46-5']
+EyeIrritation6pack_PID1064,"Zoxamide, 80 WP",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID107,Azoxystrobin 50 WG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID110,Bactron K-139,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID115,Banner Dry MAXX,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID116,BAS 320 I Pro Fire Ant Bait,0,,,composition_mismatch,,ICE활성 ['139968-49-3'] ∉ SDS성분 ['67485-29-4']
+EyeIrritation6pack_PID117,BAS 500 F Crystalline,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID118,BAS 500 F Manufacturing Use Product,0,,,composition_mismatch,,"ICE활성 ['175013-18-0'] ∉ SDS성분 ['1109-11-1', '121-79-9', '128-37-0', '137-66-6', '14306-25-3', '67762-90-7']"
+EyeIrritation6pack_PID119,BAS 510 02 F Turf Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID120,BAS 536 00 F Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID121,BAS 556 01 F Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID123,BAS 650 00 F Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID124,BAS 670 336SC Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID125,BAS 700 01 Fungicide,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['907204-31-3'] ∉ SDS성분 ['1332-58-7', '3347-22-6', '7783-20-2']"
+EyeIrritation6pack_PID126,BAS 703 01 F Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID127,BAS 703 02 F Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID128,BASF MCPP-P,2,composition_mismatch,,composition_mismatch,,"ICE활성 ['93-65-2'] ∉ SDS성분 ['112926-00-8', '137641-05-5', '2634-33-5', '40487-42-1', '52-51-7', '55965-84-9', '57-55-6', '68425-94-5']"
+EyeIrritation6pack_PID131,Bayocide Pour On Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID132,Bayonet 2,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID134,Bellacide 325 8-month,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID137,Bengal Dry Roach Spray,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID138,Bentazone,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID142,Betamix,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID143,Bifenthrin,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID144,Bifenthrin 0.069 Insecticide With X-X-X Fertilizer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID145,Bifenthrin 0.069 RU Insecticide With X-X-X Fertilizer,1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID146,Bifenthrin 0.073 Insecticide with X-X-X Fertilizer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID147,Bifenthrin 0.073 RU Insecticide with X-X-X Fertilizer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID148,Bifenthrin 0.083 Insecticide with X-X-X Fertilizer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID149,Bifenthrin 0.086% Plus Fertilizer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID150,Bifenthrin 0.2% Granular,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID151,Bifenthrin 8% ME,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID152,Bifenture 10WSB/10DF Insecticide/Miticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID153,Bifenture 17,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID154,Biflex 5T,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID155,Biflex SFR,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID157,Bioguard Spaguard Brominating Concentrate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID160,Bispyribac-sodium,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID167,Bonide Cyper WSP Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID168,Bonide Spinosad Dust,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID17,3336 70EG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID170,Boscalid,1,product_identical,sds,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID173,Bravo Top,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID175,Britz Dryout Dust,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID176,Bromuconazole(20%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID177,Bromuconazole(95.7%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID178,Bromuconazole(97.8%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID179,Bromuconazole(98.4%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID18,464-TEN/CANGUARD BIT 20 PRESERVATIVE,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID180,Bug Stomper II,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID182,Cabrio EG Funcgicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID186,Callisto Xtra,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID194,Captan 4L,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID195,Captan 80 WDG,1,product_identical,sds,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID196,Captevate 68 WDG,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID197,Capture 1.15G,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID205,Cavicide 1,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID213,Celsius WG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID214,Certifect for Dogs,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID217,Charger,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID218,Charter F3 Fungicide Seed Treatment,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID219,Chateau Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID220,Cheminova Abamectin,1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID221,Cheminova Nicosulfuron,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID222,Chemsico Aerosol LEG,0,,,composition_mismatch,,"ICE활성 ['23031-36-9', '90-43-7', '91465-08-6'] ∉ SDS성분 ['0000067-64-1', '0000106-97-8', '0001330-20-7']"
+EyeIrritation6pack_PID223,Chemsico Pesticide Concentrate WI-N,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID224,Chemsico Pesticide Concentrate WI-S,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID225,Chemsico Pesticide Granules WI-N,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID226,Chemsico Pesticide Granules WI-S,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID228,Chipco Brand Triton 70 WDG Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID229,Chlorine Bleach Sanitizer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID23,A12010C Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID231,Chlorothalonil FB,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID233,Chlorpyrifos VC,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID24,Abacus LoV Agricultural Miticide/Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID240,Clearcast 2.7G Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID241,Clincher CA,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID242,Cloak Ex Bulk Product,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID243,Cloak Ex Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID246,Clothiandin 600 FS,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID247,Clothianidin,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID251,Clutch 50 WDG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID252,Co-Ral 1% Dust,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID253,Co-Ral 25% Wettable Powder,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID254,Co-Ral 3% Spray Foam,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID255,Co-Ral 4% Pour-On,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID256,Co-Ral Emulsifiable Livestock Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID258,Consus Glyphosate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID263,Coronet Fungicide Seed Treatment,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID267,Coumaphos (#N/A),0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID269,CPPU Plant Growth Regulator,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID270,Cruiser XL,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID271,CruiserMaxx Cereals,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID272,CruiserMaxx Peanuts,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID273,CruiserMaxx Rice,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID274,Cryocide 20,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID275,CSI Imidacloprid + Fipronil SC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID276,CSI Lambda 25 CS,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID277,CTN E-PRO 720 Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID28,Abamectin B1a,0,,,composition_mismatch,,ICE활성 ['65195-55-3'] ∉ SDS성분 ['71751-41-2']
+EyeIrritation6pack_PID281,Cyazofamid Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID282,CYFLU,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID283,Cyflufenamid Fungicide,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID286,Cyhalothrin,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID287,Cymoxanil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID288,Cypermethrin(95%),1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID289,Cypermethrin(96.7%),0,,,composition_mismatch,,ICE활성 ['52315-07-8'] ∉ SDS성분 ['86753-92-6']
+EyeIrritation6pack_PID29,Abamectin B1b,0,,,composition_mismatch,,ICE활성 ['65195-56-4'] ∉ SDS성분 ['71751-41-2']
+EyeIrritation6pack_PID291,Cyproconazole,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID293,Cyprodinil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID298,DDVP 2-E Emulsifiable Concentrate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID299,Deadline Bullets,1,product_identical,sds,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID3,0.08% Mesotrione on Fertilizer,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID300,Deadly Attraction Permethrin Bait,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID301,Decis 1.0 Gel,2,composition_mismatch,,composition_mismatch,,ICE활성 ['52918-63-5'] ∉ SDS성분 ['872-05-9']
+EyeIrritation6pack_PID302,DeckMate Mosquito Repellent,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID303,DeerPro Winter Animal Repellant,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID306,Densil CA,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID31,Abamectin(92.8%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID310,Devrinol 2-EC Ornamental Herbicide,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID312,DEVRINOL 2-XT Selective Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID313,Devrinol 3.75 SC Selective Herbicide,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID314,Dichloroprop-P,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID316,Diflubenzuron VC-90,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID319,Dimethoate 400,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID32,Abamectin(98%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID321,Dinotefuran Injectable,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID323,Dinotefuron 10SL,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID324,Dinotefuron Ant Bait,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID325,Dinotefuron(99%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID326,Disarm G Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID327,Diuron 4L Liquid Flowable Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID328,Diuron Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID329,Domark 230 ME Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID330,Double Threat Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID332,DP210 Professional Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID333,DPX-E9636,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID343,Drexel Suffa-8,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID344,Drexel Sulfur 90W,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID345,Dropp SC Cotton Defoliant,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID347,DuPont Accent Q Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID348,DuPont Accent SC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID349,DuPont Approach Prima Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID350,DuPont Curzate 60DF,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID351,DuPont DPX-KJM44 80 MUP Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID352,DuPont DPX-KJM44 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID354,DuPont DPX-LEM17 50WDG Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID355,DuPont DPX-MAT28 0.05G Turf Herbicide + Fertilizer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID356,DuPont DPX-MAT28 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID358,DuPont Fontelis Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID360,DuPont Prequel Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID361,DuPont Prevathon Insect Control,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID362,DuPont Rynaxypyr,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID363,DuPont Steadfast Q Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID364,DuPont Treoris Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID365,DuPont Vertisan Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID366,Durham Metaldehyde Granules 3.5,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID367,Durivo Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID368,Dylox 420 SL,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID369,Dylox 9.3% Insect Granules,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID37,Absolute 500 SC Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID370,Dynasty Extreme,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+EyeIrritation6pack_PID371,"E-Scape Turf & Ornamental Fungicide, Muscle ADV",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID373,Echo 375/Cymoxaanil 50,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID375,Ecolife One-Pack,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID376,Effipro Topical Solution for Dogs,0,,,composition_mismatch,,"ICE활성 ['120068-37-3'] ∉ SDS성분 ['120068-37-7', '95737-68-1']"
+EyeIrritation6pack_PID377,EH-1446 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID378,EH-1479 Herbicide,0,,,composition_mismatch,,"ICE활성 ['2008-39-1', '2300-66-5', '84087-01-4', '97886-45-8'] ∉ SDS성분 ['104104-12-3']"
+EyeIrritation6pack_PID379,EH-1480 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID380,EH-1488 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID381,EH-1489 Broadleaf Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID382,EH-1534 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID383,EI-785 Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID386,Emamectin Benzoate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID390,Encartis Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID391,Endigo ZCX,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID392,ENS-010A,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID393,Envidor 2 SC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID396,ET-005,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID398,Ethephon 3# Plant Regulator,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID4,0.19% Mesotrione on Fertilizer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID40,Acephate,1,product_identical,sds,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID404,Ethofumesate(97.7%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID406,Ethoprop,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID408,Etoxazole(95.57%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID41,Acephate 90 DF Insecticide,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID411,Evercide Total Release Fogger,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID412,EX2108,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID413,F 9328-1EC Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID414,F4113 EW Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID417,F6141 EW Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID419,F8028-3 Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID42,Acequinocyl,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID420,Fanfare 2 SC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID422,Fenhexamid(95.4%),0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID426,Fenpropimorph,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID429,Fipronil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID43,Acetamiprid + Triticonazole Concentrate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID433,First Choice Foliar Supreme Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID434,Fitness Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID435,Flonicamid Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID437,"Flower, Rose, & Shrub Care II",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID438,Fluazasulfuron 25WG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID439,Fluazinam,1,product_identical,sds,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID44,Acetochlor,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID441,Fludioxonil(95.4%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID443,Flufenacet & Isoxaflutole SC Herbicide,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 일치
+EyeIrritation6pack_PID444,Flufenacet 500 SC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID445,Flufenpyr-ethyl,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID45,Acetochlor 3.1 + ATZ 2.5,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID456,Flumethrin(96.2),0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID457,Fluopicolide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID458,Fluopyram,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID459,Fluopyram + Prothioconazole 400,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID46,Acrobat 50WP Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID460,Fluopyram 500 SC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID462,Fluoxastrobin,0,,,composition_mismatch,,ICE활성 ['361377-29-9'] ∉ SDS성분 ['193740-76-0']
+EyeIrritation6pack_PID463,Flutolanil 40SC Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID464,Flutriafol,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID466,Folicur,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID467,Folicur 1. 2 emulsifiable concentrate(16.6),2,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID469,Folpan 80 WDG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID47,Acticide CBM,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+EyeIrritation6pack_PID471,Formula 2873,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID473,Fosetyl-Al,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID474,Fosthiazate 900EC (Nemathorin 500EC),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID475,Foundation Lite,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['137-26-8', '36734-19-7'] ∉ SDS성분 ['0008052-41-3', '0008052-42-4']"
+EyeIrritation6pack_PID476,Four-way VAP,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID477,FreeHand 1.75G Herbicide,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 일치
+EyeIrritation6pack_PID478,FujiMite 5 EC Miticide/Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID48,Acticide CBM 2,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID480,Fyfanon 57 EC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID481,GA 6-Weed and Grass Killer Ready-to-Use,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID486,GAT Lambda 25 CS,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID489,Geo Tru,0,,,composition_mismatch,,ICE활성 ['88-04-0'] ∉ SDS성분 ['109-66-0']
+EyeIrritation6pack_PID49,Acticide LA 2605-F,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID493,GF-1252,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['121451-02-3'] ∉ SDS성분 ['12001-26-2', '1309-64-4', '1314-13-2', '1317-65-3', '13463-67-7', '25085-50-1', '55185-45-0', '63449-39-8', '67-63-0', '69-72-7', '78-93-3', '9003-18-3']"
+EyeIrritation6pack_PID494,GF-1578 Naturalyte Insect Control,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID495,GF-1592 Naturalyte Insect Control,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID497,GF-1629 SC,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID498,GF-1640 WG-NC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID499,GF-184,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID5,0.25% Mesotrione on Fertilizer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID50,Acticide MKW1,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID500,GF-1983 Naturalyte Insect Control,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID501,GF-231,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID502,GF-2468,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID503,GF-2506,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID504,GF-2836,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID505,GF-2986,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID506,GF-3028,1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID507,GF-881 Manufacturing Use Concentrate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID508,Gharda Fipronil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID51,Acticide PM Industrial Mildewicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID511,Gharda Permethrin(94%),0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID512,Gharda Permethrin(95.3%),0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID514,Glyphosphate (96),0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID515,Glyphosphate (96.5),1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID516,Glyphosphate (97),2,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID519,Glyphosphate XG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID52,Acticide SR 8213 C,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID520,Gordon's Horse & Pony Spray,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID521,Graduate A+,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID523,Greenclean 6% Liquid,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID529,Harness Xtra Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID53,Adage Premier,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID530,Heat Powered by Kixor Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID533,Hero Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID535,HM-2010,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID536,HM-413A,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID538,Home Defense Max Perimeter Insect Killer Aerosol,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID54,Advantage Plus 20 for Dogs,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID540,Hurricane WDG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID546,IMA-Jet 10%,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID547,Imazosulfuron,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID548,Imdaclpoprid-Vitavax-Metalaxyl Seed Treatment,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID549,"Imidacloprid + Tau-fluvalinate + Tebuconazole Ready-to-Use Insecticide, Miticide and Fungicide",1,partial_composition,ntp,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+EyeIrritation6pack_PID55,AE 0172747,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID551,Imidan 60 WDG,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID553,INDOX2,0,,,composition_mismatch,,"ICE활성 ['173584-44-6', '52645-53-1'] ∉ SDS성분 ['104376-75-2', '178928-70-6', '2687-94-7', '98-86-2']"
+EyeIrritation6pack_PID554,Initium Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID555,Insecticide TD Granule,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID556,Intrepid 2F Agricultural Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID557,Ipconazole,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID558,Ipconazole Metalaxyl MD (S) Seed Treatment,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID559,Iprodione 4F Fungicide,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID560,Ironclad Herbicide,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['111991-09-4', '122931-48-0'] ∉ SDS성분 ['123-95-5', '64742-47-8', '64742-54-7', '8009-03-8', '8042-47-5']"
+EyeIrritation6pack_PID563,Jingma Glyphosate,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID567,Justice Insecticide,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['160430-64-8', '82657-04-3'] ∉ SDS성분 ['104-76-7', '1335202-81-7', '189278-12-4', '26264-06-2']"
+EyeIrritation6pack_PID568,Kaput Field Rodent Bait B,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID57,Affirm,1,composition_mismatch,,composition_mismatch,,ICE활성 ['71751-41-2'] ∉ SDS성분 ['7697-37-2']
+EyeIrritation6pack_PID570,Kendo 22.8 CS,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID571,Kilter Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID572,Kitchen Klenzer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID573,Kixor Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID574,Klean-Pik 500 SC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID578,Lambda Cyhalothrin 2,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID579,Lancer Gold Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID58,Agita 10 WG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID583,Larvin 500 Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID585,Larvin Insecticide (UC51762),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID59,Agita IGB Fly Bait,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID592,Lawn 3FL Herbicide Granule,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID593,Lawn 3FL Herbicide Ready-to-Use,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID594,Lawn 3FL2 Herbicide GR,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID600,LG Permethrin,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID601,Liberty 280 SL Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID602,Liberty ATZ Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID607,Lonza Formulation FC-600,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID608,Lonza Formulation R-82,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID61,Albaugh Glyphosphate Acid,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID610,LPI 6365-18 Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID616,M920 Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID618,Magnate,1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID62,Albaugh Trifluralin 10G,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID621,Mana 11201,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID626,Max Kill Dusta-Cide 6,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID627,Maxim MZ,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID628,Maxim Quattro,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 일치
+EyeIrritation6pack_PID629,MCM 437,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID631,MCSI Hydroprene Cockroack Killer Fogger,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID632,Mecoprop-P Acid,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID633,Medallion,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID635,Mefanoxam,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID639,Mesosulfuron-methyl,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID640,Mesotrione 28% Manufacturing Use Product,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID641,Mesotrione 50WG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID642,Metaflumizone(7.4%),1,product_identical,sds,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID643,Metaflumizone(88.7%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID645,Metarex 4% Snail and Slug Bait,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID65,Allectus SC Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID650,Metrafenone Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID651,Metribuzin + Flufenacet,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID652,Metsulfuron Methyl,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID654,Meymik 15G,1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID655,MGK 29461,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID656,MGK F-2862,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID657,MGK Fogging Concentrate 2922,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID658,MGK Formula 2960,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID659,MGK Formula 2976,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID660,MGK Formula 2980,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID661,Micromite 80WG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID663,Mitin FF Liquid,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID668,Molluscicide Mesurol 2% Bait,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID669,Mon 37500,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['141776-32-1'] ∉ SDS성분 ['110-54-3', '637-92-3', '64741-64-6', '64741-70-4']"
+EyeIrritation6pack_PID673,Mon 58494 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID674,Mon 8411,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID675,Mon 8434 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID676,Movento 240 SC Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID677,Multicide 28661,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID678,Multicide Crawling Insect Killer 28651,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID680,Mycostat BX2,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID684,MZ 75DF Agricultural Fungicide,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+EyeIrritation6pack_PID687,Nab Nicho Tech,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID689,Navigator 80WG Termticide/Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID690,Nemathorin 500EC,1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID691,Neo Chlor Spa Angel Tab,0,,,composition_mismatch,,"ICE활성 ['2893-78-9'] ∉ SDS성분 ['7732-18-5', '7758-19-2']"
+EyeIrritation6pack_PID692,Neporax 25G,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID694,NEU1171H,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['123-33-1', '84776-33-0'] ∉ SDS성분 ['107-98-2', '27253-31-2', '64742-48-9']"
+EyeIrritation6pack_PID695,NEUl l 71H RTU,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['123-33-1', '84776-33-0'] ∉ SDS성분 ['151-21-3']"
+EyeIrritation6pack_PID696,Nicosulfuron 40SC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID698,NipsIt Canola Suite Seed Protectant,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID699,NNI-0001,0,,,composition_mismatch,,ICE활성 ['272451-65-7'] ∉ SDS성분 ['7429-90-5']
+EyeIrritation6pack_PID70,Aloft GC SC Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID700,Norm 1,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID702,NTN 33893 75 WP-WS,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID704,NUP-06139 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID705,NUP-07003 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID707,NUP-12004 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID708,NUP06147,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID71,Aloft LC G Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID710,Nylar Total Release Aerosol 2644,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID716,Olympus Flex Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID717,Olympus Seed Treatment 3,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID718,Optigard Cockroach Bait,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID719,Optigard Liquid Ant Bait,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID722,Optill powered by Kixor Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID723,OR-X123,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['107534-96-3', '138261-41-3', '60207-90-1'] ∉ SDS성분 ['0000071-36-3', '0000100-41-4', '0000108-88-3', '0001330-20-7']"
+EyeIrritation6pack_PID726,ORD-X042,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID727,ORD-X170,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID728,ORD-X450,2,composition_mismatch,,composition_mismatch,,"ICE활성 ['107534-96-3'] ∉ SDS성분 ['55965-84-9', '7681-52-9', '9014-01-1']"
+EyeIrritation6pack_PID732,Orvego Fungicide,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID737,Pen 240FS,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID738,Penbotec,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID739,Penclo 273.5FS,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID740,Penclotrime 310.68 FS,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['141517-21-7', '210880-92-5', '494793-67-8', '57837-19-1'] ∉ SDS성분 ['71-36-3']"
+EyeIrritation6pack_PID741,Penflufen TC,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID743,Penoxsulam,1,product_identical,sds,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID744,Penpro 118FS,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID745,Penprome 177FS,0,,,composition_mismatch,,"ICE활성 ['178928-70-6', '494793-67-8', '57837-19-1'] ∉ SDS성분 ['52645-53-1']"
+EyeIrritation6pack_PID746,Penthiopyrad,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID747,Penthiopyrad 40 SC Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID748,Pentri 308FS,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID75,Ametryn,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID750,Permethrin,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID751,Permit Plus,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID756,Picoxystrobin,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID757,Pillar Granular Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID76,Amicarbazone Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID760,Pinoxaden,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID764,Platinum 75SG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID765,Polyphase 663,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID768,Precise Acephate,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID77,Aminopyralid,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID770,Prevamite,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID771,Preventol A14-D,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID772,Preventol BIT 20N,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID773,Preventol P 91,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID774,Proceed MD Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID776,Prodiamine/Diquat/Glyphosphate EW Manufacturing,1,partial_composition,ntp,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+EyeIrritation6pack_PID777,Prohexadione calcium(27.5%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID779,Propiconazole 0.51% Granular Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID78,Amitraz(12.5%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID780,Propiconazole(93%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID781,Prosper T400 Insecticide and Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID783,Prothioconazole Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID784,Provado 70 WG Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID788,Punjab Tebuconazole,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID79,Amitraz(98%),0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID790,Pursuit/Dimethenamide,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 일치
+EyeIrritation6pack_PID791,Pyraflufen-ethyl_ ET-751,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID792,Pyranha 1-10 PPC Concentrate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID793,Pyrasulfotole,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID794,Pyridalyl,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID795,Pyrocide Falcon 7452,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID796,Quadris Top,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 일치
+EyeIrritation6pack_PID797,Quali-Pro Enclave 5.3F,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID798,Quinoxyfen,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID799,Quinoxyfen Manufacturing Use Concentrate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID80,Amore DF,0,,,composition_mismatch,,"ICE활성 ['219714-96-2', '82558-50-7'] ∉ SDS성분 ['101-86-0', '10339-55-6', '105-87-3', '106-24-1', '107-75-5', '111879-80-2', '118-58-1', '1205-17-0', '121-33-5', '1222-05-5', '127-51-5', '13351-61-6', '18127-01-0', '24851-98-7', '2705-87-5', '28219-61-6', '31906-04-4', '54464-57-2', '5989-27-5', '6259-76-3', '63500-71-0', '65113-99-7', '78-70-6', '81782-77-6']"
+EyeIrritation6pack_PID800,Raid Ant & Roach Killer with Germ Kill CIK,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['51-03-6', '52645-53-1', '8003-34-7', '90-43-7'] ∉ SDS성분 ['23031-36-9', '5131-66-8', '52315-07-8', '64742-47-8', '68391-01-5', '74-98-6', '75-28-5', '85409-23-0']"
+EyeIrritation6pack_PID801,Raid Roach & Ant Killer IV Plus,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID802,Raid Roach & Ant Killer Plus,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID803,Rancona Xxtra,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID804,Ravap EC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID806,Rave Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID808,Raxil MD Extra Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID809,Raxil MD Extra W Seed Treatment,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID81,Amtide Tebuconazole 45 WDG Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID810,Reality 25,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID811,RebelEx,0,,,composition_mismatch,,"ICE활성 ['122008-85-9', '219714-96-2'] ∉ SDS성분 ['112945-52-5', '94-36-0']"
+EyeIrritation6pack_PID812,Regent 500TS Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID813,Regiment Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID814,Reldan F,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID815,Report Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID816,Reserve Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID817,Revus Opti,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID818,Revus Top,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID819,Ridomil Gold MZ WG,1,partial_composition,ntp,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+EyeIrritation6pack_PID822,Rocima 586,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID827,Rotam 2F Ornamental Insecticide,1,no_composition_data,ntp,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID828,Rotam Imidacloprid,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID829,ROTAM Methomyl 29LV Insecticide,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID830,Rotam Nicosulfuron,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID831,Rotam Tebuconazole,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID832,Rotam Thifensulfuron-methyl,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID833,Roval Brand 75 WG Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID834,Rugged Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID835,RWH 34,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID837,S-3153 WDG Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID838,S-Metolachlor & Mesotrione,1,partial_composition,ntp,partial_composition,ntp,활성성분 부분일치 · 제품명 일치
+EyeIrritation6pack_PID839,Safari 2 G Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID840,Safe-T green 18 Turf Fungicidal Nematicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID841,Safer Brand 3-in-1 Concentrate,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['7704-34-9', '8046-74-0'] ∉ SDS성분 ['8000-34-4', '8001-29-4']"
+EyeIrritation6pack_PID843,"Safer Brand Garden Fungicide, Insecticide & Miticide",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID844,Safer Garden Fungicide Ready to Use,1,composition_mismatch,,composition_mismatch,,ICE활성 ['7704-34-9'] ∉ SDS성분 ['947173-77-5']
+EyeIrritation6pack_PID852,Sativa,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID853,Sativa IMF Max,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID854,Sativa IMX Max,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['107534-96-3', '137-26-8', '138261-41-3', '57837-19-1'] ∉ SDS성분 ['118-65-0', '123-35-3', '127-91-3', '13474-59-4', '138-86-3', '2639-63-6', '3338-55-4', '3691-11-0', '3691-12-1', '3779-61-1', '470-82-6', '495-61-4', '502-61-4', '507-70-0', '555-10-2', '586-62-9', '6753-98-6', '78-70-6', '79-92-5', '80-56-8', '87-44-5', '98-55-5', '99-83-2', '99-85-4', '99-86-5']"
+EyeIrritation6pack_PID856,SC 480 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID857,Scala brand SC Pyrimenthanil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID86,Apogee,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID860,Scimitar GR Insecticide,1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID861,Scorpion Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID863,Secure Dry Insecticide,0,,,composition_mismatch,,"ICE활성 ['168316-95-8'] ∉ SDS성분 ['106-97-8', '134-62-3', '64-17-5', '75-28-5']"
+EyeIrritation6pack_PID865,Sedaxane,1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID866,Sedaxane 50FS A16148C,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID867,Senator 600 FS,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID868,Sergeants Fipronil + Etofenprox + Methoprene Spot-On for Cats,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID869,Sharda Glyphosate,2,composition_mismatch,,composition_mismatch,,"ICE활성 ['1071-83-6'] ∉ SDS성분 ['38641-94-0', '431040-31-2', '67952-32-3']"
+EyeIrritation6pack_PID87,Aproach Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID870,Sharpen powered by Kixor Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID871,Shelter Island Plus,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID873,Shield Herbicide,0,,,composition_mismatch,,"ICE활성 ['77182-82-2'] ∉ SDS성분 ['118-74-1', '57754-85-5']"
+EyeIrritation6pack_PID874,Shooter Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID875,Sigma Ecol HS Antifouling Paint,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID876,Silent,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID877,Smacker Bait,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID891,SOLIDA GRANDE Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID892,SP1037,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID893,SP5411,0,,,composition_mismatch,,"ICE활성 ['56425-91-3', '76738-62-0', '95266-40-3'] ∉ SDS성분 ['917-13-5']"
+EyeIrritation6pack_PID896,Spirodiclofen,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID897,Spirotetramet,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID899,Spiroxamine (KWG 4168),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID900,Splat-Mat ME,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID901,Sporgard WB,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID903,Starane NXT Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID905,"Storicide II Grain, Bin and Warehouse Insecticide",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID907,Strada XT,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID908,Stratego 731 Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID914,Sumione,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID915,Super K-Gro Malathion 50 Insect Spray,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID916,Superfine Wettable Sulphur,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID917,Supremacy Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID918,Suprend,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID919,SVP8,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID920,Swagger,0,,,composition_mismatch,,"ICE활성 ['138261-41-3', '82657-04-3'] ∉ SDS성분 ['872-50-4']"
+EyeIrritation6pack_PID922,Switch 62.5 WG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID923,SYN 1219 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID924,Synguard Multi G,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID926,T-Methyl G-Pro 50 WSB Fungicide,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID928,Tandem CS,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID932,TC-314,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['122453-73-0', '23031-36-9', '95737-68-1'] ∉ SDS성분 ['76-03-9']"
+EyeIrritation6pack_PID933,TC-317,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID934,TC-320,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID935,TC 218,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID936,TC 240,0,,,composition_mismatch,,"ICE활성 ['23031-36-9', '91465-08-6'] ∉ SDS성분 ['110-82-7', '68476-40-4']"
+EyeIrritation6pack_PID937,TC 246,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID938,TC 249,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID940,TC 281,1,composition_mismatch,,composition_mismatch,,ICE활성 ['131341-86-1'] ∉ SDS성분 ['124-68-5']
+EyeIrritation6pack_PID946,Tebuconazole 45 WP,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID951,Tebuconazole Fungicide(96.3%),0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID952,Tebuconazole Fungicide(97%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID953,Tebuconazole Fungicide(97.4%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID955,Tebuject 16,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID956,Techfilter,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID96,ARY 0452-110 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID960,Tempo 0.1 Granular Insecticide,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['68359-37-5'] ∉ SDS성분 ['112926-00-8', '14548-60-8', '1820573-27-0', '26172-55-4', '2682-20-4', '55965-84-9', '56-81-5']"
+EyeIrritation6pack_PID961,Terbuthylazine,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID962,Termidor Dry Termiticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID965,Tetrasan 5 WDG,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID966,Texan Glyphosate,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+EyeIrritation6pack_PID967,The Andersons 0.058% Bifenthrin + 0.115% Imidacloprid Insecticide with Fertilizer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID968,The Andersons 0.077% Bifenthrin + 0.155% Imidacloprid Granular Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID969,The Andersons 0.2% Imidacloprid Insecticide + Fertilizer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID970,The Andersons 3-Way Snowmold,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID971,The Andersons GC 0.058% Bifenthrin + 0.115% Imidacloprid Insecticide with Fertilizer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID972,The Andersons GC 0.077% Bifenthrin + 0.155% Imidacloprid Granular Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID974,Thidiazuron-Diuron SC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID976,Thiencarbazone-methyl,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+EyeIrritation6pack_PID977,Three-Way VAP,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['125225-28-7', '210880-92-5', '57837-19-1'] ∉ SDS성분 ['64742-94-5', '91-20-3', '95-63-6', '99129-21-2']"
+EyeIrritation6pack_PID978,Three Way Peanut Seed Treatment Fungicide,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['133-06-2', '141517-21-7', '57837-19-1'] ∉ SDS성분 ['131341-86-1', '131860-33-8', '56-81-5']"
+EyeIrritation6pack_PID979,THX/MXM/FDL CZ Insecticide with Fungicides,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID980,THX/MXM/FDL/TBZ FS,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID982,Tide Glyphosate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID983,Tital FL,0,,,composition_mismatch,,"ICE활성 ['137-26-8', '210880-92-5', '5234-68-4', '57837-19-1'] ∉ SDS성분 ['103-95-7', '10339-55-6', '105-87-3', '107-75-5', '115-95-7', '118-58-1', '1205-17-0', '1222-05-5', '127-51-5', '128-37-0', '18479-58-8', '24851-98-7', '54464-57-2', '55066-48-3', '58567-11-6', '5989-27-5', '63500-71-0', '67634-14-4', '78-70-6']"
+EyeIrritation6pack_PID985,Tolfenpyrad 15EC Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID986,Tombstone Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID988,Topguard Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID989,Topramezone 2.8 SC Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID990,Tops MZ-Curzate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID991,Topsin M 5G Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID992,Topsin M 70 WDG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID993,Touchdown Diquat Home and Garden Concentrate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID994,Touchdown Diquat Home and Garden Ready to Use,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID996,TPTH,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID997,Tradename for Dogs,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID998,Tradewind Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+EyeIrritation6pack_PID999,TREE-age,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1,0.08% Mesotrione on Fertilizer,1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX10,A12010C Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX100,Chipco Brand Triton 70 WDG Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1000,Fir balsam Oregon,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1001,Cubeb oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1002,Cedarwood oil Atlas,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1003,Linaloe wood oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1004,Gurjun oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1005,Pimenta berry oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1006,Olibanum absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1007,Myrrh absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1008,Petitgrain bigarade oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1009,Mace oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX101,Chlorine Bleach Sanitizer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1010,Bitter orange oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1011,Tangelo oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1012,Cananga oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1013,Litsea cubeba oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1014,Grapefruit oil expressed,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1015,Mastic absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1016,Ho leaf oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1017,Lemon oil distilled,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1018,Lemon oil expressed,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1019,Mentha citrata oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX102,Chlorothalonil Fungicide,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX1020,Rosemary oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1021,"Sandalwood oil, East Indian",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1022,Patchouly oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1023,Amyris oil acetylated,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1024,Bay oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1025,Vanilla tincture,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1026,Geranium oil bourbon,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1027,Methyl ester of rosin (partially hydrogenated),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1028,"Cinnamon leaf oil, Ceylon",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1029,Lemon petitgrain oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX103,Chlorpyrifos VC,1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX1030,Lavandin absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1031,Eucalyptus oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1032,Eucalyptus citriodora oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1033,"Fir needle oil, Canadian",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1034,Bois de rose acetylated,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1035,Geranium oil Moroccan,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1036,Pimenta leaf oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1037,Clove stem oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1038,Armoise oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1039,Geranium oil Algerian,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX104,Clearcast 2.7G Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1040,Genet absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1041,Laurel leaf oil European,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1042,Gurjun balsam,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1043,Pinus pumilio oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1044,Lavender absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1045,Pinus sylvestris oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1046,Wintergreen oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1047,Hibawood oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1048,Yarmor pine oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1049,Pinus nigra oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX105,Fludioxonil(97.5%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1050,Orange flower absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1051,Heptylidene methyl anthranilate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1052,Abies alba oil from cones,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1053,Iso-beta-ionone,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1054,Abies alba oil from needles,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1055,(+)-hydroxycitronellal,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1056,Santalyl acetate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1057,Ocotea cymbarum oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1058,(-)-hydroxycitronellal,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1059,Ale oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX106,Charter F3 Fungicide Seed Treatment,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1060,Lime oil distilled,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1061,Abies sachalinensis oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1062,Lavender oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1063,Camphor oil white,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1064,Abies sachalinensis oil + BHA,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1065,Krameria extract,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1066,Bergamot oil expressed,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1067,"N-(1,1-dimethylolethyl)mercaptoacetamide",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1068,N-trimethylolmethylmercaptoacetamide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1069,"Jasmin absolute (Egypt), mix",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX107,Clincher CA - CYHALOFOP-BUTYL,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1070,Bergamot oil rectified,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1071,Ambergris tincture,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1072,"Bitter fennel, mix",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1073,Costus oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1074,"Cinnamon bark oil, ""Ceylon mix""",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1075,Cinnamon bark oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1076,"Balsam peru, mix",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1077,Fluorinated graphite,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX1078,Etoxazole (S-1283),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX108,Cloak Ex Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX109,Chateau Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX11,Acticide SR 8213 C,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX110,Clodinafop 240 EC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX111,Cheminova Abamectin,1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX112,Clothiandin 600 FS,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX113,Cheminova Nicosulfuron,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX114,Clothianidin,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX115,Clutch 50 WDG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX116,Copper Oxide,0,,,composition_mismatch,,ICE활성 ['1317-39-1'] ∉ SDS성분 ['1317-38-0']
+MIX117,Co-Ral 1% Dust,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX118,CruiserMaxx Rice,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX119,Co-Ral 25% Wettable Powder,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX12,Abacus LoV Agricultural Miticide/Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX120,Co-Ral 3% Spray Foam,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX121,Co-Ral 4% Pour-On,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX122,Cryocide 20,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX123,Co-Ral Emulsifiable Livestock Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX124,CSI Imidacloprid + Fipronil SC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX125,Coronet Fungicide Seed Treatment,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX126,CSI Lambda 25 CS,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX127,CTN E-PRO 720 Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX128,DuPont Curzate 60DF,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX129,CPPU Plant Growth Regulator,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX13,Abamectin B1a,0,,,composition_mismatch,,ICE활성 ['65195-55-3'] ∉ SDS성분 ['71751-41-2']
+MIX130,Cyazofamid Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX131,CruiserMaxx Cereals,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX132,CYFLU,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX133,Cyflufenamid Fungicide,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX135,Cymoxanil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX136,Cypermethrin(96.7%),0,,,composition_mismatch,,ICE활성 ['52315-07-8'] ∉ SDS성분 ['86753-92-6']
+MIX137,Cyproconazole,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX138,Cruiser XL,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX139,DDVP 2-E Emulsifiable Concentrate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX14,Adage Premier,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX140,Deadline Bullets,1,product_identical,sds,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX141,Deadly Attraction Permethrin Bait,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX142,Decis 1.0 Gel,0,,,composition_mismatch,,ICE활성 ['52918-63-5'] ∉ SDS성분 ['872-05-9']
+MIX143,CruiserMaxx Peanuts,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX144,DeerPro Winter Animal Repellant,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX145,Densil CA,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX146,Desmedipham,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX147,Devrinol 2-EC Ornamental Herbicide,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX148,Devrinol 2-XT Selective Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX149,Devrinol 3.75 SC Selective Herbicide,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX15,Abamectin B1b,0,,,composition_mismatch,,ICE활성 ['65195-56-4'] ∉ SDS성분 ['71751-41-2']
+MIX150,Dichloroprop-P,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX151,Diflubenzuron VC-90,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX152,Dimethoate 400,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX153,DPX-LEM17 50WDG Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX154,Dimilin,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX155,DPX-MAT28 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX156,DPX-X4145 50WG Water-Dispersible Granule Formulation,0,,,composition_mismatch,,ICE활성 ['163520-33-0'] ∉ SDS성분 ['14208-10-7']
+MIX157,Dinotefuran Injectable,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX158,Drexel Suffa-8,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX159,Dinotefuron(99%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX16,Abamectin(92.8%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX160,Drexel Sulfur 90W,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX161,Dinotefuron 10SL,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX162,Dropp SC Cotton Defoliant,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX163,DuPont Approach Prima Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX164,Dupont DPX-KP481 50DF,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX165,DuPont Lannate IV Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX166,DuPont Prevathon Insect Control,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX167,Durham Metaldehyde Granules 3.5,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX168,Durivo Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX169,Dylox 420 SL,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX17,Abamectin(98%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX170,Dinotefuron Ant Bait,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX171,Dylox 9.3% Insect Granules,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX172,Diuron 4L Liquid Flowable Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX173,Dynasty Extreme,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+MIX174,Diuron Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX175,Echo 375/Cymoxaanil 50,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX176,Domark 230 ME Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX177,Double Threat Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX178,Ecolife One-Pack,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX179,DP210 Professional Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX18,Advantage Plus 20 for Dogs,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX180,DPX-E9636-36,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX181,DPX-KJM44 80 MUP Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX182,DPX-KJM44 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX183,Effipro Topical Solution for Dogs,0,,,composition_mismatch,,"ICE활성 ['120068-37-3'] ∉ SDS성분 ['120068-37-7', '95737-68-1']"
+MIX184,Encartis Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX185,EH-1446 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX186,Endigo ZCX,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX187,ENS-010A,0,,,composition_mismatch,,"ICE활성 ['138261-41-3'] ∉ SDS성분 ['10028-22-5', '7664-93-9', '7697-37-2']"
+MIX188,Envidor 2 SC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX189,EH-1479 Herbicide,0,,,composition_mismatch,,"ICE활성 ['2008-39-1', '2300-66-5', '84087-01-4', '97886-45-8'] ∉ SDS성분 ['104104-12-3']"
+MIX19,Absolute 500 SC Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX190,"E-Scape Turf & Ornamental Fungicide, Muscle ADV",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX191,ET-005,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX192,ET-751,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX193,Ethephon 3# Plant Regulator,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX194,Ethofumesate (#N/A),0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX195,Etoxazole(95.57%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX196,Evercide Total Release Fogger,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX197,EH-1488 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX198,F 9328-1EC Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX199,F4113 EW Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX2,Acetochlor,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX20,AE 0172747,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX200,F8028-3 Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX201,EH-1534 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX202,Fanfare 2 SC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX203,Fenhexamid(95.5%),0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX204,Fenpropimorph,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX205,First Choice Foliar Supreme Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX206,EI-785 Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX207,Fitness Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX208,Emamectin Benzoate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX209,Flonicamid Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX21,Accent SC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX210,"Flower, Rose, & Shrub Care II",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX211,Fluopyram 500 SC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX212,Fluoxastrobin,0,,,composition_mismatch,,ICE활성 ['361377-29-9'] ∉ SDS성분 ['193740-76-0']
+MIX213,Flutolanil 40SC Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX214,Fluazasulfuron 25WG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX215,Flutriafol,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX216,Folicur,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX217,Folicur 1. 2 emulsifiable concentrate(16.6),0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX218,Fluazinam,1,product_identical,sds,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX219,Folicur 1. 2 emulsifiable concentrate(93.4),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX22,Agita 10 WG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX220,Folpan 80 WDG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX221,DuPont Fontelis Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX222,Flufenacet & Isoxaflutole SC Herbicide,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 일치
+MIX223,Formula 2873,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX224,Formula 40 (XDE-225),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX225,Fosetyl-Al,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX226,Flufenacet 500 SC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX227,Foundation Lite,0,,,composition_mismatch,,"ICE활성 ['137-26-8', '36734-19-7'] ∉ SDS성분 ['0008052-41-3', '0008052-42-4']"
+MIX228,Four-way VAP,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX229,FreeHand 1.75G Herbicide,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 일치
+MIX23,Acephate,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX230,Fungitrol 11-50S,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX231,Fyfanon 57 EC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX232,Flufenpyr-ethyl,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX233,GA 6-Weed and Grass Killer Ready-to-Use,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX234,Flufenpyr-Ethyl-S-3153 WDG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX235,gamma-Cyhalothrin,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX236,Flumethrin(87.9%),0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX237,GAT Lambda 25 CS,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX238,Flumethrin(95.1%),0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX239,Flumethrin(96.2%),0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX24,Acephate 90 DF Insecticide,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX240,Fluopicolide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX241,Fluopyram,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX242,Fluopyram + Prothioconazole 400,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX243,Geo Tru,0,,,composition_mismatch,,ICE활성 ['88-04-0'] ∉ SDS성분 ['109-66-0']
+MIX244,Gharda Fipronil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX245,Gharda Permethrin(94%),0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX246,Gharda Permethrin(95.3%),1,product_identical,sds,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX247,GF-1252,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['121451-02-3'] ∉ SDS성분 ['12001-26-2', '1309-64-4', '1314-13-2', '1317-65-3', '13463-67-7', '25085-50-1', '55185-45-0', '63449-39-8', '67-63-0', '69-72-7', '78-93-3', '9003-18-3']"
+MIX248,Glyphosphate (96),0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX249,GF-1578 Naturalyte Insect Control,0,,,composition_mismatch,,"ICE활성 ['168316-95-8'] ∉ SDS성분 ['112926-00-8', '1332-58-7']"
+MIX25,Albaugh Glyphosphate Acid,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX250,Glyphosphate (97),0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX251,GF-1592 Naturalyte Insect Control,0,,,composition_mismatch,,ICE활성 ['168316-95-8'] ∉ SDS성분 ['57-55-6']
+MIX252,Glyphosphate XG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX253,Gordon's Horse & Pony Spray,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX254,GF-1629 SC,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX255,GF-1640 WG-NC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX256,GF-184,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX257,Graduate A+,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX258,Harness Xtra Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX259,GF-231,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX26,Acequinocyl,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX260,GF-2468,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX261,Hero Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX262,HM-2010,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX263,HM-413A,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX264,GF-2506,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX265,Home Defense Max Perimeter Insect Killer Aerosol,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX266,Hurricane WDG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX267,IMA-Jet 10%,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX268,GF-2836,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX269,Imazosulfuron,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX27,Albaugh Trifluralin 10G,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX270,Imdaclpoprid-Vitavax-Metalaxyl Seed Treatment,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX271,GF-2986,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX272,"Imidacloprid + Tau-fluvalinate + Tebuconazole Ready-to-Use Insecticide, Miticide and Fungicide",1,partial_composition,ntp,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+MIX273,GF-3028,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX274,Imidan 60 WDG,1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX275,INDOX2,0,,,composition_mismatch,,"ICE활성 ['173584-44-6', '52645-53-1'] ∉ SDS성분 ['104376-75-2', '178928-70-6', '2687-94-7', '98-86-2']"
+MIX276,GF-881 Manufacturing Use Concentrate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX277,Kaput Field Rodent Bait B,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX278,Kathon CF 400,0,,,composition_mismatch,,"ICE활성 ['26172-55-4', '2682-20-4'] ∉ SDS성분 ['12054-85-2', '1310-73-2', '1336-21-6', '13517-24-3', '7647-01-0', '7664-38-2', '7732-18-5']"
+MIX279,Initium Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX28,Acetamiprid + Triticonazole Concentrate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX280,Kendo 22.8 CS,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX281,Intrepid 2F Agricultural Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX282,Kilter Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX283,Ipconazole,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX284,Ipconazole Metalaxyl MD (S) Seed Treatment,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX285,Kitchen Klenzer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX286,Kixor Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX287,Lambda Cyhalothrin,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX288,Lancer Gold Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX289,Larvadex,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX29,Aldicarb 15% WG,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX290,Larvin 500 Thiodicarb Insecticede for Cotton,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX291,Lawn 3FL Herbicide Granule,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX292,Lawn 3FL2 Herbicide GR,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX293,Iprodione 4F Fungicide,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX294,Ironclad Herbicide,0,,,composition_mismatch,,"ICE활성 ['111991-09-4', '122931-48-0'] ∉ SDS성분 ['123-95-5', '64742-47-8', '64742-54-7', '8009-03-8', '8042-47-5']"
+MIX295,LG Permethrin,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX296,Jingma Glyphosate,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX297,Liberty 280 SL Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX298,Liberty ATZ Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX299,Justice Insecticide,0,,,composition_mismatch,,"ICE활성 ['160430-64-8', '82657-04-3'] ∉ SDS성분 ['104-76-7', '1335202-81-7', '189278-12-4', '26264-06-2']"
+MIX3,Acrobat 50WP Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX30,Allectus SC Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX300,Lonza Formulation R-82,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX301,MCPP-P,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX302,MCSI Hydroprene Cockroack Killer Fogger,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX303,Mecoprop-P Acid,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX304,Medallion,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX305,Mediclean Carpet Sanitizer,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+MIX306,Lonza Formulation FC-600,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX307,Mefenoxam,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX308,LPI 6365-18 Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX309,Mergal K10N,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX31,Autumn Super 51 WDG Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX310,Mesosulfuron-methyl,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX311,Lumax EZ Herbicide,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX312,Mesotrione 28% Manufacturing Use Product,1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX313,Mesotrione 50WG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX314,Metarex 4% Snail and Slug Bait,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX315,Metrafenone Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX316,Metribuzin + Flufenacet,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX317,M920 Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX318,Magnate,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX319,Metsulfuron Methyl,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX32,Averthor Granular Ant Bait,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX320,Mana 11201,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX321,MGK 29461,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX322,Max Kill Dusta-Cide 6,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX323,Maxim MZ,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX324,Maxim Quattro,1,partial_composition,ntp,partial_composition,ntp,활성성분 부분일치 · 제품명 일치
+MIX325,MGK F-2862,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX326,MGK Fogging Concentrate 2922,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX327,MCM 437,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX328,MGK Formula 2960,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX329,Mon 58416,0,,,composition_mismatch,,"ICE활성 ['121776-33-8', '1912-24-9', '34256-82-1'] ∉ SDS성분 ['532-43-4']"
+MIX33,Avicta Complete Corn 250,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX330,MGK Formula 2976,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX331,Mon 58494 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX332,MGK Formula 2980,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX333,Mon 8411,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX334,Mon 8434 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX335,Movento 240 SC Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX336,Multicide Crawling Insect Killer 28651,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX337,Micromite 80WG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX338,Mycostat BX2,1,no_composition_data,ntp,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX339,MZ 75DF Agricultural Fungicide,0,,,composition_mismatch,,"ICE활성 ['156052-68-5', '8018-01-7'] ∉ SDS성분 ['1332-58-7', '21087-64-9']"
+MIX34,Aloft GC SC Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX340,Nab Nicho Tech,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX341,Navigator 80WG Termticide/Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX342,Nemathorin 500EC,1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX343,Neo Chlor Spa Angel Tab,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['2893-78-9'] ∉ SDS성분 ['7732-18-5', '7758-19-2']"
+MIX344,Neporax 25G,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX345,NEU1171H,0,,,composition_mismatch,,"ICE활성 ['123-33-1', '84776-33-0'] ∉ SDS성분 ['107-98-2', '27253-31-2', '64742-48-9']"
+MIX346,Mitin FF Liquid,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX347,MKH 3586,0,,,composition_mismatch,,"ICE활성 ['129909-90-6'] ∉ SDS성분 ['138-86-3', '27176-87-0', '34590-94-8', '5131-66-8', '7732-18-5']"
+MIX348,Nicosulfuron 40SC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX349,Molluscicide Mesurol 2% Bait,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX35,Aloft LC G Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX350,Nipacide CMX,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX351,Mon 37500,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['141776-32-1'] ∉ SDS성분 ['110-54-3', '637-92-3', '64741-64-6', '64741-70-4']"
+MIX352,NipsIt Canola Suite Seed Protectant,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX353,Mon 37532,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX354,Olympus Flex Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX355,Olympus Seed Treatment 3,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX356,Optigard Cockroach Bait,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX357,DuPont Prequel Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX358,Prevamite,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX359,Preventol A14-D,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX36,Axial BIA Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX360,Preventol BIT 20N,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX361,Preventol P 91,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX362,Proceed MD Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX363,Prodiamine/Diquat/Glyphosphate EW Concentrate,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+MIX364,Prohexadione calcium(89.9%),0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX365,Prohexadione calcium(27.5%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX366,Propiconazole(93%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX367,Propiconazole 0.51% Granular Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX368,Prosper T400 Insecticide and Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX369,Prothioconazole Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX37,Axial Star Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX370,Punjab Tebuconazole,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX371,Pyranha 1-10 PPC Concentrate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX372,Pyrasulfotole,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX373,Pyridalyl,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX374,Pyrocide Falcon 7452,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX375,Quadris Top,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 일치
+MIX376,Quali-Pro Enclave 5.3F,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX377,Quinoxyfen Manufacturing Use Concentrate,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX378,Raid Ant & Roach Killer with Germ Kill CIK,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['51-03-6', '52645-53-1', '8003-34-7', '90-43-7'] ∉ SDS성분 ['23031-36-9', '5131-66-8', '52315-07-8', '64742-47-8', '68391-01-5', '74-98-6', '75-28-5', '85409-23-0']"
+MIX379,Raid Roach & Ant Killer IV Plus,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX38,Ametryn,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX380,Raid Roach & Ant Killer Plus,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX381,Rancona Xxtra,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX382,Ravap EC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX383,NNI-0001,0,,,composition_mismatch,,ICE활성 ['272451-65-7'] ∉ SDS성분 ['7429-90-5']
+MIX384,Not Stated,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX385,Optigard Liquid Ant Bait,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX386,NTN 33893 75 WP-WS,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX387,Optill powered by Kixor Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX388,Nuosept Bit,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX389,NUP-06139 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX39,Azoxystrobin 50 WG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX390,ORD-X042,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX391,NUP06147,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX392,ORD-X170,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX393,NUP-07003 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX394,ORD-X450,2,composition_mismatch,,composition_mismatch,,"ICE활성 ['107534-96-3'] ∉ SDS성분 ['55965-84-9', '7681-52-9', '9014-01-1']"
+MIX395,OR-X123,0,,,composition_mismatch,,"ICE활성 ['107534-96-3', '138261-41-3', '60207-90-1'] ∉ SDS성분 ['0000071-36-3', '0000100-41-4', '0000108-88-3', '0001330-20-7']"
+MIX396,Nylar Total Release Aerosol 2644,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX397,Penbotec,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX398,Penclo 273.5FS,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX399,Penclotrime 310.68 FS,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['141517-21-7', '210880-92-5', '494793-67-8', '57837-19-1'] ∉ SDS성분 ['71-36-3']"
+MIX4,0.19% Mesotrione on Fertilizer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX40,Amicarbazone Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX400,Rocima 586,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX401,Penflufen TC,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX402,Penoxsulam,1,product_identical,sds,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX403,Rotam 2F Ornamental Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX404,Penpro 118FS,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX405,Rotam Imidacloprid,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX406,ROTAM Methomyl 29LV Insecticide,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX407,Penprome 177FS,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['178928-70-6', '494793-67-8', '57837-19-1'] ∉ SDS성분 ['52645-53-1']"
+MIX408,Rotam Nicosulfuron,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX409,Rotam Tebuconazole,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX41,Bactron K-139,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX410,Rotam Thifensulfuron-methyl,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX411,Penthiopyrad,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX412,Roval Brand 75 WG Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX413,Penthiopyrad 40 SC Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX414,Rugged Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX415,Pentri 308FS,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX416,RWH 34,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX417,S-3153 WDG Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX418,Permethrin,1,product_identical,sds,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX419,Safer Brand 3-in-1 Concentrate,0,,,composition_mismatch,,"ICE활성 ['7704-34-9', '8046-74-0'] ∉ SDS성분 ['8000-34-4', '8001-29-4']"
+MIX42,Aminopyralid,0,,,composition_mismatch,,"ICE활성 ['150114-71-9'] ∉ SDS성분 ['122-20-3', '566191-89-7']"
+MIX420,Permit Plus,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX421,"Safer Brand Garden Fungicide, Insecticide & Miticide",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX422,Picoxystrobin,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX423,Pillar Granular Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX424,Sergeants Fipronil + Etofenprox + Methoprene Spot-On for Cats,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX425,Pinoxaden,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX426,Sativa,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX427,Sativa IMF Max,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX428,Platinum 75SG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX429,Polyphase 663,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX43,Amitraz(12.5%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX430,Sativa IMX Max,0,,,composition_mismatch,,"ICE활성 ['107534-96-3', '137-26-8', '138261-41-3', '57837-19-1'] ∉ SDS성분 ['118-65-0', '123-35-3', '127-91-3', '13474-59-4', '138-86-3', '2639-63-6', '3338-55-4', '3691-11-0', '3691-12-1', '3779-61-1', '470-82-6', '495-61-4', '502-61-4', '507-70-0', '555-10-2', '586-62-9', '6753-98-6', '78-70-6', '79-92-5', '80-56-8', '87-44-5', '98-55-5', '99-83-2', '99-85-4', '99-86-5']"
+MIX431,Precise Acephate,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX432,SC 480 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX433,Scala brand SC Pyrimenthanil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX434,Scimitar GR Insecticide,1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX435,Scorpion Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX436,Shield Herbicide,0,,,composition_mismatch,,"ICE활성 ['77182-82-2'] ∉ SDS성분 ['118-74-1', '57754-85-5']"
+MIX437,Secure Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX438,Shooter Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX439,Secure Dry Insecticide,0,,,composition_mismatch,,"ICE활성 ['168316-95-8'] ∉ SDS성분 ['106-97-8', '134-62-3', '64-17-5', '75-28-5']"
+MIX44,Amitraz(98%),1,product_identical,sds,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX440,Sedaxane,1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX441,Sedaxane 50FS A16148C,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX442,Sigma Ecol HS Antifouling Paint,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX443,Senator 600 FS,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX444,Silent,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX445,Sharda Glyphosate,0,,,composition_mismatch,,"ICE활성 ['1071-83-6'] ∉ SDS성분 ['38641-94-0', '431040-31-2', '67952-32-3']"
+MIX446,Smacker Bait,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX447,S-Metolachlor & Mesotrione,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 일치
+MIX448,Sharpen powered by Kixor Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX449,Shelter Island Plus,1,product_identical,sds,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX45,Banner Dry MAXX,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX450,SP1037,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX451,SP5411,0,,,composition_mismatch,,"ICE활성 ['56425-91-3', '76738-62-0', '95266-40-3'] ∉ SDS성분 ['917-13-5']"
+MIX452,Synguard Multi G,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX453,Spirodiclofen,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX454,Spirotetramet,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX455,Tandem CS,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX456,Spiroxamine (Bay KWG 4168 300CS) (30.0-31.3),0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX457,TC 218,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX458,Spiroxamine (KWG 4168),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX459,TC 240,0,,,composition_mismatch,,"ICE활성 ['23031-36-9', '91465-08-6'] ∉ SDS성분 ['110-82-7', '68476-40-4']"
+MIX46,Amore DF,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['219714-96-2', '82558-50-7'] ∉ SDS성분 ['101-86-0', '10339-55-6', '105-87-3', '106-24-1', '107-75-5', '111879-80-2', '118-58-1', '1205-17-0', '121-33-5', '1222-05-5', '127-51-5', '13351-61-6', '18127-01-0', '24851-98-7', '2705-87-5', '28219-61-6', '31906-04-4', '54464-57-2', '5989-27-5', '6259-76-3', '63500-71-0', '65113-99-7', '78-70-6', '81782-77-6']"
+MIX460,Splat-Mat ME,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX461,TC 246,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX462,Sporgard WB,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX463,TC 249,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX464,TC 281,1,composition_mismatch,,composition_mismatch,,ICE활성 ['131341-86-1'] ∉ SDS성분 ['124-68-5']
+MIX465,TC-317,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX466,Starane NXT Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX467,TC-320,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX468,"Storicide II Grain, Bin and Warehouse Insecticide",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX469,Tebuconazole 45 WP,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX47,BAS 320 I Pro Fire Ant Bait,1,composition_mismatch,,composition_mismatch,,ICE활성 ['139968-49-3'] ∉ SDS성분 ['67485-29-4']
+MIX470,Strada XT,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX471,Tebuconazole Fungicide(97.4%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX472,Tebuject 16,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX473,Techfilter,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX474,Tempo 0.1 Granular Insecticide,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX475,Terbuthylazine,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX476,Stratego 731 Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX477,Termidor Dry Termiticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX478,Tetrasan 5 WDG,1,product_identical,sds,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX479,Sumione,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX48,Metaflumizone(88.7%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX480,The Andersons 3-Way Snowmold,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX481,Super K-Gro Malathion 50 Insect Spray,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX482,Superfine Wettable Sulphur,1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX483,Supremacy Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX484,Thiabendazole MF,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX485,Thidiazuron-Diuron SC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX486,SVP8,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX487,Thiencarbazone-methyl,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX488,Three Way Peanut Seed Treatment Fungicide,0,,,composition_mismatch,,"ICE활성 ['133-06-2', '141517-21-7', '57837-19-1'] ∉ SDS성분 ['56-81-5', '57-55-6', '76674-21-0']"
+MIX489,Swagger,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['138261-41-3', '82657-04-3'] ∉ SDS성분 ['872-50-4']"
+MIX49,Amtide Tebuconazole 45 WDG Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX490,Switch 62.5 WG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX491,Three-Way VAP,0,,,composition_mismatch,,"ICE활성 ['125225-28-7', '210880-92-5', '57837-19-1'] ∉ SDS성분 ['64742-94-5', '91-20-3', '95-63-6', '99129-21-2']"
+MIX492,SYN 1219 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX493,THX/MXM/FDL CZ Insecticide with Fungicides,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX494,Tital FL,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['137-26-8', '210880-92-5', '5234-68-4', '57837-19-1'] ∉ SDS성분 ['103-95-7', '10339-55-6', '105-87-3', '107-75-5', '115-95-7', '118-58-1', '1205-17-0', '1222-05-5', '127-51-5', '128-37-0', '18479-58-8', '24851-98-7', '54464-57-2', '55066-48-3', '58567-11-6', '5989-27-5', '63500-71-0', '67634-14-4', '78-70-6']"
+MIX495,T-Methyl G-Pro 50 WSB Fungicide,1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX496,THX/MXM/FDL/TBZ FS,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX497,Tolfenpyrad 15EC Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX498,Tombstone Insecticide,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX499,Topguard Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX5,0.25% Mesotrione on Fertilizer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX50,Aproach Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX500,Tops MZ-Curzate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX501,Topsin M 5G Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX502,Topsin M 70 WDG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX503,Touchdown Diquat Home and Garden Concentrate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX504,V-10116 VPP Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX505,V-10141 2.8 EC Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX506,TPTH,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX507,Tradename for Dogs,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX508,V-10142 Herbicide,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX509,V-10276  0.088 SL Insecticide/Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX51,ARY 0452-110 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX510,TREE-age,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX511,DuPont Treoris Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX512,V-10336 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX513,Trifloxysulfuron-sodium,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX514,Vapona Concentrate Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX515,Triflurex HFP,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX516,Triticonazole Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX517,VCP-01,0,,,composition_mismatch,,"ICE활성 ['82657-04-3'] ∉ SDS성분 ['0001317-65-3', '0014808-60-7', '0065997-15-1']"
+MIX518,Troysan 680,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX519,Velocity SG Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX52,Atlantis Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX520,Veriguard OD,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX521,Troysan V48,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX522,DuPont Vertisan Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX523,Tru-Core Millwork Preservative Concentrate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX524,Viper WP,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX525,Vitacon 100 Pro FS Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX526,TSS 75WG (CGA 362622 WG 75),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX527,Vitacon RTU FL Fungicide,0,,,composition_mismatch,,"ICE활성 ['125225-28-7', '5234-68-4', '57837-19-1'] ∉ SDS성분 ['11138-66-2', '56-81-5', '7732-18-5']"
+MIX528,Tundra Max,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX529,Turfthor WP,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX53,Metaflumizone(7.4%),1,product_identical,sds,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX530,Voliam Flexi Insecticide,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 일치
+MIX531,Voliam Xpress Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX532,UBI 4389,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX533,Waterborne Milltreat 111 Concentrate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX534,Ucarcide SB 130 Antimicrobial,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX535,Ultrathion Insect Repellent,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX536,Unicorn Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX537,Weld Herbicide,1,no_composition_data,ntp,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX538,Up-Cyde Pro 2.0 EC Termiticide/Insecticide,1,product_identical,sds,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX539,UP-End Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX54,BAS 500 F Manufacturing Use Product,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['175013-18-0'] ∉ SDS성분 ['1109-11-1', '121-79-9', '128-37-0', '137-66-6', '14306-25-3', '67762-90-7']"
+MIX540,Wolman E (CA-C)(.19),0,,,composition_mismatch,,"ICE활성 ['60207-90-1'] ∉ SDS성분 ['1317-38-0', '7439-92-1', '7738-94-5', '7778-39-4']"
+MIX541,UPI Glyphosphate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX542,Wolman E (mu CA-C),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX543,UPI Imidacloprid,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX544,US-LON-A,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX545,V-10116 3.7 FS,0,,,composition_mismatch,,ICE활성 ['125116-23-6'] ∉ SDS성분 ['56-81-5']
+MIX546,Wolsin LP 13762,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX547,XDE-PRDX,0,,,composition_mismatch,,"ICE활성 ['34256-82-1', '57754-85-5', '98967-40-9'] ∉ SDS성분 ['18080-67-6']"
+MIX548,WRC-13927-32-0,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX549,X-Cide 800 Biocide,0,,,composition_mismatch,,"ICE활성 ['104-55-2'] ∉ SDS성분 ['64-19-7', '7722-84-1', '79-21-0']"
+MIX55,BAS 510 02 F Turf Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX550,Xemium Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX551,XDE-007 50% Concentrate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX552,Ygiene 206,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX553,XDE-175,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX554,XDE-742,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX555,Zampro Fungicide,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX556,"Zoxamide, 80 WP",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX557,Zoxamide(95_100%),1,composition_mismatch,,composition_mismatch,,ICE활성 ['156052-68-5'] ∉ SDS성분 ['471-46-5']
+MIX558,Zoxamide(97%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX559,"Ravap EC Livestock, Poultry & Premise Spray",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX56,Bifenture 17,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX560,Rave Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX561,Raxil MD Extra Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX562,Raxil MD Extra W Seed Treatment,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX563,Reality 25,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX564,RebelEx,0,,,composition_mismatch,,"ICE활성 ['122008-85-9', '219714-96-2'] ∉ SDS성분 ['112945-52-5', '94-36-0']"
+MIX565,Regent 500TS Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX566,Reldan F,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX567,Revus Top,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX568,Report Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX569,Ridomil Gold MZ WG,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+MIX57,BAS 536 00 F Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX570,Reserve Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX571,Rimsulfuron,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX572,Revus Opti,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX573,3336 70EG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX574,Aloft LC SC Insecticide,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX575,Acticide PM Industrial Mildewicide,0,,,composition_mismatch,,"ICE활성 ['1897-45-6', '330-54-1'] ∉ SDS성분 ['122-99-6', '347174-92-9', '56-81-5', '7732-18-5']"
+MIX576,Coumaphos (97.6),0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX577,Axiom DF,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX578,Benefin(97.3%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX579,DeckMate Mosquito Repellent,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX58,Biflex 5T,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX580,Departure Herbicide,0,,,composition_mismatch,,"ICE활성 ['1071-83-6'] ∉ SDS성분 ['101200-48-0', '1317-65-3']"
+MIX581,DPX-E9636,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX582,DPX-E9636-22,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX583,Enhance AW(19.55),0,,,composition_mismatch,,ICE활성 ['133-06-2'] ∉ SDS성분 ['2634-33-5']
+MIX584,EP-Amin (Ethyl-n-propylamin),0,,,composition_mismatch,,ICE활성 ['20193-20-8'] ∉ SDS성분 ['104-78-9']
+MIX585,Ethofumesate(97.5%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX586,Fenhexamid(95.4%),0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX587,Folicur 1. 2 emulsifiable concentrate(15.4),0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX588,Flumethrin(96.2),0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX589,Kixor Herbicide,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX59,Biflex SFR,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX590,Larvin 500 Insecticide,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX591,Lawn 3FL2 Herbicide Ready-to-Use,0,,,composition_mismatch,,"ICE활성 ['1918-00-9', '317815-83-1', '74223-64-6', '950782-86-2'] ∉ SDS성분 ['112-05-0', '38641-94-0']"
+MIX592,Heat Powered by Kixor Herbicide,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX593,Meymik 15G,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX594,Multicide 28661,0,,,composition_mismatch,,"ICE활성 ['52315-07-8', '7696-12-0'] ∉ SDS성분 ['188023-86-1', '51-03-6', '64742-47-8', '8042-47-5']"
+MIX595,Orvego Fungicide,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX596,Prodiamine/Diquat/Glyphosphate EW Manufacturing,1,partial_composition,ntp,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+MIX597,Provado 70 WG Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX598,Pursuit/Dimethenamide,0,,,composition_mismatch,,"ICE활성 ['81335-77-5', '87674-68-8'] ∉ SDS성분 ['2008-39-1', '2300-66-5', '66423-09-4']"
+MIX599,Rimfire Max Herbicide,0,,,composition_mismatch,,"ICE활성 ['181274-15-7', '208465-21-8'] ∉ SDS성분 ['147150-35-4', '75-09-2', '9005-25-8']"
+MIX6,Acticide CBM,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+MIX60,Bioban 425 Antimicrobial,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX600,Rynaxypyr,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX601,Tebuconazole Fungicide(97%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX602,Tebuconazole Fungicide(96.2%),0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX603,The Andersons 0.058% Bifenthrin + 0.115% Imidacloprid Insecticide with Fertilizer,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX604,The Andersons 0.077% Bifenthrin + 0.155% Imidacloprid Granular Insecticide,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 일치
+MIX605,The Andersons 0.2% Imidacloprid Insecticide + Fertilizer,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX606,The Andersons GC 0.058% Bifenthrin + 0.115% Imidacloprid Insecticide with Fertilizer,0,,,composition_mismatch,,"ICE활성 ['138261-41-3', '82657-04-3'] ∉ SDS성분 ['16389-88-1', '57-13-6', '7447-40-7']"
+MIX607,The Andersons GC 0.077% Bifenthrin + 0.155% Imidacloprid Granular Insecticide,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX608,Stratego Pro Fungicide,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+MIX609,Suprend,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX61,BAS 556 01 F Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX610,Topramezone 2.8 SC Herbicide,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX611,Trilux 44 - White,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+MIX612,Ultra P,0,,,composition_mismatch,,"ICE활성 ['1317-39-1', '731-27-1'] ∉ SDS성분 ['63449-39-8']"
+MIX613,Wocosen 45 TK,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX614,Bromuconazole(98.4%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX615,Fludioxonil 50WP,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX616,Fludioxonil(94.7%),0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX617,5-Hydroxy-Tepraloxydim,0,,,composition_mismatch,,"ICE활성 ['15479-55-0'] ∉ SDS성분 ['149979-41-9', '75-05-8']"
+MIX618,Abamectin A1a,0,,,composition_mismatch,,ICE활성 ['65195-51-9'] ∉ SDS성분 ['71751-41-2']
+MIX619,Abamectin A1b,0,,,composition_mismatch,,ICE활성 ['65195-52-0'] ∉ SDS성분 ['71751-41-2']
+MIX62,Bioguard Spaguard Brominating Concentrate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX620,Abamectin A2a,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX621,Abamectin B2a,0,,,composition_mismatch,,ICE활성 ['65195-57-5'] ∉ SDS성분 ['71751-41-2']
+MIX622,Aeris Seed-Applied Insecticide/Nematicide,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX623,Aloft GC G Insecticide,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX624,Bromuconazole(95.7%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX625,Fludioxonil(95.4%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX626,Bifenthrin 0.086% Plus Fertilizer,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX627,Dinotefuron,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX628,EH-1489 Broadleaf Herbicide,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+MIX629,F6141 EW INSECTICIDE,0,,,composition_mismatch,,"ICE활성 ['82657-04-3'] ∉ SDS성분 ['52645-53-1', '70693-06-0']"
+MIX63,BAS 620 H,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX630,F6141 EW,0,,,composition_mismatch,,ICE활성 ['52315-07-8'] ∉ SDS성분 ['159351-69-6']
+MIX631,DPX-E9636-38,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['122931-48-0'] ∉ SDS성분 ['1330-20-7', '84-74-2']"
+MIX632,Flufenpyr-Ethyl-S-3153 WDG/Atrazine Premix,0,,,composition_mismatch,,"ICE활성 ['188489-07-8', '1912-24-9'] ∉ SDS성분 ['858956-08-8']"
+MIX633,Flumethrin(87.9),0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX634,Flumethrin(95.1),0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX635,Flufenpyr-Ethyl-S-3153 Acid-4-OH,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX636,GA 6-Weed to Grass Killer Ready-to-Use,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX637,Fontelis Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX638,Gharda Permethrin (95.3),0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX639,Gharda Permethrin (94),0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX64,Bispyribac-sodium,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX640,"Imidacloprid + Tau-fluvalinate + Tebuconazole Ready-to-Use Insecticide, Miticide to Fungicide",0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+MIX641,Lannate LV,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX642,lsobutyric Acid Hydrazide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX643,Magnate 75 SG (75.25),0,,,composition_mismatch,,ICE활성 ['35554-44-0'] ∉ SDS성분 ['8018-01-7']
+MIX644,Metalaxyl,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX645,Metarex 4% Snail to Slug Bait,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX646,Metsulfuron Methyl 75XP,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX647,Mixture of hydantoins,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX648,Optiguard Cockroach Bait,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX649,Optiguard Liquid Ant Bait,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX65,Bonide Cyper WSP Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX650,Orthophenylphenol/Sodium Orthophenylphenate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX651,Pen 240FS,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX652,Prequel Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX653,Prosper T400 Insecticide to Fungicide,0,,,composition_mismatch,,"ICE활성 ['141517-21-7', '210880-92-5', '5234-68-4', '57837-19-1'] ∉ SDS성분 ['107534-96-3', '178928-70-6', '658066-35-4']"
+MIX654,Pursuit,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX655,Raxil MD Extra,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+MIX656,Sargeant's Spot-On for Cats,0,,,composition_mismatch,,"ICE활성 ['120068-37-3', '65733-16-6', '80844-07-1'] ∉ SDS성분 ['114-26-1', '13463-67-7', '141-04-8', '57-11-4']"
+MIX657,Secure,0,,,composition_mismatch,,"ICE활성 ['55406-53-6', '7173-51-5'] ∉ SDS성분 ['79622-59-6']"
+MIX658,"Storicide II Grain, Bin to Warehouse Insecticide",0,,,composition_mismatch,,"ICE활성 ['52918-63-5', '5598-13-0'] ∉ SDS성분 ['108-88-3', '127087-87-0', '64742-94-5', '74051-80-2', '91-20-3', '98-82-8']"
+MIX659,Touchdown Diquat Home to Garden Concentrate,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+MIX66,BAS 650 00 F Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX660,TC 25,0,,,composition_mismatch,,"ICE활성 ['71751-41-2'] ∉ SDS성분 ['13397-24-5', '14808-60-7', '471-34-1', '65997-15-1', '65997-16-2', '7631-86-9', '7778-18-9']"
+MIX661,Accent Q Herbicide,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX662,Acetochlor 3.1 + ATZ 2.5,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+MIX663,Acticide CBM 2,0,,,composition_mismatch,,"ICE활성 ['26172-55-4', '2634-33-5', '2682-20-4'] ∉ SDS성분 ['26530-20-1', '52-51-7']"
+MIX664,Aqucar GA 23 SB Water Treatment Microbiocide,0,,,composition_mismatch,,"ICE활성 ['111-30-8'] ∉ SDS성분 ['10222-01-2', '25322-68-3', '7647-15-6']"
+MIX665,BAS 500 F Crystalline,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX666,Bifenthrin 0.073 Insecticide with X-X-X Fertilizer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX667,Bifenthrin 0.073 RU Insecticide with X-X-X Fertilizer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX668,Bifenthrin 0.083 Insecticide with X-X-X Fertilizer,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX669,Bifenthrin 0.069 Insecticide With X-X-X Fertilizer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX67,Bonide Spinosad Dust,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX670,Bifenthrin 0.069 RU Insecticide With X-X-X Fertilizer,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX671,Bug Stomper II,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX672,Calypso 4F,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX673,Bravo 500,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX674,Bravo Zn,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX675,Charger,0,,,composition_mismatch,,"ICE활성 ['240494-70-6'] ∉ SDS성분 ['64742-94-5', '87392-12-9', '91-20-3']"
+MIX676,Chlorothalonil 825 MUP,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX677,Chlorothalonil FB,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX678,Cloak Ex Bulk Product,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+MIX679,Consus Glyphosate,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX68,BAS 670 336SC Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX680,Countdown L&G,0,,,composition_mismatch,,"ICE활성 ['1897-45-6'] ∉ SDS성분 ['1120-71-4', '12190-79-3', '21324-40-3', '24937-79-9', '7429-90-5', '7440-02-0', '7440-50-8', '7782-42-5', '9002-88-4']"
+MIX681,Cypermethrin(95%),0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX682,Daconil 2787 Flowable Fungicide,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX683,Daconil Zn Flowable Fungicide,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX684,Chemsico Pesticide Concentrate WI-S,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX685,Chemsico Pesticide Granules WI-S,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX686,Disarm G Fungicide,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX687,Echo 825,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX688,EH-1480 Herbicide,0,,,composition_mismatch,,"ICE활성 ['2008-39-1', '2300-66-5', '84087-01-4', '97886-45-8'] ∉ SDS성분 ['70901-12-1']"
+MIX689,Ethofumesate(97.7%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX69,Boscalid,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX690,Fipronil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX691,FujiMite 5 EC Miticide/Insecticide,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX692,Glyphosphate (96.5),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX693,GF-1593 Naturalyte Insect Control,0,,,composition_mismatch,,"ICE활성 ['168316-95-8'] ∉ SDS성분 ['112926-00-8', '1332-58-7']"
+MIX694,Glyphosphate 62% IPA Salt,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX695,Glyphosphate (99),0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX696,GF-1983 Naturalyte Insect Control,0,,,composition_mismatch,,"ICE활성 ['168316-95-8'] ∉ SDS성분 ['000057-55-6', '131929-60-7', '131929-63-0']"
+MIX697,Greenclean 6% Liquid,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX698,Insecticide TD Granule,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX699,Klean-Pik 500 SC,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX7,241-GOL Acrobat MZ WDG Fungicide,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX70,BAS 700 01 Fungicide,0,,,composition_mismatch,,"ICE활성 ['907204-31-3'] ∉ SDS성분 ['1332-58-7', '3347-22-6', '7783-20-2']"
+MIX700,NUP-08041 Ready-To-Use,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX701,NEUl l 71H RTU,0,,,composition_mismatch,,"ICE활성 ['123-33-1', '84776-33-0'] ∉ SDS성분 ['7732-18-5']"
+MIX702,NUP-12004 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX703,Norm 1,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX704,Regiment Herbicide,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX705,DPX-MAT28 0.05G Turf Herbicide + Fertilizer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX706,Safari 2 G Insecticide,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX707,DuPont DPX-QFU31 (MP) Herbicide,0,,,composition_mismatch,,"ICE활성 ['1982-69-0', '79277-67-1'] ∉ SDS성분 ['142-82-5', '1760-24-3', '4420-74-0', '5575-43-9']"
+MIX708,Safer Brand Garden Fungicide RTU II,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX709,Safer Garden Fungicide Ready to Use,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX71,Bravo Top,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX710,Scholar EZ,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX711,Shelter Island Plus - White,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX712,Steadfast Q Herbicide,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX713,Solida Grande Herbicide,0,,,composition_mismatch,,"ICE활성 ['111991-09-4', '122931-48-0'] ∉ SDS성분 ['40487-42-1']"
+MIX714,Tebuconazole Fungicide(93.4%),1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX715,Texan Glyphosate,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX716,Thidiazuron 4 SC,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX717,Tide Glyphosate,0,,,composition_mismatch,,"ICE활성 ['1071-83-6'] ∉ SDS성분 ['107-98-2', '68515-73-1', '68891-38-3', '77182-82-2']"
+MIX718,Tradewind Herbicide,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX719,Troysan ALF4,0,,,composition_mismatch,,"ICE활성 ['10605-21-7', '28159-98-0', '55406-53-6'] ∉ SDS성분 ['108-67-8', '12001-85-3', '136-53-8', '64742-48-9', '64742-89-8', '64742-95-6', '8052-41-3', '95-63-6', '98-82-8']"
+MIX72,BAS 703 01 F Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX720,Willowed Ethofumesate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX73,Britz Dryout Dust,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX74,Bromuconazole(20%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX742,Apogee,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX743,BASF MCPP-P,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX746,Cyprodinil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX747,DEVRINOL 2-XT Selective Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX748,DuPont Rynaxypyr,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX749,DuPont Steadfast Q Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX75,Bromuconazole(97.8%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX750,DuPont Accent Q Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX751,DuPont Accent SC,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX752,DuPont DPX-KJM44 80 MUP Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX753,DuPont DPX-KJM44 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX754,DuPont DPX-LEM17 50WDG Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX755,DuPont DPX-MAT28 0.05G Turf Herbicide + Fertilizer,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX756,DuPont DPX-MAT28 Herbicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX758,EX2108,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX759,F6141 EW Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX76,BAS 703 02 F Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX760,Fosthiazate 900EC (Nemathorin 500EC),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX765,Pyraflufen-ethyl_ ET-751,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX766,Quinoxyfen,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX769,TC-314,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX77,Cabrio EG Funcgicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX770,Tebuconazole Fungicide(96.3%),0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX771,Touchdown Diquat Home and Garden Ready to Use,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX773,VOLIAM Xpress Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX775,Armeen 2C,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX776,Armeen CD,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX777,Armeen TD,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX778,Arquad 16-50,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX779,Arquad DMMCB-50,0,,,composition_mismatch,,"ICE활성 ['61789-71-7'] ∉ SDS성분 ['126-73-8', '64-17-5', '67-64-1']"
+MIX78,Callisto Xtra,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX780,boron trifluoride-acetic acid complex,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX781,butylamine (in ethanol/ethylene glycol;1:1),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX782,Dequest 2000,0,,,composition_mismatch,,"ICE활성 ['6419-19-8'] ∉ SDS성분 ['2809-21-4', '68584-22-5', '77-92-9', '7722-84-1', '7732-18-5']"
+MIX783,Capric/caprylic acid,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX784,Dowanol PNB,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX785,Cellosolve + TX100,1,composition_mismatch,,composition_mismatch,,"ICE활성 ['110-80-5', '9002-93-1'] ∉ SDS성분 ['1310-73-2']"
+MIX786,Duoquad T50,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX787,Empicol LZPV/C,0,,,composition_mismatch,,"ICE활성 ['151-21-3'] ∉ SDS성분 ['68815-56-5', '7732-18-5']"
+MIX788,Empigen OB,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX789,Empilan CME,0,,,composition_mismatch,,ICE활성 ['68140-00-1'] ∉ SDS성분 ['68002-97-1']
+MIX79,Bayocide Pour On Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX790,Hydrochloric acid + Sulfuric acid + Citric acid,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 일치
+MIX791,Genapol LRO,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX792,Larc Super,0,,,composition_mismatch,,"ICE활성 ['7664-38-2'] ∉ SDS성분 ['108-67-8', '108-88-3', '1314-13-2', '13463-67-7', '136-52-7', '22464-99-9', '55406-53-6', '64742-89-8', '8052-41-3', '9038-95-3', '95-63-6']"
+MIX793,liquid bleach,1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX794,Oleic/caprylic acid,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+MIX795,Proxel AB,1,same_actives_diff_formulation,ntp,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX796,Proxel BD,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX797,"sodium hydroxide/N,N'-bis(acrylyl)cystamine (BAC) (1:10)",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX798,sodium hydroxide/SMS (0.5:1),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX799,sodium hydroxide/SMS (1:10),0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+MIX8,Acticide LA 2605-F,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX80,Bayonet 2,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX800,sulfuric acid + cellusolve,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 일치
+MIX801,sodium hydroxide/SMS (5:3),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX802,Sulfuric acid/ Ferric chloride,0,,,same_actives_diff_formulation,ntp,활성성분 일치 · 제품명 불일치
+MIX803,Sodium hydroxide/ Sodium dodecyl sulfate(1:10),0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 일치
+MIX804,Sulfuric acid/ Sodium dodecyl sulfate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX805,sodium hydroxide/tx 100,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+MIX806,Sulfuric acid/ Triton X-100,0,,,composition_mismatch,,"ICE활성 ['7664-93-9', '9002-93-1'] ∉ SDS성분 ['1310-73-2']"
+MIX807,sodium hypochlorite w/5% chlorine,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX808,Synprolam 35X2,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX809,"Mixture of isomers: ethyl exo-tricyclo[5.2.1.0(2,6)]decane-endo-2-carboxylate; ethyl endo-tricyclo[5.2.1.0(2,6)]decane-exo-2-carboxylate",1,no_composition_data,ntp,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX81,Canguard BIT 20 DPG Preservative,0,,,composition_mismatch,,ICE활성 ['6393-42-6'] ∉ SDS성분 ['2634-33-5']
+MIX810,"Mixture of: diethyl cis-1,4-cyclohexanedicarboxylate; diethyl trans-1,4-cyclohexanedicarboxylate",0,,,composition_mismatch,,"ICE활성 ['19145-96-1', '72903-27-6'] ∉ SDS성분 ['556-48-9']"
+MIX811,"Mixture of isomers: 1-(1,1-dimethylpropyl)-4-ethoxy-cis-cyclohexane; 1-(1,1-dimethylpropyl)-4-ethoxy-trans-cyclohexane",1,composition_mismatch,,composition_mismatch,,"ICE활성 ['181258-87-7', '181258-89-9'] ∉ SDS성분 ['556-48-9']"
+MIX812,Mixture of isomers: 1-(2-isopropylphenyl)-1-phenylethane (CAS# 191044-60-7); 1-(3-isopropylphenyl)-1-phenylethane (CAS# 191044-59-4); 1-(4-isopropylphenyl)-1-phenylethane (CAS# 2320-06-1),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX813,"Mixture of: 2-methyl-4-(2',2',3'-trimethyl-3'-cyclopenten-1'-yl)-4-penten-1-ol 56% (1'R,2R) & 40%(1'R,2S) isomer",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX814,Mixture of: 5-exo-decylbicyclo[2.2.1]hept-2-ene; 5-endo-decylbicyclo [2.2.1]hept-2-ene,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX815,Soap 20/80 coconut oil/tallow,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX816,Soap from 20/80 coconut oil/tallow,0,,,composition_mismatch,,"ICE활성 ['61789-97-7', '8001-31-8'] ∉ SDS성분 ['61789-40-0', '68333-82-4', '9004-82-4']"
+MIX817,Mixture of isomers: 1-(spiro[4.5]dec-7-en-7-yl)pent-4-en-1-one (CAS# 224031-70-3); 1-(spiro[4.5]dec-6-en-7-yl)pent-4-en-1-one (CAS# 224031-71-4),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX818,60/40 Octanoic/decanoic acid,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX819,55/45 Octanoic/decanoic acid,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX82,Captan 4L,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX820,65/35 Octanoic/decanoic acid,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 일치
+MIX821,"Hydrochloric acid 5%, Sulphuric acid 5%, Citric acid 5%",0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 일치
+MIX822,Sodium silicate A140,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX823,dicyanamine/formaldehyde condensate,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 불일치
+MIX824,Ethomeen T/25,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX825,lubricant (ethylene oxide + propylene oxide)_PID_13,0,,,partial_composition,ntp,활성성분 부분일치 · 제품명 일치
+MIX826,lubricant (ethylene oxide + propylene oxide)_PID_14,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX827,lubricant (ethylene oxide + propylene oxide)_PID_15,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX828,Sodium silicate H100,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX829,Elfan OS 46,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX83,Bellacide 325 8-month,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX830,Flumethrin,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX831,Clodinafop Technical,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX832,Cyhalofop-butyl(29.6%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX833,Tebuconazole Fungicide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX834,Tebuconazole Fungicide(15.4%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX835,Tebuconazole Fungicide(15%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX836,"1,3-Dichloro-5,5-dimethylhydantoin",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX837,Ethofumesate (95%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX838,Ethofumesate (98%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX839,Potassium Silicate(>80%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX84,Captan 80 WDG,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX840,Potassium Silicate (Agsil25) (Sodium silicate powder),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX841,Benefin(98.2%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX842,Clincher CA,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX843,Cyproconazole 40WG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX844,Ethofumesate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX845,F6132 G Insecticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX846,Fenhexamid(50%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX847,FLUFENPYR-ETHYL,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX848,Magnate 75 SG (74.25%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX849,MON 37500,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX85,Bengal Dry Roach Spray,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX850,Tebuconazole (HWG-1608; Folicur) (15%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX851,Tebuconazole (HWG-1608; Folicur) (15.4%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX852,Tebuconazole (HWG-1608; Folicur) (16.6%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX853,Tebuconazole (HWG-1608; Folicur) (93.4%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX854,Tebuconazole (HWG-1608; Folicur) (96.2%),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX855,Tebuconazole Fungicide(97.4),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX856,Pseudo lilyl acetate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX857,Terpinyl acetate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX858,Methyl and propyl parabens,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX859,Angelica seed oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX86,Captevate 68 WDG,0,,,product_identical,sds,제품명 일치 · 활성성분 조성 일치
+MIX860,Ambrette seed oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX861,Anise oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX862,Angelica root oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX863,Balsam tolu,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX864,Mimosa absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX865,"Nutmeg oil, east Indian",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX866,Tobacco leaf absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX867,Birch tar oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX868,Juniperus phoenicea oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX869,Methyl abietate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX87,Bentazone,0,,,composition_mismatch,,ICE활성 ['25057-89-0'] ∉ SDS성분 ['50723-80-3']
+MIX870,Grisalva,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX871,"Balsam, Canadian",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX872,Bran absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX873,Origanum oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX874,Tuberose concrete,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX875,Rose oil Bulgarian,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX876,Rose oil Moroccan,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX877,Rose absolute French,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX878,Artemisia oil (wormwood),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX879,Cade oil rectified (juniper tar),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX88,Capture 1.15G,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX880,Oil rose Turkish,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX881,Parsley seed oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX882,Tagetes oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX883,Parsley herb oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX884,Laurel leaf oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX885,Jonquil absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX886,Violet leaf absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX887,Hydroxycitronellal-indole (Schiff base),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX888,Fenugreek absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX889,"Fir needle oil, Siberian",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX89,Betamix,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX890,Lovage oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX891,Orris absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX892,Honeysuckle absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX893,Narcissus absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX894,Lemongrass oil West Indian,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX895,Immortelle absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX896,Galbanum oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX897,"Basil oil, sweet",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX898,Caraway oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX899,Castoreum,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX9,Acticide MKW1,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX90,Cavicide 1,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX900,Civet absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX901,"Costus root, essential oil, absolute and concrete",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX902,Cedar leaf oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX903,Celery seed oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX904,Estragon oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX905,Chamomile oil German,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX906,Ginger oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX907,Chamomile oil Roman,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX908,Cassia oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX909,Cyste absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX91,Bifenthrin,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX910,Fennel oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX911,Lemongrass oil East Indian,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX912,"Costus oil, absolute",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX913,Black pepper oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX914,Cardamom oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX915,Star anise oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX916,Camphor oil yellow,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX917,"Cognac oil, green",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX918,Cajeput oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX919,Carrot seed oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX92,Bifenthrin 0.2% Granular,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX920,Camphor oil brown,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX921,Cascarilla oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX922,Chenopodium oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX923,Schinus molle oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX924,Dill weed oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX925,Tansy oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX926,Elemi oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX927,Tetrahydromugyl acetate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX928,"Fennel oil, bitter",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX929,Calamus oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX93,Bifenthrin 8% ME,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX930,Alantroot oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX931,"Neroli oil, Tunisian",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX932,Flouve oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX933,Hyssop oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX934,Beeswax absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX935,Snakeroot oil Canadian,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX936,Eau de brouts absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX937,Davana oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX938,Foin absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX939,Helichrysum oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX94,Bifenture 10WSB/10DF Insecticide/Miticide,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX940,Spearmint oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX941,Almond oil bitter FFPA,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX942,Myrtle oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX943,Almond oil sweet,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX944,Perilla oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX945,Sassafras oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX946,Almond oil bitter,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX947,Cassie absolute (acacia farnesiana (l.) willd),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX948,Sweet birch oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX949,Curcuma oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX95,Chemsico Aerosol LEG,0,,,composition_mismatch,,"ICE활성 ['23031-36-9', '90-43-7', '91465-08-6'] ∉ SDS성분 ['0000067-64-1', '0000106-97-8', '0001330-20-7']"
+MIX950,Baccartol,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX951,Lavandin oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX952,Tangerine oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX953,Boldo leaf oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX954,"Dill seed oil, Indian",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX955,Clove bud oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX956,Bois de rose oil Brazilian,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX957,Clove leaf oil Madagascar,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX958,Deertongue incolore,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX959,"Marjoram oil, Spanish",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX96,Chemsico Pesticide Concentrate WI-N,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX960,Savory oil (summer variety),0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX961,Musk tonquin tincture,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX962,Petitgrain Paraguay oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX963,Cypress oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX964,Deertongue absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX965,Copaiba oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX966,"Undecylenic aldehyde, mixed isomers",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX967,Guaiac wood oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX968,Fig leaf absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX969,Peru balsam,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX97,Celsius WG,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX970,Vetiver oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX971,Coriander oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX972,Labdanum oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX973,Pennyroyal oil Eurafrican,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX974,Olibanum gum,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX975,Marjoram oil sweet,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX976,"1,3-nonanediol acetate (mixed esters)",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX977,"Cinnamon bark oil, ""Ceylon""",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX978,Clary sage oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX979,Juniper berry oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX98,Chemsico Pesticide Granules WI-N,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX980,Cumin oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX981,Spike lavender oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX982,Peru balsam oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX983,Cedarwood oil Virginia,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX984,Cedryl acetate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX985,Guaiac wood acetate,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX986,Orange oil expressed,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX987,Palmarosa oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX988,Sage oil Dalmatian,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX989,"Thyme oil, red",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX99,Certifect for Dogs,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX990,Tonka absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX991,Myrrh oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX992,"Sage oil, Spanish",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX993,Galbanum resin,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX994,"Sage clary oil, Russian",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX995,"Mandarin oil, expressed",0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX996,Cornmint oil,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX997,Cedarwood oil Texas,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX998,Balsam copaiba,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가
+MIX999,Hyacinth absolute,0,,,no_composition_data,ntp,CAS 없음 — 조성 비교 불가

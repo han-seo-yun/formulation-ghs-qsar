@@ -1,0 +1,83 @@
+[
+  {
+    "row": 1393,
+    "product_name": "Tebuconazole Fungicide(93.4%)",
+    "ingredient_names": "Tebuconazole w/w | Other ingredientsw/w | Other/Inert Ingredients | Tebuconazole",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/94526ffb471950db_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "cat_skin_ghs": "Not classified",
+    "sds_grade_status_eye": "verdict_only",
+    "sds_grade_status_skin": "verdict_only",
+    "sds_grade_status_sens": "not_stated"
+  },
+  {
+    "row": 1395,
+    "product_name": "Thidiazuron 4 SC",
+    "ingredient_names": " | Thidiazuron",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/a2464eb779e219dc_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "cat_eye_ghs": "2B",
+    "cat_skin_ghs": "2",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "negative"
+  },
+  {
+    "row": 1398,
+    "product_name": "Troysan ALF4",
+    "ingredient_names": " | Carbendazim | Cybutryne | 3-Iodo-2-propynylbutylcarbamate",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/484c5bcd717e8d05_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "cat_eye_ghs": "2A",
+    "cat_skin_ghs": "2",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "not_stated"
+  },
+  {
+    "row": 1428,
+    "product_name": "Armeen 2C",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1429,
+    "product_name": "Armeen CD",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1430,
+    "product_name": "Armeen TD",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1431,
+    "product_name": "Arquad 16-50",
+    "ingredient_names": "Precautionary Statements. : Prevention: P210 Keep away from heat/sparks/open flames/hot surfaces. -. No smoking. | Hexadecyl trimethyl ammonium chloride",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1432,
+    "product_name": "Arquad DMMCB-50",
+    "ingredient_names": "Arquad MCB-50., ,... (The data for the hazardous ingredients were taken respectively from the last version",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/c8ef6e2484b36220_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "tox_h_statements": "H226 ;; H315 ;; H319 ;; H412",
+    "cat_eye_ghs": "2A",
+    "cat_skin_ghs": "2",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "negative"
+  }
+]

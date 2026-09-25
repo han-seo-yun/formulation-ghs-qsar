@@ -1,0 +1,16 @@
+{
+  "source_id": "a74952becccb39b1",
+  "file_path": "ingredient_source_audit/highlighted/a74952becccb39b1_highlighted.pdf",
+  "page_count": 2,
+  "full_text_length": 13791,
+  "sections_found": [
+    "label_header"
+  ],
+  "label_header": {
+    "epa_reg_number": null,
+    "formulation_code": null,
+    "signal_word": "DANGER",
+    "active_ingredient_declared": true,
+    "text_excerpt": "Ravap® E.C.\nLivestock, Poultry &\nPremise Insecticide Spray\nACTIVE INGREDIENTS:\t\nTetrachlorvinphos (CAS# 22248-79-9).....................................................................23.0%*\nDichlorvos (CAS# 62-73-7)...................................................................................."
+  }
+}

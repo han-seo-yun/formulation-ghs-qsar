@@ -1,0 +1,112 @@
+[
+ {
+  "row": 1615,
+  "fid": "MIX943",
+  "product_name": "Almond oil sweet",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/0730f58622e9b09a_highlighted.pdf",
+  "prev_fail_memo": "",
+  "n_smiles": 0
+ },
+ {
+  "row": 1616,
+  "fid": "MIX944",
+  "product_name": "Perilla oil",
+  "ingredient_names": "Perilla Seed Oil",
+  "hint_tox_url": "https://s3-eu-west-1.amazonaws.com/oand3.co.uk/wp-content/uploads/2018/02/msds-perilla-seed-oil-cold-pressed-organic.pdf",
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/bdd7e84d59b9db85_highlighted.pdf",
+  "prev_fail_memo": "",
+  "n_smiles": 0
+ },
+ {
+  "row": 1626,
+  "fid": "MIX953",
+  "product_name": "Boldo leaf oil",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "정식 공급업체 SDS 못찾음(2차 데이터베이스만 확인); GHS 분류 '없음/미확정', ascaridole 함유로 IFRA 향료사용 금지 물질",
+  "n_smiles": 0
+ },
+ {
+  "row": 1629,
+  "fid": "MIX956",
+  "product_name": "Bois de rose oil Brazilian",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/4029e123dbc1b1da_highlighted.pdf",
+  "prev_fail_memo": "구형 MSDS(Hetaksh Essential Oils, CAS 8015-77-8)로 GHS 신호어/H코드 없음 - Section11에 정성적 서술만 존재(피부/눈 경미한 자극성, irritant)",
+  "n_smiles": 0
+ },
+ {
+  "row": 1631,
+  "fid": "MIX958",
+  "product_name": "Deertongue incolore",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": "http://www.labnovo.com/CAS/8024-14-4/MFCD08024144",
+  "hint_doc_rel": null,
+  "prev_fail_memo": "GHS 신호어/H코드 확인 안됨, LD50 값만 확인(2차 독성DB)",
+  "n_smiles": 0
+ },
+ {
+  "row": 1639,
+  "fid": "MIX965",
+  "product_name": "Copaiba oil",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": "https://www.aurochemicals.com/wp-content/uploads/2019/05/COPAIBA-OIL-Natural-SDS.pdf",
+  "hint_doc_rel": null,
+  "prev_fail_memo": "Section 11 분류정보 없음(OSHA 기준 비위험, HMIS Health=0)",
+  "n_smiles": 0
+ },
+ {
+  "row": 1641,
+  "fid": "MIX967",
+  "product_name": "Guaiac wood oil",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": "https://www.essentialoil.in/uploads/product_image/638207-guaiac-wood-oil-msds.pdf",
+  "hint_doc_rel": null,
+  "prev_fail_memo": "구형식 SDS, GHS 신호어/H코드/LD50 없음(섭취시 유해 문구만 존재)",
+  "n_smiles": 0
+ },
+ {
+  "row": 1648,
+  "fid": "MIX973",
+  "product_name": "Pennyroyal oil Eurafrican",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "Eurafrican' 표기와 정확히 일치하는 자료 없음; Mentha pulegium(유럽/북아프리카산 페니로얄) 항목(TGSC, CAS 8013-99-8 표기)으로 추정 매칭. Section 11 상당부분(GHS분류/경구·경피·흡입독성) 전부 '없음/미확정'.",
+  "n_smiles": 0
+ },
+ {
+  "row": 1649,
+  "fid": "MIX974",
+  "product_name": "Olibanum gum",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/4f606acb2be389a7_highlighted.pdf",
+  "prev_fail_memo": "제품명은 gum(검)이나 확인된 SDS는 Olibanum Resinoid(동일 CAS 8016-36-2); Section 2/11에서 신호어·H코드 없이 'Not classified'로 명시됨",
+  "n_smiles": 0
+ },
+ {
+  "row": 1651,
+  "fid": "MIX976",
+  "product_name": "1,3-nonanediol acetate (mixed esters)",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "PubChem(ECHA C&L, EC 215-332-3)과 TGSC 양쪽 모두 GHS 미분류(Not Classified/None found)로 일치 확인.",
+  "n_smiles": 0
+ }
+]

@@ -1,0 +1,73 @@
+{
+  "source_id": "c2b8b63d0aca5053",
+  "file_path": "ingredient_source_audit/highlighted/c2b8b63d0aca5053_highlighted.pdf",
+  "page_count": 11,
+  "full_text_length": 20992,
+  "sections_found": [
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H226",
+      "H315",
+      "H319",
+      "H317",
+      "H304",
+      "H400",
+      "H410"
+    ],
+    "p_codes": [
+      "P210",
+      "P233",
+      "P240",
+      "P241",
+      "P242",
+      "P243",
+      "P261",
+      "P264",
+      "P272",
+      "P302",
+      "P352",
+      "P303",
+      "P361",
+      "P353",
+      "P305",
+      "P351",
+      "P338",
+      "P321",
+      "P332",
+      "P313",
+      "P333",
+      "P337",
+      "P362",
+      "P364",
+      "P370",
+      "P378",
+      "P403",
+      "P235",
+      "P405",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Flam. Liq. 3",
+      "Eye Irrit. 2",
+      "Skin Sens. 1",
+      "Aquatic Acute 1",
+      "Aquatic Chronic 1",
+      "explosion"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "HAZARDS IDENTIFICATION  \nCLASSIFICATION OF THE SUBSTANCE OR MIXTURE  \n \nCAS: 92201-50-8 / 8022-91-1 / 8008-51-3 \nEC: 295-980-1 \n \nCLASSIFICATION (EC 1272/2008): \n \n- \nPHYSICAL HAZARDS: \nFlam. Liq. 3 - H226 \n- \nHEALTH HAZARDS: \nSkin Irrit. 2 - H315 \nEye Irrit. 2 - H319 \nSkin Sens. 1 - H317 \nAsp. Tox."
+  },
+  "section_14": {
+    "un_number": null
+  },
+  "fallback": {
+    "formulation_code": "EC"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "source_id": "319c6f15df9ce2c7",
+  "file_path": "ingredient_source_audit/highlighted/319c6f15df9ce2c7_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 10351,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product identifier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION \nProduct identifier \nProduct Code \n00322283 \nProduct Name \nBeeswax Absolute \nCAS No \n8012-89-3  \nRecommended use of the chemical and restrictions on use \nRecommended use \nAromatic Ingredient(s). For Industrial Use Only.  \nRestrictions on use \nDo not ingest as such."
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION \nClassification \nNot a hazardous substance or mixture according to the Globally Harmonized System (GHS)  \nHazards not otherwise classified (HNOC)  \nNot applicable  \nLabel elements \nOther information  \nSupplier\nRobertet, Inc. \n400 International Drive \nMount Olive, NJ 07828 U"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

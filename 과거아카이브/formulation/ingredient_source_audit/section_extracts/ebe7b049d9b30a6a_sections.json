@@ -1,0 +1,35 @@
+{
+  "source_id": "ebe7b049d9b30a6a",
+  "file_path": "ingredient_source_audit/highlighted/ebe7b049d9b30a6a_highlighted.pdf",
+  "page_count": 10,
+  "full_text_length": 16224,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_15",
+    "section_14"
+  ],
+  "section_1": {
+    "product_name": "Product Name:",
+    "formulation_code": "SC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1.  IDENTIFICATION \n \nProduct Name:  \n \nFujiMite SC Miticide/Insecticide \nGeneral Use:   \n  \nMiticide/Insecticide \nProduct Description: \nSuspension Concentrate \nEPA Reg. No.: \n  \n71711-4 \n \nManufacturer \nMain Headquarters:  \nNihon Nohyaku Co., Ltd., Kyobashi OM Building, 19-8  \n \n \n \n  \nKyobashi 1-c"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "2.  HAZARD(S) IDENTIFICATION \n \nClassified according to OSHA 29 CFR 1910.1200 HCS \nClassification:  \n \nEye Irritation:  \n \n \nCategory 2A \n \nAcute Toxicity (Inhalation): \n \nCategory 4 \n \nSignal Word:  \nWARNING \n \n \n \nHazard Statements:  \nNichino America, Inc. \nFujiMite SC Miticide/Insecticide \nSDS 05"
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

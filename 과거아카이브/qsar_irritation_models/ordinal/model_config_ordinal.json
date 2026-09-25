@@ -1,0 +1,59 @@
+{
+  "version": "1.0",
+  "date": "2026-06-29",
+  "model_type": "Ordinal Classification (EPA 4-class)",
+  "models": {
+    "eye": {
+      "algorithm": "GradientBoostingClassifier",
+      "parameters": {
+        "n_estimators": 100,
+        "learning_rate": 0.05,
+        "max_depth": 3,
+        "subsample": 1.0
+      },
+      "performance": {
+        "cv": {
+          "accuracy": 0.425,
+          "balanced_accuracy": 0.392,
+          "mae": 0.797,
+          "quadratic_kappa": 0.328
+        },
+        "holdout": {
+          "accuracy": 0.408,
+          "balanced_accuracy": 0.392,
+          "mae": 0.789,
+          "quadratic_kappa": 0.405
+        }
+      }
+    },
+    "skin": {
+      "algorithm": "RandomForestClassifier",
+      "parameters": {
+        "n_estimators": 100,
+        "max_depth": 10,
+        "min_samples_split": 5,
+        "class_weight": "balanced"
+      },
+      "performance": {
+        "cv": {
+          "accuracy": 0.645,
+          "balanced_accuracy": 0.315,
+          "mae": 0.495,
+          "quadratic_kappa": 0.193
+        },
+        "holdout": {
+          "accuracy": 0.705,
+          "balanced_accuracy": 0.393,
+          "mae": 0.476,
+          "quadratic_kappa": 0.1
+        }
+      }
+    }
+  },
+  "class_interpretation": {
+    "0": "EPA Class 1 (Corrosive/Severely Irritating)",
+    "1": "EPA Class 2 (Moderately Irritating)",
+    "2": "EPA Class 3 (Mildly Irritating)",
+    "3": "EPA Class 4 (Non-irritating)"
+  }
+}

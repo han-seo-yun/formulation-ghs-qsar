@@ -1,0 +1,35 @@
+{
+  "source_id": "da867c49300335d9",
+  "file_path": "ingredient_source_audit/highlighted/da867c49300335d9_highlighted.pdf",
+  "page_count": 16,
+  "full_text_length": 62071,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "PRODUCT IDENTITY: SNAKE OIL",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1. IDENTIFICATION OF THE SUBSTANCE OR MIXTURE AND OF THE SUPPLIER              \n \nPRODUCT IDENTITY: SNAKE OIL                                                       \nNEW MSDS DATE:    02/15/2011                                                               \nCOMPANY IDENTITY: GENERAL PIPE CLEA"
+  },
+  "section_2": {
+    "signal_word": "CAUTION",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 1,
+    "text_excerpt": "SECTION 2. HAZARDS IDENTIFICATION                                  \n \n                                CAUTION                                                    \nRISK STATEMENTS: \n  R22  \n \nHarmful if swallowed. \n  R36/37 \n \nIrritating to eyes, and respiratory system.  \n \nSAFETY STATEMENTS:         "
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

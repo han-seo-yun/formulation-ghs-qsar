@@ -1,0 +1,37 @@
+{
+  "source_id": "2991410dde4389e8",
+  "file_path": "ingredient_source_audit/highlighted/2991410dde4389e8_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 12904,
+  "sections_found": [
+    "section_1",
+    "section_3",
+    "section_2",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "PRODUCT NAME:  WILLOWOOD TEB 45DF Fungicide",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION \nPRODUCT NAME:  WILLOWOOD TEB 45DF Fungicide  \nCHEMICAL NAME: Tebuconazole ([RS]-1-[4-chlorophenyl]-4,4-dimethyl-3-[1H-1,2,4-triazol-1-ylmethyl]-\npentan-3-ol) \nCHEMICAL FAMILY:  Triazole Fungicide \nPRODUCT CODE:  EPA Reg. No.  87290-12 \n \nCOMPANY IDENTIFICATION: \nW"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "carcinogen"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "HAZARDS IDENTIFICATION SUMMARY: \n \nNOTE: Please refer to Section 11 for detailed toxicological information. \nEMERGENCY OVERVIEW:  WARNING!  The product is an irritant and an environmentally hazardous \nsubstance.  The product may cause moderate eye irritation and harmful if swallowed or inhaled.  Thi"
+  },
+  "section_14": {
+    "un_number": "3077"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"python3 -c \\\"\\nimport pandas as pd\\npd.set_option('display.width',300); pd.set_option('display.max_columns',60)\\nd=pd.read_csv('v8_노선2/지표_노선2.csv')\\nprint(list(d.columns))\\nk=d[(d['단위']=='...",
+  "error": "Exit code 1\nTraceback (most recent call last):\n  File \"<string>\", line 7, in <module>\n    print(k[['endpoint','피처셋','열수','n','유병률','roc_auc','roc_auc_sd','roc_auc_보정','MCC','BA','재현율','특이도','tau_평균','대표']].to_string(index=False))\n          ~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/miniconda3/lib/python3.13/site-packages/pandas/core/frame.py\", line 4384, in __getitem__\n    indexer = self.columns._...",
+  "timestamp": "2026-09-14T12:49:19.928Z",
+  "retry_count": 1
+}

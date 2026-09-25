@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"sleep 120; ls -la 02_모델입력_데이터/사용법.md 05_재현코드/실행방법.md; grep -n \\\"다\\\\.$\\\" 02_모델입력_데이터/사용법.md 05_재현코드/실행방법.md | head -20\",\"description\":\"Check agent progress on tone rewrite\"}",
+  "error": "Exit code 143\nCommand timed out after 2m 0s",
+  "timestamp": "2026-08-20T00:50:46.383Z",
+  "retry_count": 1
+}

@@ -1,0 +1,449 @@
+endpoint,Formulation_ID,quote_missing,has_endpoint_word,has_explicit_negative,has_suspicious_marker,has_no_data_marker,quote
+eye,Cancer_PID_99,False,True,True,False,False,Serious eye damage/irritation : Not classified
+eye,EyeIrritation6pack_PID116,False,True,True,False,False,"Rabbit, Eye Irritation -   Not irritating"
+eye,MIX1002,False,True,True,True,True,Serious eye damage/irritation: Not determined. No significant effects or critical hazards.
+eye,MIX1004,False,True,True,False,False,Serious eye damage/irritation:  / No significant effects or critical hazards.
+eye,MIX1010,False,True,True,False,False,Serious eye damage/eye irritation  / Eyes - Rabbit  / Result: No eye irritation  / (OECD Test Guideline 405)
+eye,MIX1023,False,True,True,False,False,Serious eye damage/irritation: No irritant effect.
+eye,MIX1024,False,True,False,True,False,GHS Hazard Classifications: None Hazard Statements: None / Eye Contact: Direct contact with the eyes is likely irritating. / Irritancy: May cause eye irritation with direct contact.
+eye,MIX1045,False,True,True,False,False,• Serious eye damage/irritation / No irritating effect.
+eye,MIX1047,False,False,True,False,False,2.1 Classification of the substance or mixture / Not a hazardous substance or mixture.
+eye,MIX1072,False,True,False,True,True,c) serious eye damage/irritation; / Not conclusive data for classification.
+eye,MIX112,False,True,True,False,False,Serious eye damage/eye irritation  / Eyes - Rabbit  / Result: No eye irritation
+eye,MIX114,False,True,True,False,False,Serious eye damage/eye irritation  / Eyes - Rabbit  / Result: No eye irritation
+eye,MIX116,False,True,True,False,False,Serious eye damage/eye irritation / Shall not be classified as seriously damaging to the eye or eye irritant.
+eye,MIX13,False,True,True,False,False,Serious eye damage/eye irritation  / Eyes - rabbit  / Result: No eye irritation
+eye,MIX142,False,True,True,False,False,Serious eye damage/eye irritation / Eyes - Rabbit / Result: No eye irritation
+eye,MIX15,False,True,True,False,False,Serious eye damage/eye irritation  / Eyes - rabbit  / Result: No eye irritation
+eye,MIX194,False,True,True,False,False,Serious eye damage/eye irritation Non-irritant.
+eye,MIX203,False,True,True,False,False,Serious eye damage/eye irritation / Shall not be classified as seriously damaging to the eye or eye irritant.
+eye,MIX217,False,True,True,False,False,Serious eye damage/eye irritation  / Eyes - rabbit  / Result: No eye irritation
+eye,MIX222,False,True,True,False,False,Serious eye damage/eye irritation / Shall not be classified as seriously damaging to the eye or eye irritant.
+eye,MIX227,False,True,False,False,True,Serious eye damage/irritation --- Not Applicable
+eye,MIX23,False,True,True,False,False,Serious eye damage/eye irritation / Shall not be classified as seriously damaging to the eye or eye irritant.
+eye,MIX245,False,True,True,False,False,Serious eye damage/eye irritation / Shall not be classified as seriously damaging to the eye or eye irritant.
+eye,MIX280,False,True,True,False,False,Eye irritation: Nonirritating
+eye,MIX294,False,True,True,False,False,"Eye contact Based on available data, the classification criteria are not met."
+eye,MIX329,False,False,True,False,False,2.1 Classification of the substance or mixture Not a hazardous substance or mixture.
+eye,MIX339,False,False,True,False,False,GHS classification in accordance with the Hazardous Products Regulations Not a hazardous substance or mixture.
+eye,MIX342,False,True,True,False,False,Serious eye damage/eye irritation / Product: / Species : Rabbit / Result : No eye irritation
+eye,MIX345,False,True,True,False,False,"Irritation/Corrosion Conclusion/Summary ... Eyes : Based on available data, the classification criteria are not met."
+eye,MIX351,False,True,True,False,False,Serious eye damage/eye irritation / Shall not be classified as seriously damaging to the eye or eye irritant.
+eye,MIX364,False,False,True,False,False,2.1 Classification of the substance or mixture  / Not a hazardous substance or mixture.
+eye,MIX370,False,True,True,False,False,Serious eye damage/eye irritation / Shall not be classified as seriously damaging to the eye or eye irritant.
+eye,MIX377,False,True,True,True,False,· on the eye: Essentially nonirritating to eyes.
+eye,MIX378,False,True,True,False,False,Primary eye irritation: Non-irritating (EPA tox. category IV)
+eye,MIX383,False,True,True,False,True,"Serious eye damage/eye irritation : Not classified (Based on available data, the classification criteria are not met.) pH: Not applicable"
+eye,MIX397,False,True,True,False,False,Serious eye damage/eye irritation: Species: Rabbit Method: OECD Test Guideline 405 Result: No eye irritation
+eye,MIX405,False,True,True,False,False,Serious eye damage/eye irritation / Shall not be classified as seriously damaging to the eye or eye irritant.
+eye,MIX42,False,True,True,True,False,Serious eye damage/eye irritation / Essentially nonirritating to eyes. / Corneal injury is unlikely.
+eye,MIX431,False,True,True,False,False,Serious eye damage/eye irritation Shall not be classified as seriously damaging to the eye or eye irritant.
+eye,MIX434,False,True,True,False,False,Eye Contact: Non-Irritating (Rabbit)
+eye,MIX44,False,True,True,False,False,Serious eye damage/irritation : Not classified
+eye,MIX447,False,True,True,False,False,Serious eye damage/eye irritation / Shall not be classified as seriously damaging to the eye or eye irritant.
+eye,MIX47,False,True,True,False,False,"Rabbit, Eye Irritation -   Not irritating"
+eye,MIX494,False,True,True,False,False,Serious eye damage/irritation: Based on available data the classification criteria are not met.
+eye,MIX517,False,True,True,False,False,"Serious Eye Damage/Irritation / Based on available data, the classification criteria are not met."
+eye,MIX527,False,True,False,False,False,(c) serious eye damage/irritation: not irritant
+eye,MIX530,False,True,True,False,False,Serious eye damage/eye irritation / Product: / Result : No eye irritation
+eye,MIX545,False,True,True,True,True,"2.1 Classification of the substance or mixture / Not a hazardous substance or mixture. / 2.2 GHS Label elements, including precautionary statements / Not a hazardous substance or mixture. / ... Serious eye damage/eye irritation / No data available"
+eye,MIX547,False,True,True,False,False,· on the eye: No irritating effect.
+eye,MIX555,False,True,True,False,False,Eye / Species: rabbit / Result: non-irritant / Method: OECD Guideline 405
+eye,MIX575,False,True,True,False,False,GHS Classification: Not classified. GHS Labeling: Not a dangerous substance according to GHS. GHS Hazard Statements: None. Potential Health Hazards: Eyes: May be an irritant.
+eye,MIX577,False,True,False,False,False,Serious eye damage/eye irritation Mild eye irritation. (Rabbit)
+eye,MIX581,False,True,True,False,False,"Based on animal data, this product is not a skin or eye irritant, and is not a skin sensitizer in animals."
+eye,MIX586,False,True,True,False,False,Serious eye damage/eye irritation / Shall not be classified as seriously damaging to the eye or eye irritant.
+eye,MIX587,False,True,True,False,False,Serious eye damage/eye irritation  / Eyes - rabbit  / Result: No eye irritation
+eye,MIX589,False,True,True,True,False,Irritation / corrosion  / Assessment of irritating effects: May cause slight irritation to the eyes. May cause slight irritation to the skin. /  / Eye  / Species: rabbit  / Result: non-irritant
+eye,MIX594,False,True,True,False,False,Serious eye damage/irritation Non-irritating (Rabbit)
+eye,MIX595,False,True,True,True,False,Irritation / corrosion / Assessment of irritating effects: May cause slight irritation to the skin. May cause slight but temporary irritation to the eyes. /  / Eye / Species: rabbit / Result: non-irritant / Method: OECD Guideline 405
+eye,MIX612,False,True,True,False,False,Eye irritation: Non-irritant
+eye,MIX618,False,True,True,False,False,· on the eye: No irritating effect.
+eye,MIX621,False,True,True,False,False,· on the eye: No irritating effect.
+eye,MIX623,False,False,False,False,False,Classification - (per U.S. OSHA 29 CFR 1910.1200 (Hazcom 2012)) / Not a dangerous substance or mixture according to the Globally Harmonized System (GHS).
+eye,MIX629,False,True,True,False,False,Eye Irritation (Category III) Cause moderate eye irritation | Not classified
+eye,MIX630,False,True,True,False,False,Serious eye damage/irritation / Classification criteria are not met based on available data
+eye,MIX632,False,True,True,False,False,This material is not hazardous under the criteria of the Federal OSHA Hazard Communication Standard 29CFR 1910.1200. ... Serious eye damage/eye irritation No eye irritation (Rabbit)
+eye,MIX645,False,True,False,False,False,"Eye effects/eye irritation: Mild, transient irritant"
+eye,MIX649,False,True,False,False,True,Classifications: Not Applicable | Signal Word (OSHA): Not Applicable | Hazard Statements: Not Applicable ... Eye Contact: Minimally Irritating (Rabbit)
+eye,MIX653,False,True,False,False,False,Serious eye damage/eye irritation Slight irritant effect - does not require labelling. (Rabbit) Test conducted with a similar formulation.
+eye,MIX659,False,True,False,False,True,Classifications: Not Applicable / Signal Word (OSHA): Not Applicable / Hazard Statements: Not Applicable ... Eye Contact: Mildly Irritating (Rabbit) (based on a substantially similar formulation)
+eye,MIX661,False,True,True,True,False,Serious eye damage/eye irritation / May cause slight temporary eye irritation. / Minimal effects that do not meet the threshold for classification.
+eye,MIX668,False,True,True,False,False,"Serious Eye Damage / Irritation: Based on classification principles, the classification criteria are not met."
+eye,MIX67,False,True,True,False,False,Serious eye damage/irritation : Not classified pH: 7 - 8
+eye,MIX670,False,True,True,False,False,"Serious eye damage/eye irritation Based on available data, the classification criteria are not met."
+eye,MIX672,False,True,True,False,False,Serious eye damage/eye irritation Eyes - Rabbit Result: No eye irritation
+eye,MIX7,False,True,True,False,False,Serious eyes damages/irritation rabbit: non-irritant
+eye,MIX701,False,True,False,False,False,Eye The mixture is not considered to be an eye irritant. Sum of eye irritants <10%
+eye,MIX704,False,False,True,False,False,Classification - (per U.S. OSHA 29 CFR 1910.1200 (Hazcom 2012)) / Not a hazardous substance or mixture according to the Globally Harmonized System (GHS).
+eye,MIX706,False,True,True,False,False,Acute Eye Contact: This product is expected to cause minimal or no eye irritation. The expected adverse health effects resulting from an exposure may include redness and possibly some minor swelling.
+eye,MIX708,False,True,True,True,False,Health hazards Not classified. ... Hazard statement The mixture does not meet the criteria for classification. / Serious eye damage/eye irritation: Direct contact with eyes may cause temporary irritation.
+eye,MIX709,False,True,True,True,False,Health hazards Not classified. ... Hazard statement The mixture does not meet the criteria for classification. / Serious eye damage/eye irritation: Direct contact with eyes may cause temporary irritation.
+eye,MIX758,False,True,True,False,False,Serious eye damage/eye irritation / Eyes - Bovine cornea / Result: No eye irritation - 4 h / (OECD Test Guideline 437)
+eye,MIX759,False,True,True,False,False,Eye Irritation (Category III) Cause moderate eye irritation | Not classified
+eye,MIX773,False,True,True,False,False,Eye Contact: Non-Irritating (Rabbit)
+eye,MIX794,False,False,True,False,False,2.1 Classification of the substance or mixture Not a hazardous substance or mixture.
+eye,MIX809,False,True,True,False,False,Serious eye damage/eye irritation / Shall not be classified as seriously damaging to the eye or eye irritant.
+eye,MIX810,False,False,False,False,False,This product is not considered hazardous by the US OSHA Hazard Communication Standard 2024 (29 CFR 1910.1200).
+eye,MIX811,False,False,False,False,False,This product is not considered hazardous by the US OSHA Hazard Communication Standard 2024 (29 CFR 1910.1200).
+eye,MIX823,False,True,True,False,False,"(c) serious eye damage/irritation; Based on available data, the classification criteria are not met"
+eye,MIX846,False,True,True,False,False,Serious eye damage/eye irritation / Shall not be classified as seriously damaging to the eye or eye irritant.
+eye,MIX849,False,True,True,False,False,Serious eye damage/eye irritation / Shall not be classified as seriously damaging to the eye or eye irritant.
+eye,MIX851,False,True,True,False,False,Serious eye damage/eye irritation  / Eyes - rabbit  / Result: No eye irritation
+eye,MIX852,False,True,True,False,False,Serious eye damage/eye irritation  / Eyes - rabbit  / Result: No eye irritation
+eye,MIX853,False,True,True,False,False,Serious eye damage/eye irritation / Shall not be classified as seriously damaging to the eye or eye irritant.
+eye,MIX854,False,True,True,False,False,Serious eye damage/eye irritation / Shall not be classified as seriously damaging to the eye or eye irritant.
+eye,MIX868,False,True,True,False,False,EYE DAMAGE OR IRRITATION NOT CLASSIFIED.
+eye,MIX873,False,True,True,False,False,Serious eye damage/eye irritation / Shall not be classified as seriously damaging to the eye or eye irritant.
+eye,MIX888,False,False,True,False,False,This chemical is not considered hazardous by the 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200) ... Not classified ... Hazard statements None
+eye,MIX905,False,True,True,False,False,Serious eye damage/eye irritation / Shall not be classified as seriously damaging to the eye or eye irritant.
+eye,MIX910,False,True,True,False,False,Serious eye damage/irritation: Based on available data the classification criteria are not met.
+eye,MIX913,False,True,True,False,False,Serious eye damage/eye irritation / Shall not be classified as seriously damaging to the eye or eye irritant.
+eye,MIX914,False,True,True,False,False,Serious eye damage/irritation: Based on available data the classification criteria are not met.
+eye,MIX919,False,True,True,False,False,Serious eye damage/irritation: Based on available data the classification criteria are not met.
+eye,MIX933,False,True,True,False,False,"Serious eye damage/irritation : Not classified (Based on available data, the classification criteria are not met)"
+eye,MIX942,False,True,True,False,False,• Serious eye damage/irritation / No irritating effect.
+eye,MIX943,False,True,True,False,False,Health hazards Not classified. ... Hazard statement The substance does not meet the criteria for classification. / Serious eye damage/eye irritation Due to partial or complete lack of data the classification is not possible.
+eye,MIX944,False,True,False,False,True,Eye damage or irritation Not Applicable.
+eye,MIX974,False,True,True,True,False,Health hazards Not classified. ... Hazard statement The substance does not meet the criteria for classification. ... Serious eye damage/eye irritation Direct contact with eyes may cause temporary irritation.
+eye,MIX991,False,True,True,False,False,Serious eye damage/irritation: Based on available data the classification criteria are not met.
+eye,MIX995,False,True,True,False,False,Serious eye damage/irritation: Based on available data the classification criteria are not met.
+skin,Cancer_PID_99,False,True,True,False,False,Skin corrosion/irritation : Not classified
+skin,EyeIrritation6pack_PID1024,False,True,True,True,True,2.1 Classification of the substance or mixture / Not a hazardous substance or mixture. / ... Skin corrosion/irritation / No data available
+skin,EyeIrritation6pack_PID1032,False,True,True,False,False,"Skin Corrosion/Irritation / Based on available data, the classification criteria are not met."
+skin,EyeIrritation6pack_PID1039,False,True,False,False,False,(b) skin corrosion/irritation: not irritant
+skin,EyeIrritation6pack_PID1040,False,True,True,False,False,Skin corrosion/irritation / Product: / Result : No skin irritation
+skin,EyeIrritation6pack_PID1055,False,True,True,False,False,· on the skin: No irritant effect.
+skin,EyeIrritation6pack_PID1060,False,True,True,True,False,Skin / Species: rabbit / Result: non-irritant / Method: OECD Guideline 404 / May cause slight irritation to the skin.
+skin,EyeIrritation6pack_PID118,False,True,True,True,False,Assessment of irritating effects: / Causes serious eye irritation. Not irritating to the skin.
+skin,EyeIrritation6pack_PID125,False,True,True,True,False,Assessment of irritating effects: / May cause severe damage to the eyes. Not irritating to the skin.
+skin,EyeIrritation6pack_PID128,False,True,True,True,False,"Assessment of irritating effects: / Not irritating to eyes and skin. ... Skin corrosion/irritation /  rabbit: non-irritant (Guideline 92/69/EEC, B.4)"
+skin,EyeIrritation6pack_PID160,False,True,True,False,False,Skin corrosion/irritation Skin - rabbit Result: No skin irritation
+skin,EyeIrritation6pack_PID168,False,True,True,False,False,Skin corrosion/irritation : Not classified pH: 7 - 8
+skin,EyeIrritation6pack_PID170,False,True,True,False,False,Skin corrosion/irritation  / Skin - Rabbit  / Result: No skin irritation
+skin,EyeIrritation6pack_PID246,False,True,True,False,False,Skin corrosion/irritation  / Skin - Rabbit  / Result: No skin irritation
+skin,EyeIrritation6pack_PID247,False,True,True,False,False,Skin corrosion/irritation  / Skin - Rabbit  / Result: No skin irritation
+skin,EyeIrritation6pack_PID28,False,True,True,False,False,Skin corrosion/irritation  / Skin - rabbit  / Result: No skin irritation
+skin,EyeIrritation6pack_PID288,False,True,True,False,False,Skin corrosion/irritation / Shall not be classified as corrosive/irritant to skin.
+skin,EyeIrritation6pack_PID29,False,True,True,False,False,Skin corrosion/irritation  / Skin - rabbit  / Result: No skin irritation
+skin,EyeIrritation6pack_PID343,False,True,True,False,False,Skin Irritation (rabbit): Non-irritating
+skin,EyeIrritation6pack_PID40,False,True,True,False,False,Skin corrosion/irritation / Shall not be classified as corrosive/irritant to skin.
+skin,EyeIrritation6pack_PID422,False,True,True,False,False,Skin corrosion/irritation / Shall not be classified as corrosive/irritant to skin.
+skin,EyeIrritation6pack_PID443,False,True,True,False,False,Skin corrosion/irritation / Shall not be classified as corrosive/irritant to skin.
+skin,EyeIrritation6pack_PID467,False,True,True,False,False,Skin corrosion/irritation  / Skin - rabbit  / Result: No skin irritation
+skin,EyeIrritation6pack_PID475,False,True,False,False,True,Skin corrosion/irritation --- Not Applicable
+skin,EyeIrritation6pack_PID477,False,True,True,True,False,Assessment of irritating effects: / Eye contact causes irritation. Not irritating to the skin. /  / Experimental/calculated data: / Skin corrosion/irritation rabbit: non-irritant (OECD Guideline 404)
+skin,EyeIrritation6pack_PID489,False,True,True,False,False,Skin corrosion/irritation / Skin - Rabbit / Result: No skin irritation / (OECD Test Guideline 404)
+skin,EyeIrritation6pack_PID511,False,True,True,False,False,Skin corrosion/irritation / Shall not be classified as corrosive/irritant to skin.
+skin,EyeIrritation6pack_PID514,False,True,True,False,False,Skin corrosion/irritation Shall not be classified as corrosive/irritant to skin.
+skin,EyeIrritation6pack_PID516,False,True,True,False,False,Skin corrosion/irritation / Shall not be classified as corrosive/irritant to skin.
+skin,EyeIrritation6pack_PID560,False,True,True,False,False,"Skin contact Based on available data, the classification criteria are not met."
+skin,EyeIrritation6pack_PID690,False,True,True,False,False,Skin corrosion/irritation / Product: / Species : Rabbit / Result : No skin irritation
+skin,EyeIrritation6pack_PID694,False,True,True,False,False,"Irritation/Corrosion Conclusion/Summary Skin : Based on available data, the classification criteria are not met."
+skin,EyeIrritation6pack_PID699,False,True,True,False,True,"Skin corrosion/irritation : Not classified (Based on available data, the classification criteria are not met.) pH: Not applicable"
+skin,EyeIrritation6pack_PID732,False,True,True,True,False,Skin / Species: rabbit / Result: non-irritant / Method: OECD Guideline 404 /  / May cause slight irritation to the skin.
+skin,EyeIrritation6pack_PID738,False,True,True,False,False,Skin corrosion/irritation: Species: Rabbit Method: OECD Test Guideline 404 Result: No skin irritation
+skin,EyeIrritation6pack_PID768,False,True,True,False,False,Skin corrosion/irritation Shall not be classified as corrosive/irritant to skin.
+skin,EyeIrritation6pack_PID788,False,True,True,False,False,Skin corrosion/irritation / Shall not be classified as corrosive/irritant to skin.
+skin,EyeIrritation6pack_PID800,False,True,True,False,False,Primary skin irritation: Non-irritating (EPA tox. category IV)
+skin,EyeIrritation6pack_PID827,False,True,True,False,False,Skin corrosion/irritation Not classified as a skin irritant
+skin,EyeIrritation6pack_PID828,False,True,True,False,False,Skin corrosion/irritation / Shall not be classified as corrosive/irritant to skin.
+skin,EyeIrritation6pack_PID829,False,True,True,True,False,Skin Irritation: No irritating to skin of rabbits.
+skin,EyeIrritation6pack_PID838,False,True,True,False,False,Skin corrosion/irritation / Shall not be classified as corrosive/irritant to skin.
+skin,EyeIrritation6pack_PID863,False,True,True,False,False,"Skin Contact: Based on available data, the classification criteria are not met."
+skin,EyeIrritation6pack_PID960,False,True,True,False,False,Skin corrosion/irritation / Not classified based on available information.
+skin,EyeIrritation6pack_PID977,False,True,True,False,False,"Skin Effects: LD50 >5,050 mg/kg (rabbit). Not a skin sensitizer. A skin irritation study on rabbits showed the product may be slightly irritating, but not sufficient for classification."
+skin,MIX1004,False,True,True,False,False,Skin corrosion/irritation:  / No significant effects or critical hazards.
+skin,MIX1023,False,True,True,False,False,Skin corrosion/irritation: No irritant effect.
+skin,MIX1024,False,True,False,False,False,Skin Contact: None expected when used under normal conditions.
+skin,MIX1047,False,False,True,False,False,2.1 Classification of the substance or mixture / Not a hazardous substance or mixture.
+skin,MIX116,False,True,True,False,False,Skin corrosion/irritation / Shall not be classified as corrosive/irritant to skin.
+skin,MIX158,False,True,True,False,False,Skin Irritation (rabbit): Non-irritating
+skin,MIX194,False,True,True,False,False,Skin corrosion/irritation Non-irritant.
+skin,MIX203,False,True,True,False,False,Skin corrosion/irritation / Shall not be classified as corrosive/irritant to skin.
+skin,MIX251,False,True,True,True,False,Skin corrosion/irritation / Essentially nonirritating to skin.
+skin,MIX280,False,True,True,False,False,Skin irritation: Nonirritating
+skin,MIX329,False,False,True,False,False,2.1 Classification of the substance or mixture Not a hazardous substance or mixture.
+skin,MIX339,False,False,True,False,False,GHS classification in accordance with the Hazardous Products Regulations Not a hazardous substance or mixture.
+skin,MIX364,False,False,True,False,False,2.1 Classification of the substance or mixture  / Not a hazardous substance or mixture.
+skin,MIX377,False,True,True,True,False,· on the skin: Brief contact is essentially nonirritating to skin.
+skin,MIX42,False,True,True,True,False,Skin corrosion/irritation / Essentially nonirritating to skin.
+skin,MIX571,False,True,True,False,False,Skin Irritation: Non-irritant
+skin,MIX577,False,True,True,False,False,Skin corrosion/irritation No skin irritation (Rabbit)
+skin,MIX581,False,True,True,False,False,"Based on animal data, this product is not a skin or eye irritant, and is not a skin sensitizer in animals."
+skin,MIX587,False,True,True,False,False,Skin corrosion/irritation  / Skin - rabbit  / Result: No skin irritation
+skin,MIX589,False,True,True,False,False,Skin  / Species: rabbit  / Result: non-irritant
+skin,MIX594,False,True,True,False,False,Skin corrosion/irritation Animal data Not irritating. (Rabbit)
+skin,MIX595,False,True,True,False,False,Skin / Species: rabbit / Result: non-irritant / Method: OECD Guideline 404
+skin,MIX603,False,True,True,True,False,Skin Irritation : Non-irritating to skin
+skin,MIX607,False,True,True,True,False,Skin Irritation : Non-irritating to skin
+skin,MIX608,False,True,False,False,False,Skin corrosion/irritation Slight irritant effect - does not require labelling. (Rabbit)
+skin,MIX612,False,True,True,False,False,Skin irritation: Non-irritant
+skin,MIX617,False,True,True,False,False,· Primary irritant effect: / · on the skin: No irritant effect.
+skin,MIX618,False,True,True,False,False,· on the skin: No irritant effect.
+skin,MIX621,False,True,True,False,False,· on the skin: No irritant effect.
+skin,MIX629,False,True,True,False,False,Skin Irritation (Category IV) No required hazard label | Not classified
+skin,MIX630,False,True,True,False,False,Skin corrosion/irritation / Classification criteria are not met based on available data
+skin,MIX632,False,True,True,False,False,Skin corrosion/irritation No skin irritation (Rabbit)
+skin,MIX641,False,True,False,False,False,"Lannate SP is not a skin irritant or a skin sensitizer, but is a slight eye irritant in animals."
+skin,MIX645,False,True,True,False,False,Skin irritation: Non-irritating
+skin,MIX648,False,True,True,False,False,Skin Contact: Practically Non-Irritating (Rabbit) (based on a substantially similar formulation)
+skin,MIX649,False,True,True,False,False,Skin Contact: Practically Non-Irritating (Rabbit)
+skin,MIX653,False,True,False,False,False,Skin corrosion/irritation Slight irritant effect - does not require labelling. (Rabbit) Test conducted with a similar formulation.
+skin,MIX655,False,True,True,False,False,Skin corrosion/irritation No skin irritation (Rabbit)
+skin,MIX659,False,True,True,False,False,Skin Contact: Practically Non-Irritating (Rabbit) (based on a substantially similar formulation)
+skin,MIX661,False,False,True,False,False,This product is not hazardous under the criteria of the Hazardous Products Regulation (HPR) as implemented under the Workplace Hazardous Materials Information System (WHMIS 2015).
+skin,MIX662,False,True,True,False,False,"Skin contact Based on available data, the classification criteria are not met."
+skin,MIX668,False,True,True,False,False,"Skin Corrosion / Irritation: Based on classification principles, the classification criteria are not met."
+skin,MIX670,False,True,True,False,False,"Skin corrosion/irritation Based on available data, the classification criteria are not met."
+skin,MIX672,False,True,True,False,False,Skin corrosion/irritation Skin - Rabbit Result: No skin irritation
+skin,MIX679,False,True,True,False,False,Skin corrosion/irritation Skin - Rabbit Result: No skin irritation
+skin,MIX688,False,True,False,False,False,Skin corrosion/irritation Slight irritant effect - does not require labelling. (Rabbit) Test conducted with a similar formulation.
+skin,MIX691,False,True,True,False,False,Skin irritation (rabbit): Little or no irritant effect
+skin,MIX7,False,True,True,False,False,Skin corrosion/irritation rabbit: non-irritant
+skin,MIX701,False,True,False,False,False,Skin The mixture is not considered to be a skin irritant. Sum of mild skin irritants <10%
+skin,MIX704,False,False,True,False,False,Classification - (per U.S. OSHA 29 CFR 1910.1200 (Hazcom 2012)) / Not a hazardous substance or mixture according to the Globally Harmonized System (GHS).
+skin,MIX708,False,True,True,True,False,Health hazards Not classified. Hazard statement The mixture does not meet the criteria for classification. / Skin corrosion/irritation: Prolonged skin contact may cause temporary irritation.
+skin,MIX709,False,True,True,True,False,Health hazards Not classified. Hazard statement The mixture does not meet the criteria for classification. / Skin corrosion/irritation: Prolonged skin contact may cause temporary irritation.
+skin,MIX710,False,True,True,False,False,Skin Contact: Practically Non-Irritating (Rabbit)
+skin,MIX712,False,True,True,False,False,"Skin irritation : No skin irritation, Rabbit / Minimal effects that do not meet the threshold for classification."
+skin,MIX715,False,True,True,False,False,Skin corrosion/irritation Skin - Rabbit Result: No skin irritation
+skin,MIX717,False,True,False,False,False,Skin irritation: Rabbit: slight irritation
+skin,MIX749,False,True,True,False,False,"Skin irritation : No skin irritation, Rabbit / Minimal effects that do not meet the threshold for classification."
+skin,MIX758,False,True,True,False,False,Skin corrosion/irritation / Skin - reconstructed human epidermis (RhE) / Result: No skin irritation - 15 min
+skin,MIX759,False,True,True,False,False,Skin Irritation (Category IV) No required hazard label | Not classified
+skin,MIX794,False,False,True,False,False,2.1 Classification of the substance or mixture Not a hazardous substance or mixture.
+skin,MIX809,False,True,True,False,False,Skin corrosion/irritation / Shall not be classified as corrosive/irritant to skin.
+skin,MIX810,False,False,False,False,False,This product is not considered hazardous by the US OSHA Hazard Communication Standard 2024 (29 CFR 1910.1200).
+skin,MIX811,False,False,False,False,False,This product is not considered hazardous by the US OSHA Hazard Communication Standard 2024 (29 CFR 1910.1200).
+skin,MIX816,False,True,True,False,False,Skin Contact: Not expected to be a problem.
+skin,MIX823,False,True,True,False,False,"(b) skin corrosion/irritation; Based on available data, the classification criteria are not met"
+skin,MIX846,False,True,True,False,False,Skin corrosion/irritation / Shall not be classified as corrosive/irritant to skin.
+skin,MIX850,False,True,True,False,False,Skin irritation No skin irritation (Rabbit)
+skin,MIX851,False,True,True,False,False,Skin corrosion/irritation  / Skin - rabbit  / Result: No skin irritation
+skin,MIX852,False,True,True,False,False,Skin corrosion/irritation  / Skin - rabbit  / Result: No skin irritation
+skin,MIX853,False,True,True,False,False,Skin corrosion/irritation / Shall not be classified as corrosive/irritant to skin.
+skin,MIX854,False,True,True,False,False,Skin corrosion/irritation / Shall not be classified as corrosive/irritant to skin.
+skin,MIX888,False,False,True,False,False,This chemical is not considered hazardous by the 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200) ... Not classified ... Hazard statements None
+skin,MIX891,False,True,True,False,False,· Primary irritant effect: · on the skin: No irritant effect.
+skin,MIX905,False,True,True,False,False,Skin corrosion/irritation / Shall not be classified as corrosive/irritant to skin.
+skin,MIX914,False,True,True,False,False,Skin corrosion/irritation: Based on available data the classification criteria are not met.
+skin,MIX933,False,True,True,False,False,"Skin corrosion/irritation : Not classified (Based on available data, the classification criteria are not met)"
+skin,MIX934,False,False,True,False,False,Classification / Not a hazardous substance or mixture according to the Globally Harmonized System (GHS)
+skin,MIX938,False,True,True,False,False,- Skin corrosion/irritation / No irritant effect.
+skin,MIX943,False,True,True,False,False,Health hazards Not classified. ... Hazard statement The substance does not meet the criteria for classification. / Skin corrosion/irritation Due to partial or complete lack of data the classification is not possible.
+skin,MIX944,False,True,False,False,True,Skin irritation Not Applicable.
+skin,MIX948,False,True,True,False,False,Skin corrosion/irritation: Based on available data the classification criteria are not met.
+skin,MIX974,False,True,True,True,False,Health hazards Not classified. ... Skin corrosion/irritation Prolonged skin contact may cause temporary irritation.
+skin,MIX991,False,True,True,False,False,Skin corrosion/irritation: Based on available data the classification criteria are not met.
+sens,Cancer_PID_99,False,True,True,False,False,Respiratory or skin sensitisation : Not classified
+sens,EyeIrritation6pack_PID1024,False,True,True,True,True,2.1 Classification of the substance or mixture / Not a hazardous substance or mixture. / ... Respiratory or skin sensitisation / No data available
+sens,EyeIrritation6pack_PID1027,False,True,True,False,True,Skin Sensitization (guinea pigs) Non-sensitizer EPA Tox Category Not applicable
+sens,EyeIrritation6pack_PID1039,False,True,True,False,False,(d) respiratory or skin sensitization: Not sensitizing
+sens,EyeIrritation6pack_PID1040,False,True,True,False,False,Respiratory or skin sensitisation / Product: / Result : Not a skin sensitizer.
+sens,EyeIrritation6pack_PID1044,False,True,True,True,True,Respiratory or Skin Sensitization: N/Av ... Sensitization: No effects known.
+sens,EyeIrritation6pack_PID1051,False,True,True,False,False,Respiratory or skin sensitisation Guinea pig Did not cause sensitization on laboratory animals.
+sens,EyeIrritation6pack_PID1055,False,True,True,False,False,· Sensitization: No sensitizing effects known.
+sens,EyeIrritation6pack_PID1060,False,True,True,False,False,Sensitization / Assessment of sensitization: No sensitizing effect.
+sens,EyeIrritation6pack_PID116,False,True,True,False,False,"Guinea pig, Dermal Sensitizer -   Not a sensitizer"
+sens,EyeIrritation6pack_PID168,False,True,True,False,False,Respiratory or skin sensitization : Not classified
+sens,EyeIrritation6pack_PID220,False,True,True,False,False,Skin sensitizer = Not a skin sensitizer
+sens,EyeIrritation6pack_PID222,False,True,False,False,True,Skin sensitization --- Not Applicable
+sens,EyeIrritation6pack_PID241,False,True,True,False,False,Respiratory or skin sensitisation  /  - guinea pig  / Remarks: Will not occur
+sens,EyeIrritation6pack_PID246,False,True,True,False,False,Respiratory or skin sensitisation  / Will not occur
+sens,EyeIrritation6pack_PID247,False,True,True,False,False,Respiratory or skin sensitisation  / Will not occur
+sens,EyeIrritation6pack_PID28,False,True,True,False,False,Respiratory or skin sensitisation  / Will not occur
+sens,EyeIrritation6pack_PID288,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,EyeIrritation6pack_PID29,False,True,True,False,False,Respiratory or skin sensitisation  / Will not occur
+sens,EyeIrritation6pack_PID299,False,True,True,False,False,SENSITIZATION: Skin sensitization: Not a sensitizer (guinea pig)
+sens,EyeIrritation6pack_PID306,False,True,False,False,False,Sensitization Information The components of this product are not known to be sensitizes with repeated or prolonged use.
+sens,EyeIrritation6pack_PID343,False,True,True,False,False,Sensitization Skin: Non-sensitizer (Guinea Pig)
+sens,EyeIrritation6pack_PID376,False,True,True,False,False,Respiratory or Skin Sensitization / Fipronil: Not a dermal sensitizer (EPA) / Pyriproxyfen: Non-sensitizing (guinea pig)
+sens,EyeIrritation6pack_PID40,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,EyeIrritation6pack_PID422,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,EyeIrritation6pack_PID426,False,True,False,False,False,Assessment of sensitization: There is no evidence of a skin-sensitizing potential. / Experimental/calculated data: modified Buehler test guinea pig: Skin sensitizing effects were not observed in animal studies. (OECD Guideline 406)
+sens,EyeIrritation6pack_PID475,False,True,False,False,True,Skin sensitization --- Not Applicable
+sens,EyeIrritation6pack_PID477,False,True,True,False,False,Assessment of sensitization: / No sensitizing effect. /  / Experimental/calculated data: / Buehler test guinea pig: Non-sensitizing.
+sens,EyeIrritation6pack_PID514,False,True,True,False,False,Respiratory or skin sensitisation Shall not be classified as a respiratory or skin sensitiser.
+sens,EyeIrritation6pack_PID516,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,EyeIrritation6pack_PID560,False,True,True,False,False,Skin sensitization This product is not expected to cause skin sensitization.
+sens,EyeIrritation6pack_PID642,False,True,True,False,False,Skin sensitization This product is not expected to cause skin sensitization.
+sens,EyeIrritation6pack_PID669,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,EyeIrritation6pack_PID680,False,True,False,False,False,"When the total weight of evidence is considered this product is considered to be an eye, skin and repository irritant and not a respiratory or skin sensitizer according to health hazard classification criteria."
+sens,EyeIrritation6pack_PID695,False,True,False,True,False,Respiratory or skin sensitisationMay cause allergic reactions in susceptible people.
+sens,EyeIrritation6pack_PID699,False,True,True,False,False,"Respiratory or skin sensitisation : Not classified (Based on available data, the classification criteria are not met.)"
+sens,EyeIrritation6pack_PID732,False,True,True,False,False,Sensitization / Assessment of sensitization: No sensitizing effect.
+sens,EyeIrritation6pack_PID738,False,True,True,False,False,Respiratory or skin sensitization: Species: Guinea pig Method: Guinea pig maximization assay (GPMT) (OECD 406) Result: Does not cause skin sensitization
+sens,EyeIrritation6pack_PID743,False,True,True,False,False,Respiratory or skin sensitisation /  - Guinea pig / Result: Does not cause skin sensitisation.
+sens,EyeIrritation6pack_PID768,False,True,True,False,False,Respiratory or skin sensitisation Shall not be classified as a respiratory or skin sensitiser.
+sens,EyeIrritation6pack_PID788,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,EyeIrritation6pack_PID827,False,True,True,False,False,Respiratory or skin sensitization Not a sensitizer
+sens,EyeIrritation6pack_PID828,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,EyeIrritation6pack_PID863,False,True,True,False,False,"Sensitization: Based on available data, the classification criteria are not met."
+sens,EyeIrritation6pack_PID865,False,True,True,False,False,"Dermal Effects: Slightly irritating (Rabbit, Skin Sensitization: Not a sensitizer (Guinea Pig); LD50 (Rat) >5000 mg/kg body weight"
+sens,EyeIrritation6pack_PID869,False,True,True,False,False,Respiratory or skin sensitisation : Not classified
+sens,EyeIrritation6pack_PID873,False,True,True,False,False,Respiratory or skin sensitisation Components: Clopyralid monoethanolamine salt: Species : Mouse Assessment : Does not cause skin sensitisation. hexachlorobenzene: Species : Guinea pig Assessment : Does not cause skin sensitisation.
+sens,EyeIrritation6pack_PID916,False,True,False,False,False,Sensitization / Not Established
+sens,EyeIrritation6pack_PID920,False,True,True,False,False,Skin sensitization (guinea pig): Not a sensitizer
+sens,EyeIrritation6pack_PID926,False,True,False,False,False,DERMAL SENSITIZATION  / Guinea pig: Not a contact sensitizer
+sens,EyeIrritation6pack_PID932,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,EyeIrritation6pack_PID936,False,True,True,False,False,"d) respiratory or skin sensitisation / Based on available data, the classification criteria are not met"
+sens,EyeIrritation6pack_PID940,False,True,True,False,False,Respiratory or skin sensitisation Buehler Test - guinea pig Did not cause sensitisation on laboratory animals.
+sens,EyeIrritation6pack_PID960,False,True,True,False,False,Skin sensitisation / Not classified based on available information.
+sens,EyeIrritation6pack_PID965,False,True,True,False,True,Skin Sensitization (guinea pigs) Not a sensitizer EPA Tox Category Not applicable
+sens,EyeIrritation6pack_PID966,False,True,True,False,False,"Respiratory or Skin Sensitisation: Based on classification principles, the classification criteria are not met."
+sens,EyeIrritation6pack_PID977,False,True,True,False,False,Not a skin sensitizer.
+sens,EyeIrritation6pack_PID978,False,True,True,False,False,Skin Sensitization (guinea pig): Not a sensitizer
+sens,MIX1024,False,True,True,False,False,Sensitization to the Product: This product is not expected to cause skin sensitization.
+sens,MIX1047,False,False,True,False,False,2.1 Classification of the substance or mixture / Not a hazardous substance or mixture.
+sens,MIX1067,False,False,True,True,False,Not expected to cause an allergic skin reaction.
+sens,MIX111,False,True,True,False,False,Skin sensitizer = Not a skin sensitizer
+sens,MIX112,False,True,True,False,False,Respiratory or skin sensitisation  / Will not occur
+sens,MIX114,False,True,True,False,False,Respiratory or skin sensitisation  / Will not occur
+sens,MIX116,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,MIX13,False,True,True,False,False,Respiratory or skin sensitisation  / Will not occur
+sens,MIX140,False,True,True,False,False,SENSITIZATION: Skin sensitization: Not a sensitizer (guinea pig)
+sens,MIX145,False,True,False,False,False,Sensitization Information The components of this product are not known to be sensitizes with repeated or prolonged use.
+sens,MIX15,False,True,True,False,False,Respiratory or skin sensitisation  / Will not occur
+sens,MIX158,False,True,True,False,False,Sensitization Skin: Non-sensitizer (Guinea Pig)
+sens,MIX183,False,True,True,False,False,Respiratory or Skin Sensitization / Fipronil: Not a dermal sensitizer (EPA) / Pyriproxyfen: Non-sensitizing (guinea pig)
+sens,MIX194,False,True,True,False,False,Respiratory or skin sensitization Did not cause sensitization on laboratory animals.
+sens,MIX203,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,MIX204,False,True,False,False,False,Assessment of sensitization: There is no evidence of a skin-sensitizing potential. / Experimental/calculated data: modified Buehler test guinea pig: Skin sensitizing effects were not observed in animal studies. (OECD Guideline 406)
+sens,MIX227,False,True,False,False,True,Skin sensitization --- Not Applicable
+sens,MIX229,False,True,True,False,False,Assessment of sensitization: / No sensitizing effect. /  / Experimental/calculated data: / Buehler test guinea pig: Non-sensitizing.
+sens,MIX23,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,MIX248,False,True,True,False,False,Respiratory or skin sensitisation Shall not be classified as a respiratory or skin sensitiser.
+sens,MIX249,False,True,True,True,False,Sensitization / For the active ingredient(s): / Did not cause allergic skin reactions when tested in guinea pigs.
+sens,MIX250,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,MIX251,False,True,True,True,False,Sensitization / Did not cause allergic skin reactions when tested in guinea pigs.
+sens,MIX289,False,True,True,False,False,Skin Sensitization: Not a sensitizer (Guinea Pig)
+sens,MIX294,False,True,True,False,False,Skin sensitization This product is not expected to cause skin sensitization.
+sens,MIX329,False,False,True,False,False,2.1 Classification of the substance or mixture Not a hazardous substance or mixture.
+sens,MIX338,False,True,False,False,False,"When the total weight of evidence is considered this product is considered to be an eye, skin and repository irritant and not a respiratory or skin sensitizer according to health hazard classification criteria."
+sens,MIX339,False,True,True,False,False,Respiratory or skin sensitisation Components: metribuzin (ISO): Species : animals (unspecified species) Result : Does not cause skin sensitisation.
+sens,MIX351,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,MIX364,False,False,True,False,False,2.1 Classification of the substance or mixture  / Not a hazardous substance or mixture.
+sens,MIX370,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,MIX383,False,True,True,False,False,"Respiratory or skin sensitisation : Not classified (Based on available data, the classification criteria are not met.)"
+sens,MIX397,False,True,True,False,False,Respiratory or skin sensitization: Species: Guinea pig Method: Guinea pig maximization assay (GPMT) (OECD 406) Result: Does not cause skin sensitization
+sens,MIX402,False,True,True,False,False,Respiratory or skin sensitisation /  - Guinea pig / Result: Does not cause skin sensitisation.
+sens,MIX403,False,True,True,False,False,Respiratory or skin sensitization Not a sensitizer
+sens,MIX405,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,MIX42,False,True,True,True,False,Sensitization / Did not cause allergic skin reactions when tested in guinea pigs.
+sens,MIX431,False,True,True,False,False,Respiratory or skin sensitisation Shall not be classified as a respiratory or skin sensitiser.
+sens,MIX436,False,True,True,False,False,Respiratory or skin sensitisation Components: Clopyralid monoethanolamine salt: Species : Mouse Assessment : Does not cause skin sensitisation. hexachlorobenzene: Species : Guinea pig Assessment : Does not cause skin sensitisation.
+sens,MIX439,False,True,True,False,False,"Sensitization: Based on available data, the classification criteria are not met."
+sens,MIX440,False,True,True,False,False,"Dermal Effects: Slightly irritating (Rabbit, Skin Sensitization: Not a sensitizer (Guinea Pig); LD50 (Rat) >5000 mg/kg body weight"
+sens,MIX445,False,True,True,False,False,Respiratory or skin sensitisation : Not classified
+sens,MIX456,False,True,True,False,False,Sensitization Guinea pig: non-sensitizing
+sens,MIX459,False,True,True,False,False,"d) respiratory or skin sensitisation / Based on available data, the classification criteria are not met"
+sens,MIX464,False,True,True,False,False,Respiratory or skin sensitisation Buehler Test - guinea pig Did not cause sensitisation on laboratory animals.
+sens,MIX47,False,True,True,False,False,"Guinea pig, Dermal Sensitizer -   Not a sensitizer"
+sens,MIX474,False,True,True,False,False,SENSITIZATION......: Guinea Pig:  Not a dermal sensitizer.
+sens,MIX478,False,True,True,False,True,Skin Sensitization (guinea pigs) Not a sensitizer EPA Tox Category Not applicable
+sens,MIX482,False,True,False,False,False,Sensitization / Not Established
+sens,MIX489,False,True,True,False,False,Skin sensitization (guinea pig): Not a sensitizer
+sens,MIX491,False,True,True,False,False,Not a skin sensitizer.
+sens,MIX495,False,True,False,False,False,DERMAL SENSITIZATION  / Guinea pig: Not a contact sensitizer
+sens,MIX508,False,True,True,False,True,Skin Sensitization (guinea pigs) Non-sensitizer EPA Tox Category Not applicable
+sens,MIX527,False,True,True,False,False,(d) respiratory or skin sensitization: Not sensitizing
+sens,MIX53,False,True,True,False,False,Skin sensitization This product is not expected to cause skin sensitization.
+sens,MIX530,False,True,True,False,False,Respiratory or skin sensitisation / Product: / Result : Not a skin sensitizer.
+sens,MIX537,False,True,True,True,True,Respiratory or Skin Sensitization: N/Av ... Sensitization: No effects known.
+sens,MIX545,False,True,True,True,True,2.1 Classification of the substance or mixture / Not a hazardous substance or mixture. / ... Respiratory or skin sensitisation / No data available
+sens,MIX547,False,True,True,False,False,· Sensitization: No sensitizing effects known.
+sens,MIX549,False,True,True,False,False,Respiratory or skin sensitisation Guinea pig Did not cause sensitization on laboratory animals.
+sens,MIX555,False,True,True,False,False,Sensitization / Assessment of sensitization: No sensitizing effect.
+sens,MIX571,False,True,True,False,False,Dermal Sensitization: Not a skin sensitizer.
+sens,MIX574,False,True,True,False,True,Skin Sensitization (guinea pigs) Non-sensitizer EPA Tox Category Not applicable
+sens,MIX577,False,True,True,False,False,Respiratory or skin sensitisation Skin: Non-sensitizing. (Guinea pig)
+sens,MIX580,False,True,False,False,False,Not a contact sensitizer (guinea pig).
+sens,MIX581,False,True,True,False,False,"Based on animal data, this product is not a skin or eye irritant, and is not a skin sensitizer in animals."
+sens,MIX582,False,True,True,False,False,Sensitisation /  guinea pig Maximisation Test  /  Result: Animal test did not cause sensitization by skin contact.
+sens,MIX586,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,MIX589,False,True,False,False,False,Sensitization  / Assessment of sensitization: Skin sensitizing effects were not observed in animal studies.
+sens,MIX592,False,True,False,False,False,Skin sensitizing effects were not observed in animal studies.
+sens,MIX594,False,True,False,False,False,Skin sensitisation Skin sensitisation Not sensitising. (Guinea pig)
+sens,MIX595,False,True,False,False,False,Sensitization / Assessment of sensitization: There is no evidence of a skin-sensitizing potential.
+sens,MIX599,False,True,True,False,False,Skin sensitization Animal test did not cause sensitization by skin contact (Guinea pig).
+sens,MIX603,False,True,True,False,False,Skin Sensitization : Non-sensitizing (Guinea pig)
+sens,MIX607,False,True,True,False,False,Skin Sensitization : Non-sensitizing (Guinea pig)
+sens,MIX608,False,True,True,False,False,"Respiratory or skin sensitisation Skin: Non-sensitizing. (Guinea pig) OECD Test Guideline 406, Buehler test"
+sens,MIX612,False,True,True,False,False,Dermal sensitization: Not expected to have a sensitizing effect.
+sens,MIX617,False,True,True,False,False,· Sensitization: No sensitizing effects known.
+sens,MIX618,False,True,True,False,False,· Sensitization: No sensitizing effects known.
+sens,MIX621,False,True,True,False,False,· Sensitization: No sensitizing effects known.
+sens,MIX623,False,True,True,False,True,Skin Sensitization (guinea pigs) Non-sensitizer EPA Tox Category Not applicable
+sens,MIX628,False,True,True,False,False,Respiratory or skin sensitization Not a skin sensitizer.
+sens,MIX629,False,True,False,False,False,Skin Sensitization: Product is not considered a contact sensitizer.
+sens,MIX630,False,True,True,False,False,Respiratory or skin sensitization / Classification criteria are not met based on available data
+sens,MIX632,False,True,True,False,False,Respiratory or skin sensitisation Skin: Non-sensitizing. (Mouse)
+sens,MIX641,False,True,False,False,False,"Lannate SP is not a skin irritant or a skin sensitizer, but is a slight eye irritant in animals."
+sens,MIX645,False,True,False,True,False,Skin sensitization: Does not meet OSHA criteria as a skin sensitizer. Prolonged/repeated skin contact may cause allergic reaction in some individuals.
+sens,MIX648,False,True,True,False,False,Skin Sensitization: Not a Sensitizer (Guinea Pig) (based on a substantially similar formulation)
+sens,MIX649,False,True,True,False,False,Skin Sensitization: Not a Sensitizer (Guinea Pig)
+sens,MIX653,False,True,True,False,False,"Respiratory or skin sensitisation Skin: Non-sensitizing. (Mouse) OECD Test Guideline 429, local lymph node assay (LLNA) Test conducted with a similar formulation."
+sens,MIX655,False,True,True,False,False,Respiratory or skin sensitisation Skin: Non-sensitizing. (Guinea pig)
+sens,MIX658,False,True,False,False,False,Sensitization Assessment of sensitization: Skin sensitizing effects were not observed in animal studies.
+sens,MIX659,False,True,True,False,False,Skin Sensitization: Not a Sensitizer (Guinea Pig) (based on a substantially similar formulation)
+sens,MIX661,False,True,True,True,False,Sensitization / For skin sensitization: / As product: / Did not cause allergic skin reactions when tested in guinea pigs.
+sens,MIX67,False,True,True,False,False,Respiratory or skin sensitization : Not classified
+sens,MIX672,False,True,True,False,False,Respiratory or skin sensitisation Maximisation Test (GPMT) - Guinea pig Result: Does not cause skin sensitisation.
+sens,MIX678,False,True,False,False,False,Skin Sensitization: Not a contact sensitizer in guinea pigs following repeated skin exposure.
+sens,MIX686,False,True,True,False,False,Sensitization No sensitization responses were observed.
+sens,MIX688,False,True,True,False,False,"Respiratory or skin sensitisation Skin: Non-sensitizing. (Guinea pig) OECD Test Guideline 406, Buehler test"
+sens,MIX691,False,True,False,False,False,Skin sensitization / (guinea pig): Non Sensitizing
+sens,MIX693,False,True,True,True,False,Sensitization / For the active ingredient(s): / Did not cause allergic skin reactions when tested in guinea pigs.
+sens,MIX696,False,False,True,True,False,Did not cause allergic skin reactions when tested in guinea pigs.
+sens,MIX699,False,True,True,False,False,Dermal Sensitization: Not a skin sensitizer.
+sens,MIX701,False,True,False,False,False,Chronic Sensitisation No ingredient present at concentrations > 0.1% is considered a sensitizer.
+sens,MIX704,False,True,True,False,True,Skin Sensitization (guinea pigs) Non-sensitizer EPA Tox Category Not applicable
+sens,MIX706,False,False,True,True,False,This product is not expected to cause allergic skin reactions.
+sens,MIX708,False,True,True,False,False,Skin sensitisation This product is not expected to cause skin sensitisation.
+sens,MIX709,False,True,True,False,False,Skin sensitisation This product is not expected to cause skin sensitisation.
+sens,MIX710,False,True,True,False,False,Skin Sensitization: Not a Sensitizer (Guinea Pig)
+sens,MIX712,False,True,True,False,False,"Sensitisation : Did not cause sensitisation on laboratory animals., Guinea pig /  / Did not cause sensitisation on laboratory animals., Mouse"
+sens,MIX716,False,True,True,False,False,Skin Sensitization: Did not cause sensitization in laboratory animals.
+sens,MIX718,False,False,True,True,False,"Based on an evaluation of the ingredients and/or similar products, this product is not expected to cause allergic skin reactions."
+sens,MIX749,False,True,True,False,False,"Sensitisation : Did not cause sensitisation on laboratory animals., Guinea pig /  / Did not cause sensitisation on laboratory animals., Mouse"
+sens,MIX751,False,True,True,False,False,"Basis Gold is a mild eye irritant, but is not a skin sensitizer in animal tests."
+sens,MIX752,False,True,True,False,False,"Sensitisation : Did not cause sensitisation on laboratory animals., Guinea pig"
+sens,MIX758,False,True,True,False,False,Respiratory or skin sensitisation / in vivo assay - Mouse / Result: Does not cause skin sensitisation. / (OECD Test Guideline 429)
+sens,MIX759,False,True,False,False,False,Skin Sensitization: Product is not considered a contact sensitizer.
+sens,MIX765,False,True,True,False,False,Skin sensitization (guinea pig): Not a sensitizer
+sens,MIX779,False,True,True,False,False,"Sensitising effects / Based on available data, the classification criteria are not met."
+sens,MIX783,False,True,True,False,False,Respiratory or skin sensitization: / Non-sensitizing
+sens,MIX785,False,True,True,False,False,Respiratory or skin sensitisation / Will not occur
+sens,MIX790,False,True,True,False,False,"(d) respiratory or skin sensitization; Respiratory Based on available data, the classification criteria are not met Skin Based on available data, the classification criteria are not met"
+sens,MIX794,False,False,True,False,False,2.1 Classification of the substance or mixture Not a hazardous substance or mixture.
+sens,MIX799,False,True,False,False,True,Skin Sensitization: / Not applicable.
+sens,MIX802,False,True,True,False,False,"Respiratory or skin sensitization / Based on available data, the classification criteria are not met."
+sens,MIX803,False,True,False,False,False,Respiratory or skin sensitisation Maximisation Test Result: negative Remarks: (IUCLID)
+sens,MIX805,False,True,False,False,True,Skin Sensitization: / Not applicable.
+sens,MIX806,False,True,True,False,False,Respiratory or skin sensitisation / Will not occur
+sens,MIX809,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,MIX810,False,False,False,False,False,This product is not considered hazardous by the US OSHA Hazard Communication Standard 2024 (29 CFR 1910.1200).
+sens,MIX811,False,False,False,False,False,This product is not considered hazardous by the US OSHA Hazard Communication Standard 2024 (29 CFR 1910.1200).
+sens,MIX821,False,True,True,False,False,"(d) respiratory or skin sensitization; Respiratory Based on available data, the classification criteria are not met Skin Based on available data, the classification criteria are not met"
+sens,MIX823,False,True,True,False,False,"(d) respiratory or skin sensitization; Respiratory Based on available data, the classification criteria are not met Skin Based on available data, the classification criteria are not met"
+sens,MIX841,False,True,True,False,False,Respiratory or skin sensitisation: Based on available data the classification criteria are not met.
+sens,MIX846,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,MIX849,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,MIX850,False,True,True,False,False,Sensitisation Non-sensitizing. (Guinea pig)
+sens,MIX853,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,MIX854,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,MIX858,False,True,True,True,False,"- Respiratory/skin sensitisation: Based on the available data, the classification criteria are not met. May cause an allergic skin reaction with susceptible persons."
+sens,MIX888,False,True,True,False,False,Sensitization Not expected to cause skin sensitization.
+sens,MIX891,False,True,True,False,False,· Sensitization: No sensitizing effects known.
+sens,MIX892,False,True,True,False,False,Skin sensitization This product is not expected to cause skin sensitization.
+sens,MIX900,False,True,True,False,False,"• Respiratory / skin sensitization / Based on available data, the classification criteria are not met."
+sens,MIX905,False,True,True,False,False,Respiratory or skin sensitisation / Shall not be classified as a respiratory or skin sensitiser.
+sens,MIX922,False,True,True,False,False,"(d) respiratory or skin sensitization; Respiratory Based on available data, the classification criteria are not met Skin Based on available data, the classification criteria are not met"
+sens,MIX934,False,False,True,False,False,Classification / Not a hazardous substance or mixture according to the Globally Harmonized System (GHS)
+sens,MIX938,False,True,True,False,False,• Respiratory or skin sensitisation / No sensitizing effects known.
+sens,MIX943,False,True,True,False,False,Health hazards Not classified. ... Skin sensitization Due to partial or complete lack of data the classification is not possible.
+sens,MIX944,False,True,False,False,True,Respiratory or skin sensitivity Not Applicable.
+sens,MIX95,False,True,False,False,True,Skin sensitization --- Not Applicable
+sens,MIX963,False,True,True,False,False,Respiratory or skin sensitisation: Based on available data the classification criteria are not met.
+sens,MIX974,False,True,True,False,False,Skin sensitization This product is not expected to cause skin sensitization.

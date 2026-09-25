@@ -1,0 +1,16 @@
+{
+  "source_id": "714b4785316d5e36",
+  "file_path": "ingredient_source_audit/highlighted/714b4785316d5e36_highlighted.pdf",
+  "page_count": 5,
+  "full_text_length": 6672,
+  "sections_found": [
+    "label_header"
+  ],
+  "label_header": {
+    "epa_reg_number": null,
+    "formulation_code": null,
+    "signal_word": null,
+    "active_ingredient_declared": true,
+    "text_excerpt": " \n \nProduct Information\nPREVENTOL® A 14-D\n \n1/5\nUses\nFor the manufacture of fungicidal coatings and plasters.\nChemical and physical data\n \nComposition:\naqueous preparation of Diuron, Carbendazim and\nOctylisothiazolinon \nDescription:\nbeige, water-based dispersion\nSpecification*\nAssay (HPLC):\nmin. 32."
+  }
+}

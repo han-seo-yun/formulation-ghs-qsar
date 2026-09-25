@@ -1,0 +1,334 @@
+[
+ {
+  "row": 1376,
+  "fid": "MIX7",
+  "product_name": "241-GOL Acrobat MZ WDG Fungicide",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.rfdsafeagri.com/wp-content/uploads/2019/10/Acrobat.pdf",
+  "source_type": "manufacturer_sds_pdf (BASF SE, ACROBAT MZ 90/600 WG, v3.0, 2009-09-03, EU 1907/2006 format)",
+  "ingredients_match": true,
+  "product_ghs": {
+   "signal_word": null,
+   "h_statements": null,
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "1",
+   "ld50_oral": "2770 mg/kg (rat, oral)",
+   "ld50_dermal": "> 2000 mg/kg (rat, dermal)",
+   "lc50_inh": "> 6.4 mg/L (rat, inhalation, 4 h)",
+   "ph": "6 - 8 (water, 1 % (m), 20 C, as dispersion)"
+  },
+  "per_ingredient": [
+   {
+    "name": "Dimethomorph",
+    "cas": "110488-70-5",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": ["H360F", "H411"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/86298/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Mancozeb",
+    "cas": "8018-01-7",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": ["H317", "H351", "H360D", "H373", "H400", "H410"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/3034368/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "hint_tox_url 정상 작동(WebFetch가 PDF 파싱 실패했으나 로컬 저장본을 페이지 렌더링으로 판독). Section 3 조성 dimethomorph 9% + mancozeb 60%로 ingredient_names와 일치. 단 이 SDS는 US 등록(241-GOL)이 아닌 EU 자매제품 ACROBAT MZ 90/600 WG이며 2009년 DSD(R-phrase) 양식이라 GHS signal word/H코드가 없음 -> signal_word/h_statements=null. eye/skin은 Section 11의 'non-irritant'(rabbit)에서, sens_cat=1은 Section 2 'May cause sensitization by skin contact'(R43) + Section 11 Buehler 양성에서 도출. pH 6-8 확보(강산/강염기 예외규칙 해당 없음)."
+ },
+ {
+  "row": 1380,
+  "fid": "MIX702",
+  "product_name": "NUP-12004 Herbicide",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.pomerix.com/pesticides/nup-12004-herbicide",
+  "source_type": "EPA product registry mirror (pomerix, EPA Reg. 71368-107, Nufarm) + PubChem LCSS PUG-View per ingredient",
+  "ingredients_match": true,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Ethylene sulfite (glycol sulfite)",
+    "cas": "3741-38-6",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": ["H301", "H302", "H312", "H319", "H332", "H341"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/77342/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Pyraflufen-ethyl",
+    "cas": "129630-19-9",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": ["H400", "H410"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/182951/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "2,4-D 2-ethylhexyl ester",
+    "cas": "1928-43-4",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": ["H302", "H317", "H400", "H410"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/61286/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "제품 SDS는 여전히 공개 미발견(NUP-12004는 Nufarm 개발코드, EPA Reg. 71368-107). EPA 등록정보로 유효성분이 2,4-D 2-ethylhexyl ester + pyraflufen-ethyl임을 확인해 ingredient_names와 일치(ethylene sulfite는 유효성분이 아닌 부자재/불순물로 추정). Tier 2로 3성분 GHS 확보. ethylene sulfite는 ECHA 신고자 집계(50%/33%) 기반이라 신뢰도 낮음."
+ },
+ {
+  "row": 1381,
+  "fid": "MIX703",
+  "product_name": "Norm 1",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.pomerix.com/pesticides/norm-1",
+  "source_type": "EPA product registry mirror (pomerix, EPA Reg. 4822-542, S.C. Johnson; FIFRA signal word CAUTION) + PubChem LCSS PUG-View",
+  "ingredients_match": true,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Metofluthrin",
+    "cas": "240494-70-6",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": ["H332", "H370", "H373", "H400", "H410"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/5282227/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "제품 SDS 미발견. 대신 EPA 등록번호 4822-542를 확정하고 유효성분이 metofluthrin 단일임을 확인(ingredient_names 일치, 이전 실패 원인인 복합제 혼동 해소). EPA 라벨 signal word는 CAUTION(FIFRA 체계이므로 GHS signal_word에는 기록하지 않음). Tier 2 metofluthrin GHS 확보 - 눈/피부/감작 모두 미분류."
+ },
+ {
+  "row": 1384,
+  "fid": "MIX706",
+  "product_name": "Safari 2 G Insecticide",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.pomerix.com/pesticides/safari-2-g-insecticide",
+  "source_type": "EPA product registry mirror (pomerix, EPA Reg. 59639-149, Valent U.S.A.; FIFRA signal word CAUTION; label http://www3.epa.gov/pesticides/chem_search/ppls/059639-00149-20100730.pdf) + PubChem LCSS PUG-View",
+  "ingredients_match": true,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Dinotefuran",
+    "cas": "165252-70-0",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": ["H302", "H400", "H410"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/197701/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "Valent 사이트(valent.com)는 루트만 200이고 /products/·wp-json·sitemap 전부 nginx 403이어서 제품 SDS 접근 불가(이전 실패와 동일). 대신 EPA Reg. 59639-149 확정, 유효성분 dinotefuran 단일 확인(일치), EPA 라벨 PDF URL 확보, FIFRA signal word=CAUTION. Tier 2 dinotefuran GHS 확보. 참고: PubChem 일부 출처는 H317(피부감작 1)을 보고하나 주 집계에는 없어 sens_cat은 'Not classified'로 기록."
+ },
+ {
+  "row": 1386,
+  "fid": "MIX708",
+  "product_name": "Safer Brand Garden Fungicide RTU II",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "low",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/5362487/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS PUG-View (single substance) + EPA registry mirror for sibling products (pomerix: Safer Garden Fungicide Ready To Use 42697-17, Concentrate 42697-37, 모두 sulfur 단일)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Sulfur, precipitated",
+    "cas": "7704-34-9",
+    "eye_cat": "Not classified",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": ["H315"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/5362487/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "'RTU II'라는 정확한 명칭의 EPA 등록제품/SDS를 찾지 못함(saferbrand.com에서 SDS 링크 미노출, 검색엔진 전부 차단). 동일 계열 Safer Garden Fungicide 제품군은 EPA 등록상 sulfur 단일 유효성분임을 확인했으나 이 특정 SKU의 Section 3을 직접 대조하지 못해 ingredients_match=null. Tier 2로 sulfur GHS(H315, 피부자극 2) 확보. pH 미확보."
+ },
+ {
+  "row": 1387,
+  "fid": "MIX709",
+  "product_name": "Safer Garden Fungicide Ready to Use",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.pomerix.com/pesticides/safer-garden-fungicide-ready-to-use",
+  "source_type": "EPA product registry mirror (pomerix, EPA Reg. 42697-17, Woodstream/Safer; FIFRA signal word: NONE; label http://www3.epa.gov/pesticides/chem_search/ppls/042697-00017-20091030.pdf) + PubChem LCSS PUG-View",
+  "ingredients_match": true,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Sulfur, precipitated",
+    "cas": "7704-34-9",
+    "eye_cat": "Not classified",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": ["H315"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/5362487/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "제품 SDS 자체는 미발견이나 EPA Reg. 42697-17로 유효성분 sulfur 단일 확인(ingredient_names 일치). EPA 라벨상 signal word 없음(무독성 등급). 이전 패스에서 '정성적 판정만 존재'했던 피부자극/감작을 Tier 2 단일물질 GHS로 코드화: skin_cat=2(H315), sens_cat=Not classified. pH 미확보."
+ },
+ {
+  "row": 1390,
+  "fid": "MIX711",
+  "product_name": "Shelter Island Plus - White",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://bluewatermarinepaint.com/wp-content/uploads/2021/05/SDS-Shelter-Island-Plus-5-12-2021.pdf",
+  "source_type": "manufacturer_sds_pdf (Blue Water Marine Paint, 'Shelter Island Plus', 824 Series, v01, rev 2021-05-12, GHS-US)",
+  "ingredients_match": true,
+  "product_ghs": {
+   "signal_word": "Danger",
+   "h_statements": ["H226", "H302", "H304", "H317", "H350", "H400", "H410"],
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "1",
+   "ld50_oral": null,
+   "ld50_dermal": null,
+   "lc50_inh": null,
+   "ph": "Not Applicable"
+  },
+  "per_ingredient": [
+   {
+    "name": "Tralopyril",
+    "cas": "122454-29-9",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": ["H301", "H311", "H331", "H372", "H400", "H410"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/183559/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Zinc pyrithione",
+    "cas": "13463-41-7",
+    "eye_cat": "1",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": ["H301", "H318", "H330", "H360D", "H372", "H400", "H410"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/26041/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Acetic acid",
+    "cas": "64-19-7",
+    "eye_cat": "1",
+    "skin_cat": "1",
+    "sens_cat": "Not classified",
+    "h_statements": ["H226", "H314", "H318"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/176/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "제조사 확정: Blue Water Marine Paint(Clearwater FL) 방오도료 824 Series. 공식 SDS PDF 확보 -> Tier 1 성공. Section 3: High Flash Naphtha <7.5%, Tralopyril <6.0%, Zinc Pyrithione <5.0%, Xylene >18%, Barium Sulphate <9%, Magnesium Silicate 3%. 즉 ingredient_names 3개 중 tralopyril·pyrithione zinc는 확인, acetic acid는 Section 3에 없음(색상별 변형이거나 비위험 미기재 추정) -> 핵심 활성 2종 일치로 ingredients_match=true 처리. Section 2 분류에 눈 위험 카테고리 없어 eye_cat/skin_cat=Not classified(단 Section 11 서술에는 'eye irritation/skin irritation' 정성 언급 있음). Section 11은 성분별 LD50만 있고 제품 전체값 없음 -> LD50 null. Section 9 pH='Not Applicable'(비수계 도료)."
+ },
+ {
+  "row": 1400,
+  "fid": "MIX720",
+  "product_name": "Willowed Ethofumesate",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.pomerix.com/pesticides/willowood-ethofumesate-4sc",
+  "source_type": "EPA product registry mirror (pomerix; Willowood Ethofumesate 4SC = EPA Reg. 87290-1, Willowood Ethofumesate Turf = 87290-2, Technical = 87290-x; FIFRA signal word CAUTION; label http://www3.epa.gov/pesticides/chem_search/ppls/087290-00001-20231030.pdf) + PubChem LCSS PUG-View",
+  "ingredients_match": true,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Ethofumesate",
+    "cas": "26225-79-6",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": ["H400", "H410"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/33360/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "'Willowed Ethofumesate'는 Willowood USA(現 FBN) 제네릭임을 EPA 등록으로 확인(등록자 87290). 다만 4SC / Turf / Technical 3종이 존재해 어느 SKU인지 특정 불가하고, 공개 제품 SDS는 여전히 미발견(willowoodusa.com 링크 없음, 검색엔진 전부 차단). 유효성분 ethofumesate 단일은 확인(일치). Tier 2 ethofumesate GHS: 눈/피부/감작 모두 미분류(수생 유해만). pH 미확보."
+ },
+ {
+  "row": 1403,
+  "fid": "MIX742",
+  "product_name": "Apogee",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "low",
+  "source_url": "https://www.pomerix.com/pesticides/apogee-plant-growth-regulator",
+  "source_type": "EPA product registry mirror (pomerix, 'Apogee Plant Growth Regulator', EPA Reg. 63588-94, BASF; FIFRA signal word CAUTION) + PubChem LCSS PUG-View",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Prohexadione (free acid; surrogate for prohexadione calcium)",
+    "cas": "88805-35-0",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": ["H412"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/184900/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "입력 ingredient_names가 null(SDS 섹션 라벨 텍스트 오염)이라 조성 게이팅 불가 -> ingredients_match=null. EPA 등록으로 제품 동일성 확정: Apogee Plant Growth Regulator, EPA Reg. 63588-94(BASF), 유효성분 prohexadione calcium 27.5% 계열, FIFRA CAUTION. prohexadione calcium(CID 12001831)은 PubChem GHS 섹션이 없어(404) 유리산 prohexadione(CID 184900)으로 대체 기록 -> 신뢰도 low. BASF 제품 SDS는 agriculture.basf.us 경로 404 및 검색엔진 차단으로 미확보. pH 미확보."
+ },
+ {
+  "row": 1407,
+  "fid": "MIX748",
+  "product_name": "DuPont Rynaxypyr",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "low",
+  "source_url": "https://www.pomerix.com/pesticides/rynaxypyr-technical",
+  "source_type": "EPA product registry mirror (pomerix, 'Rynaxypyr Technical', EPA Reg. 279-9605, DuPont/FMC, signal word NONE; label http://www3.epa.gov/pesticides/chem_search/ppls/000279-09605-20180910.pdf) + PubChem LCSS PUG-View per ingredient",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Chlorantraniliprole",
+    "cas": "500008-45-7",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": ["H319", "H335", "H400", "H410"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/11271640/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Tartaric acid",
+    "cas": "87-69-4",
+    "eye_cat": "1",
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": ["H302", "H315", "H317", "H318", "H319", "H335"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/444305/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Sodium carbonate",
+    "cas": "497-19-8",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": ["H319"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/10340/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Talc (magnesium silicate)",
+    "cas": "14807-96-6",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/165411828/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "입력 ingredient_names가 null -> 조성 게이팅 불가(ingredients_match=null). 이전 메모의 조성(chlorantraniliprole 2.5-10%, 주석산>=20%, 탄산나트륨, 탈크)에 정확히 대응하는 제품 SDS는 이번에도 미발견. EPA 등록상 'Rynaxypyr Technical'(279-9605, chlorantraniliprole, signal word 없음)만 확인. 대신 메모상 4개 성분 전부에 대해 Tier 2 GHS를 확보(GHS 농도임계 가산 baseline용). tartaric acid/sodium carbonate 값은 ECHA 신고자 집계 기반이라 신뢰도 low. pH 미확보."
+ }
+]

@@ -1,0 +1,25 @@
+{
+  "source_id": "36ca77b1523b7c92",
+  "file_path": "ingredient_source_audit/highlighted/36ca77b1523b7c92_highlighted.pdf",
+  "page_count": 4,
+  "full_text_length": 11529,
+  "sections_found": [
+    "section_1",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "PRODUCT: Success* Naturalyte* Insect Control",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION:\nPRODUCT: Success* Naturalyte* Insect Control\nCOMPANY IDENTIFICATION:\nDow AgroSciences LLC\n9330 Zionsville Road\nIndianapolis, IN 46268-1189\n2.\n"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

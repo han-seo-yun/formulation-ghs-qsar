@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "entries": {
+    "79a93d4a2f8f50b95f852280616242fee1855dc99a3c75211917f55e72e95fae": {
+      "last_emitted_at_ms": 1786989860942,
+      "message": "Use parallel execution for independent tasks. Use run_in_background for long operations (npm install, builds, tests)."
+    },
+    "466399dafa2d20f60587180bad0a07358eb7f2bce724df0ff682f038ad33f5ad": {
+      "last_emitted_at_ms": 1786989633789,
+      "message": "Read multiple files in parallel when possible for faster analysis."
+    },
+    "64ef2f81bcec058bceddf612b51b2fedebdce26ab5278cad8d4068981510a21e": {
+      "last_emitted_at_ms": 1786988956434,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 8/13 (clean restart 2)"
+    },
+    "445ed27a3872b681d98190bae61ccb84954e1bc4e140df5370be958dee776b3a": {
+      "last_emitted_at_ms": 1786988923776,
+      "message": "Verify changes work after editing. Test functionality before marking complete."
+    },
+    "cbc8b811ff2c615087833c370d416bd11fa0dcf362fcff53bd8cb12e562610df": {
+      "last_emitted_at_ms": 1786988850799,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 12/13 (clean restart)"
+    },
+    "d5cc0d7fe28e0dea25a2a01199c17b601f9cc031c0a3e9616c0d68d8aad5bd92": {
+      "last_emitted_at_ms": 1786988846427,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 11/13 (clean restart)"
+    },
+    "c9f1beb7c5f385565bfeea920aeae7e410507ee4f966c358e03644050066869f": {
+      "last_emitted_at_ms": 1786988842852,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 10/13 (clean restart)"
+    },
+    "c7d7d0e161e476abc75428c0b02db0551499ad4def50d030f1568a9ec570ead9": {
+      "last_emitted_at_ms": 1786988838537,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 9/13 (clean restart)"
+    },
+    "f8ccabdd6697514abef9cc16eed67b1bba8469b30135c8b45311f60c5f054a34": {
+      "last_emitted_at_ms": 1786988834048,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 8/13 (clean restart)"
+    },
+    "87cd764a2d562fec5ead247cd0fb026c1cfff637c8d48cf0afcf6f9a1da8fd29": {
+      "last_emitted_at_ms": 1786988830190,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 7/13 (clean restart)"
+    },
+    "c2bcf89bd58cd4f084e1282a81fbc262522e13d42b7c2ff68634bd02bf82cd2a": {
+      "last_emitted_at_ms": 1786988826242,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 6/13 (clean restart)"
+    },
+    "3ed5178fd177c94f9f73b4ec5ab019f15dcc3b4876170289b5a24d15c1dbd1fd": {
+      "last_emitted_at_ms": 1786988822447,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 5/13 (clean restart)"
+    },
+    "882b3d45e1a4d5a0d1a505e00bce615eaa566064f25ae0a4bf702976178c019d": {
+      "last_emitted_at_ms": 1786988817700,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 4/13 (clean restart)"
+    },
+    "342d1d184a21bf9cb4d3b5dad365997c7e9e65405c36d617a46dc079d002320b": {
+      "last_emitted_at_ms": 1786988813797,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 3/13 (clean restart)"
+    },
+    "d00ddb391d1ce5101a74d7a7ceae7bf6716c705439c65a0d5c72460b6187ea48": {
+      "last_emitted_at_ms": 1786988809623,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 2/13 (clean restart)"
+    },
+    "4eb22aca23ba1b0ea396db331b26bde7ad7806c36c2d00cee5e35843ada9a8ed": {
+      "last_emitted_at_ms": 1786988807773,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 1/13 (clean restart)"
+    },
+    "a13af18de6e90caf8a63df8c7f029e87b84e10fe032008219df210597afa865c": {
+      "last_emitted_at_ms": 1786988801907,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 0/13 (clean restart)"
+    },
+    "49d28882a4cfcdffc8d753dc3ff26d8607697b851c6e8ad44e4e9ffc4ccdde0e": {
+      "last_emitted_at_ms": 1786988693291,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 6/13 retry (fork)"
+    },
+    "977a190c6a08b1096774dc3dddbb525cba9809400e9abbba55346ec1ba2fa29b": {
+      "last_emitted_at_ms": 1786988690688,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 3/13 retry (fork)"
+    },
+    "992f37e4785ce357d00bad13db709efdd5d5436abebd3f8bb3ea4da6bbe6c311": {
+      "last_emitted_at_ms": 1786988522180,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 12/13 (fork)"
+    },
+    "80bc7b0369fac75a2d2aa09fa6170cf9c7be93524f69fad4fb9332d2372ed76f": {
+      "last_emitted_at_ms": 1786988518711,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 11/13 (fork)"
+    },
+    "30a8109d09cffc76ac2bc6991606257f3bfd23952e341a71cab3ea8ce7762888": {
+      "last_emitted_at_ms": 1786988515497,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 10/13 (fork)"
+    },
+    "91569faf3ed8ab1c34e9b09e62d4e03a17441cba8a49fe3b2a1bbf1f9b938d15": {
+      "last_emitted_at_ms": 1786988512150,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 9/13 (fork)"
+    },
+    "8fdfd829e208b3432f6cb00be3ea3d1b24913ad5be20a4c7bebaf376fe0ab839": {
+      "last_emitted_at_ms": 1786988508903,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 8/13 (fork)"
+    },
+    "5646b92ccb6c08dfb9bbcf6c849ea166d776ff916ca16f49b9cf963cb62ccbcc": {
+      "last_emitted_at_ms": 1786988505602,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 7/13 (fork)"
+    },
+    "47cc371c4edacf561507388365a09f596f3babd757e899019a7537492989d8ff": {
+      "last_emitted_at_ms": 1786988502314,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 6/13 (fork)"
+    },
+    "dd51481d9a8038e061b81d1b990bb0603e93f21c1bc38d2d2323c7366e0a4412": {
+      "last_emitted_at_ms": 1786988499076,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 5/13 (fork)"
+    },
+    "d2d0247558ed0aa84d38169ae0c27bb647cfe8848a17eb5f311b3378068d7c42": {
+      "last_emitted_at_ms": 1786988495863,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 4/13 (fork)"
+    },
+    "41bda18939fd286c29201ecf1eec0ee5575bc68f0e23aed329a5804ca5315671": {
+      "last_emitted_at_ms": 1786988492595,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 3/13 (fork)"
+    },
+    "82f491e0546bb510ed22a118d0922d44e76f7e9ea284358ce6d0549745ce7074": {
+      "last_emitted_at_ms": 1786988489408,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 2/13 (fork)"
+    },
+    "be3548069d9b46e549ea9fdca483400b978dfef824e51838f11d70fa1f62efc7": {
+      "last_emitted_at_ms": 1786988486039,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 1/13 (fork)"
+    },
+    "b971688e597aff33f4ffb4826555e4f7b7246b96a6de2f10a5b8ffb26f4d7f13": {
+      "last_emitted_at_ms": 1786988482739,
+      "message": "Spawning agent: fork (inherit) | Task: Toxicity verify chunk 0/13 (fork)"
+    }
+  },
+  "updated_at": "2026-08-17T18:04:20.942Z"
+}

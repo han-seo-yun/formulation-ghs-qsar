@@ -1,0 +1,35 @@
+{
+  "source_id": "771f17c74b9b0fa9",
+  "file_path": "ingredient_source_audit/highlighted/771f17c74b9b0fa9_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 20933,
+  "sections_found": [
+    "section_15",
+    "section_1",
+    "section_2",
+    "section_14",
+    "section_3"
+  ],
+  "section_1": {
+    "product_name": "MANUFACTURER/DISTRIBUTOR",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. IDENTIFICATION: CHEMICAL PRODUCT AND COMPANY \nMANUFACTURER/DISTRIBUTOR \nVALENT U.S.A. LLC \nP.O. Box 5075 \n4600 Norris Canyon Road \nSan Ramon, CA 94583 \nEMERGENCY TELEPHONE NUMBERS \nHEALTH EMERGENCY OR SPILL (24 hr): \n(800) 892-0099 \nTRANSPORTATION (24 hr.): CHEMTREC \n(800) 424-9300 or (202) 483-7"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION \nCelero® Herbicide \nPage 2 of 8 \nEmergency Telephone: \n(800) 892-0099 \nSDS NO.: \n0270 \nREVISION NUMBER: \n3 \nREVISION DATE: \n08/09/2022 \n \n \nHazard Statement(s) \nMay be harmful if swallowed \nHarmful if inhaled \nCause eye irritation \nCause mild skin irritation \n \nPrecautionar"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

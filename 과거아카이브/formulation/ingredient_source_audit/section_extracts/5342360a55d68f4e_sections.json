@@ -1,0 +1,44 @@
+{
+  "source_id": "5342360a55d68f4e",
+  "file_path": "ingredient_source_audit/highlighted/5342360a55d68f4e_highlighted.pdf",
+  "page_count": 13,
+  "full_text_length": 29422,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product name: SPARTA™ Super SC",
+    "formulation_code": "SC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION \nProduct name: SPARTA™ Super SC \n \nRecommended use of the chemical and restrictions on use \nIdentified uses: Plant Protection Product  Insecticide   \n \nCOMPANY IDENTIFICATION \nCORTEVA AGRISCIENCE FRANCE S.A.S. \n1 bis avenue du 8 mai 1945  -  Bâtiment Equinoxe II \n7"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H410"
+    ],
+    "p_codes": [
+      "P201",
+      "P280",
+      "P308",
+      "P313",
+      "P391",
+      "P501"
+    ],
+    "ghs_classes": [],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION \n \nClassification of the substance or mixture \nReproductive toxicity - Category 2 - H361f \nLong-term (chronic) aquatic hazard - Category 1 - H410 \nFor the full text of the H-Statements mentioned in this Section, see Section 16. \n \nLabel elements \n \nHazard pictograms \n \nSAFE"
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

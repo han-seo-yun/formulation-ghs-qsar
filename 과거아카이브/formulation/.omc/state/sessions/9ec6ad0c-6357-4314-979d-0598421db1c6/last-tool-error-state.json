@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"sleep 120 && grep \\\"완료\\\\|실패\\\\|재시도\\\" /private/tmp/claude-501/-Users-hanseoyun-Desktop-formulation/9ec6ad0c-6357-4314-979d-0598421db1c6/tasks/b6wyw7kki.output | head -20\",\"description\":\"Chec...",
+  "error": "Exit code 143\nCommand timed out after 2m 0s",
+  "timestamp": "2026-07-13T08:56:58.931Z",
+  "retry_count": 1
+}

@@ -1,0 +1,35 @@
+{
+  "source_id": "bf2e0a04004309d4",
+  "file_path": "ingredient_source_audit/highlighted/bf2e0a04004309d4_highlighted.pdf",
+  "page_count": 10,
+  "full_text_length": 18038,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "PRODUCT NAME:",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": true,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION \nPRODUCT NAME: \nTALSTAR®  XTRA GRANULAR INSECTICIDE  \nPRODUCT CODE: \n6390   \nACTIVE INGREDIENT(S): \nZeta-cypermethrin (F2700)*; Bifenthrin** \nCHEMICAL FAMILY: \nPyrethroid Pesticide \nMOLECULAR FORMULA: \nC23H22ClF3O2 (bifenthrin); C22_H19_Cl2_NO3 (zeta-cypermethrin) "
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION \nEMERGENCY OVERVIEW: \n• \nGranular solid  \n• \nProduct is non-combustible. \n• \nCancer Hazard - Can cause cancer \n• \nProlonged, repeated exposure to respirable crystalline silica can cause silicosis or possibly cancer. See \nsection 11 for additional details. \n• \nMay cause sens"
+  },
+  "section_14": {
+    "un_number": "3077"
+  }
+}

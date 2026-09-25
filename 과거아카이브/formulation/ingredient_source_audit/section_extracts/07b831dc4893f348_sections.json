@@ -1,0 +1,26 @@
+{
+  "source_id": "07b831dc4893f348",
+  "file_path": "ingredient_source_audit/highlighted/07b831dc4893f348_highlighted.pdf",
+  "page_count": 7,
+  "full_text_length": 13082,
+  "sections_found": [
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Skin Corrosion"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION\nWarning\nClassifications:\nSignal Word (OSHA):\nCauses skin irritation\nHazard Statements:\nMay cause an allergic skin reaction\nCauses eye irritation\nSkin Corrosion/Irritation:  Category 2\nSkin Sensitizer:  Category 1B\nEye Damage/Irritation:  Category 2B\nNone\nOther Hazard Statem"
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

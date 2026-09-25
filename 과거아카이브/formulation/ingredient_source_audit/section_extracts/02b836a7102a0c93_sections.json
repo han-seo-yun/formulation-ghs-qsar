@@ -1,0 +1,67 @@
+{
+  "source_id": "02b836a7102a0c93",
+  "file_path": "ingredient_source_audit/highlighted/02b836a7102a0c93_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 11945,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "NHR ORGANIC OILS",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION \n \n \n \nNHR ORGANIC OILS \n24 CHATHAM PLACE, BRIGHTON, BN1 3TN, UK \n+44 (0)1273 746505   info@nhrorganicoils.com   www.nhrorganicoils.com \n \nSafety Data Sheet \nOrganic Balsam Fir Essential Oil  \n(Abies balsamea) \n \n \nPrinted : 30/08/2023 \nModel/Rev: : LSI_2023-1-CLP "
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H226",
+      "H302",
+      "H304",
+      "H315",
+      "H317",
+      "H319",
+      "H400",
+      "H410"
+    ],
+    "p_codes": [
+      "P210",
+      "P273",
+      "P280",
+      "P301",
+      "P310",
+      "P312",
+      "P302",
+      "P352",
+      "P303",
+      "P361",
+      "P353",
+      "P305",
+      "P351",
+      "P338",
+      "P332",
+      "P313",
+      "P333",
+      "P337",
+      "P362",
+      "P364"
+    ],
+    "ghs_classes": [
+      "Skin corrosion"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 3,
+    "text_excerpt": "2. \nHAZARD IDENTIFICATION \n \nNO CONCERNED \n \n \n2.1. Classification of the substance or mixture \nGHS Classification : \n(RegulationCLP) \n \nAH1 \nAspiration hazard 1 \nATO4 \nAcute toxicity oral 4 \nEDI2 \nSerious eye damage / eye irritation 2 \nEHA1 \nHazardous to the aquatic environment, acute hazard 1 \nEHC"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

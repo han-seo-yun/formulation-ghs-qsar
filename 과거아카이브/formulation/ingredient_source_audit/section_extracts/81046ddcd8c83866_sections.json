@@ -1,0 +1,41 @@
+{
+  "source_id": "81046ddcd8c83866",
+  "file_path": "ingredient_source_audit/highlighted/81046ddcd8c83866_highlighted.pdf",
+  "page_count": 7,
+  "full_text_length": 17869,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_15",
+    "section_3",
+    "section_14"
+  ],
+  "section_1": {
+    "product_name": "Product identifier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: PRODUCT AND COMPANY IDENTIFICATION \n \nProduct identifier \nChemical Name \n1,3-Benzenedicarbonitrile, 2,4,5,6-tetrachloro \nTrade Names \nChlorothalonil 720 Select™ \nCAS No. \n1897-45-6 \nEPA Identification Number \nEPA Reg. No.  89442-9 \n \nRelevant identified uses of the substance or mixture an"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Acute Tox. 2",
+      "Eye Dam. 1",
+      "Carc. 2",
+      "Skin Sens. 1",
+      "STOT SE 3"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "SECTION 2: HAZARDS IDENTIFICATION \n \nClassification of the substance or mixture \nOSHA HCS (29 CFR 1910.1200) \nAcute Tox. 2; Eye Dam. 1; Carc. 2; Skin Sens. 1; STOT SE 3 \nLabel elements \n \nThis chemical is a pesticide product registered by the United States Environmental Protection Agency and is subj"
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

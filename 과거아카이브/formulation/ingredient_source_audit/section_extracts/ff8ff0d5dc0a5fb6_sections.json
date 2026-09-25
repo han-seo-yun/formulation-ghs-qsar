@@ -1,0 +1,26 @@
+{
+  "source_id": "ff8ff0d5dc0a5fb6",
+  "file_path": "ingredient_source_audit/highlighted/ff8ff0d5dc0a5fb6_highlighted.pdf",
+  "page_count": 12,
+  "full_text_length": 15695,
+  "sections_found": [
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Carcinogenicity"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION \n \nClassifications: \n \n \n \n \n \n \n \n \n \nSignal Word (OSHA): \nInhalation: Category 4 \nSkin Sensitizer: Category 1B \nSpecific Target Organ Toxicity: Repeated Category 2 \nSpecific Target Organ Toxicity: Respiratory Irritation Category 3 \nEye Damage/Irritation: Category 2B \nCarc"
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

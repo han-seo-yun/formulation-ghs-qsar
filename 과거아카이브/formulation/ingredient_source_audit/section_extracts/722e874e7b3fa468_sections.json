@@ -1,0 +1,20 @@
+{
+  "source_id": "722e874e7b3fa468",
+  "file_path": "ingredient_source_audit/highlighted/722e874e7b3fa468_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 21910,
+  "sections_found": [
+    "label_header"
+  ],
+  "label_header": {
+    "epa_reg_number": "43813-32",
+    "formulation_code": "SC",
+    "signal_word": "WARNING",
+    "active_ingredient_declared": false,
+    "text_excerpt": " \n5661 Branch Road \nWapato, WA 98951 \n800.936.6750 \nwww.paceint.com \nShield-Brite ® \nPenbotec™ 400 SC \n \nP O S T H A R V E S T \n \nSAFETY DATA SHEET \nSDS Product Code:  10182                                             Page 1 of 6 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1.  P R O D U C T & C O M P A N Y I D E N"
+  },
+  "fallback": {
+    "epa_reg_number": "43813-32",
+    "formulation_code": "SC"
+  }
+}

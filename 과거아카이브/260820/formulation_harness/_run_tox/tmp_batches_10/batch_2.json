@@ -1,0 +1,89 @@
+[
+  {
+    "row": 1322,
+    "product_name": "Orthophenylphenol/Sodium Orthophenylphenate",
+    "ingredient_names": "Phenylphenol >",
+    "cat_skin_ghs": "1",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1324,
+    "product_name": "Prequel Herbicide",
+    "ingredient_names": " | Rimsulfuron | Isoxaflutole",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1325,
+    "product_name": "Prosper T400 Insecticide to Fungicide",
+    "ingredient_names": " | Trifloxystrobin | Clothianidin | Carboxin | Metalaxyl",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/c6d5d767ddf927ac_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "sds_grade_status_eye": "negative",
+    "sds_grade_status_skin": "negative",
+    "sds_grade_status_sens": "negative"
+  },
+  {
+    "row": 1326,
+    "product_name": "Pursuit",
+    "ingredient_names": "Propylene Glycol 10-15 | Alcohols, C9 – C11, ethoxylated 1 < | Imazethapyr | Dimethenamid",
+    "cat_skin_ghs": "1",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1327,
+    "product_name": "Raxil MD Extra",
+    "ingredient_names": " | Tebuconazole | Imazalil | Metalaxyl",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/bdbc689f4ca255df_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "cat_eye_ghs": "2A",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "negative",
+    "sds_grade_status_sens": "negative"
+  },
+  {
+    "row": 1328,
+    "product_name": "Sargeant's Spot-On for Cats",
+    "ingredient_names": " | Fipronil | S-Methoprene | Etofenprox",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/432d2abe9bf99208_highlighted.pdf",
+    "sds_grade_status_eye": "verdict_only",
+    "sds_grade_status_skin": "verdict_only",
+    "sds_grade_status_sens": "not_stated"
+  },
+  {
+    "row": 1329,
+    "product_name": "Secure",
+    "ingredient_names": " | 3-Iodo-2-propynylbutylcarbamate | Didecyl dimethyl ammonium chloride",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/07b831dc4893f348_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "cat_eye_ghs": "2B",
+    "cat_skin_ghs": "2",
+    "cat_sens_ghs": "1B",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "ok"
+  },
+  {
+    "row": 1330,
+    "product_name": "Storicide II Grain, Bin to Warehouse Insecticide",
+    "ingredient_names": " | Deltamethrin | Chlorpyrifos-methyl",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/1f0b0a5e2dd8c0a0_highlighted.pdf",
+    "tox_signal_word": "danger",
+    "tox_h_statements": "H227 ;; H319 ;; H315 ;; H332 ;; H304 ;; H336 ;; H335 ;; H351 ;; H401 ;; H411",
+    "cat_eye_ghs": "2A",
+    "cat_skin_ghs": "2",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "negative"
+  }
+]

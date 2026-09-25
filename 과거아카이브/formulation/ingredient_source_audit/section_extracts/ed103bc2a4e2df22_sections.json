@@ -1,0 +1,65 @@
+{
+  "source_id": "ed103bc2a4e2df22",
+  "file_path": "ingredient_source_audit/highlighted/ed103bc2a4e2df22_highlighted.pdf",
+  "page_count": 16,
+  "full_text_length": 32940,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "company/undertaking",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification of the substance/mixture and of the \ncompany/undertaking \n1.1. Product identifier \n \nInnox \n \n1.2. Relevant identified uses of the substance or mixture and uses advised against \n \nRelevant identified uses: crop protection product, fungicide \n \n1.3. Details of the supplier o"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H302",
+      "H317",
+      "H411",
+      "H319",
+      "H400"
+    ],
+    "p_codes": [
+      "P102",
+      "P260",
+      "P270",
+      "P272",
+      "P280",
+      "P301",
+      "P312",
+      "P330",
+      "P331",
+      "P303",
+      "P361",
+      "P353",
+      "P304",
+      "P340",
+      "P305",
+      "P351",
+      "P338",
+      "P363"
+    ],
+    "ghs_classes": [
+      "Acute Tox. 4",
+      "Skin Sens. 1",
+      "Aquatic Chronic 2",
+      "Aquatic Acute 1"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 3,
+    "text_excerpt": "SECTION 2: Hazards Identification \n2.1. Classification of the substance or mixture \n \nFor the classification of the mixture the following methods have been applied: extrapolation on the \nconcentration levels of the hazardous substances, on basis of test results and after evaluation of \nexperts. The "
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

@@ -1,0 +1,89 @@
+[
+  {
+    "row": 1313,
+    "product_name": "lsobutyric Acid Hydrazide",
+    "ingredient_names": "Butyrohydrazide | Isobutyric acid hydrazide",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1314,
+    "product_name": "Magnate 75 SG (75.25)",
+    "ingredient_names": " | Imazalil",
+    "tox_source_url": "https://www.chemblink.com/MSDSFiles/8018-01-7Sigma-Aldrich.pdf",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/ordered_option_runs/highlighted_sources/G051_8018-01-7_ChemBlink_Sigma_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "tox_h_statements": "H317 ;; H335 ;; H361 ;; H400 ;; H410",
+    "cat_sens_ghs": "1",
+    "sds_grade_status_eye": "not_stated",
+    "sds_grade_status_skin": "not_stated",
+    "sds_grade_status_sens": "ok"
+  },
+  {
+    "row": 1315,
+    "product_name": "Metalaxyl",
+    "ingredient_names": " | Metalaxyl",
+    "tox_source_url": "https://www.chemblink.com/MSDSFiles/57837-19-1Sigma-Aldrich.pdf",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/ordered_option_runs/highlighted_sources/G020_57837-19-1_ChemBlink_Sigma_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "tox_h_statements": "H302 ;; H317 ;; H402 ;; H412",
+    "cat_sens_ghs": "1",
+    "sds_grade_status_eye": "not_stated",
+    "sds_grade_status_skin": "not_stated",
+    "sds_grade_status_sens": "ok"
+  },
+  {
+    "row": 1316,
+    "product_name": "Metarex 4% Snail to Slug Bait",
+    "ingredient_names": " | Metaldehyde",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/9e4e42c3ac50daf5_highlighted.pdf",
+    "sds_grade_status_eye": "negative",
+    "sds_grade_status_skin": "negative",
+    "sds_grade_status_sens": "negative"
+  },
+  {
+    "row": 1317,
+    "product_name": "Metsulfuron Methyl 75XP",
+    "ingredient_names": " | Metsulfuron-methyl",
+    "tox_source_url": "https://www.chemblink.com/MSDSFiles/74223-64-6Sigma-Aldrich.pdf",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/ordered_option_runs/highlighted_sources/G021_74223-64-6_ChemBlink_Sigma_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "tox_h_statements": "H400 ;; H410",
+    "sds_grade_status_eye": "not_stated",
+    "sds_grade_status_skin": "not_stated",
+    "sds_grade_status_sens": "not_stated"
+  },
+  {
+    "row": 1318,
+    "product_name": "Mixture of hydantoins",
+    "ingredient_names": "Print date : 12/03/2025 | Purity : [mass | 1,3-Dichloro-5,5-dimethylhydantoin | 1-Bromo-3-chloro-5,5-dimethylhydantoin | 1,3-Dichloro-5-ethyl-5-methyl-hydantoin",
+    "cat_skin_ghs": "1",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1319,
+    "product_name": "Optiguard Cockroach Bait",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/5408a948c3719c1a_highlighted.pdf",
+    "sds_grade_status_eye": "verdict_only",
+    "sds_grade_status_skin": "negative",
+    "sds_grade_status_sens": "negative"
+  },
+  {
+    "row": 1320,
+    "product_name": "Optiguard Liquid Ant Bait",
+    "ingredient_names": " | Thiamethoxam",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/7ba557c94bd50f41_highlighted.pdf",
+    "sds_grade_status_eye": "negative",
+    "sds_grade_status_skin": "negative",
+    "sds_grade_status_sens": "negative"
+  }
+]

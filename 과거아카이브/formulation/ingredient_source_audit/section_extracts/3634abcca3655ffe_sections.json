@@ -1,0 +1,37 @@
+{
+  "source_id": "3634abcca3655ffe",
+  "file_path": "ingredient_source_audit/highlighted/3634abcca3655ffe_highlighted.pdf",
+  "page_count": 7,
+  "full_text_length": 11384,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Section 1: Identification of the Hazardous Chemical and of the Supplier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "Section 1: Identification of the Hazardous Chemical and of the Supplier \n"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Carcinogenicity"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "Section 2: Hazard Identification \n1.1 \nProduct Identifier \nProduct Name: \nNapropamide 21.8% EC \nTrade Name: \nDevrinol 2-E \nActive Ingredient: \n  \nNapropamide \nCAS No.(AI): \n15299-99-7 \nStructural Formula: \n \n \n \n \n \n \n \n \nRecommended Usage: \nHerbicide \n \n1.2 \nSupplier’s Information \nAddress: \nAgricu"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

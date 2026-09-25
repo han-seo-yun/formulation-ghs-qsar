@@ -1,0 +1,608 @@
+[
+ {
+  "row": 691,
+  "fid": "MIX1051",
+  "product_name": "Heptylidene methyl anthranilate",
+  "tier": "ingredient",
+  "resolution": "ingredient_mismatch",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/8635/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS / ECHA C&L aggregate (PUG-View REST)",
+  "ingredients_match": false,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Methyl Anthranilate",
+    "cas": "134-20-3",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H319"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/8635/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "제품 실체는 heptaldehyde+methyl anthranilate 시프염기(CID 101668100, RTECS CB3080000)로 ingredient_names(Methyl Anthranilate, 134-20-3)와 다른 물질이며 PubChem 전체 레코드에 Safety/Toxicity 섹션이 없음(확인함) → 제품 GHS 미기록, 성분 methyl anthranilate만 ECHA C&L 집계로 수집(H319, Warning)."
+ },
+ {
+  "row": 692,
+  "fid": "MIX1052",
+  "product_name": "Abies alba oil from cones",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.thegoodscentscompany.com/data/es1000121.html",
+  "source_type": "TGSC aggregate (product LD50) + PubChem LCSS/ECHA C&L (per-ingredient)",
+  "ingredients_match": true,
+  "product_ghs": {
+   "signal_word": null,
+   "h_statements": null,
+   "eye_cat": null,
+   "skin_cat": null,
+   "sens_cat": null,
+   "ld50_oral": "> 5000 mg/kg (oral, rat)",
+   "ld50_dermal": "> 5000 mg/kg (skin, rabbit)",
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": [
+   {
+    "name": "Limonene, (-)-",
+    "cas": "5989-54-8",
+    "eye_cat": "Not classified",
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": [
+     "H226",
+     "H315",
+     "H317",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/439250/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "(+-)-alpha-Pinene",
+    "cas": "80-56-8",
+    "eye_cat": "1",
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": [
+     "H226",
+     "H302",
+     "H304",
+     "H315",
+     "H317",
+     "H318",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6654/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Camphene",
+    "cas": "79-92-5",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H228",
+     "H304",
+     "H319",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6616/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Beta-Pinene",
+    "cas": "127-91-3",
+    "eye_cat": "Not classified",
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": [
+     "H226",
+     "H304",
+     "H315",
+     "H317",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/14896/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Terpinolene",
+    "cas": "586-62-9",
+    "eye_cat": "Not classified",
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": [
+     "H226",
+     "H304",
+     "H315",
+     "H317",
+     "H400",
+     "H410",
+     "H411"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/11463/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Myrcene",
+    "cas": "123-35-3",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H226",
+     "H304",
+     "H315",
+     "H319",
+     "H400",
+     "H412"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/31253/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Alpha-Terpineol",
+    "cas": "98-55-5",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H315",
+     "H319"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/17100/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "P-Cymene",
+    "cas": "99-87-6",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H226",
+     "H304",
+     "H331",
+     "H411"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/7463/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "전나무 솔방울 오일(CAS 8021-27-0) 제품 SDS는 없으나 TGSC 집계에서 경구 rat LD50>5000, 경피 rabbit LD50>5000 확보(GHS 분류는 'None found', pH 미기재). 8개 모노테르펜 성분 GHS는 PubChem/ECHA C&L에서 전부 수집."
+ },
+ {
+  "row": 694,
+  "fid": "MIX1054",
+  "product_name": "Abies alba oil from needles",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.thegoodscentscompany.com/data/es1026931.html",
+  "source_type": "TGSC aggregate (product LD50) + PubChem LCSS/ECHA C&L (per-ingredient)",
+  "ingredients_match": true,
+  "product_ghs": {
+   "signal_word": null,
+   "h_statements": null,
+   "eye_cat": null,
+   "skin_cat": null,
+   "sens_cat": null,
+   "ld50_oral": "> 5000 mg/kg (oral, rat)",
+   "ld50_dermal": "> 5000 mg/kg (skin, rabbit)",
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": [
+   {
+    "name": "Limonene, (-)-",
+    "cas": "5989-54-8",
+    "eye_cat": "Not classified",
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": [
+     "H226",
+     "H315",
+     "H317",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/439250/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "(+-)-alpha-Pinene",
+    "cas": "80-56-8",
+    "eye_cat": "1",
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": [
+     "H226",
+     "H302",
+     "H304",
+     "H315",
+     "H317",
+     "H318",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6654/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Camphene",
+    "cas": "79-92-5",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H228",
+     "H304",
+     "H319",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6616/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Beta-Pinene",
+    "cas": "127-91-3",
+    "eye_cat": "Not classified",
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": [
+     "H226",
+     "H304",
+     "H315",
+     "H317",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/14896/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Terpinolene",
+    "cas": "586-62-9",
+    "eye_cat": "Not classified",
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": [
+     "H226",
+     "H304",
+     "H315",
+     "H317",
+     "H400",
+     "H410",
+     "H411"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/11463/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Myrcene",
+    "cas": "123-35-3",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H226",
+     "H304",
+     "H315",
+     "H319",
+     "H400",
+     "H412"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/31253/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Alpha-Terpineol",
+    "cas": "98-55-5",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H315",
+     "H319"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/17100/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "P-Cymene",
+    "cas": "99-87-6",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H226",
+     "H304",
+     "H331",
+     "H411"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/7463/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "전나무 침엽(leaf/needle) 오일(CAS 8021-27-0) 제품 SDS는 없으나 TGSC 집계에서 경구 rat LD50>5000, 경피 rabbit LD50>5000 확보(GHS 분류는 'None found', pH 미기재). 8개 모노테르펜 성분 GHS는 PubChem/ECHA C&L에서 전부 수집."
+ },
+ {
+  "row": 696,
+  "fid": "MIX1056",
+  "product_name": "Santalyl acetate",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/24832103/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS / ECHA C&L aggregate (+TGSC 교차확인)",
+  "ingredients_match": true,
+  "product_ghs": {
+   "signal_word": null,
+   "h_statements": [
+    "Not Classified"
+   ],
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "Not classified",
+   "ld50_oral": null,
+   "ld50_dermal": null,
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": [
+   {
+    "name": "Santalyl acetate",
+    "cas": "1323-00-8",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "Not Classified"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/24832103/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "단일물질 제품(CAS 1323-00-8). ECHA C&L 통보 235건 중 234건이 '미분류'로 보고(PubChem PUG-View 확인), TGSC도 GHS 'None found'로 교차확인. LD50/pH는 어느 출처에도 없음."
+ },
+ {
+  "row": 697,
+  "fid": "MIX1057",
+  "product_name": "Ocotea cymbarum oil",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "low",
+  "source_url": "https://www.thegoodscentscompany.com/data/es1004601.html",
+  "source_type": "TGSC aggregate (Food Cosmet Toxicol 16:831,1978 인용)",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": null,
+   "h_statements": null,
+   "eye_cat": null,
+   "skin_cat": null,
+   "sens_cat": null,
+   "ld50_oral": "1580 mg/kg (oral, rat)",
+   "ld50_dermal": null,
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": null,
+  "note_ko": "브라질 사사프라스유(CAS 68917-09-9, safrole 최대 92%). GHS는 'None found'이나 구 EU DSD 분류 Xn; R22(경구 유해)+R38(피부 자극)이 명시되어 있어 참고용이며, GHS 카테고리로는 임의변환하지 않고 null 처리. 경구 rat LD50 1580 mg/kg 확보."
+ },
+ {
+  "row": 699,
+  "fid": "MIX1059",
+  "product_name": "Ale oil",
+  "tier": "none",
+  "resolution": "unresolved",
+  "confidence": "low",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/substance/135285041/JSON",
+  "source_type": "PubChem SID(ChemIDplus/RTECS AZ4250000) - 식별정보만",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": null,
+  "note_ko": "실체가 RTECS AZ4250000 legacy 항목뿐(PubChem SID 135285041에 Safety/Toxicity 섹션 없음), TGSC에도 항목 없고 ingredient_names도 null이어서 제품·성분 어느 층위도 확보 불가."
+ },
+ {
+  "row": 702,
+  "fid": "MIX1061",
+  "product_name": "Abies sachalinensis oil",
+  "tier": "none",
+  "resolution": "unresolved",
+  "confidence": "low",
+  "source_url": "https://www.thegoodscentscompany.com/data/es1539081.html",
+  "source_type": "TGSC aggregate",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": null,
+  "note_ko": "TGSC 재확인 결과 GHS 분류·H코드·P코드 모두 'None found', 경구/경피/흡입 독성 모두 'Not determined'이며 CAS도 미확정. ingredient_names가 null이라 성분 단위 대체 수집도 불가."
+ },
+ {
+  "row": 706,
+  "fid": "MIX1065",
+  "product_name": "Krameria extract",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/244/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS / ECHA C&L aggregate (PUG-View REST)",
+  "ingredients_match": true,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Water",
+    "cas": "7732-18-5",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "Not Classified"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/962/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Glycerol",
+    "cas": "56-81-5",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "Not Classified"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/753/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Benzyl Alcohol",
+    "cas": "100-51-6",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": [
+     "H302",
+     "H317",
+     "H319"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/244/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Potassium Sorbate",
+    "cas": "24634-61-5",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H319"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/23676745/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "완제품 SDS는 여전히 로그인 사이트(ulprospector/specialchem)에만 존재해 미확보. 대신 4개 조성성분 GHS를 ECHA C&L 집계로 전부 확보(위험은 실질적으로 benzyl alcohol·potassium sorbate가 지배)."
+ },
+ {
+  "row": 709,
+  "fid": "MIX1068",
+  "product_name": "N-trimethylolmethylmercaptoacetamide",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/12961/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS / ECHA C&L aggregate (PUG-View REST)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "2-Mercaptoacetamide",
+    "cas": "758-08-7",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H315",
+     "H319",
+     "H335"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/12961/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Methanol",
+    "cas": "67-56-1",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H225",
+     "H301",
+     "H311",
+     "H331",
+     "H370"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/887/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Ammonia",
+    "cas": "7664-41-7",
+    "eye_cat": "1",
+    "skin_cat": "1",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H221",
+     "H314",
+     "H331",
+     "H400"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/222/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "CAS 미부여 물질로 제품 SDS 없음(재확인). ingredient_names 3종의 GHS를 PubChem/ECHA C&L로 확보. 단 세 성분은 합성원료 성격이라 최종물질 조성과의 정량적 대응은 미확인(ingredients_match=null)."
+ },
+ {
+  "row": 724,
+  "fid": "MIX110",
+  "product_name": "Clodinafop 240 EC",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://cdn.prod.website-files.com/66a6ff5f3d2c836983fa3261/66a9bdd009ebc649fd52cdbe_4q3vMV-q7f_Xsuf0pYg_noRm5CXPjJYyZv58ehnRd2U.pdf",
+  "source_type": "제품 SDS PDF (CHOICE CLODINAFOP 240EC, GrowChoice AU)",
+  "ingredients_match": true,
+  "product_ghs": {
+   "signal_word": "Danger",
+   "h_statements": [
+    "H227",
+    "H304",
+    "H317",
+    "H360",
+    "H373"
+   ],
+   "eye_cat": "2A",
+   "skin_cat": "2",
+   "sens_cat": "1",
+   "ld50_oral": "> 2276 mg/kg (oral, rat, undiluted product)",
+   "ld50_dermal": "> 4000 mg/kg (dermal, rat)",
+   "lc50_inh": "> 3500 mg/m3 (inhalation, rat, 4 h)",
+   "ph": "4-8 (1% in deionised water)"
+  },
+  "per_ingredient": [
+   {
+    "name": "Clodinafop-propargyl",
+    "cas": "105512-06-9",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": [
+     "H302",
+     "H317",
+     "H373",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/92431/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "N-methyl-2-pyrrolidone",
+    "cas": "872-50-4",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H315",
+     "H319",
+     "H335",
+     "H360D"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/13387/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Cloquintocet-mexyl",
+    "cas": "99607-70-2",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": [
+     "H317",
+     "H319",
+     "H332",
+     "H373",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/93528/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "제품 SDS 확보. Section 3 조성이 ingredient_names 3종과 정확히 일치(clodinafop-propargyl 240 g/L, cloquintocet-mexyl 60 g/L, NMP 100 g/L; +hydrocarbon liquid 575 g/L). GHS 카테고리·pH·LD50/LC50은 GrowChoice SDS, H코드는 동일 제형 Apparent Clodinafop 240 EC SDS(https://apparentag.com.au/documents/msds/67006_APPARENT_CLODINAFOP_240_EC_HERBICIDE_MSDS_211109.pdf, pH 약 6-8, 경구 LD50>5000)에서 확인. H코드는 Apparent SDS 기재분(H227/H304/H317/H360/H373)만 그대로 기록했고, GrowChoice SDS가 추가로 명시한 Eye Irrit 2A·Skin Irrit 2·Skin Sens 1·Acute Tox(oral) 4·STOT SE 3·Aquatic 1은 카테고리 필드에만 반영(H코드 임의 변환 안 함)."
+ }
+]

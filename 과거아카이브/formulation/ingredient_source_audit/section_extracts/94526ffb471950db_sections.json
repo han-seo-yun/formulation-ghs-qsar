@@ -1,0 +1,38 @@
+{
+  "source_id": "94526ffb471950db",
+  "file_path": "ingredient_source_audit/highlighted/94526ffb471950db_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 16388,
+  "sections_found": [
+    "section_1",
+    "section_3",
+    "section_2",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "SECTION 1 - CHEMICAL PRODUCT AND COMPANY IDENTIFICATION",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1 - CHEMICAL PRODUCT AND COMPANY IDENTIFICATION \n"
+  },
+  "section_2": {
+    "signal_word": "CAUTION",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "EXPLOSION",
+      "explosion"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 1,
+    "text_excerpt": "SECTION 2 - HAZARDS IDENTIFICATION SUMMARY \nTEBUCONAZOLE 4L \nSAFETY DATA SHEET \nPage 2 of 6 \n \nfurther treatment advice. \nNOTE TO PHYSICIAN: Probable mucosal damage may contraindicate the use of gastric lavage. No \nspecific antidote. Treat symptomatically. \nHave a product container or label with you"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

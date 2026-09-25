@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"python3 - <<'PY'\\nimport zipfile, hashlib, pathlib, shutil, unicodedata as U\\nN = lambda s: U.normalize('NFC', s)\\nbase = pathlib.Path('05_제안')\\nold  = base / '공통모델규약_배포_260921.zip'\\nprev ...",
+  "error": "Exit code 1\nTraceback (most recent call last):\n  File \"<stdin>\", line 13, in <module>\nAssertionError: 페이로드 구성이 260914 판과 다르다\n['배포_노선분리/README.md', '배포_노선분리/load_common.py', '배포_노선분리/v8_공통/공통폴드.npz', '배포_노선분리/v8_공통/공통폴드_요약.json', '배포_노선분리/v8_공통/피처노선_arm.json', '배포_노선분리/v8_공통/피처노선_판정.csv', '배포_노선분리/노선분리_비교규약.md']\n['ßäçßàóßäæßà⌐_ßäéßà⌐ßäëßàÑßå½ßäçßà«ßå½ßäàßà╡/README.md', 'ßäçßàóßäæßà⌐_ßäéßà⌐ßäëßàÑßå½ßäçßà«ßå½ßäàßà╡/load_common.py', 'ßäçßàóßäæßà⌐_ßäéßà⌐ßäëßàÑßå½ßäçßà«ßå½ßäàßà╡/v8_ßäÇßà⌐ßå╝ßäÉßà⌐ßå╝/...",
+  "timestamp": "2026-09-21T06:43:14.332Z",
+  "retry_count": 2
+}

@@ -1,0 +1,35 @@
+{
+  "source_id": "f28aadd6b6a85fb0",
+  "file_path": "ingredient_source_audit/highlighted/f28aadd6b6a85fb0_highlighted.pdf",
+  "page_count": 10,
+  "full_text_length": 21408,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "1.1. Product identifier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION \n \n1.1. Product identifier \n \nRoundup® Ready-To-Use Weed & Grass Killer III \n \n1.1.1. Chemical name \nNot applicable. \n1.1.2. Synonyms \nNone \n1.1.3. EPA Reg. No. \n71995-33 \n \n1.2. Product use \nHerbicide  \n \n1.3. Company \nMonsanto Company, Lawn & Garden Products, P.0"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION \n \n2.1. Classification \nOSHA Hazard Communication Standard, 29 CFR 1910.1200 (2012) \nEye damage/irritation - Category 2A \n2.2. Label elements \n2.2.1. Signal word \nWARNING! \n2.2.2. Hazard pictogram/pictograms  \n \n2.2.3. Hazard statement/statements \nCauses serious eye irritat"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "source_id": "c2ef0bcba535deab",
+  "file_path": "ingredient_source_audit/highlighted/c2ef0bcba535deab_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 14054,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product identifiers",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification of the substance/mixture and of the company/undertaking \n1.1 \nProduct identifiers \nProduct name \n: Glyphosate \n \nProduct Number \n: 45521 \nBrand \n: Sigma-Aldrich \nIndex-No. \n: 607-315-00-8 \nCAS-No. \n: 1071-83-6 \n1.2 \nRelevant identified uses of the substance or mixture and u"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H312",
+      "H318",
+      "H401",
+      "H411"
+    ],
+    "p_codes": [
+      "P273",
+      "P280",
+      "P302",
+      "P352",
+      "P312",
+      "P305",
+      "P351",
+      "P338",
+      "P310",
+      "P362",
+      "P364",
+      "P391",
+      "P501"
+    ],
+    "ghs_classes": [],
+    "environmental_hazard": "aquatic_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2: Hazards identification \n2.1 \nClassification of the substance or mixture \nGHS Classification in accordance with Hazardous Products Regulations (HPR) \n(SOR/2015-17) \nAcute toxicity, Dermal (Category 4), H312 \nSerious eye damage (Category 1), H318 \nShort-term (acute) aquatic hazard (Category"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

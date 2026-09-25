@@ -1,0 +1,35 @@
+{
+  "source_id": "aeb8b80ea8f83fdb",
+  "file_path": "ingredient_source_audit/highlighted/aeb8b80ea8f83fdb_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 15611,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product Name",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. Identification\nProduct Name\n1,4-Cyclohexanediol, mixture of cis and trans\nCat No. :\nAC111150000; AC111150250; AC111151000; AC111155000\nCAS No\n556-48-9\nSynonyms\nCHDM; Quinitol\nRecommended Use\nLaboratory chemicals.\nUses advised against\nFood, drug, pesticide or biocidal product use.\nDetails of the s"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. Hazard(s) identification\nClassification \nClassification according to [US] OSHA (29 CFR 1910.1200, 2024)\nLabel Elements  \nNone required\nHazards not otherwise classified (HNOC)  \nNone identified\nHazards classified under paragraph (d)(1)(ii) of 1910.1200\nNo information available\nCompany \nFisher Scie"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

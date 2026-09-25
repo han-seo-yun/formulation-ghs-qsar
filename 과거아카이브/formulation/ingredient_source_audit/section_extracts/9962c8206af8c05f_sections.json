@@ -1,0 +1,35 @@
+{
+  "source_id": "9962c8206af8c05f",
+  "file_path": "ingredient_source_audit/highlighted/9962c8206af8c05f_highlighted.pdf",
+  "page_count": 12,
+  "full_text_length": 28323,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product name: Accent™ Herbicide",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. IDENTIFICATION \nProduct name: Accent™ Herbicide \n \nRecommended use of the chemical and restrictions on use \nIdentified uses: Herbicide   \nUses advised against: Do not use product for anything outside of the above specified uses.   \n \nCOMPANY IDENTIFICATION \nCORTEVA AGRISCIENCE CANADA COMPANY \n#24"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION \nHazard classification \nThis product is not hazardous under the criteria of the Hazardous Products Regulation (HPR) as \nimplemented under the Workplace Hazardous Materials Information System (WHMIS 2015). \n \nOther hazards \nNo data available \n \n"
+  },
+  "section_14": {
+    "un_number": "3077"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "tool_name": "WebFetch",
+  "tool_input_preview": "{\"url\":\"https://duckduckgo.com/html/?q=%22Trifluralin%2010G%22+Albaugh+SDS\",\"prompt\":\"List search result titles and URLs related to Albaugh Trifluralin 10G SDS or EPA label.\"}",
+  "error": "connect ECONNREFUSED 20.43.161.105:443",
+  "timestamp": "2026-08-17T18:04:59.054Z",
+  "retry_count": 2
+}

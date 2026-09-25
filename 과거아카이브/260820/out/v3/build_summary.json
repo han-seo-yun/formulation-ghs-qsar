@@ -1,0 +1,115 @@
+{
+ "formulation": [
+  1675,
+  570
+ ],
+ "ingredient": [
+  5287,
+  155
+ ],
+ "X_formulation": [
+  1675,
+  519
+ ],
+ "X_ingredient": [
+  5287,
+  174
+ ],
+ "y_counts": {
+  "eye": 1105,
+  "skin": 992,
+  "sens": 595
+ },
+ "y_src": {
+  "eye": {
+   "ntp_measured": 608,
+   "sds_v1": 181,
+   "sds_2nd_sec11": 150,
+   "sds_2nd": 135,
+   "phase1_sds": 31
+  },
+  "skin": {
+   "ntp_measured": 544,
+   "sds_v1": 157,
+   "sds_2nd_sec11": 137,
+   "sds_2nd": 123,
+   "phase1_sds": 31
+  },
+  "sens": {
+   "sds_2nd": 198,
+   "sds_2nd_sec11": 184,
+   "sds_v1": 184,
+   "phase1_sds": 29
+  }
+ },
+ "resid_defined": {
+  "eye": 488,
+  "skin": 425,
+  "sens": 211
+ },
+ "ing_ghs_rows": 1257,
+ "sec11_reparse": {
+  "eye": {
+   "label": 566,
+   "comp_excluded": 10,
+   "ambig": 62,
+   "weak_nc": 18
+  },
+  "skin": {
+   "label": 481,
+   "comp_excluded": 13,
+   "ambig": 19,
+   "weak_nc": 15
+  },
+  "sens": {
+   "label": 461,
+   "comp_excluded": 14,
+   "ambig": 18,
+   "weak_nc": 17
+  },
+  "t11_ld50_oral": 617,
+  "t11_ld50_dermal": 531,
+  "t11_lc50_inhal": 392
+ },
+ "ph_rows": 534,
+ "structure_coverage": 0.6759977302818233,
+ "verify": {
+  "성분": {
+   "검증완료": "3604",
+   "재검토필요": "1359",
+   "제외": "218",
+   "미확인": "101",
+   "정보없음": "5"
+  },
+  "제형코드": {
+   "검증완료": "1321",
+   "정보없음": "351",
+   "재검토필요": "3"
+  },
+  "독성코드": {
+   "검증완료": "862",
+   "재검토필요": "758",
+   "정보없음": "38",
+   "미확인": "17"
+  },
+  "특성": {
+   "검증완료": "1514",
+   "재검토필요": "161"
+  }
+ },
+ "p1_batches": [
+  "p1_00.json",
+  "p1_01.json",
+  "p1_02.json",
+  "p1_03.json",
+  "p1_04.json",
+  "p1_05.json",
+  "p1_06.json",
+  "p1_07.json",
+  "p1_08.json",
+  "p1_09.json",
+  "p1_10.json",
+  "p1_11.json",
+  "p1_12.json"
+ ]
+}

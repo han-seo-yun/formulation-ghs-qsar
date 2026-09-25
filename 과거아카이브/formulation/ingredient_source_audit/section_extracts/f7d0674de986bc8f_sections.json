@@ -1,0 +1,53 @@
+{
+  "source_id": "f7d0674de986bc8f",
+  "file_path": "ingredient_source_audit/highlighted/f7d0674de986bc8f_highlighted.pdf",
+  "page_count": 11,
+  "full_text_length": 18759,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product identifier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification of the substance/mixture and of the company/undertaking\n1.1\nProduct identifier\nIdentification of the substance\nS-Metolachlor\nRegistration number (REACH)\nthis information is not available\nCAS number\n87392-12-9\nAlternative name(s)\nreaction mass of (S)-2-chloro-N-(2-ethyl-6-me"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H317",
+      "H400",
+      "H410"
+    ],
+    "p_codes": [
+      "P261",
+      "P273",
+      "P280",
+      "P333",
+      "P313",
+      "P362",
+      "P364",
+      "P391",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Skin Sens. 1",
+      "Aquatic Acute 1",
+      "Aquatic Chronic 1"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2: Hazards identification\n2.1\nClassification of the substance or mixture\nClassification according to Regulation (EC) No 1272/2008 (CLP)\nSection\nHazard class\nCategory\nHazard class and cat-\negory\nHazard state-\nment\n3.4S\nskin sensitisation\n1\nSkin Sens. 1\nH317\n4.1A\nhazardous to the aquatic envir"
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

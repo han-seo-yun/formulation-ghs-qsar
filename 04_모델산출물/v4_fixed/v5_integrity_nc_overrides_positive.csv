@@ -1,0 +1,36 @@
+Formulation_ID,product_name,positive_claims,quote
+MIX142,Decis 1.0 Gel,"[{""source_column"": ""t11_eye_label"", ""category"": ""1""}]","Serious eye damage/eye irritation
+Eyes - Rabbit
+Result: No eye irritation"
+MIX217,Folicur 1. 2 emulsifiable concentrate(16.6),"[{""source_column"": ""t11_eye_label"", ""category"": ""1""}]","Serious eye damage/eye irritation 
+Eyes - rabbit 
+Result: No eye irritation"
+MIX23,Acephate,"[{""source_column"": ""tox2_eye_ghs"", ""category"": ""2A""}, {""source_column"": ""t11_eye_label"", ""category"": ""2A""}]","Serious eye damage/eye irritation
+Shall not be classified as seriously damaging to the eye or eye irritant."
+MIX345,NEU1171H,"[{""source_column"": ""t11_eye_label"", ""category"": ""2A""}]","Irritation/Corrosion Conclusion/Summary ... Eyes : Based on available data, the classification criteria are not met."
+MIX42,Aminopyralid,"[{""source_column"": ""tox2_eye_ghs"", ""category"": ""1""}, {""source_column"": ""t11_eye_label"", ""category"": ""1""}]","Serious eye damage/eye irritation
+Essentially nonirritating to eyes.
+Corneal injury is unlikely."
+MIX434,Scimitar GR Insecticide,"[{""source_column"": ""t11_eye_label"", ""category"": ""2B""}]",Eye Contact: Non-Irritating (Rabbit)
+MIX447,S-Metolachlor & Mesotrione,"[{""source_column"": ""t11_eye_label"", ""category"": ""2B""}]","Serious eye damage/eye irritation
+Shall not be classified as seriously damaging to the eye or eye irritant."
+MIX527,Vitacon RTU FL Fungicide,"[{""source_column"": ""t11_eye_label"", ""category"": ""2B""}]",(c) serious eye damage/irritation: not irritant
+MIX670,Bifenthrin 0.069 RU Insecticide With X-X-X Fertilizer,"[{""source_column"": ""tox2_eye_ghs"", ""category"": ""2A""}, {""source_column"": ""t11_eye_label"", ""category"": ""2A""}]","Serious eye damage/eye irritation Based on available data, the classification criteria are not met."
+MIX701,NEUl l 71H RTU,"[{""source_column"": ""tox2_eye_ghs"", ""category"": ""1""}, {""source_column"": ""t11_eye_label"", ""category"": ""1""}]",Eye The mixture is not considered to be an eye irritant. Sum of eye irritants <10%
+MIX759,F6141 EW Insecticide,"[{""source_column"": ""tox2_eye_ghs"", ""category"": ""2A""}, {""source_column"": ""t11_eye_label"", ""category"": ""2A""}]",Eye Irritation (Category III) Cause moderate eye irritation | Not classified
+MIX810,"Mixture of: diethyl cis-1,4-cyclohexanedicarboxylate; diethyl trans-1,4-cyclohexanedicarboxylate","[{""source_column"": ""tox2_eye_ghs"", ""category"": ""2A""}, {""source_column"": ""t11_eye_label"", ""category"": ""2A""}]",This product is not considered hazardous by the US OSHA Hazard Communication Standard 2024 (29 CFR 1910.1200).
+MIX914,Cardamom oil,"[{""source_column"": ""p1_eye"", ""category"": ""2A""}]",Serious eye damage/irritation: Based on available data the classification criteria are not met.
+MIX1024,Bay oil,"[{""source_column"": ""tox2_skin_ghs"", ""category"": ""2""}, {""source_column"": ""t11_skin_label"", ""category"": ""2""}]",Skin Contact: None expected when used under normal conditions.
+MIX670,Bifenthrin 0.069 RU Insecticide With X-X-X Fertilizer,"[{""source_column"": ""tox2_skin_ghs"", ""category"": ""2""}, {""source_column"": ""t11_skin_label"", ""category"": ""2""}]","Skin corrosion/irritation Based on available data, the classification criteria are not met."
+MIX701,NEUl l 71H RTU,"[{""source_column"": ""tox2_skin_ghs"", ""category"": ""2""}, {""source_column"": ""t11_skin_label"", ""category"": ""2""}]",Skin The mixture is not considered to be a skin irritant. Sum of mild skin irritants <10%
+MIX794,Oleic/caprylic acid,"[{""source_column"": ""tox2_skin_ghs"", ""category"": ""1""}]",2.1 Classification of the substance or mixture Not a hazardous substance or mixture.
+MIX810,"Mixture of: diethyl cis-1,4-cyclohexanedicarboxylate; diethyl trans-1,4-cyclohexanedicarboxylate","[{""source_column"": ""tox2_skin_ghs"", ""category"": ""2""}, {""source_column"": ""t11_skin_label"", ""category"": ""2""}]",This product is not considered hazardous by the US OSHA Hazard Communication Standard 2024 (29 CFR 1910.1200).
+MIX811,"Mixture of isomers: 1-(1,1-dimethylpropyl)-4-ethoxy-cis-cyclohexane; 1-(1,1-dimethylpropyl)-4-ethoxy-trans-cyclohexane","[{""source_column"": ""tox2_skin_ghs"", ""category"": ""2""}, {""source_column"": ""t11_skin_label"", ""category"": ""2""}]",This product is not considered hazardous by the US OSHA Hazard Communication Standard 2024 (29 CFR 1910.1200).
+MIX914,Cardamom oil,"[{""source_column"": ""p1_skin"", ""category"": ""2""}]",Skin corrosion/irritation: Based on available data the classification criteria are not met.
+MIX1024,Bay oil,"[{""source_column"": ""t11_sens_label"", ""category"": ""1""}]",Sensitization to the Product: This product is not expected to cause skin sensitization.
+MIX1047,Hibawood oil,"[{""source_column"": ""tox2_sens_ghs"", ""category"": ""1""}, {""source_column"": ""t11_sens_label"", ""category"": ""1""}]","2.1 Classification of the substance or mixture
+Not a hazardous substance or mixture."
+MIX329,Mon 58416,"[{""source_column"": ""p1_sens"", ""category"": ""1""}]",2.1 Classification of the substance or mixture Not a hazardous substance or mixture.
+MIX759,F6141 EW Insecticide,"[{""source_column"": ""tox2_sens_ghs"", ""category"": ""1""}, {""source_column"": ""t11_sens_label"", ""category"": ""1B""}]",Skin Sensitization: Product is not considered a contact sensitizer.
+MIX938,Foin absolute,"[{""source_column"": ""tox2_sens_ghs"", ""category"": ""1""}, {""source_column"": ""t11_sens_label"", ""category"": ""1""}]","• Respiratory or skin sensitisation
+No sensitizing effects known."

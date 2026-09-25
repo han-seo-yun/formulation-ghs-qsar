@@ -1,0 +1,112 @@
+[
+ {
+  "row": 807,
+  "fid": "MIX187",
+  "product_name": "ENS-010A",
+  "ingredient_names": "Nitric Acid | Sulfuric Acid | Sodium Carbonate Monohydrate | Edetate Sodium | Imidacloprid",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/159ea75a31665ed8_highlighted.pdf",
+  "prev_fail_memo": "성분목록이 염모제/헤어컬러 제품 성분(2-Aminoethanol, phenylenediamine sulfate, resorcinol, aminophenol 등)과 살충제 성분(Imidacloprid)이 뒤섞인 형태로, 서로 무관한 두 제품의 데이터가 병합된 것으로 추정됨. 매칭 SDS 못 찾음",
+  "n_smiles": 5
+ },
+ {
+  "row": 826,
+  "fid": "MIX203",
+  "product_name": "Fenhexamid(95.5%)",
+  "ingredient_names": "Fenhexamid",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/e4d47b99d2587d3c_highlighted.pdf",
+  "prev_fail_memo": "Section 11 전부 '분류대상 아님(shall not be classified)'; H411(수생환경 유해성, 만성)은 Section 2/14에만 존재하며 독성(Section 11) 코드는 아님",
+  "n_smiles": 1
+ },
+ {
+  "row": 879,
+  "fid": "MIX251",
+  "product_name": "GF-1592 Naturalyte Insect Control",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/0d8175c67ad516b7_highlighted.pdf",
+  "prev_fail_memo": "SDS 소스 힌트 없음; 검색엔진 접근 불가로 SDS를 찾지 못함",
+  "n_smiles": 0
+ },
+ {
+  "row": 908,
+  "fid": "MIX278",
+  "product_name": "Kathon CF 400",
+  "ingredient_names": "| 5-Chloro-2-methyl-3(2H)-isothiazolone | 2-Methyl-3(2H)-isothiazolone",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/0f43f32f44c299c0_highlighted.pdf",
+  "prev_fail_memo": "로컬 하이라이트 PDF 접근 불가; CMIT(5-Chloro-2-methyl-3(2H)-isothiazolone) 단독 SDS 미발견, MIT(2-Methyl-3(2H)-isothiazolone) 원료 SDS만 확인됨. 제품은 CMIT/MIT 희석 혼합물이라 원료(순물질) 분류보다 실제 제품 분류는 낮을 수 있음",
+  "n_smiles": 2
+ },
+ {
+  "row": 916,
+  "fid": "MIX285",
+  "product_name": "Kitchen Klenzer",
+  "ingredient_names": "Limestone/Calcium Carbonate | Crystalline Silica | Sodium Carbonate | Sodium Dodecylbenzene Sulfonate | Trichloroisocyanuric Acid | Sodium dichloroisocyanurate",
+  "hint_tox_url": "https://www.keatingofchicago.com/media/msds/MSDS_Klenzer2014.pdf",
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "성분 불일치: 확인된 여러 'Kitchen Klenzer' SDS(Olds Products)는 Trichloroisocyanuric Acid(CAS 87-90-1) 함유, Sodium dichloroisocyanurate(CAS 2893-78-9)와는 다른 화합물. 동일 제품명의 다른 변형판(SDCC 함유)은 못 찾음.",
+  "n_smiles": 6
+ },
+ {
+  "row": 939,
+  "fid": "MIX305",
+  "product_name": "Mediclean Carpet Sanitizer",
+  "ingredient_names": "| Clorophene | 4-(2-Methylbutan-2-yl)phenol | 2-Phenylphenol",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/ee698285303edd7f_highlighted.pdf",
+  "prev_fail_memo": "성분 3종 중 2-Phenylphenol(OPP) SDS 미발견(Clorophene, tert-Amylphenol만 확인); 개별 원료는 Danger 등급인데 hint 제품 신호어는 Warning으로 상이 - 희석 제형 특성상 실제 제품 분류는 다를 수 있음",
+  "n_smiles": 3
+ },
+ {
+  "row": 965,
+  "fid": "MIX329",
+  "product_name": "Mon 58416",
+  "ingredient_names": "| Furilazole | Atrazine | Acetochlor",
+  "hint_tox_url": "https://www.chemblink.com/MSDSFiles/532-43-4Sigma-Aldrich.pdf",
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/ordered_option_runs/highlighted_sources/G022_sigma_mirror_sds_pdf_3a705fd60f882a03_highlighted.pdf",
+  "prev_fail_memo": "힌트 SDS(chemblink 532-43-4)는 Thiamine mononitrate(비타민B1) SDS로 Furilazole/Atrazine/Acetochlor와 무관; 대체 SDS 못 찾음",
+  "n_smiles": 3
+ },
+ {
+  "row": 1018,
+  "fid": "MIX377",
+  "product_name": "Quinoxyfen Manufacturing Use Concentrate",
+  "ingredient_names": "| Quinoxyfen",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/504b70f24956ee09_highlighted.pdf",
+  "prev_fail_memo": "힌트 SDS는 메탄올 단일물질 안전보건자료로 quinoxyfen 성분 정보 없음, 대체 SDS 못 찾음",
+  "n_smiles": 1
+ },
+ {
+  "row": 1026,
+  "fid": "MIX384",
+  "product_name": "Not Stated",
+  "ingredient_names": "| Fipronil | Amitraz | S-Methoprene",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "검색엔진 접속 제한(Bing/DuckDuckGo/Google 모두 차단·오작동)으로 3성분(Fipronil/Amitraz/S-Methoprene) 복합제품 전용 SDS를 찾지 못함 (추정 제품: Certifect)",
+  "n_smiles": 3
+ },
+ {
+  "row": 1093,
+  "fid": "MIX444",
+  "product_name": "Silent",
+  "ingredient_names": "| Esfenvalerate",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "ingredient_names 필드 앞부분이 누락된 것으로 보임(선행 \" | \"만 존재); SDS 못 찾음",
+  "n_smiles": 1
+ }
+]

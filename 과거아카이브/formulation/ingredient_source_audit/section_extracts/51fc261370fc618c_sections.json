@@ -1,0 +1,22 @@
+{
+  "source_id": "51fc261370fc618c",
+  "file_path": "ingredient_source_audit/highlighted/51fc261370fc618c_highlighted.pdf",
+  "page_count": 137,
+  "full_text_length": 385640,
+  "sections_found": [
+    "section_3",
+    "section_2"
+  ],
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Carcasses",
+      "Explosives"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2\nHazardous/Special Wastes\n1.6%\n9,381\nOrganics\n12.6%\n75,773\nPesticides/Herbicides\n0.0%\n0.0%\n222\nFood - Vegetative\n2.5%\n1.2%\n15,368\nMercury Vapor Lighting\n0.0%\n0.0%\n0\nFood - Non-vegetative\n0.9%\n0.5%\n5,336\nCompact Fluorescent Lights\n0.0%\n0.0%\n2\nLeaves & Grass\n4.0%\n2.0%\n24,073\nFluorescent Tubes\n0.0%\n0."
+  }
+}

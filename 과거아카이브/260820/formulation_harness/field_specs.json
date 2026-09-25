@@ -1,0 +1,56 @@
+{
+  "_note": "Standard field checklists for the SDS research harness. formulation_code reuses cipac_codes.json (96 official CIPAC/CropLife codes). The other fields are the standard SDS section parameters the harness should look for and report on (present/absent) for every SDS it cites, regardless of which field the user's role is actually collecting.",
+  "roles": {
+    "formulation_code": {
+      "label_ko": "제형코드",
+      "description": "CIPAC/CropLife formulation type code (see cipac_codes.json - 66 current + 30 discontinued).",
+      "sds_section": "Section 1 (product identifier) / label formulation-type statement"
+    },
+    "ingredients": {
+      "label_ko": "성분",
+      "description": "Active + notable inert ingredient names, CAS numbers, and w/w or w/v percentages.",
+      "sds_section": "Section 3 (Composition/information on ingredients)",
+      "fields": ["ingredient_name", "cas_number", "percentage", "role_in_formulation"]
+    },
+    "cas_number": {
+      "label_ko": "CAS넘버",
+      "description": "CAS Registry Number(s) for the active ingredient(s).",
+      "sds_section": "Section 3"
+    },
+    "physicochemical": {
+      "label_ko": "물리화학적특성",
+      "description": "Standard SDS Section 9 physical/chemical properties.",
+      "sds_section": "Section 9 (Physical and chemical properties)",
+      "fields": [
+        "physical_state", "color", "odor", "pH", "melting_freezing_point",
+        "initial_boiling_point", "flash_point", "evaporation_rate", "flammability",
+        "vapor_pressure", "vapor_density", "relative_density_specific_gravity",
+        "water_solubility", "partition_coefficient_log_kow", "auto_ignition_temperature",
+        "decomposition_temperature", "viscosity"
+      ]
+    },
+    "toxicity": {
+      "label_ko": "독성정보",
+      "description": "Standard SDS Section 11 toxicological information (GHS-classification based).",
+      "sds_section": "Section 11 (Toxicological information)",
+      "fields": [
+        "acute_oral_toxicity_ld50", "acute_dermal_toxicity_ld50", "acute_inhalation_toxicity_lc50",
+        "skin_corrosion_irritation", "eye_damage_irritation", "respiratory_skin_sensitization",
+        "germ_cell_mutagenicity", "carcinogenicity", "reproductive_toxicity",
+        "stot_single_exposure", "stot_repeated_exposure", "aspiration_hazard",
+        "ghs_signal_word", "ghs_hazard_statements", "ghs_pictograms"
+      ]
+    }
+  },
+  "sds_quality_criteria": {
+    "_note": "Used to decide whether a found SDS is 'good enough' or whether the harness should keep searching for a better one / supplement from other sources.",
+    "prefer": [
+      "Is for the FINISHED, formulated end-use product (not just the pure/technical active ingredient) - unless the role being researched is itself formulation_code=TC/TK (technical material), in which case a technical-grade SDS is correct and expected.",
+      "Contains Section 3 ingredient/composition data.",
+      "Contains Section 9 physical/chemical property data.",
+      "Contains Section 11 toxicological data (not just a generic 'no data available' placeholder).",
+      "States or implies a specific CIPAC/CropLife formulation type (directly, or via EPA/manufacturer registration formulation-type field)."
+    ],
+    "action_if_inadequate": "If the best SDS found is for a single/pure substance, or is missing 2+ of the above sections, do NOT stop - run additional targeted searches (manufacturer's own product/support site, EPA/regulatory label databases, other SDS aggregators) either for (a) a better, more complete SDS for the same product, or (b) supplementary sources that fill just the missing sections (e.g. manufacturer spec sheet for physicochemical data even if the SDS itself omits it)."
+  }
+}

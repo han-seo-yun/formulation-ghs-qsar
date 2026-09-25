@@ -1,0 +1,299 @@
+{
+  "대상파일": "최소빈_독성라벨.xlsx#독성코드",
+  "총행": 1675,
+  "담당행": 456,
+  "배정셀": 797,
+  "판독확정셀": 223,
+  "미판독셀": 574,
+  "판독_분포": {
+    "eye/1": 8,
+    "eye/2A": 1,
+    "eye/2B": 7,
+    "eye/NC": 24,
+    "sens/1": 49,
+    "sens/NC": 87,
+    "skin/1": 5,
+    "skin/2": 11,
+    "skin/3": 3,
+    "skin/NC": 28
+  },
+  "원문지지": {
+    "지지": 215,
+    "불지지": 8
+  },
+  "근거없는판독_원문없음": 0,
+  "GHS범주위반": 0,
+  "skin_2A2B_재유입": 0,
+  "NC근거유형": {
+    "eye/a": 9,
+    "eye/b": 13,
+    "eye/c": 1,
+    "eye/d": 1,
+    "sens/a": 36,
+    "sens/b": 50,
+    "sens/c": 1,
+    "skin/a": 4,
+    "skin/b": 22,
+    "skin/c": 1,
+    "skin/d": 1
+  },
+  "NC_c_또는_d건수": 5,
+  "미판독_태그빈도": {
+    "no_data": 189,
+    "qual_only": 275,
+    "epa_only": 56,
+    "comp": 12,
+    "xep": 16,
+    "nc_weak": 9,
+    "nc_explicit": 134,
+    "pos_assert": 32,
+    "h_phrase": 39
+  },
+  "기존라벨_비교": {
+    "일치": 94,
+    "충돌": 19,
+    "비교불가": 110
+  },
+  "충돌_by_src": {
+    "ntp_measured": 6,
+    "sds_2nd": 6,
+    "sds_v1": 6,
+    "sds_v1_negative_recovered": 1
+  },
+  "NTP실측_충돌": 6,
+  "negrec_448": {
+    "총셀": 448,
+    "엔드포인트별": {
+      "eye": {
+        "negrec_cells": 109,
+        "손댄셀": 20,
+        "판독확정": 6,
+        "채택가능": 0,
+        "일치": 6,
+        "모순": 0
+      },
+      "skin": {
+        "negrec_cells": 128,
+        "손댄셀": 24,
+        "판독확정": 10,
+        "채택가능": 0,
+        "일치": 10,
+        "모순": 0
+      },
+      "sens": {
+        "negrec_cells": 211,
+        "손댄셀": 44,
+        "판독확정": 31,
+        "채택가능": 8,
+        "일치": 30,
+        "모순": 1
+      }
+    },
+    "판독커버셀": 47,
+    "판독커버율_pct": 10.49,
+    "커버셀_일치": 46,
+    "커버셀_모순": 1,
+    "모순사례": [
+      {
+        "Formulation_ID": "MIX594",
+        "ep": "sens",
+        "판독": "1",
+        "원문": "양성(감작성 있음)"
+      }
+    ],
+    "채택가능셀": 8,
+    "채택가능_대체율_pct": 1.79
+  },
+  "ID조인": {
+    "sb행": 1675,
+    "v5매칭": 1675,
+    "매칭율_pct": 100.0,
+    "접두형": [
+      "MIX(1045)",
+      "EyeIrritation6pack_PID(613)",
+      "Cancer_PID_(17)"
+    ]
+  },
+  "독립성": {
+    "세열동일값행": 7,
+    "세열모두판독행": 13,
+    "xep셀": 16
+  },
+  "채택가능": {
+    "채택": 117,
+    "재검": 106
+  },
+  "확인불가": [
+    "sds_grade_status 생성 코드가 저장소에 없어 448셀의 원래 근거는 여전히 감사 불가",
+    "S11_원문_* 이 실제 SDS Section 11 원문의 축약/번역인지 원본 PDF 대조 불가(원본 미제공)"
+  ],
+  "미판독_태그타당성": {
+    "미판독셀": 574,
+    "태그無": 0,
+    "태그어휘": [
+      "ambig_conflict",
+      "comp",
+      "draize_pii",
+      "epa_only",
+      "h_phrase",
+      "ifra_only",
+      "nc_weak",
+      "no_data",
+      "pos_assert",
+      "precaution_only",
+      "qual_only",
+      "xep"
+    ],
+    "브리핑에없던태그": [
+      "epa_only",
+      "comp",
+      "draize_pii",
+      "precaution_only",
+      "ifra_only",
+      "ambig_conflict",
+      "nc_explicit",
+      "pos_assert",
+      "h_phrase"
+    ],
+    "no_data셀": 185,
+    "no_data_원문공백": 0,
+    "no_data인데_실서술존재": 0,
+    "qual_only셀": 273,
+    "qual_only_수치포함": 27,
+    "qual_only_오분류_판정가능": [
+      {
+        "원문": "실질적이나 일시적인 눈 손상 유발 (GHS 2A 상당)",
+        "ep": "eye",
+        "사유": "원문이 GHS 2A를 직접 명시"
+      },
+      {
+        "원문": "중등도 자극성(Moderately irritating, rabbit, MMTS 30.0) — 가역적 눈 손상",
+        "ep": "eye",
+        "사유": "MMTS 수치+가역성으로 2A 판정 가능"
+      },
+      {
+        "원문": "Severely irritating (OECD 405)",
+        "ep": "eye",
+        "사유": "OECD405 severe = Cat1 판정 가능(논쟁적)"
+      }
+    ],
+    "draize_pii_수치있으나_미판독": 6,
+    "xep셀": 16,
+    "xep_전수타당": "타당 - 16셀 모두 호흡기자극 또는 H312 경피독성 서술이며 대상 엔드포인트 서술 아님",
+    "nc_weak셀": 9,
+    "nc_weak_전수타당": "타당 - 9셀 모두 boilerplate/분류부재 진술, 음성 시험결과 없음"
+  },
+  "MIX846_핸드메이드_구파서결함재현": {
+    "설명": "원문 3열 모두 '자료 없음'인데 눈/피부/감작 판독 모두 NC. lib_parse.py:288-301 전역NC플래그 결함을 수작업으로 재현",
+    "셀수": 3
+  },
+  "원문불지지_8셀": [
+    {
+      "Formulation_ID": "MIX280",
+      "ep": "eye",
+      "판독": "NC",
+      "원문": "Mildly irritating (rabbit)",
+      "NC근거유형": "d"
+    },
+    {
+      "Formulation_ID": "MIX280",
+      "ep": "skin",
+      "판독": "NC",
+      "원문": "Slightly irritating (rabbit)",
+      "NC근거유형": "d"
+    },
+    {
+      "Formulation_ID": "MIX280",
+      "ep": "sens",
+      "판독": "1",
+      "원문": "Not available",
+      "NC근거유형": "해당없음"
+    },
+    {
+      "Formulation_ID": "MIX846",
+      "ep": "eye",
+      "판독": "NC",
+      "원문": "자료 없음",
+      "NC근거유형": "c"
+    },
+    {
+      "Formulation_ID": "MIX846",
+      "ep": "skin",
+      "판독": "NC",
+      "원문": "자료 없음",
+      "NC근거유형": "c"
+    },
+    {
+      "Formulation_ID": "MIX846",
+      "ep": "sens",
+      "판독": "NC",
+      "원문": "자료 없음",
+      "NC근거유형": "c"
+    },
+    {
+      "Formulation_ID": "MIX896",
+      "ep": "sens",
+      "판독": "1",
+      "원문": "GHS 분류상 Skin sensitisation Category 1이나, 실측 시험(human, 4.0% in petrolatum)에서는 감작 미유발(Did not cause sensitisation)",
+      "NC근거유형": "해당없음"
+    },
+    {
+      "Formulation_ID": "MIX902",
+      "ep": "sens",
+      "판독": "1",
+      "원문": "May cause allergic reactions on skin (not formally classified as sensitiser in this SDS)",
+      "NC근거유형": "해당없음"
+    }
+  ],
+  "NTP실측_충돌_재검대상": [
+    {
+      "Formulation_ID": "EyeIrritation6pack_PID1018",
+      "ep": "eye",
+      "판독": "NC",
+      "기존y": 1.0,
+      "원문": "Non-irritant (rabbit)"
+    },
+    {
+      "Formulation_ID": "EyeIrritation6pack_PID283",
+      "ep": "eye",
+      "판독": "NC",
+      "기존y": 1.0,
+      "원문": "Minimally irritant, 분류기준 미달 (rabbit)"
+    },
+    {
+      "Formulation_ID": "EyeIrritation6pack_PID41",
+      "ep": "eye",
+      "판독": "NC",
+      "기존y": 1.0,
+      "원문": "No irritation to eyes (rabbit)"
+    },
+    {
+      "Formulation_ID": "EyeIrritation6pack_PID639",
+      "ep": "eye",
+      "판독": "NC",
+      "기존y": 1.0,
+      "원문": "Classification criteria not indicated as met (no specific H-code beyond H410)"
+    },
+    {
+      "Formulation_ID": "EyeIrritation6pack_PID675",
+      "ep": "eye",
+      "판독": "NC",
+      "기존y": 1.0,
+      "원문": "경미한 자극 - 표시 불필요 (rabbit)"
+    },
+    {
+      "Formulation_ID": "MIX1",
+      "ep": "skin",
+      "판독": "3",
+      "기존y": 0.0,
+      "원문": "Causes mild skin irritation; may cause allergic reactions in very susceptible persons"
+    }
+  ],
+  "최종답": {
+    "Q1_223판독칸중_입력반영가능": "117 / 223 (52.5%) — 채택. 나머지 106칸은 재검(=즉시 반영 불가). 폐기 0.",
+    "Q1_상세": "채택 117 = eye 21(1:8,2A:1,2B:7,NC:5) + skin 16(1:5,2:5,3:2,NC:4) + sens 80(1:45,NC:35)",
+    "Q2_448셀_대체가능율": "판독이 닿은 셀 47/448 = 10.49%. 그중 시험근거(a급) NC로 실제 대체 가능한 셀 8/448 = 1.79%. eye 0/109(0%), skin 0/128(0%), sens 8/211(3.79%)",
+    "Q2_결론": "p=1.9e-10 결함은 eye 엔드포인트인데 eye 대체가능 셀은 0건. 이 데이터로는 해당 결함을 해소할 수 없다.",
+    "Q3_보조소득": "448셀 커버 47셀 중 46셀(97.9%)이 기존 y=0과 일치 → negrec 블록의 방향성 자체는 반증되지 않았으나, 표본 47/448로 검정력 부족"
+  }
+}

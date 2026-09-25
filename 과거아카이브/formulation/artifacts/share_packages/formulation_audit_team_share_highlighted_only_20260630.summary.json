@@ -1,0 +1,30 @@
+{
+  "zip_path": "artifacts/share_packages/formulation_audit_team_share_highlighted_only_20260630.zip",
+  "selection_rule": "Review-focused highlighted-only package. Includes the master workbook copy with relative paths, filtered source manifest with relative paths, review queue CSV, audit summary, and only highlighted evidence files referenced by review rows. Original source files are omitted. Rows that referenced original-only artifacts keep blank shared-path cells when no highlighted artifact exists.",
+  "counts": {
+    "review_rows": 794,
+    "evidence_files_included": 490,
+    "missing_highlight_reference_count": 45,
+    "archive_entries_total": 496,
+    "manifest_rows": 411
+  },
+  "sizes": {
+    "workbook_bytes": 892775,
+    "manifest_bytes": 98093,
+    "review_queue_bytes": 1337177,
+    "evidence_bytes": 149663981,
+    "inventory_bytes": 52229,
+    "uncompressed_total_bytes": 152046975
+  },
+  "kind_counts": {
+    "core_workbook": 1,
+    "core_summary": 1,
+    "core_manifest": 1,
+    "review_queue": 1,
+    "highlighted_evidence": 411,
+    "supplemental_highlighted": 79,
+    "generated_inventory": 1,
+    "generated_summary": 1
+  },
+  "zip_size_bytes": 118257008
+}

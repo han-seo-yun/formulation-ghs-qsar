@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"node -e \\\"\\nconst fs = require('fs');\\nconst src = fs.readFileSync('/Users/hanseoyun/Desktop/제형/.claude/workflows/sds-research.js', 'utf8');\\nconst wrapped = 'async function __check(){\\\\n'...",
+  "error": "Exit code 1\ncheck.js:2\nexport const meta = {\n^^^^^^\n\nSyntaxError: Unexpected token 'export'\n    at new Script (node:vm:117:7)\n    at [eval]:5:1\n    at runScriptInThisContext (node:internal/vm:219:10)\n    at node:internal/process/execution:451:12\n    at [eval]-wrapper:6:24\n    at runScriptInContext (node:internal/process/execution:449:60)\n    at evalFunction (node:internal/process/execution:283:30)\n    at evalTypeScript (node:internal/process/execution:295:3)\n    at node:internal/main/eval_string...",
+  "timestamp": "2026-08-16T15:56:58.100Z",
+  "retry_count": 2
+}

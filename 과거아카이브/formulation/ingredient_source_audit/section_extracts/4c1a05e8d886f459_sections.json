@@ -1,0 +1,35 @@
+{
+  "source_id": "4c1a05e8d886f459",
+  "file_path": "ingredient_source_audit/highlighted/4c1a05e8d886f459_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 16153,
+  "sections_found": [
+    "section_14",
+    "section_15",
+    "section_2",
+    "section_1",
+    "section_3"
+  ],
+  "section_1": {
+    "product_name": "Section 2: Hazard Identification",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": true,
+    "text_excerpt": "Section 1: Material Identification \nSection 2: Hazard Identification \n(As defined by the OSHA Hazard Communication Standard, 29) \n,amlacha St.      P.O.B. 8213 Netanya 42293 Israel          \n Tel:  +972-9-8656454               F ax: +972-9-8654278\n E-MAIL: info@agriance.com   Web site: www.agriance."
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "GHS classification: \nHealth Hazards: \nAcute inhalation \nCategory 4 \nEye damage/irritation \nCategory 2B \nGHS label elements: \nSignal Word: \nWarning \n"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

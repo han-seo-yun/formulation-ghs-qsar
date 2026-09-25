@@ -1,0 +1,35 @@
+{
+  "source_id": "20247b2240baedb9",
+  "file_path": "ingredient_source_audit/highlighted/20247b2240baedb9_highlighted.pdf",
+  "page_count": 7,
+  "full_text_length": 14883,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Identification of the product",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. Identification of the Substance/Preparation and of the Company/Undertaking\nIdentification of the product \nProduct Description\nDisarm G Fungicide\nOther means of identification \nInternal SDS code\n12-0424\nRegistration number(s)\n70506-424\nRecommended use of the chemical and restrictions on use \nRecom"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "2. Hazards Identification\nClassification \nOSHA Regulatory Status\nThis chemical is considered hazardous by the 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200)\nSerious eye damage/eye irritation\nCategory 2B\nLabel elements \nEMERGENCY OVERVIEW\nPrecautionary Statements - Prevention\nDo not get i"
+  },
+  "section_14": {
+    "un_number": "3077"
+  }
+}

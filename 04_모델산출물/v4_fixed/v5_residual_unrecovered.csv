@@ -1,0 +1,261 @@
+Formulation_ID,pipe_index,name_token,len_names,len_cas,len_smiles,form_basis,decision,cas,smiles,v4_assigned_cas,v4_defect_verdict
+EyeIrritation6pack_PID1000,0,Tri-allate,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,2303-17-5,UNVERIFIABLE
+EyeIrritation6pack_PID1000,1,Inert ingredients secret,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID1000,2,Liquid Hydrocarbon secret to,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID1056,1,Content (W/W),10,5,4,name_ref_unique,dropped:nonchemical_name_token,,,907204-31-3,NONCHEM_TOKEN_GOT_STRUCTURE
+EyeIrritation6pack_PID1056,3,Content (W/W): >= 0.5,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,,52-51-7,NONCHEM_TOKEN_GOT_STRUCTURE
+EyeIrritation6pack_PID1056,4,sodium salts,10,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,55965-84-9,UNVERIFIABLE
+EyeIrritation6pack_PID1056,5,Content (W/W): > 0.5 - <=,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+EyeIrritation6pack_PID1056,7,Content (W/W): >= 0.02,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+EyeIrritation6pack_PID1056,8,mixture of: 5-chloro-2-methyl-2H-isothiazol-3-one and 2-methyl-2H-isothiazol-3-one (3:1),10,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID1056,9,Content (W/W): >= 0.0001,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+EyeIrritation6pack_PID182,1,Content (W/W),10,5,4,name_ref_unique,dropped:nonchemical_name_token,,,7783-20-2,NONCHEM_TOKEN_GOT_STRUCTURE
+EyeIrritation6pack_PID182,2,Ammonium sulphate,10,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,7631-86-9,UNVERIFIABLE
+EyeIrritation6pack_PID182,3,Content (W/W): > 10.0,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,,1332-58-7,NONCHEM_TOKEN_GOT_STRUCTURE
+EyeIrritation6pack_PID182,4,Silicon dioxide,10,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,577-11-7,UNVERIFIABLE
+EyeIrritation6pack_PID182,5,Content (W/W): >= 10.0 - <=,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+EyeIrritation6pack_PID182,7,Content (W/W): >= 3.0 - <=,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+EyeIrritation6pack_PID182,8,sodium-di-ethyl-hexyl-sulfosuccinate,10,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID182,9,Content (W/W): >= 0.1 - <=,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+EyeIrritation6pack_PID240,0,imazamox,2,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,114311-32-9,UNVERIFIABLE
+EyeIrritation6pack_PID240,1,Proprietary ingredients,2,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID32,0,Name : Abamectin techn. min,2,2,2,length_matched_all,dropped:nonchemical_name_token,,,71751-41-2,NONCHEM_TOKEN_GOT_STRUCTURE
+EyeIrritation6pack_PID32,1,EC index no : 606,2,2,2,length_matched_all,dropped:nonchemical_name_token,,,143-00-0,NONCHEM_TOKEN_GOT_STRUCTURE
+EyeIrritation6pack_PID333,1,"equal to or greater than are listed by IARC, NTP, OSHA or ACGIH",2,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID344,0,Elemental Sulfur,2,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,7704-34-9,UNVERIFIABLE
+EyeIrritation6pack_PID344,1,Inert Ingredients,2,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID345,3,Fatty alcohol ethoxylate <=,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,68131-39-5,UNVERIFIABLE
+EyeIrritation6pack_PID345,5,Other ingredients (non-hazardous) to,6,5,4,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+EyeIrritation6pack_PID347,1,Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID347,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID349,2,Other Ingredients,4,2,2,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+EyeIrritation6pack_PID349,3,Other/Inert Ingredients,4,2,2,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID350,1,Fumaric Acid,2,3,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,68425-94-5,UNVERIFIABLE
+EyeIrritation6pack_PID356,0,Potassium salt of aminocyclopyrachlor,4,2,2,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,858956-35-1,UNVERIFIABLE
+EyeIrritation6pack_PID356,1,Inert Ingredients,4,2,2,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,858956-08-8,UNVERIFIABLE
+EyeIrritation6pack_PID356,3,Other/Inert Ingredients,4,2,2,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID358,1,Other Ingredients,3,1,1,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+EyeIrritation6pack_PID358,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID360,2,Lignin Sulfonate Salt,6,2,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID360,3,Disodium phosphate,6,2,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID360,4,Other Ingredients,6,2,3,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+EyeIrritation6pack_PID360,5,Other/Inert Ingredients,6,2,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID361,1,Other Ingredients,3,1,1,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+EyeIrritation6pack_PID361,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID363,2,Lignin Sulfonate Salt,8,3,5,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,13463-67-7,UNVERIFIABLE
+EyeIrritation6pack_PID363,3,Disodium phosphate,8,3,5,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID363,4,"Ethyl 5,5-diphenyl-2-isoxazoline-3-carboxylate",8,3,5,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID363,5,Other Ingredients,8,3,5,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+EyeIrritation6pack_PID363,7,Other/Inert Ingredients,8,3,5,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID365,1,Other Ingredients,3,1,1,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+EyeIrritation6pack_PID365,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID46,2,Silica,3,4,0,name_ref_unique,skipped_length_mismatch:ambiguous_reference_cas,,,14808-60-7,CAS_OK
+EyeIrritation6pack_PID494,0,spinosad (ISO) (reaction mass of,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,168316-95-8,UNVERIFIABLE
+EyeIrritation6pack_PID494,1,Kaolin >= 3 - <,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,1332-58-7,UNVERIFIABLE
+EyeIrritation6pack_PID494,2,Di--ethylhexyl sodium sulfosuccinate >= 1 - <,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,577-11-7,UNVERIFIABLE
+EyeIrritation6pack_PID494,3,Amorphous precipitated silica >= 1 - <,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,112926-00-8,UNVERIFIABLE
+EyeIrritation6pack_PID494,4,titanium dioxide; [in powder form >= 0.1 - <,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,13463-67-7,UNVERIFIABLE
+EyeIrritation6pack_PID494,5,containing or more of particles,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID500,0,spinosad (ISO) (reaction mass of,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,168316-95-8,UNVERIFIABLE
+EyeIrritation6pack_PID500,1,Kaolin >= 3 - <,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,1332-58-7,UNVERIFIABLE
+EyeIrritation6pack_PID500,2,Di--ethylhexyl sodium sulfosuccinate >= 1 - <,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,577-11-7,UNVERIFIABLE
+EyeIrritation6pack_PID500,3,Amorphous precipitated silica >= 1 - <,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,112926-00-8,UNVERIFIABLE
+EyeIrritation6pack_PID500,4,titanium dioxide; [in powder form >= 0.1 - <,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,13463-67-7,UNVERIFIABLE
+EyeIrritation6pack_PID500,5,containing or more of particles,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID530,1,Content (W/W),5,3,3,name_ref_unique,dropped:nonchemical_name_token,,,2682-20-4,NONCHEM_TOKEN_GOT_STRUCTURE
+EyeIrritation6pack_PID530,2,Content (W/W): >= 1.0,5,3,3,name_ref_unique,dropped:nonchemical_name_token,,,2634-33-5,NONCHEM_TOKEN_GOT_STRUCTURE
+EyeIrritation6pack_PID530,3,2-Methyl-4-Isothiazolin-3-one,5,3,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID540,0,Silica,4,5,0,name_ref_unique,skipped_length_mismatch:ambiguous_reference_cas,,,14808-60-7,CAS_OK
+EyeIrritation6pack_PID573,1,Proprietary ingredients,2,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID585,1,2-Propanediol >= 1.00 - <=,5,4,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,57-55-6,UNVERIFIABLE
+EyeIrritation6pack_PID585,4,Other ingredients (non-hazardous) to,5,4,4,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+EyeIrritation6pack_PID668,1,Calcium sulfate,4,3,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,7778-18-9,UNVERIFIABLE
+EyeIrritation6pack_PID668,2,6-Di-tert-butyl-4-methylphenol >= 0.10 - <=,4,3,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,128-37-0,UNVERIFIABLE
+EyeIrritation6pack_PID668,3,Other ingredients (non-hazardous) to,4,3,3,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+EyeIrritation6pack_PID702,1,Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID702,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID757,1,Content (W/W),7,4,4,name_ref_unique,dropped:nonchemical_name_token,,,131983-72-7,NONCHEM_TOKEN_GOT_STRUCTURE
+EyeIrritation6pack_PID757,4,Content (W/W): >= 5.0,7,4,4,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+EyeIrritation6pack_PID757,6,Content (W/W): >= 0.9,7,4,4,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+EyeIrritation6pack_PID832,1,Other Ingredients,3,1,1,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+EyeIrritation6pack_PID832,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,0,None listed,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,94-75-7,UNVERIFIABLE
+EyeIrritation6pack_PID834,1,Immediate (Acute); Delayed (Chronic,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,27176-87-0,UNVERIFIABLE
+EyeIrritation6pack_PID834,3,"CERCLA - This product contains the following chemicals which have a reportable quantity (RQ) under the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,4,2.4-Dichlorophenoxyacetic acid has an RQ of 100 Ibs (reached with 27.5 gallons of product). Dodecylbenzenesulfonic acid has an RQ of 1000 Ibs (not reached with any practical quantity of this substance,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,5,2.4-Dichlorophenoxyacetic acid has an RQ of 100 Ibs (reached with 27.5 gallons of product,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,6,Dodecylbenzenesulfonic acid has an RQ of 1000 Ibs (not reached with any practical quantity of this substance,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,7,Corrosive,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,8,California Proposition 65: This product contains chemicals known to the state of California to cause cancer and/or oductive harm,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,9,"U.S. State Worker and Community Right-To-Know (RTK) Information (IL, MA, MN, NJ, PA, RI",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,10,State(s,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,11,"IL, MA, MN, NJ, PA, RI",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,12,Dodecylbenzenesulfonic,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,13,Dodecylbenzenesulfonic acid,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,14,acid,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,15,"MA, NJ, PA",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,16,Canadian Domestic,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,17,Substances List,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,18,Not determined,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,19,"Disclaimer: The information presented herein is based on available data from reliable sources and is correct to the best of WinField Solutions' knowledge. WinField Solutions, LLC makes no warranty, express nor implied, regarding the accuracy of the data or the results obtained from the use of this product. Nothing herein may be construed as recommending any practice or any product in violation of any law or regulations. The user is solely responsible for determining the suitability of any material or product for a specific purpose and for adopting any appropriate safety precautions. We disclaim all liability for injury or damage stemming from any improper use of the material or product described herein",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,20,Supersedes document dated,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,21,"Supersedes document dated: May 29, 2015",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,22,"December 07, 2017",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,23,"May 29, 2015",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID834,24,6 of 6,25,2,1,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+EyeIrritation6pack_PID857,0,Pyrimethanil,3,4,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,53112-28-0,UNVERIFIABLE
+EyeIrritation6pack_PID87,2,Other Ingredients,4,2,2,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+EyeIrritation6pack_PID87,3,Other/Inert Ingredients,4,2,2,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+EyeIrritation6pack_PID870,1,Ammonium Sulfate,3,5,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,7783-20-2,UNVERIFIABLE
+EyeIrritation6pack_PID922,0,Silica,3,4,0,name_ref_unique,skipped_length_mismatch:ambiguous_reference_cas,,,14808-60-7,CAS_OK
+EyeIrritation6pack_PID922,2,Cyprodinil,3,4,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,131341-86-1,UNVERIFIABLE
+EyeIrritation6pack_PID955,0,Active ingredient (% w/w): Tebuconazole Technical,2,2,2,length_matched_all,dropped:nonchemical_name_token,,,107534-96-3,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX1011,0,"MATERIAL SAFETY DATA SHEET Page 1 of 8 1. IDENTIFICATION Product Description:: INCI Name: Botanical Name: Other means of identification Recommended use: Company Name: Website: Email: TANGERINE ESSENTIAL OIL -1 ; -7 Citrus Tangerina (Tangerine) Peel Oil Citrus tangerina Concentrated aromatic ingredient which may be used in aromatherapy, natural perfumery, cosmetics and personal care formulations according to legal and IFRA guidelines. UNICHEM PHARM www.unichempharm.rs unihem",1,2,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,8016-85-1,UNVERIFIABLE
+MIX104,0,imazamox,2,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,114311-32-9,UNVERIFIABLE
+MIX104,1,Proprietary ingredients,2,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX1040,0,"Avena Lab MATERIAL SAFETY DATA SHEET Page 1 of 8 BROOM (GENET) ABSOLUTE OIL PRODUCT CODE: PAO2040 1. IDENTIFICATION Product Description:: INCI Name: Botanical Name: Other means of identification Product Code #: Recommended use: Company Name: Address: Telephone: Website: Email: Broom (Genet) Absolute Oil -1 ; -8 Spartium junceum L. Spartium junceum PAO2040 Concentrated aromatic ingredient which may be used in aromatherapy, natural perfumery, cosmetics and personal care formul",1,2,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,8023-80-1,UNVERIFIABLE
+MIX1048,0,Diethylene Glycol Monobutyl Ether,2,6,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,112-34-5,UNVERIFIABLE
+MIX1048,1,Triethanolamine,2,6,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,84133-50-6,UNVERIFIABLE
+MIX1050,0,Linalool,11,13,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,8016-38-4,UNVERIFIABLE
+MIX1050,2,1-Methyl-4-Prop-1-En-2-Ylcyclohexene,11,13,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,4602-84-0,UNVERIFIABLE
+MIX1050,3,Nerolidol,11,13,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,138-86-3,UNVERIFIABLE
+MIX1050,4,Benzaldehyde,11,13,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,7212-44-4,UNVERIFIABLE
+MIX1050,5,Phenylacetonitrile,11,13,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,100-52-7,UNVERIFIABLE
+MIX1050,7,Indole,11,13,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,64-17-5,UNVERIFIABLE
+MIX1050,9,2-Phenylethanol,11,13,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,134-20-3,UNVERIFIABLE
+MIX1052,0,"Limonene, (-)-",8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,90028-76-5,CAS_WRONG
+MIX1052,2,Camphene,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,80-56-8,UNVERIFIABLE
+MIX1052,3,Beta-Pinene,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,79-92-5,UNVERIFIABLE
+MIX1052,4,Terpinolene,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,127-91-3,UNVERIFIABLE
+MIX1052,5,Myrcene,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,586-62-9,UNVERIFIABLE
+MIX1052,6,Alpha-Terpineol,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,123-35-3,UNVERIFIABLE
+MIX1052,7,P-Cymene,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,98-55-5,UNVERIFIABLE
+MIX1054,0,"Limonene, (-)-",8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,90028-76-5,CAS_WRONG
+MIX1054,2,Camphene,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,80-56-8,UNVERIFIABLE
+MIX1054,3,Beta-Pinene,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,79-92-5,UNVERIFIABLE
+MIX1054,4,Terpinolene,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,127-91-3,UNVERIFIABLE
+MIX1054,5,Myrcene,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,586-62-9,UNVERIFIABLE
+MIX1054,6,Alpha-Terpineol,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,123-35-3,UNVERIFIABLE
+MIX1054,7,P-Cymene,8,9,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,98-55-5,UNVERIFIABLE
+MIX1059,0,"AMALIE OIL COMPANY  1601 McCloskey Boulevard Tampa, Florida 33605 U.S.A. E-MAIL: info@amalie.com www.amalie.com Telephone: (813)Fax: (813) 828000482 Page 1/9 Safety data sheet according to 1907/2006/EC (REA CH), 1272/2008/EC (CLP), and OSHA GHS Revision: 24 April 2018 SECTION 1 PRODUCT AND COMPANY INFORMATION Product Name(s): AMALIE UNIV SYNTHETIC CVT FLUID Product Code(s): 828305582 Uses: A petroleum-based lubricant. Company: AOCUSA Address: 1601 McCloskey Boulevard Tampa, Fl",1,3,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,64742-54-7,UNVERIFIABLE
+MIX1060,1,Gamma-Terpinene,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,5989-27-5,UNVERIFIABLE
+MIX1060,2,Terpinolene,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,99-85-4,UNVERIFIABLE
+MIX1060,3,Alpha-Terpineol,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,586-62-9,UNVERIFIABLE
+MIX1060,4,Alpha-Terpinene,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,98-55-5,UNVERIFIABLE
+MIX1060,5,"1,4-Cineole",16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,99-86-5,UNVERIFIABLE
+MIX1060,6,P-Cymene,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,470-67-7,UNVERIFIABLE
+MIX1060,7,Beta-Pinene,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,99-87-6,UNVERIFIABLE
+MIX1060,8,Beta-Bisabolene,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,127-91-3,UNVERIFIABLE
+MIX1060,9,Terpinen-4-ol,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,495-61-4,UNVERIFIABLE
+MIX1060,10,Myrcene,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,562-74-3,UNVERIFIABLE
+MIX1060,11,Farnesene,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,123-35-3,UNVERIFIABLE
+MIX1060,13,Gamma-Terpineol,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,80-56-8,UNVERIFIABLE
+MIX1060,15,Camphene,16,18,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,8000-41-7,UNVERIFIABLE
+MIX1065,3,Potassium Sorbate,4,7,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,84775-95-1,UNVERIFIABLE
+MIX128,1,Fumaric Acid,2,3,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,68425-94-5,UNVERIFIABLE
+MIX146,0,Desmedipham,6,7,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,13684-56-5,UNVERIFIABLE
+MIX146,2,Lenacil,6,7,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,2164-08-1,UNVERIFIABLE
+MIX146,3,Phenmedipham,6,7,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,13684-63-4,UNVERIFIABLE
+MIX146,4,2-Phenoxyethanol;phosphoric acid,6,7,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,9046-09-7,UNVERIFIABLE
+MIX146,5,"Poly(oxy-1,2-ethanediyl), alpha-isotridecyl-omega-hydroxy-, phosphate",6,7,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,39464-70-5,UNVERIFIABLE
+MIX155,0,Potassium salt of aminocyclopyrachlor,4,2,2,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,858956-35-1,UNVERIFIABLE
+MIX155,1,Inert Ingredients,4,2,2,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,858956-08-8,UNVERIFIABLE
+MIX155,3,Other/Inert Ingredients,4,2,2,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX160,0,Elemental Sulfur,2,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,7704-34-9,UNVERIFIABLE
+MIX160,1,Inert Ingredients,2,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX162,3,Fatty alcohol ethoxylate <=,6,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,68131-39-5,UNVERIFIABLE
+MIX162,5,Other ingredients (non-hazardous) to,6,5,4,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+MIX163,2,Other Ingredients,4,2,2,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+MIX163,3,Other/Inert Ingredients,4,2,2,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX164,0,Famoxadone,7,3,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,131807-57-3,UNVERIFIABLE
+MIX164,2,Sodium dioctyl sulfosuccinate,7,3,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,577-11-7,UNVERIFIABLE
+MIX164,3,Alkyl Glycol Polymer,7,3,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX164,4,Modified Lingin Sulfonate Salt,7,3,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX164,5,Other Ingredients,7,3,3,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+MIX164,6,Other/Inert Ingredients,7,3,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX166,1,Other Ingredients,3,1,1,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+MIX166,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX17,0,Name : Abamectin techn. min,2,2,2,length_matched_all,dropped:nonchemical_name_token,,,71751-41-2,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX17,1,EC index no : 606,2,2,2,length_matched_all,dropped:nonchemical_name_token,,,143-00-0,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX180,1,Monobasic potassium phosphate,2,3,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,7778-77-0,UNVERIFIABLE
+MIX221,1,Other Ingredients,3,1,1,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+MIX221,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX266,0,Silica,4,5,0,name_ref_unique,skipped_length_mismatch:ambiguous_reference_cas,,,14808-60-7,CAS_OK
+MIX286,1,Proprietary ingredients,2,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX3,2,Silica,3,4,0,name_ref_unique,skipped_length_mismatch:ambiguous_reference_cas,,,14808-60-7,CAS_OK
+MIX357,2,Lignin Sulfonate Salt,6,2,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX357,3,Disodium phosphate,6,2,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX357,4,Other Ingredients,6,2,3,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+MIX357,5,Other/Inert Ingredients,6,2,3,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX386,1,Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX386,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX410,1,Other Ingredients,3,1,1,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+MIX410,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,0,None listed,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,94-75-7,UNVERIFIABLE
+MIX414,1,Immediate (Acute); Delayed (Chronic,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,27176-87-0,UNVERIFIABLE
+MIX414,3,"CERCLA - This product contains the following chemicals which have a reportable quantity (RQ) under the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,4,2.4-Dichlorophenoxyacetic acid has an RQ of 100 Ibs (reached with 27.5 gallons of product). Dodecylbenzenesulfonic acid has an RQ of 1000 Ibs (not reached with any practical quantity of this substance,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,5,2.4-Dichlorophenoxyacetic acid has an RQ of 100 Ibs (reached with 27.5 gallons of product,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,6,Dodecylbenzenesulfonic acid has an RQ of 1000 Ibs (not reached with any practical quantity of this substance,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,7,Corrosive,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,8,California Proposition 65: This product contains chemicals known to the state of California to cause cancer and/or oductive harm,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,9,"U.S. State Worker and Community Right-To-Know (RTK) Information (IL, MA, MN, NJ, PA, RI",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,10,State(s,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,11,"IL, MA, MN, NJ, PA, RI",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,12,Dodecylbenzenesulfonic,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,13,Dodecylbenzenesulfonic acid,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,14,acid,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,15,"MA, NJ, PA",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,16,Canadian Domestic,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,17,Substances List,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,18,Not determined,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,19,"Disclaimer: The information presented herein is based on available data from reliable sources and is correct to the best of WinField Solutions' knowledge. WinField Solutions, LLC makes no warranty, express nor implied, regarding the accuracy of the data or the results obtained from the use of this product. Nothing herein may be construed as recommending any practice or any product in violation of any law or regulations. The user is solely responsible for determining the suitability of any material or product for a specific purpose and for adopting any appropriate safety precautions. We disclaim all liability for injury or damage stemming from any improper use of the material or product described herein",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,20,Supersedes document dated,25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,21,"Supersedes document dated: May 29, 2015",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,22,"December 07, 2017",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,23,"May 29, 2015",25,2,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX414,24,6 of 6,25,2,1,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+MIX423,1,Content (W/W),7,4,4,name_ref_unique,dropped:nonchemical_name_token,,,131983-72-7,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX423,4,Content (W/W): >= 5.0,7,4,4,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+MIX423,6,Content (W/W): >= 0.9,7,4,4,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+MIX433,0,Pyrimethanil,3,4,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,53112-28-0,UNVERIFIABLE
+MIX448,1,Ammonium Sulfate,3,5,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,7783-20-2,UNVERIFIABLE
+MIX472,0,Active ingredient (% w/w): Tebuconazole Technical,2,2,2,length_matched_all,dropped:nonchemical_name_token,,,107534-96-3,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX490,0,Silica,3,4,0,name_ref_unique,skipped_length_mismatch:ambiguous_reference_cas,,,14808-60-7,CAS_OK
+MIX490,2,Cyprodinil,3,4,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,131341-86-1,UNVERIFIABLE
+MIX50,2,Other Ingredients,4,2,2,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+MIX50,3,Other/Inert Ingredients,4,2,2,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX522,1,Other Ingredients,3,1,1,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+MIX522,2,Other/Inert Ingredients,3,1,1,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX550,1,Content (W/W),10,5,4,name_ref_unique,dropped:nonchemical_name_token,,,907204-31-3,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX550,3,Content (W/W): >= 0.5,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,,52-51-7,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX550,4,sodium salts,10,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,55965-84-9,UNVERIFIABLE
+MIX550,5,Content (W/W): > 0.5 - <=,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+MIX550,7,Content (W/W): >= 0.02,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+MIX550,8,mixture of: 5-chloro-2-methyl-2H-isothiazol-3-one and 2-methyl-2H-isothiazol-3-one (3:1),10,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX550,9,Content (W/W): >= 0.0001,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+MIX77,1,Content (W/W),10,5,4,name_ref_unique,dropped:nonchemical_name_token,,,7783-20-2,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX77,2,Ammonium sulphate,10,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,7631-86-9,UNVERIFIABLE
+MIX77,3,Content (W/W): > 10.0,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,,1332-58-7,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX77,4,Silicon dioxide,10,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,577-11-7,UNVERIFIABLE
+MIX77,5,Content (W/W): >= 10.0 - <=,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+MIX77,7,Content (W/W): >= 3.0 - <=,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+MIX77,8,sodium-di-ethyl-hexyl-sulfosuccinate,10,5,4,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,,UNVERIFIABLE
+MIX77,9,Content (W/W): >= 0.1 - <=,10,5,4,name_ref_unique,dropped:nonchemical_name_token,,,,UNVERIFIABLE
+MIX844,0,Composition/information on Ingredients. Chemical name. CAS No. Weight-%. Ethylene glycol. 107-21-1. 8. Ethofumesate. 26225-79-6. 42.0. If CAS ...,1,2,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,107-21-1,UNVERIFIABLE
+MIX862,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Angelica Archangelica Root Oil. 84775-41-7 / 8015-64-3. 283- ...,1,2,0,name_ref_unique,dropped:nonchemical_name_token,,,84775-41-7,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX870,0,"CAS-No. : 68611-23-4, 88683-93-6. 4. FIRST AID MEASURES. Inhalation. : Remove from exposure site to fresh air and keep at rest. Obtain medical ...",1,2,0,name_ref_unique,dropped:nonchemical_name_token,,,68611-23-4,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX880,0,"ROSE OIL TURKISH LMR. Print Date. 28.05.2020. Page 1 (6). Version. : 6 ...: -0, -0. 4. FIRST AID MEASURES. Inhalation",1,2,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,8007-01-0,UNVERIFIABLE
+MIX886,0,CAS number. %. Chemical name. Common name and synonyms. 90147-36-7. VIOLET LEAF ABSOLUTE. 100. Other related CAS # 8024-08-6. Composition ...,1,2,0,name_ref_unique,dropped:nonchemical_name_token,,,90147-36-7,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX908,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Cinnamomum Cassia Leaf Oil. 8007-80-5. 284-635-0. 100 %. 4.,1,1,0,name_cas_length_matched,dropped:nonchemical_name_token,,,8007-80-5,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX923,0,P331. Do NOT induce vomiting. 3. COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Schinus Molle Oil. 68917-52-2. -. 100 %. 4.,1,1,0,name_cas_length_matched,dropped:nonchemical_name_token,,,68917-52-2,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX926,0,number. EINECS number. %. Canarium Luzonicum (Elemi) Gum Oil. -0 ; -3. -0. 100. Page 3. Avena. Lab. MATERIAL SAFETY DATA SHEET. Page 3,1,2,0,name_ref_unique,skipped_length_mismatch:no_unique_reference_cas,,,8023-89-0,UNVERIFIABLE
+MIX929,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Acorus Calamus Root Oil. 84775-39-3/8015-79-0. 283-869-0. 100 ...,1,2,0,name_ref_unique,dropped:nonchemical_name_token,,,84775-39-3,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX939,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Helichrysum Italicum Flower Oil. 90045-56-0. 289-918-2. 100 %.,1,1,0,name_cas_length_matched,dropped:nonchemical_name_token,,,90045-56-0,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX949,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Curcuma longa Root Oil. 458-37-7. 100%. 4. FIRST AID MEASURES.,1,1,0,name_cas_length_matched,dropped:nonchemical_name_token,,,458-37-7,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX954,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Anethum Graveolens Seed Oil. 90028-03-8 / 8006-75-5. 289-790- ...,1,2,0,name_ref_unique,dropped:nonchemical_name_token,,,90028-03-8,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX970,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Vetiveria Zizanoides Root Oil. 84238-29-9. 282-490-8. 100 %.,1,1,0,name_cas_length_matched,dropped:nonchemical_name_token,,,84238-29-9,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX978,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Clary Sage Oil. 84775-83-7/8016-63-5. 283-911-8. 100 %. 4.,1,2,0,name_ref_unique,dropped:nonchemical_name_token,,,84775-83-7,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX989,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Thymus Vulgaris Oil. 84929-51-1. 284-535-7. 100 %. 4. FIRST ...,1,1,0,name_cas_length_matched,dropped:nonchemical_name_token,,,84929-51-1,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX994,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Clary Sage Oil. 84775-83-7/8016-63-5. 283-911-8. 100 %. 4.,1,2,0,name_ref_unique,dropped:nonchemical_name_token,,,84775-83-7,NONCHEM_TOKEN_GOT_STRUCTURE
+MIX998,0,COMPOSITION / INFORMATION INGREDIENTS. Product Name. CAS NO. EC NO. Concentration. Copaiba oficinallis Resin. 9000-12-8. 232-526-3. 100 %. 4.,1,1,0,name_cas_length_matched,dropped:nonchemical_name_token,,,9000-12-8,NONCHEM_TOKEN_GOT_STRUCTURE

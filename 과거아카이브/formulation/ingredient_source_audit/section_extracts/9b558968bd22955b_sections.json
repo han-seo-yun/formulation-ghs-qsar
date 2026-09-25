@@ -1,0 +1,64 @@
+{
+  "source_id": "9b558968bd22955b",
+  "file_path": "ingredient_source_audit/highlighted/9b558968bd22955b_highlighted.pdf",
+  "page_count": 18,
+  "full_text_length": 35319,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "company/undertaking",
+    "formulation_code": "WDG",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification of the substance/mixture and of the \ncompany/undertaking \n1.1. Product identifier \n \nDelan 700 WDG \n \n1.2. Relevant identified uses of the substance or mixture and uses advised against \n \nRelevant identified uses: crop protection product, fungicide \n \n1.3. Details of the su"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H301",
+      "H318",
+      "H317",
+      "H351",
+      "H410",
+      "H400"
+    ],
+    "p_codes": [
+      "P101",
+      "P102",
+      "P202",
+      "P261",
+      "P264",
+      "P270",
+      "P272",
+      "P280",
+      "P301",
+      "P330",
+      "P303",
+      "P352",
+      "P305",
+      "P351",
+      "P338"
+    ],
+    "ghs_classes": [
+      "Acute Tox. 3",
+      "Skin Sens. 1",
+      "Carc. 2",
+      "Aquatic Chronic 1",
+      "Aquatic Acute 1"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 5,
+    "text_excerpt": "SECTION 2: Hazards Identification \n2.1. Classification of the substance or mixture \nFor the classification of the mixture the following methods have been applied: extrapolation on the \nconcentration levels of the hazardous substances, on basis of test results and after evaluation of \nexperts. The me"
+  },
+  "section_14": {
+    "un_number": "2588"
+  }
+}

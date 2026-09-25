@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"cd \\\"/Users/hanseoyun/Desktop/신작물보호제/04_모델산출물/v8_리포트\\\"\\npython3 -c \\\"\\nfrom docx import Document\\nfrom docx.shared import Pt\\nd=Document('260920_회의자료_L2피처설계_한서윤.docx')\\nfor i,p in enumerat...",
+  "error": "Exit code 1\nTraceback (most recent call last):\n  File \"<string>\", line 17, in <module>\n    fonts=sorted({(r.font.name, r.font.size.pt if r.font.size else None, r.bold) for r in p.runs})\nTypeError: '<' not supported between instances of 'NoneType' and 'bool'\n[0] style='Normal' ind=None | [(None, 17.0, True)] | L2 노선 피처 설계 — 실험 4건",
+  "timestamp": "2026-09-20T00:22:03.672Z",
+  "retry_count": 1
+}

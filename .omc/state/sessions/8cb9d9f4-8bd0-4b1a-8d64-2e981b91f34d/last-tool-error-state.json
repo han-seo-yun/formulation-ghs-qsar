@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"cd \\\"/Users/hanseoyun/Desktop/신작물보호제/01_파이프라인\\\" && python3 build_feature_meeting_docx.py\",\"description\":\"Build the meeting report docx\"}",
+  "error": "Exit code 1\nTraceback (most recent call last):\n  File \"/Users/hanseoyun/Desktop/신작물보호제/01_파이프라인/build_feature_meeting_docx.py\", line 254, in <module>\n    table([\"endpoint\", \"결측 처리\", \"pooled AUC\", \"누출보정 AUC\", \"MCC\", \"BA\"], [\n    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n        [\"눈 (n=1,044)\", \"`nan0` (0 으로 채움)\", \"0.7028\", \"0.6364\", \"0.3087\", \"0.6535\"],\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n    ...<2 ...",
+  "timestamp": "2026-09-19T08:11:21.389Z",
+  "retry_count": 1
+}

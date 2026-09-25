@@ -1,0 +1,393 @@
+[
+ {
+  "row": 346,
+  "product_name": "IMA-Jet 10%",
+  "ingredient_names": "Imidacloprid 58.5 g/L",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / H302 (Harmful if swallowed); H312 (Harmful in contact with skin); H319 (Causes serious eye irritation); H332 (Harmful if inhaled); H410 (Very toxic to aquatic life with long lasting effects)",
+  "메모": "제품 전용(10% 제형) SDS 못 찾음, 원료(Imidacloprid, CAS 138261-41-3) 물질 SDS로 대체",
+  "검증근거": "눈 구분 충돌 참조=2B vs H코드유도=2A ; 메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://www.chemicalbook.com/msds/imidacloprid.htm"
+  ]
+ },
+ {
+  "row": 348,
+  "product_name": "Imdaclpoprid-Vitavax-Metalaxyl Seed Treatment",
+  "ingredient_names": "carboxin | Ethylene glycol | Imidacloprid | Metalaxyl",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Warning(carboxin, metalaxyl) / Danger(imidacloprid) - 성분별로 다름 / Carboxin: H302, H317, H373, H410 | Imidacloprid: H302, H312, H319, H332, H410 | Metalaxyl: H302, H317, H412",
+  "메모": "제품 전용(3종 혼합 종자처리제) SDS 못 찾음, 3개 유효성분(carboxin/imidacloprid/metalaxyl) 개별 원료 SDS 취합; ethylene glycol(용매)은 독성정보 미확인",
+  "검증근거": "눈 구분 충돌 참조=2B vs H코드유도=2A ; 메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://www.chemicalbook.com/msds/carboxin.htm"
+  ]
+ },
+ {
+  "row": 353,
+  "product_name": "Initium Fungicide",
+  "ingredient_names": "Chlorothalonil not listed | Propylene Glycol not listed | Silica, amorphous withdrawn | Ametoctradin",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Warning / H302 (Harmful if swallowed)",
+  "메모": "제품(Initium, BASF) 전용 SDS 못 찾음, 원료(Ametoctradin, CAS 865318-97-4) 물질 SDS로 대체. ingredient_names 내 Chlorothalonil(not listed)/Propylene Glycol(not listed)/Silica amorphous(withdrawn) 표기는 실제 성분 여부 불명확(데이터 이상 추정)하여 검증 불가",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://www.chemicalbook.com/msds/ametoctradin.htm"
+  ]
+ },
+ {
+  "row": 364,
+  "product_name": "Kendo 22.8 CS",
+  "ingredient_names": "Lambda-cyhalothrin",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "WARNING / May be fatal if swallowed. Harmful if inhaled or absorbed through skin. Causes moderate eye irritation. (label emergency overview, not formal GHS H-code list)",
+  "메모": "힌트 URL(M115571.pdf)은 실제로 Direct Ag Source사의 'LAMBDA-CY AG'(lambda-cyhalothrin 11.4%) SDS로, 제품명·농도가 'Kendo 22.8 CS'(22.8%)와 다름. 실제 Kendo 22.8 CS SDS는 검색엔진 차단 및 WinField/Loveland/CDMS/Greenbook 등에서 찾지 못함. 활성성분명(Lambda-cyhalothrin)은 일치하나 눈자극 등급이 힌트(Not classified)와 SDS상 값('Mildly irritating')이 상충되어 재검증 필요.",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://assets.greenbook.net/M115571.pdf"
+  ]
+ },
+ {
+  "row": 414,
+  "product_name": "Micromite 80WG",
+  "ingredient_names": "DIflubenzuron 70-90 | 6-Difluorobenzamide 1-5 | Kaolin 1-5 | Diflubenzuron",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Warning (경고) / H312 (피부 접촉 시 유해), H400/H410 (수생생물에 매우 유독, 장기간 영향); 일부 자료 STOT RE H373",
+  "메모": "제품(80WG) 전용 SDS는 못 찾음; PubChem/ECHA에 등재된 diflubenzuron 순물질 GHS·독성자료로 대체 확인 (완제품은 80% 희석 제형이라 등급이 다를 수 있음). 기존 eye_ghs '2B' 힌트와 일치",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/37123"
+  ]
+ },
+ {
+  "row": 416,
+  "product_name": "Molluscicide Mesurol 2% Bait",
+  "ingredient_names": "Methiocarb | Calcium sulfate | 6-Di-tert-butyl-4-methylphenol >= 0.10 - <= | Other ingredients (non-hazardous) to",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger (위험) / H301 (삼키면 유독), H410 (수생생물에 매우 유독, 장기간 영향); 일부 자료 H300/H330 (삼키거나 흡입하면 치명적)",
+  "메모": "제품(2% Bait) 전용 SDS는 못 찾음; PubChem/ECHA에 등재된 methiocarb 순물질 GHS·독성자료로 대체 확인 (완제품은 2% 희석 미끼제라 실제 급성독성 등급은 더 낮을 수 있음)",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/16248"
+  ]
+ },
+ {
+  "row": 419,
+  "product_name": "Mon 8411",
+  "ingredient_names": "Hexanedioic acid, monomethyl ester | Acetochlor",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "힌트 SDS(coleparmer 01536.pdf)는 원료 단일물질 'Adipic Acid Monomethyl Ester'(=Hexanedioic acid monomethyl ester, CAS 627-91-8) MSDS로 Acetochlor 미포함, 완제품(Mon 8411) SDS 아님 - 대체 완제품 SDS 못 찾음",
+  "검증근거": "추출정보 공란 + 출처 접근 실패(링크불가·403/404·로그인·못찾음)",
+  "pdf_path": null,
+  "urls": [
+   "https://pim-resources.coleparmer.com/sds/01536.pdf"
+  ]
+ },
+ {
+  "row": 424,
+  "product_name": "Mycostat BX2",
+  "ingredient_names": "The antisapstain Mycostat® BX2 is applied to the surface of this product with dry residual concentration of | Propiconazole",
+  "tox_signal_word": "danger",
+  "tox_h_statements": "H350 ;; H315 ;; H335 ;; H320",
+  "cat_eye_ghs": 1,
+  "cat_skin_ghs": 2,
+  "cat_sens_ghs": null,
+  "추출정보": "제품(처리목재) 신호어 DANGER는 목분진 기준이며 Mycostat BX2 자체 신호어는 문서 내 별도 확립 안됨 / 문서의 H350/H315/H335/H320은 목분진(wood dust) 관련 분류 - Propiconazole 자체 GHS 분류는 본 문서에 없음",
+  "메모": "기존 힌트의 신호어(DANGER)/H코드(H350,H315,H335,H320)는 처리목재(Southern Pine Lumber, 99-100% wood) 제품 자체의 목분진(wood dust) 위험성 분류이며 Mycostat BX2(Propiconazole)와는 무관함. Section11에 개별성분(Propiconazole, borax)의 실제 독성값이 별도 제시되어 있어 이를 채택함",
+  "검증근거": "눈 구분 충돌 참조=1 vs H코드유도=2B",
+  "pdf_path": null,
+  "urls": [
+   "https://www.weyerhaeuser.com/application/files/9115/1311/1308/Southern_Pine_Lumber-Mycostat_Treated.pdf"
+  ]
+ },
+ {
+  "row": 461,
+  "product_name": "Penpro 118FS",
+  "ingredient_names": "Methanol | Trichloroisocyanuric Acid | Prothioconazole | Penflufen",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "CAUTION (EPA 라벨 기준) / Harmful if swallowed. Harmful if absorbed through the skin. Avoid contact with skin, eyes or clothing.",
+  "메모": "공식 SDS 못 찾음, EPA 라벨(Bayer, EPA 264-1123) 정보만 확인. 유사 3성분 제품 EverGol Energy(Metalaxyl 포함, EPA 264-1122)는 성분 불일치로 제외",
+  "검증근거": "메모가 제품/성분 불일치를 진술",
+  "pdf_path": null,
+  "urls": [
+   "https://www3.epa.gov/pesticides/chem_search/ppls/000264-01123-20120511.pdf"
+  ]
+ },
+ {
+  "row": 464,
+  "product_name": "Penthiopyrad 40 SC Fungicide",
+  "ingredient_names": "Penthiopyrad(*) (200",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "CAUTION (EPA 라벨 기준) / Harmful if absorbed through skin. Harmful if swallowed.",
+  "메모": "공식 SDS 못 찾음, EPA 라벨(Mitsui Chemicals Agro, EPA 86203-26) 정보만 확인",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://www3.epa.gov/pesticides/chem_search/ppls/086203-00026-20140423.pdf"
+  ]
+ },
+ {
+  "row": 465,
+  "product_name": "Pentri 308FS",
+  "ingredient_names": "Methanol | Trichloroisocyanuric Acid | Trifloxystrobin | Penflufen",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "CAUTION (EPA 라벨); SDS(EverGol Xtend C)상 OSHA HCS 비유해물질로 표기 / Harmful if swallowed, absorbed through skin, or inhaled. Causes moderate eye irritation.",
+  "메모": "정확히 동일 등록번호는 못 찾음: SDS는 근연 제품 EverGol Xtend C(EPA 264-1165, Penflufen/Trifloxystrobin 각14.26%) 기준이며 Pentri 308FS(EPA 264-1124, 각 13.3%)와 유효성분 조합·비율이 거의 동일한 동계열 제품으로 판단해 기재",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://s3-us-west-1.amazonaws.com/agrian-cg-fs1-production/pdfs/Evergol_Xtend_C1e_MSDS.pdf"
+  ]
+ },
+ {
+  "row": 474,
+  "product_name": "Polyphase 663",
+  "ingredient_names": "Carbamic acid, butyl-, 3-iodo-2-propynyl ester | Carbendazim | Diuron | Other ingredients | Other/Inert Ingredients",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / H303 May be harmful if swallowed; H315 Causes skin irritation; H319 Causes serious eye irritation; H332 Harmful if inhaled; H351 Suspected of causing cancer; H371 May cause damage to organs (respiratory tract); H373 May cause damage to organs through prolonged/repeated exposure (bladder, blood system)",
+  "메모": "Troy Corporation(현 Arxada) 정식 SDS(멕시코 배포판, 영문) 기준",
+  "검증근거": "눈 구분 충돌 참조=2B vs H코드유도=2A",
+  "pdf_path": null,
+  "urls": [
+   "https://app.quimicarana.com/hojas_tecnicas/PROD-001853_SDSI.pdf"
+  ]
+ },
+ {
+  "row": 501,
+  "product_name": "Quinoxyfen Manufacturing Use Concentrate",
+  "ingredient_names": "Methanol | Quinoxyfen",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "힌트 SDS는 메탄올 단일물질 안전보건자료로 quinoxyfen 성분 정보 없음, 대체 SDS 못 찾음",
+  "검증근거": "추출정보 공란 + 출처 접근 실패(링크불가·403/404·로그인·못찾음)",
+  "pdf_path": null,
+  "urls": [
+   "https://www.methanex.com/wp-content/uploads/UL-METHANOL-SG_EN_02.09.2023.pdf"
+  ]
+ },
+ {
+  "row": 512,
+  "product_name": "Reality 25",
+  "ingredient_names": "Free | Permethrin",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "Reality 25'(25% 제형) 전용 SDS를 찾지 못해 동일 제조사(Gharda Chemicals) 'Reality Termiticide/Insecticide'(permethrin 38.3% EC, EPA Reg 33658-33) SDS로 대체 참고함 - 제형/농도 다름, 정확한 LD50 수치 없음(정성적 서술만 존재)",
+  "검증근거": "추출정보 공란 + 미분류 메모: Reality 25'(25% 제형) 전용 SDS를 찾지 못해 동일 제조사",
+  "pdf_path": null,
+  "urls": [
+   "https://assets.greenbook.net/04-59-20-08-11-2022-RealityMSDS__1_.pdf"
+  ]
+ },
+ {
+  "row": 514,
+  "product_name": "Regent 500TS Insecticide",
+  "ingredient_names": "Fipronil | Diacetone Alcohol",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "Regent 500TS'(fipronil 41%, Diacetone Alcohol 포함) 전용 SDS를 찾지 못해 동일 제조사(BASF) 'Regent 4 SC Insecticide'(fipronil 25-50%, EPA Reg 7969-207) SDS로 대체 참고함 - 제형/불활성성분 다름(디아세톤알코올 미확인)",
+  "검증근거": "추출정보 공란 + 미분류 메모: Regent 500TS'(fipronil 41%, Diacetone Al",
+  "pdf_path": null,
+  "urls": [
+   "https://s3-us-west-1.amazonaws.com/agrian-cg-fs1-production/pdfs/RegentR_4SC_Insecticide_MSDS2p.pdf"
+  ]
+ },
+ {
+  "row": 550,
+  "product_name": "Senator 600 FS",
+  "ingredient_names": "Imidacloprid | Glycerin",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "Nufarm Americas 제품(EPA Reg. 228-522); 2007년 작성 구형 MSDS(GHS 도입 이전 OSHA 형식)로 GHS 신호어/H-코드는 없음(EPA 라벨 신호어 'CAUTION'만 존재); Nufarm 공식 웹사이트는 접속 차단되어 Wayback Machine 아카이브로 확인",
+  "검증근거": "추출정보 공란 + 출처 접근 실패(링크불가·403/404·로그인·못찾음)",
+  "pdf_path": null,
+  "urls": [
+   "https://web.archive.org/web/20080722022522/http://www.nufarm.com/uploads/downloads/USST/Products/Senator_600FS/Senator600FSMSDS.pdf"
+  ]
+ },
+ {
+  "row": 557,
+  "product_name": "Shooter Insecticide",
+  "ingredient_names": "Propane/n-Butane | Geraniol | Deltamethrin",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "찾은 MSDS(Arysta LifeScience, EPA Reg 66330-390)는 액체 농축형 성분표에 Deltamethrin(0.75%)·Geraniol(17.28%)·Thyme Oil(36%)만 있고 ingredient_names의 Propane/n-Butane(에어로졸 propellant)은 없음 - 동일 브랜드의 다른 제형(에어로졸형) 가능성 있어 2/3 성분만 확인됨",
+  "검증근거": "추출정보 공란 + 미분류 메모: 찾은 MSDS(Arysta LifeScience, EPA Reg 6633",
+  "pdf_path": null,
+  "urls": [
+   "https://www.agrian.com/pdfs/Shooter_MSDS.pdf"
+  ]
+ },
+ {
+  "row": 568,
+  "product_name": "Sporgard WB",
+  "ingredient_names": "wallboards. The TBZ metabolite, 5OH-TBZ, was detected in of urine samples collected from | of the urine samples. The detection frequency of 5OH-TBZ was positively associated with | Fludioxonil | Azoxy",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Warning (다수 신고 기준) / 일부 ECHA 신고에서는 Danger(H360,H370 포함) / H400(수생생물 매우 유독, 99.2%), H410(수생생물 장기간 매우 유독, 99.5%) - 393건 중 다수; 소수 신고에서 H360(생식독성 의심), H370(1회노출 표적기관독성) 확인됨",
+  "메모": "제품 자체 SDS는 찾지 못함(hint URL 없음). ingredient_names의 텍스트 자체가 TBZ(Thiabendazole) 대사물질(5OH-TBZ) 소변 검출 연구 문구가 섞인 손상된 데이터임. 3개 유효성분(Fludioxonil/Azoxystrobin/Thiabendazole) 중 Thiabendazole만 PubChem/ECHA C&L 집계 GHS 분류로 확인, 나머지 2개는 미확인. 제품 자체의 Section3 성분표와 대조는 불가능했음",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/5430"
+  ]
+ },
+ {
+  "row": 570,
+  "product_name": "Storicide II Grain, Bin and Warehouse Insecticide",
+  "ingredient_names": "Chlorpyrifos-methyl | Deltamethrin | Solvent Naphtha (petroleum), light aromatic | 2,4-Trimethylbenzene | Xylene | Mesitylene | Ethylbenzene | Cumene",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": 1,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / Chlorpyrifos-methyl: H302(경구 유해, 62.2%), H317(피부过敏, 100%), H331(흡입 유독, 18.7%), H334(호흡기 알러지, 15.8%), H400/H410(수생생물); Deltamethrin: H301(경구 유독, 72.3%)/H300(치명적, 27.4% 신고), H331(흡입 유독, 99.8%), H400/H410(수생생물)",
+  "메모": "제품 자체 SDS 및 라벨을 찾지 못함(Corteva 페이지에 'Storcide II'/'Storicide II' 슬러그 모두 404, Agrian 파일명 다수 시도 실패). 2개 주요 유효성분(Chlorpyrifos-methyl, Deltamethrin) PubChem/ECHA 집계 GHS 분류로만 확인, 방향족 용제류(Xylene/Mesitylene/Cumene 등)는 미확인",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/21803"
+  ]
+ },
+ {
+  "row": 571,
+  "product_name": "Strada XT",
+  "ingredient_names": "CAS Name: Benzamide, 2-[[[[[(4,6-dimethoxy-2 | Kaolin to 29% | Silica, Amorphous Diatomaceous Earth to 20% | Quartz to 1% | Other ingredients to 20% | Other/Inert Ingredients | Orthosulfamuron | Quinc",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Warning / Quinclorac: H317(피부过敏, 100%), 일부 신고 H402/H412(수생생물 유해); Orthosulfamuron: H400(수생생물 매우 유독, 100%)",
+  "메모": "제품 자체 SDS 및 라벨을 찾지 못함(Albaugh 사이트 슬러그 시도 실패, Agrian 파일명 다수 시도 실패). 2개 유효성분(Quinclorac, Orthosulfamuron) PubChem/ECHA 집계 GHS 분류로만 확인, 불활성성분(Kaolin/규조토/Quartz)은 제외",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/91739"
+  ]
+ },
+ {
+  "row": 609,
+  "product_name": "The Andersons GC 0.058% Bifenthrin + 0.115% Imidacloprid Insecticide with Fertilizer",
+  "ingredient_names": "Limestone Dolomite 80-90 | Potassium chloride Potash 5-15 | Imidacloprid | Bifenthrin",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "힌트 URL의 SDS는 \"0.2% Merit Insecticide\" 제품(이미다클로프리드 단독 0.2%, 비펜트린 없음)으로 이 제품(비펜트린 0.058%+이미다클로프리드 0.115%)과 성분/농도 불일치. 검색 도구 제한으로 대체 SDS 못 찾음",
+  "검증근거": "추출정보 공란 + 성분 불일치(다른 제품 SDS 의심)",
+  "pdf_path": null,
+  "urls": [
+   "https://assets.greenbook.net/20-52-47-26-06-2019-M96818_The_Andersons_Turf_Products_Fertilizer_with_0.2__Merit_Insecticide_0-0-8.pdfr"
+  ]
+ },
+ {
+  "row": 616,
+  "product_name": "THX/MXM/FDL/TBZ FS",
+  "ingredient_names": "| Fludioxonil | Thiabendazole | Thiamethoxam | Metalaxyl-M",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "Syngenta 종자처리용 내부 코드명 제품으로 추정되며 공개 SDS 검색 불가(검색 도구 제한)",
+  "검증근거": "추출정보 공란 + 출처 접근 실패(링크불가·403/404·로그인·못찾음)",
+  "pdf_path": null,
+  "urls": [
+   "https://cn.agropages.com/News/NewsDetail---10002.htm?utm_source=chatgpt.com"
+  ]
+ },
+ {
+  "row": 619,
+  "product_name": "Tolfenpyrad 15EC Insecticide",
+  "ingredient_names": "GSP Crop Science Limited | Tolfenpyrad EC",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2A",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / H302 (삼키면 유해함, 통보사 약 97.6%) | H332 (흡입시 유해함, 약 81.2%) | H372 (장기간 반복노출시 장기손상 우려, 약 35.3%) | H373 (장기간 반복노출시 장기손상 가능성, 약 54.1%) | H400 (수생생물에 매우 유독, 100%) | H410 (장기적 영향에 의해 수생생물에 매우 유독, 100%); 일부 개별 통보사는 H301(삼키면 유독), H319, H336, H361도 보고",
+  "메모": "제형(15EC) 제품 자체의 SDS는 검색 도구 제한으로 못 찾아, 단일 유효성분 Tolfenpyrad(PubChem CID 10110536, ECHA C&L 통보 집계 GHS)로 대체. 통보 회사별로 분류 편차 있음(예: Acute Tox 3~4, STOT RE 1~2)",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/10110536"
+  ]
+ }
+]

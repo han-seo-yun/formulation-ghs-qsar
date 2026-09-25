@@ -1,0 +1,70 @@
+{
+  "source_id": "211659426162fdb3",
+  "file_path": "ingredient_source_audit/highlighted/211659426162fdb3_highlighted.pdf",
+  "page_count": 19,
+  "full_text_length": 28088,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "PSDS Number",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1  Product and Company Identification  \n \nPSDS Number \nDPR-EF05-PSDS[SEC][SM-F936U]-V0 \n \n \nPRODUCT IDENTIFICATION \n- Model : SM-F936U \n- P/N : EB-BA937ABY L \n- Structure: 1P1S Lithium- Ion Rechargeable Battery Pack  \n- Revision date:  April 14, 2022 \n \n \nFURTHER INFORMATION \n- Nominal Volta"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H317",
+      "H335",
+      "H350",
+      "H373",
+      "H400",
+      "H410"
+    ],
+    "p_codes": [
+      "P201",
+      "P202",
+      "P260",
+      "P261",
+      "P271",
+      "P272",
+      "P273",
+      "P280",
+      "P281",
+      "P302",
+      "P352",
+      "P304",
+      "P340",
+      "P308",
+      "P313",
+      "P312",
+      "P314",
+      "P321",
+      "P333",
+      "P363",
+      "P391",
+      "P403",
+      "P233",
+      "P405",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Carcinogenicity"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 5,
+    "text_excerpt": "SECTION 2  Hazards Identification   \n \nA. GHS Classification  \n \n- Skin sensitization : Category1 \n- Carcinogenicity : Category1B \n- Specific target organ toxicity (Single exposure) : Category3(Respiratory tract irritation) \n- Specific target organ toxicity (Repeated exposure) : Category2 \n- Acute a"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

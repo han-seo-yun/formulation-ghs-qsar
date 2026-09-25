@@ -1,0 +1,395 @@
+[
+ {
+  "row": 259,
+  "product_name": "Evercide Total Release Fogger",
+  "ingredient_names": "Pyrethrins 232-319-8 | Piperonyl Butoxide 200-076-7 | MGK®-264 (N-Octyl Bicycloheptene Dicarboximide) 0.16 204-029-1 | Esfenvalerate Not Avail | Liquefied Petroleum Gas - 50 270-705-8 | Permethrin | 1",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "없음 (2012 OSHA HCS 이전 형식 MSDS, GHS 미표기; HMIS Health=1) / 없음 (GHS 형식 아님)",
+  "메모": "제조사(MGK) MSDS(002602, 2013 개정)로 확인. 성분표의 EINECS 번호(232-319-8, 200-076-7, 204-029-1, 270-705-8)가 모두 정확히 일치. 다만 목록의 'Permethrin'은 이 SDS(2602)에는 없고 자매제품 2620(EPA Reg 1021-1623)의 성분으로 혼입된 것으로 추정. 2013년 구형 MSDS라 GHS 신호어/H-code 표기 없음",
+  "검증근거": "신호어도 H코드도 파싱되지 않음",
+  "pdf_path": null,
+  "urls": [
+   "https://s3.amazonaws.com/bb-cms/AppData/Websites/1116/Documents/chemical-documents/total-release.pdf"
+  ]
+ },
+ {
+  "row": 261,
+  "product_name": "F 9328-1EC Herbicide",
+  "ingredient_names": "Fenoxaprop-P-ethyl | Mefenpyr-diethyl | Solvent Naptha (petroleum), heavy aromatic | Ethoxy (7) tridecanol | Naphthalene | Carfentrazone-ethyl | ({2-Chloro-4-fluoro-5-[(3-oxotetrahydro-1H,3H-[1,3,4]th",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2A",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / H304(흡인 시 치명적 가능), H317(피부 알레르기 유발 가능), H319(심한 눈 자극), H332(흡입 유해), H351(암 유발 의심), H373(장기손상 가능-반복노출)",
+  "메모": "FMC 공식 SDS 데이터베이스에서 제품코드 'F9328-1' = Display® Herbicide(Carfentrazone-ethyl+Fluthiacet-methyl, CFZ+FTM EC)로 확인. cat_eye_ghs 힌트(2A)가 SDS의 Eye Irrit. 2A와 일치. 단, 목록의 Fenoxaprop-P-ethyl/Mefenpyr-diethyl/Ethoxy(7)tridecanol은 이 SDS 성분표(Section 3)에 없음 - 다른 제품 데이터 혼입 추정(목록의 마지막 화학명은 실제로는 Fluthiacet 산 형태로 Carfentrazone이 아닌 Fluthiacet-methyl의 동의어)",
+  "검증근거": "메모가 제품/성분 불일치를 진술",
+  "pdf_path": null,
+  "urls": [
+   "https://sdsviewer.fmc.com/SDS_DOCS/50000531_SDS_US_EN.PDF"
+  ]
+ },
+ {
+  "row": 262,
+  "product_name": "F4113 EW Herbicide",
+  "ingredient_names": "Naphtha (petroleum), heavy aromatic | Carfentrazone-ethyl | 2-Methylnaphthalene | Naphthalene | 1-Methylnaphthalene | Benzenesulfonic acid, mono-C11-13-branched alkyl derivs., calcium salts | Glyphosa",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "제공된 힌트 URL(Aim EC Herbicide SDS)은 Naphtha/Carfentrazone-ethyl/메틸나프탈렌류/술폰산염 계면활성제 6개 성분은 정확히 일치하지만 'Glyphosate isopropylamine'은 포함되어 있지 않음(Aim EC는 Carfentrazone-ethyl 단일 유효성분, EC 제형). F4113은 EW 제형으로 별개 제품으로 추정되나, FMC 공식 SDS 데이터베이스(6,346건) 및 웹 검색에서 'F4113'/글리포세이트+카펜트라존 복합제 SDS를 찾지 못함",
+  "검증근거": "추출정보 공란 + 미분류 메모: 제공된 힌트 URL(Aim EC Herbicide SDS)은 Naphth",
+  "pdf_path": null,
+  "urls": [
+   "https://pp-production-media.s3.amazonaws.com/files/Aim_EC_PCP28573_SDS_ISS2012-04-10.pdf"
+  ]
+ },
+ {
+  "row": 263,
+  "product_name": "F6141 EW Insecticide",
+  "ingredient_names": "Bifenthrin | Cypermethrin",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Warning / H302(경구 유해), H317(피부 알레르기 유발 가능), H319(심한 눈 자극), H332(흡입 유해), H351(암 유발 의심)",
+  "메모": "FMC 공식 SDS 데이터베이스에서 제품명 'F6141 EW Insecticide'가 정확히 일치(SDS #6700-A). 성분: Bifenthrin(82657-04-3) + Zeta-cypermethrin(52315-07-8, CAS는 Cypermethrin과 동일). 참고: cat_eye_ghs 힌트는 'Not classified'이나 실제 SDS는 Eye Irrit. 2A로 분류되어 있어 불일치",
+  "검증근거": "메모가 제품/성분 불일치를 진술 ; 눈 참조=Not classified 인데 H코드는 구분 2A 를 지시",
+  "pdf_path": null,
+  "urls": [
+   "https://sdsviewer.fmc.com/SDS_DOCS/50002242_SDS_US_EN.PDF"
+  ]
+ },
+ {
+  "row": 269,
+  "product_name": "Fipronil",
+  "ingredient_names": "fipronil",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / H301+H311+H331 (Toxic if swallowed/in contact with skin/if inhaled), H372 (Causes damage to organs through prolonged or repeated exposure), H410 (Very toxic to aquatic life with long lasting effects)",
+  "메모": "hint PDF(SDB-0925-DE-EN.pdf) 직접 접속 실패(HTTP 400) - Carl Roth 제품페이지(품목 0925.1, Fipronil ≥98%)에서 동일 물질 GHS 정보 대체 확인",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://www.carlroth.com/medias/SDB-0925-DE-EN.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wzNjAwNDV8YXBwbGljYXRpb24vcGRmfGFEUTRMMmhpWWk4NU1qWTBPVE0xTVRReE5EQTJMMU5FUWw4d09USTFYMFJGWDBWT0xuQmtaZ3w3MGI2NTE4MjMzNjk4YjAwYWI2ZGJmNTIwYWQ1NmFlMWI4YjFmMzlkNWNhN2U1MWI3ZGVjNWQ1NTcwYmQ2NzEy",
+   "https://www.carlroth.com/de/en/pesticide-standards/fipronil/p/0925.1"
+  ]
+ },
+ {
+  "row": 270,
+  "product_name": "Acetamiprid + Triticonazole Concentrate",
+  "ingredient_names": "Acetamiprid | Triticonazole",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "hint SDS(cdn.caymanchem.com/24129m.pdf)는 Cayman Chemical의 순수 Acetamiprid 연구시약용 SDS(단일물질, CAS 135410-20-7)로, Triticonazole 성분이 없어 이 제품(2성분 배합)과 성분 불일치. 대체 SDS 검색 시도했으나 못 찾음",
+  "검증근거": "추출정보 공란 + 성분 불일치(다른 제품 SDS 의심)",
+  "pdf_path": null,
+  "urls": [
+   "https://cdn.caymanchem.com/cdn/msds/24129m.pdf"
+  ]
+ },
+ {
+  "row": 275,
+  "product_name": "Fluazasulfuron 25WG",
+  "ingredient_names": "Active Ingredient: Flazasulfuron* 25 Not established | Silicon dioxide 0",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Warning / H410 (Very toxic to aquatic life with long lasting effects)",
+  "메모": "제품명 'Fluazasulfuron'과 성분명 'Flazasulfuron' 표기 차이 있으나 동일물질(CAS 104040-78-0); 부성분 Silicon dioxide는 불활성 충전제로 SDS 미포함",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://www.chemblink.com/MSDSFiles/104040-78-0Sigma-Aldrich.pdf"
+  ]
+ },
+ {
+  "row": 278,
+  "product_name": "Fludioxonil(95.4%)",
+  "ingredient_names": "Ethylene Glycol | N-(4-Nitrophenyl)-N'-propylurea | Fludioxonil",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "주성분 Fludioxonil(95.4%)만 확인됨; 부성분 Ethylene Glycol, N-(4-Nitrophenyl)-N'-propylurea은 이 SDS에 포함되지 않음",
+  "검증근거": "추출정보 공란 + 미분류 메모: 주성분 Fludioxonil(95.4%)만 확인됨; 부성분 Ethylen",
+  "pdf_path": null,
+  "urls": [
+   "https://www.chemblink.com/MSDSFiles/131341-86-1Sigma-Aldrich.pdf"
+  ]
+ },
+ {
+  "row": 291,
+  "product_name": "Flutriafol",
+  "ingredient_names": "acetonitrile | · Index number:608 | Specific concentration limit: Eye Irrit. 2; H319: C | Flutriafol",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Warning / H302 (Acute Tox. Oral, 100%) ;; H312 (Acute Tox. Dermal, 57.3%) ;; H332 (Acute Tox. Inhalation, 57.3%) ;; H411 (18.4%) ;; H412 (56.8%) - Toxic/Harmful to aquatic life, long lasting effects",
+  "메모": "제조사별 개별 SDS 못 찾음, PubChem/ECHA 집계 분류(원제 기준) 사용, 아세토니트릴 용매는 미반영",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/91727"
+  ]
+ },
+ {
+  "row": 294,
+  "product_name": "Folpan 80 WDG",
+  "ingredient_names": "Folpet",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": 1,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Warning / H317 (May cause allergic skin reaction) ;; H319 (Causes serious eye irritation) ;; H332 (Harmful if inhaled) ;; H351 (Suspected of causing cancer) ;; H400 (Very toxic to aquatic life)",
+  "메모": "제조사별 개별 SDS 못 찾음, PubChem/ECHA 집계 분류(Folpet 원제 기준) 사용, 80% WDG 제형 전체 성분 미반영",
+  "검증근거": "눈 구분 충돌 참조=1 vs H코드유도=2A ; 메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/Folpet"
+  ]
+ },
+ {
+  "row": 296,
+  "product_name": "Formula 2873",
+  "ingredient_names": "Water H₂O g/mol | Hydrochloric Acid HCl g/mol | Ferric Chloride Hexahydrate FeCl₃·6H₂O 270.30 g/mol | Cobalt (II) Chloride Hexahydrate CoCl₂·6H₂O 237.93 g/mol | Copper Sulfate Pentahydrate CuSO₄·5H₂O ",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "ingredient_names의 Water/HCl/FeCl3·6H2O/CoCl2·6H2O/CuSO4·5H2O는 실제 제품(BASF 'Phantom Pressurized Insecticide', EPA reg 7969-285) SDS 성분(Chlorfenapyr, 석유증류물, 아세톤, 프로판/부탄, HFC-134a)과 전혀 일치하지 않음(추출 오류로 추정); 활성성분 Chlorfenapyr만 일치 확인됨",
+  "검증근거": "추출정보 공란 + 미분류 메모: ingredient_names의 Water/HCl/FeCl3·6H2O/C",
+  "pdf_path": null,
+  "urls": [
+   "https://bell-environmental.com/wp-content/uploads/Phantom-Pressurized-SDS.pdf"
+  ]
+ },
+ {
+  "row": 297,
+  "product_name": "Fosetyl-Al",
+  "ingredient_names": "Fosetyl-Al",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Warning / H319 (Causes severe eye irritation, Eye damage/irritation Category 2A)",
+  "메모": null,
+  "검증근거": "눈 구분 충돌 참조=2B vs H코드유도=2A",
+  "pdf_path": null,
+  "urls": [
+   "https://www.chemblink.com/en/MSDS/39148-24-8MSDS.htm",
+   "https://www.chemblink.com/MSDSFiles/39148-24-8Accu-Standard.pdf"
+  ]
+ },
+ {
+  "row": 315,
+  "product_name": "0.25% Mesotrione on Fertilizer",
+  "ingredient_names": "Mesotrione",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "힌트 SDS(Trion 480, 라이선스 만료/LAPSED)는 Mesotrione 480g/L SC 농축액 제품으로 유효성분명은 동일하나 제형·농도가 이 제품(비료에 0.25% 혼합)과 크게 달라 독성분류를 그대로 적용하기 부적절함; 해당 0.25% 비료혼합제품의 SDS는 찾지 못함",
+  "검증근거": "추출정보 공란 + 미분류 메모: 힌트 SDS(Trion 480, 라이선스 만료/LAPSED)는 Mesot",
+  "pdf_path": null,
+  "urls": [
+   "https://envirobiochem.co.za/wp-content/uploads/2026/03/Trion-480_SDS_2025_LAPSED.pdf"
+  ]
+ },
+ {
+  "row": 316,
+  "product_name": "Acticide MKW1",
+  "ingredient_names": "2-n-Octyl-4-isothiazolin-3-one | Dodecyltrimethylammonium chloride | Diuron | 3-Iodo-2-propynyl-N-butylcarbamate",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "정식 SDS(GHS Section 11) 못 찾음(EPA 등록취소 2014년, Thor GmbH). 성분은 EPA 라벨 기준 Diuron 15%, 3-Iodo-2-propynyl butylcarbamate 10%, Octhilinone(2-n-Octyl-4-isothiazolin-3-one) 7.5%로 일치 확인(Dodecyltrimethylammonium chloride는 라벨상 'Other Ingredients'에 포함 추정). 라벨상 신호어는 DANGER(구형 FIFRA 라벨, GHS H코드 없음)",
+  "검증근거": "추출정보 공란 + 미분류 메모: 정식 SDS(GHS Section 11) 못 찾음(EPA 등록취소 201",
+  "pdf_path": null,
+  "urls": [
+   "https://www3.epa.gov/pesticides/chem_search/ppls/067071-00053-20101028.pdf"
+  ]
+ },
+ {
+  "row": 317,
+  "product_name": "GF-1983 Naturalyte Insect Control",
+  "ingredient_names": "spinosad (ISO) (reaction mass of | Kaolin >= 3 - < | Di--ethylhexyl sodium sulfosuccinate >= 1 - < | Amorphous precipitated silica >= 1 - < | titanium dioxide; [in powder form >= 0.1 - < | containing ",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Warning / H319 (Causes serious eye irritation); combustible dust hazard statement (may form combustible dust concentrations in air)",
+  "메모": "GF-1983는 Corteva 내부코드로, 동일 성분(spinosad 80%, kaolin, di-2-ethylhexyl sodium sulfosuccinate, amorphous silica, TiO2)의 Entrust NATURALYTE INSECT CONTROL SDS로 확인. 눈자극 구분은 시트상 2A(제공된 힌트 2B와 소폭 차이)",
+  "검증근거": "눈 구분 충돌 참조=2B vs H코드유도=2A",
+  "pdf_path": null,
+  "urls": [
+   "https://assets.greenbook.net/22-47-07-19-03-2024-Entrust_-_sds.pdf"
+  ]
+ },
+ {
+  "row": 319,
+  "product_name": "GF-2468",
+  "ingredient_names": "Hydrofluoricacid T,C,R34 | Pyroxsulam",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / Skin sensitization Category 1 (may cause allergic skin reaction); Carcinogenicity Category 1A (may cause cancer)",
+  "메모": "GF-2468(EPA Reg 62719-643)는 Pyroxsulam 13.13% 단일 유효성분 제품(POWERFLEX HL Herbicide, Corteva)으로 확인됨. 제공된 ingredient_names 중 \"Hydrofluoric acid\"는 실제 라벨/SDS 성분(Pyroxsulam, Cloquintocet-mexyl, Kaolin, Titanium dioxide, 결정형 실리카)에 없어 성분 불일치 가능성 있음(주성분 Pyroxsulam은 정확히 일치)",
+  "검증근거": "메모가 제품/성분 불일치를 진술",
+  "pdf_path": null,
+  "urls": [
+   "https://assets.greenbook.net/M93851.pdf"
+  ]
+ },
+ {
+  "row": 320,
+  "product_name": "GF-2506",
+  "ingredient_names": "Sulfoxaflor | Propylene glycol | Balance Not available | Clopyralid-olamine | Thifensulfuron methyl | Fluroxypyr-meptyl",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "GF-2506(EPA Reg 62719-635, Corteva)의 공식 라벨상 유효성분은 Clopyralid-올아민염 12%, Fluroxypyr-meptyl 13.1%, Thifensulfuron-methyl 0.45%만 확인됨. 제공된 ingredient_names 중 \"Sulfoxaflor\"와 \"Propylene glycol\"은 라벨/성분표에서 확인 안 됨(성분 일부 불일치). 정식 GHS SDS(Section 11)는 못 찾음 - 라벨상 신호어 CAUTION, 중등도 눈자극·알레르기 피부반응 가능성만 명시",
+  "검증근거": "추출정보 공란 + 성분 불일치(다른 제품 SDS 의심)",
+  "pdf_path": null,
+  "urls": [
+   "https://www.chemrobotics.com/agropat/pdf/gsda/docs/506COMB2.pdf"
+  ]
+ },
+ {
+  "row": 321,
+  "product_name": "GF-2836",
+  "ingredient_names": "cheese accounted for of the overall market of P-R cheese in 2017 and this percentage | percentage of rind and particles having a diameter lower than 0.5 mm ( w/w and <25%) | Atrazine | Acetochlor",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "GF-2836(EPA Reg 62719-646, Corteva)의 유효성분 Acetochlor 21.9%, Atrazine 14.6%로 ingredient_names와 정확히 일치 확인. 다만 브랜드명 없는 내부코드 제품으로 정식 GHS SDS(Section 11)는 찾지 못함 - EPA 라벨상 신호어 CAUTION만 확인(FulTime/FulTime NXT 등 유사 제품은 유효성분 함량이 달라 동일제품 아님)",
+  "검증근거": "추출정보 공란 + 미분류 메모: GF-2836(EPA Reg 62719-646, Corteva)의 유효성",
+  "pdf_path": null,
+  "urls": [
+   "https://www3.epa.gov/pesticides/chem_search/ppls/062719-00646-20211110.pdf"
+  ]
+ },
+ {
+  "row": 324,
+  "product_name": "GF-881 Manufacturing Use Concentrate",
+  "ingredient_names": "Toluene | Penoxsulam",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "힌트 URL(carlroth) 접근 불가(HTTP 400, 세션/토큰 필요 추정), 대체 SDS 검색도 실패",
+  "검증근거": "추출정보 공란 + 출처 접근 실패(링크불가·403/404·로그인·못찾음)",
+  "pdf_path": null,
+  "urls": [
+   "https://www.carlroth.com/medias/SDB-4445-MT-EN.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wzMDkyNDF8YXBwbGljYXRpb24vcGRmfGFEUmlMMmcxWlM4NU1qSTBNekEyTURZMU5ETTRMMU5FUWw4ME5EUTFYMDFVWDBWT0xuQmtaZ3wxZWRiMGI4ZmM4NDI2YjMzMmM2MjdhMjNmNWRlZjFhMTg3ZDM5Njg4MTU4MmUzZjFiMDkyYzEzYjM5YmFlZDJh"
+  ]
+ },
+ {
+  "row": 325,
+  "product_name": "Gharda Fipronil",
+  "ingredient_names": "fipronil | · Index number:608",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / H301 (경구 독성, 삼키면 유독함) | H311 (피부 접촉 시 유독함) | H331 (흡입 시 유독함) | H372 (장기간 또는 반복 노출로 장기 손상 유발) | H400 (수생생물에 매우 유독함) | H410 (장기적 영향으로 수생생물에 매우 유독함)",
+  "메모": "제조사(Gharda) 자체 SDS는 못 찾아 PubChem/ECHA C&L 통합분류(순물질 fipronil, CAS 120068-37-3) 기준으로 기록",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/3352#section=GHS-Classification"
+  ]
+ },
+ {
+  "row": 332,
+  "product_name": "Glyphosphate XG",
+  "ingredient_names": "Glyphosate",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2A",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / H318; H411",
+  "메모": "제품 'XG' 특정 소스 못 찾아 기술등급 Glyphosate(CAS 1071-83-6) 일반 SDS/PubChem 자료로 대체함. 힌트의 눈자극 2A와 달리 확인된 자료는 H318(눈손상 1등급)로 상이함",
+  "검증근거": "눈 구분 충돌 참조=2A vs H코드유도=1 ; 메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://www.carlroth.com/medias/SDB-22YE-MT-EN.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wyODYwMzJ8YXBwbGljYXRpb24vcGRmfGFESXpMMmd6TUM4NU1qQXhNalEzT0RjNU1UazRMMU5FUWw4eU1sbEZYMDFYzBWT0xuQmtaZ3xjYzk4ZjYzMjI5ZGZkNmM3YmQ0NjI4MmQ2NmNkMTYzMDJlYTdiYzhjYTVjNDQwZTYxMjBkYzA2NmE5Y2JmOThj"
+  ]
+ },
+ {
+  "row": 333,
+  "product_name": "Acticide SR 8213 C",
+  "ingredient_names": "1,2-benzisothiazoline-3-one | Zinc pyrithione | 2-Methyl-3(2H)-isothiazolone",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": 1,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "힌트 SDS는 BIT(1,2-benzisothiazoline-3-one) 단일성분(99% min) 원료 SDS로, 실제 제품(BIT+징크피리치온+MIT 3성분 혼합물)과 불일치. Thor 공식 제품 목록(sitemap)에도 'SR-8213' 없어 단종 추정, 대체 SDS 못 찾음",
+  "검증근거": "추출정보 공란 + 성분 불일치(다른 제품 SDS 의심)",
+  "pdf_path": null,
+  "urls": [
+   "https://img.waimaoniu.net/1839/MSDS%20BIT85%20STCsyn.pdf"
+  ]
+ },
+ {
+  "row": 338,
+  "product_name": "Adage Premier",
+  "ingredient_names": "| Fludioxonil | Azoxystrobin | Thiabendazole | Thiamethoxam | Metalaxyl-M",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Caution / Harmful if swallowed; highly toxic to fish, wildlife and aquatic invertebrates; thiamethoxam highly toxic to bees",
+  "메모": "제품 등록취소(2019); 정식 SDS 링크(410 Gone)로 접근불가하여 EPA 라벨(Section 11 대체) 정보로 기재",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://www3.epa.gov/pesticides/chem_search/ppls/000100-01450-20120823.pdf"
+  ]
+ }
+]

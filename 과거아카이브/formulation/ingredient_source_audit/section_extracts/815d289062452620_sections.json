@@ -1,0 +1,62 @@
+{
+  "source_id": "815d289062452620",
+  "file_path": "ingredient_source_audit/highlighted/815d289062452620_highlighted.pdf",
+  "page_count": 9,
+  "full_text_length": 16952,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product Identifiers",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION  1:  Identification of the substance/ mixture and of the Company / undertaking\n1.1\nProduct Identifiers\nProduct Code\n:\nUL3000168\nProduct Name\n:     TUBEROSE ABSOLUTE\nCAS No. (TSCA)\n:\n8024-05-3\nEINECS\n:\n305-108-4\n1.2\nRelevant idetified uses of the substance or mixture and uses advided against\n"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H315",
+      "H317",
+      "H318",
+      "H341",
+      "H351",
+      "H361",
+      "H304",
+      "H402",
+      "H412"
+    ],
+    "p_codes": [
+      "P103",
+      "P210",
+      "P260",
+      "P273",
+      "P280",
+      "P302",
+      "P305",
+      "P333",
+      "P403",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Skin Sens. 1",
+      "Carc. 2",
+      "Repr. 2",
+      "Aquatic Acute 3",
+      "Aquatic Chronic 3"
+    ],
+    "environmental_hazard": "aquatic",
+    "hazard_level_score": 5,
+    "text_excerpt": "SECTION  2 : Hazard Idetification \n2.1\nGHS Classification of the substance / preparation\nSkin Irrit. 2\nH315: Causes skin irritation\nSkin Sens. 1\nH317: May cause an allergic skin reaction\nEye Damage 1\nH318: Causes serious eye damage\nMuta. 2\nH341: Suspected of causing genetic defects\nCarc. 2\nH351: Sus"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

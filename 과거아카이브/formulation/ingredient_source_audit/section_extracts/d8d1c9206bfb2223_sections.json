@@ -1,0 +1,35 @@
+{
+  "source_id": "d8d1c9206bfb2223",
+  "file_path": "ingredient_source_audit/highlighted/d8d1c9206bfb2223_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 4799,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "• Product Name: Cinnamon Bark Oil",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "Section 1: Product Identification \n• Product Name: Cinnamon Bark Oil \n• Chemical Formula: C9H8O  \n• CAS No: 8015-91-6 \n• Synonyms: Ceylon Cinnamon Oil; Cinnamomum verum Oil \n• Recommended Use: Flavoring agent, fragrance, traditional medicine, aromatherapy, food \nadditive. \n \n"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "Section 2: Hazards Identification \n• Classification (GHS): Flammable liquids (Category 3); Skin irritation (Category 2); Eye irritation \n(Category 2A); Skin sensitization. \n• Signal Word: Warning \n• Hazard Statements: \n \n \n \n \n   - May be harmful if swallowed \n   - Causes skin irritation, may cause "
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

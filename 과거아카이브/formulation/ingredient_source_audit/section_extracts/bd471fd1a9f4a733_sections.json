@@ -1,0 +1,66 @@
+{
+  "source_id": "bd471fd1a9f4a733",
+  "file_path": "ingredient_source_audit/highlighted/bd471fd1a9f4a733_highlighted.pdf",
+  "page_count": 10,
+  "full_text_length": 20399,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "1.1. Product identifier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "Product and company identification \n1.1. Product identifier\n \nINTERTHERM 875 DENIM BLUE\n \n \nProduct Code\nHAO123\n \n1.2. Relevant identified uses of the substance or mixture and uses advised against\n \nIntended use\nRefer Technical Data Sheet.\n \n \n \nFor professional use only.\n \n \nApplication Method\nRefe"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H226",
+      "H312",
+      "H332",
+      "H315",
+      "H319"
+    ],
+    "p_codes": [
+      "P210",
+      "P261",
+      "P264",
+      "P271",
+      "P273",
+      "P280",
+      "P302",
+      "P303",
+      "P304",
+      "P305",
+      "P321",
+      "P322",
+      "P337",
+      "P340",
+      "P362",
+      "P363",
+      "P370",
+      "P378",
+      "P403",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Flam. Liq. 3",
+      "Acute Tox. 4",
+      "Eye Irrit. 2"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 3,
+    "text_excerpt": "2. Hazard identification of the product \n2.1. Classification of the substance or mixture\nFlam. Liq. 3;H226\nFlammable liquid and vapour.\nAcute Tox. 4;H312\nHarmful in contact with skin.\nAcute Tox. 4;H332\nHarmful if inhaled.\nSkin Irrit. 2;H315\nCauses skin irritation.\nEye Irrit. 2;H319\nCauses serious ey"
+  },
+  "section_14": {
+    "un_number": "1263"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "source_id": "2ba9cc637fd8a601",
+  "file_path": "ingredient_source_audit/highlighted/2ba9cc637fd8a601_highlighted.pdf",
+  "page_count": 10,
+  "full_text_length": 21407,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product name: MILESTONE™ Herbicide",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. IDENTIFICATION \nProduct name: MILESTONE™ Herbicide \n \nRecommended use of the chemical and restrictions on use \nIdentified uses: End use herbicide product   \n \nCOMPANY IDENTIFICATION \nDOW AGROSCIENCES LLC \n9330 ZIONSVILLE RD \nINDIANAPOLIS IN  46268-1053 \nUNITED STATES \n \nCustomer Information Numbe"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION \nHazard classification \nThis material is not hazardous under the criteria of the Federal OSHA Hazard Communication \nStandard 29CFR 1910.1200. \n \n \nOther hazards \nno data available \n"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

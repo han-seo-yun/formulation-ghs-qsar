@@ -1,0 +1,27 @@
+{
+  "source_id": "682db1cfcf164af3",
+  "file_path": "ingredient_source_audit/highlighted/682db1cfcf164af3_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 16464,
+  "sections_found": [
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Skin Corrosion",
+      "Carcinogenicity"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION\nWarning\nClassifications:\nSignal Word (OSHA):\nCauses skin irritation\nHazard Statements:\nMay cause an allergic skin reaction\nFatal if inhaled\nMay cause respiratory irritation\nSuspected of causing cancer \nMay cause damage to organs through prolonged or repeated exposure \nSkin "
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

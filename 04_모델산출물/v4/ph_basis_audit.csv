@@ -1,0 +1,537 @@
+﻿Formulation_ID,raw_item,ph_lo,ph_hi,ph_basis,ph_basis_pct,strong_acid_gate,strong_base_gate
+EyeIrritation6pack_PID100,"5.5-7.5 at 10% dilution in deionized water, 23 C (pH)",5.5,7.5,diluted,10.0,False,False
+EyeIrritation6pack_PID1002,5.59 at 25 C (pH),5.59,5.59,other_condition,,False,False
+EyeIrritation6pack_PID101,9.0 - 10.0 at 1% in deionized water at 23 C (pH),9.0,10.0,diluted,1.0,False,False
+EyeIrritation6pack_PID1011,4.6 at 1% solution (pH),4.6,4.6,diluted,1.0,False,False
+EyeIrritation6pack_PID1012,7 at 1% solution (pH),7.0,7.0,diluted,1.0,False,False
+EyeIrritation6pack_PID1016,6.9-7.8 (pH),6.9,7.8,unspecified,,False,False
+EyeIrritation6pack_PID1018,6 - 8.5 (pH),6.0,8.5,unspecified,,False,False
+EyeIrritation6pack_PID1021,4.4-4.75 (pH),4.4,4.75,unspecified,,False,False
+EyeIrritation6pack_PID1024,5.33 at 25 C at 5% suspension (pH),5.33,5.33,diluted,5.0,False,False
+EyeIrritation6pack_PID1025,"8 - 9 at 25 C, 1% w/v in water (pH)",8.0,9.0,diluted,1.0,False,False
+EyeIrritation6pack_PID1026,4.0 - 7.0 at 100% (pH),4.0,7.0,neat,100.0,False,False
+EyeIrritation6pack_PID1027,6.6 at 1% suspension (pH),6.6,6.6,diluted,1.0,False,False
+EyeIrritation6pack_PID1028,"8.85 at 1% solution, 21.3 C (pH)",8.85,8.85,diluted,1.0,False,False
+EyeIrritation6pack_PID1029,"4.3 - 4.8 at 6.77%, 23 C, deionized water (pH)",4.3,4.8,diluted,6.77,False,False
+EyeIrritation6pack_PID103,"6.6 at 1% solution in deionized water, 25 C (pH)",6.6,6.6,diluted,1.0,False,False
+EyeIrritation6pack_PID1031,3.9 at 1% emulsion (pH),3.9,3.9,diluted,1.0,False,False
+EyeIrritation6pack_PID1033,"3 - 6 at 1% dilution, 23 C, deionized water (pH)",3.0,6.0,diluted,1.0,False,False
+EyeIrritation6pack_PID1037,3.98 at 1% dispersion (pH),3.98,3.98,diluted,1.0,False,False
+EyeIrritation6pack_PID104,"5 - 7 at 1% aqueous solution, 25 C (pH)",5.0,7.0,diluted,1.0,False,False
+EyeIrritation6pack_PID1040,5 - 9 at 1% concentration (pH),5.0,9.0,diluted,1.0,False,False
+EyeIrritation6pack_PID1042,"4.0 - 8.0 at 1% w/v, 20-25 C (pH)",4.0,8.0,diluted,1.0,False,False
+EyeIrritation6pack_PID1045,7 (pH),7.0,7.0,unspecified,,False,False
+EyeIrritation6pack_PID1048,8.8 (pH),8.8,8.8,unspecified,,False,False
+EyeIrritation6pack_PID1053,7.29 (pH),7.29,7.29,unspecified,,False,False
+EyeIrritation6pack_PID1056,approx 6 - 8 at 20 C (pH),6.0,8.0,other_condition,,False,False
+EyeIrritation6pack_PID1059,4.0 - 5.0 at 10% soln (pH),4.0,5.0,diluted,10.0,False,False
+EyeIrritation6pack_PID1060,"approx 6 - 8 at 1% m , 20 C (pH)",6.0,8.0,diluted,1.0,False,False
+EyeIrritation6pack_PID115,5 - 9 at 1% w/v (pH),5.0,9.0,diluted,1.0,False,False
+EyeIrritation6pack_PID120,"approx. 6 - 8 at 20 C, undiluted substance (pH)",6.0,8.0,neat,100.0,False,False
+EyeIrritation6pack_PID121,"6.5 - 8.0 at 100%, 23 C (pH)",6.5,8.0,neat,100.0,False,False
+EyeIrritation6pack_PID124,"approx. 2.5 - 4.5 at 1% m, 20 C (pH)",2.5,4.5,diluted,1.0,False,False
+EyeIrritation6pack_PID125,"approx. 3 - 5 at 1% m/m, approx. 20 C, as suspension (pH)",3.0,5.0,diluted,1.0,False,False
+EyeIrritation6pack_PID128,"approx. 6.5 - 8.5 at 20 C, undiluted substance (pH)",6.5,8.5,neat,100.0,False,False
+EyeIrritation6pack_PID134,6 - 9 at concentrated solution (pH),6.0,9.0,other_condition,,False,False
+EyeIrritation6pack_PID138,8.0 to 9.0 (pH),8.0,9.0,unspecified,,False,False
+EyeIrritation6pack_PID142,3.1 at 20 C (pH),3.1,3.1,other_condition,,False,False
+EyeIrritation6pack_PID143,6.8-7.1 (pH),6.8,7.1,unspecified,,False,False
+EyeIrritation6pack_PID150,6.68 (pH),6.68,6.68,unspecified,,False,False
+EyeIrritation6pack_PID154,"5.51 at 25 C, 1% aqueous solution (pH)",5.51,5.51,diluted,1.0,False,False
+EyeIrritation6pack_PID155,"5.51 at 25 C, 1% aqueous solution (pH)",5.51,5.51,diluted,1.0,False,False
+EyeIrritation6pack_PID157,4.5 at 1% solution (pH),4.5,4.5,diluted,1.0,False,False
+EyeIrritation6pack_PID167,7.68 at 1% dispersion (pH),7.68,7.68,diluted,1.0,False,False
+EyeIrritation6pack_PID170,5.5 at 10 g/l at 23 C (pH),5.5,5.5,other_condition,,False,False
+EyeIrritation6pack_PID182,"approx. 5-7 at 1% m , 20 C (pH)",5.0,7.0,diluted,1.0,False,False
+EyeIrritation6pack_PID186,"3.2 at 1% solution in deionized H2O, 25 C (pH)",3.2,3.2,diluted,1.0,False,False
+EyeIrritation6pack_PID194,5.5-6.5 (pH),5.5,6.5,unspecified,,False,False
+EyeIrritation6pack_PID195,8.9 - 9.9 at 1% solution (pH),8.9,9.9,diluted,1.0,False,False
+EyeIrritation6pack_PID196,"7.9 at 1% w/v suspension, 26.8 C (pH)",7.9,7.9,diluted,1.0,False,False
+EyeIrritation6pack_PID217,5 - 7 at 1% dispersion (pH),5.0,7.0,diluted,1.0,False,False
+EyeIrritation6pack_PID218,approx. 6 - 8 at 20 C (pH),6.0,8.0,other_condition,,False,False
+EyeIrritation6pack_PID219,5.4 at 1% dilution (pH),5.4,5.4,diluted,1.0,False,False
+EyeIrritation6pack_PID220,6 (pH),6.0,6.0,unspecified,,False,False
+EyeIrritation6pack_PID221,"4.3 undiluted, 4.1 at 1% dispersion in water (pH)",4.3,4.3,neat,100.0,False,False
+EyeIrritation6pack_PID229,>11 (pH),11.0,11.0,unspecified,,False,False
+EyeIrritation6pack_PID233,4.16 (pH),4.16,4.16,unspecified,,False,False
+EyeIrritation6pack_PID24,3.92 at 1% solution (pH),3.92,3.92,diluted,1.0,False,False
+EyeIrritation6pack_PID240,"7.8 at 1%, 25 C (pH)",7.8,7.8,diluted,1.0,False,False
+EyeIrritation6pack_PID242,5.66 at 1% w/w dispersion in DIW (pH),5.66,5.66,diluted,1.0,False,False
+EyeIrritation6pack_PID243,5.66 at 1% w/w dispersion in DIW (pH),5.66,5.66,diluted,1.0,False,False
+EyeIrritation6pack_PID251,6.4 at 26-27 C for VC# 1689; 8-9 for VC# 1694 (pH),,,other_condition,,,
+EyeIrritation6pack_PID263,6.2 at 21.4 C (pH),6.2,6.2,other_condition,,False,False
+EyeIrritation6pack_PID271,5.2 - 6.5 at as packaged (pH),5.2,6.5,other_condition,,False,False
+EyeIrritation6pack_PID272,8.9 at 1% solution (pH),8.9,8.9,diluted,1.0,False,False
+EyeIrritation6pack_PID273,6.8 (pH),6.8,6.8,unspecified,,False,False
+EyeIrritation6pack_PID274,9 (pH),9.0,9.0,unspecified,,False,False
+EyeIrritation6pack_PID276,5 to 8 at 1% aqueous solution (pH),5.0,8.0,diluted,1.0,False,False
+EyeIrritation6pack_PID277,6.5-8.5 (pH),6.5,8.5,unspecified,,False,False
+EyeIrritation6pack_PID281,6.0-6.4 (pH),6.0,6.4,unspecified,,False,False
+EyeIrritation6pack_PID283,7.0 (pH),7.0,7.0,unspecified,,False,False
+EyeIrritation6pack_PID312,6.77 (pH),6.77,6.77,unspecified,,False,False
+EyeIrritation6pack_PID313,7.27 (pH),7.27,7.27,unspecified,,False,False
+EyeIrritation6pack_PID319,3.59 at 5% solution (pH),3.59,3.59,diluted,5.0,False,False
+EyeIrritation6pack_PID32,4.5-7 (pH),4.5,7.0,unspecified,,False,False
+EyeIrritation6pack_PID324,6.71 at 25 C (pH),6.71,6.71,other_condition,,False,False
+EyeIrritation6pack_PID326,6.07 at 1% aq solution (pH),6.07,6.07,diluted,1.0,False,False
+EyeIrritation6pack_PID327,6.0 - 6.5 (pH),6.0,6.5,unspecified,,False,False
+EyeIrritation6pack_PID328,8.4-8.6 (pH),8.4,8.6,unspecified,,False,False
+EyeIrritation6pack_PID329,6-8 at 20 C (pH),6.0,8.0,other_condition,,False,False
+EyeIrritation6pack_PID333,6.7 (pH),6.7,6.7,unspecified,,False,False
+EyeIrritation6pack_PID343,5 - 7 at 5% dilution (pH),5.0,7.0,diluted,5.0,False,False
+EyeIrritation6pack_PID344,Neutral at 5% (pH),5.0,5.0,diluted,5.0,False,False
+EyeIrritation6pack_PID345,6.0 - 8.0 at 100% at 23 C (pH),6.0,8.0,neat,100.0,False,False
+EyeIrritation6pack_PID347,5.3 (pH),5.3,5.3,unspecified,,False,False
+EyeIrritation6pack_PID349,7 at 10 g/l at 25 C (pH),7.0,7.0,other_condition,,False,False
+EyeIrritation6pack_PID351,7 - 7.6 (pH),7.0,7.6,unspecified,,False,False
+EyeIrritation6pack_PID356,6.9 (pH),6.9,6.9,unspecified,,False,False
+EyeIrritation6pack_PID358,6.66 at 10 g/L (pH),6.66,6.66,other_condition,,False,False
+EyeIrritation6pack_PID360,6.4 at 1% solution in water (pH),6.4,6.4,diluted,1.0,False,False
+EyeIrritation6pack_PID361,5 - 9 at 10 g/L (pH),5.0,9.0,other_condition,,False,False
+EyeIrritation6pack_PID362,7.03 at 25 C in 1% aqueous dispersion (pH),7.03,7.03,diluted,1.0,False,False
+EyeIrritation6pack_PID363,5.3 - 6.3 (pH),5.3,6.3,unspecified,,False,False
+EyeIrritation6pack_PID365,5.8 at 10 g/l (pH),5.8,5.8,other_condition,,False,False
+EyeIrritation6pack_PID367,4-8 at 1% w/v (pH),4.0,8.0,diluted,1.0,False,False
+EyeIrritation6pack_PID368,"ca. 2.3 at 10% dilution, 20 C, deionized water (pH)",2.3,2.3,diluted,10.0,False,False
+EyeIrritation6pack_PID37,"ca. 9 at 10% dilution, 23 C, deionized water (pH)",9.0,9.0,diluted,10.0,False,False
+EyeIrritation6pack_PID381,8.3 (pH),8.3,8.3,unspecified,,False,False
+EyeIrritation6pack_PID382,3.4 - 4.4 (pH),3.4,4.4,unspecified,,False,False
+EyeIrritation6pack_PID383,5.5-6.5 (pH),5.5,6.5,unspecified,,False,False
+EyeIrritation6pack_PID390,"approx. 5-7 at 1% m, 25 C (pH)",5.0,7.0,diluted,1.0,False,False
+EyeIrritation6pack_PID391,5.5 at 100% w/v (pH),5.5,5.5,neat,100.0,False,False
+EyeIrritation6pack_PID392,9.5 - 10.2 (pH),9.5,10.2,unspecified,,False,False
+EyeIrritation6pack_PID393,"4.5-5.5 at 100% conc, 23 C (pH)",4.5,5.5,neat,100.0,False,False
+EyeIrritation6pack_PID4,3.05 at 1% w/w (pH),3.05,3.05,diluted,1.0,False,False
+EyeIrritation6pack_PID404,7 (pH),7.0,7.0,unspecified,,False,False
+EyeIrritation6pack_PID41,3.5-5.5 (pH),3.5,5.5,unspecified,,False,False
+EyeIrritation6pack_PID411,7.2 at 5% dilution in water (pH),7.2,7.2,diluted,5.0,False,False
+EyeIrritation6pack_PID413,6.7 at 1% emulsion in water (pH),6.7,6.7,diluted,1.0,False,False
+EyeIrritation6pack_PID414,4.29 (pH),4.29,4.29,unspecified,,False,False
+EyeIrritation6pack_PID417,4.2 at 24.9 C (pH),4.2,4.2,other_condition,,False,False
+EyeIrritation6pack_PID419,4.88 at 25 C (pH),4.88,4.88,other_condition,,False,False
+EyeIrritation6pack_PID426,"8-9 at water, 1% m/m, 20 C (pH)",8.0,9.0,diluted,1.0,False,False
+EyeIrritation6pack_PID429,"5-7 at aqueous solution 10 g/l, 20 C (pH)",5.0,7.0,other_condition,,False,False
+EyeIrritation6pack_PID433,3.5 at neat (pH),3.5,3.5,other_condition,,False,False
+EyeIrritation6pack_PID434,6-6.5 at 1% solution (pH),6.0,6.5,diluted,1.0,False,False
+EyeIrritation6pack_PID435,6.0 (pH),6.0,6.0,unspecified,,False,False
+EyeIrritation6pack_PID438,5.06 at 1% solution at 25 C (pH),5.06,5.06,diluted,1.0,False,False
+EyeIrritation6pack_PID44,5 - 9 (pH),5.0,9.0,unspecified,,False,False
+EyeIrritation6pack_PID441,5.5 - 7.5 (pH),5.5,7.5,unspecified,,False,False
+EyeIrritation6pack_PID457,6.5 at 22.0 C (pH),6.5,6.5,other_condition,,False,False
+EyeIrritation6pack_PID458,6.6 at 1% suspension in water (pH),6.6,6.6,diluted,1.0,False,False
+EyeIrritation6pack_PID459,"5.0-8.0 at 23 C, 100% (pH)",5.0,8.0,diluted,100.0,False,False
+EyeIrritation6pack_PID46,"4-6 at 10 g/L, 20 C (pH)",4.0,6.0,other_condition,,False,False
+EyeIrritation6pack_PID460,"5.0-8.0 at 100%, 23 C (pH)",5.0,8.0,neat,100.0,False,False
+EyeIrritation6pack_PID463,6.68 (pH),6.68,6.68,unspecified,,False,False
+EyeIrritation6pack_PID466,6 at 100 g/l and 20 C (pH),6.0,6.0,other_condition,,False,False
+EyeIrritation6pack_PID469,8.7-9.7 (pH),8.7,9.7,unspecified,,False,False
+EyeIrritation6pack_PID477,approx. 3.0-5.0 at 25 C (pH),3.0,5.0,other_condition,,False,False
+EyeIrritation6pack_PID480,"4.53 at 25 C, 100% undiluted (pH)",4.53,4.53,neat,100.0,False,False
+EyeIrritation6pack_PID494,9.4 at 1% aqueous solution (pH),9.4,9.4,diluted,1.0,False,False
+EyeIrritation6pack_PID495,7.9 at 10% aqueous solution (pH),7.9,7.9,diluted,10.0,False,False
+EyeIrritation6pack_PID497,7.38 at 1% aqueous suspension (pH),7.38,7.38,diluted,1.0,False,False
+EyeIrritation6pack_PID499,"5.8 at 1% aqueous suspension, CIPAC MT 75.2 (pH)",5.8,5.8,diluted,1.0,False,False
+EyeIrritation6pack_PID500,"9.4 at 1% aqueous solution, 23.4 C (pH)",9.4,9.4,diluted,1.0,False,False
+EyeIrritation6pack_PID506,8.16 at 22.5 C (pH),8.16,8.16,other_condition,,False,False
+EyeIrritation6pack_PID508,"5 - 7 at 10 g/l aqueous solution, 20 C (pH)",5.0,7.0,other_condition,,False,False
+EyeIrritation6pack_PID515,"2.5 at 10 g/L, 20 C (pH)",2.5,2.5,other_condition,,False,False
+EyeIrritation6pack_PID521,"7.74 at 1% solution in deionized water, 25 C (pH)",7.74,7.74,diluted,1.0,False,False
+EyeIrritation6pack_PID529,"7.0-8.5 at 5% deionized water, 23 C (pH)",7.0,8.5,diluted,5.0,False,False
+EyeIrritation6pack_PID530,"4-6 at 20 C, as aqueous suspension (pH)",4.0,6.0,other_condition,,False,False
+EyeIrritation6pack_PID533,"4.2 at 1% solution, 24 C (pH)",4.2,4.2,diluted,1.0,False,False
+EyeIrritation6pack_PID540,7.0-10 as packaged (pH),7.0,10.0,unspecified,,False,False
+EyeIrritation6pack_PID546,5.68 at 25 C (pH),5.68,5.68,other_condition,,False,False
+EyeIrritation6pack_PID551,6.6 at 20 C (pH),6.6,6.6,other_condition,,False,False
+EyeIrritation6pack_PID556,7 (pH),7.0,7.0,unspecified,,False,False
+EyeIrritation6pack_PID557,7.5 - 9.0 at undiluted (pH),7.5,9.0,neat,100.0,False,False
+EyeIrritation6pack_PID558,7.5 - 9 (pH),7.5,9.0,unspecified,,False,False
+EyeIrritation6pack_PID567,"6.2 at 20 C, 10 g/L concentration (pH)",6.2,6.2,other_condition,,False,False
+EyeIrritation6pack_PID57,<2.0 at 1:100 dilution (pH),2.0,2.0,other_condition,,True,False
+EyeIrritation6pack_PID570,3.4 (pH),3.4,3.4,unspecified,,False,False
+EyeIrritation6pack_PID571,5.29 at 1% w/w dilution in DIW (pH),5.29,5.29,diluted,1.0,False,False
+EyeIrritation6pack_PID572,9.5 (pH),9.5,9.5,unspecified,,False,False
+EyeIrritation6pack_PID573,"approx. 4 - 6 at 10 g/l, 25 C (pH)",4.0,6.0,other_condition,,False,False
+EyeIrritation6pack_PID574,"6.5-7.5 at ~1% in water, 25 C (pH)",6.5,7.5,diluted,1.0,False,False
+EyeIrritation6pack_PID578,Slightly acidic (pH),,,unspecified,,,
+EyeIrritation6pack_PID579,4.5-5.5 at 24 C (pH),4.5,5.5,other_condition,,False,False
+EyeIrritation6pack_PID58,6.8 to 8.8 at 1% w/w (pH),6.8,8.8,diluted,1.0,False,False
+EyeIrritation6pack_PID585,"3.5-5.0 at 100%, 23 C (pH)",3.5,5.0,neat,100.0,False,False
+EyeIrritation6pack_PID59,5.5-8.5 at 1% in distilled water (pH),5.5,8.5,diluted,1.0,False,False
+EyeIrritation6pack_PID593,8 (pH),8.0,8.0,unspecified,,False,False
+EyeIrritation6pack_PID600,4.5 (pH),4.5,4.5,unspecified,,False,False
+EyeIrritation6pack_PID601,6.6 - 7.8 at 100% at 20 C (pH),6.6,7.8,neat,100.0,False,False
+EyeIrritation6pack_PID61,4.74 (pH),4.74,4.74,unspecified,,False,False
+EyeIrritation6pack_PID62,7.7 at 50/50 aqueous dilution (pH),7.7,7.7,other_condition,,False,False
+EyeIrritation6pack_PID626,6-7 (pH),6.0,7.0,unspecified,,False,False
+EyeIrritation6pack_PID627,"6.2 at 1% aqueous solution, 25 C (pH)",6.2,6.2,diluted,1.0,False,False
+EyeIrritation6pack_PID628,"6-7 at neat, 20-25 C (pH)",6.0,7.0,other_condition,,False,False
+EyeIrritation6pack_PID641,4.0-6.0 (pH),4.0,6.0,unspecified,,False,False
+EyeIrritation6pack_PID645,5.8 (pH),5.8,5.8,unspecified,,False,False
+EyeIrritation6pack_PID654,6 - 6.5 at 1% emulsion in water (pH),6.0,6.5,diluted,1.0,False,False
+EyeIrritation6pack_PID659,5.1 at 5% in H2O (pH),5.1,5.1,diluted,5.0,False,False
+EyeIrritation6pack_PID660,5.3 at 5% in water (pH),5.3,5.3,diluted,5.0,False,False
+EyeIrritation6pack_PID661,9 at 1% aq (pH),9.0,9.0,diluted,1.0,False,False
+EyeIrritation6pack_PID668,5.5-6.5 at 10% in deionized water at 23 C (pH),5.5,6.5,diluted,10.0,False,False
+EyeIrritation6pack_PID676,"4.0 - 6.0 at 1% at 23 C, deionized water (pH)",4.0,6.0,diluted,1.0,False,False
+EyeIrritation6pack_PID684,6.5 to 7.5 (pH),6.5,7.5,unspecified,,False,False
+EyeIrritation6pack_PID696,4.25 (pH),4.25,4.25,unspecified,,False,False
+EyeIrritation6pack_PID698,"5.94 at 25 C, 1% dilution in water (pH)",5.94,5.94,diluted,1.0,False,False
+EyeIrritation6pack_PID70,6.6 - 7.6 (pH),6.6,7.6,unspecified,,False,False
+EyeIrritation6pack_PID702,6.2 - 7.2 (pH),6.2,7.2,unspecified,,False,False
+EyeIrritation6pack_PID71,7.0 - 8.0 (pH),7.0,8.0,unspecified,,False,False
+EyeIrritation6pack_PID710,7.8 at 1.3% dilution in water (pH),7.8,7.8,diluted,1.3,False,False
+EyeIrritation6pack_PID716,"7.5 - 9.0 at 10% deionized water, 23 C (pH)",7.5,9.0,diluted,10.0,False,False
+EyeIrritation6pack_PID732,"approx 6-8 at 1% dilution, 20 C (pH)",6.0,8.0,diluted,1.0,False,False
+EyeIrritation6pack_PID737,7.17 at 1% w/w dilution in DIW (pH),7.17,7.17,diluted,1.0,False,False
+EyeIrritation6pack_PID738,7.76 (pH),7.76,7.76,unspecified,,False,False
+EyeIrritation6pack_PID756,5-8 (pH),5.0,8.0,unspecified,,False,False
+EyeIrritation6pack_PID757,"approx. 5 - 9 at 1% m aqueous solution, 20 C (pH)",5.0,9.0,diluted,1.0,False,False
+EyeIrritation6pack_PID760,3-7 at 1% dilution in DI water (pH),3.0,7.0,diluted,1.0,False,False
+EyeIrritation6pack_PID77,7.3 (pH),7.3,7.3,unspecified,,False,False
+EyeIrritation6pack_PID772,10 - 13 at 100% neat (pH),10.0,13.0,neat,100.0,False,True
+EyeIrritation6pack_PID774,"7.20 - 8.80 at 100%, 23 C (pH)",7.2,8.8,neat,100.0,False,False
+EyeIrritation6pack_PID777,approx. 6.0 - 8.0 at 20 C (pH),6.0,8.0,other_condition,,False,False
+EyeIrritation6pack_PID779,ca. 6 - 8 at 5% (pH),6.0,8.0,diluted,5.0,False,False
+EyeIrritation6pack_PID781,7.5 - 9.5 at 100% at 23 C (pH),7.5,9.5,neat,100.0,False,False
+EyeIrritation6pack_PID783,5.5 - 7.0 at 100% at 23 C (pH),5.5,7.0,neat,100.0,False,False
+EyeIrritation6pack_PID791,7.78 at 22 C (pH),7.78,7.78,other_condition,,False,False
+EyeIrritation6pack_PID792,6.5 (pH),6.5,6.5,unspecified,,False,False
+EyeIrritation6pack_PID802,7 at 25 C (pH),7.0,7.0,other_condition,,False,False
+EyeIrritation6pack_PID803,5 - 8 (pH),5.0,8.0,unspecified,,False,False
+EyeIrritation6pack_PID806,>13 (pH),13.0,13.0,unspecified,,False,True
+EyeIrritation6pack_PID808,"5.0 - 8.0 at 100%, 23 C (pH)",5.0,8.0,neat,100.0,False,False
+EyeIrritation6pack_PID809,6.5 - 8.5 at 100 % (pH),6.5,8.5,neat,100.0,False,False
+EyeIrritation6pack_PID813,"8.84 at 1% w/v dilution in water, 20 C (pH)",8.84,8.84,diluted,1.0,False,False
+EyeIrritation6pack_PID814,4.7 at 1% aqueous suspension (pH),4.7,4.7,diluted,1.0,False,False
+EyeIrritation6pack_PID815,5.6 (pH),5.6,5.6,unspecified,,False,False
+EyeIrritation6pack_PID816,6 - 8 (pH),6.0,8.0,unspecified,,False,False
+EyeIrritation6pack_PID822,4.3 (pH),4.3,4.3,unspecified,,False,False
+EyeIrritation6pack_PID827,3.66 at 1% in water (pH),3.66,3.66,diluted,1.0,False,False
+EyeIrritation6pack_PID834,2.76 - 2.90 (pH),2.76,2.9,unspecified,,False,False
+EyeIrritation6pack_PID839,6.6 at 1% dilution (pH),6.6,6.6,diluted,1.0,False,False
+EyeIrritation6pack_PID844,6.5-7.1 (pH),6.5,7.1,unspecified,,False,False
+EyeIrritation6pack_PID852,6.97 at 1% solution (pH),6.97,6.97,diluted,1.0,False,False
+EyeIrritation6pack_PID853,6.65 at 1% solution (pH),6.65,6.65,diluted,1.0,False,False
+EyeIrritation6pack_PID857,"6.0-8.0 at 100% concentration, 23 C (pH)",6.0,8.0,neat,100.0,False,False
+EyeIrritation6pack_PID861,6.0-7.0 (pH),6.0,7.0,unspecified,,False,False
+EyeIrritation6pack_PID867,6.96 at 1% w/v solution (pH),6.96,6.96,diluted,1.0,False,False
+EyeIrritation6pack_PID869,5.72 at 20 C (pH),5.72,5.72,other_condition,,False,False
+EyeIrritation6pack_PID87,7 at 10 g/l 25 C (pH),7.0,7.0,other_condition,,False,False
+EyeIrritation6pack_PID870,"approx. 4 - 6 at 10 g/l, 25 C (pH)",4.0,6.0,other_condition,,False,False
+EyeIrritation6pack_PID873,"6.9 at 1% concentration, CIPAC MT 75.3 (pH)",6.9,6.9,diluted,1.0,False,False
+EyeIrritation6pack_PID891,6.17 (pH),6.17,6.17,unspecified,,False,False
+EyeIrritation6pack_PID907,6.86 at 1% dispersion (pH),6.86,6.86,diluted,1.0,False,False
+EyeIrritation6pack_PID908,"6-8 at 1% aqueous solution, 25 C (pH)",6.0,8.0,diluted,1.0,False,False
+EyeIrritation6pack_PID917,5.22 at 22.7 C (pH),5.22,5.22,other_condition,,False,False
+EyeIrritation6pack_PID920,4.3 at 1% solution (pH),4.3,4.3,diluted,1.0,False,False
+EyeIrritation6pack_PID922,9.3 at 1% suspension in water (pH),9.3,9.3,diluted,1.0,False,False
+EyeIrritation6pack_PID928,7 - 10 (pH),7.0,10.0,unspecified,,False,False
+EyeIrritation6pack_PID946,7.31 (pH),7.31,7.31,unspecified,,False,False
+EyeIrritation6pack_PID953,6.80 at 25 C (pH),6.8,6.8,other_condition,,False,False
+EyeIrritation6pack_PID955,6.80 at 25 C (pH),6.8,6.8,other_condition,,False,False
+EyeIrritation6pack_PID965,5.6 - 6.7 (pH),5.6,6.7,unspecified,,False,False
+EyeIrritation6pack_PID967,7.0 (pH),7.0,7.0,unspecified,,False,False
+EyeIrritation6pack_PID974,6-8 at 1% dilution (pH),6.0,8.0,diluted,1.0,False,False
+EyeIrritation6pack_PID977,3.96 at 1% emulsion (pH),3.96,3.96,diluted,1.0,False,False
+EyeIrritation6pack_PID978,6.56 at 1% solution (pH),6.56,6.56,diluted,1.0,False,False
+EyeIrritation6pack_PID985,5 to 8 at 1% aqueous solution (pH),5.0,8.0,diluted,1.0,False,False
+EyeIrritation6pack_PID986,4.33 (pH),4.33,4.33,unspecified,,False,False
+EyeIrritation6pack_PID988,"6.5 at 25 C, 1% aqueous solution (pH)",6.5,6.5,diluted,1.0,False,False
+EyeIrritation6pack_PID998,"8.84 at 1% w/v in water, 20 C (pH)",8.84,8.84,diluted,1.0,False,False
+MIX1004,4.5-5 (pH),4.5,5.0,unspecified,,False,False
+MIX101,>11 (pH),11.0,11.0,unspecified,,False,False
+MIX102,6 - 8 (pH),6.0,8.0,unspecified,,False,False
+MIX103,4.16 (pH),4.16,4.16,unspecified,,False,False
+MIX104,"7.8 at 1%, 25 C (pH)",7.8,7.8,diluted,1.0,False,False
+MIX105,5.5-7.5 (pH),5.5,7.5,unspecified,,False,False
+MIX1052,5 (pH),5.0,5.0,unspecified,,False,False
+MIX1055,approx. 7 (pH),7.0,7.0,unspecified,,False,False
+MIX1058,approx. 7 (pH),7.0,7.0,unspecified,,False,False
+MIX106,approx. 6 - 8 at 20 C (pH),6.0,8.0,other_condition,,False,False
+MIX108,5.66 at 1% w/w dispersion in DIW (pH),5.66,5.66,diluted,1.0,False,False
+MIX109,5.4 at 1% dilution (pH),5.4,5.4,diluted,1.0,False,False
+MIX110,4-8 expected (pH),4.0,8.0,unspecified,,False,False
+MIX111,6 (pH),6.0,6.0,unspecified,,False,False
+MIX113,"4.3 undiluted, 4.1 at 1% dispersion in water (pH)",4.3,4.3,neat,100.0,False,False
+MIX115,6.4 at 26-27 C for VC# 1689; 8-9 for VC# 1694 (pH),,,other_condition,,,
+MIX116,"7 at 50 g/l in water, 20 C (pH)",7.0,7.0,other_condition,,False,False
+MIX118,6.8 (pH),6.8,6.8,unspecified,,False,False
+MIX12,3.92 at 1% solution (pH),3.92,3.92,diluted,1.0,False,False
+MIX122,9 (pH),9.0,9.0,unspecified,,False,False
+MIX125,6.2 at 21.4 C (pH),6.2,6.2,other_condition,,False,False
+MIX126,5 to 8 at 1% aqueous solution (pH),5.0,8.0,diluted,1.0,False,False
+MIX127,6.5-8.5 (pH),6.5,8.5,unspecified,,False,False
+MIX130,6.0-6.4 (pH),6.0,6.4,unspecified,,False,False
+MIX131,5.2 - 6.5 at as packaged (pH),5.2,6.5,other_condition,,False,False
+MIX133,7.0 (pH),7.0,7.0,unspecified,,False,False
+MIX143,8.9 at 1% solution (pH),8.9,8.9,diluted,1.0,False,False
+MIX146,"1.5-3.5 at 10% dilution in deionized water, 23 C (pH)",1.5,3.5,diluted,10.0,True,False
+MIX148,6.77 (pH),6.77,6.77,unspecified,,False,False
+MIX149,7.27 (pH),7.27,7.27,unspecified,,False,False
+MIX152,3.59 at 5% solution (pH),3.59,3.59,diluted,5.0,False,False
+MIX153,8.3 at 1% solution in water (pH),8.3,8.3,diluted,1.0,False,False
+MIX154,5.0-8.0 (pH),5.0,8.0,unspecified,,False,False
+MIX155,6.9 (pH),6.9,6.9,unspecified,,False,False
+MIX158,5 - 7 at 5% dilution (pH),5.0,7.0,diluted,5.0,False,False
+MIX160,Neutral at 5% (pH),5.0,5.0,diluted,5.0,False,False
+MIX162,6.0 - 8.0 at 100% at 23 C (pH),6.0,8.0,neat,100.0,False,False
+MIX163,7 at 10 g/l at 25 C (pH),7.0,7.0,other_condition,,False,False
+MIX164,ca. 6 at 10 g/l at 20 C (pH),6.0,6.0,other_condition,,False,False
+MIX166,5 - 9 at 10 g/L (pH),5.0,9.0,other_condition,,False,False
+MIX168,4-8 at 1% w/v (pH),4.0,8.0,diluted,1.0,False,False
+MIX169,"ca. 2.3 at 10% dilution, 20 C, deionized water (pH)",2.3,2.3,diluted,10.0,False,False
+MIX17,4.5-7 (pH),4.5,7.0,unspecified,,False,False
+MIX170,6.71 at 25 C (pH),6.71,6.71,other_condition,,False,False
+MIX172,6.0 - 6.5 (pH),6.0,6.5,unspecified,,False,False
+MIX174,8.4-8.6 (pH),8.4,8.6,unspecified,,False,False
+MIX176,6-8 at 20 C (pH),6.0,8.0,other_condition,,False,False
+MIX180,7.0 at 10 g/l at 25 C (pH),7.0,7.0,other_condition,,False,False
+MIX184,"approx. 5-7 at 1% m, 25 C (pH)",5.0,7.0,diluted,1.0,False,False
+MIX186,5.5 at 100% w/v (pH),5.5,5.5,neat,100.0,False,False
+MIX187,9.5 - 10.2 (pH),9.5,10.2,unspecified,,False,False
+MIX188,"4.5-5.5 at 100% conc, 23 C (pH)",4.5,5.5,neat,100.0,False,False
+MIX19,"ca. 9 at 10% dilution, 23 C, deionized water (pH)",9.0,9.0,diluted,10.0,False,False
+MIX194,6.5 - 7.5 as aqueous solution (pH),6.5,7.5,unspecified,,False,False
+MIX196,7.2 at 5% dilution in water (pH),7.2,7.2,diluted,5.0,False,False
+MIX198,6.7 at 1% emulsion in water (pH),6.7,6.7,diluted,1.0,False,False
+MIX199,4.29 (pH),4.29,4.29,unspecified,,False,False
+MIX2,5 - 9 (pH),5.0,9.0,unspecified,,False,False
+MIX200,4.88 at 25 C (pH),4.88,4.88,other_condition,,False,False
+MIX201,3.4 - 4.4 (pH),3.4,4.4,unspecified,,False,False
+MIX204,"8-9 at water, 1% m/m, 20 C (pH)",8.0,9.0,diluted,1.0,False,False
+MIX205,3.5 at neat (pH),3.5,3.5,other_condition,,False,False
+MIX206,5.5-6.5 (pH),5.5,6.5,unspecified,,False,False
+MIX207,6-6.5 at 1% solution (pH),6.0,6.5,diluted,1.0,False,False
+MIX209,6.0 (pH),6.0,6.0,unspecified,,False,False
+MIX21,4.5 at 10 g/l (pH),4.5,4.5,other_condition,,False,False
+MIX211,"5.0-8.0 at 100%, 23 C (pH)",5.0,8.0,neat,100.0,False,False
+MIX213,6.68 (pH),6.68,6.68,unspecified,,False,False
+MIX214,5.06 at 1% solution at 25 C (pH),5.06,5.06,diluted,1.0,False,False
+MIX216,6 at 100 g/l and 20 C (pH),6.0,6.0,other_condition,,False,False
+MIX219,5.0 - 8.0 at 1% in deionized water at 23 C (pH),5.0,8.0,diluted,1.0,False,False
+MIX22,6.8 to 8.8 at 1% w/w (pH),6.8,8.8,diluted,1.0,False,False
+MIX220,8.7-9.7 (pH),8.7,9.7,unspecified,,False,False
+MIX221,6.66 at 10 g/L (pH),6.66,6.66,other_condition,,False,False
+MIX229,approx. 3.0-5.0 at 25 C (pH),3.0,5.0,other_condition,,False,False
+MIX231,"4.53 at 25 C, 100% undiluted (pH)",4.53,4.53,neat,100.0,False,False
+MIX235,6.57 at 1% solution (pH),6.57,6.57,diluted,1.0,False,False
+MIX24,3.5-5.5 (pH),3.5,5.5,unspecified,,False,False
+MIX240,6.5 at 22.0 C (pH),6.5,6.5,other_condition,,False,False
+MIX241,6.6 at 1% suspension in water (pH),6.6,6.6,diluted,1.0,False,False
+MIX242,"5.0-8.0 at 23 C, 100% (pH)",5.0,8.0,diluted,100.0,False,False
+MIX244,"5 - 7 at 10 g/l aqueous solution, 20 C (pH)",5.0,7.0,other_condition,,False,False
+MIX249,9.4 at 1% aqueous solution (pH),9.4,9.4,diluted,1.0,False,False
+MIX25,4.74 (pH),4.74,4.74,unspecified,,False,False
+MIX251,7.9 at 10% aqueous solution (pH),7.9,7.9,diluted,10.0,False,False
+MIX254,7.38 at 1% aqueous suspension (pH),7.38,7.38,diluted,1.0,False,False
+MIX256,"5.8 at 1% aqueous suspension, CIPAC MT 75.2 (pH)",5.8,5.8,diluted,1.0,False,False
+MIX257,"7.74 at 1% solution in deionized water, 25 C (pH)",7.74,7.74,diluted,1.0,False,False
+MIX258,"7.0-8.5 at 5% deionized water, 23 C (pH)",7.0,8.5,diluted,5.0,False,False
+MIX261,"4.2 at 1% solution, 24 C (pH)",4.2,4.2,diluted,1.0,False,False
+MIX266,7.0-10 as packaged (pH),7.0,10.0,unspecified,,False,False
+MIX267,5.68 at 25 C (pH),5.68,5.68,other_condition,,False,False
+MIX27,7.7 at 50/50 aqueous dilution (pH),7.7,7.7,other_condition,,False,False
+MIX273,8.16 at 22.5 C (pH),8.16,8.16,other_condition,,False,False
+MIX274,6.6 at 20 C (pH),6.6,6.6,other_condition,,False,False
+MIX280,3.4 (pH),3.4,3.4,unspecified,,False,False
+MIX281,7 (pH),7.0,7.0,unspecified,,False,False
+MIX282,5.29 at 1% w/w dilution in DIW (pH),5.29,5.29,diluted,1.0,False,False
+MIX283,7.5 - 9.0 at undiluted (pH),7.5,9.0,neat,100.0,False,False
+MIX284,7.5 - 9 (pH),7.5,9.0,unspecified,,False,False
+MIX285,9.5 (pH),9.5,9.5,unspecified,,False,False
+MIX286,"approx. 4 - 6 at 10 g/l, 25 C (pH)",4.0,6.0,other_condition,,False,False
+MIX288,4.5-5.5 at 24 C (pH),4.5,5.5,other_condition,,False,False
+MIX290,"4 - 6.5, undiluted form (pH)",4.0,6.5,neat,100.0,False,False
+MIX295,4.5 (pH),4.5,4.5,unspecified,,False,False
+MIX297,6.6 - 7.8 at 100% at 20 C (pH),6.6,7.8,neat,100.0,False,False
+MIX299,"6.2 at 20 C, 10 g/L concentration (pH)",6.2,6.2,other_condition,,False,False
+MIX3,"4-6 at 10 g/L, 20 C (pH)",4.0,6.0,other_condition,,False,False
+MIX305,10.5 - 11.5 (pH),10.5,11.5,unspecified,,False,True
+MIX31,9.0 - 10.0 at 1% in deionized water at 23 C (pH),9.0,10.0,diluted,1.0,False,False
+MIX311,4.7 at 1% solution in deionized water at 25 C (pH),4.7,4.7,diluted,1.0,False,False
+MIX313,4.0-6.0 (pH),4.0,6.0,unspecified,,False,False
+MIX314,5.8 (pH),5.8,5.8,unspecified,,False,False
+MIX322,6-7 (pH),6.0,7.0,unspecified,,False,False
+MIX323,"6.2 at 1% aqueous solution, 25 C (pH)",6.2,6.2,diluted,1.0,False,False
+MIX324,"6-7 at neat, 20-25 C (pH)",6.0,7.0,other_condition,,False,False
+MIX33,"6.6 at 1% solution in deionized water, 25 C (pH)",6.6,6.6,diluted,1.0,False,False
+MIX330,5.1 at 5% in H2O (pH),5.1,5.1,diluted,5.0,False,False
+MIX332,5.3 at 5% in water (pH),5.3,5.3,diluted,5.0,False,False
+MIX335,"4.0 - 6.0 at 1% at 23 C, deionized water (pH)",4.0,6.0,diluted,1.0,False,False
+MIX337,9 at 1% aq (pH),9.0,9.0,diluted,1.0,False,False
+MIX339,6.5 to 7.5 (pH),6.5,7.5,unspecified,,False,False
+MIX34,6.6 - 7.6 (pH),6.6,7.6,unspecified,,False,False
+MIX348,4.25 (pH),4.25,4.25,unspecified,,False,False
+MIX349,5.5-6.5 at 10% in deionized water at 23 C (pH),5.5,6.5,diluted,10.0,False,False
+MIX35,7.0 - 8.0 (pH),7.0,8.0,unspecified,,False,False
+MIX352,"5.94 at 25 C, 1% dilution in water (pH)",5.94,5.94,diluted,1.0,False,False
+MIX354,"7.5 - 9.0 at 10% deionized water, 23 C (pH)",7.5,9.0,diluted,10.0,False,False
+MIX357,6.4 at 1% solution in water (pH),6.4,6.4,diluted,1.0,False,False
+MIX36,"5 - 7 at 1% aqueous solution, 25 C (pH)",5.0,7.0,diluted,1.0,False,False
+MIX360,10 - 13 at 100% neat (pH),10.0,13.0,neat,100.0,False,True
+MIX362,"7.20 - 8.80 at 100%, 23 C (pH)",7.2,8.8,neat,100.0,False,False
+MIX365,approx. 6.0 - 8.0 at 20 C (pH),6.0,8.0,other_condition,,False,False
+MIX367,ca. 6 - 8 at 5% (pH),6.0,8.0,diluted,5.0,False,False
+MIX368,7.5 - 9.5 at 100% at 23 C (pH),7.5,9.5,neat,100.0,False,False
+MIX369,5.5 - 7.0 at 100% at 23 C (pH),5.5,7.0,neat,100.0,False,False
+MIX371,6.5 (pH),6.5,6.5,unspecified,,False,False
+MIX380,7 at 25 C (pH),7.0,7.0,other_condition,,False,False
+MIX381,5 - 8 (pH),5.0,8.0,unspecified,,False,False
+MIX386,6.2 - 7.2 (pH),6.2,7.2,unspecified,,False,False
+MIX396,7.8 at 1.3% dilution in water (pH),7.8,7.8,diluted,1.3,False,False
+MIX397,7.76 (pH),7.76,7.76,unspecified,,False,False
+MIX4,3.05 at 1% w/w (pH),3.05,3.05,diluted,1.0,False,False
+MIX400,4.3 (pH),4.3,4.3,unspecified,,False,False
+MIX403,3.66 at 1% in water (pH),3.66,3.66,diluted,1.0,False,False
+MIX414,2.76 - 2.90 (pH),2.76,2.9,unspecified,,False,False
+MIX42,7.3 (pH),7.3,7.3,unspecified,,False,False
+MIX422,5-8 (pH),5.0,8.0,unspecified,,False,False
+MIX423,"approx. 5 - 9 at 1% m aqueous solution, 20 C (pH)",5.0,9.0,diluted,1.0,False,False
+MIX425,3-7 at 1% dilution in DI water (pH),3.0,7.0,diluted,1.0,False,False
+MIX426,6.97 at 1% solution (pH),6.97,6.97,diluted,1.0,False,False
+MIX427,6.65 at 1% solution (pH),6.65,6.65,diluted,1.0,False,False
+MIX433,"6.0-8.0 at 100% concentration, 23 C (pH)",6.0,8.0,neat,100.0,False,False
+MIX435,6.0-7.0 (pH),6.0,7.0,unspecified,,False,False
+MIX436,"6.9 at 1% concentration, CIPAC MT 75.3 (pH)",6.9,6.9,diluted,1.0,False,False
+MIX437,"5.8 at 25 C, 1% aqueous solution (pH)",5.8,5.8,diluted,1.0,False,False
+MIX443,6.96 at 1% w/v solution (pH),6.96,6.96,diluted,1.0,False,False
+MIX445,5.72 at 20 C (pH),5.72,5.72,other_condition,,False,False
+MIX448,"approx. 4 - 6 at 10 g/l, 25 C (pH)",4.0,6.0,other_condition,,False,False
+MIX45,5 - 9 at 1% w/v (pH),5.0,9.0,diluted,1.0,False,False
+MIX455,7 - 10 (pH),7.0,10.0,unspecified,,False,False
+MIX456,7.9 at 10% suspension in distilled water (pH),7.9,7.9,diluted,10.0,False,False
+MIX469,7.31 (pH),7.31,7.31,unspecified,,False,False
+MIX470,6.86 at 1% dispersion (pH),6.86,6.86,diluted,1.0,False,False
+MIX471,6.80 at 25 C (pH),6.8,6.8,other_condition,,False,False
+MIX472,6.80 at 25 C (pH),6.8,6.8,other_condition,,False,False
+MIX476,"6-8 at 1% aqueous solution, 25 C (pH)",6.0,8.0,diluted,1.0,False,False
+MIX478,5.6 - 6.7 (pH),5.6,6.7,unspecified,,False,False
+MIX483,5.22 at 22.7 C (pH),5.22,5.22,other_condition,,False,False
+MIX485,6-8 at 1% dilution (pH),6.0,8.0,diluted,1.0,False,False
+MIX488,6.56 at 1% solution (pH),6.56,6.56,diluted,1.0,False,False
+MIX489,4.3 at 1% solution (pH),4.3,4.3,diluted,1.0,False,False
+MIX490,9.3 at 1% suspension in water (pH),9.3,9.3,diluted,1.0,False,False
+MIX491,3.96 at 1% emulsion (pH),3.96,3.96,diluted,1.0,False,False
+MIX497,5 to 8 at 1% aqueous solution (pH),5.0,8.0,diluted,1.0,False,False
+MIX498,4.33 (pH),4.33,4.33,unspecified,,False,False
+MIX499,"6.5 at 25 C, 1% aqueous solution (pH)",6.5,6.5,diluted,1.0,False,False
+MIX50,7 at 10 g/l 25 C (pH),7.0,7.0,other_condition,,False,False
+MIX504,"8 - 9 at 25 C, 1% w/v in water (pH)",8.0,9.0,diluted,1.0,False,False
+MIX505,4.0 - 7.0 at 100% (pH),4.0,7.0,neat,100.0,False,False
+MIX508,6.6 at 1% suspension (pH),6.6,6.6,diluted,1.0,False,False
+MIX509,"8.85 at 1% solution, 21.3 C (pH)",8.85,8.85,diluted,1.0,False,False
+MIX512,"4.3 - 4.8 at 6.77%, 23 C, deionized water (pH)",4.3,4.8,diluted,6.77,False,False
+MIX514,3.9 at 1% emulsion (pH),3.9,3.9,diluted,1.0,False,False
+MIX515,5.59 at 25 C (pH),5.59,5.59,other_condition,,False,False
+MIX519,"3 - 6 at 1% dilution, 23 C, deionized water (pH)",3.0,6.0,diluted,1.0,False,False
+MIX52,"5.5-7.5 at 10% dilution in deionized water, 23 C (pH)",5.5,7.5,diluted,10.0,False,False
+MIX522,5.8 at 10 g/l (pH),5.8,5.8,other_condition,,False,False
+MIX524,3.98 at 1% dispersion (pH),3.98,3.98,diluted,1.0,False,False
+MIX528,4.6 at 1% solution (pH),4.6,4.6,diluted,1.0,False,False
+MIX529,7 at 1% solution (pH),7.0,7.0,diluted,1.0,False,False
+MIX530,5 - 9 at 1% concentration (pH),5.0,9.0,diluted,1.0,False,False
+MIX531,"4.0-8.0 at 20-25 C, 1% w/v (pH)",4.0,8.0,diluted,1.0,False,False
+MIX535,6.9-7.8 (pH),6.9,7.8,unspecified,,False,False
+MIX536,6 - 8.5 (pH),6.0,8.5,unspecified,,False,False
+MIX541,4.4-4.75 (pH),4.4,4.75,unspecified,,False,False
+MIX542,8.8 (pH),8.8,8.8,unspecified,,False,False
+MIX545,5.33 at 25 C at 5% suspension (pH),5.33,5.33,diluted,5.0,False,False
+MIX550,approx 6 - 8 at 20 C (pH),6.0,8.0,other_condition,,False,False
+MIX552,4.0 - 5.0 at 10% soln (pH),4.0,5.0,diluted,10.0,False,False
+MIX553,7.29 (pH),7.29,7.29,unspecified,,False,False
+MIX555,"approx 6 - 8 at 1% m , 20 C (pH)",6.0,8.0,diluted,1.0,False,False
+MIX558,6.9 at 24.3 C (pH),6.9,6.9,other_condition,,False,False
+MIX560,>13 (pH),13.0,13.0,unspecified,,False,True
+MIX561,"5.0 - 8.0 at 100%, 23 C (pH)",5.0,8.0,neat,100.0,False,False
+MIX562,6.5 - 8.5 at 100 % (pH),6.5,8.5,neat,100.0,False,False
+MIX566,4.7 at 1% aqueous suspension (pH),4.7,4.7,diluted,1.0,False,False
+MIX568,5.6 (pH),5.6,5.6,unspecified,,False,False
+MIX57,"approx. 6 - 8 at 20 C, undiluted substance (pH)",6.0,8.0,neat,100.0,False,False
+MIX570,6 - 8 (pH),6.0,8.0,unspecified,,False,False
+MIX571,4-6 (pH),4.0,6.0,unspecified,,False,False
+MIX574,6.6-7.6 (pH),6.6,7.6,unspecified,,False,False
+MIX577,"4-5 at 10% dilution, 23 C, deionized water (pH)",4.0,5.0,diluted,10.0,False,False
+MIX58,"5.51 at 25 C, 1% aqueous solution (pH)",5.51,5.51,diluted,1.0,False,False
+MIX581,6.7 (pH),6.7,6.7,unspecified,,False,False
+MIX582,"7.0 at 10 g/L, 25 C (pH)",7.0,7.0,other_condition,,False,False
+MIX583,8.6 (pH),8.6,8.6,unspecified,,False,False
+MIX589,"approx. 4 - 6 at 10 g/l, 25 C (pH)",4.0,6.0,other_condition,,False,False
+MIX59,"5.51 at 25 C, 1% aqueous solution (pH)",5.51,5.51,diluted,1.0,False,False
+MIX592,"4-6 at 20 C, as aqueous suspension (pH)",4.0,6.0,other_condition,,False,False
+MIX593,6 - 6.5 at 1% emulsion in water (pH),6.0,6.5,diluted,1.0,False,False
+MIX595,"approx 6-8 at 1% dilution, 20 C (pH)",6.0,8.0,diluted,1.0,False,False
+MIX600,7.03 at 25 C in 1% aqueous dispersion (pH),7.03,7.03,diluted,1.0,False,False
+MIX603,7.0 (pH),7.0,7.0,unspecified,,False,False
+MIX61,"6.5 - 8.0 at 100%, 23 C (pH)",6.5,8.0,neat,100.0,False,False
+MIX62,4.5 at 1% solution (pH),4.5,4.5,diluted,1.0,False,False
+MIX622,"4.9-6.1 at 100%, 23 C (pH)",4.9,6.1,neat,100.0,False,False
+MIX623,7 - 8 (pH),7.0,8.0,unspecified,,False,False
+MIX625,5.5 - 7.5 (pH),5.5,7.5,unspecified,,False,False
+MIX628,8.3 (pH),8.3,8.3,unspecified,,False,False
+MIX637,6.66 at 10 g/l (pH),6.66,6.66,other_condition,,False,False
+MIX648,3 - 7 at 1% in deionized water (pH),3.0,7.0,diluted,1.0,False,False
+MIX65,7.68 at 1% dispersion (pH),7.68,7.68,diluted,1.0,False,False
+MIX651,7.17 at 1% w/w dilution in DIW (pH),7.17,7.17,diluted,1.0,False,False
+MIX654,7 - 9 (pH),7.0,9.0,unspecified,,False,False
+MIX661,3.9 (pH),3.9,3.9,unspecified,,False,False
+MIX673,6-8 (pH),6.0,8.0,unspecified,,False,False
+MIX674,7.5 - 9.5 (pH),7.5,9.5,unspecified,,False,False
+MIX675,5 - 7 at 1% dispersion (pH),5.0,7.0,diluted,1.0,False,False
+MIX676,8.8 (pH),8.8,8.8,unspecified,,False,False
+MIX678,5.66 at 1% w/w dispersion in DIW (pH),5.66,5.66,diluted,1.0,False,False
+MIX68,"approx. 2.5 - 4.5 at 1% m, 20 C (pH)",2.5,4.5,diluted,1.0,False,False
+MIX682,4-8 at 10% suspension (pH),4.0,8.0,diluted,10.0,False,False
+MIX683,7.5-9.5 (pH),7.5,9.5,unspecified,,False,False
+MIX686,6.07 at 1% aq solution (pH),6.07,6.07,diluted,1.0,False,False
+MIX689,7 (pH),7.0,7.0,unspecified,,False,False
+MIX69,5.5 at 10 g/l at 23 C (pH),5.5,5.5,other_condition,,False,False
+MIX690,"5-7 at aqueous solution 10 g/l, 20 C (pH)",5.0,7.0,other_condition,,False,False
+MIX692,"2.5 at 10 g/L, 20 C (pH)",2.5,2.5,other_condition,,False,False
+MIX693,9.4 at 1% aqueous solution (pH),9.4,9.4,diluted,1.0,False,False
+MIX695,"2.5 at 20 C, 10 g/L aq sol (pH)",2.5,2.5,other_condition,,False,False
+MIX696,"9.4 at 1% aqueous solution, 23.4 C (pH)",9.4,9.4,diluted,1.0,False,False
+MIX699,"6.5-7.5 at ~1% in water, 25 C (pH)",6.5,7.5,diluted,1.0,False,False
+MIX7,"6-8 at 1% m/m in water, 20 C, as a dispersion (pH)",6.0,8.0,diluted,1.0,False,False
+MIX70,"approx. 3 - 5 at 1% m/m, approx. 20 C, as suspension (pH)",3.0,5.0,diluted,1.0,False,False
+MIX704,"8.84 at 1% w/v dilution in water, 20 C (pH)",8.84,8.84,diluted,1.0,False,False
+MIX706,6.6 at 1% dilution (pH),6.6,6.6,diluted,1.0,False,False
+MIX709,6.5-7.1 (pH),6.5,7.1,unspecified,,False,False
+MIX712,5.3 - 6.3 (pH),5.3,6.3,unspecified,,False,False
+MIX714,6.5-7.5 (pH),6.5,7.5,unspecified,,False,False
+MIX716,5.5 to 8 at 1% dispersion (pH),5.5,8.0,diluted,1.0,False,False
+MIX718,"8.84 at 1% w/v in water, 20 C (pH)",8.84,8.84,diluted,1.0,False,False
+MIX720,7 (pH),7.0,7.0,unspecified,,False,False
+MIX743,"approx. 6.5 - 8.5 at 20 C, undiluted substance (pH)",6.5,8.5,neat,100.0,False,False
+MIX747,6.77 (pH),6.77,6.77,unspecified,,False,False
+MIX748,7.03 at 25 C in 1% aqueous dispersion (pH),7.03,7.03,diluted,1.0,False,False
+MIX749,5.3 - 6.3 (pH),5.3,6.3,unspecified,,False,False
+MIX750,5.3 (pH),5.3,5.3,unspecified,,False,False
+MIX752,7 - 7.6 (pH),7.0,7.6,unspecified,,False,False
+MIX756,6.9 (pH),6.9,6.9,unspecified,,False,False
+MIX759,4.2 at 24.9 C (pH),4.2,4.2,other_condition,,False,False
+MIX765,7.78 at 22 C (pH),7.78,7.78,other_condition,,False,False
+MIX77,"approx. 5-7 at 1% m , 20 C (pH)",5.0,7.0,diluted,1.0,False,False
+MIX773,"4.0 - 8.0 at 1% w/v, 20-25 C (pH)",4.0,8.0,diluted,1.0,False,False
+MIX78,"3.2 at 1% solution in deionized H2O, 25 C (pH)",3.2,3.2,diluted,1.0,False,False
+MIX786,7.5 (pH),7.5,7.5,unspecified,,False,False
+MIX793,12.1 (pH),12.1,12.1,unspecified,,False,True
+MIX802,0.5 (pH),0.5,0.5,unspecified,,True,False
+MIX807,12-13 at 20 C (pH),12.0,13.0,other_condition,,False,True
+MIX82,5.5-6.5 (pH),5.5,6.5,unspecified,,False,False
+MIX822,11.3 as supplied (pH),11.3,11.3,neat,100.0,False,False
+MIX83,6 - 9 at concentrated solution (pH),6.0,9.0,other_condition,,False,False
+MIX833,4-7 (pH),4.0,7.0,unspecified,,False,False
+MIX835,6.0-7.0 (pH),6.0,7.0,unspecified,,False,False
+MIX837,7 (pH),7.0,7.0,unspecified,,False,False
+MIX84,8.9 - 9.9 at 1% solution (pH),8.9,9.9,diluted,1.0,False,False
+MIX840,11.0-11.6 (pH),11.0,11.6,unspecified,,False,True
+MIX845,~6.9 (pH),6.9,6.9,unspecified,,False,False
+MIX855,6.0 at 1% in water at 23 C (pH),6.0,6.0,diluted,1.0,False,False
+MIX86,"7.9 at 1% w/v suspension, 26.8 C (pH)",7.9,7.9,diluted,1.0,False,False
+MIX87,8.0 to 9.0 (pH),8.0,9.0,unspecified,,False,False
+MIX89,3.1 at 20 C (pH),3.1,3.1,other_condition,,False,False
+MIX91,6.8-7.1 (pH),6.8,7.1,unspecified,,False,False
+MIX92,6.68 (pH),6.68,6.68,unspecified,,False,False
+MIX925,4-5 (pH),4.0,5.0,unspecified,,False,False
+MIX986,"~8 at 25 C, 1% w/w water (pH)",8.0,8.0,diluted,1.0,False,False
+MIX998,2.0 to 7.0 (pH),2.0,7.0,unspecified,,True,False

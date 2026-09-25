@@ -1,0 +1,645 @@
+[
+  {
+    "row": 324,
+    "verdict": "재검토필요",
+    "signal_word": "Warning",
+    "h_codes": [
+      "H400",
+      "H410"
+    ],
+    "cat_eye": "Not classified",
+    "cat_skin": null,
+    "cat_sens": null,
+    "method": "PubChem 성분 참고값(Penoxsulam)",
+    "evidence_quote": "Warning H400 (100%): Very toxic to aquatic life ... H410 (100%): Very toxic to aquatic life with long lasting effects",
+    "note": "제품은 Toluene(용제)+Penoxsulam(유효성분) 2성분 제조용원제. 기존 carlroth SDS는 순수 Toluene 단일물질로 불일치 확인(이전과 동일). PubChem 성분 순물질 참고값만 확보(Penoxsulam, 환경유해성만/눈·피부·감작 분류 없음), 제품 SDS 미확보. Toluene 자체의 가연성·피부자극 등은 미반영."
+  },
+  {
+    "row": 332,
+    "verdict": "재검토필요",
+    "signal_word": "Danger",
+    "h_codes": [
+      "H318",
+      "H411"
+    ],
+    "cat_eye": "1",
+    "cat_skin": null,
+    "cat_sens": null,
+    "method": "curl(User-Agent 헤더) 재시도 실패 + PubChem 성분 참고값(Glyphosate)",
+    "evidence_quote": "HTTP/1.1 400 ... Content-Type: application/pdf (본문 0 bytes, curl+UA 재시도에도 동일)",
+    "note": "carlroth URL은 curl(UA 헤더 포함) 재시도에도 HTTP 400으로 완전히 차단됨(세션/토큰 필요 또는 링크 만료로 추정). Glyphosate 순물질 PubChem 참고값(Danger, 눈손상1/H318, 만성수생2/H411)만 확보, 제품 SDS 미확보."
+  },
+  {
+    "row": 333,
+    "verdict": "재검토필요",
+    "signal_word": "Danger",
+    "h_codes": [
+      "H301",
+      "H311",
+      "H314",
+      "H317",
+      "H318",
+      "H330",
+      "H400",
+      "H410"
+    ],
+    "cat_eye": "1",
+    "cat_skin": "1",
+    "cat_sens": "1",
+    "method": "PubChem 성분 참고값(Zinc pyrithione, 2-Methyl-4-isothiazolin-3-one/MIT, BIT)",
+    "evidence_quote": "Danger H301: Toxic if swallowed H311: Toxic in contact with skin H314: Causes severe skin burns and eye damage H317: May cause an allergic skin reaction H318: Causes serious eye damage",
+    "note": "제품 Acticide SR 8213 C는 BIT+Zinc pyrithione+MIT 3성분 혼합 살균제. 기존 waimaoniu SDS는 BIT 단일성분용으로 불일치(이전과 동일). PubChem에서 3개 활성성분 모두 개별 참고값 확보(모두 Danger, 눈손상1/피부부식~자극/감작1 계열)했으나 혼합물 전체 등급은 제품 SDS 없이 확정 불가."
+  },
+  {
+    "row": 348,
+    "verdict": "재검토필요",
+    "signal_word": "Warning",
+    "h_codes": [
+      "H302",
+      "H317",
+      "H373",
+      "H410"
+    ],
+    "cat_eye": null,
+    "cat_skin": null,
+    "cat_sens": "1",
+    "method": "PubChem 성분 참고값(Imidacloprid) 추가 확보 + 기존 carboxin(ChemicalBook) 참고값",
+    "evidence_quote": "Danger H301: Toxic if swallowed H400: Very toxic to aquatic life H410: Very toxic to aquatic life with long lasting effects",
+    "note": "제품은 carboxin+imidacloprid+metalaxyl 3성분 혼합. carboxin 참고값(Warning, H410/H373/H317/H302, 눈·피부 구체등급 없음)은 기존 확보, 이번에 Imidacloprid PubChem 참고값(Danger, H301/H400/H410, 눈·피부 미분류) 추가 확보. metalaxyl은 미조회. 혼합제품 전체 등급은 제품 SDS 없이 확정 불가."
+  },
+  {
+    "row": 349,
+    "verdict": "재검토필요",
+    "signal_word": "Warning",
+    "h_codes": [
+      "H302",
+      "H315",
+      "H400",
+      "H410"
+    ],
+    "cat_eye": null,
+    "cat_skin": "2",
+    "cat_sens": null,
+    "method": "PubChem 성분 참고값(tau-Fluvalinate, Imidacloprid), 기존 Tebuconazole 단일성분 SDS 불일치 재확인",
+    "evidence_quote": "Warning H302: Harmful if swallowed H315: Causes skin irritation H400: Very toxic to aquatic life H410: Very toxic to aquatic life with long lasting effects",
+    "note": "3성분(Tebuconazole+tau-Fluvalinate+Imidacloprid) 복합제. 로컬 PDF는 Tebuconazole 단일성분으로 불일치 확정(이전과 동일). PubChem에서 tau-Fluvalinate(피부자극2) 및 Imidacloprid 참고값 추가 확보했으나 제품 SDS 아님."
+  },
+  {
+    "row": 352,
+    "verdict": "재검토필요",
+    "signal_word": "Danger",
+    "h_codes": [
+      "H301",
+      "H302",
+      "H317",
+      "H332",
+      "H372",
+      "H400",
+      "H410"
+    ],
+    "cat_eye": null,
+    "cat_skin": null,
+    "cat_sens": "1",
+    "method": "PubChem 성분 참고값(Indoxacarb, Permethrin), 기존 BASF Innox SDS 불일치 재확인",
+    "evidence_quote": "Danger H301: Toxic if swallowed H317: May cause an allergic skin reaction H332: Harmful if inhaled H372: Causes damage to organs through prolonged or repeated exposure",
+    "note": "제품 INDOX2(Indoxacarb+Permethrin)의 기존 근거 BASF 'Innox'(Prothioconazole 계열) SDS는 성분 불일치로 폐기. PubChem에서 두 활성성분 모두 피부감작1(H317) 확인, 눈자극 분류는 두 성분 모두 없음. 제품 SDS 미확보로 확정 불가."
+  },
+  {
+    "row": 361,
+    "verdict": "재검토필요",
+    "signal_word": "Danger",
+    "h_codes": [
+      "H300",
+      "H301",
+      "H317",
+      "H331",
+      "H351",
+      "H361d",
+      "H372",
+      "H400",
+      "H410"
+    ],
+    "cat_eye": null,
+    "cat_skin": null,
+    "cat_sens": "1",
+    "method": "PubChem 성분 참고값(IUPAC명으로 추정된 Acetamiprid, Bifenthrin), 기존 'Justice'(살균제) SDS 불일치 재확인",
+    "evidence_quote": "Danger H300: Fatal if swallowed H317: May cause an allergic skin reaction H331: Toxic if inhaled H351: Suspected of causing cancer H372: Causes damage to organs through prolonged or repeated exposure",
+    "note": "ingredient_names의 장문 IUPAC명(N-[(6-Chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide)은 Acetamiprid 구조식과 일치하는 것으로 추정(확정 아님). 기존 확보된 'Justice'(Proquinazid 함유 살균제) SDS는 완전히 다른 제품으로 재확인. PubChem 성분 참고값만 확보, 제품 SDS 미확보."
+  },
+  {
+    "row": 363,
+    "verdict": "재검토필요",
+    "signal_word": "Danger",
+    "h_codes": [
+      "H242",
+      "H301",
+      "H310",
+      "H314",
+      "H330",
+      "H400",
+      "H410"
+    ],
+    "cat_eye": "1",
+    "cat_skin": "1",
+    "cat_sens": null,
+    "method": "PubChem 성분 참고값(Peracetic Acid/과산화아세트산) - Affirm 5성분 중 주요 위험성분",
+    "evidence_quote": "Danger H242: Heating may cause a fire H301: Toxic if swallowed H310: Fatal in contact with skin H314: Causes severe skin burns and eye damage H330: Fatal if inhaled",
+    "note": "제품 Affirm은 과산화수소/아세트산/황산/질산/과산화아세트산 5성분 혼합 소독제. 기존 확보 자료는 질산(Nitric acid) 단일물질 SDS로 5성분 중 1개만 반영. 이번에 주요 위험성분 Peracetic acid PubChem 참고값(Danger, H314 피부부식1, 눈손상1은 GHS 브릿징 원칙상 추정) 확보. 혼합물 전체 등급은 제품 SDS 없이 확정 불가."
+  },
+  {
+    "row": 364,
+    "verdict": "재검토필요",
+    "signal_word": "Danger",
+    "h_codes": [
+      "H301",
+      "H312",
+      "H330",
+      "H400",
+      "H410"
+    ],
+    "cat_eye": null,
+    "cat_skin": null,
+    "cat_sens": null,
+    "method": "curl+pdftotext 재시도 성공(다른 제품 LAMBDA-CY AG SDS 텍스트 확인) + PubChem 성분 참고값(Lambda-Cyhalothrin)",
+    "evidence_quote": "EMERGENCY OVERVIEW: WARNING May be fatal if swallowed. Harmful if inhaled or absorbed through skin. Causes moderate eye irritation.",
+    "note": "재시도 성공, LAMBDA-CY AG(EPA 83222-42, lambda-cyhalothrin 11.4%) SDS로 Kendo 22.8CS와 제품명·등록번호 불일치 재확인(이전과 동일 결론). PubChem 성분참고값(Danger, H301/H312/H330/H400/H410, 눈피부 GHS코드 없음)은 이 문서의 '중등도 눈자극' 서술과 상충되어 확정 곤란."
+  },
+  {
+    "row": 414,
+    "verdict": "재검토필요",
+    "signal_word": "Warning",
+    "h_codes": [
+      "H312",
+      "H373",
+      "H400",
+      "H410"
+    ],
+    "cat_eye": null,
+    "cat_skin": null,
+    "cat_sens": null,
+    "method": "PubChem pug_view API 직접 조회(Diflubenzuron CID 37123, 웹페이지 대신 API 사용)",
+    "evidence_quote": "Warning H312 (29.4%): Harmful in contact with skin H373 (13.5%): May causes damage to organs through prolonged or repeated exposure H400 (94.4%): Very toxic to aquatic life",
+    "note": "이전 라운드는 PubChem 웹페이지(WebFetch)에서 동적 렌더링 섹션 누락으로 GHS 정보 미확보. 이번에 PUG View API(JSON)로 직접 조회하여 GHS 데이터 확보 성공. Diflubenzuron 순물질 참고값이며 제품 Micromite 80WG(Kaolin 등 불활성 담체 포함) 자체 SDS는 아님. 눈·피부 자극 분류는 데이터에 없음."
+  },
+  {
+    "row": 416,
+    "verdict": "재검토필요",
+    "signal_word": "Danger",
+    "h_codes": [
+      "H301",
+      "H400",
+      "H410"
+    ],
+    "cat_eye": null,
+    "cat_skin": null,
+    "cat_sens": null,
+    "method": "PubChem pug_view API 직접 조회(Methiocarb CID 16248)",
+    "evidence_quote": "Danger H301: Toxic if swallowed H400: Very toxic to aquatic life H410: Very toxic to aquatic life with long lasting effects",
+    "note": "PUG View API로 GHS 데이터 확보(급성경구독성1, 수생환경유해성만 확인, 눈·피부 자극 분류 없음). Methiocarb 순물질 참고값이며 제품 Mesurol 2% Bait(Calcium sulfate, BHT 등 불활성 성분 포함) 자체 SDS 아님."
+  },
+  {
+    "row": 419,
+    "verdict": "재검토필요",
+    "signal_word": "Warning",
+    "h_codes": [
+      "H315",
+      "H317",
+      "H332",
+      "H335",
+      "H351",
+      "H361f",
+      "H373",
+      "H400",
+      "H410"
+    ],
+    "cat_eye": null,
+    "cat_skin": "2",
+    "cat_sens": "1",
+    "method": "curl 재다운로드 성공(원료 에스터 단일물질 재확인) + PubChem 성분 참고값(Acetochlor)",
+    "evidence_quote": "Caution! May cause eye and skin irritation. May cause respiratory and digestive tract irritation. The toxicological properties of this material have not been fully investigated.",
+    "note": "재다운로드 성공, 문서는 'Adipic Acid Monomethyl Ester'(제품의 비활성 에스터 성분) 단일물질 MSDS로 확인, 실제 유효성분 Acetochlor 정보 없음(이전과 동일 결론). PubChem Acetochlor 참고값(Warning, 피부자극2/감작1, 눈자극 분류 없음) 추가 확보, 제품 SDS 아님."
+  },
+  {
+    "row": 424,
+    "verdict": "재검토필요",
+    "signal_word": "Danger",
+    "h_codes": [
+      "H302",
+      "H317",
+      "H360D",
+      "H400",
+      "H410"
+    ],
+    "cat_eye": null,
+    "cat_skin": null,
+    "cat_sens": "1",
+    "method": "curl 재다운로드 성공(목재 SDS 재확인, 목재분진 관련 무관 재확인) + PubChem 성분 참고값(Propiconazole)",
+    "evidence_quote": "Carcinogen- Category 1A (H350)* Wood dust may cause nasopharyngeal cancer and/or cancer of the nasal cavities and paranasal sinuses by inhalation",
+    "note": "재시도로 Weyerhaeuser 목재 SDS 재확인, Signal Word DANGER/Carcinogen 1A(H350)는 목재분진(우드더스트) 고유 위험성이며 Mycostat BX2의 유효성분 Propiconazole과 무관(이전과 동일 결론). PubChem Propiconazole 참고값(Danger, 피부감작1/H317, 생식독성우려/H360D, 눈·피부자극 분류 없음) 확보, 제품 SDS 아님."
+  },
+  {
+    "row": 428,
+    "verdict": "재검토필요",
+    "signal_word": "Danger",
+    "h_codes": [
+      "H301",
+      "H312",
+      "H317",
+      "H331",
+      "H400",
+      "H410"
+    ],
+    "cat_eye": null,
+    "cat_skin": null,
+    "cat_sens": "1",
+    "method": "기존 로컬 PDF(과립형 10G 제형, 제형불일치) + PubChem 성분 참고값(Fosthiazate)",
+    "evidence_quote": "Danger H301: Toxic if swallowed H312: Harmful in contact with skin H317: May cause an allergic skin reaction H331: Toxic if inhaled",
+    "note": "제품 Nemathorin 500EC(액상 유탁제)와 기존 확보 문서(10G 과립형)는 제형이 달라 용제 관련 위험성이 상이(이전과 동일 결론). PubChem Fosthiazate 순물질 참고값(Danger, 피부감작1/H317) 확보했으나 EC 제형 용제 영향 미반영."
+  },
+  {
+    "row": 431,
+    "verdict": "재검토필요",
+    "signal_word": "Warning",
+    "h_codes": [
+      "H315",
+      "H319",
+      "H335",
+      "H341"
+    ],
+    "cat_eye": "2A",
+    "cat_skin": "2",
+    "cat_sens": null,
+    "method": "PubChem 성분 참고값(Maleic hydrazide) - 기존 SIGMADUR 도료 SDS 불일치 재확인",
+    "evidence_quote": "Warning H315: Causes skin irritation H319: Causes serious eye irritation H335: May cause respiratory irritation H341: Suspected of causing genetic defects",
+    "note": "제품 NEU1171H(1-Methoxy-2-propanol/Cobaltous neodecanoate/Maleic hydrazide)의 기존 확보 문서(PPG SIGMADUR 도료)는 완전히 무관한 제품으로 재확인. 주 활성성분으로 추정되는 Maleic hydrazide PubChem 참고값(Warning, 눈자극2A/H319, 피부자극2/H315) 확보. 순물질 참고값으로 실제 혼합물 제품 SDS는 아님."
+  },
+  {
+    "row": 432,
+    "verdict": "재검토필요",
+    "signal_word": "Warning",
+    "h_codes": [
+      "H315",
+      "H319",
+      "H335",
+      "H341"
+    ],
+    "cat_eye": "2A",
+    "cat_skin": "2",
+    "cat_sens": null,
+    "method": "PubChem 성분 참고값(Maleic hydrazide) - 기존 Lauryl Sulfate Broth SDS 불일치 재확인",
+    "evidence_quote": "Warning H315: Causes skin irritation H319: Causes serious eye irritation H335: May cause respiratory irritation H341: Suspected of causing genetic defects",
+    "note": "제품 NEUl171H RTU의 기존 확보 문서(Neogen 'Lauryl Sulfate Broth' 미생물배양액)는 완전히 무관한 제품(그 자체는 비유해). Maleic hydrazide PubChem 참고값(Warning, 눈자극2A/H319, 피부자극2/H315) 확보, 제품 SDS 아님."
+  },
+  {
+    "row": 435,
+    "verdict": "재검토필요",
+    "signal_word": "Warning",
+    "h_codes": [
+      "H400",
+      "H410"
+    ],
+    "cat_eye": null,
+    "cat_skin": null,
+    "cat_sens": null,
+    "method": "PubChem 성분 참고값(Flubendiamide) - 기존 알루미늄분말 SDS 불일치 재확인",
+    "evidence_quote": "Warning H400: Very toxic to aquatic life H410: Very toxic to aquatic life with long lasting effects",
+    "note": "제품 NNI-0001의 2번째 유효성분 Flubendiamide PubChem 참고값은 수생환경유해성만 확인되고 눈·피부·감작 분류가 전혀 없음. 기존 확보 문서(Aluminium Powder 단일물질, Danger/H228 가연성고체)는 여전히 다른 성분(알루미늄분말)의 물리적 위험성만 나타내며 Flubendiamide와 무관. 제품 전체 SDS 미확보로 재검토 필요."
+  },
+  {
+    "row": 450,
+    "verdict": "재검토필요",
+    "signal_word": "Warning",
+    "h_codes": [
+      "H301",
+      "H302",
+      "H317",
+      "H360D",
+      "H400",
+      "H410"
+    ],
+    "cat_eye": null,
+    "cat_skin": null,
+    "cat_sens": "1",
+    "method": "PubChem 성분 참고값(Tebuconazole, Imidacloprid, Propiconazole) - 기존 도료 SDS 불일치 재확인",
+    "evidence_quote": "Warning H302: Harmful if swallowed H317: May cause an allergic skin reaction H360D: May damage the unborn child",
+    "note": "제품 OR-X123(3성분 복합 살균/살충제)의 기존 확보 문서(International Paint 'Interthem 875' 도료)는 완전히 무관한 제품으로 재확인. 3개 활성성분 PubChem 참고값 모두 확보(Propiconazole만 피부감작1/H317, 눈자극 분류는 3개 성분 모두 없음)했으나 혼합제품 SDS 아님."
+  },
+  {
+    "row": 458,
+    "verdict": "재검토필요",
+    "signal_word": "Warning",
+    "h_codes": [
+      "H302",
+      "H317",
+      "H351",
+      "H361f",
+      "H362",
+      "H370",
+      "H400",
+      "H410",
+      "H412"
+    ],
+    "cat_eye": null,
+    "cat_skin": null,
+    "cat_sens": "1",
+    "method": "PubChem 성분 참고값(Trifloxystrobin, Clothianidin, Penflufen, Metalaxyl) - 기존 n-Butanol 시약 SDS 불일치 재확인",
+    "evidence_quote": "Warning H317: May cause an allergic skin reaction H362: May cause harm to breast-fed children",
+    "note": "제품 Penclotrime 310.68 FS(4성분 복합 종자처리제)의 기존 확보 문서(Flinn Scientific n-Butyl Alcohol 시약)는 완전히 무관. 4개 활성성분 PubChem 참고값 모두 확보(피부감작1 확인, 눈자극 분류는 4개 성분 모두 없음)했으나 혼합제품 SDS 아님."
+  },
+  {
+    "row": 461,
+    "verdict": "재검토필요",
+    "signal_word": "Caution",
+    "h_codes": null,
+    "cat_eye": null,
+    "cat_skin": null,
+    "cat_sens": null,
+    "method": "curl+pdftotext 재시도로 EPA 등록 라벨 원문 확보(Prothioconazole+Penflufen 성분일치 확인) + PubChem 성분 참고값",
+    "evidence_quote": "ACTIVE INGREDIENT Penflufen 9.35% Prothioconazole 1.68% ... CAUTION HAZARDS TO HUMANS AND DOMESTIC ANIMALS Harmful if swallowed",
+    "note": "재시도로 스캔이미지가 아닌 텍스트 추출 성공. 문서는 'Emesto Silver'(Bayer, EPA Reg 264-XXX pending) 라벨로 Prothioconazole+Penflufen 두 성분이 제품 Penpro 118FS와 일치하나 정확한 브랜드/함량 동일성은 확인 불가. FIFRA 라벨 형식(GHS 아님)으로 신호어는 CAUTION(EPA체계)이며 H코드/눈피부 GHS 카테고리 자체가 없음. PubChem 성분 참고값(Prothioconazole/Penflufen)도 눈·피부 분류 없음."
+  },
+  {
+    "row": 465,
+    "verdict": "정보없음",
+    "signal_word": null,
+    "h_codes": [],
+    "cat_eye": "Not classified",
+    "cat_skin": "Not classified",
+    "cat_sens": null,
+    "method": "curl+pdftotext 재시도로 EVERGOL XTEND C SDS 원문 확보(Penflufen+Trifloxystrobin 각 14.26% 동일성분·함량의 근연제품)",
+    "evidence_quote": "This material is not hazardous under the criteria of the Federal OSHA Hazard Communication Standard 29CFR 1910.1200. Hazards Not Otherwise Classified (HNOC) No other hazards known.",
+    "note": "재시도 성공. EVERGOL XTEND C(Bayer, EPA Reg 264-1165)는 Pentri 308FS와 동일한 2개 활성성분(Trifloxystrobin+Penflufen, 각 14.26%)을 동일 함량으로 포함하는 근연제품(메모에 이미 명시)이며, 제품 자체가 OSHA HCS/GHS 기준 비유해로 명시됨(신호어·픽토그램·H코드 없음). 다만 정확히 동일 등록번호 제품은 아니라는 점은 한계로 남음."
+  },
+  {
+    "row": 474,
+    "verdict": "검증완료",
+    "signal_word": "Danger",
+    "h_codes": [
+      "H303",
+      "H315",
+      "H319",
+      "H332",
+      "H351",
+      "H371",
+      "H373"
+    ],
+    "cat_eye": "2A",
+    "cat_skin": "2",
+    "cat_sens": null,
+    "method": "curl+pdftotext 재시도 성공, 제품 자체(POLYPHASE 663) SDS 원문 확인",
+    "evidence_quote": "Signal word: Danger Hazard statements: H303 - May be harmful if swallowed. H315 - Causes skin irritation. H319 - Causes serious eye irritation. H332 - Harmful if inhaled.",
+    "note": "재시도 다운로드로 정상 SDS 텍스트 확보. Section1 제품명이 'POLYPHASE 663'으로 대상 행과 정확히 일치, Section3 성분(diuron, carbendazim, 3-iodo-2-propynyl butylcarbamate/IPBC)도 ingredient_names와 부합. 제품 자체 수준의 GHS 분류 확인 완료(눈자극2A, 피부자극2, 감작 분류 없음)."
+  },
+  {
+    "row": 498,
+    "verdict": "재검토필요",
+    "signal_word": "Warning",
+    "h_codes": [
+      "H302",
+      "H319",
+      "H351",
+      "H400",
+      "H410"
+    ],
+    "cat_eye": "2A",
+    "cat_skin": null,
+    "cat_sens": null,
+    "method": "PubChem 성분 참고값(Difenoconazole) 추가 확보, 기존 QUADRIS(azoxystrobin 단일성분) SDS 불일치 재확인",
+    "evidence_quote": "Warning H302: Harmful if swallowed H319: Causes serious eye irritation H351: Suspected of causing cancer H400: Very toxic to aquatic life",
+    "note": "제품 Quadris Top(Azoxystrobin+Difenoconazole)의 기존 확보 문서(Syngenta UK 'QUADRIS' 단일성분 SDS)는 Difenoconazole이 반영되지 않아 불일치(이전과 동일 결론). Difenoconazole PubChem 참고값(Warning, 눈자극2A/H319, 발암성우려) 확보하여 기존 시트의 눈2B 근사값과 방향은 유사하나 정확한 제품등급 확정은 아님."
+  },
+  {
+    "row": 501,
+    "verdict": "재검토필요",
+    "signal_word": "Warning",
+    "h_codes": [
+      "H317",
+      "H400",
+      "H410"
+    ],
+    "cat_eye": null,
+    "cat_skin": null,
+    "cat_sens": "1",
+    "method": "curl 재다운로드 성공(메탄올 순물질 SDS 재확인, quinoxyfen 정보 없음) + PubChem 성분 참고값(Quinoxyfen)",
+    "evidence_quote": "Product Name Methanol ... Pure substance/mixture Substance",
+    "note": "재시도로 methanex 메탄올 단일물질 SDS 재확인, quinoxyfen 정보 없음(이전과 동일 결론). PubChem Quinoxyfen 참고값(Warning, 피부감작1/H317, 눈자극 분류 없음) 확보, 제품 Quinoxyfen Manufacturing Use Concentrate의 SDS는 아님."
+  },
+  {
+    "row": 502,
+    "verdict": "재검토필요",
+    "signal_word": "Warning",
+    "h_codes": [
+      "H400",
+      "H410",
+      "H413"
+    ],
+    "cat_eye": null,
+    "cat_skin": null,
+    "cat_sens": null,
+    "method": "PubChem 성분 참고값(Penoxsulam, Isoxaben) - 기존 향수 SDS 불일치 재확인",
+    "evidence_quote": "Warning H400: Very toxic to aquatic life H410: Very toxic to aquatic life with long lasting effects H413: May cause long lasting harmful effects to aquatic life",
+    "note": "제품 Amore DF(Penoxsulam+Isoxaben)의 기존 확보 문서(향수 모방품 'Compare To Paris Amour')는 완전히 무관한 제품으로 재확인(오염된 값, 이전과 동일 결론). 두 활성성분 PubChem 참고값 모두 수생환경유해성만 확인되고 눈·피부·감작 분류 전혀 없음. 기존 시트의 H316/H319/H317/H411 값은 근거 없는 오염값으로 판단됨."
+  },
+  {
+    "row": 512,
+    "verdict": "재검토필요",
+    "signal_word": "Warning",
+    "h_codes": [
+      "H302",
+      "H317",
+      "H332",
+      "H400",
+      "H410"
+    ],
+    "cat_eye": null,
+    "cat_skin": null,
+    "cat_sens": "1",
+    "method": "curl+pdftotext 재시도 성공(다른 제형의 Permethrin 제품 SDS 재확인, 함량 불일치) + PubChem 성분 참고값(Permethrin)",
+    "evidence_quote": "Product Name: RealityTM Termiticde/Insecticide EPA Registration No: 33658-33 ... Permethrin* 52645-53-1 38.3",
+    "note": "재시도로 동일 제조사(Gharda)의 다른 제형(Permethrin 38.3%, EPA Reg 33658-33)임을 재확인, 대상 제품 Reality 25(25%)와 불일치(이전과 동일 결론). PubChem Permethrin 참고값(Warning, 피부감작1/H317, 눈자극 분류 없음) 확보."
+  },
+  {
+    "row": 513,
+    "verdict": "재검토필요",
+    "signal_word": "Warning",
+    "h_codes": [
+      "H302",
+      "H400",
+      "H410"
+    ],
+    "cat_eye": null,
+    "cat_skin": null,
+    "cat_sens": null,
+    "method": "PubChem 성분 참고값(Cyhalofop-butyl, Penoxsulam) - 기존 네일화장품 SDS 불일치 재확인",
+    "evidence_quote": "Warning H302: Harmful if swallowed H400: Very toxic to aquatic life H410: Very toxic to aquatic life with long lasting effects",
+    "note": "제품 RebelEx(Cyhalofop-butyl+Penoxsulam)의 기존 확보 문서(네일 화장품 'Acryl-Rebel')는 완전히 무관한 제품(이전과 동일 결론). Cyhalofop-butyl PubChem 참고값은 눈·피부·감작 분류 없음. 기존 시트의 H319/H241/H315/H335 값은 화장품 원료(과산화벤조일 등) 오염값으로 판단됨."
+  },
+  {
+    "row": 514,
+    "verdict": "재검토필요",
+    "signal_word": "Danger",
+    "h_codes": [
+      "H227",
+      "H301",
+      "H311",
+      "H317",
+      "H318",
+      "H330",
+      "H372",
+      "H400",
+      "H410"
+    ],
+    "cat_eye": "1",
+    "cat_skin": null,
+    "cat_sens": "1",
+    "method": "curl 재다운로드 성공(동일 유효성분 Fipronil의 다른 제형 'Regent 4SC' 정식 GHS SDS 확보, 제품명/제형 상이)",
+    "evidence_quote": "Signal Word: Danger Hazard Statement: H227 Combustible liquid. H318 Causes serious eye damage. H330 Fatal if inhaled. H317 May cause an allergic skin reaction.",
+    "note": "재시도로 BASF 'Regent 4SC Insecticide'(Fipronil, EPA Reg 7969-207) 정식 GHS SDS 확보. 대상 제품 'Regent 500TS'와 제형(4SC vs 500TS)·등록번호가 달라 완전한 제품 일치는 아니나, 동일 활성성분(Fipronil) 계열 제품의 참고 GHS 데이터(눈손상1/H318, 피부감작1/H317, Danger)로 유용. 제품 500TS 자체 확정은 보류."
+  },
+  {
+    "row": 521,
+    "verdict": "재검토필요",
+    "signal_word": "Danger",
+    "h_codes": [
+      "H302",
+      "H318",
+      "H317",
+      "H351",
+      "H360D",
+      "H373",
+      "H400",
+      "H410"
+    ],
+    "cat_eye": "1",
+    "cat_skin": null,
+    "cat_sens": "1",
+    "method": "기존 로컬 Metalaxyl-M 순물질 SDS + PubChem 성분 참고값(Mancozeb) 추가",
+    "evidence_quote": "Danger H317: May cause an allergic skin reaction [Warning Sensitization, Skin] H351: Suspected of causing cancer H360D: May damage the unborn child",
+    "note": "제품 Ridomil Gold MZ WG(Metalaxyl-M+Mancozeb)의 Metalaxyl-M 부분은 기존 Sigma-Aldrich 순물질 SDS(Danger, H302/H318 눈손상1)로 확보됨. 이번에 Mancozeb PubChem 참고값(Danger, 피부감작1/H317, 발암성/생식독성우려) 추가 확보. 메모에 따르면 Syngenta 공식 제품 라벨상 신호어는 'Caution'/중등도 눈자극으로 이 두 원료의 Danger 등급과 상충되어 제품 수준 확정 불가."
+  },
+  {
+    "row": 523,
+    "verdict": "재검토필요",
+    "signal_word": "Danger",
+    "h_codes": [
+      "H300",
+      "H301",
+      "H330",
+      "H361d",
+      "H372",
+      "H400",
+      "H410"
+    ],
+    "cat_eye": null,
+    "cat_skin": null,
+    "cat_sens": null,
+    "method": "PubChem 성분 참고값(Abamectin, Imidacloprid) - 기존 'Lucid' 제품 SDS 불일치 재확인",
+    "evidence_quote": "Danger H300: Fatal if swallowed H330: Fatal if inhaled H361d: Suspected of damaging the unborn child H372: Causes damage to organs through prolonged or repeated exposure",
+    "note": "제품 Rotam 2F Ornamental Insecticide(Abamectin+Imidacloprid)의 기존 확보 문서('Lucid Ornamental Miticide/Insecticide')는 제품명이 다르고 Imidacloprid 성분이 없어 불일치(이전과 동일 결론). 두 활성성분 PubChem 참고값 모두 확보(급성독성 위주, 눈·피부자극 분류 없음)했으나 제품 SDS 아님."
+  },
+  {
+    "row": 533,
+    "verdict": "재검토필요",
+    "signal_word": "Warning",
+    "h_codes": [
+      "H317",
+      "H361d",
+      "H373",
+      "H400",
+      "H410"
+    ],
+    "cat_eye": null,
+    "cat_skin": null,
+    "cat_sens": "1",
+    "method": "기존 로컬 S-Metolachlor 순물질 SDS + PubChem 성분 참고값(Mesotrione) 추가",
+    "evidence_quote": "Warning H361d: Suspected of damaging the unborn child H373: May causes damage to organs through prolonged or repeated exposure H400: Very toxic to aquatic life H410: Very toxic to aquatic life with long lasting effects",
+    "note": "제품 'S-Metolachlor & Mesotrione' 혼합제의 S-Metolachlor 부분은 기존 Chemos GmbH 순물질 SDS(Warning, 피부감작1/H317)로 확보됨. 이번에 Mesotrione PubChem 참고값(Warning, 생식독성우려/H361d, 눈·피부분류 없음) 추가 확보. 혼합물 전체 등급은 제품 SDS 없이 확정 불가."
+  },
+  {
+    "row": 536,
+    "verdict": "재검토필요",
+    "signal_word": "Warning",
+    "h_codes": [
+      "H315"
+    ],
+    "cat_eye": null,
+    "cat_skin": "2",
+    "cat_sens": null,
+    "method": "기존 로컬 Woodstream 제품 SDS(다른 SKU, Sulfur 성분 없음) + PubChem 성분 참고값(Sulfur)",
+    "evidence_quote": "Warning H315: Causes skin irritation [Warning Skin corrosion/irritation]",
+    "note": "제품 Safer Brand 3-in-1 Concentrate(Oil of clove+Cottonseed oil+Sulfur)의 기존 확보 문서(Woodstream 'Safer Brand Home Outdoor Pest Control')는 Sulfur 성분이 빠진 다른 SKU로 재확인(이전과 동일 결론). Sulfur PubChem 참고값(Warning, 피부자극2/H315, 눈자극 분류 없음) 추가 확보했으나 제품 SDS 아님."
+  },
+  {
+    "row": 538,
+    "verdict": "재검토필요",
+    "signal_word": "Warning",
+    "h_codes": [
+      "H315"
+    ],
+    "cat_eye": null,
+    "cat_skin": "2",
+    "cat_sens": null,
+    "method": "기존 로컬 Schultz Garden Safe 제품 SDS(다른 브랜드, 비유해 명시, Sulfur 성분 없음) + PubChem 성분 참고값(Sulfur)",
+    "evidence_quote": "Health Hazard(s) Not classified as a health hazard",
+    "note": "제품 Safer Garden Fungicide Ready to Use(Neem Oil+Sulfur)의 기존 확보 문서(Schultz 'Garden Safe Brand Fungicide3')는 브랜드·제조사·성분(Sulfur 누락)이 다른 별개 제품으로 재확인(이전과 동일 결론). 해당 문서가 유사한 저농도 RTU 제형에서 '비유해'로 명시한 점, Sulfur 자체도 PubChem상 경미한 피부자극(2/H315)만 있고 눈자극 분류가 없는 점은 참고 가능하나 제품 SDS 자체는 미확보."
+  },
+  {
+    "row": 545,
+    "verdict": "재검토필요",
+    "signal_word": "Danger",
+    "h_codes": [
+      "H301",
+      "H312",
+      "H330",
+      "H400",
+      "H410"
+    ],
+    "cat_eye": null,
+    "cat_skin": null,
+    "cat_sens": null,
+    "method": "기존 로컬 Syngenta SCIMITAR CS 구형 MSDS(제형 상이, GHS섹션 없음) + PubChem 성분 참고값(Lambda-Cyhalothrin)",
+    "evidence_quote": "Product Name: SCIMITAR CS ... EPA Signal Word: Caution",
+    "note": "제품 Scimitar GR Insecticide(과립형)와 기존 확보 문서(Syngenta 'SCIMITAR CS' 액상 제형)는 제형이 다르고 GHS 분류섹션 자체가 없는 구형 문서(EPA Signal Word Caution만 존재)로 여전히 확정 불가(이전과 동일 결론). Lambda-Cyhalothrin PubChem 참고값(Danger, H301/H312/H330/H400/H410, 눈·피부자극 GHS코드 없음) 추가 확보했으나 제품 SDS 아님."
+  },
+  {
+    "row": 548,
+    "verdict": "검증완료",
+    "signal_word": "Warning",
+    "h_codes": [
+      "H351",
+      "H400",
+      "H410",
+      "H411"
+    ],
+    "cat_eye": "Not classified",
+    "cat_skin": null,
+    "cat_sens": null,
+    "method": "PubChem pug_view API 직접 조회(Sedaxane CID 11688533) - 제품명=성분명 순물질 일치",
+    "evidence_quote": "Warning H351 (76.7%): Suspected of causing cancer H400 (99.4%): Very toxic to aquatic life H411 (76.7%): Toxic to aquatic life with long lasting effects",
+    "note": "행의 제품명과 성분명이 모두 'Sedaxane'으로 순물질 자체이며(제품=순물질), PubChem 공식 GHS 분류를 제품값으로 채택. 눈·피부·감작 관련 H코드(H314/315/317/318/319)가 전혀 없어 해당 항목은 비분류(Not classified)로 확인됨. 기존 로컬 PDF(5종 혼합 완제품 Warden Cereals WRII)는 혼합물 전체값이라 순물질과 무관하여 참고하지 않음."
+  },
+  {
+    "row": 550,
+    "verdict": "재검토필요",
+    "signal_word": "Caution",
+    "h_codes": null,
+    "cat_eye": null,
+    "cat_skin": null,
+    "cat_sens": null,
+    "method": "curl 재다운로드 성공(web.archive.org, WebFetch는 차단되었으나 curl은 성공, 제품명 정확히 일치)",
+    "evidence_quote": "Product Name: Senator (TM) 600 FS ... Eye Contact: Mildly irritating based on toxicity studies. Skin Contact: Minimally toxic and slightly irritating based on toxicity studies.",
+    "note": "web.archive.org 아카이브 문서를 curl로 성공적으로 다운로드, 제품명(Senator 600FS)·EPA등록번호(228-522)·성분(Imidacloprid 48.7%+Glycerin)이 정확히 일치하는 진짜 제품 문서 확보. 다만 2007년 작성된 GHS 이전(pre-GHS) 구형 MSDS로 신호어 체계가 EPA 'CAUTION'이며 H코드/눈·피부 GHS 카테고리 자체가 없음(정성적 서술만 존재). GHS 분류 섹션 부재로 눈·피부 구분 확정 불가."
+  },
+  {
+    "row": 557,
+    "verdict": "재검토필요",
+    "signal_word": "Caution",
+    "h_codes": null,
+    "cat_eye": null,
+    "cat_skin": null,
+    "cat_sens": null,
+    "method": "curl 재다운로드 성공(agrian.com→s3 리다이렉트 PDF 정상 추출, 제품명 정확히 일치)",
+    "evidence_quote": "PRODUCT NAME: Shooter(TM) Insecticide EPA REGISTRATION NUMBER(S): 66330-390 ... CAUTION: HARMFUL IF SWALLOWED MAY CAUSE MODERATE EYE IRRITATION",
+    "note": "재시도로 정상 텍스트 추출 성공. 제품명·EPA등록번호(66330-390)가 대상 행과 정확히 일치하는 진짜 제품 MSDS 확보(단, Section2 성분표는 Deltamethrin+Geraniol+Thyme Oil만 나열되어 ingredient_names의 'Propane/n-Butane' 추진제가 명시되지 않아 SKU 차이 가능성 있음). 2009년 작성된 GHS 이전 구형 MSDS로 EPA 'CAUTION' 신호어와 정성적 서술만 있고 GHS H코드/카테고리 자체가 없어 눈·피부 구분 확정 불가."
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "source_id": "486166a25a3a5f01",
+  "file_path": "ingredient_source_audit/highlighted/486166a25a3a5f01_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 17181,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_15",
+    "section_3",
+    "section_14"
+  ],
+  "section_1": {
+    "product_name": "Product Identifier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. IDENTIFICATION  \nProduct Identifier  \nProduct Name  \nKlean-Pik 500SC  \nOther means of identification  \nSDS #  \nADAMA-055  \nRegistration Number(s)  \nEPA Reg. No. 66222-124   \nRecommended use of the chemical and restrictions on use  \nRecommended Use  \nEPA registered pesticide.   \nDetails of the sup"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION  \nThis chemical is a product registered by the Environmental Protection Agency and is subject to certain labeling requirements under \nfederal law. These requirements differ from the classification criteria and hazard information required for safety data sheets, and \nfor wor"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

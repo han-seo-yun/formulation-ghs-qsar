@@ -1,0 +1,56 @@
+{
+  "source_id": "18623e21ef4f7578",
+  "file_path": "ingredient_source_audit/highlighted/18623e21ef4f7578_highlighted.pdf",
+  "page_count": 9,
+  "full_text_length": 25338,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product identifier",
+    "formulation_code": "EC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification of the substance/mixture and of the company/undertaking\n1.1.\nProduct identifier\nProduct form\n: Substance\nSubstance name\n: Amitraz 98%min Technical\nChemical name\n: amitraz (ISO), N,N-bis(2,4-xylyliminomethyl) methylamine\nEC Index-No.\n: 612-086-00-2\nEC-No.\n: 251-375-4\nCAS-No."
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H302",
+      "H315",
+      "H317",
+      "H340",
+      "H350",
+      "H335",
+      "H373",
+      "H400",
+      "H410"
+    ],
+    "p_codes": [
+      "P201",
+      "P260",
+      "P280",
+      "P308",
+      "P313",
+      "P333",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Skin corrosion",
+      "Carcinogenicity"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 5,
+    "text_excerpt": "SECTION 2: Hazards identification\n2.1.\nClassification of the substance or mixture\nClassification according to Regulation (EC) No. 1272/2008 [CLP]Mixtures/Substances: SDS EU 2015: According to Regulation (EU)\n2015/830 (REACH Annex II)\nAcute toxicity (oral), Category 4\nH302\nSkin corrosion/irritation, "
+  },
+  "section_14": {
+    "un_number": "3077"
+  }
+}

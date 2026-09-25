@@ -1,0 +1,35 @@
+{
+  "source_id": "e155bfa6c5a709c6",
+  "file_path": "ingredient_source_audit/highlighted/e155bfa6c5a709c6_highlighted.pdf",
+  "page_count": 9,
+  "full_text_length": 23677,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_15",
+    "section_3",
+    "section_14"
+  ],
+  "section_1": {
+    "product_name": "MANUFACTURER/DISTRIBUTOR",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. IDENTIFICATION: CHEMICAL PRODUCT AND COMPANY \nMANUFACTURER/DISTRIBUTOR \nVALENT U.S.A. LLC \nP.O. Box 5075 \n4600 Norris Canyon Road \nSan Ramon, CA 94583 \nEMERGENCY TELEPHONE NUMBERS \nHEALTH EMERGENCY (24 hr): \n(800) 892-0099 \nTRANSPORTATION (24 hr.): \nUS Transportation: CHEMTREC (800) 424-9300 \nInt"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION \nCategory 4 \nAcute toxicity - Inhalation (Dusts/Mists) \n \n \nPRODUCT NAME: \nTetraSan® 5 WDG \nVC NUMBER(S): \n1272, 1939, 1940; 2250 \nSYNONYM(S): \nS-1283 5 WDG; V-1283 5 WDG \nEPA REGISTRATION NUMBER: 59639-108 \n \nTetraSan is a trademark of Valent U.S.A. LLC \n \n \n \nThe current "
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

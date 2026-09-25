@@ -1,0 +1,35 @@
+{
+  "source_id": "0f43f32f44c299c0",
+  "file_path": "ingredient_source_audit/highlighted/0f43f32f44c299c0_highlighted.pdf",
+  "page_count": 25,
+  "full_text_length": 49033,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "PRODUCT NAME: dK1 Isothiazoline Test Reagent",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: PRODUCT AND COMPANY IDENTIFICATION\nPRODUCT NAME: dK1 Isothiazoline Test Reagent\nSYNONYMS:       \nPRODUCT CODES:       \nMANUFACTURER:  \n  Orbeco-Hellige, Inc.  \nDIVISION:        \nUSA       \nADDRESS:        \n   6456 Parkland Dr. Sarasota, FL 34243-4036\nPHONE:       \n  941.756.6410 \nFAX PHON"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "SECTION 2: "
+  },
+  "section_14": {
+    "un_number": "1824"
+  }
+}

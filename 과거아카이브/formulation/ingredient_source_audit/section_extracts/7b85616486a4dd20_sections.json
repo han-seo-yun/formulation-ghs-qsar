@@ -1,0 +1,35 @@
+{
+  "source_id": "7b85616486a4dd20",
+  "file_path": "ingredient_source_audit/highlighted/7b85616486a4dd20_highlighted.pdf",
+  "page_count": 7,
+  "full_text_length": 14175,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product Name",
+    "formulation_code": "CS",
+    "epa_reg_number": "264-804",
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": "EPA",
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1. CHEMICAL PRODUCT AND COMPANY INFORMATION \n \nProduct Name \nACCRUE Fungicide \nChemical Name \n8-(1,1-Dimethylethyl)-N-ethyl-N-propyl-1,4-dioxaspiro[4,5]decane-2-\nmethanamine \nCommon Name \nSpiroxamine 300 CS \nMSDS Number \n2064 \nChemical Family \n \nChemical Formulation \n  \nEPA Registration No. "
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "SECTION 2. "
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

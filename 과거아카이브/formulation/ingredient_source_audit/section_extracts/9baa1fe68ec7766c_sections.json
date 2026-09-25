@@ -1,0 +1,35 @@
+{
+  "source_id": "9baa1fe68ec7766c",
+  "file_path": "ingredient_source_audit/highlighted/9baa1fe68ec7766c_highlighted.pdf",
+  "page_count": 10,
+  "full_text_length": 18257,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "COMPANY/UNDERTAKING",
+    "formulation_code": null,
+    "epa_reg_number": "264-748",
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": "EPA",
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: IDENTIFICATION OF THE SUBSTANCE/MIXTURE AND OF THE \nCOMPANY/UNDERTAKING \n \nProduct identifier \n \nTrade name \nFOLICUR® TECHNICAL FUNGICIDE \n \nProduct code (UVP) \n04069382 \n \nSDS Number \n102000006666 \n \nEPA Registration No. \n264-748 \nRelevant identified uses of the substance or mixture and "
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2: HAZARDS IDENTIFICATION \n \nClassification in accordance with regulation HCS 29CFR §1910.1200 \nAcute toxicity(Oral): Category 4 \nReproductive toxicity: Category 2 \nCombustible dust \n \nLabelling in accordance with regulation HCS 29CFR §1910.1200 \n \n \n \n \nSignal word: Warning \n \nHazard statem"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

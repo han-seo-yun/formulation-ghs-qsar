@@ -1,0 +1,55 @@
+{
+  "source_id": "9001bea5839df0c9",
+  "file_path": "ingredient_source_audit/highlighted/9001bea5839df0c9_highlighted.pdf",
+  "page_count": 23,
+  "full_text_length": 44599,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "company/undertaking",
+    "formulation_code": "EC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": "01-2120118332-70-0017",
+    "registration_type": "REACH",
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification of the substance/mixture and of the \ncompany/undertaking\n1.1\nProduct identifier\nIdentification of the substance\nOil of cubeb natural\nArticle number\n6608\nRegistration number (REACH)\n01-2120118332-70-0017\nEC number\n943-438-6\nCAS number\n90063-59-5\n1.2\nRelevant identified uses "
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H315",
+      "H319",
+      "H317",
+      "H304",
+      "H411"
+    ],
+    "p_codes": [
+      "P280",
+      "P301",
+      "P310",
+      "P302",
+      "P352",
+      "P305",
+      "P351",
+      "P338"
+    ],
+    "ghs_classes": [
+      "Skin corrosion",
+      "Eye Irrit. 2",
+      "Skin Sens. 1",
+      "Aquatic Chronic 2"
+    ],
+    "environmental_hazard": "aquatic_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2: Hazards identification\n2.1\nClassification of the substance or mixture\nClassification according to Regulation (EC) No 1272/2008 (CLP)\nSection\nHazard class\nCat-\negory\nHazard class and \ncategory\nHazard \nstatement\n3.2\nSkin corrosion/irritation\n2\nSkin Irrit. 2\nH315\n3.3\nSerious eye damage/eye i"
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "source_id": "ff0ebd75d0a64547",
+  "file_path": "ingredient_source_audit/highlighted/ff0ebd75d0a64547_highlighted.pdf",
+  "page_count": 22,
+  "full_text_length": 39260,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product name",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: IDENTIFICATION\nProduct name \n: \nTEMPO RESIDUAL INSECTICIDE \n \nProduct code \n \n: \nArticle/SKU: 88584163; 85807331 UVP: 05130336 Specifica-\ntion: 102000007438 \n \nManufacturer or supplier's details \nCompany \n \n: \n2022 Environmental Science AU Pty Ltd \nABN 49 656 513 923 \n \nAddress \n \n: \nSuit"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H302",
+      "H350",
+      "H362"
+    ],
+    "p_codes": [
+      "P201",
+      "P202",
+      "P263",
+      "P264",
+      "P270",
+      "P280",
+      "P301",
+      "P312",
+      "P330",
+      "P308",
+      "P313",
+      "P405",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Carcinogenicity"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 5,
+    "text_excerpt": "SECTION 2. HAZARDS IDENTIFICATION \nGHS Classification \nAcute toxicity (Oral) \n \n: \nCategory 4 \nCarcinogenicity \n \n: \nCategory 1B \nEffects on or via lactation \n \n \n \nGHS label elements \nHazard pictograms \n \n:  \n \n \n \n \n \n \n \n \n \n \nSignal word \n \n: \nDanger \n \nHazard statements \n \n: \nH302 Harmful if sw"
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

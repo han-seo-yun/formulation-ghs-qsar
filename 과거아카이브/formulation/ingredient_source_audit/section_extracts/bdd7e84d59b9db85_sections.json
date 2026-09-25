@@ -1,0 +1,35 @@
+{
+  "source_id": "bdd7e84d59b9db85",
+  "file_path": "ingredient_source_audit/highlighted/bdd7e84d59b9db85_highlighted.pdf",
+  "page_count": 7,
+  "full_text_length": 13296,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product Identification",
+    "formulation_code": "EC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification of the substance/mixture and of the company/undertaking \n \n1.1 \nProduct Identification \n \nProduct Name \nPERILLA SEED OIL, COLD PRESSED \nBiological Definition \nPERILLA OCYMOIDES SEED OIL IS A FIXED OIL OBTAINED FROM THE PERILLA SEED \nINCI Name \nPERILLA OCYMOIDES SEED OIL \nSy"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "SECTION 2: Hazards Identification \n \n2.1 \nClassification of the substance or mixture \n \nClassification (67/548/EEC) \nThis product is not dangerous according to REACH Regulation 2020/878. \nClassification (EU1272/2008) \nThis product does not belong to any list of substances supposedly hazardous to hum"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "source_id": "17da382f7c9090ef",
+  "file_path": "ingredient_source_audit/highlighted/17da382f7c9090ef_highlighted.pdf",
+  "page_count": 4,
+  "full_text_length": 9754,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product identifier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification of the substance/mixture and of the company/undertaking \n \n1.1. \nProduct identifier \nProduct name \n: Bonide Captain Jack’s Deadbug Brew Ready to Use \nProduct code \n: 4472 \n \n1.2. \nRelevant identified uses of the substance or mixture and uses advised against \nUse of the subs"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "SECTION 2: Hazards identification \n \n2.1. \nClassification of the substance or mixture \nClassification (GHS-US) \nNot classified \n \n2.2. \nLabel elements \nGHS-US labeling \nNo labeling applicable \n \n2.3. \nOther hazards \nNo additional information available \n"
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"cd /tmp/hz/_workspace/2026-09-14-001 && python3 - <<'PY'\\nimport re, pathlib\\nsrc = pathlib.Path(\\\"final.md\\\").read_text(encoding=\\\"utf-8\\\")\\nsrc = re.split(r\\\"\\\\n*<!-- HUMANIZE-SUMMARY --...",
+  "error": "Exit code 1\nTraceback (most recent call last):\n  File \"<stdin>\", line 13, in <module>\nAssertionError: 수치 집합 불일치",
+  "timestamp": "2026-09-14T13:31:38.877Z",
+  "retry_count": 1
+}

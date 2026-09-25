@@ -1,0 +1,112 @@
+[
+ {
+  "row": 1376,
+  "fid": "MIX7",
+  "product_name": "241-GOL Acrobat MZ WDG Fungicide",
+  "ingredient_names": "| Dimethomorph | Mancozeb",
+  "hint_tox_url": "https://www.rfdsafeagri.com/wp-content/uploads/2019/10/Acrobat.pdf",
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/0c22b97aa385a2ea_highlighted.pdf",
+  "prev_fail_memo": "",
+  "n_smiles": 2
+ },
+ {
+  "row": 1380,
+  "fid": "MIX702",
+  "product_name": "NUP-12004 Herbicide",
+  "ingredient_names": "Ethylene sulfite (Glycol sulfite) | Pyraflufen-ethyl | 2,4-D-2-ethylhexyl",
+  "hint_tox_url": "https://pim-resources.coleparmer.com/sds/37480.pdf",
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "검색 도구가 이 세션에서 정상 작동하지 않아(모든 검색엔진이 질의와 무관한 결과만 반환) SDS를 찾지 못함. NUP-12004는 Nufarm 내부 개발코드로 보이며 공개 SDS 검색 결과 없음.",
+  "n_smiles": 2
+ },
+ {
+  "row": 1381,
+  "fid": "MIX703",
+  "product_name": "Norm 1",
+  "ingredient_names": "| Metofluthrin",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "Metofluthrin 단일 성분 제품 SDS 검색 실패 (Metofluthrin+Clothianidin+PBO 복합제 \"Crossfire\" 등만 확인되어 성분 불일치로 사용 안함)",
+  "n_smiles": 1
+ },
+ {
+  "row": 1384,
+  "fid": "MIX706",
+  "product_name": "Safari 2 G Insecticide",
+  "ingredient_names": "| Dinotefuran",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/fbcb2b66abf8a46d_highlighted.pdf",
+  "prev_fail_memo": "Valent 공식 사이트 하위페이지 접근 차단(403), 검색엔진도 무관한 결과만 반환되어 SDS 확인 못함",
+  "n_smiles": 1
+ },
+ {
+  "row": 1386,
+  "fid": "MIX708",
+  "product_name": "Safer Brand Garden Fungicide RTU II",
+  "ingredient_names": "| Sulfur, precipitated",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/a11cb779f8ee7b47_highlighted.pdf",
+  "prev_fail_memo": "",
+  "n_smiles": 1
+ },
+ {
+  "row": 1387,
+  "fid": "MIX709",
+  "product_name": "Safer Garden Fungicide Ready to Use",
+  "ingredient_names": "| Sulfur, precipitated",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/a11cb779f8ee7b47_highlighted.pdf",
+  "prev_fail_memo": "피부자극/피부감작성은 SDS상 정성적 판정만 존재하고 구체적 GHS 코드는 확인 불가(웹 재검증 실패, 기존 로컬 SDS 감사값 사용)",
+  "n_smiles": 1
+ },
+ {
+  "row": 1390,
+  "fid": "MIX711",
+  "product_name": "Shelter Island Plus - White",
+  "ingredient_names": "Acetic Acid | Tralopyril | Pyrithione zinc",
+  "hint_tox_url": "https://corecheminc.com/wp-content/uploads/2025/11/Acetic-Acid-56-CORECHEM-INC.-SDS-7.5.2023.pdf",
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/db5454d3af76146c_highlighted.pdf",
+  "prev_fail_memo": "제공된 tox_source_url은 Acetic Acid 56% 단일물질 SDS(CORECHEM Inc.)로 Tralopyril/Pyrithione zinc 미포함, 성분 불일치. doc_rel의 로컬 하이라이트 PDF는 전혀 다른 제품(Borden \"AcTivator\"/\"AcTivator Winterized\", 오일웰 프로판트 컨솔리데이션제)의 MSDS로 완전 무관. 실제 Shelter Island Plus White 방오도료 제조사/SDS를 다각도로 검색했으나 찾지 못함",
+  "n_smiles": 3
+ },
+ {
+  "row": 1400,
+  "fid": "MIX720",
+  "product_name": "Willowed Ethofumesate",
+  "ingredient_names": "| Ethofumesate",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "Willowood USA(現 FBN)의 제네릭 제품으로 추정되나 SDS 못 찾음",
+  "n_smiles": 1
+ },
+ {
+  "row": 1403,
+  "fid": "MIX742",
+  "product_name": "Apogee",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "ingredient_names 필드에 SDS 섹션 라벨(\"Composition Comments\" 등) 텍스트가 섞여 있음; 유효 SDS 못 찾음",
+  "n_smiles": 0
+ },
+ {
+  "row": 1407,
+  "fid": "MIX748",
+  "product_name": "DuPont Rynaxypyr",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "성분표(chlorantraniliprole 2.5-10%, 주석산 >=20%, 탄산나트륨, 탈크)와 정확히 일치하는 SDS를 찾지 못함; 관련 제품인 'DuPont Rynaxypyr Technical'(EPA 352-728, chlorantraniliprole 95.3%)과 'Prevathon'(5%)은 확인되었으나 조성이 달라 매칭 안됨",
+  "n_smiles": 0
+ }
+]

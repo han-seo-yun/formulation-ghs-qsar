@@ -1,0 +1,112 @@
+[
+ {
+  "row": 1334,
+  "fid": "MIX661",
+  "product_name": "Accent Q Herbicide",
+  "ingredient_names": "| Nicosulfuron",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/9962c8206af8c05f_highlighted.pdf",
+  "prev_fail_memo": "",
+  "n_smiles": 1
+ },
+ {
+  "row": 1339,
+  "fid": "MIX666",
+  "product_name": "Bifenthrin 0.073 Insecticide with X-X-X Fertilizer",
+  "ingredient_names": "Bifenthrin",
+  "hint_tox_url": "https://assets.greenbook.net/M103774.pdf",
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "정식 SDS 못찾음(검색엔진 접근 제한); EPA 등록정보(pomerix, EPA Reg 70506-126, UPL NA Inc, Bifenthrin 0.07%)만 확인, 신호어 Caution(FIFRA 라벨 기준)이며 GHS Section11 독성코드 자료 없음",
+  "n_smiles": 1
+ },
+ {
+  "row": 1340,
+  "fid": "MIX667",
+  "product_name": "Bifenthrin 0.073 RU Insecticide with X-X-X Fertilizer",
+  "ingredient_names": "Bifenthrin",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "정식 SDS 못찾음(검색엔진 접근 제한); EPA 등록정보(pomerix, EPA Reg 70506-127, UPL NA Inc, Bifenthrin 0.07%)만 확인, 신호어 Caution(FIFRA 라벨 기준)이며 GHS Section11 독성코드 자료 없음",
+  "n_smiles": 1
+ },
+ {
+  "row": 1341,
+  "fid": "MIX668",
+  "product_name": "Bifenthrin 0.083 Insecticide with X-X-X Fertilizer",
+  "ingredient_names": "Bifenthrin",
+  "hint_tox_url": "https://www.genfarm.com.au/sites/genfarm/files/2018-09/documents/Genfarm%20Bifenthrin%20100%20Miticide%3AInsecticide%20SDS.pdf",
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "정식 GHS SDS 없음; EPA 제품 라벨(United Phosphorus Inc, EPA Reg 70506-125) 원문 확인함 - 신호어 CAUTION, '경피 흡수 시 유해' 문구만 있고 GHS H코드/LD50 등 Section11 상당 정보 없음",
+  "n_smiles": 1
+ },
+ {
+  "row": 1342,
+  "fid": "MIX669",
+  "product_name": "Bifenthrin 0.069 Insecticide With X-X-X Fertilizer",
+  "ingredient_names": "| Bifenthrin",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "SDS 못 찾음, 제조사 특정 불가 (범용 비료+살충제 혼합제품)",
+  "n_smiles": 1
+ },
+ {
+  "row": 1359,
+  "fid": "MIX684",
+  "product_name": "Chemsico Pesticide Concentrate WI-S",
+  "ingredient_names": "Acetic Acid | 2,4-D-dimethylammonium | Dicamba-dimethylammonium | Mecoprop-dimethylammonium | gamma-Cyhalothrin",
+  "hint_tox_url": "https://corecheminc.com/wp-content/uploads/2025/11/Acetic-Acid-56-CORECHEM-INC.-SDS-7.5.2023.pdf",
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/db5454d3af76146c_highlighted.pdf",
+  "prev_fail_memo": "검색엔진 접근 차단으로 제품별 SDS 확인 못함",
+  "n_smiles": 5
+ },
+ {
+  "row": 1360,
+  "fid": "MIX685",
+  "product_name": "Chemsico Pesticide Granules WI-S",
+  "ingredient_names": "Acetic Acid | 2,4-D-dimethylammonium | Dicamba-dimethylammonium | Mecoprop-dimethylammonium | gamma-Cyhalothrin",
+  "hint_tox_url": "https://corecheminc.com/wp-content/uploads/2025/11/Acetic-Acid-56-CORECHEM-INC.-SDS-7.5.2023.pdf",
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/db5454d3af76146c_highlighted.pdf",
+  "prev_fail_memo": "검색엔진 접근 차단으로 제품별 SDS 확인 못함",
+  "n_smiles": 5
+ },
+ {
+  "row": 1363,
+  "fid": "MIX688",
+  "product_name": "EH-1480 Herbicide",
+  "ingredient_names": "| 2,4-D-dimethylammonium | Dicamba-dimethylammonium | Quinclorac | Dithiopyr",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/5fd6dcca038e5f26_highlighted.pdf",
+  "prev_fail_memo": "성분목록에 무관한 제품들(식기세척기 살균제, 차아염소산나트륨 용액, 비료+제초제 혼합상품 등)이 뒤섞여 있어 데이터 병합 오류로 추정됨. 매칭 SDS 못 찾음",
+  "n_smiles": 4
+ },
+ {
+  "row": 1370,
+  "fid": "MIX694",
+  "product_name": "Glyphosphate 62% IPA Salt",
+  "ingredient_names": "Roundup",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "ingredient_names 필드에 실제 화학성분이 아닌 브랜드명 'Roundup'이 기재되어 있어 제품명(글리포세이트 62% IPA염)과 불일치. Roundup은 통상 41% IPA염 제품이라 62% 제품과도 농도가 다름. 정확한 대체 SDS는 검색 제한으로 찾지 못함",
+  "n_smiles": 1
+ },
+ {
+  "row": 1374,
+  "fid": "MIX698",
+  "product_name": "Insecticide TD Granule",
+  "ingredient_names": "Imidacloprid | Clothianidin",
+  "hint_tox_url": "https://www.chemicalbook.com/msds/Imidacloprid.pdf",
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "성분 불일치: 실제 등록제품(EPA 92564-49, SBM Life Science)은 Imidacloprid 0.55%+Clothianidin 0.275%만 함유, Bifenthrin 없음. 여러 라벨(2011~2019년판) 확인해도 동일, 대체 3성분 제품 못 찾음.",
+  "n_smiles": 2
+ }
+]

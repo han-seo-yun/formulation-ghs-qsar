@@ -1,0 +1,35 @@
+{
+  "source_id": "6881dcafa2899dad",
+  "file_path": "ingredient_source_audit/highlighted/6881dcafa2899dad_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 19658,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Formulator:",
+    "formulation_code": null,
+    "epa_reg_number": "10163-6414",
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": "EPA",
+    "active_ingredient_declared": true,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION \n \nFormulator: \nGowan Company \nP.O. Box 5569 \nYuma, Arizona  85366-5569 \n(800) 883-1844 \nEmergency Phone: \nFor 24-Hour Emergency  \nAssistance (Spill, Leak, Fire, or \nExposure), Call CHEMTREC®: \n \nFor Medical Emergency: \n(928) 783-3803 \n \n \nInside the U.S.: (800) 42"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION \n \nEmergency Overview: \nThis product is a brown granule with a sulfur-like odor. Contact may cause eye irritation with corneal injury and/or skin \nirritation.  \n \nPotential Health Effects: \nEyes: Contact may cause moderate eye irritation with corneal injury. \nSkin contact: "
+  },
+  "section_14": {
+    "un_number": "3077"
+  }
+}

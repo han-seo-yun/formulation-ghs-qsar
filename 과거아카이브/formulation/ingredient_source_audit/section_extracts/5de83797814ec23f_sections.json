@@ -1,0 +1,56 @@
+{
+  "source_id": "5de83797814ec23f",
+  "file_path": "ingredient_source_audit/highlighted/5de83797814ec23f_highlighted.pdf",
+  "page_count": 10,
+  "full_text_length": 27428,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "COMPANY/UNDERTAKING.",
+    "formulation_code": "EC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: IDENTIFICATION OF THE SUBSTANCE/MIXTURE AND OF THE \nCOMPANY/UNDERTAKING. \n \n1.1 Product identifier. \n \nProduct Name: \nBITTER FENNEL ESSENTIAL OIL \nProduct Code: \n0014 \nChemical Name: \nFennel oil, bitter \nBotanical Name: \nFoeniculum vulgare Mill. var. amara \nINCI Name: \nFoeniculum vulgare "
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H304",
+      "H315",
+      "H317",
+      "H341",
+      "H351",
+      "H410"
+    ],
+    "p_codes": [
+      "P201",
+      "P261",
+      "P273",
+      "P280",
+      "P301",
+      "P310",
+      "P331",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Aquatic Acute 1",
+      "Aquatic Chronic 1",
+      "Carc. 2",
+      "Skin Sens. 1"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 5,
+    "text_excerpt": "SECTION 2: HAZARDS IDENTIFICATION. \n \n2.1 Classification of the substance or mixture. \nIn accordance with Regulation (EU)  No 1272/2008: \nAquatic Acute 1 : Very toxic to aquatic life. \nAquatic Chronic 1 : Very toxic to aquatic life with long lasting effects. \nAsp. Tox. 1 : May be fatal if swallowed "
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

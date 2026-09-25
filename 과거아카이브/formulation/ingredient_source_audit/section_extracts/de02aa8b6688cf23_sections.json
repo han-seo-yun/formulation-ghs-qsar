@@ -1,0 +1,21 @@
+{
+  "source_id": "de02aa8b6688cf23",
+  "file_path": "ingredient_source_audit/highlighted/de02aa8b6688cf23_highlighted.pdf",
+  "page_count": 297,
+  "full_text_length": 523232,
+  "sections_found": [
+    "section_2"
+  ],
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Carcinog",
+      "Carcinogenic"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "Hazard identification: Diesel 68476-34-6 at http://www.ctc-phaseout.org/metalad.html  Accessed on 9-12-08.\nIPCS.  Diesel fuel and eshaust emissions: World Health Organization - International Programme on Chemical Safety; 1996; p. 342 pp. (Environmental H\nMSDS from Hess 10-18-06\nMSDS from BP Amoco We"
+  }
+}

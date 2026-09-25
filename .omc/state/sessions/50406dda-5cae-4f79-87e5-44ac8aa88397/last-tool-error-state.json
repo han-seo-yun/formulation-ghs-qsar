@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"ls /Applications | grep -i libre; which soffice textutil\"}",
+  "error": "Exit code 1\nsoffice not found\n/usr/bin/textutil",
+  "timestamp": "2026-09-07T08:28:28.404Z",
+  "retry_count": 1
+}

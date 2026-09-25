@@ -1,0 +1,2091 @@
+[
+  {
+    "row": 1549,
+    "product_name": "Laurel leaf oil",
+    "resolution": "found",
+    "confidence": "high",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "notes": "힌트 URL(Carl Roth, 순수 1,8-Cineole/Eucalyptol)과 별개로, 로컬 하이라이트 SDS(NHR Organic Oils, Bay Laurel Oil Organic, CAS 8002-41-3)의 Section 3에 24% Cineoles(1,8-cineol CAS 470-82-6) 성분이 확인되어 매칭됨",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_hazard_statements": "H226; H304; H315; H317; H319; H341; H351",
+        "ghs_pictograms": "GHS02, GHS07, GHS08, GHS09",
+        "acute_oral_toxicity_ld50": "LD50 oral-rat 3.95 g/kg (Opdyke 1976); LD50 oral-mouse 3310 mg/kg",
+        "acute_dermal_toxicity_ld50": "LD50 dermal-rabbit >5 g/kg (Opdyke 1976)",
+        "acute_inhalation_toxicity_lc50": "No data available",
+        "skin_corrosion_irritation": "Skin Irrit. Category 2 (H315)",
+        "eye_damage_irritation": "Eye Irrit. Category 2A (H319)",
+        "respiratory_skin_sensitization": "Skin sensitizer Category 1 (H317)",
+        "germ_cell_mutagenicity": "Mutagen Category 2 (H341, suspected of causing genetic defects)",
+        "carcinogenicity": "Carcinogen Category 2 (H351, suspected of causing cancer)",
+        "reproductive_toxicity": "No additional data available",
+        "stot_single_exposure": "No additional data available",
+        "stot_repeated_exposure": "No additional data available",
+        "aspiration_hazard": "Category 1 (H304, may be fatal if swallowed and enters airways)"
+      }
+    }
+  },
+  {
+    "row": 1550,
+    "product_name": "Jonquil absolute",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "notes": "검색 시도했으나 SDS 찾지 못함(네트워크상 검색엔진 접근 제한/캡차로 검색 결과 불안정)",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": false
+    },
+    "field_values": {}
+  },
+  {
+    "row": 1551,
+    "product_name": "Violet leaf absolute",
+    "resolution": "found",
+    "confidence": "medium",
+    "source_mismatch_found": false,
+    "source_url": "https://docs.newdirectionsaromatics.com/msds/MSDS_VioletLeafAbsolute.pdf",
+    "better_source_found": true,
+    "notes": "기존 no_sds 상태였으나 New Directions Aromatics SDS 신규 발견(CAS 90147-36-7, Viola odorata 일치). SDS 자체에 'GHS Classification: Not available' + Signal 'Not applicable'이면서 H302만 기재되어 있어 내부적으로 다소 불일치함",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Not applicable (SDS Section 2 표기)",
+        "ghs_hazard_statements": "H302 (Harmful if swallowed)",
+        "acute_oral_toxicity_ld50": "Not available",
+        "carcinogenicity": "None of the components are listed as a carcinogen",
+        "reproductive_toxicity": "No adverse effects on reproduction are known",
+        "eye_damage_irritation": "May irritate eyes (별도 GHS 분류 없음)",
+        "skin_corrosion_irritation": "May aggravate dermatitis/psoriasis; 반복 노출 시 발적/자극 가능 (별도 GHS 분류 없음)",
+        "stot_repeated_exposure": "Repeated or prolonged contact can cause redness, irritation of skin"
+      }
+    }
+  },
+  {
+    "row": 1552,
+    "product_name": "Hydroxycitronellal-indole (Schiff base)",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "notes": "매우 희귀한 시프 염기 성분으로 CAS/제조사 특정 SDS를 찾지 못함(검색엔진 접근 제한으로 대체 검색어 탐색도 제한적)",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": false
+    },
+    "field_values": {}
+  },
+  {
+    "row": 1553,
+    "product_name": "Fenugreek absolute",
+    "resolution": "no_code_in_sds",
+    "confidence": "high",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "notes": "",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {}
+  },
+  {
+    "row": 1554,
+    "product_name": "Fir needle oil, Siberian",
+    "resolution": "found",
+    "confidence": "high",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "notes": "",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_hazard_statements": "H226; H304; H315; H317; H319; H400; H410",
+        "ghs_pictograms": "GHS02, GHS07, GHS08, GHS09",
+        "acute_oral_toxicity_ld50": ">5000 mg/kg",
+        "acute_dermal_toxicity_ld50": ">3000 mg/kg (skin)",
+        "acute_inhalation_toxicity_lc50": "No data available",
+        "skin_corrosion_irritation": "Skin Irrit. Category 2 (H315)",
+        "eye_damage_irritation": "Eye Irrit. Category 2A (H319)",
+        "respiratory_skin_sensitization": "Skin Sens. Category 1 (H317)",
+        "germ_cell_mutagenicity": "No data available",
+        "carcinogenicity": "No data available",
+        "reproductive_toxicity": "No data available",
+        "stot_single_exposure": "No data available",
+        "stot_repeated_exposure": "No data available",
+        "aspiration_hazard": "Asp. Tox. Category 1 (H304)"
+      }
+    }
+  },
+  {
+    "row": 1556,
+    "product_name": "Lovage oil",
+    "resolution": "found",
+    "confidence": "medium",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "notes": "기존 힌트 URL이 도메인 이전으로 301 리다이렉트됨(docs.newdirectionsaromatics.com); 리다이렉트 추적하여 확인함. SDS Section 3 성분표는 'N/A'로 개별 성분(ß-Pinene 등) 비율은 미기재, CAS 8016-31-7(Lovage Leaf Oil) 단일물질로 등록됨",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_hazard_statements": "H226; H303; H315; H319",
+        "ghs_pictograms": "GHS02 (flame), GHS07 (exclamation mark)",
+        "acute_oral_toxicity_ld50": "GHS Acute Toxicity, Oral - Category 5 (H303, may be harmful if swallowed); 수치 LD50 미기재",
+        "skin_corrosion_irritation": "Skin Corrosion/Irritation Category 2 (H315)",
+        "eye_damage_irritation": "Eye irritation Category 2A (H319)",
+        "respiratory_skin_sensitization": "No data available",
+        "germ_cell_mutagenicity": "No data available",
+        "carcinogenicity": "No data available",
+        "reproductive_toxicity": "No data available",
+        "stot_single_exposure": "No data available",
+        "stot_repeated_exposure": "No data available",
+        "aspiration_hazard": "No data available"
+      }
+    }
+  },
+  {
+    "row": 1557,
+    "product_name": "Orris absolute",
+    "resolution": "found",
+    "confidence": "medium",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "notes": "row에 ingredient_names가 제공되지 않아 제품명(Orris absolute ≈ Orris Root Extract natural, CAS 90045-89-9)으로만 동일성 확인. SDS 'Relevant phrases'에 H225(에탄올 원료 유래 표기로 추정)가 남아있어 본문의 H226 분류와 다소 불일치",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_hazard_statements": "H226; H319",
+        "ghs_pictograms": "GHS02, GHS07",
+        "skin_corrosion_irritation": "No irritant effect (not classified)",
+        "eye_damage_irritation": "Eye irritation Category 2A (H319)",
+        "respiratory_skin_sensitization": "No sensitizing effects known",
+        "germ_cell_mutagenicity": "No data",
+        "carcinogenicity": "None of the ingredients listed by NTP/OSHA-Ca; IARC 표에는 구성성분 value '1'로 기재(카테고리 코드로 추정, 실제 Group 1 발암물질 지정 여부 불명확)",
+        "reproductive_toxicity": "No data",
+        "stot_single_exposure": "No data",
+        "stot_repeated_exposure": "No data",
+        "aspiration_hazard": "No data"
+      }
+    }
+  },
+  {
+    "row": 1558,
+    "product_name": "Honeysuckle absolute",
+    "resolution": "ingredient_mismatch",
+    "confidence": "high",
+    "source_mismatch_found": true,
+    "better_source_found": false,
+    "source_url": null,
+    "notes": "제공된 로컬 SDS(95f736d132e9df18)는 'Honeysuckle Fusion Aerosol'(Fresh Products사 방향제 에어로졸, 프로판/향료 함유)로 실제 성분(허니서클 앱솔루트, 식물성 추출물)과 전혀 무관. 대체 SDS 검색 시도했으나(웹검색 엔진 접속 차단/실패, 로컬 파일 재검색으로도 매칭 문서 없음) 못 찾음.",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "ingredients_match": false
+    }
+  },
+  {
+    "row": 1559,
+    "product_name": "Narcissus absolute",
+    "resolution": "found",
+    "confidence": "high",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "notes": "",
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "WARNING",
+        "ghs_hazard_statements": "H319 (Causes serious eye irritation); H315 (Causes skin irritation); H317 (May cause an allergic skin reaction); H412 (Harmful to aquatic life with long lasting effects). 개별 성분 기준: H301, H302, H332, H411",
+        "ghs_pictograms": "GHS07 (exclamation mark)",
+        "acute_oral_toxicity_ld50": "ATE oral (mixture) 4,297.41 mg/kg; Coumarin LD50 293 mg/kg (rat); Benzyl alcohol LD50 1620 mg/kg (rat); Phenylethyl alcohol LD50 1603.3 mg/kg (rat)",
+        "acute_dermal_toxicity_ld50": "Benzyl alcohol ATE dermal 2500 mg/kg",
+        "acute_inhalation_toxicity_lc50": "ATE inhalation (mixture, vapours) 220.0 mg/L; Benzyl alcohol ATE inhalation 11.0 mg/L",
+        "skin_corrosion_irritation": "Skin Irrit. 2 - H315, causes skin irritation",
+        "eye_damage_irritation": "Eye Irrit. 2 - H319, causes serious eye irritation",
+        "respiratory_skin_sensitization": "Skin Sens. 1 - H317, may cause an allergic skin reaction (respiratory sensitization: no data)",
+        "germ_cell_mutagenicity": "자료 없음",
+        "carcinogenicity": "자료 없음",
+        "reproductive_toxicity": "자료 없음",
+        "stot_single_exposure": "자료 없음",
+        "stot_repeated_exposure": "자료 없음",
+        "aspiration_hazard": "자료 없음"
+      }
+    },
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": false,
+      "ingredients_match": true
+    }
+  },
+  {
+    "row": 1560,
+    "product_name": "Lemongrass oil West Indian",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "notes": "로컬/웹 검색 모두 매칭 SDS 못 찾음(웹검색 엔진 접속 실패·타임아웃, 공급사 SDS 직접 링크도 404)",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": false,
+      "ingredients_match": false
+    }
+  },
+  {
+    "row": 1561,
+    "product_name": "Immortelle absolute",
+    "resolution": "found",
+    "confidence": "medium",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "notes": "SDS Section 11(독성정보) 전 항목이 '자료없음/해당없음'으로 기재됨; 신호어·H코드는 Section 2(유해성 분류) 기준임",
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_hazard_statements": "H227 (Combustible liquid); H412 (Harmful to aquatic life with long lasting effects)",
+        "ghs_pictograms": "표기된 픽토그램 이미지 없음(분류: 인화성 액체 Cat.4, 수생환경 장기유해성 Cat.3)",
+        "acute_oral_toxicity_ld50": "Not Applicable",
+        "acute_dermal_toxicity_ld50": "자료 없음",
+        "acute_inhalation_toxicity_lc50": "자료 없음",
+        "skin_corrosion_irritation": "자료 없음",
+        "eye_damage_irritation": "자료 없음",
+        "respiratory_skin_sensitization": "자료 없음 (단, Benzyl Cinnamate/Limonene/Linalool 함유로 알러지 반응 가능성 언급)",
+        "germ_cell_mutagenicity": "자료 없음",
+        "carcinogenicity": "자료 없음",
+        "reproductive_toxicity": "자료 없음",
+        "stot_single_exposure": "자료 없음",
+        "stot_repeated_exposure": "자료 없음",
+        "aspiration_hazard": "자료 없음"
+      }
+    },
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    }
+  },
+  {
+    "row": 1562,
+    "product_name": "Galbanum oil",
+    "resolution": "found",
+    "confidence": "high",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "notes": "",
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_hazard_statements": "H226 (Flammable liquid and vapour); H303 (May be harmful if swallowed); H304 (May be fatal if swallowed and enters airways); H315 (Causes skin irritation); H317 (May cause an allergic skin reaction); H410 (Very toxic to aquatic life with long lasting effects)",
+        "ghs_pictograms": "Flame, Health hazard(aspiration), Exclamation mark, Environment",
+        "acute_oral_toxicity_ld50": "LD50 (Rat) = >5,000 mg/kg (Acute toxicity Category 5, Oral)",
+        "acute_dermal_toxicity_ld50": "LD50 (Rabbit) = >5,000 mg/kg",
+        "acute_inhalation_toxicity_lc50": "자료 없음",
+        "skin_corrosion_irritation": "GHS 분류상 Skin corrosion/irritation Category 2이나, 실측 시험(human, 48h closed patch test)에서는 No skin irritation; Rabbit 24h 자극성 시험 별도 존재",
+        "eye_damage_irritation": "자료 없음(Section 11 미기재)",
+        "respiratory_skin_sensitization": "GHS 분류상 Skin sensitisation Category 1이나, 실측 시험(human, 4.0% in petrolatum)에서는 감작 미유발(Did not cause sensitisation)",
+        "germ_cell_mutagenicity": "자료 없음",
+        "carcinogenicity": "자료 없음",
+        "reproductive_toxicity": "자료 없음",
+        "stot_single_exposure": "자료 없음",
+        "stot_repeated_exposure": "자료 없음",
+        "aspiration_hazard": "Aspiration hazard Category 1 (H304)"
+      }
+    },
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    }
+  },
+  {
+    "row": 1563,
+    "product_name": "Basil oil, sweet",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "notes": "로컬/웹 검색 모두 매칭 SDS 못 찾음(웹검색 엔진 접속 실패·타임아웃, 공급사 SDS 직접 링크도 404/403)",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": false,
+      "ingredients_match": false
+    }
+  },
+  {
+    "row": 1564,
+    "product_name": "Caraway oil",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "notes": "로컬/웹 검색 모두 매칭 SDS 못 찾음(웹검색 엔진 접속 실패·타임아웃, 공급사 SDS 직접 링크도 404/403)",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": false,
+      "ingredients_match": false
+    }
+  },
+  {
+    "row": 1565,
+    "product_name": "Castoreum",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "notes": "로컬/웹 검색 모두 매칭 SDS 못 찾음(웹검색 엔진 접속 실패·타임아웃)",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": false,
+      "ingredients_match": false
+    }
+  },
+  {
+    "row": 1568,
+    "product_name": "Civet absolute",
+    "resolution": "found",
+    "confidence": "high",
+    "notes": "",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_hazard_statements": "H225, H302, H314, H315, H318, H319, H335, H412",
+        "ghs_pictograms": "GHS05, GHS07",
+        "acute_oral_toxicity_ld50": "Oral LD50 (CIVETTE ABSOLUE): 77,621.67 mg/kg (classification criteria not met)",
+        "acute_dermal_toxicity_ld50": "Not classified / no data",
+        "acute_inhalation_toxicity_lc50": "Not classified / no data",
+        "skin_corrosion_irritation": "Skin Irrit. 2 - H315 (causes skin irritation)",
+        "eye_damage_irritation": "Eye Dam. 1 - H318 (causes serious eye damage)",
+        "respiratory_skin_sensitization": "Classification criteria not met (not a sensitiser)",
+        "germ_cell_mutagenicity": "Classification criteria not met",
+        "carcinogenicity": "Classification criteria not met",
+        "reproductive_toxicity": "Classification criteria not met",
+        "stot_single_exposure": "Classification criteria not met",
+        "stot_repeated_exposure": "Classification criteria not met",
+        "aspiration_hazard": "Classification criteria not met"
+      }
+    }
+  },
+  {
+    "row": 1569,
+    "product_name": "Costus root, essential oil, absolute and concrete",
+    "resolution": "no_code_in_sds",
+    "confidence": "medium",
+    "notes": "원 힌트 없어 대체 검색으로 SDS 확인(Ultra International, CAS 8023-88-9); Section 11 전 항목 'No data available', GHS 미분류(NC)",
+    "source_mismatch_found": false,
+    "source_url": "http://ultrainternational.com/wp-content/uploads/2023/08/SDS-COSTUS-ROOT-OIL.pdf",
+    "better_source_found": true,
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {}
+  },
+  {
+    "row": 1570,
+    "product_name": "Cedar leaf oil",
+    "resolution": "found",
+    "confidence": "high",
+    "notes": "",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_hazard_statements": "H226, H302, H313, H315",
+        "ghs_pictograms": "Flame, Corrosion/health-exclamation set (Flammable Liquid Cat3, Acute Tox Dermal Cat5, Acute Tox Oral Cat4, Skin Irrit. Cat2)",
+        "acute_oral_toxicity_ld50": "Acute toxicity, Oral - Category 4 (no specific LD50 value given)",
+        "acute_dermal_toxicity_ld50": "Acute toxicity, Dermal - Category 5 (no specific LD50 value given)",
+        "skin_corrosion_irritation": "Skin irritation Category 2 (H315); repeated/prolonged contact may cause dermatitis",
+        "eye_damage_irritation": "Not specifically classified in this SDS (possible irritation, prevent with safety glasses)",
+        "respiratory_skin_sensitization": "May cause allergic reactions on skin (not formally classified as sensitiser in this SDS)",
+        "germ_cell_mutagenicity": "No data",
+        "carcinogenicity": "No data",
+        "reproductive_toxicity": "No data",
+        "stot_single_exposure": "No data",
+        "stot_repeated_exposure": "Repeated/prolonged contact may cause dermatitis",
+        "aspiration_hazard": "No data"
+      }
+    }
+  },
+  {
+    "row": 1571,
+    "product_name": "Celery seed oil",
+    "resolution": "no_code_in_sds",
+    "confidence": "medium",
+    "notes": "구형 MSDS(Oxford Lab Fine Chem)로 GHS 신호어/H코드 없음, 서술형 독성정보만 존재",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {}
+  },
+  {
+    "row": 1572,
+    "product_name": "Estragon oil",
+    "resolution": "found",
+    "confidence": "high",
+    "notes": "원 힌트 없어 대체 검색으로 SDS 확인(Vigon International, CAS 8016-88-4)",
+    "source_mismatch_found": false,
+    "source_url": "https://www.vigon.com/product/estragon-tarragon-oil/?doc=MSDS/500120_vigon_sds_us_english.pdf&namee=EstragonTarragonOilSDS",
+    "better_source_found": true,
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_hazard_statements": "H227 (combustible liquid), H302 (harmful if swallowed), H304 (may be fatal if swallowed and enters airways), H317 (may cause an allergic skin reaction), H341 (suspected of causing genetic defects), H351 (suspected of causing cancer), H401/H411 (toxic to aquatic life with long lasting effects)",
+        "ghs_pictograms": "GHS08 (health hazard), GHS07 (exclamation mark), GHS09 (environment)",
+        "acute_oral_toxicity_ld50": "Oral LD50 (rat): 1900 mg/kg - Acute toxicity oral Category 4",
+        "acute_dermal_toxicity_ld50": "Dermal LD50 (rabbit): >5 mL/kg; classified as unknown acute dermal toxicity (100% of substance)",
+        "acute_inhalation_toxicity_lc50": "Unknown acute inhalation toxicity (100% of substance)",
+        "skin_corrosion_irritation": "Due to partial or complete lack of data, classification not possible",
+        "eye_damage_irritation": "Due to partial or complete lack of data, classification not possible",
+        "respiratory_skin_sensitization": "Skin sensitization Category 1 (may cause allergic skin reaction); respiratory sensitization - data insufficient",
+        "germ_cell_mutagenicity": "Category 2 - suspected of causing genetic defects",
+        "carcinogenicity": "Category 2 - suspected of causing cancer (not IARC/NTP listed)",
+        "reproductive_toxicity": "Due to partial or complete lack of data, classification not possible",
+        "stot_single_exposure": "Due to partial or complete lack of data, classification not possible",
+        "stot_repeated_exposure": "Due to partial or complete lack of data, classification not possible",
+        "aspiration_hazard": "Category 1 - may be fatal if swallowed and enters airways"
+      }
+    }
+  },
+  {
+    "row": 1573,
+    "product_name": "Chamomile oil German",
+    "resolution": "found",
+    "confidence": "high",
+    "notes": "",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_hazard_statements": "H304 (may be fatal if swallowed and enters airways), H412 (harmful to aquatic life with long lasting effects)",
+        "ghs_pictograms": "GHS08",
+        "acute_oral_toxicity_ld50": "Oral LD50 (rat): >5,000 mg/kg - shall not be classified as acutely toxic",
+        "skin_corrosion_irritation": "Shall not be classified as corrosive/irritant to skin",
+        "eye_damage_irritation": "Shall not be classified as seriously damaging to eye or eye irritant",
+        "respiratory_skin_sensitization": "Shall not be classified as a respiratory or skin sensitiser",
+        "germ_cell_mutagenicity": "Shall not be classified as germ cell mutagenic",
+        "carcinogenicity": "Shall not be classified as carcinogenic",
+        "reproductive_toxicity": "Shall not be classified as a reproductive toxicant",
+        "stot_single_exposure": "Shall not be classified as a specific target organ toxicant (single exposure)",
+        "stot_repeated_exposure": "Shall not be classified as a specific target organ toxicant (repeated exposure)",
+        "aspiration_hazard": "Asp. Tox. 1 - H304 (may be fatal if swallowed and enters airways)"
+      }
+    }
+  },
+  {
+    "row": 1574,
+    "product_name": "Ginger oil",
+    "resolution": "found",
+    "confidence": "high",
+    "notes": "",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_hazard_statements": "H227 (combustible liquid), H304 (may be fatal if swallowed and enters airways), H315 (causes skin irritation), H317 (may cause an allergic skin reaction), H319 (causes serious eye irritation), H411 (toxic to aquatic life with long lasting effects)",
+        "ghs_pictograms": "Exclamation mark, Health hazard, Environment (Skin Corr/Irrit Cat2, Eye Dam/Irrit Cat2, Skin Sensitisation Cat1, Aspiration Hazard Cat1)",
+        "acute_oral_toxicity_ld50": "No specific LD50 value given; ingestion may cause nausea, vomiting, CNS depression",
+        "skin_corrosion_irritation": "Category 2 - causes skin irritation (redness, pain)",
+        "eye_damage_irritation": "Category 2 - causes serious eye irritation (stinging, tearing, redness, swelling, blurred vision)",
+        "respiratory_skin_sensitization": "Skin Sensitisation Category 1 (may cause allergic skin reaction/dermatitis); not a respiratory sensitiser",
+        "germ_cell_mutagenicity": "No information available",
+        "carcinogenicity": "None (Carcinogen Category: None)",
+        "reproductive_toxicity": "Not expected to cause reproductive or developmental effects",
+        "stot_single_exposure": "Inhalation of mist/vapours/aerosols may cause respiratory tract irritation",
+        "stot_repeated_exposure": "No information available",
+        "aspiration_hazard": "Category 1 - may be fatal if swallowed and enters airways; may cause pulmonary edema/pneumonitis"
+      }
+    }
+  },
+  {
+    "row": 1575,
+    "product_name": "Chamomile oil Roman",
+    "resolution": "found",
+    "confidence": "high",
+    "notes": "",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_hazard_statements": "H226 (flammable liquid and vapour), H304 (may be fatal if swallowed and enters airways), H317 (may cause an allergic skin reaction)",
+        "ghs_pictograms": "GHS02, GHS08, GHS07, GHS09",
+        "acute_oral_toxicity_ld50": "Oral LD50 (rat): >5 g/kg",
+        "acute_dermal_toxicity_ld50": "Non-irritating on hairless mouse backs; moderately irritating under occlusion on rabbit skin (no LD50 value)",
+        "skin_corrosion_irritation": "No available data",
+        "eye_damage_irritation": "No weight-of-evidence summary; believed to be a slight ocular irritant",
+        "respiratory_skin_sensitization": "Skin Sensitiser Category 1 under GHS/CLP (H317); not found to be a sensitiser to human skin nor photo-toxic in cited studies",
+        "germ_cell_mutagenicity": "Not found to be mutagenic (Bacillus subtilis rec-assay, Ames test)",
+        "carcinogenicity": "No evidence of carcinogenicity or DNA damage",
+        "reproductive_toxicity": "No firm data",
+        "stot_single_exposure": "No available data",
+        "stot_repeated_exposure": "No available data",
+        "aspiration_hazard": "Aspiration Hazard Category 1 under GHS/CLP (no available underlying data cited)"
+      }
+    }
+  },
+  {
+    "row": 1576,
+    "product_name": "Cassia oil",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "공개 SDS 검색 실패 (기존 no_sds 상태와 일치)",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 1577,
+    "product_name": "Cyste absolute",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "공개 SDS 검색 실패 (Cistus/Labdanum absolute 추정, 별도 명칭으로도 미발견)",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 1579,
+    "product_name": "Fennel oil",
+    "resolution": "found",
+    "confidence": "high",
+    "notes": "",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": false,
+      "ingredients_match": true
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "위험 (Danger)",
+        "ghs_hazard_statements": "H304 (삼켜서 기도로 들어가면 치명적일 수 있음), H315 (피부에 자극을 일으킴), H317 (알레르기성 피부 반응을 일으킬 수 있음), H411 (장기적 영향에 의해 수생생물에게 유독함)",
+        "ghs_pictograms": "GHS08(건강유해성-흡인유해성), GHS07(경고표시-피부자극/과민성), GHS09(환경유해성)",
+        "acute_oral_toxicity_ld50": "경구 ATE(혼합물 계산값) = 2808 mg/kg (개별시험값 없음, 성분 기반 산출)",
+        "acute_dermal_toxicity_ld50": "자료없음 (해당없음)",
+        "acute_inhalation_toxicity_lc50": "자료없음",
+        "skin_corrosion_irritation": "피부자극성 구분2 (H315)",
+        "eye_damage_irritation": "분류기준 미충족 (자료 불충분)",
+        "respiratory_skin_sensitization": "피부과민성 구분1 (H317)",
+        "germ_cell_mutagenicity": "분류기준 미충족",
+        "carcinogenicity": "분류기준 미충족",
+        "reproductive_toxicity": "분류기준 미충족",
+        "stot_single_exposure": "분류기준 미충족",
+        "stot_repeated_exposure": "분류기준 미충족",
+        "aspiration_hazard": "흡인유해성 구분1 (H304)"
+      }
+    }
+  },
+  {
+    "row": 1580,
+    "product_name": "Lemongrass oil East Indian",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "Nikura 등 주요 공급처에 레몬그라스 오일은 있으나 East Indian 품종 특정 SDS 및 독성정보 미확인",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 1581,
+    "product_name": "Costus oil, absolute",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "Saussurea costus(CITES 규제종) 유래로 상업용 공개 SDS 검색 실패",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 1582,
+    "product_name": "Black pepper oil",
+    "resolution": "found",
+    "confidence": "high",
+    "notes": "",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": false,
+      "ingredients_match": true
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "위험 (Danger)",
+        "ghs_hazard_statements": "H226 (인화성 액체 및 증기), H304 (삼켜서 기도로 들어가면 치명적일 수 있음), H315 (피부에 자극을 일으킴), H317 (알레르기성 피부 반응을 일으킬 수 있음), H400 (수생생물에 매우 유독함), H411 (장기적 영향에 의해 수생생물에게 유독함)",
+        "ghs_pictograms": "GHS02(인화성), GHS08(흡인유해성), GHS07(자극성/과민성), GHS09(환경유해성)",
+        "acute_oral_toxicity_ld50": "경구 ATE(혼합물 계산값) = 4787 mg/kg",
+        "acute_dermal_toxicity_ld50": "자료없음 (해당없음)",
+        "acute_inhalation_toxicity_lc50": "자료없음 (개별성분 delta-3-Carene 등 1.5 mg/L dust/mist 참고치 존재)",
+        "skin_corrosion_irritation": "피부자극성 구분2 (H315)",
+        "eye_damage_irritation": "분류기준 미충족 (자료 불충분)",
+        "respiratory_skin_sensitization": "피부과민성 구분1 (H317)",
+        "germ_cell_mutagenicity": "분류기준 미충족",
+        "carcinogenicity": "분류기준 미충족",
+        "reproductive_toxicity": "분류기준 미충족",
+        "stot_single_exposure": "분류기준 미충족",
+        "stot_repeated_exposure": "분류기준 미충족",
+        "aspiration_hazard": "흡인유해성 구분1 (H304)"
+      }
+    }
+  },
+  {
+    "row": 1583,
+    "product_name": "Cardamom oil",
+    "resolution": "found",
+    "confidence": "medium",
+    "notes": "성분명이 EUH208 표기성분(1,8-시네올) 위주로만 확인되어 전체 성분표 직접 대조는 못함; 카다몬 오일 SDS로서 패턴상 합치",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "경고 (Warning)",
+        "ghs_hazard_statements": "H317 (알레르기성 피부 반응을 일으킬 수 있음), H412 (장기적 영향에 의해 수생생물에게 유해함), EUH208 (민감성 성분(1,8-시네올 등) 함유 - 알레르기 반응을 일으킬 수 있음)",
+        "ghs_pictograms": "GHS07(경고-과민성)",
+        "acute_oral_toxicity_ld50": "자료없음",
+        "acute_dermal_toxicity_ld50": "자료없음",
+        "acute_inhalation_toxicity_lc50": "자료없음",
+        "skin_corrosion_irritation": "분류대상 아님 (해당 코드 없음)",
+        "eye_damage_irritation": "분류대상 아님 (해당 코드 없음)",
+        "respiratory_skin_sensitization": "피부과민성 구분1 (H317)",
+        "germ_cell_mutagenicity": "자료없음/미분류",
+        "carcinogenicity": "자료없음/미분류",
+        "reproductive_toxicity": "자료없음/미분류",
+        "stot_single_exposure": "자료없음/미분류",
+        "stot_repeated_exposure": "자료없음/미분류",
+        "aspiration_hazard": "자료없음/미분류"
+      }
+    }
+  },
+  {
+    "row": 1584,
+    "product_name": "Star anise oil",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "공개 SDS 검색 실패 (기존 no_sds 상태와 일치)",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 1585,
+    "product_name": "Camphor oil yellow",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS 검색 실패 (검색엔진/공급사 사이트 접근 제한)",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": false,
+      "is_single_substance": true
+    },
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false
+  },
+  {
+    "row": 1586,
+    "product_name": "Cognac oil, green",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS 검색 실패 (검색엔진/공급사 사이트 접근 제한)",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": false,
+      "is_single_substance": true
+    },
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false
+  },
+  {
+    "row": 1587,
+    "product_name": "Cajeput oil",
+    "resolution": "found",
+    "confidence": "high",
+    "notes": "",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true,
+      "is_finished_product": false,
+      "is_single_substance": true
+    },
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_hazard_statements": "H226 (Flammable liquid and vapour); H310 (Fatal in contact with skin); H304 (May be fatal if swallowed and enters airways); H411 (Toxic to aquatic life with long lasting effects); H315 (Causes skin irritation); H319 (Causes serious eye irritation); H317 (May cause an allergic skin reaction)",
+        "ghs_pictograms": "GHS02(flame), GHS06(skull and crossbones), GHS08(health hazard), GHS09(environment)",
+        "acute_oral_toxicity_ld50": "LD50 = 3870 mg/kg (rat)",
+        "acute_dermal_toxicity_ld50": "LD50 ≥ 5000 mg/kg (rabbit)",
+        "acute_inhalation_toxicity_lc50": "자료 없음 (No further relevant information available)",
+        "skin_corrosion_irritation": "Skin Irrit. 2, H315 - Irritant to skin and mucous membranes",
+        "eye_damage_irritation": "Eye Irrit. 2, H319 - Irritating effect",
+        "respiratory_skin_sensitization": "Skin Sens. 1, H317 - sensitization possible through skin contact",
+        "germ_cell_mutagenicity": "자료 없음",
+        "carcinogenicity": "자료 없음",
+        "reproductive_toxicity": "자료 없음",
+        "stot_single_exposure": "자료 없음",
+        "stot_repeated_exposure": "자료 없음",
+        "aspiration_hazard": "Asp. Tox. 1, H304 - May be fatal if swallowed and enters airways"
+      }
+    }
+  },
+  {
+    "row": 1588,
+    "product_name": "Carrot seed oil",
+    "resolution": "found",
+    "confidence": "high",
+    "notes": "",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true,
+      "is_finished_product": false,
+      "is_single_substance": true
+    },
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_hazard_statements": "H226 (Flammable liquid and vapour); H304 (May be fatal if swallowed and enters airways); H315 (Causes skin irritation); H317 (May cause an allergic skin reaction); H411 (Toxic to aquatic life with long lasting effects)",
+        "ghs_pictograms": "GHS02(flame), GHS07(exclamation mark), GHS08(health hazard), GHS09(environment)",
+        "acute_oral_toxicity_ld50": ">5000 mg/kg (classification criteria not met)",
+        "acute_dermal_toxicity_ld50": "Not Applicable",
+        "acute_inhalation_toxicity_lc50": "Not Available",
+        "skin_corrosion_irritation": "Skin Corrosion/Irritation Category 2",
+        "eye_damage_irritation": "분류기준 미충족 (classification criteria not met, no category assigned)",
+        "respiratory_skin_sensitization": "Sensitization - Skin Category 1",
+        "germ_cell_mutagenicity": "분류기준 미충족",
+        "carcinogenicity": "분류기준 미충족",
+        "reproductive_toxicity": "분류기준 미충족",
+        "stot_single_exposure": "분류기준 미충족",
+        "stot_repeated_exposure": "분류기준 미충족",
+        "aspiration_hazard": "Aspiration Hazard Category 1"
+      }
+    }
+  },
+  {
+    "row": 1590,
+    "product_name": "Camphor oil brown",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "제공된 힌트 URL 2건 모두 SDS 아님(규제정보/제품판매페이지), 대체 SDS도 미발견",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": false,
+      "is_single_substance": true
+    },
+    "source_mismatch_found": true,
+    "source_url": null,
+    "better_source_found": false
+  },
+  {
+    "row": 1591,
+    "product_name": "Cascarilla oil",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS 검색 실패 (검색엔진/공급사 사이트 접근 제한)",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": false,
+      "is_single_substance": true
+    },
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false
+  },
+  {
+    "row": 1592,
+    "product_name": "Chenopodium oil",
+    "resolution": "ingredient_mismatch",
+    "confidence": "high",
+    "notes": "제공된 로컬 PDF는 성분 불일치: Chenopodium oil(구충제 정유)이 아니라 'Chenodeoxycholic acid(Chenodiol, CAS 474-25-9)' 의약품 SDS임 (이름 유사로 인한 오매칭). 신호어 Warning, 피부/눈 자극 Cat.2 값은 해당 무관 물질 데이터이므로 사용 불가. 대체 SDS 검색 시도했으나 못 찾음",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": false,
+      "is_finished_product": false,
+      "is_single_substance": true
+    },
+    "source_mismatch_found": true,
+    "source_url": null,
+    "better_source_found": false
+  },
+  {
+    "row": 1593,
+    "product_name": "Schinus molle oil",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS 검색 실패 (검색엔진/공급사 사이트 접근 제한)",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": false,
+      "is_single_substance": true
+    },
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false
+  },
+  {
+    "row": 1594,
+    "product_name": "Dill weed oil",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS 검색 실패. 유사명 'Dill Seed Essential Oil'(Anethum sowa, CAS 90028-03-8/8006-75-5) SDS는 발견했으나 종/제품명이 달라(Weed≠Seed) 동일 제품으로 확정할 수 없어 미채택",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": true,
+      "is_single_substance": true
+    },
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false
+  },
+  {
+    "row": 1595,
+    "product_name": "Tansy oil",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS 검색 실패. 유사명 'Tansy Blue Essential Oil'(Tanacetum annuum, 블루 타나지) SDS는 발견했으나 일반 Tansy oil(Tanacetum vulgare)과 다른 종이라 동일 제품으로 확정할 수 없어 미채택",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": true,
+      "is_single_substance": true
+    },
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false
+  },
+  {
+    "row": 1596,
+    "product_name": "Elemi oil",
+    "resolution": "found",
+    "confidence": "high",
+    "notes": "",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true,
+      "is_finished_product": true,
+      "is_single_substance": true
+    },
+    "source_mismatch_found": false,
+    "source_url": "https://docs.newdirectionsaromatics.com/msds/MSDS_ElemiEssentialOil.pdf",
+    "better_source_found": true,
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_pictograms": "GHS02(flame), GHS07(exclamation mark), GHS08(health hazard), GHS09(environment)",
+        "ghs_hazard_statements": "H226 Flammable liquid and vapour; H304 May be fatal if swallowed and enters airways; H315 Causes skin irritation; H317 May cause an allergic skin reaction; H411 Toxic to aquatic life with long-lasting effects",
+        "acute_oral_toxicity_ld50": "LD50 Oral: 3370 mg/kg (rat)",
+        "skin_corrosion_irritation": "Category 2 - Causes skin irritation (H315)",
+        "respiratory_skin_sensitization": "Skin Sensitization Category 1 - May cause an allergic skin reaction (H317)",
+        "aspiration_hazard": "Aspiration Toxicity Category 1 - may be fatal if swallowed and enters airways (H304)",
+        "carcinogenicity": "None of the components listed as a carcinogen (IARC lists toluene, present only as a trace/analytical marker, not a main component)",
+        "reproductive_toxicity": "No adverse effects on reproduction known"
+      }
+    }
+  },
+  {
+    "row": 1597,
+    "product_name": "Tetrahydromugyl acetate",
+    "resolution": "found",
+    "confidence": "high",
+    "notes": "",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true,
+      "is_finished_product": true,
+      "is_single_substance": false
+    },
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_pictograms": "GHS02(flame), GHS07(exclamation mark)",
+        "ghs_hazard_statements": "H225 Highly flammable liquid and vapor; H302 Harmful if swallowed; H312 Harmful in contact with skin; H332 Harmful if inhaled; H319 Causes serious eye irritation",
+        "acute_oral_toxicity_ld50": "Mixture ATE 501 mg/kg; component Acetonitrile LD50 2,460 mg/kg (rat), TDLO 64 ml/kg (man)",
+        "acute_dermal_toxicity_ld50": "Mixture ATE 1,101 mg/kg; component Acetonitrile LD50 980 mg/kg (rabbit)",
+        "acute_inhalation_toxicity_lc50": "Mixture ATE 11 mg/l/4h; component Acetonitrile LC50 7,551 mg/m3/8h (rat)",
+        "eye_damage_irritation": "Irritating effect (component data: 100 µl/24h rabbit); label H319 causes serious eye irritation",
+        "skin_corrosion_irritation": "No irritant effect per component test data; label nonetheless carries H312 (harmful in contact with skin)",
+        "respiratory_skin_sensitization": "No sensitizing effects known",
+        "carcinogenicity": "None of the ingredients listed by IARC, NTP, or OSHA-Ca"
+      }
+    }
+  },
+  {
+    "row": 1598,
+    "product_name": "Fennel oil, bitter",
+    "resolution": "found",
+    "confidence": "high",
+    "notes": "",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true,
+      "is_finished_product": true,
+      "is_single_substance": true
+    },
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_pictograms": "GHS02(flame), GHS07(exclamation mark), GHS08(health hazard), GHS09(environment)",
+        "ghs_hazard_statements": "H226 Flammable liquid and vapour; H304 May be fatal if swallowed and enters airways; H315 Causes skin irritation; H317 May cause an allergic skin reaction; H341 Suspected of causing genetic defects; H351 Suspected of causing cancer; H410 Very toxic to aquatic life with long-lasting effects",
+        "skin_corrosion_irritation": "Category 2 - Causes skin irritation (H315)",
+        "respiratory_skin_sensitization": "Category 1 - May cause an allergic skin reaction (H317)",
+        "germ_cell_mutagenicity": "Category 2 - Suspected of causing genetic defects (H341)",
+        "carcinogenicity": "Category 2 - Suspected of causing cancer (H351); SDS text separately states none of the components individually listed as a carcinogen",
+        "aspiration_hazard": "Category 1 - may be fatal if swallowed and enters airways (H304)"
+      }
+    }
+  },
+  {
+    "row": 1599,
+    "product_name": "Calamus oil",
+    "resolution": "found",
+    "confidence": "high",
+    "notes": "",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true,
+      "is_finished_product": true,
+      "is_single_substance": true
+    },
+    "source_mismatch_found": false,
+    "source_url": "https://docs.newdirectionsaromatics.com/msds/MSDS_CalamusRootEssentialOil.pdf",
+    "better_source_found": true,
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_pictograms": "GHS07(exclamation mark), GHS09(environment)",
+        "ghs_hazard_statements": "H227 Combustible liquid; H302 Harmful if swallowed; H316 Causes mild skin irritation; H317 May cause an allergic skin reaction; H401 Toxic to aquatic life; H411 Toxic to aquatic life with long-lasting effects",
+        "acute_oral_toxicity_ld50": "Category 4 by classification; SDS Section 11 states specific LD50 value 'Not available'",
+        "skin_corrosion_irritation": "Category 3 - Causes mild skin irritation (H316)",
+        "respiratory_skin_sensitization": "Category 1 - May cause an allergic skin reaction (H317)",
+        "carcinogenicity": "None of the components listed as a carcinogen"
+      }
+    }
+  },
+  {
+    "row": 1601,
+    "product_name": "Alantroot oil",
+    "resolution": "ingredient_mismatch",
+    "confidence": "high",
+    "notes": "제공된 hint SDS(Biolandes fiche-securite-F0724.pdf)는 실제로 'OAKMOSS ABSOLUTE LOW ATRANOL'(Evernia prunastri, CAS 9000-50-4) 제품이며 Alantroot oil(Inula helenium)과 무관한 성분 - 성분 불일치. 대체 SDS(Elecampane/Alantroot oil)를 New Directions Aromatics 등에서 검색했으나 찾지 못함",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": true,
+      "is_single_substance": true
+    },
+    "source_mismatch_found": true,
+    "source_url": null,
+    "better_source_found": false
+  },
+  {
+    "row": 1602,
+    "product_name": "Neroli oil, Tunisian",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS 검색 실패 (제조사/공급사 사이트 및 검색엔진에서 매칭되는 SDS를 찾지 못함)",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": true,
+      "is_single_substance": true
+    },
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false
+  },
+  {
+    "row": 1603,
+    "product_name": "Flouve oil",
+    "resolution": "found",
+    "confidence": "high",
+    "better_source_found": true,
+    "source_mismatch_found": false,
+    "source_url": "https://beta.pfaltzandbauer.com/Files/SDSFile?fileName=F04875%20%20SDS%20%20031017.pdf",
+    "notes": "기존 no_sds 상태였으나 Pfaltz & Bauer의 Flouve Oil 전용 SDS(CAS 68916-09-6) 확인됨",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "위험(Danger)",
+        "ghs_hazard_statements": "H225(고인화성 액체 및 증기), H302(삼키면 유해), H312(피부접촉시 유해), H315(피부자극), H319(눈에 심한 자극), H332(흡입시 유해), H335(호흡기 자극 가능성)",
+        "ghs_pictograms": "화염, 건강유해성(느낌표), 자극성(느낌표)",
+        "acute_oral_toxicity_ld50": "경구 급성독성 구분4(H302); 수치(LD50) 데이터는 SDS에 제시되지 않음",
+        "acute_dermal_toxicity_ld50": "경피 급성독성 구분4(H312); 수치 데이터 없음",
+        "acute_inhalation_toxicity_lc50": "흡입 급성독성 구분4(H332); 수치 데이터 없음",
+        "skin_corrosion_irritation": "피부자극성 구분2(H315)",
+        "eye_damage_irritation": "심한 눈자극 구분2A(H319)",
+        "respiratory_skin_sensitization": "별도 감작성 분류 없음",
+        "stot_single_exposure": "호흡기계 자극 구분3(H335)",
+        "stot_repeated_exposure": "자료없음",
+        "germ_cell_mutagenicity": "자료없음",
+        "carcinogenicity": "NTP/IARC 등재 정보 없음(Not Available)",
+        "reproductive_toxicity": "자료없음",
+        "aspiration_hazard": "자료없음"
+      }
+    }
+  },
+  {
+    "row": 1604,
+    "product_name": "Hyssop oil",
+    "resolution": "found",
+    "confidence": "medium",
+    "better_source_found": true,
+    "source_mismatch_found": false,
+    "source_url": "https://docs.newdirectionsaromatics.com/msds/MSDS_HyssopOrganicEssentialOil.pdf",
+    "notes": "ingredient_names는 3-Pinanone이나 실제 확인된 SDS는 Hyssopus Officinalis Leaf Oil(정유) 전체 제품 기준 분류임. 순물질 이소피노캄폰의 ECHA 조화분류(H227/H315/H319/H335, Warning)와는 다르므로 참고 필요. 기존 힌트(H226/H317/H304/H400/H410, Danger)는 정유 제품 SDS와 대체로 일치(H400은 별도 명시 안됨)",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": false,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "위험(Danger)",
+        "ghs_hazard_statements": "H226(고인화성 액체 및 증기), H304(삼키거나 기도로 유입되면 치명적일 수 있음), H317(알레르기성 피부반응 유발 가능), H410(장기적 영향에 의해 수생생물에 매우 유독함)",
+        "acute_oral_toxicity_ld50": "자료없음(Not available)",
+        "acute_dermal_toxicity_ld50": "자료없음",
+        "acute_inhalation_toxicity_lc50": "자료없음",
+        "skin_corrosion_irritation": "별도 분류 없음",
+        "eye_damage_irritation": "별도 분류 없음",
+        "respiratory_skin_sensitization": "피부감작성 구분1(H317); 호흡기감작성 정보없음",
+        "aspiration_hazard": "흡인유해성 구분1(H304)",
+        "stot_single_exposure": "자료없음",
+        "stot_repeated_exposure": "자료없음",
+        "germ_cell_mutagenicity": "자료없음",
+        "carcinogenicity": "자료없음",
+        "reproductive_toxicity": "자료없음"
+      }
+    }
+  },
+  {
+    "row": 1605,
+    "product_name": "Beeswax absolute",
+    "resolution": "found",
+    "confidence": "high",
+    "better_source_found": true,
+    "source_mismatch_found": false,
+    "source_url": "https://perfumersupplyhouse.com/wp-content/uploads/2019/06/00230120-BEESWAX_SDS_Robertet.pdf",
+    "notes": "제품(Beeswax absolute) 자체는 Robertet SDS 기준 GHS 비유해물질로 분류(신호어 없음). 기존 힌트의 H225/H319는 제품 내 미량(1~5%) 함유 에탄올 성분 자체의 개별 분류였음(SDS Section 3), 제품 라벨에는 반영되지 않음",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "없음(제품 자체는 GHS 비유해물질로 분류, 신호어 없음)",
+        "ghs_hazard_statements": "제품 자체 분류 없음; 함유 에탄올(1~5%)이 H225(고인화성 액체, 구분2)와 H319(눈에 심한 자극, 구분2A)로 개별 분류됨",
+        "skin_corrosion_irritation": "자료없음(제품 자체)",
+        "eye_damage_irritation": "자료없음(제품 자체); 함유 에탄올 성분은 Eye Irrit. 2A",
+        "respiratory_skin_sensitization": "자료없음",
+        "germ_cell_mutagenicity": "자료없음",
+        "carcinogenicity": "함유 에탄올 - ACGIH A3, IARC Group1, NTP Known(에탄올 자체의 표준 등재 사항, 제품 자체의 발암성 분류 아님)",
+        "reproductive_toxicity": "자료없음",
+        "stot_single_exposure": "자료없음",
+        "stot_repeated_exposure": "자료없음",
+        "aspiration_hazard": "자료없음"
+      }
+    }
+  },
+  {
+    "row": 1606,
+    "product_name": "Snakeroot oil Canadian",
+    "resolution": "found",
+    "confidence": "medium",
+    "better_source_found": true,
+    "source_mismatch_found": false,
+    "source_url": "https://www.thegoodscentscompany.com/data/es1034661.html",
+    "notes": "공식 GHS 신호어/H코드 미확인(자료상 'None found'). IFRA 기준 methyl eugenol(최대40%) 함유로 동물실험상 발암 우려 있어 향료 조합 내 사용량 최대 1% 권고, FDA는 2018년 이후 합성향료 사용 승인 취소함",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "공식 GHS 분류 확인 안됨(None found)",
+        "ghs_hazard_statements": "공식 H코드 없음",
+        "acute_oral_toxicity_ld50": "Rat, 4480 mg/kg",
+        "acute_dermal_toxicity_ld50": "자료없음(Not determined)",
+        "acute_inhalation_toxicity_lc50": "자료없음(Not determined)",
+        "respiratory_skin_sensitization": "함유 성분 Eugenol(≤1%), Geraniol(≤1%) - 피부감작 우려(IFRA)",
+        "carcinogenicity": "함유 Methyl eugenol(최대 40%) - 동물실험상 발암 가능성 우려로 IFRA 규제(향료 조합 내 최대 1.0% 사용 권고); FDA 합성향료 사용 승인 2018년 취소",
+        "skin_corrosion_irritation": "자료없음",
+        "eye_damage_irritation": "자료없음",
+        "germ_cell_mutagenicity": "자료없음",
+        "reproductive_toxicity": "자료없음",
+        "stot_single_exposure": "자료없음",
+        "stot_repeated_exposure": "자료없음",
+        "aspiration_hazard": "자료없음"
+      }
+    }
+  },
+  {
+    "row": 1607,
+    "product_name": "Eau de brouts absolute",
+    "resolution": "found",
+    "confidence": "high",
+    "better_source_found": false,
+    "source_mismatch_found": false,
+    "source_url": null,
+    "notes": "제품명은 Eau de brouts absolute이나 SDS상 제품명은 Okoumal(향료 원료, Vigon International), CAS 131812-67-4로 ingredient_names(2,4-DIMETHYL-2-(1,1,4,4 TETRAMETHYLTETRALIN-6-YL) 1,3-DIOXOLANE)와 정확히 일치 확인됨",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "경고(Warning)",
+        "ghs_hazard_statements": "H303+H313(삼키거나 피부접촉시 유해할 수 있음), H400(수생생물에 매우 유독함), H410(장기적 영향에 의해 수생생물에 매우 유독함)",
+        "acute_oral_toxicity_ld50": "Rat, >2000 mg/kg(OECD 401, 구분5)",
+        "acute_dermal_toxicity_ld50": "Rabbit, >2000 mg/kg(OECD 401, 구분5)",
+        "acute_inhalation_toxicity_lc50": "자료없음",
+        "skin_corrosion_irritation": "자극없음(Rabbit, OECD 404)",
+        "eye_damage_irritation": "자극없음(Rabbit, OECD 405)",
+        "respiratory_skin_sensitization": "호흡기감작성 아님; 피부감작성 아님(HRIPT Human, Maximization Test Guinea pig, OECD 406)",
+        "germ_cell_mutagenicity": "음성(Ames test, in vitro 염색체이상시험)",
+        "carcinogenicity": "OSHA 특정규제물질 미등재",
+        "reproductive_toxicity": "생식/발달독성 예상되지 않음",
+        "stot_single_exposure": "분류 없음",
+        "stot_repeated_exposure": "Rat NOAEL 30 mg/kg(OECD 407, 28일 반복경구)",
+        "aspiration_hazard": "흡인 유해성 아님"
+      }
+    }
+  },
+  {
+    "row": 1608,
+    "product_name": "Davana oil",
+    "resolution": "found",
+    "confidence": "high",
+    "better_source_found": true,
+    "source_mismatch_found": false,
+    "source_url": "https://docs.edenbotanicals.com/SDS/280_Davana_SDS.pdf",
+    "notes": "기존 no_sds 상태였으나 Eden Botanicals의 Davana(Artemisia Pallens Oil, CAS 8016-03-3) 전용 SDS 확인됨",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "경고(Warning)",
+        "ghs_hazard_statements": "H317(알레르기성 피부반응 유발 가능), H412(장기적영향으로 수생생물에 유해)",
+        "acute_oral_toxicity_ld50": "Rat, >5000 mg/kg",
+        "acute_dermal_toxicity_ld50": "Rabbit, >5000 mg/kg",
+        "acute_inhalation_toxicity_lc50": "자료없음",
+        "skin_corrosion_irritation": "피부자극 가능성 있음(별도 분류코드 없음)",
+        "eye_damage_irritation": "눈자극 가능성 있음(별도 분류코드 없음)",
+        "respiratory_skin_sensitization": "피부감작성 구분1(H317); 고농도 증기 흡입시 마취작용 가능성 언급, 호흡기감작 분류는 없음",
+        "germ_cell_mutagenicity": "미기재(Not specified)",
+        "carcinogenicity": "IARC/ACGIH/NTP/OSHA 등재 성분(0.1%이상) 없음",
+        "reproductive_toxicity": "미기재",
+        "stot_single_exposure": "미기재",
+        "stot_repeated_exposure": "미기재",
+        "aspiration_hazard": "미기재"
+      }
+    }
+  },
+  {
+    "row": 1609,
+    "product_name": "Foin absolute",
+    "resolution": "found",
+    "confidence": "high",
+    "better_source_found": true,
+    "source_mismatch_found": false,
+    "source_url": "http://www.demonchyaromatics.com/media/621947/800980%20FOIN%20ABSOLUTE%20MSDS.pdf",
+    "notes": "기존 힌트(H319 눈자극, 구분2A)는 실제 De Monchy Aromatics SDS(제품명 FOIN ABSOLUTE, CAS 90063-63-1)와 불일치. 실제 SDS는 피부감작성 구분1(H317)만 분류하고 있으며 눈자극 관련 코드는 없음 - 실제 SDS 기준으로 정정함",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "경고(Warning)",
+        "ghs_hazard_statements": "H317(알레르기성 피부반응 유발 가능) - 피부감작성 구분1",
+        "skin_corrosion_irritation": "자료없음(No data available)",
+        "eye_damage_irritation": "자료없음(No data available)",
+        "respiratory_skin_sensitization": "피부감작성 구분1(H317); Benzyl Alcohol, Coumarin, Limonene, Linalool 함유로 알레르기 반응 가능성 있음(SDS 2.3 기타유해성)",
+        "acute_oral_toxicity_ld50": "자료없음(Not Applicable)",
+        "acute_dermal_toxicity_ld50": "자료없음",
+        "acute_inhalation_toxicity_lc50": "자료없음",
+        "germ_cell_mutagenicity": "자료없음",
+        "carcinogenicity": "자료없음",
+        "reproductive_toxicity": "자료없음",
+        "stot_single_exposure": "자료없음",
+        "stot_repeated_exposure": "자료없음",
+        "aspiration_hazard": "자료없음"
+      }
+    }
+  },
+  {
+    "row": 1610,
+    "product_name": "Helichrysum oil",
+    "resolution": "found",
+    "confidence": "high",
+    "better_source_found": true,
+    "source_mismatch_found": false,
+    "source_url": "https://docs.edenbotanicals.com/SDS/424_Helichrysum_Organic_SDS.pdf",
+    "notes": "기존 no_sds 상태였으나 Eden Botanicals의 Helichrysum Italicum Flower Oil(CAS 8023-95-8) 전용 SDS 확인됨",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "위험(Danger)",
+        "ghs_hazard_statements": "H226(고인화성 액체 및 증기), H304(삼키거나 기도로 유입되면 치명적일 수 있음), H315(피부자극), H317(알레르기성 피부반응 유발 가능), H410(장기적 영향에 의해 수생생물에 매우 유독함)",
+        "acute_oral_toxicity_ld50": "자료없음(No data available)",
+        "acute_dermal_toxicity_ld50": "자료없음",
+        "acute_inhalation_toxicity_lc50": "자료없음",
+        "skin_corrosion_irritation": "피부자극성 구분2(H315)",
+        "eye_damage_irritation": "눈자극 가능성 있음(별도 분류코드 명시 안됨)",
+        "respiratory_skin_sensitization": "피부감작성 구분1(H317)",
+        "aspiration_hazard": "흡인유해성 구분1(H304)",
+        "germ_cell_mutagenicity": "미기재",
+        "carcinogenicity": "IARC/ACGIH/NTP/OSHA 등재 성분(0.1%이상) 없음",
+        "reproductive_toxicity": "미기재",
+        "stot_single_exposure": "미기재",
+        "stot_repeated_exposure": "미기재"
+      }
+    }
+  },
+  {
+    "row": 1612,
+    "product_name": "Spearmint oil",
+    "resolution": "found",
+    "confidence": "high",
+    "notes": "",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "위험(Danger)",
+        "ghs_hazard_statements": "H226(인화성 액체 구분4); H302(경구 유해성 구분4); H304(흡인 유해성 구분1); H315(피부 자극성 구분2); H317(피부 과민성 구분1); H319(안 자극성 구분2A); H331(흡입 유독성 구분3)/H332(흡입 유해성 구분4); H336(마취작용/졸음 구분3); H361(생식독성 의심 구분2); H400/H410/H411/H412(수생환경 유해성)",
+        "acute_oral_toxicity_ld50": "구분4 (H302, 경구 섭취 시 유해)",
+        "acute_inhalation_toxicity_lc50": "구분3/4 (H331/H332, 흡입 시 유독/유해)",
+        "skin_corrosion_irritation": "피부 자극성 구분2 (H315)",
+        "eye_damage_irritation": "안 자극성 구분2A (H319)",
+        "respiratory_skin_sensitization": "피부 과민성 구분1 (H317)",
+        "reproductive_toxicity": "구분2 (H361, 태아 영향 의심)",
+        "stot_single_exposure": "구분3 (H336, 졸음/현기증 유발 가능)",
+        "aspiration_hazard": "구분1 (H304)",
+        "ghs_pictograms": "화염, 해골과 X자형 뼈, 부식성/자극성, 건강유해성, 환경유해성 (구성에 따름)"
+      }
+    },
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    }
+  },
+  {
+    "row": 1613,
+    "product_name": "Almond oil bitter FFPA",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS 자료 검색 실패 (검색엔진 접근 제한으로 재확인 어려움)",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": false
+    }
+  },
+  {
+    "row": 1614,
+    "product_name": "Myrtle oil",
+    "resolution": "found",
+    "confidence": "high",
+    "notes": "",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "위험(Danger)",
+        "ghs_hazard_statements": "H226(인화성 액체 구분4); H304(흡인 유해성 구분1); H315(피부 자극성 구분2); H317(피부 과민성 구분1); H411(수생환경 유해성 만성 구분2)",
+        "skin_corrosion_irritation": "피부 자극성 구분2 (H315)",
+        "eye_damage_irritation": "분류대상 아님 (자료상 미분류)",
+        "respiratory_skin_sensitization": "피부 과민성 구분1 (H317)",
+        "aspiration_hazard": "구분1 (H304)"
+      }
+    },
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    }
+  },
+  {
+    "row": 1615,
+    "product_name": "Almond oil sweet",
+    "resolution": "no_code_in_sds",
+    "confidence": "medium",
+    "notes": "",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    }
+  },
+  {
+    "row": 1616,
+    "product_name": "Perilla oil",
+    "resolution": "no_code_in_sds",
+    "confidence": "high",
+    "notes": "",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    }
+  },
+  {
+    "row": 1617,
+    "product_name": "Sassafras oil",
+    "resolution": "found",
+    "confidence": "high",
+    "notes": "구식 MSDS(EEC R-phrase 체계) - GHS 신호어/H코드 표기 없음, R22(경구 유해)/R36-38(안구·피부 자극) 사용; Safrole 함유로 발암성 우려(California Prop 65) 명시",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "field_values": {
+      "toxicity": {
+        "acute_oral_toxicity_ld50": "1900 mg/kg (Rat, 경구)",
+        "acute_dermal_toxicity_ld50": ">5000 mg/kg (Rabbit, 경피)",
+        "skin_corrosion_irritation": "자극성 (R36/38, moderate skin irritant)",
+        "eye_damage_irritation": "자극성 (irritant, R36/38)",
+        "respiratory_skin_sensitization": "자료 없음 (not_stated)",
+        "germ_cell_mutagenicity": "자료 없음 (Not available)",
+        "carcinogenicity": "Safrole 함유 - 발암 우려 물질 (California Prop 65 경고대상), 별도 GHS 분류 없음",
+        "reproductive_toxicity": "Safrole 관련 California Prop 65 생식독성 경고 대상 (GHS 분류코드 없음)",
+        "ghs_signal_word": "GHS 신호어 미표기 (구식 EEC 체계 사용)",
+        "ghs_hazard_statements": "GHS H코드 없음; EEC R-phrase: R22(삼키면 유해), R36/38(눈·피부에 자극성)"
+      }
+    },
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    }
+  },
+  {
+    "row": 1618,
+    "product_name": "Almond oil bitter",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS 자료 검색 실패 (검색엔진 접근 제한으로 재확인 어려움)",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": false
+    }
+  },
+  {
+    "row": 1619,
+    "product_name": "Cassie absolute (acacia farnesiana (l.) willd)",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS 자료 검색 실패 (검색엔진 접근 제한으로 재확인 어려움)",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": false
+    }
+  },
+  {
+    "row": 1620,
+    "product_name": "Sweet birch oil",
+    "resolution": "found",
+    "confidence": "medium",
+    "better_source_found": false,
+    "source_url": null,
+    "source_mismatch_found": false,
+    "notes": "로컬 하이라이트 PDF 접근 불가(환경 제약), 온라인 대체 SDS 탐색 실패(Nikura는 Birch Tar만 보유, 타 공급처 접속 차단/실패). 기존 추출값(Danger, H302/H317/H318/H361/H412, 눈손상1, 피부과민1)은 스위트버치오일 주성분인 메틸살리실레이트(CAS 119-36-8)의 EU CLP 조화분류(Acute Tox.4-Eye Dam.1-Skin Sens.1B-Repr.2-Aquatic Chronic 3)와 정확히 일치하여 화학적으로 타당함",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_hazard_statements": "H302 (Harmful if swallowed); H317 (May cause an allergic skin reaction); H318 (Causes serious eye damage); H361 (Suspected of damaging fertility or the unborn child); H412 (Harmful to aquatic life with long lasting effects)",
+        "eye_damage_irritation": "Eye Damage/Irritation Category 1",
+        "respiratory_skin_sensitization": "Skin Sensitization Category 1",
+        "reproductive_toxicity": "Reproductive Toxicity Category 2",
+        "acute_oral_toxicity_ld50": "Acute Toxicity Oral - Harmful if swallowed (consistent with methyl salicylate ATE ~890 mg/kg)"
+      }
+    }
+  },
+  {
+    "row": 1621,
+    "product_name": "Curcuma oil",
+    "resolution": "found",
+    "confidence": "high",
+    "better_source_found": true,
+    "source_url": "https://nikura.blob.core.windows.net/pdfs/Safety_Data_Sheet_Turmeric_Essential_Oil_EO-TUR.pdf",
+    "source_mismatch_found": false,
+    "notes": "기존 no_sds였으나 Nikura Turmeric Essential Oil SDS(INCI: Curcuma Longa L. Root Oil Hydrodistilled) 발견하여 대체 검색으로 확인",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_hazard_statements": "H304 (May be fatal if swallowed and enters airways); H317 (May cause an allergic skin reaction); H412 (Harmful to aquatic life with long lasting effects)",
+        "acute_oral_toxicity_ld50": "Not Applicable (criteria not met)",
+        "acute_dermal_toxicity_ld50": "Not Applicable",
+        "skin_corrosion_irritation": "Classification criteria not met",
+        "eye_damage_irritation": "Classification criteria not met",
+        "respiratory_skin_sensitization": "Skin Sensitization Category 1",
+        "aspiration_hazard": "Aspiration Hazard Category 1",
+        "ghs_pictograms": "GHS07 (exclamation mark), GHS08 (health hazard)"
+      }
+    }
+  },
+  {
+    "row": 1623,
+    "product_name": "Baccartol",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "better_source_found": false,
+    "source_url": null,
+    "source_mismatch_found": false,
+    "notes": "Baccartol 관련 SDS/정체 확인 실패 (검색 엔진 접속 제한으로 조사 어려움); ingredient_names=Beta-citronellol,(S)- 와의 매칭 여부도 확인 못함",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": false
+    },
+    "field_values": {}
+  },
+  {
+    "row": 1624,
+    "product_name": "Lavandin oil",
+    "resolution": "found",
+    "confidence": "high",
+    "better_source_found": true,
+    "source_url": "https://nikura.blob.core.windows.net/pdfs/Safety_Data_Sheet_Lavandin_Essential_Oil_EO-LAVN.pdf",
+    "source_mismatch_found": false,
+    "notes": "기존 추출값(H코드 16개, Warning)은 실제 SDS Section2/11 최종분류가 아니라 Section3 성분별(Linalool/Camphor/Eucalyptol 등) H코드 전체 합집합으로 보임. 실제 Nikura Lavandin Essential Oil SDS(Section2/11 기준) 확인 결과 Danger, H304/H315/H317/H318/H411/H412(6개)임",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_hazard_statements": "H304 (May be fatal if swallowed and enters airways); H315 (Causes skin irritation); H317 (May cause an allergic skin reaction); H318 (Causes serious eye damage); H411 (Toxic to aquatic life with long lasting effects); H412 (Harmful to aquatic life with long lasting effects)",
+        "acute_oral_toxicity_ld50": "3654 mg/kg (mixture ATE; classification criteria not met)",
+        "acute_dermal_toxicity_ld50": "Not Applicable",
+        "acute_inhalation_toxicity_lc50": "Not Available",
+        "skin_corrosion_irritation": "Skin Corrosion/Irritation Category 2",
+        "eye_damage_irritation": "Eye Damage/Irritation Category 1",
+        "respiratory_skin_sensitization": "Skin Sensitization Category 1B",
+        "aspiration_hazard": "Aspiration Hazard Category 1",
+        "ghs_pictograms": "GHS05 (corrosion), GHS07 (exclamation mark), GHS08 (health hazard), GHS09 (environment)"
+      }
+    }
+  },
+  {
+    "row": 1625,
+    "product_name": "Tangerine oil",
+    "resolution": "found",
+    "confidence": "high",
+    "better_source_found": true,
+    "source_url": "https://nikura.blob.core.windows.net/pdfs/Safety_Data_Sheet_Tangerine_Essential_Oil_EO-TANG.pdf",
+    "source_mismatch_found": false,
+    "notes": "기존 no_sds였으나 Nikura Tangerine Essential Oil SDS(CAS 8016-85-1) 발견",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_hazard_statements": "H302 (Harmful if swallowed); H400 (Very toxic to aquatic life); H411 (Toxic to aquatic life with long lasting effects)",
+        "acute_oral_toxicity_ld50": ">5000 mg/kg (Acute Toxicity - Oral Category 4 per SDS Section 11)",
+        "acute_dermal_toxicity_ld50": "Not Applicable",
+        "acute_inhalation_toxicity_lc50": "Not Available",
+        "skin_corrosion_irritation": "Classification criteria not met",
+        "eye_damage_irritation": "Classification criteria not met",
+        "respiratory_skin_sensitization": "Classification criteria not met",
+        "ghs_pictograms": "GHS07 (exclamation mark), GHS09 (environment)"
+      }
+    }
+  },
+  {
+    "row": 1626,
+    "product_name": "Boldo leaf oil",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "better_source_found": false,
+    "source_url": null,
+    "source_mismatch_found": false,
+    "notes": "SDS 찾지 못함 (Nikura/NDA 등 주요 공급처에 제품 없음, 검색엔진 접속 제한)",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": false
+    },
+    "field_values": {}
+  },
+  {
+    "row": 1627,
+    "product_name": "Dill seed oil, Indian",
+    "resolution": "found",
+    "confidence": "high",
+    "better_source_found": true,
+    "source_url": "https://nikura.blob.core.windows.net/pdfs/Safety_Data_Sheet_Dill_Seed_Essential_Oil_EO-DIL.pdf",
+    "source_mismatch_found": false,
+    "notes": "기존 no_sds였으나 Nikura Dill Seed (Indian) Essential Oil - 100% Pure SDS 발견, 제품명 정확히 일치",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_hazard_statements": "H226 (Flammable liquid and vapour); H304 (May be fatal if swallowed and enters airways); H315 (Causes skin irritation); H317 (May cause an allergic skin reaction); H400 (Very toxic to aquatic life); H412 (Harmful to aquatic life with long lasting effects)",
+        "acute_oral_toxicity_ld50": "4600 mg/kg (classification criteria not met)",
+        "acute_dermal_toxicity_ld50": ">5000 mg/kg",
+        "acute_inhalation_toxicity_lc50": "Not Available",
+        "skin_corrosion_irritation": "Skin Corrosion/Irritation Category 2",
+        "eye_damage_irritation": "Classification criteria not met",
+        "respiratory_skin_sensitization": "Skin Sensitization Category 1",
+        "aspiration_hazard": "Aspiration Hazard Category 1",
+        "ghs_pictograms": "GHS02 (flammable), GHS07 (exclamation mark), GHS08 (health hazard), GHS09 (environment)"
+      }
+    }
+  },
+  {
+    "row": 1628,
+    "product_name": "Clove bud oil",
+    "resolution": "found",
+    "confidence": "high",
+    "better_source_found": true,
+    "source_url": "https://nikura.blob.core.windows.net/pdfs/Safety_Data_Sheet_Clove_Bud_Essential_Oil_EO-CLO.pdf",
+    "source_mismatch_found": false,
+    "notes": "Nikura Clove Bud Essential Oil SDS(CAS 8000-34-8, 주성분 Eugenol) 확인, 기존 추출값과 정확히 일치. 단, 원본 SDS 자체에 Section2(H315 피부자극 포함)와 Section11(피부부식/자극 '기준 미충족') 간 내부 불일치가 존재(SDS 원본 오류로 추정)",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_hazard_statements": "H304 (May be fatal if swallowed and enters airways); H315 (Causes skin irritation); H317 (May cause an allergic skin reaction); H319 (Causes serious eye irritation); H401 (Toxic to aquatic life)",
+        "acute_oral_toxicity_ld50": "2650 mg/kg",
+        "acute_dermal_toxicity_ld50": "2500 mg/kg",
+        "acute_inhalation_toxicity_lc50": "Not Available",
+        "skin_corrosion_irritation": "Section 11 states classification criteria not met (but Section 2 lists H315)",
+        "eye_damage_irritation": "Eye Damage/Irritation Category 2 / 2A",
+        "respiratory_skin_sensitization": "Skin Sensitization Category 1B",
+        "germ_cell_mutagenicity": "Classification criteria not met",
+        "carcinogenicity": "Classification criteria not met",
+        "reproductive_toxicity": "Classification criteria not met",
+        "stot_single_exposure": "Classification criteria not met",
+        "stot_repeated_exposure": "Classification criteria not met",
+        "aspiration_hazard": "Classification criteria not met",
+        "ghs_pictograms": "GHS07 (exclamation mark)"
+      }
+    }
+  },
+  {
+    "row": 1629,
+    "product_name": "Bois de rose oil Brazilian",
+    "resolution": "no_code_in_sds",
+    "confidence": "medium",
+    "notes": "구형 MSDS(Hetaksh Essential Oils, CAS 8015-77-8)로 GHS 신호어/H코드 없음 - Section11에 정성적 서술만 존재(피부/눈 경미한 자극성, irritant)",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    }
+  },
+  {
+    "row": 1630,
+    "product_name": "Clove leaf oil Madagascar",
+    "resolution": "found",
+    "confidence": "medium",
+    "notes": "제품명은 마다가스카르산이나 확인된 SDS(Oshadhi)는 원산지 인도네시아로 표기됨 - 성분/CAS는 동일(Eugenia caryophyllata, CAS 8000-34-8); 이전 단계 no_sds였으나 자체 검색으로 발견",
+    "source_mismatch_found": false,
+    "better_source_found": true,
+    "source_url": "https://oshadhi.co.uk/media/files/2240_MSDS_ENa.pdf",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_hazard_statements": "H304 (흡인시 유해할 수 있음); H317 (피부 알레르기 반응 가능); H319 (심한 눈 자극)",
+        "acute_oral_toxicity_ld50": "혼합물 자체 값 없음 (주성분 Eugenol LD50 1930 mg/kg, rat, oral)",
+        "skin_corrosion_irritation": "분류기준 미충족 (No significant effects)",
+        "eye_damage_irritation": "Eye Damage/Irritation Category 2 (H319)",
+        "respiratory_skin_sensitization": "Skin Sensitization Category 1 (H317)",
+        "germ_cell_mutagenicity": "분류기준 미충족",
+        "carcinogenicity": "분류기준 미충족",
+        "reproductive_toxicity": "분류기준 미충족",
+        "aspiration_hazard": "Aspiration Hazard Category 1 (H304)",
+        "ghs_pictograms": "GHS07(경고), GHS08(건강유해성)"
+      }
+    }
+  },
+  {
+    "row": 1631,
+    "product_name": "Deertongue incolore",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "매칭되는 SDS를 찾지 못함 - LGBotanicals/Oshadhi/Berje Inc 등 주요 향료원료 공급사 사이트 및 일반 웹검색 시도(검색엔진 대부분 접속 차단/무효 응답)했으나 실패",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": false,
+      "ingredients_match": false
+    }
+  },
+  {
+    "row": 1632,
+    "product_name": "Marjoram oil, Spanish",
+    "resolution": "found",
+    "confidence": "high",
+    "notes": "이전 단계에서 no_sds로 표기되었으나 제공된 hint URL(lgbotanicals)에서 실제로 SDS 확인됨",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_hazard_statements": "H226(인화성 액체/증기); H302(삼키면 유해); H304(흡인 시 치명적일 수 있음); H315(피부 자극); H317(피부 알레르기 반응 가능); H319(심한 눈 자극); STOT SE Cat.2(장기 손상 우려, 구체 H코드 미기재)",
+        "acute_oral_toxicity_ld50": "2832 mg/kg",
+        "acute_dermal_toxicity_ld50": ">5000 mg/kg",
+        "acute_inhalation_toxicity_lc50": "자료없음",
+        "skin_corrosion_irritation": "Skin Corrosion/Irritation Category 2",
+        "eye_damage_irritation": "Eye Damage/Irritation Category 2A",
+        "respiratory_skin_sensitization": "Skin Sensitization Category 1",
+        "stot_single_exposure": "STOT-SE Category 2",
+        "stot_repeated_exposure": "분류기준 미충족",
+        "germ_cell_mutagenicity": "분류기준 미충족",
+        "carcinogenicity": "분류기준 미충족",
+        "reproductive_toxicity": "분류기준 미충족",
+        "aspiration_hazard": "Aspiration Hazard Category 1",
+        "ghs_pictograms": "GHS02(인화성), GHS07(경고), GHS08(건강유해성)"
+      }
+    }
+  },
+  {
+    "row": 1634,
+    "product_name": "Savory oil (summer variety)",
+    "resolution": "found",
+    "confidence": "high",
+    "notes": "이전 단계에서 no_sds로 표기되었으나 제공된 hint URL(oshadhi)에서 실제로 SDS 확인됨",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_hazard_statements": "H302(삼키면 유해); H304(흡인 시 치명적일 수 있음); H312(피부 접촉 시 유해); H315(피부 자극); H317(피부 알레르기 반응 가능); H319(심한 눈 자극); H411(장기적 수생생물 유해)",
+        "acute_oral_toxicity_ld50": "혼합물 자체 값 없음; 주성분 Carvacrol 810 mg/kg(rat), gamma-Terpinene 3650 mg/kg(rat) 등",
+        "acute_dermal_toxicity_ld50": "Acute Tox.4(dermal) 분류; 성분 Borneol >3000 mg/kg(rabbit) 등",
+        "skin_corrosion_irritation": "Category 2 (H315)",
+        "eye_damage_irritation": "Category 2 (H319)",
+        "respiratory_skin_sensitization": "Skin Sensitization Category 1 (H317)",
+        "aspiration_hazard": "Category 1 (H304)",
+        "germ_cell_mutagenicity": "유의할 영향 없음",
+        "carcinogenicity": "유의할 영향 없음",
+        "reproductive_toxicity": "유의할 영향 없음",
+        "ghs_pictograms": "GHS07(경고), GHS08(건강유해성), GHS09(환경유해성)"
+      }
+    }
+  },
+  {
+    "row": 1635,
+    "product_name": "Musk tonquin tincture",
+    "resolution": "found",
+    "confidence": "medium",
+    "notes": "확인된 SDS 제품명은 'Musk Fragrance Oil'(합성 향료 블렌드, New Directions Aromatics)로 'Musk Tonquin Tincture'와 명칭이 정확히 일치하지 않음 - 다만 기존 hint의 신호어/H코드/등급값과 정확히 일치함(H317/H319, Warning, Eye 2A, Sens 1)",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_hazard_statements": "H317(피부 알레르기 반응 가능); H319(심한 눈 자극)",
+        "respiratory_skin_sensitization": "Skin Sensitization Category 1",
+        "eye_damage_irritation": "Serious Eye Damage/Eye Irritation Category 2A",
+        "skin_corrosion_irritation": "미기재(not stated)",
+        "carcinogenicity": "IARC/NTP/OSHA 발암성 미인정",
+        "germ_cell_mutagenicity": "0.1% 초과 성분 중 변이원성/유전독성 자료 없음",
+        "reproductive_toxicity": "0.1% 초과 성분 중 생식독성(기형유발) 자료 없음",
+        "ghs_pictograms": "GHS07(경고)"
+      }
+    }
+  },
+  {
+    "row": 1637,
+    "product_name": "Cypress oil",
+    "resolution": "found",
+    "confidence": "high",
+    "notes": "",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_hazard_statements": "H315(피부 자극); H319(심한 눈 자극); H412(장기적 수생생물 유해)",
+        "acute_oral_toxicity_ld50": "분류기준 미충족(Not Applicable)",
+        "acute_dermal_toxicity_ld50": "분류기준 미충족(Not Applicable)",
+        "acute_inhalation_toxicity_lc50": "자료없음(Not Available)",
+        "skin_corrosion_irritation": "Skin Corrosion/Irritation Category 2",
+        "eye_damage_irritation": "Eye Damage/Irritation Category 2",
+        "respiratory_skin_sensitization": "분류기준 미충족",
+        "germ_cell_mutagenicity": "분류기준 미충족",
+        "carcinogenicity": "분류기준 미충족",
+        "reproductive_toxicity": "분류기준 미충족",
+        "stot_single_exposure": "분류기준 미충족",
+        "stot_repeated_exposure": "분류기준 미충족",
+        "aspiration_hazard": "분류기준 미충족",
+        "ghs_pictograms": "GHS07(경고)"
+      }
+    }
+  }
+]

@@ -1,0 +1,179 @@
+{
+  "population": {
+    "행수": 541,
+    "설명": "input_dataset_v5.xlsx formulation 시트에서 doc_rel 이 채워진 541행 전수 판정. 표본 아님."
+  },
+  "판정분포": {
+    "일치": 191,
+    "부분일치": 163,
+    "오연결": 147,
+    "상표명대응": 32,
+    "불명": 8
+  },
+  "판정분포_규칙엔진_초기값": {
+    "일치": 189,
+    "오연결": 177,
+    "상표명대응": 97,
+    "부분일치": 78
+  },
+  "수동판정_적용건수": 183,
+  "근거유형분포": {
+    "CAS일치": 157,
+    "CAS불일치": 144,
+    "외부지식": 105,
+    "제품명동일": 62,
+    "조성일치": 40,
+    "조성불일치": 25,
+    "판독불가": 8
+  },
+  "신뢰도분포": {
+    "중간": 305,
+    "높음": 205,
+    "낮음": 31
+  },
+  "라벨오염판정기준": "판정=='오연결' AND y_<ep>_src_detail 이 'sds_v1' 로 시작(sds_v1 / sds_v1_negative_recovered). ntp_measured·sds_2nd·phase1_sds 라벨은 이 문서에서 오지 않았으므로 오염 아님.",
+  "라벨오염": {
+    "eye": {
+      "오염_True": 72,
+      "비오염_False": 370,
+      "라벨없음_NA": 99,
+      "해당엔드포인트_전체라벨수": 1153,
+      "오염비율": 0.0624,
+      "제외후_잔여학습수": 1081
+    },
+    "skin": {
+      "오염_True": 73,
+      "비오염_False": 352,
+      "라벨없음_NA": 116,
+      "해당엔드포인트_전체라벨수": 1059,
+      "오염비율": 0.0689,
+      "제외후_잔여학습수": 986
+    },
+    "sens": {
+      "오염_True": 108,
+      "비오염_False": 291,
+      "라벨없음_NA": 142,
+      "해당엔드포인트_전체라벨수": 716,
+      "오염비율": 0.1508,
+      "제외후_잔여학습수": 608
+    }
+  },
+  "hypergeom_eye_always_wrong": {
+    "오연결_전체": {
+      "n": 121,
+      "K": 301,
+      "N": 1153,
+      "observed": 35,
+      "expected": 31.59,
+      "fold": 1.108,
+      "p_value": 0.2594357086933216
+    },
+    "라벨오염_eye_True": {
+      "n": 72,
+      "K": 301,
+      "N": 1153,
+      "observed": 20,
+      "expected": 18.8,
+      "fold": 1.064,
+      "p_value": 0.41546737197664824
+    },
+    "오연결_또는_부분일치": {
+      "n": 257,
+      "K": 301,
+      "N": 1153,
+      "observed": 68,
+      "expected": 67.09,
+      "fold": 1.014,
+      "p_value": 0.4709740516352166
+    },
+    "해석": "모두 p>0.05, fold 1.1~1.2 수준. 문서 오연결은 eye always_wrong 군에 유의하게 집중되지 않는다. 즉 eye 성능 저하(ROC-AUC 0.639)를 문서 오연결로 설명할 수 없다. 음성 결과로 보고한다.",
+    "주의": "eye_misclassification.csv 의 always_wrong 은 288이 아니라 301건이었다(N=1153)."
+  },
+  "hypergeom_참고_라벨출처별": {
+    "sds_v1_negative_recovered": {
+      "n": 109,
+      "observed": 58,
+      "expected": 28.5,
+      "fold": 2.04,
+      "p_value": 1.866223436667644e-10
+    },
+    "sds_2nd_sec11": {
+      "n": 106,
+      "observed": 40,
+      "expected": 27.7,
+      "fold": 1.45,
+      "p_value": 0.0038345904320373735
+    },
+    "phase1_sds": {
+      "n": 22,
+      "observed": 10,
+      "expected": 5.7,
+      "fold": 1.74,
+      "p_value": 0.037671458748218645
+    },
+    "sds_v1": {
+      "n": 181,
+      "observed": 24,
+      "expected": 47.3,
+      "fold": 0.51,
+      "p_value": 0.9999982240037102
+    },
+    "sds_2nd": {
+      "n": 127,
+      "observed": 14,
+      "expected": 33.2,
+      "fold": 0.42,
+      "p_value": 0.9999972631158259
+    },
+    "ntp_measured": {
+      "n": 608,
+      "observed": 155,
+      "expected": 158.7,
+      "fold": 0.98,
+      "p_value": 0.7148292311433059
+    },
+    "해석": "eye 오분류의 실제 집중은 문서 오연결이 아니라 라벨 출처에 있다: sds_v1_negative_recovered fold 2.04 p=1.9e-10, sds_2nd_sec11 fold 1.45 p=0.0038. 반대로 sds_v1(fold 0.51)·sds_2nd(0.42)는 오히려 잘 맞는다."
+  },
+  "mechanism": {
+    "결론": "doc_rel 연결을 만든 코드는 이 저장소에 없다 → 코드 확인 불가. v1 원본 워크북(03_입력데이터/input_dataset.xlsx)에 이미 완성된 상태로 존재한다.",
+    "코드증거": [
+      "01_파이프라인/*.py 전체에서 doc_rel 은 소비만 됨: make_manual_review_workbook.py:231, :300, :361 / verify_sheets.py:97, :120, :210, :296. 대입(생성) 0건.",
+      "01_파이프라인/*.py 에서 ingredient_source 대입 0건 (verify_sheets.py:97, :153, :297 읽기만).",
+      "01_파이프라인/lib_tox11.py:426-470 resolve_y_conflict 는 ICE 활성 CAS 와 SDS Section3 CAS 가 불일치(composition_mismatch)임을 이미 탐지하지만, 연결을 끊거나 라벨을 버리지 않고 y_preferred=None 으로만 표시한다 → 오연결이 하류로 통과한 경로."
+    ],
+    "데이터_역공학_증거": [
+      "source_id = sha1(ingredient_source URL).hexdigest()[:16] 로 411건 100% 재현(md5/sha256 불일치). doc_rel 파일명은 ingredient_source URL 의 결정론적 파생물이며 독성문서를 따로 검색한 결과가 아니다.",
+      "v1 MetaData 112행: ingredient_source = \"성분 출처 URL … 독성 근거가 아니라 이 제형의 성분표를 어디서 가져왔는가\", 비고 \"독성 근거와 다른 범주 — 섞어 쓰지 말 것\". 그런데 sds_ghs_eye/skin/sens 라벨이 바로 이 문서에서 파싱되었다 → 1차 기전 = 성분표 출처 URL의 독성근거 전용(용도 혼용).",
+      "2차 기전 = 그룹 단위 CAS 조회: Gxxx_<CAS>_ChemBlink_Sigma_* 형식 문서 87건. group_primary_cas 가 활성성분이 아닌 부자재일 때 무관한 SDS가 붙었다. 예 V-10116 3.7 FS(활성 metconazole) → G041_56-81-5(글리세린) SDS.",
+      "3차 기전 = 제품명 문자열 부분일치 오채택 흔적: Weld Herbicide→AS-SB-A ANTI-SPATTER(공유토큰 \"Weld\"), XDE-PRDX→Conoidin A(\"PRDX\"), Decis 1.0 Gel→1-Decene(\"Dec\"), TC 240→SYSTEM TC 240 ANTISLITTANTE(\"TC 240\"), Zoxamide→Oxamide. 문자열유사도인지 검색API 1위채택인지는 코드가 없어 확정 불가."
+    ],
+    "주의": "문서를 여러 제형이 공유한다(384 고유문서 / 541행). 같은 제품의 PID/MIX 쌍이 동일 문서를 공유하므로 오연결도 쌍으로 발생한다."
+  },
+  "확인불가": {
+    "불명_8건": [
+      "EyeIrritation6pack_PID126",
+      "EyeIrritation6pack_PID498",
+      "MIX1007",
+      "MIX1009",
+      "MIX1019",
+      "MIX1043",
+      "MIX255",
+      "MIX72"
+    ],
+    "이유": [
+      "PubChem HTML stub 3건(MIX1019, MIX1043, MIX1009): 추출 본문 140~161자, 조성표·GHS 없음",
+      "tox_doc_product 결측 3건(EyeIrritation6pack_PID126, MIX72, MIX1007)",
+      "GF-1640 WG-NC 2건(EyeIrritation6pack_PID498, MIX255): 문서가 TEDX 화학물질 목록 스프레드시트로 제품 SDS 아님"
+    ],
+    "신뢰도_낮음": 31,
+    "순환성_한계": "ingredient 시트 ing_src==\"master\" 행은 감사 대상 문서에서 파싱된 값이므로 CAS 일치가 자동으로 성립한다(순환). 독립 앵커(ing_src==\"ntp_ice\")는 541건 중 290건에만 있어, 나머지 251건은 제품명·상표명 외부지식과 문서 본문 대조로 판정했다 → 이 251건의 신뢰도는 중간/낮음.",
+    "541건_밖_실오연결": "EyeIrritation6pack_PID560(Ironclad Herbicide → CRC 2-26 Multi-Purpose Precision Lubricant), MIX1024(Bay oil → SWEET ALMOND OIL). 사용자가 원문 PDF로 확인한 실제 오연결이지만 doc_rel 이 결측이어서 541 모집단에 포함되지 않는다. doc_rel 이 없는 1134행에도 동종 오연결이 존재함을 시사한다."
+  },
+  "권고": {
+    "즉시제외": "라벨오염=True 행 (eye 72 / skin 73 / sens 108) 의 해당 엔드포인트 라벨을 학습에서 제외. 제외 후 eye 1081, skin 986, sens 608.",
+    "재수집": "오연결 147건 중 상용 농약제품 약 100건은 EPA 등록 라벨/제조사 SDS 로 재수집 가능. 재수집 성공 시 원복.",
+    "대체출처": "ntp_measured 라벨이 함께 있는 오연결 행은 문서를 버리고 NTP 값을 쓰면 손실 없음(오연결 147건 중 y_eye_src=ntp_measured 51건).",
+    "부분일치_주의": "부분일치 163건은 라벨을 그대로 쓰면 농도·제형이 다른 라벨을 전이하는 것이다. 특히 원제(technical) 문서를 저농도 제품에 붙인 사례(예: Tebuconazole 15% → Tebuconazole ≥97%, Cardamom oil → Cardamom 10% 희석품)는 별도 플래그 후 민감도 분석 권장.",
+    "구조적_수정": "ingredient_source 를 독성근거로 재사용하는 경로를 끊고, lib_tox11.py resolve_y_conflict 의 composition_mismatch 를 라벨 폐기 조건으로 승격할 것."
+  }
+}

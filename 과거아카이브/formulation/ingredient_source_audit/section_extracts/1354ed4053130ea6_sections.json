@@ -1,0 +1,48 @@
+{
+  "source_id": "1354ed4053130ea6",
+  "file_path": "ingredient_source_audit/highlighted/1354ed4053130ea6_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 8593,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product name",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION\n \nProduct name\n:\nParsley Seed Essential Oil (India)\n \nBotanical name\n:\nPetroselinum sativum\n \nSynonyms\n:\nPetroselinum crispum\n \nFEMA\n:\n2836\n \nINCI name\n:\nPetroselinum sativum (Parsley) Seed Oil\n \nCAS #\n:\n84012-33-9 / 8000-68-8\n \nCountry of Origin\n:\nIndia\n \nEINECS #"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H226",
+      "H303",
+      "H315",
+      "H319",
+      "H335"
+    ],
+    "p_codes": [
+      "P261",
+      "P305",
+      "P351",
+      "P338"
+    ],
+    "ghs_classes": [
+      "Skin corrosion"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 3,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION\n \nEmergency Overview\n \nWHMIS Classification\n \nB3\nCombustible Liquid.\n \nD2B\nToxic Material Causing\nModerate eye irritant\n \n.\nOther Toxic Effects\n \nGHS Classification\n \nFlammable Liquid, Category 3.\n \nAcute Toxicity oral - Category 5.\n \nSkin corrosion/irritation - Category 2\n"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

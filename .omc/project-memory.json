@@ -1,0 +1,467 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1789894235815,
+  "projectRoot": "/Users/hanseoyun/Desktop/신작물보호제",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "01_파이프라인": {
+      "path": "01_파이프라인",
+      "purpose": null,
+      "fileCount": 90,
+      "lastAccessed": 1789894235735,
+      "keyFiles": [
+        "MASTERPLAN.md",
+        "active_rank.py",
+        "active_rank_v2.py",
+        "add_task_columns.py",
+        "apply_ing_ghs_survey.py"
+      ]
+    },
+    "02_의존데이터": {
+      "path": "02_의존데이터",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1789894235735,
+      "keyFiles": []
+    },
+    "03_입력데이터": {
+      "path": "03_입력데이터",
+      "purpose": null,
+      "fileCount": 3,
+      "lastAccessed": 1789894235735,
+      "keyFiles": [
+        "dataset_배정_20260824.xlsx",
+        "input_dataset.xlsx",
+        "input_dataset_v3.xlsx"
+      ]
+    },
+    "04_모델산출물": {
+      "path": "04_모델산출물",
+      "purpose": null,
+      "fileCount": 7,
+      "lastAccessed": 1789894235735,
+      "keyFiles": [
+        "input_dataset_v2.xlsx",
+        "input_dataset_v3.xlsx",
+        "input_dataset_v4.xlsx",
+        "input_dataset_v5.xlsx",
+        "input_dataset_v6.xlsx"
+      ]
+    },
+    "05_원본보관_260908": {
+      "path": "05_원본보관_260908",
+      "purpose": null,
+      "fileCount": 5,
+      "lastAccessed": 1789894235736,
+      "keyFiles": [
+        "보경_dataset.xlsx",
+        "이서윤_pH.xlsx",
+        "이서윤_pH_백업_260908.xlsx",
+        "정채윤_GHS 조사.xlsx",
+        "최소빈_독성라벨.xlsx"
+      ]
+    },
+    "05_제안": {
+      "path": "05_제안",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1789894235737,
+      "keyFiles": [
+        "공통모델규약_배포_260914.zip"
+      ]
+    },
+    "06_화학연구원_공유_260916": {
+      "path": "06_화학연구원_공유_260916",
+      "purpose": null,
+      "fileCount": 5,
+      "lastAccessed": 1789894235737,
+      "keyFiles": [
+        "PACKAGE_VERSION.json",
+        "README.md",
+        "근거매니페스트.csv",
+        "제품코드별_성분리스트.xlsx",
+        "패키지_생성.log"
+      ]
+    },
+    "07_화학연구원_공유_260918": {
+      "path": "07_화학연구원_공유_260918",
+      "purpose": null,
+      "fileCount": 17,
+      "lastAccessed": 1789894235737,
+      "keyFiles": [
+        "00_과거공유본_분석.md",
+        "01_요약.json",
+        "02_제품코드별_성분리스트.xlsx",
+        "03_근거파일_인벤토리.csv",
+        "04_출처수집기록.csv"
+      ]
+    },
+    "09_화학연구원_배포_감사형식_260920": {
+      "path": "09_화학연구원_배포_감사형식_260920",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1789894235737,
+      "keyFiles": [
+        "formulation_ingredients_master_audited.xlsx"
+      ]
+    },
+    "formulation_audit_team_share_highlighted_only_20260630": {
+      "path": "formulation_audit_team_share_highlighted_only_20260630",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1789894235737,
+      "keyFiles": [
+        "formulation_ingredients_master_audited.xlsx"
+      ]
+    },
+    "과거아카이브": {
+      "path": "과거아카이브",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1789894235737,
+      "keyFiles": [
+        "formulation_audit_team_share_highlighted_only_20260630.zip"
+      ]
+    },
+    "회의_260908": {
+      "path": "회의_260908",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1789894235737,
+      "keyFiles": [
+        "신작물보호제_미팅보고서_260908_한서윤.docx",
+        "현 연구의 모델 개발 방향 및 데이터 수집에 관한 종합적 고찰.pdf"
+      ]
+    },
+    "회의_260915": {
+      "path": "회의_260915",
+      "purpose": null,
+      "fileCount": 3,
+      "lastAccessed": 1789894235738,
+      "keyFiles": [
+        "SMILES_모델개발_채윤.pdf",
+        "모델개발_260915_한서윤.pdf",
+        "완제품 모델 현황_소빈.pdf"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "01_파이프라인/collect_ing_ghs.py",
+      "accessCount": 104,
+      "lastAccessed": 1789387965854,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/verify_msds_highlight_share.py",
+      "accessCount": 49,
+      "lastAccessed": 1789791553748,
+      "type": "file"
+    },
+    {
+      "path": "04_모델산출물/v8_노선2/규제처리_명시.md",
+      "accessCount": 37,
+      "lastAccessed": 1789972756822,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/lib_model.py",
+      "accessCount": 33,
+      "lastAccessed": 1789962906587,
+      "type": "file"
+    },
+    {
+      "path": "05_제안/노선분리_비교규약.md",
+      "accessCount": 30,
+      "lastAccessed": 1789335669985,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/audit_ing_msds_values.py",
+      "accessCount": 28,
+      "lastAccessed": 1789391790752,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/run_model_lane2.py",
+      "accessCount": 26,
+      "lastAccessed": 1789957732641,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/measure_a0_fill.py",
+      "accessCount": 25,
+      "lastAccessed": 1789964993776,
+      "type": "file"
+    },
+    {
+      "path": "04_모델산출물/v8_리포트/모델개발_데이터현황_리포트.md",
+      "accessCount": 24,
+      "lastAccessed": 1789973027621,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/collect_product_docs.py",
+      "accessCount": 23,
+      "lastAccessed": 1789802157576,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/audit_read_rules.py",
+      "accessCount": 22,
+      "lastAccessed": 1789784455996,
+      "type": "file"
+    },
+    {
+      "path": "README.md",
+      "accessCount": 22,
+      "lastAccessed": 1789972546267,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/audit_feature_lane.py",
+      "accessCount": 17,
+      "lastAccessed": 1789963640585,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/measure_ing_survey_gain.py",
+      "accessCount": 17,
+      "lastAccessed": 1789965003170,
+      "type": "file"
+    },
+    {
+      "path": "05_제안/배포_노선분리/노선분리_비교규약.md",
+      "accessCount": 17,
+      "lastAccessed": 1789972845442,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/audit_ing_ghs_survey.py",
+      "accessCount": 16,
+      "lastAccessed": 1789376408461,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/audit_leakage_lane2.py",
+      "accessCount": 15,
+      "lastAccessed": 1789964982886,
+      "type": "file"
+    },
+    {
+      "path": "05_제안/배포_노선분리/README.md",
+      "accessCount": 14,
+      "lastAccessed": 1789963091388,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/apply_ing_ghs_survey.py",
+      "accessCount": 11,
+      "lastAccessed": 1789380676546,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/audit_zero_vs_missing.py",
+      "accessCount": 10,
+      "lastAccessed": 1788916199877,
+      "type": "file"
+    },
+    {
+      "path": "05_제안/배포_노선분리/load_common.py",
+      "accessCount": 9,
+      "lastAccessed": 1789963016246,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/measure_lane2_cleanup.py",
+      "accessCount": 7,
+      "lastAccessed": 1789967048066,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/run_model_formulation.py",
+      "accessCount": 6,
+      "lastAccessed": 1789956136788,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/measure_sens_drop_lane2.py",
+      "accessCount": 6,
+      "lastAccessed": 1789967041175,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/run_model_ingredient.py",
+      "accessCount": 5,
+      "lastAccessed": 1788916555727,
+      "type": "file"
+    },
+    {
+      "path": "04_모델산출물/v8_리포트/배포본_소스차이_260921.md",
+      "accessCount": 5,
+      "lastAccessed": 1789972900168,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/measure_feature_cleanup.py",
+      "accessCount": 3,
+      "lastAccessed": 1789961000168,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/archive_sens.py",
+      "accessCount": 2,
+      "lastAccessed": 1788913909225,
+      "type": "file"
+    },
+    {
+      "path": "04_모델산출물/v8_리포트/figures/fig6_cv_design.png",
+      "accessCount": 2,
+      "lastAccessed": 1789446817257,
+      "type": "file"
+    },
+    {
+      "path": "04_모델산출물/v8_리포트/figures/fig_a_feature_importance.png",
+      "accessCount": 2,
+      "lastAccessed": 1789802810914,
+      "type": "file"
+    },
+    {
+      "path": "07_화학연구원_공유_260918/README.md",
+      "accessCount": 2,
+      "lastAccessed": 1789804098224,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/run_model_formulation_v8.py",
+      "accessCount": 2,
+      "lastAccessed": 1789957753357,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/measure_full_metrics_v6.py",
+      "accessCount": 1,
+      "lastAccessed": 1788912784473,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/smoke_threshold_tuning.py",
+      "accessCount": 1,
+      "lastAccessed": 1788912790541,
+      "type": "file"
+    },
+    {
+      "path": "04_모델산출물/v8_노선2/run.log",
+      "accessCount": 1,
+      "lastAccessed": 1789333784229,
+      "type": "file"
+    },
+    {
+      "path": "04_모델산출물/v8_성분조사/조사.log",
+      "accessCount": 1,
+      "lastAccessed": 1789374612686,
+      "type": "file"
+    },
+    {
+      "path": "04_모델산출물/v8_리포트/figures/fig2_ingredient_gap.png",
+      "accessCount": 1,
+      "lastAccessed": 1789389885943,
+      "type": "file"
+    },
+    {
+      "path": "01_파이프라인/lib_ct_nckeep.py",
+      "accessCount": 1,
+      "lastAccessed": 1789391834224,
+      "type": "file"
+    },
+    {
+      "path": "04_모델산출물/v8_리포트/figures/figB1_feature_map.png",
+      "accessCount": 1,
+      "lastAccessed": 1789456514571,
+      "type": "file"
+    },
+    {
+      "path": "04_모델산출물/v8_리포트/figures/figB2_corr_heatmap.png",
+      "accessCount": 1,
+      "lastAccessed": 1789456522117,
+      "type": "file"
+    },
+    {
+      "path": "formulation_audit_team_share_highlighted_only_20260630/artifacts/share_packages/formulation_audit_team_share_highlighted_only_20260630.summary.json",
+      "accessCount": 1,
+      "lastAccessed": 1789694710208,
+      "type": "file"
+    },
+    {
+      "path": "formulation_audit_team_share_highlighted_only_20260630/ingredient_source_audit/audit_outputs/ingredient_audit_summary.json",
+      "accessCount": 1,
+      "lastAccessed": 1789694710646,
+      "type": "file"
+    },
+    {
+      "path": "07_화학연구원_공유_260918/00_과거공유본_분석.md",
+      "accessCount": 1,
+      "lastAccessed": 1789698581052,
+      "type": "file"
+    },
+    {
+      "path": "07_화학연구원_공유_260918/06_검수보고.md",
+      "accessCount": 1,
+      "lastAccessed": 1789699772064,
+      "type": "file"
+    },
+    {
+      "path": "07_화학연구원_공유_260918/08_표기차이_판독규칙_판단.md",
+      "accessCount": 1,
+      "lastAccessed": 1789784767690,
+      "type": "file"
+    },
+    {
+      "path": "04_모델산출물/v8_리포트/260915_회의자료_예빈.pdf",
+      "accessCount": 1,
+      "lastAccessed": 1789802642409,
+      "type": "file"
+    },
+    {
+      "path": "회의_260915/모델개발_260915_한서윤.pdf",
+      "accessCount": 1,
+      "lastAccessed": 1789806000486,
+      "type": "file"
+    },
+    {
+      "path": "04_모델산출물/v8_리포트/figures/figB3_lane_columns.png",
+      "accessCount": 1,
+      "lastAccessed": 1789963333610,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

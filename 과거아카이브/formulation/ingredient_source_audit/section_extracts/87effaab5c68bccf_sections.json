@@ -1,0 +1,37 @@
+{
+  "source_id": "87effaab5c68bccf",
+  "file_path": "ingredient_source_audit/highlighted/87effaab5c68bccf_highlighted.pdf",
+  "page_count": 12,
+  "full_text_length": 19686,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_15",
+    "section_14"
+  ],
+  "section_1": {
+    "product_name": "Product Name:",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1.  IDENTIFICATION \n \nProduct Name:  \n \nET Herbicide/Defoliant  \nGeneral Use:   \n \nHerbicide/Defoliant \nProduct Description: \nEmulsifiable Concentrate \nEPA Reg. No.: \n  \n71711-7  \n \nManufacturer \nMain Headquarters: \nNihon Nohyaku Co., Ltd., Kyobashi OM Building, 19-8 \nKyobashi 1-chome, Chuo-ku, Toky"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Carcinogenicity"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "2.  HAZARD(S) IDENTIFICATION \n \nClassified according to OSHA 29 CFR 1910.1200 HCS \nClassification:  \n \nFlammable Liquid \n \nCategory 4 \n \nAcute Toxicity (Inhalation): \nCategory 4 \n \nSkin Irritation  \n \nCategory 2 \n \nEye Irritation  \n \nCategory 1 \n \nCarcinogenicity \n \nCategory 2 \n \nReproductive Toxici"
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

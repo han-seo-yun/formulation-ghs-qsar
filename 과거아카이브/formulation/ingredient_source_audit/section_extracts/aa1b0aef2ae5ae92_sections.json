@@ -1,0 +1,35 @@
+{
+  "source_id": "aa1b0aef2ae5ae92",
+  "file_path": "ingredient_source_audit/highlighted/aa1b0aef2ae5ae92_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 4958,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "• Product Name: Tolu Balsam",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "Section 1: Product Identification \n• Product Name: Tolu Balsam \n• Chemical Formula: N/A \n• CAS No: 8007-00-9 \n• Synonyms: Balsam of Tolu, Balsamum tolutanum \n• Recommended Use Fragrance, flavoring agent, pharmaceutical and cosmetic applications \n \n"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "Section 2: Hazards Identification \n• Classification (GHS): Skin Irritant, Eye Irritant  \n• Signal Word: Warning \n• Hazard Statements: \n   - May cause skin irritation \n \n \n \n \n   - May cause eye irritation \n   - May cause allergic skin reaction in sensitive individuals \n• Precautionary Statements: \n "
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

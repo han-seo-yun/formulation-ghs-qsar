@@ -1,0 +1,57 @@
+{
+  "source_id": "77338485e21f3c6e",
+  "file_path": "ingredient_source_audit/highlighted/77338485e21f3c6e_highlighted.pdf",
+  "page_count": 12,
+  "full_text_length": 9581,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "OF SUPPLIER",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1. IDENTIFICATION  OF THE SUBSTANCE OR MIXTURE AND \nOF SUPPLIER\nProduct name: \nCaprylic- Capric Acid Blend\nTrade name:\nPalmac 75-08 ,Palmac 56-08 ,Palmac 56-08H, Palmac 56-08S,  Palmac 55-08,  \nPalmac 50-08 , Crude C8-C10, Palmac C810 , Palmac 56-08/MB, Palmac 56-08/SG, \nPalmac 56-08S/MB, Pa"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H314",
+      "H318"
+    ],
+    "p_codes": [
+      "P260",
+      "P264",
+      "P280",
+      "P301",
+      "P330",
+      "P331",
+      "P303",
+      "P361",
+      "P353",
+      "P363",
+      "P304",
+      "P340",
+      "P310",
+      "P305",
+      "P351",
+      "P338"
+    ],
+    "ghs_classes": [
+      "Skin Corrosion"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2. HAZARDS IDENTIFICATION\n \nCorrosive\n2/12\nIOI ACIDCHEM SDN BHD\n2411, Lorong Perusahaan Satu, Prai Industrial Complex,\n13600 Prai, Penang, Malaysia.\nT : +60-4-376 8888\nF : +60-4-390 7252\nW : www.ioioleo.com\n198301016306 (111715-H)\nE : sales@ioioleo.com\nSkin Corrosion: Category: 1\nSerious Eye"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

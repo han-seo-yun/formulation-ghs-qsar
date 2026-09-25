@@ -1,0 +1,47 @@
+{
+  "source_id": "9ab31b9b102d6f04",
+  "file_path": "ingredient_source_audit/highlighted/9ab31b9b102d6f04_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 17338,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "• Trade name:",
+    "formulation_code": "EC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1 Product identifier\n• Trade name:\nVANILLA ABSOLUTE\n• Article number:\nP00541993000\n• CAS Number:\n8024-06-4\n• EC Number:\n283-521-8\n• No CAS EINECS:\n84650-63-5\n1.2 Relevant identified uses of the substance or mixture and uses advised against\nApplication of the substance / the preparation\nPerfume ingre"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H319"
+    ],
+    "p_codes": [
+      "P264",
+      "P280",
+      "P305",
+      "P351",
+      "P338",
+      "P337",
+      "P313"
+    ],
+    "ghs_classes": [
+      "Eye Irrit. 2"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "Hazards identification\n2.1 Classification of the substance or mixture\n• Classification according to Regulation (EC) No 1272/2008\nGHS07\nEye Irrit. 2 - H319 Causes serious eye irritation.\n2.2 Label elements\n• Labelling according to Regulation (EC) No 1272/2008\n- Hazard pictograms\nGHS07\n- Signal word\nW"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

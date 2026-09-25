@@ -1,0 +1,35 @@
+{
+  "source_id": "432d2abe9bf99208",
+  "file_path": "ingredient_source_audit/highlighted/432d2abe9bf99208_highlighted.pdf",
+  "page_count": 5,
+  "full_text_length": 8885,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product name",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "Product and Company Identification \nProduct name \nSergeant's Flea and Ticks Collar for Cat and Kittens \nCAS # \nMixture \nUse \nFlea and tick control on cats \nSupplier \nRolf C. Hagen Inc., 20 500 Trans Canada Hwy, Baie d’Urfé, H9X 0A2 \nPMRA registration# \n27667 \nEmergency \nCall your local poison contro"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "Hazards Identification \nWHMIS \nClassification \n \nD‐2A (Material causing other toxic effects) \n \nSection III. "
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

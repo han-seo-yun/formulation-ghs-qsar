@@ -1,0 +1,19 @@
+{
+  "source_id": "837cf2068bf8c08d",
+  "file_path": "ingredient_source_audit/highlighted/837cf2068bf8c08d_highlighted.pdf",
+  "page_count": 2,
+  "full_text_length": 3193,
+  "sections_found": [
+    "label_header"
+  ],
+  "label_header": {
+    "epa_reg_number": null,
+    "formulation_code": "EC",
+    "signal_word": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": " \nSCIENTIC COMMITTEE ON CONSUMER PRODUCT (SCCP) \n \nRequest for a scientific clarification: \nFragrance ingredient Peru balsam (CAS \n8007-00-9) \n \n1. \nBackground \nThe SCCNFP1 adopted at its 26th plenary meeting the 9 of December 2003, an update \nopinion (SCCNFP/0771/03) to the opinion (SCCNFP/0320/00)"
+  },
+  "fallback": {
+    "formulation_code": "EC"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "source_id": "805bea43809b1f79",
+  "file_path": "ingredient_source_audit/highlighted/805bea43809b1f79_highlighted.pdf",
+  "page_count": 12,
+  "full_text_length": 28834,
+  "sections_found": [
+    "section_3",
+    "section_2",
+    "section_15"
+  ],
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Carcinogenicity",
+      "carcinogen"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "HAZARDS IDENTIFICATION \n       ---------------------------------------------------------------------- \n       Emergency Overview \n \n          DANGER!  POISON!  FATAL IF SWALLOWED.  MAY BE FATAL IF \n          INHALED OR GETS IN EYES.  DO NOT BREATHE DUST OR SPRAY \n          MIST. \n \n          Do not "
+  },
+  "fallback": {
+    "formulation_code": "SP"
+  }
+}

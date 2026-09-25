@@ -1,0 +1,35 @@
+{
+  "source_id": "67317f1d65d94142",
+  "file_path": "ingredient_source_audit/highlighted/67317f1d65d94142_highlighted.pdf",
+  "page_count": 7,
+  "full_text_length": 13347,
+  "sections_found": [
+    "section_2",
+    "section_1",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Section 2 - Hazards Identification",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "Section 1 - Product and Company Identification \nSection 2 - Hazards Identification \n"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "GHS Classification of Substance or Mixture: Flammable aerosol - Category 2 \n \nGHS Label Elements: \n \nHazard pictogram(s): \n \n \n \n                     \n \n \n \n \n        \n       \n         \n \n \nSignal word: \n \n \n \nWARNING \n \n \n \n \nHazard statements: \n \n \n• Flammable aerosol \n \n \n \n \n \n \n• Compressed gas"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

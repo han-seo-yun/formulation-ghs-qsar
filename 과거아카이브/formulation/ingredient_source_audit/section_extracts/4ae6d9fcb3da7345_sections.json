@@ -1,0 +1,52 @@
+{
+  "source_id": "4ae6d9fcb3da7345",
+  "file_path": "ingredient_source_audit/highlighted/4ae6d9fcb3da7345_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 19560,
+  "sections_found": [
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H350",
+      "H317",
+      "H372"
+    ],
+    "p_codes": [
+      "P101",
+      "P102",
+      "P103",
+      "P201",
+      "P202",
+      "P280",
+      "P272",
+      "P260",
+      "P264",
+      "P270",
+      "P308",
+      "P313",
+      "P302",
+      "P352",
+      "P333",
+      "P321",
+      "P362",
+      "P364",
+      "P314",
+      "P405",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Carcinogenicity"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 5,
+    "text_excerpt": "HAZARDS IDENTIFICATION\nClassification\nCarcinogenicity - Category 1A\nSkin Sensitizer - Category 1\nSpecific Target Organ Toxicity - Repeated Exposure - Category 1\nSafety data sheet prepared in accordance to the United States Occupational Safety and Health Administration (OSHA) Hazard \nCommunication St"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

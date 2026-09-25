@@ -1,0 +1,35 @@
+{
+  "source_id": "a4bbc5d2771e2a68",
+  "file_path": "ingredient_source_audit/highlighted/a4bbc5d2771e2a68_highlighted.pdf",
+  "page_count": 11,
+  "full_text_length": 24530,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "PRODUCT NAME:  3M™Scotch-Weld™Tamper Proof Sealant 1252, White",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: PRODUCT AND COMPANY IDENTIFICATION\nPRODUCT NAME:  3M™Scotch-Weld™Tamper Proof Sealant 1252, White       \nMANUFACTURER:  3M\nDIVISION: Industrial Adhesives and Tapes Division\nADDRESS:  3M Center, St. Paul, MN  55144-1000\nEMERGENCY PHONE: 1-800-364-3577 or (651) 737-6501 (24 hours)\nIssue Dat"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "SECTION 2: INGREDIENTS\nIngredient\nC.A.S. No.\n% by Wt\nMethyl Ethyl Ketone\n78-93-3\n15 - 40\nMica-group Minerals\n12001-26-2\n10 - 30\nLimestone\n1317-65-3\n10 - 30\nTitanium Dioxide\n13463-67-7\n7 - 13\nAcrylonitrile-Butadiene Polymer\n9003-18-3\n3 - 7\nAmmonia, o-Cresol, Formaldehyde, Phenol Polymer\n55185-45-0\n1 "
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

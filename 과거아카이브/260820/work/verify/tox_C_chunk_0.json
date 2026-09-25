@@ -1,0 +1,397 @@
+[
+ {
+  "row": 6,
+  "product_name": "3'-Azido-3'-Deoxythymidine (AZT); Lamivudine (3TC); Nevirapine (NVP)",
+  "ingredient_names": "3'-Azido-3'-Deoxythymidine | Lamivudine | Nevirapine",
+  "tox_signal_word": "warning",
+  "tox_h_statements": "H361",
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "성분 불일치: 힌트 SDS(MedChemExpress)는 Lamivudine 단일물질(CAS 134678-17-4)만 다루며 AZT, Nevirapine 미포함. 3제 병용조합 전체를 다루는 SDS는 못 찾음(도구 제약)",
+  "검증근거": "추출정보 공란 + 성분 불일치(다른 제품 SDS 의심)",
+  "pdf_path": null,
+  "urls": [
+   "https://file.medchemexpress.com/batch_PDF/HY-B0250/Lamivudine-SDS-MedChemExpress.pdf"
+  ]
+ },
+ {
+  "row": 18,
+  "product_name": "Aspirin; Phenacetin; Caffeine",
+  "ingredient_names": "Aspirin | Phenacetin | Caffeine",
+  "tox_signal_word": "warning",
+  "tox_h_statements": "H302",
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "3성분 혼합물(Aspirin/Phenacetin/Caffeine)이나 hint SDS(Elemental Microanalysis)는 Phenacetin 단일성분(CAS 62-44-2, 100%)만 포함, Aspirin·Caffeine 성분 정보 없음. 대체 검색으로도 3성분 혼합 제품 SDS 못 찾음(사실상 판매 중단된 APC 복합제, 통합 SDS 없음)",
+  "검증근거": "추출정보 공란 + 출처 접근 실패(링크불가·403/404·로그인·못찾음)",
+  "pdf_path": null,
+  "urls": [
+   "https://www.elementalmicroanalysis.com/documents/product/sds/PHENACETIN_20240312_EN.pdf"
+  ]
+ },
+ {
+  "row": 23,
+  "product_name": "Triflurex HFP",
+  "ingredient_names": "Trifluralin 480 g/L",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Warning (일부 제형은 Danger) / H317(피부알레르기 가능), H351(발암성 의심), H400/H410(수생환경 유해); 원제 기준. 일부 출처는 H302/H319/H330/H371/H372 추가 보고",
+  "메모": "Triflurex HFP(480g/L 제형) 자체 SDS는 못 찾음; Trifluralin 원제(technical) 기준 GHS/독성 자료로 대체 확인. 제형 SDS와는 수치가 다를 수 있음",
+  "검증근거": "눈 구분 충돌 참조=2B vs H코드유도=2A ; 메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/5569"
+  ]
+ },
+ {
+  "row": 24,
+  "product_name": "Triticonazole Fungicide",
+  "ingredient_names": "Triticonazole",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "신호어 명시 확인 안됨 (H411만 확인) / H411 (장기적 수생환경 유해)",
+  "메모": "기존 힌트 URL(datasheets.scbt.com)은 403으로 접근 불가; PubChem 통합 GHS분류(동일 CAS)로 대체 확인, 눈자극 'Not classified' 힌트와 일치",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://datasheets.scbt.com/sc-204929.pdf",
+   "https://pubchem.ncbi.nlm.nih.gov/compound/6537961"
+  ]
+ },
+ {
+  "row": 25,
+  "product_name": "Troysan 680",
+  "ingredient_names": "Distillates (Petroleum), Hydrotreated Light | 1,2-Benzisothiazolin-3-one | 1,3-Dimethylol-5,5-dimethylhydantoin | 5-(Hydroxymethyl)-2-furfural",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": 1,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "힌트 SDS(crcindustries.com)는 무관한 제품(\"2-26 Multi-Purpose Precision Lubricant\", 광유계 윤활제)로 성분 완전 불일치. Troy Corp/Arxada 사이트 및 검색으로도 Troysan 680 정확한 SDS 못 찾음",
+  "검증근거": "추출정보 공란 + 성분 불일치(다른 제품 SDS 의심)",
+  "pdf_path": null,
+  "urls": [
+   "https://www.crcindustries.com/media/msdsen/msds_en-1003169.pdf"
+  ]
+ },
+ {
+  "row": 31,
+  "product_name": "Turfthor WP",
+  "ingredient_names": "Imidacloprid",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Warning / H302 Harmful if swallowed. H320 Causes eye irritation. H332 Harmful if inhaled. H402 Harmful to aquatic life.",
+  "메모": null,
+  "검증근거": "눈 참조=Not classified 인데 H코드는 구분 2B 를 지시",
+  "pdf_path": null,
+  "urls": [
+   "https://www.ensystex.com/pdf/Turfthor%20WP%20%20SDS%2009292015.pdf"
+  ]
+ },
+ {
+  "row": 39,
+  "product_name": "UPI Imidacloprid",
+  "ingredient_names": "Imidacloprid",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Warning(다수 통보 기준, 일부 통보는 Danger) / H302 삼킴 유해(통보 100%), H400 수생생물에 매우 유독(97.7%), H410 장기간 영향 수생생물에 매우 유독(97.7%); 일부 통보에서 H370(장기손상) H373(반복노출시 장기손상) 병기",
+  "메모": "힌트 URL(carlroth.com)이 HTTP 400 오류로 접속불가; PubChem의 ECHA C&L 통보 집계 GHS 분류(순수 Imidacloprid, CAS 138261-41-3)로 대체 확인함. UPI Imidacloprid Technical Insecticide(EPA Reg 70506-122) 자체 SDS 문서는 검색으로 찾지 못했으며, 물질 동일성(성분=Imidacloprid 단일)만 확인된 상태",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://www.carlroth.com/medias/SDB-22YT-IE-EN.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wzNTE5NTF8YXBwbGljYXRpb24vcGRmfGFESmxMMmhpWXk4NU1qTXdNVEl6TXpBeU9UUXlMMU5FUWw4eU1sbFVYMGxGWDBWT0xuQmtaZ3w1NDQzOWVlMTNjOThkNDM0NjAyOGJlZjk4YTc3YTBlNzhjNjg2YWEyNGU1YWMzZDQ2M2Y0OTdlZDUzMWY1Nzdi",
+   "https://pubchem.ncbi.nlm.nih.gov/compound/86418"
+  ]
+ },
+ {
+  "row": 48,
+  "product_name": "Vapona Concentrate Insecticide",
+  "ingredient_names": "Dichlorvos",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": 1,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / H301 Toxic if swallowed; H304 May be fatal if swallowed and enters airways; H311 Toxic in contact with skin; H315 Causes skin irritation; H317 May cause an allergic skin reaction; H319 Causes serious eye irritation; H330 Fatal if inhaled; H340 May cause genetic defects; H350 May cause cancer",
+  "메모": "기존 힌트 URL(Cayman Chemical, 시약등급 Dichlorvos)은 제품과 무관한 SDS - 실제 제제(Bayer/AMVAC Vapona Concentrate Insecticide, Dichlorvos 41.02%, EPA Reg 11556-174) SDS로 대체 확인",
+  "검증근거": "눈 구분 충돌 참조=1 vs H코드유도=2A",
+  "pdf_path": null,
+  "urls": [
+   "https://cdn.caymanchem.com/cdn/msds/23727m.pdf",
+   "https://assets.pim.ecolab.com/media/Original/10368/Pest_Vapona%20CONCENTRATE%20INSECTICIDE_SDS_US.pdf"
+  ]
+ },
+ {
+  "row": 67,
+  "product_name": "XDE-742",
+  "ingredient_names": "Ferric chloride hexahydrate | Pyroxsulam",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Warning / H317, H400, H410",
+  "메모": "코드명 XDE-742=Pyroxsulam으로 확인(PubChem 일치). 완제품 SDS는 못 찾아 PubChem GHS 집계자료(활성성분 Pyroxsulam 기준)로 대체; Ferric chloride hexahydrate(2성분)의 역할/함량은 확인 못함",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/11571555"
+  ]
+ },
+ {
+  "row": 72,
+  "product_name": "Zoxamide (Dithane/RH-117,281 DG Blend 8:1)",
+  "ingredient_names": "Zonisamide | Zoxamide | Mancozeb",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Zoxamide: Warning; Mancozeb: Danger / Zoxamide: H317, H319, H400, H410; Mancozeb: H317, H351, H360D, H373, H400, H410",
+  "메모": "성분 중 'Zonisamide'는 무관 의약품으로 데이터 오류 추정(무시); 실제 유효성분은 Zoxamide(8.26%, CAS 156052-68-5)+Mancozeb(69%, CAS 8018-01-7, 약 8:1 비율로 제품명과 일치). 힌트 URL(TargetMol)은 접속 차단(412)되어 직접 확인 불가하여 Zoxamide(Sigma-Aldrich SDS)/Mancozeb 기술물질 자료로 대체 확인",
+  "검증근거": "눈 구분 충돌 참조=2B vs H코드유도=2A ; 메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://www.targetmol.com/attachment/sds/D8E29B17-7CF2-464E-9B81-7FBC7572BC18/T0267"
+  ]
+ },
+ {
+  "row": 76,
+  "product_name": "Bactron K-139",
+  "ingredient_names": "Alkylbenzyl dimethyl ammonium chloride | Glutaraldehyde",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": 1,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "힌트 SDS(Carl Roth)는 BAC 80% 단일성분 시약(농도는 워크북과 일치)이나 글루타르알데히드(5%) 성분 데이터가 전혀 없음 - 2성분 완제품 Bactron K-139 자체 SDS는 못 찾음",
+  "검증근거": "추출정보 공란 + 출처 접근 실패(링크불가·403/404·로그인·못찾음)",
+  "pdf_path": null,
+  "urls": [
+   "https://www.carlroth.com/downloads/sdb/en/2/SDB_2999_IE_EN.pdf"
+  ]
+ },
+ {
+  "row": 82,
+  "product_name": "BAS 536 00 F Fungicide",
+  "ingredient_names": "Pyraclostrobin | Fluxapyroxad | Bronopol | 1,2-Benzisothiazol-3(2H)-one | Methylisothiazolinone | Propylene Glycol | Dimethomorph",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Caution (US EPA 라벨) / Harmful if swallowed or absorbed through skin. Causes moderate eye irritation. (EPA 라벨 기준)",
+  "메모": "US EPA 라벨(Cabrio Team Fungicide) 확인: 활성성분은 Pyraclostrobin 6.7% + Dimethomorph 12.0% (WDG, Other ingredients 81.3%)뿐이며, ingredient_names의 Fluxapyroxad 및 방부제 패키지(Bronopol/BIT/MIT/프로필렌글리콜)는 실제 제품 구성에 없는 것으로 보임(다른 제품 SDS와 혼입 추정).",
+  "검증근거": "메모가 제품/성분 불일치를 진술",
+  "pdf_path": null,
+  "urls": [
+   "https://www3.epa.gov/pesticides/chem_search/ppls/007969-00229-20050526.pdf"
+  ]
+ },
+ {
+  "row": 85,
+  "product_name": "BAS 670 336SC Herbicide",
+  "ingredient_names": "Topramezone technical | Content (W/W) | Content (W/W): >= 1.0 | 2-Methyl-4-Isothiazolin-3-one | Content (W/W): <= | Topramezone",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "정확히 동일 코드(BAS 670 336SC)의 SDS는 못 찾았으나, 동일 유효성분·동일 농도(Topramezone 336 g/l SC)인 'CONVEY - BAS 670 01 H'(BASF, 볼리비아向) SDS를 확인하여 사실상 동일 제품으로 판단. 구형식 SDS로 GHS 신호어/H코드 명시 없음(Section 9 독성정보만 기재).",
+  "검증근거": "추출정보 공란 + 출처 접근 실패(링크불가·403/404·로그인·못찾음)",
+  "pdf_path": null,
+  "urls": [
+   "https://download.basf.com/p1/8a8081c57fd4b609017fe080f75f7e80/es/Hoja_de_Seguridad_-_Convey%C2%AE"
+  ]
+ },
+ {
+  "row": 88,
+  "product_name": "BAS 703 02 F Fungicide",
+  "ingredient_names": "PotassiumSaltsofFattyAcids | Pyraclostrobin | Fluxapyroxad",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "hint URL(alco-chem 'Slide' 액체비누 SDS)은 무관 제품(피라클로스트로빈/플루자피록사드 전혀 없음, 성분 불일치 확인). 실제 제품(BAS 703 02 F Fungicide Seed Treatment, Fluxapyroxad+Pyraclostrobin)은 Health Canada 문서 및 BASF 공식 SDS(download.basf.com, 문서ID 30863107)로 존재 확인되었으나 BASF SDS 링크는 만료(404)되어 직접 열람 불가. ingredient_names의 PotassiumSaltsofFattyAcids 성분 실 포함 여부는 확인 못함.",
+  "검증근거": "추출정보 공란 + 미분류 메모: hint URL(alco-chem 'Slide' 액체비누 SDS)은 무관",
+  "pdf_path": null,
+  "urls": [
+   "https://www.alco-chem.com/uploads/7/1/2/5/71257601/slide_0397-5_sds.pdf"
+  ]
+ },
+ {
+  "row": 93,
+  "product_name": "Bengal Dry Roach Spray",
+  "ingredient_names": "Permethrin | Other Ingredients | Pyriproxyfen",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Warning / Eye irritation Category 2B (causes eye irritation) ;; Acute Toxicity-Inhalation Category 4 (harmful if inhaled) ;; Flammable Aerosols Category 2 ;; Gases under pressure (compressed gas)",
+  "메모": "정확히 동일한 제품명은 못 찾았으나 동일 제조사(Bengal Products)의 'Bengal Gold Roach Spray' SDS가 성분(Permethrin 2.00%+Pyriproxyfen 0.05%, 눈자극 GHS 2B)까지 정확히 일치하여 대체 확인함",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://cdn.shopify.com/s/files/1/0327/4768/3980/files/Bengal_Gold_Roach_Spray_SDS.pdf?v=1725616609"
+  ]
+ },
+ {
+  "row": 102,
+  "product_name": "Bifenthrin 0.086% Plus Fertilizer",
+  "ingredient_names": "Cary, NC 27513 Bifenthrin (2 methyl[1,1’ –biphenyl]-3-yl)",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / H301 (삼키면 독성) ;; H370 (중추신경계 손상) ;; H372 (장기간·반복 노출 시 중추신경계 손상) ;; H351 (암 유발 의심) ;; H400+H410 (수생생물에 매우 유독, 장기적 영향)",
+  "메모": "제공된 SDS(hint URL)의 제품명은 'Batallion LFC'(A110.04, Atticus LLC, EPA Reg 91234-177, Bifenthrin 17.15% 액상 농축제)로 'Bifenthrin 0.086% Plus Fertilizer'와 제품명이 다름. 다만 제조사 주소(Cary, NC 27513)와 성분(Bifenthrin, CAS 82657-04-3, IUPAC명 일치)이 ingredient_names와 정확히 일치하여 동일 유효성분 소스로 판단, 현장 희석(비료+살충제 혼합 시비) 제품으로 추정됨",
+  "검증근거": "메모가 제품/성분 불일치를 진술",
+  "pdf_path": null,
+  "urls": [
+   "https://assets.greenbook.net/01-36-00-26-02-2021-Ms_2687.pdf"
+  ]
+ },
+ {
+  "row": 116,
+  "product_name": "Britz Dryout Dust",
+  "ingredient_names": "| Sulfur",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": 1,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Warning(경고) - 다수 ECHA 통보 기준 / H315(피부자극, 2904건 중 99.7%); 일부 통보 H228(가연성고체), STOT SE1/RE2",
+  "메모": "제품 전용(Britz Dryout Dust) SDS를 찾지 못해 원료인 황(Sulfur, 순물질) ECHA/PubChem 집계자료로 대체함; 시트의 eye_ghs=1(심한 눈손상)과 순물질 자료(눈 관련 코드 확인 안됨)가 불일치할 수 있음",
+  "검증근거": "메모가 제품/성분 불일치를 진술",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/5362487"
+  ]
+ },
+ {
+  "row": 120,
+  "product_name": "Bromuconazole(98.4%)",
+  "ingredient_names": "Bromuconazole 1-[(2RS,4RS:2RS,4SR)-4-bromo-2-(2,4dichlorophenyl) tetrahydrofurfuryl]-1H-1,2,4-triazole | Tebuconazole (RS)-1-p-chlorophenyl-4,4-dimethyl-3(1H-1,2,4-triazol-1-ylmethyl)pentan-3-ol | Tri",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / H304(흡입 시 치명적일 수 있음, Asp.Tox.1); H318(심한 눈 손상, Eye Dam.1); H336(졸음/현기증 우려, STOT SE3); H361d(태아 손상 우려, Repr.2); H410(수생생물 장기적 매우 유해); 개별성분 H302(경구 유해)",
+  "메모": "원 힌트(neochema)는 Bromuconazole 0.1%미만 함유 아세토니트릴 분석표준액으로 완전히 무관한 물질이라 대체 SDS로 확인. 제품명은 '98.4% 기술원제'이나, 주어진 성분목록(Bromuconazole+Tebuconazole+Tridecyl Alcohol Ethoxylated+Benzyl Alcohol+Benzenesulfonic acid calcium salt+C10 방향족 탄화수소)은 Syngenta/Sumitomo의 EC 혼합제 'Djembe'(Bromuconazole 167g/L+Tebuconazole 107g/L)와 성분명·CAS·조성이 정확히 일치함.",
+  "검증근거": "눈 구분 충돌 참조=2B vs H코드유도=1",
+  "pdf_path": null,
+  "urls": [
+   "https://www.neochema.com/nc_sds/MSDS-EN-15900-0535-100AN5.pdf",
+   "https://hutchinsons.co.uk/wp-content/uploads/2023/05/Djembe-V2.0-Oct-2019.pdf"
+  ]
+ },
+ {
+  "row": 125,
+  "product_name": "Captan 4L",
+  "ingredient_names": "Captan",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / H331(흡입 시 유독); H318(심한 눈 손상); H317(알레르기성 피부반응 우려)",
+  "메모": null,
+  "검증근거": "눈 구분 충돌 참조=2B vs H코드유도=1",
+  "pdf_path": null,
+  "urls": [
+   "https://www.albaugh.com/docs/unitedstateslibraries/productfiles/captan-4l-flowable-fungicide-safety-data-sheet-.pdf"
+  ]
+ },
+ {
+  "row": 136,
+  "product_name": "Cheminova Nicosulfuron",
+  "ingredient_names": "Structural formula | OCH3 N=— N\\ I N—C—N \\ — OCH H3C CH | Nicosulfuron",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "Not classified",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Warning (경고) / H315, H319, H400, H410 (ECHA C&L 집계, 통보사별 차이 있음)",
+  "메모": "제조사(Cheminova) 전용 SDS는 못 찾음; PubChem/ECHA C&L 집계 데이터(니코설퓨론 기술원제 기준)로 대체",
+  "검증근거": "눈 참조=Not classified 인데 H코드는 구분 2A 를 지시 ; 메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/73281"
+  ]
+ },
+ {
+  "row": 144,
+  "product_name": "A12010C Fungicide",
+  "ingredient_names": "Copper(II) hydroxide | Azoxystrobin | Cyproconazole",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": "2B",
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "제공된 hint URL은 순수 Copper(II) hydroxide(단일물질, Carl Roth 시약) SDS로, Azoxystrobin/Cyproconazole이 포함된 실제 제품(A12010C)과 불일치. 검색 엔진 접근 불가로 대체 제품 SDS 미발견",
+  "검증근거": "추출정보 공란 + 성분 불일치(다른 제품 SDS 의심)",
+  "pdf_path": null,
+  "urls": [
+   "https://www.carlroth.com/medias/SDB-9864-MT-EN.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wzNDk5NTl8YXBwbGljYXRpb24vcGRmfGFEZGpMMmhqWWk4NU1qTXpNRGc0TlRFeU1ETXdMMU5FUWw4NU9EWTBYMDFVWDBWT0xuQmtaZ3w5YTk3MjkyMTI2YTdkMTBkNGUwYTI5ZjAwMTEzM2JiOGM4ZTIzZThmMjVhOTUzOWY4NTMxZTE3Yjk4MTgxNDZl"
+  ]
+ },
+ {
+  "row": 145,
+  "product_name": "Chlorothalonil FB",
+  "ingredient_names": "Chlorothalonil",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": 1,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "위험 (Danger) / H317 (피부 알레르기 반응을 일으킬 수 있음, 피부감작성), H318 (눈에 심한 손상을 일으킴), H400 (수생생물에 매우 유독함); 발암성 우려물질(EPA Group B2, 인체발암가능물질로 분류)",
+  "메모": "제품 전용(브랜드명 'FB') SDS는 못 찾았으나, 유효성분이 Chlorothalonil 단일물질이므로 EPA R.E.D. FACTS(EPA-738-F-99-008, 1999)와 PubChem/ECHA 물질수준 GHS 데이터를 근거로 기재. 눈손상 구분 I은 입력된 cat_eye_ghs=1과 일치",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://www3.epa.gov/pesticides/chem_search/reg_actions/reregistration/fs_PC-081901_1-Apr-99.pdf"
+  ]
+ },
+ {
+  "row": 157,
+  "product_name": "Co-Ral 3% Spray Foam",
+  "ingredient_names": "Coumaphos Technical | Catalytic reformer petroleum | Naphthalene",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": 1,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger (원료 coumaphos 기술물질 기준) / H320, H300, H311, H330, H400/H410, H370/H372 (coumaphos 기준; naphthalene·석유계 성분 독성정보 미포함)",
+  "메모": "제품(3% Spray Foam) 전용 SDS 없음(단종 추정); coumaphos 기술물질 SDS로 대체하며 naphthalene/석유계 촉매개질물 독성정보 미포함. 시트 상 눈자극 힌트(Cat.1)가 원료 기준(2B)과 불일치 - 확인 못함",
+  "검증근거": "메모가 제품/성분 불일치를 진술 ; 눈 구분 충돌 참조=1 vs H코드유도=2B",
+  "pdf_path": null,
+  "urls": [
+   "https://labchem-wako.fujifilm.com/sds/W01W0103-1646JGHEEN.pdf"
+  ]
+ }
+]

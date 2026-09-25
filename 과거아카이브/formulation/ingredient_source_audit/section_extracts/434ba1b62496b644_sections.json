@@ -1,0 +1,53 @@
+{
+  "source_id": "434ba1b62496b644",
+  "file_path": "ingredient_source_audit/highlighted/434ba1b62496b644_highlighted.pdf",
+  "page_count": 11,
+  "full_text_length": 21059,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Section 1. Identification of the substance or the mixture and of the supplier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1 Product Identifier\nSection 1. Identification of the substance or the mixture and of the supplier\nCompare to BOMBSHELL WILD FLOWER by Victoria's Secret ® F35268(Contains:1-\n(1,2,3,4,5,6,7,8-Octahydro-2,3,8,8-tetramethyl-2-naphthalenyl)ethanone, Benzyl salicylate,\nFormaldehyde cyclododecyl ethyl ace"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H315",
+      "H317",
+      "H401",
+      "H410"
+    ],
+    "p_codes": [
+      "P264",
+      "P273",
+      "P280",
+      "P261",
+      "P272",
+      "P302",
+      "P333",
+      "P362",
+      "P391",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Skin Corrosion"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "Section 2. Hazards identification\nClass and category of\ndanger:\nSkin Corrosion / Irritation Category 2\nSensitization - Skin Category 1\nHazardous to the Aquatic Environment - Acute Hazard Category 2\nHazardous to the Aquatic Environment - Long-term Hazard Category 1\nH315, Causes skin irritation.\nH317,"
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

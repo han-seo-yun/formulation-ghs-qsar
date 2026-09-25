@@ -1,0 +1,43 @@
+{
+  "source_id": "62cd49e750a40afb",
+  "file_path": "ingredient_source_audit/highlighted/62cd49e750a40afb_highlighted.pdf",
+  "page_count": 14,
+  "full_text_length": 25304,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "company/undertaking",
+    "formulation_code": "EC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification of the substance/mixture and of the \ncompany/undertaking\n1.1\nProduct identifier\nIdentification of the substance\nGlyphosate ROTICHROM® Pestilyse® HPLC\nArticle number\n22YE\nIndex No (GB CLP)\n607-315-00-8\nEC number\n213-997-4\nCAS number\n1071-83-6\nAlternative name(s)\nN-(phosphono"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H318",
+      "H411"
+    ],
+    "p_codes": [
+      "P280"
+    ],
+    "ghs_classes": [
+      "Eye Dam. 1",
+      "Aquatic Chronic 2"
+    ],
+    "environmental_hazard": "aquatic_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2: Hazards identification\n2.1\nClassification of the substance or mixture\nClassification acc. to GHS\nSection\nHazard class\nCat-\negory\nHazard class and \ncategory\nHazard \nstatement\n3.3\nSerious eye damage/eye irritation\n1\nEye Dam. 1\nH318\n4.1C\nHazardous to the aquatic environment - chronic hazard\n"
+  },
+  "section_14": {
+    "un_number": "3077"
+  }
+}

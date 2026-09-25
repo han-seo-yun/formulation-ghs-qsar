@@ -1,0 +1,52 @@
+{
+  "source_id": "407509b5c299de38",
+  "file_path": "ingredient_source_audit/highlighted/407509b5c299de38_highlighted.pdf",
+  "page_count": 10,
+  "full_text_length": 21162,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "• Trade name:",
+    "formulation_code": "EC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1 Product identifier\n• Trade name:\nLAVENDER ABSOLUTE HEXANE\n• Article number:\nP00543813000\n• CAS Number:\n8000-28-0\n• EC Number:\n283-994-0\n• No CAS EINECS:\n84776-65-8\n1.2 Relevant identified uses of the substance or mixture and uses advised against\nApplication of the substance / the preparation\nPerfu"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H315",
+      "H319",
+      "H317",
+      "H412"
+    ],
+    "p_codes": [
+      "P261",
+      "P264",
+      "P272",
+      "P273",
+      "P302",
+      "P352",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Eye Irrit. 2",
+      "Skin Sens. 1",
+      "Aquatic Chronic 3"
+    ],
+    "environmental_hazard": "aquatic",
+    "hazard_level_score": 2,
+    "text_excerpt": "Hazards identification\n2.1 Classification of the substance or mixture\n• Classification according to Regulation (EC) No 1272/2008\nGHS07\nSkin Irrit. 2 - H315 Causes skin irritation.\nEye Irrit. 2 - H319 Causes serious eye irritation.\nSkin Sens. 1B - H317 May cause an allergic skin reaction.\nAquatic Chr"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

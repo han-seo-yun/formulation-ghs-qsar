@@ -1,0 +1,19 @@
+{
+  "source_id": "3e372ef64fbec013",
+  "file_path": "ingredient_source_audit/highlighted/3e372ef64fbec013_highlighted.pdf",
+  "page_count": 9,
+  "full_text_length": 27748,
+  "sections_found": [
+    "label_header"
+  ],
+  "label_header": {
+    "epa_reg_number": null,
+    "formulation_code": "FS",
+    "signal_word": "CAUTION",
+    "active_ingredient_declared": true,
+    "text_excerpt": "NET CONTENTS: 2.5 GALLONS\nseed treatmentV 100 PRO FS\nSEED PROTECTANT\nACTIVE INGREDIENTS:\t\ncarboxin (CAS No. 5234-68-4)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35.52%* \nipconazole (CAS No. 125225-28-7) . . . . . . . "
+  },
+  "fallback": {
+    "formulation_code": "FS"
+  }
+}

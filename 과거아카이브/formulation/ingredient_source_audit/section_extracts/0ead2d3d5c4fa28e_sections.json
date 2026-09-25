@@ -1,0 +1,35 @@
+{
+  "source_id": "0ead2d3d5c4fa28e",
+  "file_path": "ingredient_source_audit/highlighted/0ead2d3d5c4fa28e_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 20855,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_15",
+    "section_14",
+    "section_3"
+  ],
+  "section_1": {
+    "product_name": "PRODUCT NAME:",
+    "formulation_code": "SC",
+    "epa_reg_number": "59639-213",
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": "EPA",
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. IDENTIFICATION: CHEMICAL PRODUCT AND COMPANY\nPRODUCT NAME:\nAloftÒ LC SC Insecticide\nEPA REGISTRATION NUMBER: 59639-213\nVC NUMBER(S):\n1993\nPRODUCT DESCRIPTION:\nInsecticide\n Aloft  is a registered trademark of Valent U.S.A. LLC\nThe current SDS is available through our website (www.valent.com), or b"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION\nThis product is an EPA FIFRA registered pesticide. Some classifications on this SDS are not the same as the\nFIFRA-required classifications on the product label. Certain sections of this SDS are superseded by federal law under\nEPA FIFRA for a registered pesticide. Please see"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

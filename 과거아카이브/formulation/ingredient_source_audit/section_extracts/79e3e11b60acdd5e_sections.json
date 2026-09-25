@@ -1,0 +1,35 @@
+{
+  "source_id": "79e3e11b60acdd5e",
+  "file_path": "ingredient_source_audit/highlighted/79e3e11b60acdd5e_highlighted.pdf",
+  "page_count": 7,
+  "full_text_length": 17999,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product identifier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. Identification\nProduct identifier\nMetaflumizone\nOther means of identification\nProduct code\nN-12379\nSynonym(s)\nHYDRAZINECARBOXAMIDE, 2-[2-(4-CYANOPHENYL)-1-[3-(TRIFLUOROMETHYL)PHENYL]ETH\nYLIDENE]-N-[4-(TRIFLUOROMETHOXY)PHENYL]-\nRecommended use\nFor Laboratory Use Only\nRecommended restrictions\nNone "
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "2. Hazard(s) identification\nNot classified.\nPhysical hazards\nCategory 2\nSpecific target organ toxicity, repeated\nexposure\nHealth hazards\nCategory 1\nHazardous to the aquatic environment, acute\nhazard\nEnvironmental hazards\nCategory 1\nHazardous to the aquatic environment,\nlong-term hazard\nNot classifie"
+  },
+  "section_14": {
+    "un_number": "3077"
+  }
+}

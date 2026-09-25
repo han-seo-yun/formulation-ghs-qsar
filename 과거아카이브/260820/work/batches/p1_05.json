@@ -1,0 +1,112 @@
+[
+ {
+  "row": 1289,
+  "fid": "MIX620",
+  "product_name": "Abamectin A2a",
+  "ingredient_names": "| Avermectin A2a",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "로컬 문서 없음. 동일 계열 A1a/A1b 사례로 볼 때 상업용 Abamectin(B1a/B1b) SDS와는 성분 불일치할 가능성 높으나, 웹 검색 도구 오작동으로 Avermectin A2a 전용 SDS 확인 불가",
+  "n_smiles": 1
+ },
+ {
+  "row": 1296,
+  "fid": "MIX627",
+  "product_name": "Dinotefuron",
+  "ingredient_names": "| Dinotefuran",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "",
+  "n_smiles": 1
+ },
+ {
+  "row": 1302,
+  "fid": "MIX632",
+  "product_name": "Flufenpyr-Ethyl-S-3153 WDG/Atrazine Premix",
+  "ingredient_names": "| Flufenpyr-ethyl | Atrazine",
+  "hint_tox_url": "https://www.firstelectric.coop/pdfs/Method%20SDS.pdf",
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "힌트 URL(firstelectric.coop Method SDS)은 성분이 Aminocyclopyrachlor인 Bayer 'Method 240SL Herbicide' SDS로 완전히 무관한 문서임. Flufenpyr-ethyl+Atrazine 프리믹스 제품 자체의 SDS는 검색으로 찾지 못함(비상용 실험용 프리믹스로 추정)",
+  "n_smiles": 2
+ },
+ {
+  "row": 1305,
+  "fid": "MIX635",
+  "product_name": "Flufenpyr-Ethyl-S-3153 Acid-4-OH",
+  "ingredient_names": "| Flufenpyr-ethyl",
+  "hint_tox_url": null,
+  "hint_newlink": "https://direct.hpc-j.co.jp/sds/eng/T3-14_EN.pdf",
+  "hint_doc_rel": null,
+  "prev_fail_memo": "제품명은 산 대사체(Acid-4-OH)를 시사하나, 대사체 전용 SDS는 찾지 못했고 ingredient_names에 기재된 'Flufenpyr-ethyl'(모화합물, CAS 188489-07-8) 시약용 SDS(Hayashi Pure Chemical)만 확인됨 - Section 11 전 항목 '분류불가/분류없음'으로 코드 없음",
+  "n_smiles": 1
+ },
+ {
+  "row": 1306,
+  "fid": "MIX636",
+  "product_name": "GA 6-Weed to Grass Killer Ready-to-Use",
+  "ingredient_names": "| Glufosinate-ammonium",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "EPA 등록 432-1206(등록사 Aventis/Bayer Environmental Science, 글루포시네이트 0.6%)로 성분 확인은 되었으나 2002년 EPA 등록 취소로 단종되어 SDS를 찾지 못함",
+  "n_smiles": 1
+ },
+ {
+  "row": 1316,
+  "fid": "MIX645",
+  "product_name": "Metarex 4% Snail to Slug Bait",
+  "ingredient_names": "| Metaldehyde",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/9e4e42c3ac50daf5_highlighted.pdf",
+  "prev_fail_memo": "",
+  "n_smiles": 1
+ },
+ {
+  "row": 1320,
+  "fid": "MIX649",
+  "product_name": "Optiguard Liquid Ant Bait",
+  "ingredient_names": "| Thiamethoxam",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/7ba557c94bd50f41_highlighted.pdf",
+  "prev_fail_memo": "",
+  "n_smiles": 1
+ },
+ {
+  "row": 1324,
+  "fid": "MIX652",
+  "product_name": "Prequel Herbicide",
+  "ingredient_names": "| Rimsulfuron | Isoxaflutole",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "SDS 찾지 못함 (검색 인프라 제한으로 Corteva/CDMS/Greenbook 등 접근 실패)",
+  "n_smiles": 2
+ },
+ {
+  "row": 1328,
+  "fid": "MIX656",
+  "product_name": "Sargeant's Spot-On for Cats",
+  "ingredient_names": "| Fipronil | S-Methoprene | Etofenprox",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/432d2abe9bf99208_highlighted.pdf",
+  "prev_fail_memo": "제공된 로컬 SDS는 실제로 'Sergeant's Flea and Ticks Collar for Cat and Kittens'(Rolf C. Hagen, 활성성분 Propoxur)이며 이 제품(Fipronil/S-Methoprene/Etofenprox 함유 스팟온)과 다른 제품/성분. 대체 SDS 검색 시도했으나 검색엔진 접근 제한으로 못 찾음",
+  "n_smiles": 3
+ },
+ {
+  "row": 1331,
+  "fid": "MIX659",
+  "product_name": "Touchdown Diquat Home to Garden Concentrate",
+  "ingredient_names": "| Glyphosate | Diquat dibromide",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/8c2506158824e7b6_highlighted.pdf",
+  "prev_fail_memo": "제공된 로컬 SDS는 Syngenta 'TOUCHDOWN CT'로 Glyphosate Acid(36.5%)만 포함하고 Diquat dibromide는 없어 실제 제품과 불일치. 'Touchdown Diquat Home to Garden Concentrate'의 정확한 SDS는 검색 제한으로 찾지 못함",
+  "n_smiles": 2
+ }
+]

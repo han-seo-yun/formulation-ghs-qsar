@@ -1,0 +1,47 @@
+{
+  "source_id": "12a20a7d33fd2fb8",
+  "file_path": "ingredient_source_audit/highlighted/12a20a7d33fd2fb8_highlighted.pdf",
+  "page_count": 13,
+  "full_text_length": 26327,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "undertaking",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification of the substance/mixture and of the company/\nundertaking\nꞏ 1.1 Product identifier\nꞏ Trade name: ACTICIDE LT 2\nꞏ 1.2 Relevant identified uses of the substance or mixture and uses advised against:  \nꞏ Application of the substance/the mixture: Biocidal product for industrial u"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [
+      "H290",
+      "H318",
+      "H400",
+      "H411",
+      "H315",
+      "H317"
+    ],
+    "p_codes": [],
+    "ghs_classes": [
+      "Eye Dam. 1",
+      "Aquatic Acute 1",
+      "Aquatic Chronic 2",
+      "Skin Sens. 1"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2: Hazards identification\nꞏ 2.1 Classification of the substance or mixture\nꞏ Classification according to Regulation (EC) No 1272/2008 respectively UN GHS\nGHS05 corrosion\nMet. Corr.1\nH290 May be corrosive to metals.\nEye Dam. 1\nH318 Causes serious eye damage.\nGHS09 environment\nAquatic Acute 1\n"
+  },
+  "section_14": {
+    "un_number": "3265"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "source_id": "4bc29bc791c4bacb",
+  "file_path": "ingredient_source_audit/highlighted/4bc29bc791c4bacb_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 22823,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_15",
+    "section_3",
+    "section_14"
+  ],
+  "section_1": {
+    "product_name": "PRODUCT NAME:",
+    "formulation_code": "SP",
+    "epa_reg_number": "59639-165",
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": "EPA",
+    "active_ingredient_declared": false,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION\n \nPRODUCT NAME:\nTradewind™ Herbicide\nVC NUMBER(S):\nVC 1177\nSYNONYM(S):\nBispyribac 80 SP\nEPA REGISTRATION NUMBER:\n59639-165\n \nPRODUCT DESCRIPTION: \nHerbicide\n \nTradewind is a trademark of Valent U.S.A. Corporation.\n \n \nThe current MSDS is available through our websi"
+  },
+  "section_2": {
+    "signal_word": "CAUTION",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 1,
+    "text_excerpt": "2.  HAZARDS IDENTIFICATION\n \n \n \nPOTENTIAL HEALTH EFFECTS \n \nAcute Toxicity (Primary Routes of Exposure): Skin, Inhalation, Eyes\n \nAcute Eye Contact: Based on an evaluation of the ingredients and/or similar products, this product may cause brief \nand/or minor eye irritation. The expected adverse hea"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

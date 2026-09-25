@@ -1,0 +1,340 @@
+[
+ {
+  "row": 4,
+  "fid": "Cancer_PID_12",
+  "product_name": "3'-Azido-3'-Deoxythymidine (AZT); Lamivudine (3TC)",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "high",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/35370/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS via PUG-View REST (ECHA C&L Inventory / CLP Annex VI aggregated)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "3'-Azido-3'-Deoxythymidine (Zidovudine, AZT)",
+    "cas": "30516-87-1",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Danger; H341 (54.5%); H350 (53.5%); H351 (45.5%); H361 (54.5%); H372 (52.5%) [ECHA C&L aggregated, EC 623-849-4]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/35370/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Lamivudine (3TC)",
+    "cas": "134678-17-4",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": "Warning; H315 (30.1%); H319 (30.1%); H335 (30.1%); H361 (69.2%); H373 (30.1%) [ECHA C&L aggregated, EC 603-844-3]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/60825/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "NTP 병용요법 연구용 2제 조합으로 상용 혼합물 SDS 부재. PubChem LCSS(PUG-View REST)로 각 성분의 ECHA C&L/CLP 분류 확보. 제품(혼합물) SDS는 존재하지 않아 Section 9 pH 등 제품 수준 항목은 null."
+ },
+ {
+  "row": 5,
+  "fid": "Cancer_PID_13",
+  "product_name": "3'-Azido-3'-Deoxythymidine (AZT); Lamivudine (3TC); Nelfinavir Mesylate (NFV)",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "high",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/35370/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS via PUG-View REST (ECHA C&L Inventory / CLP Annex VI aggregated)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "3'-Azido-3'-Deoxythymidine (Zidovudine, AZT)",
+    "cas": "30516-87-1",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Danger; H341 (54.5%); H350 (53.5%); H351 (45.5%); H361 (54.5%); H372 (52.5%) [ECHA C&L aggregated, EC 623-849-4]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/35370/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Lamivudine (3TC)",
+    "cas": "134678-17-4",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": "Warning; H315 (30.1%); H319 (30.1%); H335 (30.1%); H361 (69.2%); H373 (30.1%) [ECHA C&L aggregated, EC 603-844-3]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/60825/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Nelfinavir Mesylate",
+    "cas": "159989-65-8",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "No signal word; H413 (100%) only [ECHA C&L aggregated, EC 663-870-6]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/64142/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "3제 병용 연구용 조합으로 상용 혼합물 SDS 부재. PubChem LCSS(PUG-View REST)로 각 성분의 ECHA C&L/CLP 분류 확보. 제품(혼합물) SDS는 존재하지 않아 Section 9 pH 등 제품 수준 항목은 null. Nelfinavir mesylate는 ECHA 통보에 신호어 없이 H413만 등재."
+ },
+ {
+  "row": 6,
+  "fid": "Cancer_PID_14",
+  "product_name": "3'-Azido-3'-Deoxythymidine (AZT); Lamivudine (3TC); Nevirapine (NVP)",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "high",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/35370/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS via PUG-View REST (ECHA C&L Inventory / CLP Annex VI aggregated)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "3'-Azido-3'-Deoxythymidine (Zidovudine, AZT)",
+    "cas": "30516-87-1",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Danger; H341 (54.5%); H350 (53.5%); H351 (45.5%); H361 (54.5%); H372 (52.5%) [ECHA C&L aggregated, EC 623-849-4]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/35370/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Lamivudine (3TC)",
+    "cas": "134678-17-4",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": "Warning; H315 (30.1%); H319 (30.1%); H335 (30.1%); H361 (69.2%); H373 (30.1%) [ECHA C&L aggregated, EC 603-844-3]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/60825/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Nevirapine",
+    "cas": "129618-40-2",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Warning; H302 (17.4%); H412 (95.7%) [ECHA C&L aggregated, EC 603-345-0]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/4463/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "힌트 SDS(MedChemExpress)는 Lamivudine 단일물질만 다루어 성분 불일치 확인 -> product_ghs 미기록. 3제 조합 SDS 자체가 부재. PubChem LCSS(PUG-View REST)로 각 성분의 ECHA C&L/CLP 분류 확보. 제품(혼합물) SDS는 존재하지 않아 Section 9 pH 등 제품 수준 항목은 null."
+ },
+ {
+  "row": 7,
+  "fid": "Cancer_PID_141",
+  "product_name": "Beta-nitrostyrene; Styrene",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "high",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/5284459/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS via PUG-View REST (ECHA C&L Inventory / CLP Annex VI aggregated)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Beta-nitrostyrene ((E)-beta-nitrostyrene)",
+    "cas": "102-96-5",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": "Warning; H315 (100%); H319 (100%); H335 (97.8%) [ECHA C&L aggregated, EC 629-597-1]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/5284459/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Styrene",
+    "cas": "100-42-5",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": "Danger; H226; H315; H319; H332; H361d; H372 [CLP harmonised, Regulation (EC) No 1272/2008 Annex VI]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/7501/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "2성분 연구용 조합으로 혼합물 SDS 부재. Styrene은 CLP 조화분류(Annex VI), beta-nitrostyrene은 ECHA C&L 통보 100% 기준. PubChem LCSS(PUG-View REST)로 각 성분의 ECHA C&L/CLP 분류 확보. 제품(혼합물) SDS는 존재하지 않아 Section 9 pH 등 제품 수준 항목은 null."
+ },
+ {
+  "row": 8,
+  "fid": "Cancer_PID_15",
+  "product_name": "3'-Azido-3'-deoxythymidine; 2',3'-Dideoxycytidine",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "high",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/35370/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS via PUG-View REST (ECHA C&L Inventory / CLP Annex VI aggregated)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "3'-Azido-3'-Deoxythymidine (Zidovudine, AZT)",
+    "cas": "30516-87-1",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Danger; H341 (54.5%); H350 (53.5%); H351 (45.5%); H361 (54.5%); H372 (52.5%) [ECHA C&L aggregated, EC 623-849-4]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/35370/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "2',3'-Dideoxycytidine (Zalcitabine)",
+    "cas": "7481-89-2",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Warning; H351 (95.7%); H361 (14.9%) [ECHA C&L aggregated, EC 620-762-3]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/24066/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "AZT+ddC 병용 연구용 조합으로 혼합물 SDS 부재. PubChem LCSS(PUG-View REST)로 각 성분의 ECHA C&L/CLP 분류 확보. 제품(혼합물) SDS는 존재하지 않아 Section 9 pH 등 제품 수준 항목은 null."
+ },
+ {
+  "row": 9,
+  "fid": "Cancer_PID_159",
+  "product_name": "Bis(2-chloro-1-methylethyl)ether (~70); 2-Chloro-1-methylethyl(2-chloropropyl)ether (~30)",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/7944/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS via PUG-View REST (ECHA C&L Inventory / CLP Annex VI aggregated)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Bis(2-chloro-1-methylethyl) ether (bis(2-chloroisopropyl) ether)",
+    "cas": "108-60-1",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": "Danger; H300 (59.5%); H301 (29.7%); H315 (89.2%); H319 (89.2%); H335 (29.7%) [ECHA C&L aggregated, EC 203-598-3]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/7944/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "2-Chloro-1-methylethyl(2-chloropropyl) ether",
+    "cas": "83270-31-9",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": null,
+    "h_statements": null,
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/154174/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "기술등급 70/30 이성질체 혼합물 SDS 미발견(웹서치 도구 미제공, 검색엔진 CAPTCHA/429 차단). 주성분 CAS 108-60-1은 ECHA C&L 확보(Danger, H300/H315/H319). 부성분 CAS 83270-31-9(CID 154174)는 PubChem GHS 데이터 없음(PUGVIEW.NotFound)으로 전 항목 null."
+ },
+ {
+  "row": 10,
+  "fid": "Cancer_PID_16",
+  "product_name": "3'-Azido-3'-deoxythymidine; 2',3'-Dideoxyinosine (AIDS Initiative)",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "high",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/35370/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS via PUG-View REST (ECHA C&L Inventory / CLP Annex VI aggregated)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "3'-Azido-3'-Deoxythymidine (Zidovudine, AZT)",
+    "cas": "30516-87-1",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Danger; H341 (54.5%); H350 (53.5%); H351 (45.5%); H361 (54.5%); H372 (52.5%) [ECHA C&L aggregated, EC 623-849-4]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/35370/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "2',3'-Dideoxyinosine (Didanosine)",
+    "cas": "69655-05-6",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": "Danger; H315 (25%); H319 (25%); H335 (25%); H341 (75%); H372 (25%) [ECHA C&L aggregated, EC 614-994-4]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/135398739/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "AIDS Initiative 연구용 AZT+ddI 조합으로 혼합물 SDS 부재. PubChem LCSS(PUG-View REST)로 각 성분의 ECHA C&L/CLP 분류 확보. 제품(혼합물) SDS는 존재하지 않아 Section 9 pH 등 제품 수준 항목은 null."
+ },
+ {
+  "row": 13,
+  "fid": "Cancer_PID_957",
+  "product_name": "TEF evaluation (Binary mixture; PCB 126/PCB 153)",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "high",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/63090/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS via PUG-View REST (ECHA C&L Inventory / CLP Annex VI aggregated)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "PCB 126 (3,3',4,4',5-pentachlorobiphenyl)",
+    "cas": "57465-28-8",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Warning; H373 (94%); H400 (94%); H410 (94%) [ECHA C&L aggregated, EC 682-346-8]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/63090/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "PCB 153 (2,2',4,4',5,5'-hexachlorobiphenyl)",
+    "cas": "35065-27-1",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Warning; H373 (100%); H400 (100%); H410 (100%) [ECHA C&L aggregated, EC 621-381-5]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/37034/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "TEF 산출용 PCB126/PCB153 2성분 연구 혼합물로 상용 제품/SDS 부재. 두 congener 모두 ECHA C&L 분류 확보(H373/H400/H410, 안구·피부·감작 미분류)."
+ },
+ {
+  "row": 14,
+  "fid": "Cancer_PID_958",
+  "product_name": "TEF evaluation (Dioxin mixture)",
+  "tier": "none",
+  "resolution": "no_sds_exists",
+  "confidence": "high",
+  "source_url": null,
+  "source_type": null,
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": null,
+  "note_ko": "'TEF evaluation'은 독성등가환산인자 산출 방법론 라벨이고 ingredient_names에도 특정 화학물질명이 없으며 제품명의 'Dioxin mixture'도 congener 미지정이라, 제품 SDS도 성분별 GHS도 근거 있게 특정 불가(임의 congener 대입은 금지 규칙 위반)."
+ },
+ {
+  "row": 18,
+  "fid": "Cancer_PID_99",
+  "product_name": "Aspirin; Phenacetin; Caffeine",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "high",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/2244/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS via PUG-View REST (ECHA C&L Inventory / CLP Annex VI aggregated)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Aspirin (acetylsalicylic acid)",
+    "cas": "50-78-2",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": "Warning; H302 (95.6%); H315 (20.6%); H319 (22.2%); H335 (20%) [ECHA C&L aggregated, EC 200-064-1]. NITE-CMC FY2024 separately assigns H334 (resp. sens. 1).",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/2244/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Phenacetin",
+    "cas": "62-44-2",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Danger; H302 (100%); H350 (96.4%) [ECHA C&L aggregated, EC 200-533-0]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/4754/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Caffeine",
+    "cas": "58-08-2",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Warning; H302 [CLP harmonised, Regulation (EC) No 1272/2008; ECHA C&L H302 98.9%]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/2519/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "APC 복합제는 판매 중단으로 통합 제품 SDS 부재(힌트 SDS는 Phenacetin 100% 단일성분 -> 성분 불일치). 3성분 모두 ECHA C&L/CLP 분류 확보. PubChem LCSS(PUG-View REST)로 각 성분의 ECHA C&L/CLP 분류 확보. 제품(혼합물) SDS는 존재하지 않아 Section 9 pH 등 제품 수준 항목은 null."
+ }
+]

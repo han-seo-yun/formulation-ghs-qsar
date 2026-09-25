@@ -1,0 +1,35 @@
+{
+  "source_id": "4d7d07f24f6dfa7e",
+  "file_path": "ingredient_source_audit/highlighted/4d7d07f24f6dfa7e_highlighted.pdf",
+  "page_count": 9,
+  "full_text_length": 17084,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_15",
+    "section_3",
+    "section_14"
+  ],
+  "section_1": {
+    "product_name": "Product Name",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. \nIDENTIFICATION  \n \nProduct Name \nEFFIPRO® Plus Topical Solution for Dogs \n \nRecommended use of the chemical and \nrestrictions on use \n \n \n           Identified uses \nTopical insecticide \n \n           Restrictions on Use \nIt is a violation of Federal law to use this product in a \nmanner inconsist"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "2. \nHAZARD IDENTIFICATION \nHazard Classification                            \nAcute Toxicity (Oral) - Category 4 \nAcute Toxicity (Inhalation) - Category 4 \n \nSpecific Target Organ Toxicity (Single Exposure) - Category 1 \nSpecific Target Organ Toxicity (Repeat Exposure) - Category 1 \nAcute hazard to t"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

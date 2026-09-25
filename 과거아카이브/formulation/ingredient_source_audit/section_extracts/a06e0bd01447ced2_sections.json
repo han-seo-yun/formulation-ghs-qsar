@@ -1,0 +1,69 @@
+{
+  "source_id": "a06e0bd01447ced2",
+  "file_path": "ingredient_source_audit/highlighted/a06e0bd01447ced2_highlighted.pdf",
+  "page_count": 10,
+  "full_text_length": 21276,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Organisation",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. IDENTIFICATION\nOrganisation\nLocation\nTelephone\nRedox Ltd\n2 Swettenham Road\nMinto NSW 2566\nAustralia\n+61-2-97333000\nRedox Ltd\n11 Mayo Road\nWiri Auckland 2104\nNew Zealand\n+64-9-2506222\nRedox Inc.\n3960 Paramount Boulevard\nSuite 107\nLakewood CA 90712\nUSA\n+1-424-675-3200\nRedox Chemicals Sdn Bhd\nSuite "
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H227",
+      "H304",
+      "H315",
+      "H317",
+      "H319",
+      "H411"
+    ],
+    "p_codes": [
+      "P210",
+      "P280",
+      "P261",
+      "P273",
+      "P272",
+      "P370",
+      "P378",
+      "P301",
+      "P310",
+      "P331",
+      "P302",
+      "P352",
+      "P333",
+      "P313",
+      "P391",
+      "P337",
+      "P362",
+      "P305",
+      "P351",
+      "P338",
+      "P403",
+      "P235",
+      "P405",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Skin Corrosion"
+    ],
+    "environmental_hazard": "aquatic_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "2. HAZARD IDENTIFICATION\nSAFETY DATA SHEET\nGINGER OIL\nREVISION 3, DATE 22 JUL 2020\nForm 21047, Revision 3, Page 1 of 10, 08-Jul-2025 02:05:42\nAustralia\nAdelaide\nBrisbane\nMelbourne\nPerth\nSydney\nNew Zealand\nAuckland\nChristchurch\nHawke’s Bay\nMalaysia\nKuala Lumpur\nUSA\nLos Angeles\nOakland\nUK \nLondon\nMexi"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

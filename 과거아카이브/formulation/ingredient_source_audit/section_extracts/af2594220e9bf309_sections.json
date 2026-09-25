@@ -1,0 +1,58 @@
+{
+  "source_id": "af2594220e9bf309",
+  "file_path": "ingredient_source_audit/highlighted/af2594220e9bf309_highlighted.pdf",
+  "page_count": 9,
+  "full_text_length": 16575,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "1.1 Product Identifier",
+    "formulation_code": "EC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "Section 1. Identification of the substance or the mixture and of the supplier\n1.1 Product Identifier\nNikura | Clove Bud Essential Oil; CAS: 8000-34-8\nProduct identifier:\nOther identifiers:\nINCI Name: Clove, ext.\nCAS-No.: 8000-34-8\nEC-No.: 284-638-7\nIdentification as on the label/Trade name: 100% Pur"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H304",
+      "H315",
+      "H317",
+      "H319",
+      "H401"
+    ],
+    "p_codes": [
+      "P103",
+      "P261",
+      "P264",
+      "P272",
+      "P280",
+      "P301",
+      "P302",
+      "P305",
+      "P331",
+      "P333",
+      "P337",
+      "P362",
+      "P405",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Skin Corrosion"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "Section 2. Hazards identification\nClassification under Regulation (EC) No 1272/2008\nClass and category of\ndanger:\nEye Damage / Irritation Category 2\nSensitization - Skin Category 1B\nEye Damage / Irritation Category 2A\nH304, May be fatal if swallowed and enters airways.\nH315, Causes skin irritation.\n"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

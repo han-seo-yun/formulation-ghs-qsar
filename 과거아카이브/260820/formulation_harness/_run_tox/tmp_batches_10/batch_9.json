@@ -1,0 +1,92 @@
+[
+  {
+    "row": 1451,
+    "product_name": "Proxel BD",
+    "ingredient_names": " | 1,2-Benzisothiazolin-3-one",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1452,
+    "product_name": "sodium hydroxide/N,N'-bis(acrylyl)cystamine (BAC) (1:10)",
+    "ingredient_names": " | Sodium hydroxide | N,N'-Bisacrylylcystamine",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1453,
+    "product_name": "sodium hydroxide/SMS (0.5:1)",
+    "ingredient_names": " | Sodium hydroxide | Sodium metabisulfite",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1454,
+    "product_name": "sodium hydroxide/SMS (1:10)",
+    "ingredient_names": " | Sodium hydroxide | Sodium metabisulfite",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/deff4e7ad0939a95_highlighted.pdf",
+    "tox_signal_word": "danger",
+    "tox_h_statements": "H314 ;; H318",
+    "cat_eye_ghs": "1",
+    "cat_skin_ghs": "1",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "negative"
+  },
+  {
+    "row": 1457,
+    "product_name": "sulfuric acid + cellusolve",
+    "ingredient_names": "Sulfuric Acid | 2-Ethoxyethanol",
+    "tox_source_url": "https://www.chemblink.com/MSDSFiles/7664-93-9Sigma-Aldrich.pdf",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/ordered_option_runs/highlighted_sources/G026_7664-93-9_ChemBlink_Sigma_highlighted.pdf",
+    "tox_signal_word": "danger",
+    "tox_h_statements": "H290 ;; H314 ;; H318",
+    "cat_eye_ghs": "1",
+    "cat_skin_ghs": "1",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "not_stated"
+  },
+  {
+    "row": 1458,
+    "product_name": "sodium hydroxide/SMS (5:3)",
+    "ingredient_names": " | Sodium hydroxide | Sodium metabisulfite",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1459,
+    "product_name": "Sulfuric acid/ Ferric chloride",
+    "ingredient_names": " | Sulfuric acid | Ferric chloride",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/a14f349c48a73d84_highlighted.pdf",
+    "tox_signal_word": "danger",
+    "tox_h_statements": "H290 ;; H314 ;; H318",
+    "cat_eye_ghs": "1",
+    "cat_skin_ghs": "1",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "negative"
+  },
+  {
+    "row": 1460,
+    "product_name": "Sodium hydroxide/ Sodium dodecyl sulfate(1:10)",
+    "ingredient_names": " | Sodium hydroxide | Sodium dodecyl sulfate",
+    "tox_source_url": "https://www.chemblink.com/MSDSFiles/151-21-3Sigma-Aldrich.pdf",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/ordered_option_runs/highlighted_sources/G014_151-21-3_ChemBlink_Sigma_highlighted.pdf",
+    "tox_signal_word": "danger",
+    "tox_h_statements": "H228 ;; H302 ;; H332 ;; H315 ;; H318 ;; H335 ;; H401 ;; H412",
+    "cat_eye_ghs": "1",
+    "cat_skin_ghs": "2",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "negative"
+  }
+]

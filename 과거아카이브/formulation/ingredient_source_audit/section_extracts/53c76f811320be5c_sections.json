@@ -1,0 +1,35 @@
+{
+  "source_id": "53c76f811320be5c",
+  "file_path": "ingredient_source_audit/highlighted/53c76f811320be5c_highlighted.pdf",
+  "page_count": 12,
+  "full_text_length": 20790,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "· Trade name: Cajeput Oil Organic",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1 Product identifier \n· Trade name: Cajeput Oil Organic \n· 1.2 Relevant identified uses of the substance or mixture and uses advised against \nNo further relevant information available. \n· Application of the substance / the mixture Flavour/Fragrance \n· \n· 1.3 Details of the supplier of the safety dat"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "SECTION 2: Hazards identification \n· 3.2 Chemical characterization: Mixtures \n(Contd. on page 4) \nGB\n"
+  },
+  "section_14": {
+    "un_number": "1169"
+  }
+}

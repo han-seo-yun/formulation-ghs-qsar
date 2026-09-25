@@ -1,0 +1,30 @@
+{
+  "source_id": "ec7e9870eec92980",
+  "file_path": "ingredient_source_audit/highlighted/ec7e9870eec92980_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 13722,
+  "sections_found": [
+    "section_3",
+    "section_2",
+    "section_14",
+    "section_15"
+  ],
+  "section_2": {
+    "signal_word": "CAUTION",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Explosion",
+      "Carcinogen"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 1,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION\nProduct No.:\nA12690A\nEPA Signal Word:\nCaution\nHealth and Environmental\nHarmful if inhaled.  May be harmful in contact with skin.  May cause an allergic skin reaction.  Causes mild skin irritation.  \nVapors may cause drowsiness and dizziness.  May be harmful if swallowed and"
+  },
+  "section_14": {
+    "un_number": null
+  },
+  "fallback": {
+    "formulation_code": "CS"
+  }
+}

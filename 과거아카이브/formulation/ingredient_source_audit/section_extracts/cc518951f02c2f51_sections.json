@@ -1,0 +1,42 @@
+{
+  "source_id": "cc518951f02c2f51",
+  "file_path": "ingredient_source_audit/highlighted/cc518951f02c2f51_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 16418,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "• Trade name:",
+    "formulation_code": "EC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1 Product identifier\n• Trade name:\nAMBRETTE SEEDS ABSOLUTE\n• Article number:\nF0052\n• CAS Number:\n8015-62-1\n• EC Number:\n282-891-8\n• No CAS EINECS:\n84455-19-6\n1.2 Relevant identified uses of the substance or mixture and uses advised against\nApplication of the substance / the preparation\nPerfume ingre"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [
+      "H412"
+    ],
+    "p_codes": [
+      "P273",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Aquatic Chronic 3"
+    ],
+    "environmental_hazard": "aquatic",
+    "hazard_level_score": 2,
+    "text_excerpt": "Hazards identification\n2.1 Classification of the substance or mixture\n• Classification according to Regulation (EC) No 1272/2008\nAquatic Chronic 3 - H412 Harmful to aquatic life with long lasting\neffects.\n2.2 Label elements\n• Labelling according to Regulation (EC) No 1272/2008\n- Hazard pictograms\n*\n"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

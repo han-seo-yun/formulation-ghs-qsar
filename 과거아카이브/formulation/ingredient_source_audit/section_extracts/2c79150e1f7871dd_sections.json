@@ -1,0 +1,26 @@
+{
+  "source_id": "2c79150e1f7871dd",
+  "file_path": "ingredient_source_audit/highlighted/2c79150e1f7871dd_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 18490,
+  "sections_found": [
+    "section_3",
+    "section_2",
+    "section_14",
+    "section_15"
+  ],
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Explosion"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "HAZARDS IDENTIFICATION \n \n \nHarmful if inhaled. Causes eye irritation. Prolonged or frequently repeated skin contact may cause allergic reaction in some \nindividuals. Overexposure to spray mist may cause respiratory tract irritation.  . \nSymptoms of Acute Exposure \n \n \nCan decompose at high temperat"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

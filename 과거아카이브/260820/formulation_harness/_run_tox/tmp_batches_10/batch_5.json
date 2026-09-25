@@ -1,0 +1,91 @@
+[
+  {
+    "row": 1378,
+    "product_name": "NUP-08041 Ready-To-Use",
+    "ingredient_names": " | Pyraflufen-ethyl | Dicamba | 2,4-D-2-ethylhexyl | Mecoprop-dimethylammonium",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1383,
+    "product_name": "DPX-MAT28 0.05G Turf Herbicide + Fertilizer",
+    "ingredient_names": " | Aminocyclopyrachlor",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1385,
+    "product_name": "DuPont DPX-QFU31 (MP) Herbicide",
+    "ingredient_names": " | Dicamba-sodium | Thifensulfuron",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/007338f20494e126_highlighted.pdf",
+    "tox_signal_word": "danger",
+    "cat_sens_ghs": "1B",
+    "sds_grade_status_eye": "not_stated",
+    "sds_grade_status_skin": "not_stated",
+    "sds_grade_status_sens": "ok"
+  },
+  {
+    "row": 1386,
+    "product_name": "Safer Brand Garden Fungicide RTU II",
+    "ingredient_names": " | Sulfur, precipitated",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/a11cb779f8ee7b47_highlighted.pdf",
+    "sds_grade_status_eye": "negative",
+    "sds_grade_status_skin": "negative",
+    "sds_grade_status_sens": "negative"
+  },
+  {
+    "row": 1389,
+    "product_name": "Scholar EZ",
+    "ingredient_names": " | Fludioxonil",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/60d7e67a9693d0bb_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "cat_eye_ghs": "2B",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "negative",
+    "sds_grade_status_sens": "negative"
+  },
+  {
+    "row": 1390,
+    "product_name": "Shelter Island Plus - White",
+    "ingredient_names": "Acetic Acid | Tralopyril | Pyrithione zinc",
+    "tox_source_url": "https://corecheminc.com/wp-content/uploads/2025/11/Acetic-Acid-56-CORECHEM-INC.-SDS-7.5.2023.pdf",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/db5454d3af76146c_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "sds_grade_status_eye": "not_stated",
+    "sds_grade_status_skin": "not_stated",
+    "sds_grade_status_sens": "not_stated"
+  },
+  {
+    "row": 1391,
+    "product_name": "Steadfast Q Herbicide",
+    "ingredient_names": " | Nicosulfuron | Rimsulfuron",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/cf5c8e1ff111ba1a_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "cat_eye_ghs": "2B",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "negative",
+    "sds_grade_status_sens": "negative"
+  },
+  {
+    "row": 1392,
+    "product_name": "Solida Grande Herbicide",
+    "ingredient_names": "Chemical nature: Pendimethalin is a 2,6-dinitroaniline derivative. Product Use: Agricultural herbicide for use as ... | Nicosulfuron | Rimsulfuron",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/14d714da9b8aadd6_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "tox_h_statements": "H227 ;; H302 ;; H315 ;; H317 ;; H320 ;; H335 ;; H410",
+    "cat_eye_ghs": "2B",
+    "cat_skin_ghs": "2",
+    "cat_sens_ghs": "1",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "ok"
+  }
+]

@@ -1,0 +1,263 @@
+{
+ "formulation": [
+  1675,
+  599
+ ],
+ "ingredient": [
+  5287,
+  162
+ ],
+ "X_formulation": [
+  1675,
+  524
+ ],
+ "X_ingredient": [
+  5287,
+  178
+ ],
+ "y_counts": {
+  "eye": 1153,
+  "skin": 1059,
+  "sens": 716
+ },
+ "y_src": {
+  "eye": {
+   "ntp_measured": 608,
+   "sds_v1": 290,
+   "sds_2nd": 127,
+   "sds_2nd_sec11": 106,
+   "phase1_sds": 22
+  },
+  "skin": {
+   "ntp_measured": 544,
+   "sds_v1": 285,
+   "sds_2nd": 115,
+   "sds_2nd_sec11": 94,
+   "phase1_sds": 21
+  },
+  "sens": {
+   "sds_v1": 395,
+   "sds_2nd": 192,
+   "sds_2nd_sec11": 109,
+   "phase1_sds": 20
+  }
+ },
+ "resid_defined": {
+  "eye": 514,
+  "skin": 461,
+  "sens": 274
+ },
+ "ing_ghs_rows": 1265,
+ "sec11_reparse": {
+  "eye": {
+   "label": 566,
+   "comp_excluded": 10,
+   "ambig": 62,
+   "weak_nc": 18
+  },
+  "skin": {
+   "label": 481,
+   "comp_excluded": 13,
+   "ambig": 19,
+   "weak_nc": 15
+  },
+  "sens": {
+   "label": 461,
+   "comp_excluded": 14,
+   "ambig": 18,
+   "weak_nc": 17
+  },
+  "t11_ld50_oral": 617,
+  "t11_ld50_dermal": 531,
+  "t11_lc50_inhal": 392
+ },
+ "ph_rows": 534,
+ "structure_coverage": 0.6771325893701532,
+ "june_merge_v5": {
+  "target_formulations": 195,
+  "form_basis": {
+   "length_matched_all": 32,
+   "name_ref_unique": 88,
+   "name_cas_length_matched": 75
+  },
+  "token_gate_dropped": {
+   "no_unique_reference_cas": 175,
+   "nonchemical_name_token": 88,
+   "duplicate_name_conflict": 2,
+   "ambiguous_reference_cas": 6
+  },
+  "rows_merged": 52,
+  "cas_filled": 46,
+  "smiles_filled": 6,
+  "row_basis": {
+   "skipped_no_safe_pair": 111,
+   "skipped_length_mismatch": 257,
+   "name_cas_length_matched": 12,
+   "name_ref_unique": 22,
+   "length_matched_all": 18
+  },
+  "audit_rows_inconsistent": 0,
+  "c1_name_cas_retraction": [
+   {
+    "key": "EyeIrritation6pack_PID985#0",
+    "state": "gated_by_is_nonchem",
+    "cas_now": null
+   },
+   {
+    "key": "EyeIrritation6pack_PID955#1",
+    "state": "gated_by_is_nonchem",
+    "cas_now": null
+   }
+  ]
+ },
+ "pct_repair": {
+  "tolerance_pct_sum": 100.5,
+  "n_formulation_overshoot_raw": 159,
+  "form_status_counts": {
+   "ok_bound_consistent": 23,
+   "ok": 1516,
+   "total_row_dropped": 15,
+   "cross_source_block_split:ntp_ice": 40,
+   "cross_source_block_split:master": 19,
+   "nonchem_name_blanked": 36,
+   "nonchem_name_blanked+unrecoverable_blanked": 1,
+   "unrecoverable_blanked": 10,
+   "nonchem_name_blanked+cross_source_block_split:ntp_ice": 9,
+   "cross_source_block_split:master+unrecoverable_blanked": 3,
+   "nonchem_name_blanked+cross_source_block_split:master+unrecoverable_blanked": 1,
+   "nonchem_name_blanked+cross_source_block_split:master": 1,
+   "duplicate_dropped": 1
+  },
+  "form_terminal_status_counts": {
+   "ok_bound_consistent": 23,
+   "ok": 1516,
+   "total_row_dropped": 15,
+   "cross_source_block_split:ntp_ice": 49,
+   "cross_source_block_split:master": 20,
+   "nonchem_name_blanked": 36,
+   "unrecoverable_blanked": 15,
+   "duplicate_dropped": 1
+  },
+  "row_status_counts": {
+   "ok": 4954,
+   "total_row_dropped": 15,
+   "cross_source_block_dropped:ntp_ice_kept": 149,
+   "cross_source_block_dropped:master_kept": 29,
+   "nonchem_name_blanked": 68,
+   "unrecoverable_blanked": 71,
+   "duplicate_dropped": 1
+  },
+  "n_rows_blanked": 333,
+  "ing2_pct_reject_counts": {
+   "prose_no_pct_clause": "121",
+   "non_pct_unit": "6"
+  }
+ },
+ "caveat_fixes": {
+  "C1_name_cas_retraction": [
+   {
+    "key": "EyeIrritation6pack_PID985#0",
+    "state": "gated_by_is_nonchem",
+    "cas_now": null
+   },
+   {
+    "key": "EyeIrritation6pack_PID955#1",
+    "state": "gated_by_is_nonchem",
+    "cas_now": null
+   }
+  ],
+  "C2_group_key": {
+   "nunique": 587,
+   "src_counts": {
+    "cas": 1545,
+    "fid": 70,
+    "name": 60
+   },
+   "primary_from_same_row": 1458,
+   "primary_from_different_row": 217,
+   "changed_vs_v4": 38
+  },
+  "C3_label_coderived_columns": 54,
+  "C4_metadata_feature_counts": {
+   "X_formulation_parquet_cols": 524,
+   "X_ingredient_parquet_cols": 178
+  },
+  "label_confidence": {
+   "rows": 2928,
+   "confidence": {
+    "high": 2203,
+    "medium": 696,
+    "low": 29
+   },
+   "tier": {
+    "NONE": 2203,
+    "RECOVERED_negative": 403,
+    "SOURCE_CONFLICT": 224,
+    "CT_CONTRADICTION": 53,
+    "FLIP_pos_to_neg": 25,
+    "T2_endpoint_no_data": 16,
+    "T1_evidence_contradicted": 4
+   },
+   "by_endpoint": {
+    "eye": {
+     "high": 900,
+     "medium": 238,
+     "low": 15
+    },
+    "skin": {
+     "high": 815,
+     "medium": 237,
+     "low": 7
+    },
+    "sens": {
+     "high": 488,
+     "medium": 221,
+     "low": 7
+    }
+   },
+   "note": "y 값은 불변. 신뢰도는 학습에서 가중/제외 판단용 메타데이터일 뿐이다."
+  }
+ },
+ "WARNING_do_not_compare_with_v4_performance": "group_key 정의는 v4 와 동일하지만 6/30 병합 철회로 주성분 CAS 가 결측이 된 제형에서 그룹키가 하위 성분으로 이동했다. 그 결과 group_key 값이 v4 대비 38개 제형에서 변했고 GroupKFold 폴드 구성이 달라진다. v5 성능수치를 v4 성능수치와 직접 비교하면 그룹분할 차이와 데이터 변경 효과가 뒤섞여 해석 불가다. 비교가 필요하면 동일 group_key 스냅샷(v4_fixed/group_key_snapshot_v5.csv)으로 양쪽을 재학습할 것.",
+ "WARNING_legacy_v1_columns": "formulation 시트의 has_y · n_y_conflict · trainable* 는 v1 시점 값을 그대로 이월한 레거시 컬럼이며 v5 라벨복구를 반영하지 않는다(has_y=1511 vs y 파케이 has_any_y=1553). 리네임하지 않고 MetaData 경고로 처리했다 — 이유: 5개 하류 스크립트가 이 이름을 문자열 동등비교로 참조하고 BOOKKEEPING_FEATS 역할태깅 키도 동일 이름이라 리네임이 더 위험하다. 학습대상 판정은 y_formulation.parquet 의 has_any_y/n_y/trainable_track* 를 쓸 것.",
+ "WARNING_labels_unchanged": "이번 재생성에서 y 값은 단 한 건도 변경하지 않았다. Tier1 4건 · Tier2 16건 · 양성→음성 전환 25건은 사람 재검 대상이며 v4_fixed/label_confidence_v5.csv 와 formulation 시트 label_confidence_{eye,skin,sens} 로만 표시된다.",
+ "verify": {
+  "성분": {
+   "검증완료": "3604",
+   "재검토필요": "1359",
+   "제외": "218",
+   "미확인": "101",
+   "정보없음": "5"
+  },
+  "제형코드": {
+   "검증완료": "1321",
+   "정보없음": "351",
+   "재검토필요": "3"
+  },
+  "독성코드": {
+   "검증완료": "862",
+   "재검토필요": "758",
+   "정보없음": "38",
+   "미확인": "17"
+  },
+  "특성": {
+   "검증완료": "1514",
+   "재검토필요": "161"
+  }
+ },
+ "p1_batches": [
+  "p1_00.json",
+  "p1_01.json",
+  "p1_02.json",
+  "p1_03.json",
+  "p1_04.json",
+  "p1_05.json",
+  "p1_06.json",
+  "p1_07.json",
+  "p1_08.json",
+  "p1_09.json",
+  "p1_10.json",
+  "p1_11.json",
+  "p1_12.json"
+ ]
+}

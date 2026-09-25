@@ -1,0 +1,48 @@
+{
+  "source_id": "6c1c64ddc6d9e939",
+  "file_path": "ingredient_source_audit/highlighted/6c1c64ddc6d9e939_highlighted.pdf",
+  "page_count": 20,
+  "full_text_length": 29635,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Trade name",
+    "formulation_code": "EC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1 Product identifier \n- \nTrade name \nX-CID \n \n1.2 Relevant identified uses of the substance or mixture and uses advised against \nUses of the Substance/Mixture \n- \nBiocides \n \n1.3 Details of the supplier of the safety data sheet \nCompany \nairinspace®  \n14 rue Jean Monnet  \n78990 ELANCOURT \nFRANCE  \nT"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [
+      "H318",
+      "H315",
+      "H411"
+    ],
+    "p_codes": [
+      "P273",
+      "P280",
+      "P302",
+      "P352",
+      "P305",
+      "P351",
+      "P338",
+      "P310"
+    ],
+    "ghs_classes": [],
+    "environmental_hazard": "aquatic_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2: Hazards identification \nSAFETY DATA SHEET \nPROXITANE ® 0007 \nRevision Date  12.06.2015 \n2 / 20 \n \n \nSAFETY DATA SHEET \nLast review : 15 06 2016 \nFDS X-CID EN 1.03 VERSION 1 23mar2017 \n \nHazard statements \n- \nH318 \nCauses serious eye damage. \n- \nH315 \nCauses skin irritation. \n- \nH411 \nToxi"
+  },
+  "section_14": {
+    "un_number": "3149"
+  }
+}

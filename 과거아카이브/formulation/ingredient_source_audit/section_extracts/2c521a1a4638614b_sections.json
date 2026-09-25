@@ -1,0 +1,35 @@
+{
+  "source_id": "2c521a1a4638614b",
+  "file_path": "ingredient_source_audit/highlighted/2c521a1a4638614b_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 11292,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "1.1. Identification",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "Section 1. Product and supplier information \n1.1. Identification \nProduct name: Everolimus \nProduct catalog number: F6140, F6141 \nCAS#: 159351-69-6 \n1.2. Recommended use and restrictions on use \nResearch use only. Not for clinical or human use.  \n \n1.3. Supplier \nUbiquitin-Proteasome Biotechnologies"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "SECTION 2: Hazard(s) identification \n2.1. Classification of the substance or mixture \nGHS-US classification \nNot a hazardous substance or mixture.   \nBased on currently available data this substance or mixture is not classifiable according to GHS. \n \n2.2. GHS Label elements, including precautionary "
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

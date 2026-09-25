@@ -1,0 +1,330 @@
+[
+ {
+  "row": 638,
+  "fid": "MIX1003",
+  "product_name": "Linaloe wood oil",
+  "tier": "none",
+  "resolution": "unresolved",
+  "confidence": "low",
+  "source_url": "http://www.thegoodscentscompany.com/data/es1030481.html",
+  "source_type": "TGSC 원료 데이터베이스 레코드 (linaloe wood oil mexico, CAS 8006-86-8)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": null,
+  "note_ko": "TGSC 레코드(CAS 8006-86-8) Safety 섹션의 GHS 분류·경구/경피/흡입 독성이 모두 'None found / Not determined'이며 chemblink(8006-86-8)에도 MSDS 파일이 없음. ingredient_names가 null이라 성분별 대체 수집도 불가하여 미해결."
+ },
+ {
+  "row": 641,
+  "fid": "MIX1006",
+  "product_name": "Olibanum absolute",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.chemblink.com/MSDSFiles/8016-36-2Sigma-Aldrich.pdf",
+  "source_type": "Sigma-Aldrich SDS (chemblink 미러) — 'Frankincense oil / Olibanum oil / Gum olibanum', CAS 8016-36-2 (TGSC가 frankincense absolute에 부여한 CAS와 동일)",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": "Warning",
+   "h_statements": "H226",
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "Not classified",
+   "ld50_oral": null,
+   "ld50_dermal": null,
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": [
+   {
+    "name": "(+-)-alpha-Pinene",
+    "cas": "80-56-8",
+    "eye_cat": "1",
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": "Danger; H226 (97.6%); H302 (13.7%); H304 (74.1%); H315 (83.2%); H317 (66.1%); H318 (23.3%); H400 (52.7%); H410 (55.7%) [ECHA C&L aggregated, Pin-2(3)-ene EC 201-291-9, 2036 reports]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6654/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "(+)-Limonene",
+    "cas": "5989-27-5",
+    "eye_cat": "Not classified",
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": "Danger; H226 (>99.9%); H304 (32.6%); H315 (>99.9%); H317 (100%); H400 (96%); H410 (94.1%); H412 (12.5%) [ECHA C&L aggregated, (R)-p-mentha-1,8-diene EC 227-813-5, 2981 reports]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/440917/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "제품 SDS 확보(Sigma-Aldrich, CAS 8016-36-2): Section2 분류는 Flam. Liq. 3(H226)뿐이므로 눈/피부/감작은 'Not classified'로 기록, Section11은 전 항목 'No data available', Section9 pH 'No data available'→null. Section3은 UVCB 단일물질('Gum olibanum' ≤100%)만 표기해 ingredient_names(α-피넨/리모넨)와 직접 대조 불가 → ingredients_match=null. Tier2로 두 성분의 ECHA C&L 분류를 PubChem LCSS에서 병행 확보. 제품명이 absolute인데 SDS는 oil이라 confidence=medium."
+ },
+ {
+  "row": 649,
+  "fid": "MIX1013",
+  "product_name": "Litsea cubeba oil",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://www.chemblink.com/MSDSFiles/68855-99-2Sigma-Aldrich.pdf",
+  "source_type": "Sigma-Aldrich SDS (chemblink 미러) — 'Litsea cubeba oil', CAS 68855-99-2; TGSC(data/es1032591.html)와 교차확인",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": "Warning",
+   "h_statements": "H226; H315; H319",
+   "eye_cat": "2A",
+   "skin_cat": "2",
+   "sens_cat": "Not classified",
+   "ld50_oral": "> 5000 mg/kg (rat, oral)",
+   "ld50_dermal": "4800 mg/kg (rabbit, dermal)",
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": null,
+  "note_ko": "제품 SDS 확보. Section2/3: Flam. Liq. 3, Skin Irrit. 2(H315), Eye Irrit. 2A(H319), ≤100%; 감작은 분류되지 않아 'Not classified'. Section11: LD50 경구 랫 >5000, 경피 토끼 4800 mg/kg. Section9 pH 'No data available'→null. ingredient_names 필드가 학술논문 인용문으로 손상되어 성분 대조 불가(ingredients_match=null), 제품명+CAS 68855-99-2로 매칭."
+ },
+ {
+  "row": 651,
+  "fid": "MIX1015",
+  "product_name": "Mastic absolute",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.chemblink.com/MSDSFiles/61789-92-2Sigma-Aldrich.pdf",
+  "source_type": "Sigma-Aldrich SDS (chemblink 미러) — 'Gum mastic / Mastic', CAS 61789-92-2, EC 263-098-6",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": "None (Not a hazardous substance or mixture)",
+   "h_statements": "None",
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "Not classified",
+   "ld50_oral": null,
+   "ld50_dermal": "> 5000 mg/kg (rabbit, dermal)",
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": null,
+  "note_ko": "Section2가 'Not a hazardous substance or mixture'로 명시 → 신호어 없음, 눈/피부/감작 모두 'Not classified'로 확정 기록(이전 pass의 '분류정보 없음'을 정정). Section11 경피 LD50 토끼 >5000 mg/kg, Section9 pH 'no data available'→null. TGSC(data/ab1046121.html)의 oral-rat 5000 mg/kg은 LDLo이므로 ld50_oral은 null 유지. 제품명 absolute vs SDS gum mastic(동일 CAS)이라 confidence=medium."
+ },
+ {
+  "row": 655,
+  "fid": "MIX1019",
+  "product_name": "Mentha citrata oil",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "low",
+  "source_url": "http://www.thegoodscentscompany.com/data/es1017371.html",
+  "source_type": "TGSC 레코드 (bergamot mint / mentha citrata herb oil, CAS 68917-15-7) + Nishant Aromas MSDS(https://nishantaromas.com/wp-content/uploads/2024/03/Mentha-Citrata-Oil-Msds.pdf)",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": null,
+   "h_statements": null,
+   "eye_cat": null,
+   "skin_cat": null,
+   "sens_cat": null,
+   "ld50_oral": "5000 mg/kg (rat, oral)",
+   "ld50_dermal": "> 5000 mg/kg (guinea pig, dermal)",
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": null,
+  "note_ko": "급성독성값만 회수: TGSC(CAS 68917-15-7) 경구 랫 LD50 5000, 경피 기니피그 >5000 mg/kg(FCT 30:73S). GHS 분류는 TGSC 'None found', Nishant MSDS는 구버전(GHS 코드 없음, 정성적 'may cause eye and skin irritation'만)이라 신호어·H코드·카테고리는 모두 null. Nishant MSDS Section9에 pH 항목 자체가 없음."
+ },
+ {
+  "row": 660,
+  "fid": "MIX1023",
+  "product_name": "Amyris oil acetylated",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "low",
+  "source_url": "http://www.thegoodscentscompany.com/data/rw1001111.html",
+  "source_type": "TGSC 레코드 — 'amyris acetate / amyris balsamifera(funckiana) oil acetylated', CAS 68916-14-3",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": null,
+   "h_statements": null,
+   "eye_cat": null,
+   "skin_cat": null,
+   "sens_cat": null,
+   "ld50_oral": "> 5000 mg/kg (rat, oral)",
+   "ld50_dermal": "> 5000 mg/kg (rabbit, dermal)",
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": null,
+  "note_ko": "이전 pass의 성분 불일치(비아세틸화 Amyris oil) 해소: 아세틸화 제품 전용 레코드(CAS 68916-14-3)를 확인해 경구 랫 LD50 >5000, 경피 토끼 >5000 mg/kg(Food Cosmet Toxicol 11:861) 확보. 단 GHS 분류는 'None found'이고 전용 SDS(PDF)는 chemblink·공개 공급사에서 미확보 → 분류 항목 및 pH는 null."
+ },
+ {
+  "row": 664,
+  "fid": "MIX1027",
+  "product_name": "Methyl ester of rosin (partially hydrogenated)",
+  "tier": "none",
+  "resolution": "unresolved",
+  "confidence": "low",
+  "source_url": "http://www.thegoodscentscompany.com/data/rw1611001.html",
+  "source_type": "TGSC 레코드 (rosin methyl ester partially hydrogenated, CAS 977035-88-3)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": null,
+  "note_ko": "TGSC 레코드는 존재하나 GHS·LD50 모두 'None found / Not determined'; chemblink에 977035-88-3 및 8050-15-5(메틸 수소화로진에스테르) MSDS 없음, Hercolyn D형 제품(Berjé 'Hercolyn D Type')도 SDS 비공개 → 미해결."
+ },
+ {
+  "row": 687,
+  "fid": "MIX1048",
+  "product_name": "Yarmor pine oil",
+  "tier": "ingredient",
+  "resolution": "ingredient_mismatch",
+  "confidence": "high",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/8177/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS via PUG-View REST (ECHA C&L Inventory 집계) — 성분별; 제품 대조용으로 Spectrum 'PINE OIL, WHITE' SDS(https://www.chemblink.com/MSDSFiles/8002-09-3Spectrum.pdf) 확인",
+  "ingredients_match": false,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Diethylene Glycol Monobutyl Ether",
+    "cas": "112-34-5",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Warning; H319 (>99.9%) [ECHA C&L aggregated, 2-(2-butoxyethoxy)ethanol EC 203-961-6, 4089 reports]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/8177/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Triethanolamine",
+    "cas": "102-71-6",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Warning; H319 (18.5%) [ECHA C&L aggregated, 2,2',2''-nitrilotriethanol EC 203-049-8, 6052 reports]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/7618/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "성분 불일치 확정: Yarmor Pine Oil의 실제 조성은 pine oil(CAS 8002-09-3) 약 99%이며 등록 ingredient_names(디에틸렌글리콜모노부틸에테르/트리에탄올아민)와 무관 → 게이팅 규칙에 따라 product_ghs 미기록. 참고로 Spectrum 'Pine Oil, White'(8002-09-3) SDS는 Skin Irrit. 2 / Eye Irrit. 2A / Skin Sens. 1 / Asp. Tox. 1, 경구 랫 LD50 3200 mg/kg, 경피 토끼 >2000 mg/kg, Section9 pH 'No information available'. 대신 Tier2로 등록 성분 2종의 ECHA C&L 분류를 확보."
+ },
+ {
+  "row": 688,
+  "fid": "MIX1049",
+  "product_name": "Pinus nigra oil",
+  "tier": "none",
+  "resolution": "unresolved",
+  "confidence": "low",
+  "source_url": "https://chem.echa.europa.eu/api-substance/v1/substance/100.081.937",
+  "source_type": "ECHA CHEM substance REST API — 'Pine, Pinus nigra, ext.' EC 290-165-7 / CAS 90082-74-9 (regulatoryProcesses에 CNL_NOTIFIED 포함)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": null,
+  "note_ko": "ECHA CHEM API로 물질 실체(EC 290-165-7, CAS 90082-74-9)와 C&L 통보 존재(CNL_NOTIFIED)까지 확인했으나 분류 상세는 JS 전용 UI로만 제공되어 값 인용 불가. TGSC(data/es1066981.html)는 GHS·LD50 모두 'Not determined', chemblink에 MSDS 없음 → 미해결."
+ },
+ {
+  "row": 690,
+  "fid": "MIX1050",
+  "product_name": "Orange flower absolute",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6549/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS via PUG-View REST (ECHA C&L Inventory 집계 분류) — 성분 11종",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Linalool",
+    "cas": "78-70-6",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": "Warning; H315 (97.2%); H317 (61.7%); H319 (79.9%) [ECHA C&L aggregated, EC 201-134-4, 2927 reports]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6549/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Farnesol",
+    "cas": "4602-84-0",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": "Warning; H315 (99.3%); H317 (83.4%); H319 (87.4%); H410 (11.1%) [ECHA C&L aggregated, EC 225-004-1, 1980 reports]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/445070/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "1-Methyl-4-Prop-1-En-2-Ylcyclohexene (limonene/dipentene)",
+    "cas": "138-86-3",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": "Danger; H226 (>99.9%); H304 (49.2%); H315 (>99.9%); H317 (>99.9%); H319 (14.9%); H400 (98.6%); H410 (>99.9%) [ECHA C&L aggregated, Dipentene EC 205-341-0, 3461 reports]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/22311/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Nerolidol",
+    "cas": "7212-44-4",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": "Warning; H317 (11.1%); H319 (87.4%); H400 (34.2%); H410 (99.9%) [ECHA C&L aggregated, mixed isomers EC 230-597-5, 2148 reports]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/5284507/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Benzaldehyde",
+    "cas": "100-52-7",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Warning; H302 (100%); H319 (22.1%); H332 (23.4%); H336 (14.9%) [ECHA C&L aggregated, EC 202-860-4, 3000 reports]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/240/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Phenylacetonitrile",
+    "cas": "140-29-4",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Danger; H301 (88%); H302 (12%); H311 (100%); H330 (100%) [ECHA C&L aggregated, EC 205-410-5, 1715 reports]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/8794/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Ethanol",
+    "cas": "64-17-5",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Danger; H225 (>99.9%); H319 (37.7%) [ECHA C&L aggregated, EC 200-578-6, 13886 reports]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/702/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Indole",
+    "cas": "120-72-9",
+    "eye_cat": "1",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Danger; H302 (100%); H311 (99%); H318 (11.6%) [ECHA C&L aggregated, EC 204-420-7, 1996 reports]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/798/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Methyl Anthranilate",
+    "cas": "134-20-3",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Warning; H319 (99.8%) [ECHA C&L aggregated, EC 205-132-4, 2660 reports]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/8635/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "2-Phenylethanol",
+    "cas": "60-12-8",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Warning; H302 (81.5%); H319 (94.5%) [ECHA C&L aggregated, EC 200-456-2, 2688 reports]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6054/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Geraniol",
+    "cas": "106-24-1",
+    "eye_cat": "1",
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": "Danger; H315 (98.9%); H317 (99.4%); H318 (92.4%) [ECHA C&L aggregated, EC 203-377-1, 2637 reports]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/637566/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "제품(네롤리형 오렌지꽃 앱솔루트, CAS 8030-28-2/68916-04-1) 전용 GHS SDS 미확보 — chemblink가 68916-04-1에 연결한 Carl Roth 문서는 'Oil of orange bitter, italian'(오렌지 껍질유, H226/H304/H315/H317/H410)으로 성분 프로필이 달라 제외했고, TGSC(data/ab1018991.html)에는 구 DSD 표기(Xi, R36/38 피부·눈 자극)만 존재. 대신 등록 성분 11종 전부의 ECHA C&L 집계 분류를 PubChem LCSS로 확보(GHS 농도임계 가산 baseline용)."
+ }
+]

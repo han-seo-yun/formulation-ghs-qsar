@@ -1,0 +1,37 @@
+{
+  "source_id": "a2464eb779e219dc",
+  "file_path": "ingredient_source_audit/highlighted/a2464eb779e219dc_highlighted.pdf",
+  "page_count": 5,
+  "full_text_length": 15825,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_14",
+    "section_15",
+    "section_3"
+  ],
+  "section_1": {
+    "product_name": "Product Name:",
+    "formulation_code": null,
+    "epa_reg_number": "1381-212",
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": "EPA",
+    "active_ingredient_declared": true,
+    "text_excerpt": "SECTION 1: IDENTIFICATION \nProduct Name: \nDaze® 4SC \nEPA Registration #: \n1381-212 \nProduct ID/Unity #: \n10007452 \nCommon Name (Active Ingredient): \nThidiazuron: (N-phenyl-N’-1,2,3-thiadiazole-5-ylurea) \nRecommended Uses: \nCotton Defoliant. See product label for complete list of recommended uses and"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Skin Corrosion"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2: HAZARDS IDENTIFICATION \nOSHA HCS 2012 CLASSIFICATION: This chemical is considered hazardous according to the OSHA Hazard Communication \nStandard 2012 (29 CFR 1910.1200). \n \nAcute Oral Toxicity Category 4; Acute Inhalation Toxicity Category 4; Skin Corrosion/Irritation Category 2; Eye Dama"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

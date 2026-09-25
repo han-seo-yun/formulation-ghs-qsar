@@ -1,0 +1,49 @@
+{
+  "source_id": "d99382fdb0d1f001",
+  "file_path": "ingredient_source_audit/highlighted/d99382fdb0d1f001_highlighted.pdf",
+  "page_count": 9,
+  "full_text_length": 17369,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "• Trade name:",
+    "formulation_code": "EC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. Product identifier\n• Trade name:\nCIVETTE ABSOLUE\n• CAS Number:\n68916-26-7\n• EC number:\n272-826-1\n2. Relevant identified uses of the substance or mixture and uses advised against\n• Application of the substance / the preparation\nAromatic ingredient(s). Industrial use only.\n• Uses advised against\nno"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H318",
+      "H315"
+    ],
+    "p_codes": [
+      "P264",
+      "P280",
+      "P302",
+      "P352",
+      "P305",
+      "P351",
+      "P338",
+      "P310"
+    ],
+    "ghs_classes": [
+      "Eye Dam. 1"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "Hazards identification\n1. Classification of the substance or mixture\n• Classification according to Regulation (EC) No 1272/2008\nGHS05\nEye Dam. 1 - H318 Causes serious eye damage.\nGHS07\nSkin Irrit. 2 - H315 Causes skin irritation.\n• Additional information:\nFull text of H statements: see section 16\n2."
+  },
+  "section_14": {
+    "un_number": "1759"
+  }
+}

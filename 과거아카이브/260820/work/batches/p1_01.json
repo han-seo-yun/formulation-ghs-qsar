@@ -1,0 +1,112 @@
+[
+ {
+  "row": 638,
+  "fid": "MIX1003",
+  "product_name": "Linaloe wood oil",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "PubChem 참고화학물질(RefChem 40961, Bursera delpechiana wood oil)로 물질 확인됨, 그러나 Section 11 상당 GHS/독성분류 정보 없음",
+  "n_smiles": 0
+ },
+ {
+  "row": 641,
+  "fid": "MIX1006",
+  "product_name": "Olibanum absolute",
+  "ingredient_names": "(+-)-alpha-Pinene | (+)-Limonene",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "PubChem 참고화학물질(CAS 977184-03-4)로 물질명은 일치하나 GHS/독성정보 없음; 동명이물질인 '올리바눔'(수지, CAS 8050-07-5, Danger 분류 존재)과 혼동 주의 - 별도 물질이라 인용하지 않음",
+  "n_smiles": 2
+ },
+ {
+  "row": 649,
+  "fid": "MIX1013",
+  "product_name": "Litsea cubeba oil",
+  "ingredient_names": "International Journal of Pharma Growth Research Review www.pharmagrowthjournal.com 36",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "ingredient_names 필드가 학술논문 인용문구로 손상되어 있어 제품명(CAS 68855-99-2, Sigma-Aldrich) 기준으로 매칭함",
+  "n_smiles": 0
+ },
+ {
+  "row": 651,
+  "fid": "MIX1015",
+  "product_name": "Mastic absolute",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": "https://www.chemblink.com/MSDSFiles/61789-92-2Sigma-Aldrich.pdf",
+  "hint_doc_rel": null,
+  "prev_fail_memo": "GHS 미분류 물질(Sigma-Aldrich SDS, Gum mastic CAS 61789-92-2), Dermal LD50 >5000mg/kg(rabbit) 외 분류정보 없음",
+  "n_smiles": 0
+ },
+ {
+  "row": 655,
+  "fid": "MIX1019",
+  "product_name": "Mentha citrata oil",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": "https://nishantaromas.com/wp-content/uploads/2024/03/Mentha-Citrata-Oil-Msds.pdf",
+  "hint_doc_rel": "ingredient_source_audit/highlighted/1a5a706a4d30cb15_highlighted.html",
+  "prev_fail_memo": "기존 hint(PubChem SID 페이지)는 실질 정보 없음; 대체 검색으로 MSDS 확보했으나 GHS 미분류(구버전 MSDS), LD50 자료없음",
+  "n_smiles": 0
+ },
+ {
+  "row": 660,
+  "fid": "MIX1023",
+  "product_name": "Amyris oil acetylated",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/6a9669c7268221b5_highlighted.pdf",
+  "prev_fail_memo": "성분 불일치: 제공된 SDS는 비아세틸화 Amyris Oil(Amyris balsamifera bark oil, CAS 90320-49-3/8015-65-4)이며, 아세틸화(acetylated) 제품 전용 SDS는 검색으로 찾지 못함",
+  "n_smiles": 0
+ },
+ {
+  "row": 664,
+  "fid": "MIX1027",
+  "product_name": "Methyl ester of rosin (partially hydrogenated)",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "CAS 977035-88-3(FDA 확인) 식별은 되었으나 실제 SDS 미확보; Synthomer TDS엔 독성정보 없고 3E Exchange는 로그인 필요",
+  "n_smiles": 0
+ },
+ {
+  "row": 687,
+  "fid": "MIX1048",
+  "product_name": "Yarmor pine oil",
+  "ingredient_names": "Diethylene Glycol Monobutyl Ether | Triethanolamine",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "성분 불일치: Yarmor Pine Oil의 실제 성분은 Pine Oil 99.4%(PMRA 등록 라벨 확인)이며, 등록된 ingredient_names(디에틸렌글리콜모노부틸에테르/트리에탄올아민)는 무관한 화학물질. 해당 성분 조합을 가진 대체 SDS를 찾지 못함",
+  "n_smiles": 2
+ },
+ {
+  "row": 688,
+  "fid": "MIX1049",
+  "product_name": "Pinus nigra oil",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "Pinus nigra oil(흑송오일) 관련 SDS/독성자료를 찾지 못함. PubChem 'Pinus nigra whole' 레코드(RefChem:45347)도 Safety/Hazards 섹션 없음",
+  "n_smiles": 0
+ },
+ {
+  "row": 690,
+  "fid": "MIX1050",
+  "product_name": "Orange flower absolute",
+  "ingredient_names": "Linalool | Farnesol | 1-Methyl-4-Prop-1-En-2-Ylcyclohexene | Nerolidol | Benzaldehyde | Phenylacetonitrile | Ethanol | Indole | Methyl Anthranilate | 2-Phenylethanol | Geraniol",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "PubChem/ChemIDplus(RTECS RL5510000)에 'Natural Product/Skin-Eye Irritant' 정성적 표시만 있고 GHS 신호어·H코드·LD50 등 정식 코드 없음. 성분(인돌·메틸안트라닐레이트·페닐아세토니트릴 존재, 리모넨 부재)이 오렌지꽃 앱솔루트(네롤리형)와 일치하며 오렌지껍질오일과는 구분됨을 확인",
+  "n_smiles": 11
+ }
+]

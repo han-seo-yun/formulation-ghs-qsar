@@ -1,0 +1,74 @@
+{
+  "source_id": "23e625b941a830e2",
+  "file_path": "ingredient_source_audit/highlighted/23e625b941a830e2_highlighted.pdf",
+  "page_count": 11,
+  "full_text_length": 24558,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "1.1. Product identifier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. Identification \n  \n1.1. Product identifier \nProduct Identity \nUndercoat (All Colors) (Aerosol) \n  \nAlternate Names \nUndercoat (All Colors) (Aerosol) \n  \n1.2. Relevant identified uses of the substance or mixture and uses advised against \nIntended use \nSee Technical Data Sheet. \n  \n1.3. Details of "
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H222",
+      "H280",
+      "H225",
+      "H315",
+      "H319",
+      "H336",
+      "H412"
+    ],
+    "p_codes": [
+      "P210",
+      "P211",
+      "P233",
+      "P240",
+      "P241",
+      "P242",
+      "P243",
+      "P251",
+      "P261",
+      "P264",
+      "P271",
+      "P273",
+      "P280",
+      "P302",
+      "P303",
+      "P304",
+      "P305",
+      "P312",
+      "P321",
+      "P332",
+      "P337",
+      "P362",
+      "P370"
+    ],
+    "ghs_classes": [
+      "explode",
+      "Flam. Liq. 2",
+      "Eye Dam. 2",
+      "STOT SE 3",
+      "Aquatic Chronic 3",
+      "explosion"
+    ],
+    "environmental_hazard": "aquatic",
+    "hazard_level_score": 2,
+    "text_excerpt": "2. Hazard(s) identification \n  \n2.1. Classification of the substance or mixture \nFlam. Aerosol 1;H222 \nExtremely flammable aerosol. \nPress. Gas;H280 \nContains gas under pressure; may explode if heated. \nFlam. Liq. 2;H225 \nHighly Flammable liquid and vapor. \nSkin Irrit. 2;H315 \nCauses skin irritation"
+  },
+  "section_14": {
+    "un_number": "1950"
+  }
+}

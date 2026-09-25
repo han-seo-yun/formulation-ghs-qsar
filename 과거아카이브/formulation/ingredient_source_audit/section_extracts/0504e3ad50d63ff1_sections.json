@@ -1,0 +1,43 @@
+{
+  "source_id": "0504e3ad50d63ff1",
+  "file_path": "ingredient_source_audit/highlighted/0504e3ad50d63ff1_highlighted.pdf",
+  "page_count": 17,
+  "full_text_length": 41228,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "1.3 Details of the supplier of the safety data sheet",
+    "formulation_code": "EC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1 Product identifier\n1.3 Details of the supplier of the safety data sheet\ne-mail address of person \nresponsible for this SDS\n: Product.Stewardship.EMEA@ppg.com\n1.2 Relevant identified uses of the substance or mixture and uses advised against\nSECTION 1: Identification of the substance/mixture and of "
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [
+      "P210",
+      "P261",
+      "P304",
+      "P312",
+      "P403",
+      "P233",
+      "P501"
+    ],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2: Hazards identification\nThe product is classified as hazardous according to Regulation (EC) 1272/2008 as amended.\n1/17\nEnglish (GB)\nIreland\nSIGMADUR ONE (TINTED)\nCode\n000001190763\nDate of issue/Date of revision\n: 18 March 2026\n:\nConforms to Regulation (EC) No. 1907/2006 (REACH), Annex II, "
+  },
+  "section_14": {
+    "un_number": "1263"
+  }
+}

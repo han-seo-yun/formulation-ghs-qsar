@@ -1,0 +1,64 @@
+{
+  "source_id": "f150bb35056ee94b",
+  "file_path": "ingredient_source_audit/highlighted/f150bb35056ee94b_highlighted.pdf",
+  "page_count": 9,
+  "full_text_length": 15478,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "1.1. Product identifier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION\n1.1. Product identifier\nPETITGRAIN BIGARADE OIL PETIG0001\nPre-No REACH\n: 05-2117971783-29-0000\nC.A.S Number \n: 8014-17-3\n1.2. Relevant identified uses of the substance or mixture and uses advised against\nUse : Industrial, only for professional use.\n1.3. Details of "
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H304",
+      "H318",
+      "H401",
+      "H411",
+      "H227",
+      "H315",
+      "H317"
+    ],
+    "p_codes": [
+      "P210",
+      "P264",
+      "P272",
+      "P273",
+      "P280",
+      "P301",
+      "P310",
+      "P302",
+      "P352",
+      "P305",
+      "P351",
+      "P338",
+      "P331"
+    ],
+    "ghs_classes": [
+      "Eye Dam. 1",
+      "Aquatic Acute 2",
+      "Aquatic Chronic 2",
+      "Flam. Liq. 4",
+      "Skin corrosion",
+      "Skin Sens. 1"
+    ],
+    "environmental_hazard": "aquatic_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "2.     HAZARD IDENTIFICATION\n2.1. Classification of the substance or mixture\nGHS Classification :\nRegulationGHS\nAsp. Tox. 1              Aspiration hazard 1                                    H304 : May be fatal if swallowed and enters\nairways.\nEye Dam. 1               \nSerious eye damage / eye irri"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

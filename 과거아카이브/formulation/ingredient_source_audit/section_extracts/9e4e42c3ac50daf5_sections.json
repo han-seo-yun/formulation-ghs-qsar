@@ -1,0 +1,35 @@
+{
+  "source_id": "9e4e42c3ac50daf5",
+  "file_path": "ingredient_source_audit/highlighted/9e4e42c3ac50daf5_highlighted.pdf",
+  "page_count": 1,
+  "full_text_length": 9008,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product identifier:",
+    "formulation_code": null,
+    "epa_reg_number": "7173-257",
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": "EPA",
+    "active_ingredient_declared": false,
+    "text_excerpt": "Section 1: Identification \nProduct identifier:  \nMetarex® 4% Snail & Slug bait \nOther identifier(s):  \nEPA Registration Number 7173-257 \nUses or restrictions:  Molluscicide with metaldehyde \nManufactured for:  \nLiphatech, Inc. \n \n3600 W. Elm Street, Milwaukee, WI 53209 \nEmergency phone:  \n800-351-14"
+  },
+  "section_2": {
+    "signal_word": "CAUTION",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 1,
+    "text_excerpt": "Section 2: Hazard Identification \nThis product does not meet the criteria for classification as a hazardous material \nas set forth in OSHA hazard communication regulations at 29 CFR 1910.1200, and \nrequires no signal word, hazard class statement, precautionary statements or \npictogram under these re"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

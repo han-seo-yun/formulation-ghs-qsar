@@ -1,0 +1,55 @@
+{
+  "source_id": "df95cb76b99eb3da",
+  "file_path": "ingredient_source_audit/highlighted/df95cb76b99eb3da_highlighted.pdf",
+  "page_count": 10,
+  "full_text_length": 23776,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product Identifier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": true,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION \nProduct Identifier \nProduct Name \nXyway 3D Fungicide \nOther means of identification \nProduct Code(s) \nFO004340-A \nLegacy Product Code \nF4278-3  \nSynonyms \nFLUTRIAFOL:  α-(2-fluorophenyl)-α-(4-fluorophenyl)-1H-1,2,4-triazole-1-ethanol (CAS \nname); (RS)-2,4'-difluor"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [
+      "P261",
+      "P264",
+      "P270",
+      "P280",
+      "P305",
+      "P351",
+      "P338",
+      "P312",
+      "P304",
+      "P340",
+      "P310",
+      "P301",
+      "P330",
+      "P403",
+      "P233",
+      "P405",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Skin corrosion"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION \nClassification \nOSHA Regulatory Status\nThis chemical is considered hazardous by the 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200)  \nAcute toxicity - Oral \nCategory 4  \nAcute toxicity - Inhalation (Dusts/Mists) \nCategory 4  \nPage   1 / 10  \nXyway 3D Fungicide \n"
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

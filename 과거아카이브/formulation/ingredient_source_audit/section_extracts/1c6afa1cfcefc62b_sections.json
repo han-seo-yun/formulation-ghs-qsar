@@ -1,0 +1,35 @@
+{
+  "source_id": "1c6afa1cfcefc62b",
+  "file_path": "ingredient_source_audit/highlighted/1c6afa1cfcefc62b_highlighted.pdf",
+  "page_count": 5,
+  "full_text_length": 9659,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "PRODUCT CODE:",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1:  PRODUCT / SUPPLIER IDENTIFICATION                               \n \nPRODUCT CODE:   \nAPT218AL5 \n \nPRODUCT NAME:   \nThe Andersons Professional Turf Products Fertilizer 21-0-7 with Allectus Insecticide            \n \nPRODUCT USE: \nFertilizer / Pesticide                         \n \nMFR INFO: \n"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2:  HAZARDS IDENTIFICATION    \n \nHAZARD SYMBOLS / STATEMENTS: \n \n \n \n \nDANGER  \nTOXIC IF SWALLOWED \n \n \nMAY BE HARMFUL IN CONTACT WITH SKIN \n \n \nMAY CAUSE MILD SKIN IRRITATION \n \n \nMAY CAUSE EYE IRRITATION \nMAY CAUSE RESPIRATORY IRRITATION \n \n \n \n \n \nHAZARD CLASSIFICATIONS:  \n    CATEGORY  \n"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

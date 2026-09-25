@@ -1,0 +1,49 @@
+{
+  "source_id": "ab1bcfa39fbe2dd5",
+  "file_path": "ingredient_source_audit/highlighted/ab1bcfa39fbe2dd5_highlighted.pdf",
+  "page_count": 7,
+  "full_text_length": 15704,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product Name: TITAN GLYPHOSATE 360 HERBICIDE",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1 Identification\nProduct Name: TITAN GLYPHOSATE 360 HERBICIDE\nOther Means of Identification: Mixture\nAPVMA Approval Number: 63078\nRecommended Use of the Chemical and Restriction on Use: Agricultural herbicide\nDetails of Manufacturer or Importer:\nTitan Ag Pty Ltd\nPrinces Street Marina\nSuite 15/16 Pri"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H318",
+      "H411"
+    ],
+    "p_codes": [
+      "P273",
+      "P280",
+      "P305",
+      "P351",
+      "P338",
+      "P310",
+      "P391",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Aquatic Chronic 2"
+    ],
+    "environmental_hazard": "aquatic_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "2 Hazard(s) Identification\nHazardous Nature:\nClassified as Hazardous according to the Globally Harmonised System of Classification and Labelling of\nChemicals (GHS) and Safe Work Australia criteria.\nClassified as Dangerous Goods according to the Australian Code for the Transport of Dangerous Goods by"
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

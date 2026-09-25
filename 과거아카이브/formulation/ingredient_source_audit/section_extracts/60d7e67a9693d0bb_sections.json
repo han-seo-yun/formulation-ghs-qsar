@@ -1,0 +1,27 @@
+{
+  "source_id": "60d7e67a9693d0bb",
+  "file_path": "ingredient_source_audit/highlighted/60d7e67a9693d0bb_highlighted.pdf",
+  "page_count": 7,
+  "full_text_length": 12034,
+  "sections_found": [
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION\nWarning\nClassifications:\nSignal Word (OSHA):\nCauses eye irritation\nHazard Statements:\nHarmful if inhaled\nInhalation:  Category 4\nEye Damage/Irritation:  Category 2B\nNone\nOther Hazard Statements:\nPrecautionary Statements:\nAvoid breathing mist, vapors, spray.\nWash hands and f"
+  },
+  "section_14": {
+    "un_number": "3082"
+  },
+  "fallback": {
+    "formulation_code": "SC"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "source_id": "8abb05ab9ef55979",
+  "file_path": "ingredient_source_audit/highlighted/8abb05ab9ef55979_highlighted.pdf",
+  "page_count": 4,
+  "full_text_length": 8348,
+  "sections_found": [
+    "section_1",
+    "section_3",
+    "section_2",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product name:",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": true,
+    "text_excerpt": "1. IDENTIFICATION  \n \nProduct name:  \nQuali-Pro® Rimsulfuron 25 DF \nChemical name of active ingredient: \nRimsulfuron: N-((4,6-dimethoxypyrimidin-2-\nyl)aminocarbonyl)-3-(ethylsulfonyl)-2-pyridinesulfonamide \nManufacturer: \nMakhteshim Agan of North America, Inc. \n4515 Falls of Neuse Road, Suite 300 \nR"
+  },
+  "section_2": {
+    "signal_word": "CAUTION",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 1,
+    "text_excerpt": "HAZARDS IDENTIFICATIONS \n \nPHYSICAL PROPERTIES \nAppearance: Off-white cylindrical granules \nOdor: Weak characteristic odor \nEMERGENCY OVERVIEW: Caution. Causes moderate eye irritation. Harmful if absorbed through the skin. \nAvoid contact with skin, eyes, and clothing. Avoid breathing dust or spray m"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

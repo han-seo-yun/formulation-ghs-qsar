@@ -1,0 +1,35 @@
+{
+  "source_id": "159ea75a31665ed8",
+  "file_path": "ingredient_source_audit/highlighted/159ea75a31665ed8_highlighted.pdf",
+  "page_count": 45,
+  "full_text_length": 160389,
+  "sections_found": [
+    "section_2",
+    "section_3",
+    "section_1",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "(.....Acute Oral TemiCity:",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "Section 1. The results are as follows: \n(.....Acute Oral TemiCity: \nitfuric Acid: LD50 =2140 mg/kg (Rat) \n0729198. \nTi3E 11:33.`AX 293 575 5916\" \nDLACDERIiIÄ MST SERVICE \n@I cog \n11) ISOPREP 184 (1997) \nNiacDermid Incorporated \n245 FREIGHT STREET - WATERBURY, CT 08702 - \nTELEP..H.ONE (203)575 -5700 "
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "SECTION 2 \nHAZARDOUS INGREDIENTS \nMaçDerritiif; Inc, .has indentified the .fallowing chemical ingrédïetlt(s)'ashazardous:- \nindTédieiit_. / ; - \nFerric isúlf.atj \nNitri Acid \n: \nSulfuric : Acid \nt'^ \n` \nCAS 4, \n1 0028=22-5 \n769737-2 \n7864-:93-9 \nBy Weight % \n2fJ.= 30 \n1:10 \n5=1 \n"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

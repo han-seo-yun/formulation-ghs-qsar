@@ -1,0 +1,38 @@
+{
+  "source_id": "fbcb2b66abf8a46d",
+  "file_path": "ingredient_source_audit/highlighted/fbcb2b66abf8a46d_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 25017,
+  "sections_found": [
+    "section_1",
+    "section_3",
+    "section_2",
+    "section_15",
+    "section_14"
+  ],
+  "section_1": {
+    "product_name": "PRODUCT NAME:",
+    "formulation_code": null,
+    "epa_reg_number": "59639-149",
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": "EPA",
+    "active_ingredient_declared": false,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION\n \nPRODUCT NAME:\nSafari® 2 G Insecticide\nVC NUMBER(S):\n1630\nITEM: \n69714057\nSYNONYM(S):\nNone\nEPA REGISTRATION NUMBER:\n59639-149\n \n \nThe current MSDS is available through our website or by calling the product information numbers listed above.  (www.valent.com)\n \n2.  "
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "carconigen",
+      "carcinogen"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "HAZARDS IDENTIFICATION\n \n \n \nPOTENTIAL HEALTH EFFECTS \n \nAcute Toxicity (Primary Routes of Exposure) \n \nSigns and Symptoms of Systemic Effects: No significant signs of systemic toxicity were observed in animals exposed \nto very high oral, dermal or inhalation dosages of Dinotefuran Technical. The to"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

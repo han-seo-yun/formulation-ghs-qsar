@@ -1,0 +1,41 @@
+{
+  "source_id": "5f8cfa4e7028e8dc",
+  "file_path": "ingredient_source_audit/highlighted/5f8cfa4e7028e8dc_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 11005,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "company/undertaking",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification of the substance/mixture and of the\ncompany/undertaking\nProduct identifier\nRelevant identified uses of the substance or mixture and uses advised against\nCompany Identification\n"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H400"
+    ],
+    "p_codes": [
+      "P273",
+      "P391",
+      "P501"
+    ],
+    "ghs_classes": [],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2: Hazards identification\nClassification of the substance or mixture\nHazardous to the aquatic environment, short-term (Acute) - Category Acute 1\nLabel elements\nPictogram(s)\nHazard statement(s)\nH400 Very toxic to aquatic life\nPrecautionary statement(s)\nP273 Avoid release to the environment.\nP"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

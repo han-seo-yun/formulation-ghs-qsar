@@ -1,0 +1,60 @@
+{
+  "source_id": "c693a41837db2d2c",
+  "file_path": "ingredient_source_audit/highlighted/c693a41837db2d2c_highlighted.pdf",
+  "page_count": 20,
+  "full_text_length": 43993,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "1.1. Product identifier",
+    "formulation_code": "EC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification of the substance/mixture and of the company/undertaking\n1.1. Product identifier\nProduct form\n: Substance (UVCB)\nSubstance name\n: Lavandin absolute\nIUPAC name\n: Lavender, Lavandula hybrida, ext.\nEC-No.\n: 294-470-6\nCAS-No.\n: 91722-69-9\nProduct code\n: 22416\nProduct group\n: Tra"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H315",
+      "H318",
+      "H317",
+      "H411"
+    ],
+    "p_codes": [
+      "P102",
+      "P261",
+      "P264",
+      "P273",
+      "P280",
+      "P302",
+      "P352",
+      "P305",
+      "P351",
+      "P338",
+      "P310",
+      "P333",
+      "P313",
+      "P362",
+      "P364",
+      "P391",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Skin corrosion"
+    ],
+    "environmental_hazard": "aquatic_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2: Hazards identification\n2.1. Classification of the substance or mixture\nClassification according to Regulation (EC) No. 1272/2008 [CLP]\nSkin corrosion/irritation, Category 2\nH315 \nSerious eye damage/eye irritation, Category 1\nH318 \nSkin sensitisation, Category 1\nH317 \nHazardous to the aqua"
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

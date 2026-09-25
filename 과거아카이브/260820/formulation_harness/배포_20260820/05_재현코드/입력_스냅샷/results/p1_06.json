@@ -1,0 +1,377 @@
+[
+ {
+  "row": 1334,
+  "fid": "MIX661",
+  "product_name": "Accent Q Herbicide",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://www.agrian.com/pdfs/Accent_Q_MSDS.pdf",
+  "source_type": "manufacturer SDS (Corteva Agriscience LLC, 'Accent Q', Version 1.0, rev. 02/25/2022, SDS No. 800080000854, 27 pp; retrieved from Corteva's Agrian document feed)",
+  "ingredients_match": true,
+  "product_ghs": {
+   "signal_word": "Danger",
+   "h_statements": "H350",
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "Not classified",
+   "ld50_oral": "> 5,000 mg/kg (rat; acute toxicity estimate, calculation method)",
+   "ld50_dermal": "> 5,000 mg/kg (rabbit); > 5,000 mg/kg (rat)",
+   "lc50_inh": "> 5.4 mg/L (rat, 4 h, dust/mist)",
+   "ph": "5.3"
+  },
+  "per_ingredient": null,
+  "note_ko": "Corteva 정식 제품 SDS 확보(직접 curl+pdftotext로 원문 검증). Section 3: Nicosulfuron 54.5%(CAS 111991-09-4)가 유일 유효성분이고 나머지(safener, Barden clay, sucrose, 계면활성제, quartz, TiO2)는 부성분이므로 ingredient_names와 일치. Section 2 GHS 분류는 Carcinogenicity Category 1A(H350) 단독 - quartz/TiO2 기인이며 nicosulfuron 때문은 아님. Section 11 제품 시험 결과: 눈 자극 없음(토끼), 피부 자극 없음(토끼), 감작성 없음(마우스) → eye/skin/sens 모두 비분류. Section 9 pH 5.3. EPA Reg 352-773."
+ },
+ {
+  "row": 1339,
+  "fid": "MIX666",
+  "product_name": "Bifenthrin 0.073 Insecticide with X-X-X Fertilizer",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6442842/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS via PUG-View REST (CLP Annex VI / ECHA C&L); product identity confirmed from EPA PPLS label + Pomerix EPA registry",
+  "ingredients_match": true,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Bifenthrin",
+    "cas": "82657-04-3",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": "Danger; H300, H317, H331, H351, H372, H400, H410 [CLP Annex VI, Regulation (EC) No 1272/2008 harmonised entry, via PubChem CID 6442842]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6442842/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "EPA Reg 70506-126 (UPL NA/United Phosphorus)로 확인, 유효성분은 Bifenthrin 단일(라벨 기준)이라 성분 일치. 제품명의 'X-X-X'는 N-P-K 등급 자리표시자이며 실제 비료 배합은 블렌더가 자기 브랜드로 판매하는 구조여서 이 명칭의 단일 GHS SDS는 존재하지 않음(Pomerix EPA 레지스트리 'SDS: Not available' 명시). EPA 라벨에는 FIFRA 신호어 CAUTION과 '경피 흡수 시 유해'만 있고 GHS H코드/카테고리/pH 없음. 따라서 Tier2로 PubChem CLP Annex VI 기준 Bifenthrin 성분 GHS를 수록(Skin Sens. 1/H317, 눈·피부 자극 비분류). EPA 라벨 PDF는 PPLS에 미공개(pomerix 'Label: Not available'), 동일 등록군 70506-125/127 라벨로 교차확인."
+ },
+ {
+  "row": 1340,
+  "fid": "MIX667",
+  "product_name": "Bifenthrin 0.073 RU Insecticide with X-X-X Fertilizer",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6442842/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS via PUG-View REST (CLP Annex VI / ECHA C&L); product identity confirmed from EPA PPLS label + Pomerix EPA registry",
+  "ingredients_match": true,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Bifenthrin",
+    "cas": "82657-04-3",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": "Danger; H300, H317, H331, H351, H372, H400, H410 [CLP Annex VI, Regulation (EC) No 1272/2008 harmonised entry, via PubChem CID 6442842]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6442842/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "EPA Reg 70506-127 (UPL NA/United Phosphorus)로 확인, 유효성분은 Bifenthrin 단일(라벨 기준)이라 성분 일치. 제품명의 'X-X-X'는 N-P-K 등급 자리표시자이며 실제 비료 배합은 블렌더가 자기 브랜드로 판매하는 구조여서 이 명칭의 단일 GHS SDS는 존재하지 않음(Pomerix EPA 레지스트리 'SDS: Not available' 명시). EPA 라벨에는 FIFRA 신호어 CAUTION과 '경피 흡수 시 유해'만 있고 GHS H코드/카테고리/pH 없음. 따라서 Tier2로 PubChem CLP Annex VI 기준 Bifenthrin 성분 GHS를 수록(Skin Sens. 1/H317, 눈·피부 자극 비분류). EPA 라벨 원문 확인: https://www3.epa.gov/pesticides/chem_search/ppls/070506-00127-20090806.pdf (Bifenthrin 0.073%, CAUTION)."
+ },
+ {
+  "row": 1341,
+  "fid": "MIX668",
+  "product_name": "Bifenthrin 0.083 Insecticide with X-X-X Fertilizer",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6442842/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS via PUG-View REST (CLP Annex VI / ECHA C&L); product identity confirmed from EPA PPLS label + Pomerix EPA registry",
+  "ingredients_match": true,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Bifenthrin",
+    "cas": "82657-04-3",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": "Danger; H300, H317, H331, H351, H372, H400, H410 [CLP Annex VI, Regulation (EC) No 1272/2008 harmonised entry, via PubChem CID 6442842]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6442842/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "EPA Reg 70506-125 (UPL NA/United Phosphorus)로 확인, 유효성분은 Bifenthrin 단일(라벨 기준)이라 성분 일치. 제품명의 'X-X-X'는 N-P-K 등급 자리표시자이며 실제 비료 배합은 블렌더가 자기 브랜드로 판매하는 구조여서 이 명칭의 단일 GHS SDS는 존재하지 않음(Pomerix EPA 레지스트리 'SDS: Not available' 명시). EPA 라벨에는 FIFRA 신호어 CAUTION과 '경피 흡수 시 유해'만 있고 GHS H코드/카테고리/pH 없음. 따라서 Tier2로 PubChem CLP Annex VI 기준 Bifenthrin 성분 GHS를 수록(Skin Sens. 1/H317, 눈·피부 자극 비분류). EPA 라벨 원문 확인: https://www3.epa.gov/pesticides/chem_search/ppls/070506-00125-20100817.pdf (Bifenthrin 0.083%, CAUTION)."
+ },
+ {
+  "row": 1342,
+  "fid": "MIX669",
+  "product_name": "Bifenthrin 0.069 Insecticide With X-X-X Fertilizer",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6442842/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS via PUG-View REST (CLP Annex VI / ECHA C&L); product identity confirmed from EPA PPLS label + Pomerix EPA registry",
+  "ingredients_match": true,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Bifenthrin",
+    "cas": "82657-04-3",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": "Danger; H300, H317, H331, H351, H372, H400, H410 [CLP Annex VI, Regulation (EC) No 1272/2008 harmonised entry, via PubChem CID 6442842]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6442842/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "EPA Reg 70506-123 (UPL NA/United Phosphorus)로 확인, 유효성분은 Bifenthrin 단일(라벨 기준)이라 성분 일치. 제품명의 'X-X-X'는 N-P-K 등급 자리표시자이며 실제 비료 배합은 블렌더가 자기 브랜드로 판매하는 구조여서 이 명칭의 단일 GHS SDS는 존재하지 않음(Pomerix EPA 레지스트리 'SDS: Not available' 명시). EPA 라벨에는 FIFRA 신호어 CAUTION과 '경피 흡수 시 유해'만 있고 GHS H코드/카테고리/pH 없음. 따라서 Tier2로 PubChem CLP Annex VI 기준 Bifenthrin 성분 GHS를 수록(Skin Sens. 1/H317, 눈·피부 자극 비분류). Pomerix EPA 레지스트리에서 이 제품의 실제 등록번호는 70506-123(0.069%)으로 확인. 라벨 PDF 미공개이나 동일 등록군 70506-127 라벨에 70506-123~127 5종이 함께 열거되어 있음."
+ },
+ {
+  "row": 1359,
+  "fid": "MIX684",
+  "product_name": "Chemsico Pesticide Concentrate WI-S",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/16180/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS via PUG-View REST (CLP Annex VI / ECHA C&L) + CORECHEM acetic-acid single-substance SDS",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Acetic Acid",
+    "cas": "64-19-7",
+    "eye_cat": "1",
+    "skin_cat": "1B",
+    "sens_cat": "Not classified",
+    "h_statements": "DANGER; H226, H314. SDS Section 2 classes: Flammable Liquids 3; Skin Corrosion/Irritation 1B. Eye: no separate eye class listed; eye_cat=1 is the standard GHS consequence of Skin Corr. 1 / H314 (not printed on the SDS).",
+    "source_url": "https://corecheminc.com/wp-content/uploads/2025/11/Acetic-Acid-56-CORECHEM-INC.-SDS-7.5.2023.pdf"
+   },
+   {
+    "name": "2,4-D-dimethylammonium",
+    "cas": "2008-39-1",
+    "eye_cat": "1",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": "Danger; H302 (100%), H312 (18.6%), H317 (100%), H318 (100%), H332 (18.6%), H410 (35.7%), H411 (64.3%) [ECHA C&L Inventory aggregated, PubChem CID 16180]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/16180/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Dicamba-dimethylammonium",
+    "cas": "2300-66-5",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Warning; H319, H412 [CLP Annex VI, Regulation (EC) No 1272/2008, PubChem CID 16811]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/16811/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Mecoprop-dimethylammonium",
+    "cas": "32351-70-5",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": null,
+    "h_statements": "No GHS record: PubChem PUG-View returns no GHS Classification for CID 15177291 and ECHA C&L has no entry for the dimethylammonium salt.",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/15177291/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Mecoprop (parent acid; read-across for mecoprop-dimethylammonium)",
+    "cas": "93-65-2",
+    "eye_cat": "1",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": "Danger; H302, H315, H318, H400, H410 [CLP Annex VI, Regulation (EC) No 1272/2008, PubChem CID 7153]. READ-ACROSS ONLY - not the salt itself.",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/7153/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "gamma-Cyhalothrin",
+    "cas": "76703-62-3",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": "Danger; H300+H330 (100%), H300 (100%), H312 (100%), H317 (100%), H330 (100%), H372 (100%), H400 (100%), H410 (100%) [ECHA C&L Inventory aggregated, PubChem CID 6440554]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6440554/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "Chemsico(United Industries Corp. 사업부, EPA 회사번호 9688)의 사내 등록명. Pomerix EPA 제품 레지스트리를 직접 조회한 결과 'Chemsico Pesticide Concentrate/Granules' 계열에는 PL 계열만 현존하고 'WI-S'는 등록부에 없음(취소된 것으로 판단) → 이 명칭의 제품 SDS는 존재하지 않음. 형제 제품 Chemsico Pesticide Concentrate PL (EPA Reg 9688-312) 라벨을 확인하니 접미코드가 유효성분 약어이고(PL=Propiconazole+Lambda-cyhalothrin) 소매 브랜드(Black Flag 등)로 alternate brand name이 붙는 구조여서, SDS는 사내 등록명이 아닌 소매 브랜드명으로만 발행됨. Section 3 대조가 불가하므로 ingredients_match=null. Tier2로 5개 성분 GHS 수록: acetic acid는 CORECHEM 56% 단일성분 SDS(신호어 DANGER, H226/H314, Skin Corr. 1B, pH 2.4, 경구 LD50 rat 3,320 mg/kg, 경피 LD50 rabbit 1,060 mg/kg, LC50 rat 4h >16,000 ppm)에서, 나머지 4종은 PubChem PUG-View(ECHA C&L/CLP)에서 취득. mecoprop-dimethylammonium(32351-70-5)은 PubChem/ECHA에 GHS 레코드가 없어 null 처리하고 모체산 mecoprop을 read-across 항목으로 별도 표기. acetic acid의 eye_cat=1은 SDS에 눈 분류가 별도 기재되지 않았고 H314(Skin Corr. 1B)로부터 유도한 값임(참고: https://www3.epa.gov/pesticides/chem_search/ppls/009688-00312-20161228.pdf)."
+ },
+ {
+  "row": 1360,
+  "fid": "MIX685",
+  "product_name": "Chemsico Pesticide Granules WI-S",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/16180/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS via PUG-View REST (CLP Annex VI / ECHA C&L) + CORECHEM acetic-acid single-substance SDS",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Acetic Acid",
+    "cas": "64-19-7",
+    "eye_cat": "1",
+    "skin_cat": "1B",
+    "sens_cat": "Not classified",
+    "h_statements": "DANGER; H226, H314. SDS Section 2 classes: Flammable Liquids 3; Skin Corrosion/Irritation 1B. Eye: no separate eye class listed; eye_cat=1 is the standard GHS consequence of Skin Corr. 1 / H314 (not printed on the SDS).",
+    "source_url": "https://corecheminc.com/wp-content/uploads/2025/11/Acetic-Acid-56-CORECHEM-INC.-SDS-7.5.2023.pdf"
+   },
+   {
+    "name": "2,4-D-dimethylammonium",
+    "cas": "2008-39-1",
+    "eye_cat": "1",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": "Danger; H302 (100%), H312 (18.6%), H317 (100%), H318 (100%), H332 (18.6%), H410 (35.7%), H411 (64.3%) [ECHA C&L Inventory aggregated, PubChem CID 16180]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/16180/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Dicamba-dimethylammonium",
+    "cas": "2300-66-5",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Warning; H319, H412 [CLP Annex VI, Regulation (EC) No 1272/2008, PubChem CID 16811]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/16811/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Mecoprop-dimethylammonium",
+    "cas": "32351-70-5",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": null,
+    "h_statements": "No GHS record: PubChem PUG-View returns no GHS Classification for CID 15177291 and ECHA C&L has no entry for the dimethylammonium salt.",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/15177291/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Mecoprop (parent acid; read-across for mecoprop-dimethylammonium)",
+    "cas": "93-65-2",
+    "eye_cat": "1",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": "Danger; H302, H315, H318, H400, H410 [CLP Annex VI, Regulation (EC) No 1272/2008, PubChem CID 7153]. READ-ACROSS ONLY - not the salt itself.",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/7153/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "gamma-Cyhalothrin",
+    "cas": "76703-62-3",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": "Danger; H300+H330 (100%), H300 (100%), H312 (100%), H317 (100%), H330 (100%), H372 (100%), H400 (100%), H410 (100%) [ECHA C&L Inventory aggregated, PubChem CID 6440554]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6440554/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "Chemsico(United Industries Corp. 사업부, EPA 회사번호 9688)의 사내 등록명. Pomerix EPA 제품 레지스트리를 직접 조회한 결과 'Chemsico Pesticide Concentrate/Granules' 계열에는 PL 계열만 현존하고 'WI-S'는 등록부에 없음(취소된 것으로 판단) → 이 명칭의 제품 SDS는 존재하지 않음. 형제 제품 Chemsico Pesticide Granules PL II (EPA Reg 9688-316) 라벨을 확인하니 접미코드가 유효성분 약어이고(PL=Propiconazole+Lambda-cyhalothrin) 소매 브랜드(Black Flag 등)로 alternate brand name이 붙는 구조여서, SDS는 사내 등록명이 아닌 소매 브랜드명으로만 발행됨. Section 3 대조가 불가하므로 ingredients_match=null. Tier2로 5개 성분 GHS 수록: acetic acid는 CORECHEM 56% 단일성분 SDS(신호어 DANGER, H226/H314, Skin Corr. 1B, pH 2.4, 경구 LD50 rat 3,320 mg/kg, 경피 LD50 rabbit 1,060 mg/kg, LC50 rat 4h >16,000 ppm)에서, 나머지 4종은 PubChem PUG-View(ECHA C&L/CLP)에서 취득. mecoprop-dimethylammonium(32351-70-5)은 PubChem/ECHA에 GHS 레코드가 없어 null 처리하고 모체산 mecoprop을 read-across 항목으로 별도 표기. acetic acid의 eye_cat=1은 SDS에 눈 분류가 별도 기재되지 않았고 H314(Skin Corr. 1B)로부터 유도한 값임(참고: https://www3.epa.gov/pesticides/chem_search/ppls/009688-00316-20160317.pdf)."
+ },
+ {
+  "row": 1363,
+  "fid": "MIX688",
+  "product_name": "EH-1480 Herbicide",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/91739/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS via PUG-View REST (CLP Annex VI / ECHA C&L); product identity + composition verified from EPA PPLS label",
+  "ingredients_match": true,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "2,4-D-dimethylammonium",
+    "cas": "2008-39-1",
+    "eye_cat": "1",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": "Danger; H302 (100%), H312 (18.6%), H317 (100%), H318 (100%), H332 (18.6%), H410 (35.7%), H411 (64.3%) [ECHA C&L Inventory aggregated, PubChem CID 16180]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/16180/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Dicamba-dimethylammonium",
+    "cas": "2300-66-5",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Warning; H319, H412 [CLP Annex VI, Regulation (EC) No 1272/2008, PubChem CID 16811]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/16811/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Quinclorac",
+    "cas": "84087-01-4",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": "Warning; H317 [CLP Annex VI, Regulation (EC) No 1272/2008, PubChem CID 91739]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/91739/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Dithiopyr",
+    "cas": "97886-45-8",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Warning; H400 (94.8%), H410 (94.8%) [ECHA C&L Inventory aggregated, PubChem CID 91757]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/91757/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "이전 pass의 '데이터 병합 오류' 추정은 오판임을 확인. Pomerix EPA 레지스트리 및 EPA PPLS 라벨 원문(https://www3.epa.gov/pesticides/chem_search/ppls/002217-00939-20130103.pdf)에서 EH-1480 Herbicide = EPA Reg 2217-939, PBI/Gordon Corporation, 유효성분 2,4-D DMA 5.45% + Quinclorac 1.81% + Dicamba DMA 0.51% + Dithiopyr 0.86%로 ingredient_names와 정확히 일치(ingredients_match=true). 다만 'EH-####'는 PBI/Gordon의 private-label 내부 등록명이고 pbigordon.com 검색 결과 0건이어서 이 명칭의 SDS는 발행되지 않음. 라벨에는 FIFRA 신호어 CAUTION과 'Causes moderate eye irritation / Harmful if swallowed'만 있고 GHS H코드·카테고리·pH 없음(FIFRA 문구를 GHS 카테고리로 임의 변환하지 않음). Tier2로 4개 유효성분 GHS 수록."
+ },
+ {
+  "row": 1370,
+  "fid": "MIX694",
+  "product_name": "Glyphosphate 62% IPA Salt",
+  "tier": "ingredient",
+  "resolution": "unresolved",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/38078/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS via PUG-View REST (ECHA C&L / CLP Annex VI); product identity verified from EPA PPLS label",
+  "ingredients_match": true,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Glyphosate-isopropylammonium (PubChem record title: \"Roundup\")",
+    "cas": "38641-94-0",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "No signal word; H411 (98.9%) [ECHA C&L Inventory aggregated, PubChem CID 38078]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/38078/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Glyphosate (parent acid of the IPA salt)",
+    "cas": "1071-83-6",
+    "eye_cat": "1",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Danger; H318, H411 [CLP Annex VI, Regulation (EC) No 1272/2008, PubChem CID 3496]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/3496/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "이전 pass의 '성분 불일치' 판정을 정정: PubChem CID 38078의 레코드 제목이 실제로 \"Roundup\"이고 그 물질이 glyphosate-isopropylammonium(CAS 38641-94-0)이므로 ingredient_names 'Roundup'은 제품명(62% IPA염)과 일치(ingredients_match=true). Pomerix로 제품 특정 완료: 'Glyphosate 62% Isopropylamine Salt (IPA)' = EPA Reg 279-3406, FMC Corporation, manufacturing-use-only. EPA 라벨 원문(https://www3.epa.gov/pesticides/chem_search/ppls/000279-03406-20100317.pdf) 확인 - glyphosate IPA염 62.0%, 신호어 DANGER, 'Corrosive. Causes irreversible eye damage. Harmful if swallowed. Harmful if absorbed through skin.' 그러나 이는 FIFRA 라벨 문구이며 GHS H코드/카테고리/Section 9 pH가 없어 product_ghs는 null 유지. MUP 등록이라 공개 SDS 미발행 → unresolved. 참고 유사 SDS(농도 불일치, 기록하지 않음): Rodeo(Dow, IPA염 53.75%) pH 4.8, 경구/경피 LD50 >5,000 mg/kg, LC50 >6.37 mg/L - https://www.domyown.com/msds/Rodeo_MSDS1h.pdf"
+ },
+ {
+  "row": 1374,
+  "fid": "MIX698",
+  "product_name": "Insecticide TD Granule",
+  "tier": "ingredient",
+  "resolution": "unresolved",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/86287518/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS via PUG-View REST (CLP Annex VI / ECHA C&L); product composition verified from EPA PPLS label",
+  "ingredients_match": true,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Imidacloprid",
+    "cas": "138261-41-3",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Danger; H301, H400, H410 [CLP Annex VI, Regulation (EC) No 1272/2008, PubChem CID 86287518]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/86287518/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Clothianidin",
+    "cas": "210880-92-5",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Danger; H302, H361f, H370, H400, H410 [CLP Annex VI, Regulation (EC) No 1272/2008, PubChem CID 86287519]",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/86287519/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "성분 불일치 아님을 확정: EPA PPLS 라벨 원문(https://www3.epa.gov/pesticides/chem_search/ppls/092564-00049-20190320.pdf)에서 Insecticide TD Granule = EPA Reg 92564-49, SBM Life Science, Imidacloprid 0.55%(138261-41-3) + Clothianidin 0.275%(210880-92-5) 2성분뿐이며 ingredient_names와 정확히 일치(ingredients_match=true, bifenthrin 없음이 정상). 라벨은 12개월 수목·관목용 과립(BioAdvanced 계열 소매 브랜드로 판매)이고 FIFRA 신호어 CAUTION. DoMyOwn SDS 라이브러리 전체(12,678건) 및 BioAdvanced/Bayer 47건을 파일명 단위로 열거해 clothianidin 포함 SDS 0건 확인, Pomerix도 'SDS: Not available' → 92564-49의 소매 브랜드 SDS를 확보 못해 unresolved. 배제 확인한 유사품: 92564-30 Bayer Advanced 12 Month Tree&Shrub Protect&Feed II Granules(Imidacloprid 1.1% 단독, pH 6.0-7.5), 92564-16(Imidacloprid 0.25%), 92564-13(Imidacloprid 0.15%+beta-cyfluthrin). Tier2로 2개 유효성분 GHS 수록."
+ }
+]

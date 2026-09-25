@@ -1,0 +1,26 @@
+{
+  "source_id": "8c2506158824e7b6",
+  "file_path": "ingredient_source_audit/highlighted/8c2506158824e7b6_highlighted.pdf",
+  "page_count": 7,
+  "full_text_length": 12840,
+  "sections_found": [
+    "section_3",
+    "section_2",
+    "section_14",
+    "section_15"
+  ],
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "explosive"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION\nNot Applicable\nClassifications:\nSignal Word (OSHA):\nNot Applicable\nHazard Statements:\nNot Applicable\n 4. FIRST AID MEASURES\nHave the product container, label or Safety Data Sheet with you when calling Syngenta (800-888-8372), a poison contol center \nor doctor, or going for "
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

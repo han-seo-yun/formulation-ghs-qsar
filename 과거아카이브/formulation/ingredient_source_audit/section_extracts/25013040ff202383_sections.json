@@ -1,0 +1,40 @@
+{
+  "source_id": "25013040ff202383",
+  "file_path": "ingredient_source_audit/highlighted/25013040ff202383_highlighted.pdf",
+  "page_count": 5,
+  "full_text_length": 7372,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product name",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION\n \nProduct name\n:\nCedar Leaf Eastern Essential Oil\n \nBotanical name\n:\nThuja occidentalis\n \nSynonyms\n:\nWhite Cedar, American Arborvitae\n \nFEMA\n:\n2267\n \nINCI name\n:\nThuja occidentalis (Cedar) Leaf Oil\n \nCAS #\n:\n8007-20-3\n \nCountry of Origin\n:\nCanada\n \nProduct use\n:\nDo"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H226",
+      "H302",
+      "H313",
+      "H315"
+    ],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 3,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION\n \nEmergency Overview\n \nWHMIS Classification\n \nB3\nCombustible Liquid\nCombustible liquid\n \nD2B\nToxic Material Causing Other Toxic Effects\nModerate skin irritant\n \nGHS Classification\n \nFlammable Liquids (Category 3)\n \nAcute toxicity, Dermal (Category 5)\n \nAcute toxicity, Oral "
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

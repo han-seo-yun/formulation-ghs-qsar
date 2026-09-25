@@ -1,0 +1,57 @@
+{
+  "version": "1.0",
+  "stories": [
+    {
+      "id": "US-001",
+      "title": "hazard_profile_extractor.md 프롬프트 수정",
+      "passes": true,
+      "acceptanceCriteria": [
+        "agents/hazard_profile_extractor.md 입력 필드 테이블에 sec2_text, sec_signal_word, sec_h_codes, sec_ghs_classes, sec_environmental_hazard 5개 행이 추가됨",
+        "처리 로직에 Step 0 (구조화 필드 선보충, pre-fill NOT override) 블록이 삽입됨",
+        "sec_hazard_level_score 초기값 설정 지시가 Step 0에 포함됨",
+        "기존 '배치 크기 권장: 50행/배치'가 '20행/배치'로 교체됨"
+      ]
+    },
+    {
+      "id": "US-002",
+      "title": "pdf_section_extractor.py [:300] → [:2000] 수정",
+      "passes": true,
+      "acceptanceCriteria": [
+        "workflow/pdf_section_extractor.py line 213: sections['section_1'][:2000] 으로 변경됨",
+        "workflow/pdf_section_extractor.py line 216: sections['section_2'][:2000] 으로 변경됨"
+      ]
+    },
+    {
+      "id": "US-003",
+      "title": "extract_formulation_features.py BATCH_SIZE 수정",
+      "passes": true,
+      "acceptanceCriteria": [
+        "workflow/extract_formulation_features.py BATCH_SIZE = 20 으로 변경됨 (기존 25)"
+      ]
+    },
+    {
+      "id": "US-004",
+      "title": "Step 1: hazard 캐시 삭제 후 Phase 2 재실행 및 수락 기준 확인",
+      "passes": false,
+      "acceptanceCriteria": [
+        "hazard_batch_*.json 캐시 파일이 삭제됨",
+        "extract_formulation_features.py 실행이 정상 완료됨 (exit code 0)",
+        "전체 행 수 1,675행 보존 확인",
+        "signal_word 추출률 > 50% 또는 이전 41%보다 향상됨",
+        "hazard_confidence LOW 비율이 이전 57.7%보다 감소함"
+      ]
+    },
+    {
+      "id": "US-005",
+      "title": "Step 2: Phase 0.5+1+1.5 재실행 및 sec2_text 확장 확인",
+      "passes": false,
+      "acceptanceCriteria": [
+        "ingredient_source_audit/section_extracts/*.json 파일이 삭제 후 재생성됨",
+        "run_pipeline.py --from-phase 0.5 --no-llm --force 실행 완료",
+        "enriched_queue.csv의 sec2_text 중앙값 > 300자",
+        "hazard/type/regulatory 캐시 삭제 후 extract_formulation_features.py 정상 완료",
+        "전체 행 수 1,675행 보존"
+      ]
+    }
+  ]
+}

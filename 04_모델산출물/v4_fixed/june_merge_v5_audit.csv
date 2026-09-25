@@ -1,0 +1,53 @@
+Formulation_ID,ing_idx,ing_name_best,merged_cas,merged_smiles,june_merge_basis,cas_format_checkdigit_ok,smiles_rdkit_parses,reference_cas_for_name,cas_consistent_with_reference,smiles_consistent_with_reference
+EyeIrritation6pack_PID103,0,Glycerol,56-81-5,OCC(O)CO,name_cas_length_matched,True,True,56-81-5,True,True
+EyeIrritation6pack_PID103,3,(R)-Metalaxyl,70630-17-0,COCC(=O)N(c1c(C)cccc1C)[C@H](C)C(=O)OC,name_cas_length_matched,True,True,70630-17-0,True,True
+EyeIrritation6pack_PID103,4,(S)-metalaxyl,69516-34-3,COCC(=O)N(c1c(C)cccc1C)[C@@H](C)C(=O)OC,name_cas_length_matched,True,True,69516-34-3,True,
+EyeIrritation6pack_PID1056,6,bronopol,52-51-7,O=[N+]([O-])C(Br)(CO)CO,name_ref_unique,True,True,52-51-7,True,True
+EyeIrritation6pack_PID182,6,Kaolin,1332-58-7,O.O.[Al+3].[Al+3].[O-][Si]([O-])([O-])O[Si]([O-])([O-])[O-],name_ref_unique,True,True,1332-58-7,True,True
+EyeIrritation6pack_PID277,0,Chlorothalonil not listed,1897-45-6,N#Cc1c(Cl)c(Cl)c(Cl)c(C#N)c1Cl,length_matched_all,True,True,1897-45-6,True,True
+EyeIrritation6pack_PID277,1,Propylene Glycol not listed,57-55-6,CC(O)CO,length_matched_all,True,True,57-55-6,True,True
+EyeIrritation6pack_PID345,2,2-Propanediol <,57-55-6,CC(O)CO,name_ref_unique,True,True,57-55-6,True,True
+EyeIrritation6pack_PID345,4,2-Benzisothiazol-3(2H)-one >= 0.005 - <=,2634-33-5,O=c1[nH]sc2ccccc12,name_ref_unique,True,True,2634-33-5,True,True
+EyeIrritation6pack_PID356,2,Aminocyclopyrachlor,858956-08-8,Nc1nc(C2CC2)nc(C(=O)O)c1Cl,name_ref_unique,True,True,858956-08-8,True,True
+EyeIrritation6pack_PID362,1,+/--tartaric acid >= 20 - <,133-37-9,O=C(O)C(O)C(O)C(=O)O,length_matched_all,True,True,133-37-9,True,True
+EyeIrritation6pack_PID362,3,Talc (Mg3H2(SiO3)) >= 1 - <,14807-96-6,[Mg+2].[Mg+2].[Mg+2].[O-][Si]12O[Si]3([O-])O[Si]([O-])(O1)O[Si]([O-])(O2)O3.[OH-].[OH-],length_matched_all,True,True,14807-96-6,True,True
+EyeIrritation6pack_PID393,1,Glycerol,56-81-5,OCC(O)CO,name_ref_unique,True,True,56-81-5,True,True
+EyeIrritation6pack_PID393,2,"1,2-Benzisothiazol-3(2H)-one",2634-33-5,O=c1[nH]sc2ccccc12,name_ref_unique,True,True,2634-33-5,True,True
+EyeIrritation6pack_PID393,3,Kathon,55965-84-9,Cn1sc(Cl)cc1=O.Cn1sccc1=O,name_ref_unique,True,True,55965-84-9,True,True
+EyeIrritation6pack_PID459,2,"1,2-Benzisothiazol-3(2H)-one",2634-33-5,O=c1[nH]sc2ccccc12,name_cas_length_matched,True,True,2634-33-5,True,True
+EyeIrritation6pack_PID459,3,Propylene Glycol,57-55-6,CC(O)CO,name_cas_length_matched,True,True,57-55-6,True,True
+EyeIrritation6pack_PID530,0,Saflufenacil,372137-35-4,CC(C)N(C)S(=O)(=O)NC(=O)c1cc(-n2c(=O)cc(C(F)(F)F)n(C)c2=O)c(F)cc1Cl,name_ref_unique,True,True,372137-35-4,True,True
+EyeIrritation6pack_PID530,4,"1,2-benzisothiazol-3(2H)-one",2634-33-5,O=c1[nH]sc2ccccc12,name_ref_unique,True,True,2634-33-5,True,True
+EyeIrritation6pack_PID540,1,(R)-Metalaxyl,70630-17-0,COCC(=O)N(c1c(C)cccc1C)[C@H](C)C(=O)OC,name_ref_unique,True,True,70630-17-0,True,True
+EyeIrritation6pack_PID540,2,(S)-metalaxyl,69516-34-3,COCC(=O)N(c1c(C)cccc1C)[C@@H](C)C(=O)OC,name_ref_unique,True,True,69516-34-3,True,
+EyeIrritation6pack_PID585,2,Synthetic amorphous silica <=,112926-00-8,O=[Si]=O,name_ref_unique,True,True,112926-00-8,True,True
+EyeIrritation6pack_PID585,3,2-Benzisothiazol-3(2H)-one >= 0.005 - <=,2634-33-5,O=c1[nH]sc2ccccc12,name_ref_unique,True,True,2634-33-5,True,True
+EyeIrritation6pack_PID62,1,Clay,8031-18-3,[Al+3].[Al+3].[O-2].[O-2].[O-2].[O-2].[O-2].[Si+4],length_matched_all,True,True,8031-18-3,True,True
+EyeIrritation6pack_PID62,2,contains Crystalline Silica,14808-60-7,O=[Si]=O,length_matched_all,True,True,14808-60-7,True,True
+EyeIrritation6pack_PID718,1,"4-Pyridinedimethanol, 5-hydroxy-6- >= 5 - <",58-56-0,,name_cas_length_matched,True,,58-56-0,True,
+EyeIrritation6pack_PID718,4,starch >= 1 - <,9005-25-8,,name_cas_length_matched,True,,9005-25-8,True,
+EyeIrritation6pack_PID718,5,"5,7-triaza-1- >= 0.1 - <",51229-78-8,,name_cas_length_matched,True,,51229-78-8,True,
+EyeIrritation6pack_PID803,0,glycerol >= 10 - <,56-81-5,OCC(O)CO,length_matched_all,True,True,56-81-5,True,True
+EyeIrritation6pack_PID803,2,"methyl N-(,6-dimethylphenyl)-N- >= 1 - <",57837-19-1,COCC(=O)N(c1c(C)cccc1C)C(C)C(=O)OC,length_matched_all,True,True,57837-19-1,True,True
+EyeIrritation6pack_PID831,1,"2,3-Propanetriol 9.5-10.5",56-81-5,OCC(O)CO,length_matched_all,True,True,56-81-5,True,True
+EyeIrritation6pack_PID831,2,2-Benzisothiazol-3(2H)-one 0.18-0.22,2634-33-5,O=c1[nH]sc2ccccc12,length_matched_all,True,True,2634-33-5,True,True
+EyeIrritation6pack_PID857,1,"1,2-Benzisothiazol-3(2H)-one",2634-33-5,O=c1[nH]sc2ccccc12,name_ref_unique,True,True,2634-33-5,True,True
+EyeIrritation6pack_PID857,2,Propylene Glycol,57-55-6,CC(O)CO,name_ref_unique,True,True,57-55-6,True,True
+EyeIrritation6pack_PID870,0,Saflufenacil,372137-35-4,CC(C)N(C)S(=O)(=O)NC(=O)c1cc(-n2c(=O)cc(C(F)(F)F)n(C)c2=O)c(F)cc1Cl,name_ref_unique,True,True,372137-35-4,True,True
+MIX1051,0,Methyl Anthranilate,134-20-3,COC(=O)c1ccccc1N,name_cas_length_matched,True,True,134-20-3,True,
+MIX1052,1,(+-)-alpha-Pinene,80-56-8,CC1=CCC2CC1C2(C)C,name_ref_unique,True,True,80-56-8,True,True
+MIX1055,0,Hydroxycitronellal,107-75-5,CC(CC=O)CCCC(C)(C)O,name_cas_length_matched,True,True,107-75-5,True,True
+MIX1058,0,Hydroxycitronellal,107-75-5,CC(CC=O)CCCC(C)(C)O,name_cas_length_matched,True,True,107-75-5,True,True
+MIX1065,0,Water,7732-18-5,O,name_ref_unique,True,True,7732-18-5,True,True
+MIX1065,1,Glycerol,56-81-5,OCC(O)CO,name_ref_unique,True,True,56-81-5,True,True
+MIX1065,2,Benzyl Alcohol,100-51-6,OCc1ccccc1,name_ref_unique,True,True,100-51-6,True,True
+MIX127,0,Chlorothalonil not listed,1897-45-6,N#Cc1c(Cl)c(Cl)c(Cl)c(C#N)c1Cl,length_matched_all,True,True,1897-45-6,True,True
+MIX127,1,Propylene Glycol not listed,57-55-6,CC(O)CO,length_matched_all,True,True,57-55-6,True,True
+MIX186,8,2-benzisothiazol-3(2H)-one >= 0.05 - <,2634-33-5,,name_cas_length_matched,True,,2634-33-5,True,
+MIX27,1,Clay,8031-18-3,[Al+3].[Al+3].[O-2].[O-2].[O-2].[O-2].[O-2].[Si+4],length_matched_all,True,True,8031-18-3,True,True
+MIX27,2,contains Crystalline Silica,14808-60-7,O=[Si]=O,length_matched_all,True,True,14808-60-7,True,True
+MIX77,6,Kaolin,1332-58-7,O.O.[Al+3].[Al+3].[O-][Si]([O-])([O-])O[Si]([O-])([O-])[O-],name_ref_unique,True,True,1332-58-7,True,True
+MIX90,0,Isopropanol -No,67-63-0,CC(C)O,length_matched_all,True,True,67-63-0,True,True
+MIX90,1,Ethanol -No,64-17-5,CCO,length_matched_all,True,True,64-17-5,True,True
+MIX90,2,Butoxyethanol -No.: 1-5,111-76-2,CCCCOCCO,length_matched_all,True,True,111-76-2,True,True
+MIX90,3,Didecyldimethylammonium chloride -No,7173-51-5,CCCCCCCCCC[N+](C)(C)CCCCCCCCCC.[Cl-],length_matched_all,True,True,7173-51-5,True,True

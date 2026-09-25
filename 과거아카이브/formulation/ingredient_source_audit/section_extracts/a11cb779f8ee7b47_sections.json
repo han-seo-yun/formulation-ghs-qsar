@@ -1,0 +1,38 @@
+{
+  "source_id": "a11cb779f8ee7b47",
+  "file_path": "ingredient_source_audit/highlighted/a11cb779f8ee7b47_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 15841,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Safer's Defender Garden Fungicide RTU",
+    "formulation_code": "RTU",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. Identification\nSafer's Defender Garden Fungicide RTU\nProduct identifier\nOther means of identification\n48-5063CAN (PCP 19061)\nSynonyms\nFungicide. Controls black spot, powdery mildew, rust.\nRecommended use\nNone known.\nRecommended restrictions\nManufacturer/Importer/Supplier/Distributor information\nM"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "explosive",
+      "Explosives"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. Hazard identification\nNot classified.\nPhysical hazards\nNot classified.\nHealth hazards\nNot classified.\nEnvironmental hazards\nLabel elements\nNone.\nHazard symbol\nSignal word\nNone.\nHazard statement\nThe mixture does not meet the criteria for classification.\nPrecautionary statement\nPrevention\nObserve g"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

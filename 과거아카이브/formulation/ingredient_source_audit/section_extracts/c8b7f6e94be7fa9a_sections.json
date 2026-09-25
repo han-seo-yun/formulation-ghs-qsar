@@ -1,0 +1,64 @@
+{
+  "source_id": "c8b7f6e94be7fa9a",
+  "file_path": "ingredient_source_audit/highlighted/c8b7f6e94be7fa9a_highlighted.pdf",
+  "page_count": 5,
+  "full_text_length": 15380,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Chemical Nature:",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1 – IDENTIFICATION OF THE MATERIAL AND SUPPLIER \n \nChemical Nature: \nCitrus base solution \nTrade Name: \n \n \nOrange Oil \nSUPPLIER: \nAquatic Technologies \nADDRESS: \n41 Yazaki Way Carrum Downs VIC 3201, Australia \nTELEPHONE \n+61 3 9071 2442 \nFAX: \n \nSubstance: \nLiquid \nProduct Use: \nWater Surfa"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H317",
+      "H315",
+      "H318"
+    ],
+    "p_codes": [
+      "P101",
+      "P102",
+      "P103",
+      "P261",
+      "P272",
+      "P264",
+      "P280",
+      "P304",
+      "P340",
+      "P302",
+      "P352",
+      "P321",
+      "P332",
+      "P313",
+      "P362",
+      "P305",
+      "P351",
+      "P338",
+      "P363",
+      "P310",
+      "P403",
+      "P233",
+      "P405",
+      "P501"
+    ],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2 – HAZARDS IDENTIFICATION \nClassification of the substance or mixture \n \n \nThis product is classified as HAZARDOUS according to the criteria of SWA \n \nThis product is NOT a DANGEROUS GOOD according to Australian Dangerous Goods (ADG) Code \n \nThe product is classified as DANGEROUS accordi"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

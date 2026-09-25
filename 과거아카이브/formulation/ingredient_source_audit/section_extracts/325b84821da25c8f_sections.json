@@ -1,0 +1,37 @@
+{
+  "source_id": "325b84821da25c8f",
+  "file_path": "ingredient_source_audit/highlighted/325b84821da25c8f_highlighted.pdf",
+  "page_count": 12,
+  "full_text_length": 28619,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product name: AQUCAR™ DB 20 Water Treatment Microbiocide",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. IDENTIFICATION \nProduct name: AQUCAR™ DB 20 Water Treatment Microbiocide \n \nRecommended use of the chemical and restrictions on use \nIdentified uses: For biocidal applications.  For industrial use.  We recommend that you use this \nproduct in a manner consistent with the listed use. If your intend"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Skin corrosion"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION \nHazard classification \nThis product is hazardous under the criteria of the Hazardous Products Regulation (HPR) as \nimplemented under the Workplace Hazardous Materials Information System (WHMIS 2015). \nCorrosive to metals - Category 1 \nAcute toxicity - Category 4 - Oral \nAc"
+  },
+  "section_14": {
+    "un_number": "3265"
+  }
+}

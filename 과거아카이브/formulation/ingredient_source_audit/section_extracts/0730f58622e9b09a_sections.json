@@ -1,0 +1,35 @@
+{
+  "source_id": "0730f58622e9b09a",
+  "file_path": "ingredient_source_audit/highlighted/0730f58622e9b09a_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 17646,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "SWEET ALMOND OIL",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. IDENTIFICATION\nSWEET ALMOND OIL\nProduct Description:\n8007-69-0\nCAS #\nFEMA Number\nN/A\nOther means of identification\n507696\nVigon Item #\nConcentrated aromatic ingredient which may be used fragrance compounds according to legal and\nIFRA guidelines. Cosmetic material for FDA regulated product use.\nRe"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. HAZARD(S) IDENTIFICATION\nNot classified.\nPhysical hazards\nNot classified.\nHealth hazards\nNot classified.\nEnvironmental hazards\nLabel elements\nNone.\nHazard symbol\nSignal word\nNone.\nHazard statement\nThe substance does not meet the criteria for classification.\nPrecautionary statement\nPrevention\nObse"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "tool_name": "WebFetch",
+  "tool_input_preview": "{\"url\":\"https://ljmu.elsevierpure.com/en/publications/a-review-of-quantitative-structure-activity-relationship-modellin\",\"prompt\":\"Extract all available text including the abstract and any full text c...",
+  "error": "getaddrinfo ENOTFOUND ljmu.elsevierpure.com",
+  "timestamp": "2026-07-09T15:11:40.871Z",
+  "retry_count": 2
+}

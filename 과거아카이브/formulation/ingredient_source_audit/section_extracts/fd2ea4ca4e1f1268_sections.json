@@ -1,0 +1,42 @@
+{
+  "source_id": "fd2ea4ca4e1f1268",
+  "file_path": "ingredient_source_audit/highlighted/fd2ea4ca4e1f1268_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 24031,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Identification of the mixture & of the company",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "section  \n1.  \nIdentification of the mixture & of the company \n1.1 \nIdentification of the \nsubstance or \npreparation \n1.1.1 Trade Name :  Shar-Teb 3.6FL Fungicide  ABN:  Tebu-Crop 3.6F, Tebu-Turf 3.6F, Tebusha 3.6FL \n1.1.2 Product Registration No.: 83529-11 \n1.2 \nUse of the \nsubstance/ \npreparation "
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [
+      "H302",
+      "H361",
+      "H411"
+    ],
+    "p_codes": [],
+    "ghs_classes": [
+      "Acute Tox. 4",
+      "Aquatic Chronic 2"
+    ],
+    "environmental_hazard": "aquatic_chronic",
+    "hazard_level_score": 4,
+    "text_excerpt": "2. \nHazard Identification \n2.1 \nClassification of the \nsubstance \naccording to \nRegulation \n1910.1200 [GHS]      \nAcute Tox. 4 – Oral   (H302 – Harmful if swallowed) \nRepro. Toxicity - 2     (H361 – Suspected to damaging the unborn child) \nAquatic Chronic 2      (H411 – Toxic to aquatic life with lo"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

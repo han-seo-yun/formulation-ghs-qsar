@@ -1,0 +1,61 @@
+{
+  "source_id": "eeb8accbf601b9fa",
+  "file_path": "ingredient_source_audit/highlighted/eeb8accbf601b9fa_highlighted.pdf",
+  "page_count": 84,
+  "full_text_length": 182268,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product identifier",
+    "formulation_code": "EC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification of the substance/mixture and of the company/undertaking\n1.1\nProduct identifier\nIdentification of the substance\nToluene\nRegistration number (REACH)\n01-2119471310-51-xxxx\nEC number\n203-625-9\nCAS number\n108-88-3\nAlternative name(s)\nToluene\nProduct number\nRDG-7702\n1.2\nRelevant "
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H225",
+      "H315",
+      "H336",
+      "H373",
+      "H304",
+      "H412"
+    ],
+    "p_codes": [
+      "P210",
+      "P260",
+      "P280",
+      "P301",
+      "P310",
+      "P331",
+      "P370",
+      "P378",
+      "P403",
+      "P233",
+      "P235"
+    ],
+    "ghs_classes": [
+      "Flam. Liq. 2",
+      "skin corrosion",
+      "Repr. 2",
+      "STOT SE 3",
+      "STOT RE 2",
+      "Aquatic Chronic 3"
+    ],
+    "environmental_hazard": "aquatic",
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2: Hazards identification\n2.1\nClassification of the substance or mixture\nClassification according to Regulation (EC) No 1272/2008 (CLP)\nSection\nHazard class\nCategory\nHazard class and cat-\negory\nHazard state-\nment\n2.6\nflammable liquid\n2\nFlam. Liq. 2\nH225\n3.2\nskin corrosion/irritation\n2\nSkin I"
+  },
+  "section_14": {
+    "un_number": "1294"
+  }
+}

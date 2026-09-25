@@ -1,0 +1,39 @@
+variable,level,n,pos_rate,mean_wrong_of5,always_wrong_rate
+y_eye_src,phase1_sds,22,0.2273,2.3636,0.4545
+y_eye_src,sds_2nd_sec11,106,0.2925,2.4906,0.3774
+y_eye_src,sds_v1,290,0.6241,1.9897,0.2828
+y_eye_src,ntp_measured,608,0.6414,1.6941,0.2549
+y_eye_src,sds_2nd,127,0.8346,1.0236,0.1102
+label_confidence_eye,low,15,0.0,4.2,0.8
+label_confidence_eye,medium,238,0.4538,2.3235,0.3277
+label_confidence_eye,high,900,0.6722,1.5967,0.2344
+label_tier_eye,CT_CONTRADICTION,13,0.0,4.6154,0.8462
+label_tier_eye,FLIP_pos_to_neg,13,0.0,4.0769,0.7692
+label_tier_eye,RECOVERED_negative,91,0.0,3.3407,0.4945
+label_tier_eye,NONE,900,0.6722,1.5967,0.2344
+label_tier_eye,SOURCE_CONFLICT,131,0.8244,1.3664,0.1603
+formulation_type,액상수화제,35,0.2571,3.0,0.4571
+formulation_type,Concentrate,20,0.55,2.75,0.4
+formulation_type,Seed Treatment,10,0.6,2.8,0.4
+formulation_type,종자처리수화제,16,0.1875,3.0625,0.3125
+formulation_type,__NA__,904,0.6316,1.7345,0.2533
+formulation_type,__RARE__,93,0.6452,1.5591,0.2473
+formulation_type,Granular / Granules,18,0.6111,1.2778,0.2222
+formulation_type,입상수화제,18,0.6667,1.2222,0.2222
+formulation_type,유제,23,0.8261,1.4783,0.2174
+formulation_type,수화제,10,0.7,1.9,0.2
+formulation_type,Aerosol / Fogger,6,0.6667,0.8333,0.1667
+form_code_best,CS,6,0.5,3.0,0.5
+form_code_best,RB,18,0.2222,2.1667,0.3889
+form_code_best,SC,100,0.36,2.24,0.32
+form_code_best,FS,41,0.3415,2.6829,0.3171
+form_code_best,__RARE__,29,0.5862,1.5517,0.2759
+form_code_best,SL,352,0.6818,1.7216,0.2642
+form_code_best,GR,172,0.6105,1.814,0.2558
+form_code_best,__NA__,246,0.6382,1.6463,0.248
+form_code_best,EC,91,0.6923,1.8901,0.2418
+form_code_best,AE,10,0.7,1.0,0.2
+form_code_best,WP,16,0.75,1.5,0.1875
+form_code_best,WG,72,0.7639,1.2222,0.1806
+y_eye_conflict,False,1006,0.6014,1.7952,0.2654
+y_eye_conflict,True,147,0.7347,1.6803,0.2313

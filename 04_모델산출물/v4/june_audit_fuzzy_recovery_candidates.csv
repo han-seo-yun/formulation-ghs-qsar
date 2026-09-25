@@ -1,0 +1,38 @@
+﻿Formulation_ID,original_recommendation,current_ing_name,matched_june_name,match_score,recovered_cas,recovered_smiles,june_audit_status,low_confidence_flag,alignment_basis
+EyeIrritation6pack_PID1024,RECOVER_CAS_LOW_CONFIDENCE,"Metconazole (-[(4-chlorophenyl)methyl]-2,2-dimethyl-1-(1H-1,2,4- 38-43 Active Ingredient","Metconazole (-[(4-chlorophenyl)methyl]-2,2-dimethyl-1-(1H-1,2,4- 38-43 Active Ingredient",1.0,125116-23-6,,MISMATCH,False,CAS:INDEX_ALIGNED
+EyeIrritation6pack_PID1024,RECOVER_CAS_LOW_CONFIDENCE,Glycerine 3-5 Solvent,Glycerine 3-5 Solvent,1.0,56-81-5,,MISMATCH,False,CAS:INDEX_ALIGNED
+EyeIrritation6pack_PID138,RECOVER_CAS_CHECK_STATUS,Bentazon,Bentazon,1.0,25057-89-0,,SOURCE_UNAVAILABLE,False,CAS:VALID_FILTERED_ALIGNED
+EyeIrritation6pack_PID220,RECOVER_CAS_REVIEW,Abamectin 2 NE NE,Abamectin 2 NE NE,1.0,71751-41-2,,EVIDENCE_WEAK,False,CAS:INDEX_ALIGNED
+EyeIrritation6pack_PID220,RECOVER_CAS_REVIEW,6-Di-tert-butyl-p-cresol,6-Di-tert-butyl-p-cresol,1.0,128-37-0,,EVIDENCE_WEAK,False,CAS:INDEX_ALIGNED
+EyeIrritation6pack_PID246,RECOVER_CAS_CHECK_STATUS,Clothianidin,Clothianidin,1.0,210880-92-5,,SOURCE_UNAVAILABLE,False,CAS:VALID_FILTERED_ALIGNED
+EyeIrritation6pack_PID247,RECOVER_CAS_CHECK_STATUS,Clothianidin,Clothianidin,1.0,210880-92-5,,SOURCE_UNAVAILABLE,False,CAS:VALID_FILTERED_ALIGNED
+EyeIrritation6pack_PID267,RECOVER_CAS_REVIEW,Coumaphos,Coumaphos,1.0,56-72-4,,EVIDENCE_WEAK,False,CAS:VALID_FILTERED_ALIGNED
+EyeIrritation6pack_PID291,RECOVER_CAS_HIGH_CONFIDENCE,Cyproconazole,cyproconazole >98,1.0,94361-06-5,,MATCH,False,CAS:INDEX_ALIGNED
+EyeIrritation6pack_PID310,RECOVER_CAS_REVIEW,"Component CAS No. Weight, % Hazard Code Napropamide   - Surfactant  to <  , ,  Surfactant 2 - <  , ,  Solvent - >","Component CAS No. Weight, % Hazard Code Napropamide   - Surfactant  to <  , ,  Surfactant 2 - <  , ,  Solvent - >",1.0,15299-99-7,,EVIDENCE_WEAK,False,CAS:INDEX_ALIGNED
+EyeIrritation6pack_PID332,RECOVER_CAS_HIGH_CONFIDENCE,Deltamethrin (ISO),Deltamethrin,1.0,52918-63-5,,MATCH,False,CAS:INDEX_ALIGNED
+EyeIrritation6pack_PID426,RECOVER_CAS_REVIEW,Fenpropimorph,Fenpropimorph,1.0,67564-91-4,,EVIDENCE_WEAK,False,CAS:VALID_FILTERED_ALIGNED
+EyeIrritation6pack_PID426,RECOVER_CAS_REVIEW,Cyclohexanone,Cyclohexanone,1.0,108-94-1,,EVIDENCE_WEAK,False,CAS:VALID_FILTERED_ALIGNED
+EyeIrritation6pack_PID426,RECOVER_CAS_REVIEW,Isobutanol,Isobutanol,1.0,78-83-1,,EVIDENCE_WEAK,False,CAS:VALID_FILTERED_ALIGNED
+EyeIrritation6pack_PID439,RECOVER_CAS_LOW_CONFIDENCE,Fluazinam,Fluazinam,1.0,79622-59-6,,MISMATCH,False,CAS:VALID_FILTERED_ALIGNED
+EyeIrritation6pack_PID467,RECOVER_CAS_LOW_CONFIDENCE,Tebuconazole,Tebuconazole,1.0,107534-96-3,,MISMATCH,False,CAS:INDEX_ALIGNED
+EyeIrritation6pack_PID467,RECOVER_CAS_LOW_CONFIDENCE,"Alkylated Naphthalene sulfonate, sodium salt > 1 – <","Alkylated Naphthalene sulfonate, sodium salt > 1 – <",1.0,68425-94-5,,MISMATCH,False,CAS:INDEX_ALIGNED
+EyeIrritation6pack_PID467,RECOVER_CAS_LOW_CONFIDENCE,2-Benzisothiazol-3(2H)-one > 0.005 – <,2-Benzisothiazol-3(2H)-one > 0.005 – <,1.0,2634-33-5,,MISMATCH,False,CAS:INDEX_ALIGNED
+EyeIrritation6pack_PID467,RECOVER_CAS_LOW_CONFIDENCE,Glycerine >,Glycerine >,1.0,56-81-5,,MISMATCH,False,CAS:INDEX_ALIGNED
+EyeIrritation6pack_PID467,RECOVER_CAS_LOW_CONFIDENCE,Polyethylene-polypropylene copolymer <=,Polyethylene-polypropylene copolymer <=,1.0,9003-11-6,,MISMATCH,False,CAS:INDEX_ALIGNED
+EyeIrritation6pack_PID512,RECOVER_CAS_CHECK_STATUS,Permethrin,Permethrin,1.0,52645-53-1,,SOURCE_UNAVAILABLE,False,CAS:VALID_FILTERED_ALIGNED
+EyeIrritation6pack_PID563,RECOVER_CAS_REVIEW,Glyphosate,Glyphosate,1.0,1071-83-6,,EVIDENCE_WEAK,False,CAS:VALID_FILTERED_ALIGNED
+EyeIrritation6pack_PID750,RECOVER_CAS_CHECK_STATUS,Permethrin,Permethrin,1.0,52645-53-1,,SOURCE_UNAVAILABLE,False,CAS:VALID_FILTERED_ALIGNED
+MIX1010,RECOVER_CAS_LOW_CONFIDENCE,(+)-Limonene,(+)-Limonene,1.0,68916-04-1 | 5989-27-5,,MISMATCH,False,CAS:SINGLE_INGREDIENT
+MIX1020,RECOVER_CAS_REVIEW,"1,8-Cineole","1,8-Cineole",1.0,470-82-6,,EVIDENCE_WEAK,False,CAS:VALID_FILTERED_ALIGNED
+MIX1020,RECOVER_CAS_REVIEW,D-Camphor,D-Camphor,1.0,464-49-3,,EVIDENCE_WEAK,False,CAS:VALID_FILTERED_ALIGNED
+MIX1020,RECOVER_CAS_REVIEW,(+)-Limonene,(+)-Limonene,1.0,5989-27-5,,EVIDENCE_WEAK,False,CAS:VALID_FILTERED_ALIGNED
+MIX1020,RECOVER_CAS_REVIEW,(+-)-alpha-Pinene,(+-)-alpha-Pinene,1.0,80-56-8,,EVIDENCE_WEAK,False,CAS:VALID_FILTERED_ALIGNED
+MIX1020,RECOVER_CAS_REVIEW,Alpha-Terpineol,Alpha-Terpineol,1.0,98-55-5,,EVIDENCE_WEAK,False,CAS:VALID_FILTERED_ALIGNED
+MIX1020,RECOVER_CAS_REVIEW,Citronellol,Citronellol,1.0,106-22-9,,EVIDENCE_WEAK,False,CAS:VALID_FILTERED_ALIGNED
+MIX1020,RECOVER_CAS_REVIEW,Camphene,Camphene,1.0,79-92-5,,EVIDENCE_WEAK,False,CAS:VALID_FILTERED_ALIGNED
+MIX1020,RECOVER_CAS_REVIEW,P-Cymene,P-Cymene,1.0,99-87-6,,EVIDENCE_WEAK,False,CAS:VALID_FILTERED_ALIGNED
+MIX111,RECOVER_SMILES_ONLY,6-Di-tert-butyl-p-cresol,6-Di-tert-butyl-p-cresol,1.0,128-37-0,,EVIDENCE_WEAK,False,CAS:INDEX_ALIGNED
+MIX112,RECOVER_CAS_CHECK_STATUS,Clothianidin,Clothianidin,1.0,210880-92-5,,SOURCE_UNAVAILABLE,False,CAS:VALID_FILTERED_ALIGNED
+MIX114,RECOVER_CAS_CHECK_STATUS,Clothianidin,Clothianidin,1.0,210880-92-5,,SOURCE_UNAVAILABLE,False,CAS:VALID_FILTERED_ALIGNED
+MIX545,RECOVER_CAS_LOW_CONFIDENCE,"Metconazole (-[(4-chlorophenyl)methyl]-2,2-dimethyl-1-(1H-1,2,4- 38-43 Active Ingredient","Metconazole (-[(4-chlorophenyl)methyl]-2,2-dimethyl-1-(1H-1,2,4- 38-43 Active Ingredient",1.0,125116-23-6,,MISMATCH,False,CAS:INDEX_ALIGNED
+MIX545,RECOVER_CAS_LOW_CONFIDENCE,Glycerine 3-5 Solvent,Glycerine 3-5 Solvent,1.0,56-81-5,,MISMATCH,False,CAS:INDEX_ALIGNED

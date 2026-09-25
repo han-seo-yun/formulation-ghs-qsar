@@ -1,0 +1,63 @@
+{
+  "source_id": "a18a62fe17ca9bb7",
+  "file_path": "ingredient_source_audit/highlighted/a18a62fe17ca9bb7_highlighted.pdf",
+  "page_count": 5,
+  "full_text_length": 8979,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Company and Product Identification",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "Section 1:\nCompany and Product Identification\nProduct Name:\nEmergency Response:\n"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H302",
+      "H315",
+      "H320",
+      "H401",
+      "H411",
+      "H227"
+    ],
+    "p_codes": [
+      "P301",
+      "P302",
+      "P337",
+      "P362",
+      "P261",
+      "P273",
+      "P280",
+      "P264",
+      "P270",
+      "P272",
+      "P210",
+      "P305",
+      "P330",
+      "P333",
+      "P370",
+      "P391",
+      "P403",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Skin corrosion"
+    ],
+    "environmental_hazard": "aquatic_chronic",
+    "hazard_level_score": 3,
+    "text_excerpt": "Section 2:\nHazards Identification\nBLANK\nGHS07\nGHS09\nBLANK\nHazard Pictograms:\nSignal Word:\nWarning\nHazard Category:\nHazard Statements:\nP301+312: IF SWALLOWED: Call a POISON CENTER or doctor/physician if you feel \nunwell\nP302+352: IF ON SKIN: Wash with soap and water\nP337+313: If eye irritation persis"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

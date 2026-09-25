@@ -1,0 +1,37 @@
+{
+  "source_id": "65c232ed85c80e57",
+  "file_path": "ingredient_source_audit/highlighted/65c232ed85c80e57_highlighted.pdf",
+  "page_count": 5,
+  "full_text_length": 10390,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product Name : TEMPEST",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. Identification \n \n   \n \n \nProduct Name : TEMPEST \n \nSynonyms : None \n \nProduct Use : Bifenthrin-Imidacloprid Insecticide \n \nManufacturer/Supplier : Helena Agri-Enterprises, LLC \n \nAddress : 225 Schilling Blvd. Collierville, TN 38017 \n \nGeneral Information : 901-761-0050 \n \nTransportation Emergenc"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Carcinogen"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "2. Hazard Identification \n \n \n \n \n \n \n \n \nSignal Word : Danger \n \nSkin Irritation : Non-irritating to skin \n \nEye Irritation : Causes eye irritation \n \nAcute Toxicity Oral : LD50 >175 mg/kg (rat) \n \nAcute Toxicity Dermal : LD50 >5,000 mg/kg (rabbit) \n \n \n   Hazard Categories : Oral/Dermal/Inhalation"
+  },
+  "section_14": {
+    "un_number": "3352"
+  }
+}

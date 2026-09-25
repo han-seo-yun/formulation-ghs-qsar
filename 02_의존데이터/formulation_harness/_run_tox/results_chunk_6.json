@@ -1,0 +1,1790 @@
+[
+  {
+    "row": 482,
+    "product_name": "Prodiamine/Diquat/Glyphosphate EW Manufacturing",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "성분 목록이 비료(석회석, 요소, 황, XCU 등)와 3종의 무관한 제초제 활성물질(Prodiamine/Glyphosate/Diquat)이 혼재된 것으로 보여 단일 제품으로 보기 어려움; 로컬 원본 PDF(ingredient_source_audit/highlighted/...)는 본 환경에서 접근 불가하여 대조 불가, 온라인에서도 이 조합의 SDS를 찾지 못함",
+    "sds_summary": {
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false
+  },
+  {
+    "row": 483,
+    "product_name": "Prohexadione calcium(27.5%)",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "",
+    "sds_summary": {
+      "is_finished_product": true,
+      "is_single_substance": true,
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false
+  },
+  {
+    "row": 484,
+    "product_name": "Propiconazole 0.51% Granular Fungicide",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "",
+    "sds_summary": {
+      "is_finished_product": true,
+      "is_single_substance": true,
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false
+  },
+  {
+    "row": 485,
+    "product_name": "Amitraz(12.5%)",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "",
+    "sds_summary": {
+      "is_finished_product": true,
+      "is_single_substance": true,
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false
+  },
+  {
+    "row": 486,
+    "product_name": "Propiconazole(93%)",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "",
+    "sds_summary": {
+      "is_finished_product": true,
+      "is_single_substance": true,
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false
+  },
+  {
+    "row": 487,
+    "product_name": "Prosper T400 Insecticide and Fungicide",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "",
+    "sds_summary": {
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false
+  },
+  {
+    "row": 488,
+    "product_name": "Prothioconazole Fungicide",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "",
+    "sds_summary": {
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false
+  },
+  {
+    "row": 489,
+    "product_name": "Provado 70 WG Insecticide",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "일반적인 Provado 70 WG는 순수 Imidacloprid 제품인데 본 성분 목록엔 Deltamethrin, Kathon(보존제)이 함께 기재되어 있어 성분 정보 자체가 혼재/오염되었을 가능성 있음(SDS 미발견으로 확인 불가)",
+    "sds_summary": {
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false
+  },
+  {
+    "row": 490,
+    "product_name": "Punjab Tebuconazole",
+    "resolution": "found",
+    "confidence": "high",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "notes": "ingredient_names가 스크래핑 아티팩트('mol | Index No 603')였으나 CAS 107534-96-3 / Index No 603-197-00-7로 확인, Tebuconazole SDS와 일치",
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_hazard_statements": "H302 (경구 유해), H361d (태아 손상 의심), H400 (수생생물 급성독성), H410 (수생생물 장기적 위험)",
+        "ghs_pictograms": "GHS07, GHS08, GHS09",
+        "acute_oral_toxicity_ld50": "ATE(oral) 500 mg/kg; Acute Tox. 4",
+        "acute_dermal_toxicity_ld50": "자료 없음(데이터 미확보)",
+        "acute_inhalation_toxicity_lc50": "자료 없음(데이터 미확보)",
+        "skin_corrosion_irritation": "Not classified (피부 부식/자극성 분류 대상 아님)",
+        "eye_damage_irritation": "Not classified (심한 눈 손상/자극성 분류 대상 아님)",
+        "respiratory_skin_sensitization": "Not classified",
+        "germ_cell_mutagenicity": "Not classified",
+        "carcinogenicity": "Not classified",
+        "reproductive_toxicity": "Repr. 2, H361d - 태아 손상 의심",
+        "stot_single_exposure": "Not classified",
+        "stot_repeated_exposure": "Not classified",
+        "aspiration_hazard": "Not classified"
+      }
+    },
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true,
+      "is_finished_product": false,
+      "is_single_substance": true
+    }
+  },
+  {
+    "row": 491,
+    "product_name": "Amitraz(98%)",
+    "resolution": "found",
+    "confidence": "high",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "notes": "",
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_hazard_statements": "H302, H315, H317, H335, H340, H350, H373, H400, H410",
+        "ghs_pictograms": "GHS07, GHS08, GHS09",
+        "acute_oral_toxicity_ld50": "LD50 oral rat 523-800 mg/kg (mouse >1600 mg/kg); Acute Tox. 4, H302",
+        "acute_dermal_toxicity_ld50": "LD50 dermal rat >1600 mg/kg (24h); Not classified",
+        "acute_inhalation_toxicity_lc50": "LC50 inhalation rat 65 mg/L",
+        "skin_corrosion_irritation": "Skin Irrit. 2, H315 - 피부 자극성",
+        "eye_damage_irritation": "Not classified",
+        "respiratory_skin_sensitization": "Skin Sens. 1, H317 - 알레르기성 피부반응 유발 가능",
+        "germ_cell_mutagenicity": "Muta. 1A, H340 - 유전적 결함 유발 가능",
+        "carcinogenicity": "Carc. 1A, H350 - 암 유발 가능",
+        "reproductive_toxicity": "Not classified",
+        "stot_single_exposure": "STOT SE 3, H335 (호흡기 자극)",
+        "stot_repeated_exposure": "STOT RE 2, H373 (장기손상 가능)",
+        "aspiration_hazard": "Not classified"
+      }
+    },
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true,
+      "is_finished_product": false,
+      "is_single_substance": true
+    }
+  },
+  {
+    "row": 492,
+    "product_name": "Pursuit/Dimethenamide",
+    "resolution": "found",
+    "confidence": "medium",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "notes": "제품에 Dimethenamid(Frontier)와 Imazethapyr(Pursuit) 두 성분이 혼재되어 있으나, 확보한 SDS는 Dimethenamid(CAS 87674-68-8)만 다룸 - Imazethapyr 독성정보는 확인 못함",
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_hazard_statements": "H302 (경구 유해), H411 (수생생물 장기적 유해) — 분류상 피부과민성 Category 1, 흡입급성독성 Category 4, 수생 급성/만성 Category 1도 명시되나 세부 수치 없음",
+        "ghs_pictograms": "자료 없음(픽토그램 이미지 미제공)",
+        "acute_oral_toxicity_ld50": "자료 없음 (Acute Tox. Category 4로만 분류)",
+        "acute_dermal_toxicity_ld50": "자료 없음",
+        "acute_inhalation_toxicity_lc50": "자료 없음 (Acute Tox. Category 4로만 분류)",
+        "skin_corrosion_irritation": "자료 없음",
+        "eye_damage_irritation": "자료 없음",
+        "respiratory_skin_sensitization": "Skin sensitization Category 1 (세부 자료 없음)",
+        "germ_cell_mutagenicity": "자료 없음",
+        "carcinogenicity": "자료 없음",
+        "reproductive_toxicity": "자료 없음",
+        "stot_single_exposure": "자료 없음",
+        "stot_repeated_exposure": "자료 없음",
+        "aspiration_hazard": "자료 없음"
+      }
+    },
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true,
+      "is_finished_product": false,
+      "is_single_substance": false
+    }
+  },
+  {
+    "row": 493,
+    "product_name": "Pyraflufen-ethyl_ET-751",
+    "resolution": "no_code_in_sds",
+    "confidence": "medium",
+    "source_mismatch_found": false,
+    "source_url": "https://www.chemicalbook.com/msds/Pyraflufenethyl.pdf",
+    "better_source_found": true,
+    "notes": "Pyraflufen-ethyl(CAS 129630-17-7) 성분 자체는 확인되나, 이 일반 화학물질 SDS의 Section 2/11(신호어·H코드·독성수치)이 전부 'No data available'임. 또한 제품 ingredient_names에 있는 Cyclohexane(용제) 성분에 대한 정보는 없음",
+    "field_values": {},
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": false,
+      "ingredients_match": true,
+      "is_finished_product": false,
+      "is_single_substance": false
+    }
+  },
+  {
+    "row": 494,
+    "product_name": "Pyranha 1-10 PPC Concentrate",
+    "resolution": "found",
+    "confidence": "medium",
+    "source_mismatch_found": false,
+    "source_url": "https://drive.google.com/file/d/1k0M3E0AHGagAgmtDO0Vc33naylyJShmW/view",
+    "better_source_found": true,
+    "notes": "정확한 제품명 'Pyranha 1-10 PPC Concentrate' SDS는 제조사(Pyranha Inc.) 사이트에서 찾지 못했으나, 동일 제조사의 후속/동일 계열 제품 'Pyranha 1-10 HP/HPS'(EPA Reg. 21165-32) SDS에서 성분 3종(Pyrethrins, Piperonyl Butoxide, Permethrin) CAS 및 함량이 완전 일치함을 확인하여 이를 대체 사용함",
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning (SDS GHS 분류) / 참고: FIFRA 농약 라벨상 신호어는 Caution",
+        "ghs_hazard_statements": "Harmful if swallowed(경구 유해); Causes moderate eye and skin irritation(중등도 눈·피부 자극); Extremely/very toxic to aquatic life(수생생물 고독성)",
+        "ghs_pictograms": "Aquatic Toxicity(GHS09), Irritant/skin&eye(GHS07)",
+        "acute_oral_toxicity_ld50": ">2,000 mg/kg",
+        "acute_dermal_toxicity_ld50": ">2,000 mg/kg",
+        "acute_inhalation_toxicity_lc50": ">2 mg/L (4hr)",
+        "skin_corrosion_irritation": "Category 2 - moderate irritation",
+        "eye_damage_irritation": "Category 2B - moderate irritation",
+        "respiratory_skin_sensitization": "Not a contact sensitizer",
+        "germ_cell_mutagenicity": "자료 없음",
+        "carcinogenicity": "Permethrin, Piperonyl Butoxide 모두 IARC Group 3 (사람 발암성 분류 불가)",
+        "reproductive_toxicity": "자료 없음",
+        "stot_single_exposure": "자료 없음",
+        "stot_repeated_exposure": "자료 없음",
+        "aspiration_hazard": "자료 없음"
+      }
+    },
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true,
+      "is_finished_product": true,
+      "is_single_substance": false
+    }
+  },
+  {
+    "row": 495,
+    "product_name": "Pyrasulfotole",
+    "resolution": "found",
+    "confidence": "medium",
+    "source_mismatch_found": false,
+    "source_url": "https://www.chemicalbook.com/msds/Pyrasulfotole.pdf",
+    "better_source_found": true,
+    "notes": "ingredient_names가 'Synonyms'로만 스크래핑되어 정보가 부족했으나 제품명(Pyrasulfotole, CAS 365400-11-9)으로 SDS 확인. 힌트의 눈자극 Category 2B는 이 기술물질 SDS에서는 별도 분류로 나타나지 않음(H코드에 눈자극 관련 코드 없음)",
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_hazard_statements": "H410 (수생생물 장기적 유해), H373 (장기손상 가능)",
+        "ghs_pictograms": "GHS08(건강유해성), GHS09(환경유해성)",
+        "acute_oral_toxicity_ld50": "자료 없음",
+        "acute_dermal_toxicity_ld50": "자료 없음",
+        "acute_inhalation_toxicity_lc50": "자료 없음",
+        "skin_corrosion_irritation": "자료 없음(별도 분류 없음)",
+        "eye_damage_irritation": "자료 없음(별도 분류 없음)",
+        "respiratory_skin_sensitization": "자료 없음",
+        "germ_cell_mutagenicity": "자료 없음",
+        "carcinogenicity": "IARC/ACGIH/NTP/OSHA 모두 발암성 분류 없음",
+        "reproductive_toxicity": "자료 없음",
+        "stot_single_exposure": "자료 없음",
+        "stot_repeated_exposure": "H373 - 장기간 또는 반복 노출 시 장기손상 가능",
+        "aspiration_hazard": "자료 없음"
+      }
+    },
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true,
+      "is_finished_product": false,
+      "is_single_substance": true
+    }
+  },
+  {
+    "row": 496,
+    "product_name": "Pyridalyl_ET-751",
+    "resolution": "found",
+    "confidence": "high",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "notes": "",
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_hazard_statements": "H317, H373, H410",
+        "ghs_pictograms": "자료 없음(이미지 미제공)",
+        "acute_oral_toxicity_ld50": "자료 없음",
+        "acute_dermal_toxicity_ld50": "자료 없음",
+        "acute_inhalation_toxicity_lc50": "자료 없음",
+        "skin_corrosion_irritation": "자료 없음(별도 분류 없음)",
+        "eye_damage_irritation": "자료 없음(별도 분류 없음)",
+        "respiratory_skin_sensitization": "Skin sensitization Category 1, H317",
+        "germ_cell_mutagenicity": "자료 없음",
+        "carcinogenicity": "자료 없음",
+        "reproductive_toxicity": "자료 없음",
+        "stot_single_exposure": "자료 없음",
+        "stot_repeated_exposure": "STOT RE Category 2, H373",
+        "aspiration_hazard": "자료 없음"
+      }
+    },
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true,
+      "is_finished_product": false,
+      "is_single_substance": true
+    }
+  },
+  {
+    "row": 497,
+    "product_name": "Pyrocide Falcon 7452",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "notes": "제조사(MGK) 웹사이트, EPA 라벨 데이터베이스, 검색엔진에서 'Pyrocide Falcon 7452' 제품 특정 SDS를 찾지 못함(실질적 검색 시도함). 개별 성분(Piperonyl Butoxide, Es-fenvalerate, Pyriproxyfen) 자료는 확보 가능하나 완제품 SDS 미확인으로 기재하지 않음",
+    "field_values": {},
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": true,
+      "is_single_substance": false
+    }
+  },
+  {
+    "row": 498,
+    "product_name": "Quadris Top",
+    "resolution": "ingredient_mismatch",
+    "confidence": "high",
+    "notes": "힌트 문서(4be9f03154a97869)는 단일성분 QUADRIS(아족시스트로빈) SDS로 확인됨(Section3: azoxystrobin, methanol, 1,2-benzisothiazol-3(2H)-one, propane-1,2-diol만 존재). Quadris Top의 핵심성분인 Difenoconazole이 전혀 없어 성분 불일치. 웹검색이 이 환경에서 제한되어(검색엔진 차단/오작동) 대체 Quadris Top SDS를 찾지 못함.",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": true,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 499,
+    "product_name": "Quali-Pro Enclave 5.3F",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "제공된 힌트 소스 없음(no_sds). quali-pro.com 접속 시도 시 인증서 오류로 실패, 검색엔진(Bing/DuckDuckGo/Ecosia 등)도 이 환경에서 차단/무관한 결과만 반환되어 대체 SDS를 찾지 못함.",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 500,
+    "product_name": "Quinoxyfen",
+    "resolution": "found",
+    "confidence": "medium",
+    "notes": "제품명 자체가 단일 활성성분(quinoxyfen, Index No.613)이며 별도 제조사 SDS를 찾지 못해 PubChem(CID 3391107)에 집계된 ECHA C&L/HSDB 독성정보로 대체 확인함(전용 SDS 아님, 규제기관 집계자료).",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "ingredients_match": true
+    },
+    "source_mismatch_found": false,
+    "better_source_found": true,
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/3391107",
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_hazard_statements": "H317 (피부 알레르기 반응 유발 가능); H400 (수생생물에 매우 유독); H410 (장기적 영향으로 수생생물에 매우 유독)",
+        "ghs_pictograms": "느낌표(피부과민성); 환경(수생유해성)",
+        "acute_oral_toxicity_ld50": "Rat LD50 > 5000 mg/kg (경구)",
+        "acute_dermal_toxicity_ld50": "Rabbit LD50 > 2000 mg/kg (경피)",
+        "acute_inhalation_toxicity_lc50": "Rat LC50 > 3.38 mg/L (흡입, MMAD 3.6 µm)",
+        "skin_corrosion_irritation": "피부 비자극성 (rabbit)",
+        "eye_damage_irritation": "경미한 눈자극 (rabbit)",
+        "respiratory_skin_sensitization": "피부 과민성 양성(Magnusson-Kligman maximization test); Buehler법은 음성; 작업자 접촉성 발진 사례 보고",
+        "carcinogenicity": "인체 발암성 근거 없음(IARC 미등재)"
+      }
+    }
+  },
+  {
+    "row": 501,
+    "product_name": "Quinoxyfen Manufacturing Use Concentrate",
+    "resolution": "ingredient_mismatch",
+    "confidence": "medium",
+    "notes": "힌트 URL(Methanex methanol SDS)은 순수 메탄올 단일물질 SDS로, 이 제품의 핵심 유효성분인 Quinoxyfen 정보가 전혀 없음. Manufacturing Use Product(제조용 농축물)로 공개 SDS를 검색했으나(웹검색 제한으로) 찾지 못함.",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": true,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 502,
+    "product_name": "Amore DF",
+    "resolution": "ingredient_mismatch",
+    "confidence": "high",
+    "notes": "힌트 문서(bdfc88147bf4e6a2)는 향료(fragrance) 제품 'Compare To PARIS AMOUR by BBW F21471'(Aromatic Fragrances International) SDS로, Penoxsulam/Isoxaben 제초제와 전혀 무관함(성분명에 향료 화학물질만 나열, ingredient_names 필드 자체도 오염된 것으로 보임). 대체 검색을 시도했으나(검색엔진 차단) Amore DF의 실제 SDS를 찾지 못함.",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": true,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 503,
+    "product_name": "Raid Ant & Roach Killer with Germ Kill CIK",
+    "resolution": "found",
+    "confidence": "medium",
+    "notes": "힌트 문서(67317f1d65d94142)는 실제로는 'Hot Shot Ant & Roach Plus Germ Killer2'(United Industries/Chemsico) SDS임. Cypermethrin(52315-07-8, 0.100%)·Prallethrin(23031-36-9, 0.025%) 등 8개 성분/CAS/함량이 정확히 일치하나, ingredient_names의 Piperonyl butoxide/Permethrin/2-Phenylphenol은 이 SDS에 없음(다른 제형버전 혼입 추정). 브랜드명이 다른 점 참고 필요.",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "ingredients_match": true
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_hazard_statements": "가연성 에어로졸(Flammable aerosol Category 2); 압축가스 - 가열 시 파열 위험; 피부 알레르기 반응 유발 가능(반복접촉 시 과민화)",
+        "ghs_pictograms": "화염(가연성 에어로졸); 가스실린더(압축가스); 느낌표(과민성)",
+        "acute_oral_toxicity_ld50": "LD50 > 5000 mg/kg (EPA 독성구분 IV)",
+        "acute_dermal_toxicity_ld50": "LD50 > 5000 mg/kg (EPA 독성구분 IV)",
+        "acute_inhalation_toxicity_lc50": "LC50 > 2 mg/L (EPA 독성구분 IV)",
+        "skin_corrosion_irritation": "비자극성 (EPA 독성구분 IV)",
+        "eye_damage_irritation": "비자극성 (EPA 독성구분 IV)",
+        "respiratory_skin_sensitization": "반복접촉 시 알레르기 반응 유발 가능(민감성 물질)",
+        "germ_cell_mutagenicity": "자료 없음",
+        "carcinogenicity": "자료 없음",
+        "reproductive_toxicity": "자료 없음"
+      }
+    }
+  },
+  {
+    "row": 504,
+    "product_name": "Raid Roach & Ant Killer IV Plus",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "힌트 소스 없음(no_sds), ingredient_names도 OCR 손상 텍스트. Propoxur/Dichlorvos/Fenoxycarb 조합의 구형(단종 추정) SC Johnson 제품으로 보이며, 검색엔진 접근 제한으로 실제 SDS를 찾지 못함.",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 505,
+    "product_name": "Raid Roach & Ant Killer Plus",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "힌트 소스 없음(no_sds). Propoxur/Dichlorvos/Fenoxycarb 조합의 구형(단종 추정) SC Johnson 제품으로 보이며, 검색엔진 접근 제한으로 실제 SDS를 찾지 못함.",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": false,
+      "is_single_substance": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 506,
+    "product_name": "Rancona Xxtra",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS 검색 실패(검색엔진 접근 불가, 제조사(UPL/Arysta) 페이지에서도 확인 못함)",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 507,
+    "product_name": "Ravap EC",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "AMVAC 현재 제품목록에서 확인 안 됨(단종 가능성), 대체 SDS 못 찾음",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 508,
+    "product_name": "Rave Herbicide",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS 검색 실패, BASF 제품 페이지 접근 불가(404)",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 509,
+    "product_name": "Raxil MD Extra Fungicide",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS 검색 실패, Bayer 제품 페이지에서 Raxil 확인 못함",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 510,
+    "product_name": "Raxil MD Extra W Seed Treatment",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS 검색 실패, Bayer 제품 페이지에서 확인 못함",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 511,
+    "product_name": "Amtide Tebuconazole 45 WDG Fungicide",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS 검색 실패, AMVAC 제품 검색으로 확인 못함",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": true,
+      "is_single_substance": true,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 512,
+    "product_name": "Reality 25",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS 검색 실패, 제조사 특정 못함",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 513,
+    "product_name": "RebelEx",
+    "resolution": "found",
+    "confidence": "high",
+    "notes": "",
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_hazard_statements": "H317; H319; H241; H315; H335",
+        "skin_corrosion_irritation": "Category 2 (skin irritant)",
+        "eye_damage_irritation": "Not classified",
+        "respiratory_skin_sensitization": "Category 1 (skin sensitizer)"
+      }
+    },
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "ingredients_match": true
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 514,
+    "product_name": "Regent 500TS Insecticide",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS/제조사 문서 못찾음(BASF, 미국 미등록 제품으로 추정, 검색 도구 제한적)",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": false,
+      "is_single_substance": false
+    }
+  },
+  {
+    "row": 515,
+    "product_name": "Regiment Herbicide",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "Valent 공식 라벨/SDS 목록 페이지(valent.com/label-listings)에 제품 존재 확인되었으나 세부 제품 페이지 접근 차단(403)으로 SDS 본문 확보 못함",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": false,
+      "is_single_substance": false
+    }
+  },
+  {
+    "row": 516,
+    "product_name": "Reldan F",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "Corteva 사이트에서 제품 페이지 못찾음(단종 또는 타사 이전 추정), SDS 확보 못함",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": false,
+      "is_single_substance": false
+    }
+  },
+  {
+    "row": 517,
+    "product_name": "Report Herbicide",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "구 Bayer Environmental Science(현 Envu) 현행 웹사이트/제품목록에 해당 제품 없음(단종 추정), SDS 확보 못함",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": false,
+      "is_single_substance": false
+    }
+  },
+  {
+    "row": 518,
+    "product_name": "Reserve Fungicide",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "구 Bayer Environmental Science(현 Envu) 현행 웹사이트/골프 제품목록에 해당 제품 없음(단종 추정), SDS 확보 못함",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": false,
+      "is_single_substance": false
+    }
+  },
+  {
+    "row": 519,
+    "product_name": "Revus Opti",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "Syngenta US 현행 라벨 시스템 및 Syngenta Canada 사이트 모두에서 제품 페이지 못찾음(캐나다 등록 제품일 가능성), SDS 확보 못함",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": false,
+      "is_single_substance": false
+    }
+  },
+  {
+    "row": 520,
+    "product_name": "Revus Top",
+    "resolution": "found",
+    "confidence": "medium",
+    "notes": "정식 SDS는 못찾음; Syngenta 공식 EPA 라벨(current-label)로 성분(Mandipropamid 21.9%, Difenoconazole 21.9%) 일치 및 신호어(Caution/주의)만 확인. GHS H코드/LD50 등 정량 독성값은 라벨에 없어 미기재",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Caution (주의)",
+        "acute_oral_toxicity_ld50": "라벨상 'Harmful if swallowed' 문구만 확인(정량값 미기재)"
+      }
+    },
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true,
+      "is_finished_product": true,
+      "is_single_substance": false
+    }
+  },
+  {
+    "row": 521,
+    "product_name": "Ridomil Gold MZ WG",
+    "resolution": "found",
+    "confidence": "medium",
+    "notes": "힌트로 제공된 ChemBlink SDS는 개별 원료(순물질: Metalaxyl-M CAS70630-17-0, Mancozeb 계열 CAS8018-01-7)용으로 완제품 SDS가 아님. Syngenta 공식 EPA 라벨(current-label) 확인 결과 완제품 신호어는 'Caution(주의)'이며 '중등도 눈자극(moderate eye irritation)'으로, 힌트 SDS의 'Danger/H318(심한눈손상)'과 불일치. 기존 cat_eye_ghs=2B는 완제품 라벨과 부합. 완제품 자체의 정식 SDS(정량 LD50 등)는 못찾음",
+    "source_mismatch_found": true,
+    "better_source_found": true,
+    "source_url": "https://www.syngenta-us.com/current-label/ridomil_gold_mz_wg",
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Caution (주의) - 완제품 라벨 기준",
+        "eye_damage_irritation": "중등도 눈자극(Moderate eye irritation) - Category 2B와 부합 (라벨 기준, 힌트 SDS의 원료용 H318/Danger는 완제품에 해당 안 됨)",
+        "respiratory_skin_sensitization": "장기 또는 반복 피부접촉시 알레르기 반응(피부감작) 유발 가능 - 라벨 기준"
+      }
+    },
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true,
+      "is_finished_product": true,
+      "is_single_substance": false
+    }
+  },
+  {
+    "row": 522,
+    "product_name": "Rocima 586",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS 검색 실패(검색엔진 접근 제한/proxy 차단으로 실질 검색 불가), 매칭 SDS 소스 못 찾음",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": false,
+      "is_single_substance": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 523,
+    "product_name": "Rotam 2F Ornamental Insecticide",
+    "resolution": "found",
+    "confidence": "medium",
+    "notes": "원자료 cat_eye_ghs='Not classified'이나 tox_h_statements에 H320(눈자극)이 포함되어 상충; 로컬 PDF 미접근으로 원문 직접 재확인은 못함(기존 추출 hint 활용)",
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "위험 (Danger)",
+        "ghs_hazard_statements": "H227(가연성 액체) ;; H302(삼키면 유해) ;; H332(흡입시 유해) ;; H320(눈에 심한 자극) ;; H360(생식능력 또는 태아 손상 우려) ;; H335(호흡기계 자극 가능성) ;; H373(장기적/반복 노출시 장기손상 우려) ;; H400(수생생물에 매우 유독) ;; H410(장기간 영향에 의해 수생생물에 매우 유독)",
+        "acute_oral_toxicity_ld50": "구분4 상당(H302, 수치 미확인)",
+        "acute_dermal_toxicity_ld50": "정보없음",
+        "acute_inhalation_toxicity_lc50": "구분4 상당(H332, 수치 미확인)",
+        "skin_corrosion_irritation": "분류 안됨 (원자료 negative)",
+        "eye_damage_irritation": "H320 눈자극 표기됨(원자료 cat_eye_ghs 필드는 'Not classified'로 상충)",
+        "respiratory_skin_sensitization": "분류 안됨 (원자료 negative)",
+        "germ_cell_mutagenicity": "정보없음",
+        "carcinogenicity": "정보없음",
+        "reproductive_toxicity": "H360 - 생식독성 우려",
+        "stot_single_exposure": "H335 (구분3, 호흡기 자극 가능성)",
+        "stot_repeated_exposure": "H373 (구분2, 반복노출 장기손상 우려)",
+        "aspiration_hazard": "정보없음"
+      }
+    },
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true,
+      "is_finished_product": true,
+      "is_single_substance": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 524,
+    "product_name": "Rotam Imidacloprid",
+    "resolution": "found",
+    "confidence": "medium",
+    "notes": "ingredient_names 필드가 OCR 손상('mol','Index No 612')으로 성분명이 불명확하나, 제품명·H코드(H301,H400,H410)가 이미다클로프리드 원제의 전형적 분류와 일치하여 매칭으로 판단; 로컬 PDF 미접근으로 원문 직접 재확인은 못함",
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "위험 (Danger)",
+        "ghs_hazard_statements": "H301(삼키면 유독함) ;; H400(수생생물에 매우 유독) ;; H410(장기간 영향에 의해 수생생물에 매우 유독)",
+        "acute_oral_toxicity_ld50": "구분3 상당(H301, 수치 미확인)",
+        "acute_dermal_toxicity_ld50": "정보없음",
+        "acute_inhalation_toxicity_lc50": "정보없음",
+        "skin_corrosion_irritation": "분류 안됨 (원자료 negative)",
+        "eye_damage_irritation": "분류 안됨 (Not classified)",
+        "respiratory_skin_sensitization": "분류 안됨 (원자료 negative)",
+        "germ_cell_mutagenicity": "정보없음",
+        "carcinogenicity": "정보없음",
+        "reproductive_toxicity": "정보없음",
+        "stot_single_exposure": "정보없음",
+        "stot_repeated_exposure": "정보없음",
+        "aspiration_hazard": "정보없음"
+      }
+    },
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true,
+      "is_finished_product": false,
+      "is_single_substance": true
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 525,
+    "product_name": "ROTAM Methomyl 29LV Insecticide",
+    "resolution": "found",
+    "confidence": "low",
+    "notes": "원자료에 신호어와 눈손상 Cat1(verdict_only)만 확보되어 있고 전체 H코드 목록·급성독성 수치는 미확인; 로컬 PDF 미접근으로 원문 직접 재확인은 못함",
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "위험 (Danger)",
+        "ghs_hazard_statements": "정보없음(전체 목록 미확인, 눈손상 구분1만 확인)",
+        "acute_oral_toxicity_ld50": "정보없음",
+        "acute_dermal_toxicity_ld50": "정보없음",
+        "acute_inhalation_toxicity_lc50": "정보없음",
+        "skin_corrosion_irritation": "분류 안됨 (원자료 negative)",
+        "eye_damage_irritation": "구분1 (심한 눈손상, GHS Cat 1)",
+        "respiratory_skin_sensitization": "정보 확인 안됨 (not_stated)",
+        "germ_cell_mutagenicity": "정보없음",
+        "carcinogenicity": "정보없음",
+        "reproductive_toxicity": "정보없음",
+        "stot_single_exposure": "정보없음",
+        "stot_repeated_exposure": "정보없음",
+        "aspiration_hazard": "정보없음"
+      }
+    },
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true,
+      "is_finished_product": true,
+      "is_single_substance": true
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 526,
+    "product_name": "Rotam Nicosulfuron",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS 검색 실패(검색엔진 접근 제한/proxy 차단, Rotam 공식 사이트도 Albaugh로 이전되어 제품 페이지 없음), 매칭 SDS 못 찾음",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": false,
+      "is_single_substance": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 527,
+    "product_name": "Rotam Tebuconazole",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS 검색 실패(검색엔진 접근 제한/proxy 차단, Rotam 공식 사이트도 Albaugh로 이전되어 제품 페이지 없음), 매칭 SDS 못 찾음",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": false,
+      "is_single_substance": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 528,
+    "product_name": "Rotam Thifensulfuron-methyl",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS 검색 실패(검색엔진 접근 제한/proxy 차단, Rotam 공식 사이트도 Albaugh로 이전되어 제품 페이지 없음), 매칭 SDS 못 찾음",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": false,
+      "is_single_substance": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 529,
+    "product_name": "Roval Brand 75 WG Fungicide",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "SDS 검색 실패(검색엔진 접근 제한/proxy 차단, Loveland Products 공식 페이지도 404), 매칭 SDS 못 찾음",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": false,
+      "is_single_substance": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 530,
+    "product_name": "Rugged Herbicide",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "여러 검색어로 시도했으나 해당 제품명의 SDS를 전혀 찾지 못함",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 531,
+    "product_name": "RWH 34",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "제품명(RWH 34/RWH-34)으로 검색했으나 관련 SDS/제조사 페이지 미발견",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 532,
+    "product_name": "S-3153 WDG Herbicide",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "flufenpyr-ethyl 제조사(Nichino America) 라벨 목록에도 없고 웹 검색으로도 SDS 미발견",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 533,
+    "product_name": "S-Metolachlor & Mesotrione",
+    "resolution": "found",
+    "confidence": "medium",
+    "notes": "제공된 로컬 SDS 파일(ingredient_source_audit/highlighted)에 직접 접근 불가하여 사전 추출된 신호어/H코드 값을 그대로 사용, 독립적으로 재확인하지 못함",
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_hazard_statements": "H317, H400, H410",
+        "respiratory_skin_sensitization": "H317 - May cause an allergic skin reaction (Category 1)",
+        "eye_damage_irritation": "Category 2B (eye irritant) per source classification, though H320 not among captured H-statements"
+      }
+    },
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "ingredients_match": true
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 534,
+    "product_name": "Safari 2 G Insecticide",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "Valent 공식 Labels & SDS 목록(valent.com/label-listings)에 Safari 2G가 등재되어 있지 않고, 검색으로도 SDS 미발견",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 535,
+    "product_name": "Safe-T green 18 Turf Fungicidal Nematicide",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "제품 SDS 검색 결과 없음",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": true,
+      "is_single_substance": true,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 536,
+    "product_name": "Safer Brand 3-in-1 Concentrate",
+    "resolution": "found",
+    "confidence": "low",
+    "notes": "로컬 SDS 파일 접근 불가하여 사전 추출값만 사용; saferbrand.com에 현재 판매 중인 동일 계열 제품(\"Safer Garden 3-in-1 Garden Spray\")은 성분이 칼륨염 지방산+황으로 표기되어 본 제품(정향유+면실유+황)과 다름 - 구버전 또는 별개 SKU 가능성, 독립 검증 못함",
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "eye_damage_irritation": "Not classified"
+      }
+    },
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "ingredients_match": true
+    },
+    "source_mismatch_found": true,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 537,
+    "product_name": "Safer Brand Garden Fungicide, Insecticide & Miticide",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "notes": "saferbrand.com의 현재 Neem Oil 제품은 황(Sulfur)을 포함하지 않아 본 제품(님오일+황)과 정확히 일치하는 제품 페이지/SDS를 찾지 못함",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "ingredients_match": false
+    },
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null
+  },
+  {
+    "row": 538,
+    "product_name": "Safer Garden Fungicide Ready to Use",
+    "resolution": "found",
+    "confidence": "medium",
+    "field_values": {
+      "toxicity": {
+        "eye_damage_irritation": "Not classified (GHS)"
+      }
+    },
+    "notes": "피부자극/피부감작성은 SDS상 정성적 판정만 존재하고 구체적 GHS 코드는 확인 불가(웹 재검증 실패, 기존 로컬 SDS 감사값 사용)",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "sds_summary": {
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true
+    }
+  },
+  {
+    "row": 539,
+    "product_name": "Sativa",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "field_values": {},
+    "notes": "제조사 특정 못함(Winfield/Loveland 확인 시 해당 제품 없음), 검색 도구 제약으로 SDS 미발견",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "sds_summary": {
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false
+    }
+  },
+  {
+    "row": 540,
+    "product_name": "Sativa IMF Max",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "field_values": {},
+    "notes": "제조사 특정 못함, 검색 도구 제약(검색엔진 접근 불가)으로 SDS 미발견",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "sds_summary": {
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false
+    }
+  },
+  {
+    "row": 541,
+    "product_name": "Sativa IMX Max",
+    "resolution": "found",
+    "confidence": "high",
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_hazard_statements": "H226 (Flammable liquid/vapour, Cat.3); H302 (Harmful if swallowed); H304 (May be fatal if swallowed and enters airways); H315 (Causes skin irritation); H317 (May cause an allergic skin reaction); H319 (Causes serious eye irritation); H400 (Very toxic to aquatic life); H410 (Very toxic to aquatic life with long lasting effects)",
+        "skin_corrosion_irritation": "Category 2",
+        "eye_damage_irritation": "Not classified (as recorded in source, despite H319 statement present)",
+        "respiratory_skin_sensitization": "Category 1 (skin sensitizer)",
+        "aspiration_hazard": "H304 relevant - may be fatal if swallowed and enters airways"
+      }
+    },
+    "notes": "H319(눈 자극)가 H코드 목록에 있으나 눈 자극 GHS 분류는 '미분류'로 기록됨 - 원자료 그대로 반영, 상충 가능성 있어 검증 단계에서 재확인 필요",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "sds_summary": {
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true
+    }
+  },
+  {
+    "row": 542,
+    "product_name": "SC 480 Herbicide",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "field_values": {},
+    "notes": "동일 농도(480g/L)의 정확한 제품 SDS 못찾음; Bayer Balance Flexx(20%, 농도 상이)는 성분은 같으나 제품 불일치로 채택 안함",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "sds_summary": {
+      "is_finished_product": true,
+      "is_single_substance": true,
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false
+    }
+  },
+  {
+    "row": 543,
+    "product_name": "Scala brand SC Pyrimenthanil",
+    "resolution": "found",
+    "confidence": "high",
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Caution (EPA/FIFRA label signal word); OSHA HCS: not hazardous / not GHS-classified per SDS Section 2",
+        "ghs_hazard_statements": "FIFRA label statements: Harmful if swallowed; Avoid breathing spray mist; Avoid contact with skin, eyes and clothing; Wash thoroughly with soap and water after handling. (No formal GHS H-codes assigned - OSHA HCS 'not hazardous')",
+        "acute_oral_toxicity_ld50": "LD50 (male rat) > 5,000 mg/kg; LD50 (female rat) 4,505 mg/kg",
+        "acute_dermal_toxicity_ld50": "LD50 (rat) > 5,000 mg/kg",
+        "acute_inhalation_toxicity_lc50": "LC50 (rat) > 4.41 mg/L (4h, liquid aerosol, highest attainable concentration, no deaths); >17.64 mg/L (1h, extrapolated)",
+        "skin_corrosion_irritation": "No skin irritation (rabbit)",
+        "eye_damage_irritation": "Minimally irritating (rabbit) - Not classified under GHS",
+        "respiratory_skin_sensitization": "Non-sensitizing (guinea pig)",
+        "germ_cell_mutagenicity": "Not mutagenic or genotoxic in battery of in vitro/in vivo tests",
+        "carcinogenicity": "Not carcinogenic in lifetime feeding study in mice; increased thyroid tumor incidence in rats at high doses, mechanism deemed not relevant to humans; not listed by IARC/NTP/ACGIH/OSHA",
+        "reproductive_toxicity": "No reproductive toxicity in two-generation rat study",
+        "stot_repeated_exposure": "No significant specific target organ toxicity in subchronic studies",
+        "aspiration_hazard": "No data indicating aspiration hazard"
+      }
+    },
+    "notes": "",
+    "source_mismatch_found": false,
+    "source_url": "https://cs-assets.bayer.com/is/content/bayer/Scala_Brand_SC_Fungicide_MSDS1epdf",
+    "better_source_found": true,
+    "sds_summary": {
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true
+    }
+  },
+  {
+    "row": 544,
+    "product_name": "Apogee",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "field_values": {},
+    "notes": "BASF 공식 사이트 접근 실패(404), 검색엔진 접근 불가로 SDS 미발견",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "sds_summary": {
+      "is_finished_product": true,
+      "is_single_substance": true,
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false
+    }
+  },
+  {
+    "row": 545,
+    "product_name": "Scimitar GR Insecticide",
+    "resolution": "found",
+    "confidence": "medium",
+    "field_values": {
+      "toxicity": {
+        "eye_damage_irritation": "Category 2B"
+      }
+    },
+    "notes": "피부자극 및 피부감작성은 SDS상 정성적 판정만 존재하고 구체적 GHS 코드는 확인 불가(웹 재검증 실패, 기존 로컬 SDS 감사값 사용)",
+    "source_mismatch_found": false,
+    "source_url": null,
+    "better_source_found": false,
+    "sds_summary": {
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true
+    }
+  },
+  {
+    "row": 546,
+    "product_name": "Scorpion Insecticide",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "notes": "제조사 불명; Bing/DuckDuckGo/Marginalia/EPA/target-specialty 등 다중 검색에도 일치하는 SDS를 찾지 못함",
+    "sds_summary": {
+      "is_finished_product": false,
+      "is_single_substance": false,
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false
+    }
+  },
+  {
+    "row": 547,
+    "product_name": "Secure Dry Insecticide",
+    "resolution": "found",
+    "confidence": "high",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "notes": "제공된 SDS의 제품명은 'Cutter Dry Insect Repellent'(Spectrum/United Industries)로 상이하나, 성분 및 함량(DEET 10%, 에탄올 35%, 아이소부탄 15%, 부탄 1.5%, CAS 전부 일치)이 완전히 동일하여 동일 제조사의 재포장/OEM 제품으로 판단",
+    "sds_summary": {
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_hazard_statements": "Flammable Aerosol; Contains gas under pressure, may explode if heated; Causes eye irritation",
+        "ghs_pictograms": "가스실린더(가압가스), 불꽃(인화성에어로졸), 감탄부호(눈자극)",
+        "acute_oral_toxicity_ld50": "ATE(calculated) LD50 (Oral) >2000 mg/kg",
+        "acute_dermal_toxicity_ld50": "ATE(calculated) LD50 (Dermal) >2000 mg/kg",
+        "acute_inhalation_toxicity_lc50": "ATE(calculated) LC50 (Inhalation) >5 mg/L",
+        "skin_corrosion_irritation": "Based on available data, the classification criteria are not met",
+        "eye_damage_irritation": "This product is an eye irritant (Category 2B)",
+        "respiratory_skin_sensitization": "Based on available data, the classification criteria are not met",
+        "germ_cell_mutagenicity": "Based on available data, the classification criteria are not met",
+        "carcinogenicity": "None of the ingredients present at or above 0.1% are listed as potential carcinogens (NTP, IARC, OSHA)",
+        "reproductive_toxicity": "Based on available data, the classification criteria are not met",
+        "stot_single_exposure": "Based on available data, the classification criteria are not met",
+        "stot_repeated_exposure": "Based on available data, the classification criteria are not met",
+        "aspiration_hazard": "Based on available data, the classification criteria are not met"
+      }
+    }
+  },
+  {
+    "row": 548,
+    "product_name": "Sedaxane",
+    "resolution": "found",
+    "confidence": "medium",
+    "source_mismatch_found": true,
+    "better_source_found": true,
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/11688533",
+    "notes": "제공된 힌트 SDS(893c51d658e295ff, Warden Cereals WRII Fungicide/Insecticide)는 세다시안 1.44% 포함 5종 혼합 완제품으로 순수 세다시안 단일성분과 성분불일치; PubChem이 집계한 ECHA C&L Inventory 기반 세다시안(CAS 874967-67-6) GHS 분류로 대체 확인 (개별 제조사 SDS 문서가 아닌 물질 수준 집계자료)",
+    "sds_summary": {
+      "is_finished_product": false,
+      "is_single_substance": true,
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_hazard_statements": "H351 (Suspected of causing cancer); H400 (Very toxic to aquatic life); H410/H411 (Very toxic/Toxic to aquatic life with long lasting effects)",
+        "carcinogenicity": "Category 2 (H351) - ECHA C&L 통보 집계 기준",
+        "eye_damage_irritation": "Not classified (GHS 분류 코드 없음, 힌트 데이터와 일치)"
+      }
+    }
+  },
+  {
+    "row": 549,
+    "product_name": "Sedaxane 50FS A16148C",
+    "resolution": "found",
+    "confidence": "medium",
+    "source_mismatch_found": false,
+    "better_source_found": true,
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/11688533",
+    "notes": "'50FS'/배치코드 A16148C 전용 SDS는 찾지 못했으며, 활성성분이 동일한 순수 세다시안(CAS 874967-67-6)의 PubChem/ECHA C&L 집계 GHS 분류 데이터로 대체 확인 (제형별 SDS 아님)",
+    "sds_summary": {
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_hazard_statements": "H351 (Suspected of causing cancer); H400 (Very toxic to aquatic life); H410/H411 (Very toxic/Toxic to aquatic life with long lasting effects)",
+        "carcinogenicity": "Category 2 (H351) - ECHA C&L 통보 집계 기준",
+        "eye_damage_irritation": "Not classified (GHS 분류 코드 없음, 힌트 데이터와 일치)"
+      }
+    }
+  },
+  {
+    "row": 550,
+    "product_name": "Senator 600 FS",
+    "resolution": "found",
+    "confidence": "high",
+    "source_mismatch_found": false,
+    "better_source_found": true,
+    "source_url": "https://web.archive.org/web/20080722022522/http://www.nufarm.com/uploads/downloads/USST/Products/Senator_600FS/Senator600FSMSDS.pdf",
+    "notes": "Nufarm Americas 제품(EPA Reg. 228-522); 2007년 작성 구형 MSDS(GHS 도입 이전 OSHA 형식)로 GHS 신호어/H-코드는 없음(EPA 라벨 신호어 'CAUTION'만 존재); Nufarm 공식 웹사이트는 접속 차단되어 Wayback Machine 아카이브로 확인",
+    "sds_summary": {
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "acute_oral_toxicity_ld50": "Rat LD50: 1,139 mg/kg (female)",
+        "acute_dermal_toxicity_ld50": "Rat LD50: >5,000 mg/kg",
+        "acute_inhalation_toxicity_lc50": "Rat 4-hr LC50: >0.53 mg/L (female), >2.02 mg/L (male)",
+        "skin_corrosion_irritation": "Rabbit: Slightly irritating",
+        "eye_damage_irritation": "Rabbit: Mildly irritating",
+        "respiratory_skin_sensitization": "Not a contact sensitizer in guinea pigs following repeated skin exposure",
+        "germ_cell_mutagenicity": "Not genotoxic or mutagenic (collective mutagenicity studies)",
+        "carcinogenicity": "Did not cause cancer in laboratory animal studies; U.S. EPA Group E (evidence of non-carcinogenicity); not listed with ACGIH/IARC/NTP/OSHA",
+        "reproductive_toxicity": "Reduced mean body weights/body weight gain in 2-generation rat study; no other reproductive effects",
+        "stot_repeated_exposure": "Repeated overexposure to imidacloprid may affect heart, thyroid, blood chemistry, and liver"
+      }
+    }
+  },
+  {
+    "row": 551,
+    "product_name": "Sergeants Fipronil + Etofenprox + Methoprene Spot-On for Cats",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "notes": "Sergeant's Pet Care 공식 사이트 및 다중 검색엔진에서 해당 제품의 SDS를 찾지 못함",
+    "sds_summary": {
+      "is_finished_product": false,
+      "is_single_substance": false,
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false
+    }
+  },
+  {
+    "row": 552,
+    "product_name": "Sharda Glyphosate",
+    "resolution": "found",
+    "confidence": "high",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "notes": "Section 3 성분표의 계면활성제(Poly(oxy-1,2-ethanediyl)... 및 phosphate(2-hydroxypropyl)ammonium)는 H314/H318/H290/H312로 분류되나, Section 11 제품 자체 분류는 피부부식/눈손상 등 '분류대상 아님'으로 명시됨 - 데이터셋 힌트(cat_eye/skin_ghs=1)는 성분별 코드를 제품 분류로 오인한 것일 가능성 있어 검증 시 유의 필요",
+    "sds_summary": {
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "- (제품 자체 신호어 없음; GHS09 환경유해성 픽토그램만 표시)",
+        "ghs_hazard_statements": "H411 (Toxic to aquatic life with long lasting effects) - 제품 전체 분류; EUH401; (참고: 성분 중 계면활성제는 H314/H318/H290/H312 보유하나 제품 자체는 미분류)",
+        "ghs_pictograms": "GHS09 (환경유해성)",
+        "acute_oral_toxicity_ld50": "Glyphosate isopropylamine salt: LD50 oral rat >2000 mg/kg bodyweight",
+        "acute_dermal_toxicity_ld50": "LD50 dermal rat >2000 mg/kg bodyweight",
+        "acute_inhalation_toxicity_lc50": "LC50 inhalation rat >5 mg/l/4h",
+        "skin_corrosion_irritation": "Not classified (제품 기준)",
+        "eye_damage_irritation": "Not classified (제품 기준)",
+        "respiratory_skin_sensitization": "Not classified",
+        "germ_cell_mutagenicity": "Not classified",
+        "carcinogenicity": "Not classified",
+        "reproductive_toxicity": "Not classified",
+        "stot_single_exposure": "Not classified",
+        "stot_repeated_exposure": "Not classified",
+        "aspiration_hazard": "Not classified"
+      }
+    }
+  },
+  {
+    "row": 553,
+    "product_name": "Aproach Fungicide",
+    "resolution": "found",
+    "confidence": "high",
+    "source_mismatch_found": false,
+    "better_source_found": true,
+    "source_url": "https://s3-us-west-1.amazonaws.com/agrian-cg-fs1-production/pdfs/Aproach_Prima_MSDS.pdf",
+    "notes": "성분(Picoxystrobin+Cyproconazole 병용)은 Corteva의 단일성분 'Aproach'가 아닌 병용제 'Aproach Prima' 제품과 일치함 - 데이터셋 제품명이 'Aproach Fungicide'로 단순화되어 기재된 것으로 추정",
+    "sds_summary": {
+      "is_finished_product": true,
+      "is_single_substance": false,
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_hazard_statements": "H317 (May cause an allergic skin reaction); H360 (May damage fertility or the unborn child); H373 (May cause damage to organs (Liver) through prolonged or repeated exposure)",
+        "ghs_pictograms": "GHS08 (건강유해성)",
+        "acute_oral_toxicity_ld50": "Product: LD50 (Rat, female) >2,000 mg/kg (OECD 425)",
+        "acute_dermal_toxicity_ld50": "Product: LD50 (Rat) >4,000 mg/kg (OECD 402)",
+        "acute_inhalation_toxicity_lc50": "Product: LC50 (Rat, 4h) >7.34 mg/l (OECD 403)",
+        "skin_corrosion_irritation": "No skin irritation (Rabbit, OECD 404)",
+        "eye_damage_irritation": "No eye irritation (Rabbit, OECD 405); component Picoxystrobin: Mild eye irritation",
+        "respiratory_skin_sensitization": "Skin sensitization Category 1 - may cause sensitization by skin contact (LLNA, mouse, OECD 429); no respiratory sensitization data",
+        "germ_cell_mutagenicity": "Not classified - in vitro/in vivo genetic toxicity studies negative",
+        "carcinogenicity": "Not classified overall; cyproconazole caused cancer in some animals only at maternally/systemically toxic doses; no ingredient ≥0.1% listed by IARC/OSHA/NTP",
+        "reproductive_toxicity": "Category 1B (H360) - cyproconazole presumed human reproductive toxicant",
+        "stot_single_exposure": "Not an STOT-SE toxicant",
+        "stot_repeated_exposure": "Category 2 (Liver, H373) - cyproconazole may cause damage to liver through prolonged/repeated exposure",
+        "aspiration_hazard": "Not likely to be an aspiration hazard based on physical properties"
+      }
+    }
+  },
+  {
+    "row": 554,
+    "product_name": "Sharpen powered by Kixor Herbicide",
+    "resolution": "found",
+    "confidence": "medium",
+    "source_mismatch_found": false,
+    "better_source_found": true,
+    "source_url": "https://www.agrian.com/pdfs/Sharpen_Herbicide_MSDS.pdf",
+    "notes": "2008년 구버전 MSDS(pre-GHS). 부성분(황산암모늄, Sodium diisopropylnaphthalenesulphonate)은 개별 명시 안 되고 'Proprietary ingredients <76.5%'에 포함된 것으로 추정. 주성분 Saflufenacil(분자식/CAS 372137-35-4)은 확인됨",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true,
+      "is_finished_product": true,
+      "is_single_substance": false
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning (EPA precautionary language; pre-GHS MSDS, no formal H-code section)",
+        "ghs_hazard_statements": "Causes substantial but temporary eye injury; Harmful if swallowed; Harmful if absorbed through skin",
+        "acute_oral_toxicity_ld50": "Saflufenacil: LD50 (rat) > 300–2,000 mg/kg (moderately toxic)",
+        "acute_dermal_toxicity_ld50": "LD50 (rat) > 5,000 mg/kg (relatively nontoxic)",
+        "acute_inhalation_toxicity_lc50": "LC50 (rat, aerosol) 4.99 mg/L / 4h",
+        "skin_corrosion_irritation": "Rabbit: irritating (slight irritation)",
+        "eye_damage_irritation": "Rabbit: irritating - causes substantial but temporary eye injury",
+        "respiratory_skin_sensitization": "Caused skin sensitization in animal studies (modified Buehler test, guinea pig)",
+        "germ_cell_mutagenicity": "No indication of mutagenicity (Saflufenacil)",
+        "carcinogenicity": "Not carcinogenic (Saflufenacil)",
+        "reproductive_toxicity": "No developmental toxic effect at doses non-toxic to parental animals; developmental effects only at high maternally-toxic doses",
+        "stot_repeated_exposure": "Damage to hematological system after repeated ingestion of high doses (Saflufenacil)",
+        "aspiration_hazard": "Risk of aspiration pneumonia (hydrocarbon solvent) if vomiting induced"
+      }
+    }
+  },
+  {
+    "row": 555,
+    "product_name": "Shelter Island Plus",
+    "resolution": "found",
+    "confidence": "high",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "notes": "SDS 내 발암성 정보 상충: 분류상 Carc.1A(H350)이나 Section 11 서술은 'IARC/ACGIH/NTP/OSHA 기준 발암물질 아님'이라고 명시함 (원문 그대로 기재)",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": true,
+      "is_finished_product": true,
+      "is_single_substance": false
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Danger",
+        "ghs_hazard_statements": "H226 (Flam. Liq. 3), H302 (Acute Tox. 4), H304 (Asp. Tox. 1), H317 (Skin Sens. 1), H350 (Carc. 1A), H400 (Aquatic Acute 1), H410 (Aquatic Chronic 1)",
+        "ghs_pictograms": "GHS02 (flame), GHS07 (exclamation mark), GHS08 (health hazard), GHS09 (environment)",
+        "acute_oral_toxicity_ld50": "Zinc Oxide 7950 mg/kg; High Flash Naphtha >2900 mg/kg; Xylene 5,000 mg/kg; Zinc Pyrithione 330 mg/kg",
+        "acute_dermal_toxicity_ld50": "High Flash Naphtha >3100 mg/kg; Xylene 1240 mg/kg; Tralopyril 206 mg/kg; Magnesium Silicate 10,000 mg/kg; Barium Sulphate: not available",
+        "skin_corrosion_irritation": "May cause reddening of skin; low potential for sensitization per narrative, though classified Skin Sens. 1 (H317)",
+        "eye_damage_irritation": "Eye irritation reported",
+        "respiratory_skin_sensitization": "Skin Sens. 1 (H317) - may cause allergic skin reaction; irritating to respiratory system on inhalation",
+        "carcinogenicity": "Classified Carc. 1A (H350 - may cause cancer); but Section 11 states not considered carcinogenic by IARC/ACGIH/NTP/OSHA (internal inconsistency)",
+        "aspiration_hazard": "Asp. Tox. 1 (H304) - may be fatal if swallowed and enters airways"
+      }
+    }
+  },
+  {
+    "row": 556,
+    "product_name": "Shield Herbicide",
+    "resolution": "found",
+    "confidence": "medium",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "notes": "SDS 제품명은 'SHIELD PRO'(Corteva)이며 Section 3 성분은 Clopyralid monoethanolamine salt(44.05%)와 hexachlorobenzene(제조 불純물, <0.0025%) 2종뿐 - ingredient_names의 Glufosinate-ammonium은 SDS 성분표에 없음(2/3만 일치). 단, 신호어/H-code(H410, H350, H372, H400)는 힌트값과 정확히 일치하여 동일 문서로 추정됨",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": false,
+      "is_finished_product": true,
+      "is_single_substance": false
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Warning",
+        "ghs_hazard_statements": "Product: H410 (Aquatic Chronic 1); Component (hexachlorobenzene, trace impurity): H350 (Carc. 1B), H372 (STOT RE 1), H400 (Aquatic Acute 1), H410 (Aquatic Chronic 1)",
+        "ghs_pictograms": "GHS09 (aquatic environment)",
+        "acute_oral_toxicity_ld50": "Clopyralid monoethanolamine salt: LD50 (rat) > 5,000 mg/kg; Hexachlorobenzene: LD50 (rat) 3,500 mg/kg",
+        "acute_dermal_toxicity_ld50": "Clopyralid monoethanolamine salt: LD50 (rabbit) > 2,000 mg/kg; Hexachlorobenzene: LD50 (rabbit) > 2,000 mg/kg",
+        "acute_inhalation_toxicity_lc50": "Clopyralid monoethanolamine salt: LC50 (rat) > 2.6 mg/L / 4h (no acute inhalation toxicity)",
+        "eye_damage_irritation": "Clopyralid monoethanolamine salt: no eye irritation (rabbit)",
+        "respiratory_skin_sensitization": "Does not cause skin sensitization (Clopyralid: mouse; Hexachlorobenzene: guinea pig); no relevant data for respiratory sensitization",
+        "germ_cell_mutagenicity": "Clopyralid: negative (in vitro & animal); Hexachlorobenzene: in vitro predominantly negative, animal negative",
+        "carcinogenicity": "Clopyralid: similar formulations did not cause cancer in lab animals; Hexachlorobenzene: possible human carcinogen, has caused cancer in lab animals (Carc. 1B)",
+        "reproductive_toxicity": "Clopyralid: no interference with reproduction, birth defects only at maternally-toxic doses; Hexachlorobenzene: interferes with reproduction, birth defects at maternally-toxic doses",
+        "stot_single_exposure": "Clopyralid: not an STOT-SE toxicant; Hexachlorobenzene: data inadequate to determine",
+        "stot_repeated_exposure": "Hexachlorobenzene: STOT RE 1 (H372), target organs - adrenal gland, kidney, liver, bone, skin, thyroid",
+        "aspiration_hazard": "Not likely an aspiration hazard (product/hexachlorobenzene); could not be determined for clopyralid component"
+      }
+    }
+  },
+  {
+    "row": 557,
+    "product_name": "Shooter Insecticide",
+    "resolution": "found",
+    "confidence": "medium",
+    "source_mismatch_found": false,
+    "better_source_found": true,
+    "source_url": "https://www.agrian.com/pdfs/Shooter_MSDS.pdf",
+    "notes": "찾은 MSDS(Arysta LifeScience, EPA Reg 66330-390)는 액체 농축형 성분표에 Deltamethrin(0.75%)·Geraniol(17.28%)·Thyme Oil(36%)만 있고 ingredient_names의 Propane/n-Butane(에어로졸 propellant)은 없음 - 동일 브랜드의 다른 제형(에어로졸형) 가능성 있어 2/3 성분만 확인됨",
+    "sds_summary": {
+      "has_ingredient_info": true,
+      "has_toxicity_info": true,
+      "ingredients_match": false,
+      "is_finished_product": true,
+      "is_single_substance": false
+    },
+    "field_values": {
+      "toxicity": {
+        "ghs_signal_word": "Caution (EPA signal word; 2009 pre-GHS MSDS format)",
+        "acute_oral_toxicity_ld50": "LD50 (rat) > 2,000 mg/kg",
+        "acute_dermal_toxicity_ld50": "LD50 (rabbit) > 2,000 mg/kg",
+        "acute_inhalation_toxicity_lc50": "LC50 (rat) 2.69 mg/L / 4h (liquid aerosol)",
+        "skin_corrosion_irritation": "Moderate skin irritation (rabbit)",
+        "eye_damage_irritation": "Moderate eye irritation (rabbit)",
+        "respiratory_skin_sensitization": "Non-sensitizing (guinea pig)",
+        "germ_cell_mutagenicity": "Not mutagenic or genotoxic (Deltamethrin, in-vitro/in-vivo battery)",
+        "carcinogenicity": "Not carcinogenic (Deltamethrin, oncogenicity studies in rats/mice)",
+        "reproductive_toxicity": "Not a reproductive toxicant (multi-generation rat studies); not primary developmental toxicant (rats/rabbits) - delayed ossification at high dose secondary to maternal toxicity",
+        "stot_repeated_exposure": "Neurobehavioral effects (tremors) in chronic toxicity studies in rats and dogs"
+      }
+    }
+  },
+  {
+    "row": 558,
+    "product_name": "Sigma Ecol HS Antifouling Paint",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "notes": "SDS 못 찾음 (Sigma Coatings/PPG PMC 공식 사이트, agrian 등 시도했으나 해당 제품 페이지/문서 없음)",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": true,
+      "is_single_substance": false
+    }
+  },
+  {
+    "row": 559,
+    "product_name": "Silent",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "notes": "SDS 못 찾음 (제조사/브랜드 확인 불가, 검색 인프라 제약으로 실질적 웹 검색 불가)",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": true,
+      "is_single_substance": true
+    }
+  },
+  {
+    "row": 560,
+    "product_name": "Smacker Bait",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "notes": "SDS 못 찾음 (PelGar 등 살서제 제조사 사이트 확인했으나 해당 제품 페이지 없음)",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": true,
+      "is_single_substance": false
+    }
+  },
+  {
+    "row": 561,
+    "product_name": "SOLIDA GRANDE Herbicide",
+    "resolution": "unresolved",
+    "confidence": "low",
+    "source_mismatch_found": false,
+    "better_source_found": false,
+    "source_url": null,
+    "notes": "SDS 못 찾음 (제조사 확인 불가, 검색 인프라 제약)",
+    "sds_summary": {
+      "has_ingredient_info": false,
+      "has_toxicity_info": false,
+      "ingredients_match": false,
+      "is_finished_product": true,
+      "is_single_substance": false
+    }
+  }
+]

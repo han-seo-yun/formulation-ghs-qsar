@@ -1,0 +1,112 @@
+[
+ {
+  "row": 1206,
+  "fid": "MIX546",
+  "product_name": "Wolsin LP 13762",
+  "ingredient_names": "| Boric acid (H3BO3) | Propiconazole | (2R,6S)-Fenpropimorph",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "검색엔진 접속 제한으로 3성분(Boric acid/Propiconazole/Fenpropimorph) 복합 목재보존제 전용 SDS를 찾지 못함; 매우 특정된 제품코드로 대체 검색어 시도도 실패",
+  "n_smiles": 3
+ },
+ {
+  "row": 1210,
+  "fid": "MIX55",
+  "product_name": "BAS 510 02 F Turf Fungicide",
+  "ingredient_names": "| Boscalid",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "\"BAS 510 02 F\"는 검색 결과상 보스칼리드(Boscalid, BAS 510 F 계열) 관련 개발코드(EPA 잔류시험자료)로만 확인되며, Bentazone-sodium과의 병용 제품 여부는 확인되지 않음. 성분 불일치 가능성 높음, 대체 SDS/라벨 못 찾음.",
+  "n_smiles": 1
+ },
+ {
+  "row": 1212,
+  "fid": "MIX551",
+  "product_name": "XDE-007 50% Concentrate",
+  "ingredient_names": "| Noviflumuron",
+  "hint_tox_url": "https://www3.epa.gov/pesticides/chem_search/ppls/062719-00478-20030513.pdf",
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "제품 자체 SDS 못 찾음(검색엔진 접근 제한); 활성성분 노비플루무론(CAS 121451-02-3) 기술물질 GHS(Warning, H361/H362/H400/H410)만 확인, 제품(50% 농축물)과 직접 매칭 불가",
+  "n_smiles": 1
+ },
+ {
+  "row": 1255,
+  "fid": "MIX590",
+  "product_name": "Larvin 500 Insecticide",
+  "ingredient_names": "| Thiodicarb",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/977325f7a5459751_highlighted.pdf",
+  "prev_fail_memo": "Thiodicarb 미국 등록이 약 2010년경 자진 취소되어 Bayer/Greenbook 등 현행 데이터베이스에 제품 없음; SDS 확인 불가",
+  "n_smiles": 1
+ },
+ {
+  "row": 1271,
+  "fid": "MIX604",
+  "product_name": "The Andersons 0.077% Bifenthrin + 0.155% Imidacloprid Granular Insecticide",
+  "ingredient_names": "| Imidacloprid | Bifenthrin",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/e330cefeaa8b9c69_highlighted.pdf",
+  "prev_fail_memo": "검색엔진 접근 차단으로 확인 실패 (605와 동일 계열 제품으로 추정, 제조사 사이트에서 정확한 제품 미확인)",
+  "n_smiles": 2
+ },
+ {
+  "row": 1278,
+  "fid": "MIX610",
+  "product_name": "Topramezone 2.8 SC Herbicide",
+  "ingredient_names": "| Topramezone",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/cbccf99a4834a73f_highlighted.pdf",
+  "prev_fail_memo": "검색엔진 접근 차단, 제조사 후보 사이트(Albaugh 등)에서도 제품 페이지 미확인, 매칭 SDS 못 찾음",
+  "n_smiles": 1
+ },
+ {
+  "row": 1280,
+  "fid": "MIX612",
+  "product_name": "Ultra P",
+  "ingredient_names": "None required. COMPOSITION OF INGREDIENTS. Percentage (by weight). 63449-39-8. CAS Number. Component. | Cuprous oxide | Tolyfluanid",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/f13d509e7f969b51_highlighted.pdf",
+  "prev_fail_memo": "제공 SDS는 무관한 금속가공유 제품(Viking Drill Ultra S/P Super Premium, Lube-Tech)으로 Cuprous oxide/Tolyfluanid 미함유, 완전 불일치; 대체 SDS 못 찾음",
+  "n_smiles": 3
+ },
+ {
+  "row": 1281,
+  "fid": "MIX613",
+  "product_name": "Wocosen 45 TK",
+  "ingredient_names": "| 3-Iodo-2-propynylbutylcarbamate | Propiconazole",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "로컬 문서 없음, 웹 검색 도구가 정상 작동하지 않아 SDS 확인 불가",
+  "n_smiles": 2
+ },
+ {
+  "row": 1286,
+  "fid": "MIX618",
+  "product_name": "Abamectin A1a",
+  "ingredient_names": "| Avermectin A1a",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/f880b1d4908ba51f_highlighted.pdf",
+  "prev_fail_memo": "제공 SDS는 상업용 Abamectin(Avermectin B1a~80%/B1b~20% 혼합물, CAS 71751-41-2)로 단일 congener인 Avermectin A1a와 성분 불일치(CAS 상이); 대체 SDS 못 찾음",
+  "n_smiles": 1
+ },
+ {
+  "row": 1287,
+  "fid": "MIX619",
+  "product_name": "Abamectin A1b",
+  "ingredient_names": "| Avermectin A1b",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/5ed19d85065e7cdf_highlighted.pdf",
+  "prev_fail_memo": "제공 SDS는 상업용 Abamectin(Avermectin B1a/B1b 혼합물, CAS 71751-41-2)로 단일 congener인 Avermectin A1b와 성분 불일치(CAS 상이); 대체 SDS 못 찾음",
+  "n_smiles": 1
+ }
+]

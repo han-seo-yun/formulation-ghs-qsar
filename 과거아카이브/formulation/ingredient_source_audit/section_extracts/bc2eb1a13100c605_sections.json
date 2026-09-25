@@ -1,0 +1,35 @@
+{
+  "source_id": "bc2eb1a13100c605",
+  "file_path": "ingredient_source_audit/highlighted/bc2eb1a13100c605_highlighted.pdf",
+  "page_count": 7,
+  "full_text_length": 15744,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product Name: Vanilla Extract Pure",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "Section 1: Chemical Product and Company Identification\nProduct Name: Vanilla Extract Pure\nCatalog Codes: SLV1150\nCAS#: Mixture.\nRTECS: Not applicable.\nTSCA: TSCA 8(b) inventory: Ethyl alcohol 200 Proof\nCI#: Not applicable.\nSynonym:\nVanilla Extract Pure\nChemical Name: Not applicable.\nChemical Formula"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "Section 2: "
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

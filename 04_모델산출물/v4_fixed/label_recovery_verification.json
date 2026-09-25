@@ -1,0 +1,382 @@
+{
+ "summary": {
+  "pass": 8,
+  "fail": 0,
+  "warn": 2
+ },
+ "checks": [
+  {
+   "id": "C0",
+   "check": "status 도메인이 예상 5값 이내",
+   "status": "PASS",
+   "detail": {
+    "eye": {
+     "counts": {
+      "no_sds": 1111,
+      "ok": 233,
+      "negative": 146,
+      "not_stated": 101,
+      "verdict_only": 84
+     },
+     "unexpected": []
+    },
+    "skin": {
+     "counts": {
+      "no_sds": 1111,
+      "ok": 193,
+      "negative": 169,
+      "not_stated": 104,
+      "verdict_only": 98
+     },
+     "unexpected": []
+    },
+    "sens": {
+     "counts": {
+      "no_sds": 1111,
+      "negative": 211,
+      "ok": 184,
+      "not_stated": 147,
+      "verdict_only": 22
+     },
+     "unexpected": []
+    }
+   }
+  },
+  {
+   "id": "C1",
+   "check": "복구 전 0건 · 복구 후 전량 NC 부여",
+   "status": "PASS",
+   "detail": {
+    "eye": {
+     "n_status_negative": 146,
+     "expected_n_status_negative": 146,
+     "n_with_category_before": 0,
+     "n_recovered_to_NC_after": 146
+    },
+    "skin": {
+     "n_status_negative": 169,
+     "expected_n_status_negative": 169,
+     "n_with_category_before": 0,
+     "n_recovered_to_NC_after": 169
+    },
+    "sens": {
+     "n_status_negative": 211,
+     "expected_n_status_negative": 211,
+     "n_with_category_before": 0,
+     "n_recovered_to_NC_after": 211
+    }
+   }
+  },
+  {
+   "id": "C2",
+   "check": "sds_v1 양성률 1.000 → 1 미만으로 하락",
+   "status": "PASS",
+   "detail": {
+    "eye": {
+     "v4": {
+      "n_rows": 181,
+      "n_pos": 181,
+      "pos_rate": 1.0
+     },
+     "v5": {
+      "n_rows": 290,
+      "n_pos": 181,
+      "pos_rate": 0.6241
+     },
+     "predicted_by_diagnosis": 0.79,
+     "delta_vs_prediction": -0.1659
+    },
+    "skin": {
+     "v4": {
+      "n_rows": 157,
+      "n_pos": 157,
+      "pos_rate": 1.0
+     },
+     "v5": {
+      "n_rows": 285,
+      "n_pos": 157,
+      "pos_rate": 0.5509
+     },
+     "predicted_by_diagnosis": 0.701,
+     "delta_vs_prediction": -0.1501
+    },
+    "sens": {
+     "v4": {
+      "n_rows": 184,
+      "n_pos": 184,
+      "pos_rate": 1.0
+     },
+     "v5": {
+      "n_rows": 395,
+      "n_pos": 184,
+      "pos_rate": 0.4658
+     },
+     "predicted_by_diagnosis": 0.603,
+     "delta_vs_prediction": -0.1372
+    }
+   }
+  },
+  {
+   "id": "C2b",
+   "check": "진단 예측 양성률과 ±0.02 내 일치",
+   "status": "WARN",
+   "detail": {
+    "match": {
+     "eye": false,
+     "skin": false,
+     "sens": false
+    },
+    "note": "불일치 원인: 진단의 반사실 계산은 '최종 y 가 결측인 행'만 분모에 더했으나, 실제 복구는 우선순위상 sds_v1 이 하위출처(sds_2nd/phase1_sds/sec11)를 이기는 행까지 sds_v1 집단으로 끌어와 분모가 더 커진다."
+   }
+  },
+  {
+   "id": "C3a",
+   "check": "sds_ghs_* 기존 카테고리를 복구가 건드리지 않음",
+   "status": "PASS",
+   "detail": {
+    "eye": {
+     "n_existing_category": 233,
+     "n_existing_category_touched_by_recovery": 0
+    },
+    "skin": {
+     "n_existing_category": 193,
+     "n_existing_category_touched_by_recovery": 0
+    },
+    "sens": {
+     "n_existing_category": 184,
+     "n_existing_category_touched_by_recovery": 0
+    }
+   }
+  },
+  {
+   "id": "C3b",
+   "check": "설명되지 않는 라벨 변화 0건 (변화는 신규추가 또는 우선순위 승격만)",
+   "status": "PASS",
+   "detail": {
+    "eye": {
+     "v4_n": 1105,
+     "v5_n": 1153,
+     "added": 48,
+     "lost": 0,
+     "changed": 13,
+     "changed_promoted_by_priority": 13,
+     "changed_unexplained": 0,
+     "promoted_src_v4_breakdown": {
+      "sds_2nd_sec11": 6,
+      "sds_2nd": 6,
+      "phase1_sds": 1
+     }
+    },
+    "skin": {
+     "v4_n": 992,
+     "v5_n": 1059,
+     "added": 67,
+     "lost": 0,
+     "changed": 7,
+     "changed_promoted_by_priority": 7,
+     "changed_unexplained": 0,
+     "promoted_src_v4_breakdown": {
+      "sds_2nd": 6,
+      "phase1_sds": 1
+     }
+    },
+    "sens": {
+     "v4_n": 595,
+     "v5_n": 716,
+     "added": 121,
+     "lost": 0,
+     "changed": 5,
+     "changed_promoted_by_priority": 5,
+     "changed_unexplained": 0,
+     "promoted_src_v4_breakdown": {
+      "sds_2nd": 3,
+      "sds_2nd_sec11": 1,
+      "phase1_sds": 1
+     }
+    }
+   }
+  },
+  {
+   "id": "C4",
+   "check": "y 총수 증가분 = 진단의 복구가능 건수",
+   "status": "PASS",
+   "detail": {
+    "eye": {
+     "v4": 1105,
+     "v4_expected": 1105,
+     "v5": 1153,
+     "delta": 48,
+     "expected_delta": 48,
+     "delta_matches": true
+    },
+    "skin": {
+     "v4": 992,
+     "v4_expected": 992,
+     "v5": 1059,
+     "delta": 67,
+     "expected_delta": 67,
+     "delta_matches": true
+    },
+    "sens": {
+     "v4": 595,
+     "v4_expected": 595,
+     "v5": 716,
+     "delta": 121,
+     "expected_delta": 121,
+     "delta_matches": true
+    }
+   }
+  },
+  {
+   "id": "C5",
+   "check": "label_source / y_*_src 및 파생 원-핫이 X 에 없음",
+   "status": "PASS",
+   "detail": {
+    "x_columns_flagged": [],
+    "manifest_label_source_in_X": [],
+    "n_X_cols": 524
+   }
+  },
+  {
+   "id": "C6",
+   "check": "충돌 목록 산출 + 진단치와 대조(상위집합)",
+   "status": "WARN",
+   "detail": {
+    "csv": "/Users/hanseoyun/Desktop/260830/04_모델산출물/v4_fixed/label_conflict_manual_review.csv",
+    "exists": true,
+    "counts_v5": {
+     "eye": 33,
+     "skin": 10,
+     "sens": 5
+    },
+    "counts_expected_by_diagnosis": {
+     "eye": 32,
+     "skin": 10,
+     "sens": 5
+    },
+    "match": {
+     "eye": false,
+     "skin": true,
+     "sens": true
+    },
+    "final_y_still_positive": {
+     "eye": 19,
+     "skin": 3,
+     "sens": 0
+    },
+    "is_superset_of_diagnosis": {
+     "eye": true,
+     "skin": true,
+     "sens": true
+    },
+    "definition_note": "진단치는 'v4 최종 y 가 양성'(승자 기준), v5 CSV 는 '다른 출처 중 하나라도 양성 주장'(주장 기준). v5 는 진단의 상위집합이므로 건수가 같거나 크다.",
+    "note": "자동 수정하지 않음. 최종 y 는 우선순위상 sds_v1(NC)이 이기지만 근거문서 모순은 남아 있으므로 사람 재검 필요."
+   }
+  },
+  {
+   "id": "C7",
+   "check": "감사 지목 누출 피처가 전부 bookkeeping/ambiguous 로 태깅",
+   "status": "PASS",
+   "detail": {
+    "csv": "/Users/hanseoyun/Desktop/260830/04_모델산출물/v4_fixed/feature_role_manifest.csv",
+    "exists": true,
+    "counts": {
+     "chemistry": 313,
+     "ambiguous": 280,
+     "label_coderived": 54,
+     "bookkeeping": 52,
+     "id": 3
+    },
+    "counts_formulation": {
+     "chemistry": 221,
+     "ambiguous": 209,
+     "label_coderived": 54,
+     "bookkeeping": 39,
+     "id": 1
+    },
+    "n_exclude_by_default": 386,
+    "ambiguous_non_isna_formulation": [
+     "active_pct_sum",
+     "f_ct_eye_coverage",
+     "f_ct_eye_n_known",
+     "f_ct_sens_coverage",
+     "f_ct_sens_n_known",
+     "f_ct_skin_coverage",
+     "f_ct_skin_n_known",
+     "f_n_active_presumed",
+     "f_n_carrier_inert",
+     "f_n_fragrance_dye",
+     "f_n_ing",
+     "f_n_ph_adjuster",
+     "f_n_preservative",
+     "f_n_propellant",
+     "f_n_solvent",
+     "f_n_surf_anionic",
+     "f_n_surf_cationic",
+     "f_n_surf_nonionic",
+     "f_n_surfactant",
+     "f_n_synergist",
+     "f_n_thickener",
+     "f_n_unknown",
+     "f_n_water",
+     "f_pct_coverage",
+     "f_pct_sum_known",
+     "f_pct_with_structure",
+     "f_smiles_coverage",
+     "ice_active_pct_sum",
+     "is_mixture",
+     "n_ing_active",
+     "n_ingredients",
+     "pct_sum_known",
+     "ph_basis_pct"
+    ],
+    "leaky_top_features_role": {
+     "n_tox_endpoints": "bookkeeping",
+     "has_toxicity": "bookkeeping",
+     "tox_n_composition_rows": "bookkeeping",
+     "sds_epa_eye_ambiguous": "bookkeeping",
+     "sds_epa_skin_ambiguous": "bookkeeping",
+     "trainable": "bookkeeping",
+     "has_y": "bookkeeping",
+     "has_ntp_label": "bookkeeping",
+     "n_y_conflict": "bookkeeping",
+     "n_ing_missing": "bookkeeping",
+     "n_ing_total_known": "bookkeeping"
+    },
+    "leaky_all_excluded": true
+   }
+  }
+ ],
+ "expectations_used": {
+  "status_negative_rows": {
+   "eye": 146,
+   "skin": 169,
+   "sens": 211
+  },
+  "recoverable_when_y_missing": {
+   "eye": 48,
+   "skin": 67,
+   "sens": 121
+  },
+  "v4_y_total": {
+   "eye": 1105,
+   "skin": 992,
+   "sens": 595
+  },
+  "v4_sds_v1_pos_rate": {
+   "eye": 1.0,
+   "skin": 1.0,
+   "sens": 1.0
+  },
+  "predicted_sds_v1_pos_rate": {
+   "eye": 0.79,
+   "skin": 0.701,
+   "sens": 0.603
+  },
+  "conflict_neg_vs_other_positive": {
+   "eye": 32,
+   "skin": 10,
+   "sens": 5
+  }
+ }
+}

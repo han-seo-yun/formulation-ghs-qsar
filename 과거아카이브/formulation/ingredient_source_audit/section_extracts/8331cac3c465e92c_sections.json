@@ -1,0 +1,35 @@
+{
+  "source_id": "8331cac3c465e92c",
+  "file_path": "ingredient_source_audit/highlighted/8331cac3c465e92c_highlighted.pdf",
+  "page_count": 9,
+  "full_text_length": 21696,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product identifier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. IDENTIFICATION OF THE SUBSTANCE/PREPARATION AND OF THE COMPANY/UNDERTAKING\nProduct identifier \nProduct Name\nTrimec® Classic Broadleaf Herbicide\nOther means of identification \nProduct Code\nPBI FP 8811046\nEPA Pesticide Registration Number 2217-543\nProduct Size\n30 U. S. Gal.\nRecommended use of the c"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION\nClassification \nOSHA Regulatory Status\nThis chemical is considered hazardous by the 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200)\nAcute Oral Toxicity\nCategory 4\nSerious eye damage/eye irritation\nCategory 1\nSkin Sensitization\nCategory 1\nChronic Aquatic Toxicity\n"
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

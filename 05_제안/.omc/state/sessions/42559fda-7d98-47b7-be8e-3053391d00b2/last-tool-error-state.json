@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"rm -f 노선분리_배포_v3_260914.zip && zip -r -X -UN=UTF8 노선분리_배포_v3_260914.zip 배포_노선분리 -x '*.DS_Store' '*__pycache__*' >/dev/null && rm -rf /tmp/zt && mkdir -p /tmp/zt && unzip -q 노선분리_배포_v3_2609...",
+  "error": "Exit code 16",
+  "timestamp": "2026-09-13T21:42:16.606Z",
+  "retry_count": 1
+}

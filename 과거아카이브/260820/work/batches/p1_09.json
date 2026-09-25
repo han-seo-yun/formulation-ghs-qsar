@@ -1,0 +1,112 @@
+[
+ {
+  "row": 1446,
+  "fid": "MIX791",
+  "product_name": "Genapol LRO",
+  "ingredient_names": "| Dodecanol, ethoxylated, monoether with sulfuric acid, sodium salt",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "기존 힌트(essentialingredients Genapol O 200 msds)는 비이온 알코올에톡실레이트 계열로 실제 성분(도데칸올 에톡실레이트 황산에스터 나트륨염, SLES)과 화학적으로 다른 제품임(추출 자체도 실패 상태). 대체 SDS 검색 시도했으나 웹검색 도구 접속 불가로 못 찾음",
+  "n_smiles": 1
+ },
+ {
+  "row": 1452,
+  "fid": "MIX797",
+  "product_name": "sodium hydroxide/N,N'-bis(acrylyl)cystamine (BAC) (1:10)",
+  "ingredient_names": "| Sodium hydroxide | N,N'-Bisacrylylcystamine",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "NaOH/BAC 비율 혼합물은 실험 프로토콜용 배합(전기영동 gel 제조 시 분해성 가교제 BAC와 NaOH 혼합)으로, 이 조합에 대한 상업적 SDS 문서를 찾지 못함. 개별성분(BAC, CAS 15862-93-4) 참고자료(PubChem/ECHA 집계, Warning, H315/H319/H335)만 확인됨",
+  "n_smiles": 2
+ },
+ {
+  "row": 1453,
+  "fid": "MIX798",
+  "product_name": "sodium hydroxide/SMS (0.5:1)",
+  "ingredient_names": "| Sodium hydroxide | Sodium metabisulfite",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "NaOH/sodium metabisulfite 비율 혼합물(bisulfite 서열분석용 변성 버퍼로 추정)에 대한 전용 상업 SDS를 찾지 못함. 개별성분 참고자료만 확인됨(NaOH: Danger/H314; SMS: Danger/H302,H318 - PubChem 집계)",
+  "n_smiles": 2
+ },
+ {
+  "row": 1458,
+  "fid": "MIX801",
+  "product_name": "sodium hydroxide/SMS (5:3)",
+  "ingredient_names": "| Sodium hydroxide | Sodium metabisulfite",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "NaOH/sodium metabisulfite 비율 혼합물에 대한 전용 상업 SDS를 찾지 못함(1453과 동일한 유형의 실험용 배합으로 추정). 개별성분 참고자료만 확인됨",
+  "n_smiles": 2
+ },
+ {
+  "row": 1461,
+  "fid": "MIX804",
+  "product_name": "Sulfuric acid/ Sodium dodecyl sulfate",
+  "ingredient_names": "Sodium dodecyl sulfate | Sulfuric acid",
+  "hint_tox_url": null,
+  "hint_newlink": "https://www.chemblink.com/MSDSFiles/7664-93-9Sigma-Aldrich.pdf",
+  "hint_doc_rel": null,
+  "prev_fail_memo": "혼합물 전용 SDS 없음; 부식성 주성분인 황산(H2SO4, CAS 7664-93-9) SDS 기준 데이터, 계면활성제(SDS) 성분은 반영 안 됨",
+  "n_smiles": 2
+ },
+ {
+  "row": 1465,
+  "fid": "MIX808",
+  "product_name": "Synprolam 35X2",
+  "ingredient_names": "Access Dow's Safety Data Sheet (SDS) database and search by product name, grade, or trade product code.",
+  "hint_tox_url": "https://patents.google.com/patent/US5698101A/en",
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "제공된 URL은 SDS가 아닌 특허문서(US5698101A)임 - 해당 특허는 Synprolam 35X2를 'C13/C15 지방족 아민 에톡실레이트(계면활성제, 유화제/디멀시파이어)'로 언급. EPA CompTox에 'Synprolam 35x20'(DTXSID901022583), 'Synprolam S 3406'(DTXSID4029804) 등 유사 동의어가 있으나 정확한 일치 및 독성정보(Section 11)는 찾지 못함",
+  "n_smiles": 0
+ },
+ {
+  "row": 1466,
+  "fid": "MIX809",
+  "product_name": "Mixture of isomers: ethyl exo-tricyclo[5.2.1.0(2,6)]decane-endo-2-carboxylate; ethyl endo-tricyclo[5.2.1.0(2,6)]decane-exo-2-carboxylate",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/129863d90a401474_highlighted.pdf",
+  "prev_fail_memo": "로컬 하이라이트 PDF(ingredient_source_audit/highlighted/...)가 현재 환경에서 접근 불가하여 제공된 신호어(warning)/H302 힌트를 독립적으로 확인할 SDS를 찾지 못함(PubChem/Bing 검색 모두 무관한 결과만 나옴)",
+  "n_smiles": 0
+ },
+ {
+  "row": 1470,
+  "fid": "MIX812",
+  "product_name": "Mixture of isomers: 1-(2-isopropylphenyl)-1-phenylethane (CAS# 191044-60-7); 1-(3-isopropylphenyl)-1-phenylethane (CAS# 191044-59-4); 1-(4-isopropylphenyl)-1-phenylethane (CAS# 2320-06-1)",
+  "ingredient_names": "| Benzene, 1-(1-methylethyl)-3-(1-phenylethyl)- | Benzene, 1-(1-methylethyl)-2-(1-phenylethyl)- | Benzene, 1-(1-methylethyl)-4-(1-phenylethyl)-",
+  "hint_tox_url": null,
+  "hint_newlink": "https://pubchem.ncbi.nlm.nih.gov/compound/13765184",
+  "hint_doc_rel": null,
+  "prev_fail_memo": "CAS로 PubChem 3개 이성질체(CID 13765184/18506591/18506590) 모두 확인, ingredient_names(isopropylphenyl-phenylethane 계열)와 일치. 다만 미국 TSCA PMN(사전제조통보) 물질로만 등록되어 있고 공개된 GHS 분류/독성코드(Section 11)는 존재하지 않음",
+  "n_smiles": 3
+ },
+ {
+  "row": 1471,
+  "fid": "MIX813",
+  "product_name": "Mixture of: 2-methyl-4-(2',2',3'-trimethyl-3'-cyclopenten-1'-yl)-4-penten-1-ol 56% (1'R,2R) & 40%(1'R,2S) isomer",
+  "ingredient_names": "2-Methyl-4-(2,2,3-trimethyl-3-cyclopenten-1-yl)-2-butenal | 3-Butenal, 2-methyl-4-(2,6,6-trimethyl-2-cyclohexen-1-yl)- | 2-Butenal, 2-ethyl-4-(2,2,3-trimethyl-3-cyclopenten-1-yl)- | 3-Methyl-4-(2,4,6-trimethyl-3-cyclohexen-1-yl)-3-buten-2-one | 3-Buten-2-one, 3-methyl-4-(3,5,6-trimethyl-3-cyclohexen-1-yl)-",
+  "hint_tox_url": "https://nextsds.com/substances/65114-01-4-2-methyl-4-2-2-3-trimethyl-3-cyclopenten-1-yl-2-butenal",
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "nextsds.com은 5개 이성질체 성분 중 1개(CAS 65114-01-4, 2-Methyl-4-(2,2,3-trimethyl-3-cyclopenten-1-yl)-2-butenal)만 등록된 물질 페이지이며 전체 성분 SDS Section 3는 확인 불가; REACH 분류상 전반적으로 'Not Classified'이고 H208(사실상 EUH208, 민감화 물질 함유 가능성)만 표시됨. 제품명은 알코올(-1-ol)인데 성분명은 알데히드/케톤(-al/-one) 계열로 표기가 달라 완전한 일치는 아님",
+  "n_smiles": 5
+ },
+ {
+  "row": 1472,
+  "fid": "MIX814",
+  "product_name": "Mixture of: 5-exo-decylbicyclo[2.2.1]hept-2-ene; 5-endo-decylbicyclo [2.2.1]hept-2-ene",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": "https://pubchem.ncbi.nlm.nih.gov/compound/21584941",
+  "hint_doc_rel": null,
+  "prev_fail_memo": "PubChem CID 21584941(5-decylbicyclo[2.2.1]hept-2-ene)로 명칭 일치 확인. TSCA PMN 물질로만 등재, 공개 GHS/독성분류 정보 없음",
+  "n_smiles": 0
+ }
+]

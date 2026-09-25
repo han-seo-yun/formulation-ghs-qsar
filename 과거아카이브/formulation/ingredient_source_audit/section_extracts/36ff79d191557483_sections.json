@@ -1,0 +1,20 @@
+{
+  "source_id": "36ff79d191557483",
+  "file_path": "ingredient_source_audit/highlighted/36ff79d191557483_highlighted.pdf",
+  "page_count": 4,
+  "full_text_length": 14552,
+  "sections_found": [
+    "section_2",
+    "section_3",
+    "section_15"
+  ],
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "HAZARDS IDENTIFICATION\nMixture\nNo applicable Information is Available\nSection 3- "
+  }
+}

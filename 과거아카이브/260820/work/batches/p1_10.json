@@ -1,0 +1,112 @@
+[
+ {
+  "row": 1473,
+  "fid": "MIX815",
+  "product_name": "Soap 20/80 coconut oil/tallow",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "특정 CAS/제조사 SDS를 찾지 못함(EPA CompTox에 'Tallow soap' 등 유사 물질만 존재, 20/80 코코넛/우지 혼합 비누 특정 항목 없음)",
+  "n_smiles": 0
+ },
+ {
+  "row": 1475,
+  "fid": "MIX817",
+  "product_name": "Mixture of isomers: 1-(spiro[4.5]dec-7-en-7-yl)pent-4-en-1-one (CAS# 224031-70-3); 1-(spiro[4.5]dec-6-en-7-yl)pent-4-en-1-one (CAS# 224031-71-4)",
+  "ingredient_names": "| 1-Spiro[4.5]dec-7-en-7-yl-4-penten-1-one | 4-Penten-1-one, 1-spiro[4.5]dec-6-en-7-yl-",
+  "hint_tox_url": null,
+  "hint_newlink": "https://pubchem.ncbi.nlm.nih.gov/compound/15405344",
+  "hint_doc_rel": null,
+  "prev_fail_memo": "CAS 224031-70-3로 PubChem CID 15405344 확인(ingredient_names의 spiro[4.5]decenyl pentenone과 동일 골격/분자식 C15H22O 일치). TSCA PMN 물질로만 등재, 공개 GHS/독성분류 없음",
+  "n_smiles": 2
+ },
+ {
+  "row": 1482,
+  "fid": "MIX823",
+  "product_name": "dicyanamine/formaldehyde condensate",
+  "ingredient_names": "| Cyanoguanidine | Formaldehyde",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/4180cf8bf917b88b_highlighted.pdf",
+  "prev_fail_memo": "축합물(condensate) 자체 SDS가 아닌 원료 Dicyandiamide 단일물질 SDS 기준 자료임(Formaldehyde 성분에 대한 별도 정보 없음); 축합/경화된 수지는 통상 유리 포름알데히드가 낮아 원료와 다를 수 있음",
+  "n_smiles": 2
+ },
+ {
+  "row": 1483,
+  "fid": "MIX824",
+  "product_name": "Ethomeen T/25",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "제조사(Nouryon) SDS 검색이 로그인/JS 기반 위젯이라 직접 접근 불가, Sigma-Aldrich·유통사(Brenntag 등)에서도 확인 불가 - 대체 SDS 못 찾음",
+  "n_smiles": 0
+ },
+ {
+  "row": 1488,
+  "fid": "MIX829",
+  "product_name": "Elfan OS 46",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "제조사/브랜드 소유사 특정 불확실(과거 Hoechst/Clariant/Kao 계열 추정)하여 정식 SDS를 찾지 못함",
+  "n_smiles": 0
+ },
+ {
+  "row": 1518,
+  "fid": "MIX856",
+  "product_name": "Pseudo lilyl acetate",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "정확한 CAS/화학명을 특정하지 못함(추정 후보 p-tert-butylcyclohexyl acetate는 동의어 목록에서 확인 안 됨) - 매칭되는 SDS를 찾지 못함",
+  "n_smiles": 0
+ },
+ {
+  "row": 1521,
+  "fid": "MIX859",
+  "product_name": "Angelica seed oil",
+  "ingredient_names": "Angelica seed oil, cold pressed | Angelica seed oil, cold pressed",
+  "hint_tox_url": "https://files.plytix.com/api/v1.1/rn/public_files/pim/assets/96/f0/5c/64/645cf096b0a90000019bdc9c/texts/f9/1b/4e/65/654e1bf955ea2301af9e5d5e/MSDS%20-%20Angelica%20Seed%20Oil,%20Cold%20Pressed.pdf/K1164MSDS.pdf",
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "Section 11 전부 'Not Applicable'로 기재됨 (무독성/비유해 등급, GHS 분류 없음, 신호어 없음)",
+  "n_smiles": 0
+ },
+ {
+  "row": 1529,
+  "fid": "MIX866",
+  "product_name": "Tobacco leaf absolute",
+  "ingredient_names": "Ethanol",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "성분 불일치: ingredient_names=Ethanol이나 실제 물질은 Nicotiana tabacum(담배잎) 앱솔루트(CAS 8037-19-2)로 에탄올이 조성에 명시된 SDS를 찾지 못함",
+  "n_smiles": 1
+ },
+ {
+  "row": 1532,
+  "fid": "MIX869",
+  "product_name": "Methyl abietate",
+  "ingredient_names": "Methyl Abietate",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "전용 SDS 문서를 찾지 못함. PubChem GHS 자체분류 집계상 보고 다수(82.9%)가 '미분류'이며 일부(13.4%)만 H319/H334 보고되어 신뢰할 명확한 코드 없음.",
+  "n_smiles": 1
+ },
+ {
+  "row": 1542,
+  "fid": "MIX878",
+  "product_name": "Artemisia oil (wormwood)",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/f4dd0013afe8b77b_highlighted.pdf",
+  "prev_fail_memo": "구형 MSDS(GHS 신호어/H코드 없음, 15항목에 'Not classified'로 명시)",
+  "n_smiles": 0
+ }
+]

@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"python3 01_파이프라인/make_meeting_lecture_docx.py\",\"description\":\"Build lecture docx\"}",
+  "error": "Exit code 1\nTraceback (most recent call last):\n  File \"/Users/hanseoyun/Desktop/260830/01_파이프라인/make_meeting_lecture_docx.py\", line 250, in <module>\n    p(f\"그래서 주성분 기준으로 group_key 를 만들고(현재 {MD['그룹분할'].split('개')[0]}개), \"\n                                                         ~~^^^^^^^^^^^^\nKeyError: '그룹분할'",
+  "timestamp": "2026-09-07T02:06:18.867Z",
+  "retry_count": 1
+}

@@ -1,0 +1,284 @@
+[
+ {
+  "row": 1446,
+  "fid": "MIX791",
+  "product_name": "Genapol LRO",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://hugohaeffner.com/wp-content/import_productfiles/specsheets/D_DE133207_-_GENAPOL_LRO_(LIQUID)_FLUESSIG_(DE).PDF",
+  "source_type": "distributor-issued product SDS PDF (Haeffner GmbH & Co. KG, distributor of Clariant Genapol LRO liquid, Art. 133207, Version 3, 2015-04-14, EU Reg. 453/2010)",
+  "ingredients_match": true,
+  "product_ghs": {
+   "signal_word": null,
+   "h_statements": "H315, H319, H412",
+   "eye_cat": "2A",
+   "skin_cat": "2",
+   "sens_cat": "Not classified",
+   "ld50_oral": "7400 mg/kg (rat, OECD 401)",
+   "ld50_dermal": "> 2000 mg/kg (rat, OECD 402)",
+   "lc50_inh": null,
+   "ph": "~5 (20 g/L aqueous solution, 20 C)"
+  },
+  "per_ingredient": null,
+  "note_ko": "Clariant Genapol LRO(liquid) 제품 SDS 확보. Section 3 조성 = CAS 68891-38-3 'Alkohol, C12-14 ethoxyliert, Sulfate, Natriumsalze' 28% (INCI: Sodium Laureth Sulfate) → 입력 성분명(도데칸올 에톡실레이트 황산에스터 나트륨염, SLES)과 일치. Section 2 분류는 Skin Irrit. 2 / Eye Irrit. 2 / Aquatic Chronic 3 이나 SDS가 구 DSD 라벨(Xi, R36/38)을 사용해 'Signalwort' 항목이 인쇄되어 있지 않아 signal_word=null(추정 Warning). Section 3의 물질 자체 분류는 Eye Dam. 1/H318로 더 심하게 표기되어 있으나 제품(28% 수용액) 분류는 Eye Irrit. 2. pH는 원액이 아니라 20 g/L 희석액 기준. 흡입 LC50은 Section 11에 없음. 참고: 힌트에 있던 Genapol O 200(비이온 AE)은 실제로 다른 제품이 맞음."
+ },
+ {
+  "row": 1452,
+  "fid": "MIX797",
+  "product_name": "sodium hydroxide/N,N'-bis(acrylyl)cystamine (BAC) (1:10)",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/100602",
+  "source_type": "PubChem LCSS / ECHA C&L Inventory aggregated notifications (PUG-View REST)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Sodium hydroxide",
+    "cas": "1310-73-2",
+    "eye_cat": "1",
+    "skin_cat": "1",
+    "sens_cat": "Not classified",
+    "h_statements": "H290, H314 (H318)",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/14798/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "N,N'-Bis(acryloyl)cystamine (BAC)",
+    "cas": "60984-57-8",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": "H315, H319, H335",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/100602/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "NaOH/BAC 1:10 배합은 전기영동 gel용 실험 프로토콜 조성으로 상업 제품 SDS 자체가 존재하지 않음 → Tier 2 성분별 GHS로 대체. NaOH: PubChem/ECHA 집계 6949 reports, Danger, H314(>99.9%) → Skin Corr. 1(세부 1A는 EU 조화분류이나 본 소스에 세분류 미표기하여 '1'로 기록), Eye Dam. 1. BAC(CID 100602, PubChem 표제 N,N'-Bis(acryloyl)cystamine): Warning, H315/H319/H335 각 100%/100%/97.7% (43 reports, 3 notifications). 이전 메모의 CAS 15862-93-4는 PubChem에서 조회되지 않아 PubChem 등재 CAS 60984-57-8을 기록. 혼합물 pH 데이터는 소스 없음(NaOH 함유 알칼리 배합이므로 GHS 강염기 예외규칙 적용 시 별도 확인 필요)."
+ },
+ {
+  "row": 1453,
+  "fid": "MIX798",
+  "product_name": "sodium hydroxide/SMS (0.5:1)",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/656671",
+  "source_type": "PubChem LCSS / ECHA C&L Inventory aggregated notifications (PUG-View REST)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Sodium hydroxide",
+    "cas": "1310-73-2",
+    "eye_cat": "1",
+    "skin_cat": "1",
+    "sens_cat": "Not classified",
+    "h_statements": "H290, H314 (H318)",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/14798/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Sodium metabisulfite (SMS)",
+    "cas": "7681-57-4",
+    "eye_cat": "1",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "H302, H318",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/656671/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "bisulfite 시퀀싱용 변성 버퍼 계열 실험 배합으로 전용 상업 SDS 없음 → Tier 2 성분별 GHS. SMS: PubChem/ECHA 집계 3060 reports, Danger, H302(98.9%)/H318(99.5%) → Eye Dam. 1, 피부 자극 분류 없음. 소수 통보자(별도 블록)에서 H317(피부 민감화)/H334/H335를 보고하나 주 집계 분류가 아니므로 sens_cat은 'Not classified'로 기록. NaOH는 row 1452와 동일 소스. 혼합물 pH 값은 어떤 소스에도 없음."
+ },
+ {
+  "row": 1458,
+  "fid": "MIX801",
+  "product_name": "sodium hydroxide/SMS (5:3)",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/656671",
+  "source_type": "PubChem LCSS / ECHA C&L Inventory aggregated notifications (PUG-View REST)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Sodium hydroxide",
+    "cas": "1310-73-2",
+    "eye_cat": "1",
+    "skin_cat": "1",
+    "sens_cat": "Not classified",
+    "h_statements": "H290, H314 (H318)",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/14798/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Sodium metabisulfite (SMS)",
+    "cas": "7681-57-4",
+    "eye_cat": "1",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "H302, H318",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/656671/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "row 1453과 동일 성분계(NaOH:SMS 비율만 5:3으로 다름). 전용 상업 SDS 없음 → Tier 2 성분별 GHS 기록. NaOH가 row 1453(0.5:1)보다 상대적으로 많으므로 GHS 가산성/강염기 예외 판단 시 NaOH 농도가 결정적. 혼합물 pH 값 소스 없음."
+ },
+ {
+  "row": 1461,
+  "fid": "MIX804",
+  "product_name": "Sulfuric acid/ Sodium dodecyl sulfate",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "high",
+  "source_url": "https://www.chemblink.com/MSDSFiles/7664-93-9Sigma-Aldrich.pdf",
+  "source_type": "Sigma-Aldrich single-substance SDS PDF (sulfuric acid, Aldrich 339741, v5.14 2018-04-11) + PubChem LCSS/ECHA C&L (SDS surfactant)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Sodium dodecyl sulfate (SDS/SLS)",
+    "cas": "151-21-3",
+    "eye_cat": "1",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": "H228, H302, H315, H318, H319, H332, H335, H412",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/3423265/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Sulfuric acid",
+    "cas": "7664-93-9",
+    "eye_cat": "1",
+    "skin_cat": "1A",
+    "sens_cat": "Not classified",
+    "h_statements": "H290, H314 (Section 2.1: Met. Corr. 1, Skin Corr. 1A, Eye Dam. 1 / H318)",
+    "source_url": "https://www.chemblink.com/MSDSFiles/7664-93-9Sigma-Aldrich.pdf"
+   }
+  ],
+  "note_ko": "혼합물 전용 SDS 없음(연구용 배합) → Tier 2 성분별. 황산은 Sigma-Aldrich SDS 원문(PDF 텍스트 추출)에서 직접 확인: Danger, Skin Corr. 1A/H314, Eye Dam. 1/H318, Met. Corr. 1/H290. Section 9 pH = 1.2 (5 g/L 기준), Section 11 LD50 oral rat 2140 mg/kg, LC50 inh rat 510 mg/m3(2h), dermal LD50 no data — 이 값들은 성분(황산) 단독 SDS 기준이라 product_ghs에는 기록하지 않았으나 GHS 강산 예외규칙 적용용 pH 근거로 사용 가능. SDS(계면활성제)는 PubChem/ECHA 집계 2658 reports 기준 Danger, H318(52.3%)>H319(39.8%)로 눈 손상 1이 우세, H315(98.2%) → Skin Irrit. 2."
+ },
+ {
+  "row": 1465,
+  "fid": "MIX808",
+  "product_name": "Synprolam 35X2",
+  "tier": "none",
+  "resolution": "unresolved",
+  "confidence": "low",
+  "source_url": "https://www.chemicalbook.com/CASEN_70955-14-5.htm",
+  "source_type": "ChemicalBook substance record + EPA CompTox + ECHA chem API (identity only, no GHS)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": null,
+  "note_ko": "물질 동정은 성공(Amines, C13-15-alkyl, ethoxylated, CAS 70955-14-5, EC 615-220-8, DTXSID901022583; 동의어에 Synprolam 35X10/35X20 및 'N,N-bis(2-hydroxyethyl)alkyl(C13-C15)amine'=2EO 부가체 포함)하였으나 GHS 분류·독성값은 확보 실패. 이유: (1) Croda 전 도메인에 Synprolam 제품 없음(단산 중단 추정) → 제품 SDS 미존재, (2) ECHA에 CLP 통보는 존재하나 legacy C&L Inventory가 WAF 403으로 접근 불가(프록시 포함 전부 차단), (3) REACH는 사전등록만 있어 공개 독성 엔드포인트 없음, (4) PubChem SID 10건이나 GHS Classification 섹션 없음. ChemicalBook에서 얻은 것은 운송분류(UN 2735, Class 8, PG III)뿐이며 GHS 값이 아니므로 기록하지 않음. 참고: 입력 ingredient_names 필드가 'Access Dow's SDS database...' 라는 웹페이지 보일러플레이트로 오염되어 성분 대조 자체가 불가(ingredients_match=null). 향후 브라우저로 ECHA C&L Inventory에 70955-14-5 직접 조회 권장."
+ },
+ {
+  "row": 1466,
+  "fid": "MIX809",
+  "product_name": "Mixture of isomers: ethyl exo-tricyclo[5.2.1.0(2,6)]decane-endo-2-carboxylate; ethyl endo-tricyclo[5.2.1.0(2,6)]decane-exo-2-carboxylate",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/14833045",
+  "source_type": "PubChem LCSS / ECHA C&L Inventory aggregated notifications (PUG-View REST)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Ethyl tricyclo[5.2.1.0(2,6)]decane-2-carboxylate (exo/endo isomer mixture; = ethyl octahydro-3aH-4,7-methanoindene-3a-carboxylate)",
+    "cas": "129520-41-8",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": "H315, H319, H411",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/14833045/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "PubChem CID 14833045 = '4,7-Methano-3aH-indene-3a-carboxylic acid, octahydro-, ethyl ester', 동의어 'ethyl tricyclo[5.2.1.02,6]decane-2-carboxylate', CAS 129520-41-8, EC 808-308-4 로 제품명(exo/endo 이성질체 혼합물)과 동일 물질. ECHA C&L 통보 38 reports 기준 Warning, H315(100%)/H319(100%)/H411(100%) → Eye Irrit. 2A, Skin Irrit. 2, 민감화 분류 없음. 입력 ingredient_names가 null이어서 조성 대조 불가(ingredients_match=null). 주의: 이전 패스의 힌트(warning/H302, 로컬 하이라이트 PDF 근거)와 다름 — 본 결과는 실제로 조회한 PubChem/ECHA 통보 분류이며 H302(경구 급성독성)는 확인되지 않았음. 로컬 PDF 재확인 권장."
+ },
+ {
+  "row": 1470,
+  "fid": "MIX812",
+  "product_name": "Mixture of isomers: 1-(2-isopropylphenyl)-1-phenylethane (CAS# 191044-60-7); 1-(3-isopropylphenyl)-1-phenylethane (CAS# 191044-59-4); 1-(4-isopropylphenyl)-1-phenylethane (CAS# 2320-06-1)",
+  "tier": "none",
+  "resolution": "no_sds_exists",
+  "confidence": "medium",
+  "source_url": "https://www.chemicalbook.com/CASEN_2320-06-1.htm",
+  "source_type": "negative check: ChemicalBook safety-data section (TSCA listed only) + PubChem PUG-View (no GHS Classification heading) + EPA CompTox",
+  "ingredients_match": true,
+  "product_ghs": null,
+  "per_ingredient": null,
+  "note_ko": "3개 이성질체 모두 PubChem에 존재(CID 13765184/191044-60-7, 18506591/191044-59-4, 18506590/2320-06-1)하여 ingredient_names와 일치 확인. 그러나 PUG-View 'GHS Classification' 헤딩이 3개 CID 전부 PUGVIEW.NotFound(=ECHA C&L 통보 및 공급사 SDS 없음). ChemicalBook 3개 CAS 페이지의 Safety Data는 '[TSCA] TSCA listed'만 표시, ChemBlink 404, EPA CompTox(DTXSID70883827/00889094/40889093)에 hazard 데이터 없음, BLD Pharm/Sigma/TCI/LookChem 미등재 또는 접근불가. 미국 TSCA PMN 물질로만 등재된 상태로 공개 GHS 분류가 존재하지 않는 것으로 판단. 단, echa.europa.eu가 403으로 직접 확인은 불가(간접 근거)."
+ },
+ {
+  "row": 1471,
+  "fid": "MIX813",
+  "product_name": "Mixture of: 2-methyl-4-(2',2',3'-trimethyl-3'-cyclopenten-1'-yl)-4-penten-1-ol 56% (1'R,2R) & 40%(1'R,2S) isomer",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/6365609",
+  "source_type": "PubChem LCSS / ECHA C&L Inventory aggregated notifications (PUG-View REST), 5 CIDs",
+  "ingredients_match": false,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "2-Methyl-4-(2,2,3-trimethyl-3-cyclopenten-1-yl)-2-butenal",
+    "cas": "65114-01-4",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Not Classified (29/29 ECHA notifiers report not meeting GHS criteria)",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6365609/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "3-Butenal, 2-methyl-4-(2,6,6-trimethyl-2-cyclohexen-1-yl)-",
+    "cas": "58102-02-6",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": "H317 (12.2%), H411 (12.2%); 86.7% of 90 reports = Not Classified",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/93952/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "2-Butenal, 2-ethyl-4-(2,2,3-trimethyl-3-cyclopenten-1-yl)-",
+    "cas": "65114-02-5",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Not Classified (1/1 ECHA notifier reports not meeting GHS criteria)",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/103213/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "3-Methyl-4-(2,4,6-trimethyl-3-cyclohexen-1-yl)-3-buten-2-one",
+    "cas": "67801-29-0",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": "H315, H317, H319 (Warning); note: separate ECHA C&L block reports Not Classified for 89/89 reports",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6437269/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "3-Buten-2-one, 3-methyl-4-(3,5,6-trimethyl-3-cyclohexen-1-yl)-",
+    "cas": "67801-31-4",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": "H315, H317, H319 (Warning)",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6437271/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "5개 성분 전부 PubChem에서 CAS 확정 + GHS 조회 완료(Tier 2 성공). 3개는 Not Classified, 2개(67801-29-0, 67801-31-4)는 Warning H315/H317/H319, 1개(58102-02-6)는 소수 통보자만 H317/H411. ingredients_match=false 이유: 제품명은 알코올(2-methyl-4-(2,2,3-trimethyl-3-cyclopenten-1-yl)-4-penten-1-ol, PubChem 미등재)인데 ingredient_names는 알데히드/케톤(-al/-one) 계열 5종으로, 원료 추출 단계에서 향료 전구체/유사물질이 잘못 매핑된 것으로 보임 → 성분별 GHS는 ingredient_names 기준으로 기록했으므로 제품 GHS 대용으로 쓸 때 주의. 제품 SDS는 존재하지 않아 product_ghs=null, pH 데이터 없음. 참고: CID 6437269는 ECHA 집계(89/89 Not Classified)와 다른 소스의 H315/H317/H319 블록이 병존하여 보수적으로 후자를 기록함."
+ },
+ {
+  "row": 1472,
+  "fid": "MIX814",
+  "product_name": "Mixture of: 5-exo-decylbicyclo[2.2.1]hept-2-ene; 5-endo-decylbicyclo [2.2.1]hept-2-ene",
+  "tier": "none",
+  "resolution": "no_sds_exists",
+  "confidence": "medium",
+  "source_url": "https://www.chemicalbook.com/CASEN_22094-85-5.htm",
+  "source_type": "negative check: ChemicalBook safety-data section (TSCA listed only) + PubChem PUG-View (no GHS Classification heading) + BLD Pharm product page (GHS fields blank)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": null,
+  "note_ko": "PubChem CID 21584941 = 5-decylbicyclo[2.2.1]hept-2-ene, CAS 22094-85-5 로 제품명(exo/endo 이성질체 혼합물)과 일치. PUG-View 'GHS Classification' 헤딩 PUGVIEW.NotFound. ChemicalBook Safety Data는 '[TSCA] TSCA listed'만, BLD Pharm 제품페이지(https://www.bldpharm.com/products/22094-85-5.html)는 존재하나 GHS pictogram/signal word/H·P statements 필드가 전부 공란, ChemBlink 404, EPA CompTox DTXSID80885195에 hazard 데이터 없음, Ambeed/Chemenu/Alfa/LookChem 접근불가 또는 미등재. TSCA PMN 물질로만 등재되어 공개 GHS 분류가 존재하지 않음. 입력 ingredient_names가 null이어서 조성 대조 불가."
+ }
+]

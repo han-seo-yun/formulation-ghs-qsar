@@ -1,0 +1,39 @@
+{
+ "baseline": {
+  "eye": 0.791,
+  "skin": 0.6617,
+  "sens": 0.7942
+ },
+ "with_chain": {
+  "eye": 0.7911,
+  "skin": 0.6641,
+  "sens": 0.7958
+ },
+ "with_readacross": {
+  "eye": 0.7942,
+  "skin": 0.6708,
+  "sens": 0.7902
+ },
+ "with_both": {
+  "eye": 0.7863,
+  "skin": 0.6568,
+  "sens": 0.798
+ },
+ "conformal": {
+  "eye": {
+   "target_coverage": 0.9,
+   "empirical_coverage": 0.9357,
+   "avg_pred_set_size": 1.6985
+  },
+  "skin": {
+   "target_coverage": 0.9,
+   "empirical_coverage": 0.8869,
+   "avg_pred_set_size": 1.5028
+  },
+  "sens": {
+   "target_coverage": 0.9,
+   "empirical_coverage": 0.7092,
+   "avg_pred_set_size": 1.0
+  }
+ }
+}

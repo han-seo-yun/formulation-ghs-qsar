@@ -1,0 +1,56 @@
+{
+  "source_id": "b27c2e58bdcd60b5",
+  "file_path": "ingredient_source_audit/highlighted/b27c2e58bdcd60b5_highlighted.pdf",
+  "page_count": 5,
+  "full_text_length": 9289,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product name",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION\n \nProduct name\n:\nMusk Fragrance Oil\n \nCountry of Origin\n:\nUSA\n \nProduct use\n:\nFragrance\n \nSupplier\n:\nNew Directions Aromatics Inc.\n \nAddress\n:\n6781 Columbus Road, Mississauga, Ontario, CANADA L5T 2G9\n \nFax\n:\n905-362-1926\n \nTelephone number\n:\n905-362-1915\n \nEmergenc"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H317",
+      "H319"
+    ],
+    "p_codes": [
+      "P201",
+      "P202",
+      "P264",
+      "P272",
+      "P273",
+      "P280",
+      "P302",
+      "P352",
+      "P305",
+      "P351",
+      "P338",
+      "P332",
+      "P313",
+      "P333",
+      "P391",
+      "P405",
+      "P501"
+    ],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION\n \nEmergency Overview\n \nGHS Classification\n \nSkin Sensitization - Category 1\n \nSerious Eye Damage/Eye Irritation - Category 2A\n \nGHS Label elements, including precautionary statements\n \n \n \nSignal: Warning\n \nHazard statement(s)\n \nH317\nMay cause an allergic skin reaction.\n \nH"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

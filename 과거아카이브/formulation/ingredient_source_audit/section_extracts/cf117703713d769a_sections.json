@@ -1,0 +1,35 @@
+{
+  "source_id": "cf117703713d769a",
+  "file_path": "ingredient_source_audit/highlighted/cf117703713d769a_highlighted.pdf",
+  "page_count": 10,
+  "full_text_length": 19358,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product name",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "Section 1 – Chemical Product and Company Identification \nProduct name \nSynonyms name \nChemical Class \nRecommended Use \nCompany details \nImporter \n \nEPA Reg. No. \nEmergency phone \nTide Acephate 90WDG  \nNone \nOrganophosphate chemical\nInsecticide \n \nTide International USA, Inc. \n21 Hubble, Irvine, CA 9"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "Section 2 – Hazard(s) Identification \nClassified as Hazardous according to criteria of the Hazard Communication Standard (HCS) \nor 29 CFR §1910.1200 (2012).  \nClassification of the substance or mixture:  \nAcute oral (Category 4) \nAcute Inhalation (Category 4) \nSkin sensitization (Category 1B) \nAcute"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

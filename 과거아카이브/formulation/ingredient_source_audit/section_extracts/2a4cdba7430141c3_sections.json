@@ -1,0 +1,35 @@
+{
+  "source_id": "2a4cdba7430141c3",
+  "file_path": "ingredient_source_audit/highlighted/2a4cdba7430141c3_highlighted.pdf",
+  "page_count": 5,
+  "full_text_length": 13124,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Manufactured in China by:   ROTAM AGROCHEMICAL CO., LTD",
+    "formulation_code": "SP",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": true,
+    "text_excerpt": "Section 1. Chemical Product and Company Identification \nManufactured in China by:   ROTAM AGROCHEMICAL CO., LTD \n7/F. Cheung Tat Centre \nNo. 18, Cheung Lee Street \nChaiWan, Hong Kong \n \nDistributed in the US by:   \nROTAM NORTH AMERICA, INC \n1400 NW 107TH Avenue \nSuite 310 \nMiami, FL  33172 \nPhone:  "
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "Section 2. "
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

@@ -1,0 +1,87 @@
+[
+  {
+    "row": 1434,
+    "product_name": "boron trifluoride-acetic acid complex",
+    "ingredient_names": " | Acetic acid boron trifluoride (2:1)",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1435,
+    "product_name": "butylamine (in ethanol/ethylene glycol;1:1)",
+    "ingredient_names": "Ethylene glycol monobutyl ether | Butylamine",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1436,
+    "product_name": "Dequest 2000",
+    "ingredient_names": " | Aminotrimethylene phosphonic acid",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/36ff79d191557483_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "sds_grade_status_eye": "verdict_only",
+    "sds_grade_status_skin": "verdict_only",
+    "sds_grade_status_sens": "not_stated"
+  },
+  {
+    "row": 1437,
+    "product_name": "Capric/caprylic acid",
+    "ingredient_names": " | Octanoic acid | Decanoic acid",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/77338485e21f3c6e_highlighted.pdf",
+    "tox_signal_word": "danger",
+    "tox_h_statements": "H314 ;; H318",
+    "cat_eye_ghs": "1",
+    "cat_skin_ghs": "1",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "negative"
+  },
+  {
+    "row": 1438,
+    "product_name": "Dowanol PNB",
+    "ingredient_names": "DOWANOL(TM) PNB",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1439,
+    "product_name": "Cellosolve + TX100",
+    "ingredient_names": " | 2-Ethoxyethanol | Triton X 100",
+    "tox_source_url": "https://www.chemblink.com/MSDSFiles/1310-73-2Sigma-Aldrich.pdf | https://www.chemblink.com/MSDSFiles/7664-93-9Sigma-Aldrich.pdf",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/ordered_option_runs/highlighted_sources/G011_1310-73-2_ChemBlink_Sigma_highlighted.pdf",
+    "tox_signal_word": "danger",
+    "tox_h_statements": "H290 ;; H314 ;; H318 ;; H402",
+    "cat_eye_ghs": "1",
+    "cat_skin_ghs": "1",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "negative"
+  },
+  {
+    "row": 1440,
+    "product_name": "Duoquad T50",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1441,
+    "product_name": "Empicol LZPV/C",
+    "ingredient_names": " | Sodium dodecyl sulfate",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/abc20d2886087de7_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "tox_h_statements": "H319 ;; H315",
+    "cat_eye_ghs": "2A",
+    "cat_skin_ghs": "2",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "not_stated"
+  }
+]

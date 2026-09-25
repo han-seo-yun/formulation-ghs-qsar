@@ -1,0 +1,369 @@
+[
+ {
+  "row": 1615,
+  "fid": "MIX943",
+  "product_name": "Almond oil sweet",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://ultrainternational.com/wp-content/uploads/2023/08/SDS-ALMOND-SWEET-OIL.pdf",
+  "source_type": "supplier_product_SDS_GHS (Ultra International Ltd, ver GHS/SDS/04, 2023-05-01)",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": "None (\"No Signal Word\")",
+   "h_statements": [],
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "Not classified",
+   "ld50_oral": null,
+   "ld50_dermal": null,
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": null,
+  "note_ko": "Ultra International 제품 SDS 확보. Section2 'Not classified', 신호어 없음, H코드 없음. Section3 = Prunus amygdalus dulcis (sweet almond) oil 단일물질 CAS 8007-69-0 / EINECS 291-063-5 (제품명 일치). Section11 경구·경피·흡입 모두 'No Data Available', Section9 pH 'Not Determined'(→null). 입력에 ingredient_names가 없어 ingredients_match는 null 처리(단, SDS Section3은 제품명과 일치)."
+ },
+ {
+  "row": 1616,
+  "fid": "MIX944",
+  "product_name": "Perilla oil",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://s3-eu-west-1.amazonaws.com/oand3.co.uk/wp-content/uploads/2018/02/msds-perilla-seed-oil-cold-pressed-organic.pdf",
+  "source_type": "supplier_product_SDS (O&3 Ltd, EU 1907/2006 형식)",
+  "ingredients_match": true,
+  "product_ghs": {
+   "signal_word": "None",
+   "h_statements": [],
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "Not classified",
+   "ld50_oral": null,
+   "ld50_dermal": null,
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": null,
+  "note_ko": "hint_tox_url이 실제로 살아있어 curl+pdftotext로 직접 파싱(이전 pass는 PDF 바이너리 파싱 실패). Section1 PERILLA SEED OIL, CAS 90082-61-4 / EC 290-151-0, INCI Perilla ocymoides seed → ingredient_names 'Perilla Seed Oil'과 일치. Section2: EU 1272/2008 기준 위험물 아님, GHS Label/Signal Word/Hazard Statement 모두 'None'. Section11 피부·눈·감작 모두 'Not Applicable'. Section9에 pH 항목 자체가 없음(→null)."
+ },
+ {
+  "row": 1626,
+  "fid": "MIX953",
+  "product_name": "Boldo leaf oil",
+  "tier": "product",
+  "resolution": "no_sds_exists",
+  "confidence": "medium",
+  "source_url": "https://www.thegoodscentscompany.com/data/es1012581.html",
+  "source_type": "TGSC material record (GHS aggregation + RTECS/Food Chem Toxicol LD50 인용)",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": null,
+   "h_statements": null,
+   "eye_cat": null,
+   "skin_cat": null,
+   "sens_cat": null,
+   "ld50_oral": "130 mg/kg (oral, rat) [Food and Chemical Toxicology Vol.20 p.643, 1982]",
+   "ld50_dermal": "625 mg/kg (skin, rabbit) [Food and Chemical Toxicology Vol.20 p.643, 1982]",
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": null,
+  "note_ko": "TGSC 'boldo leaf oil (peumus boldus mol.)' 레코드(CAS 8022-81-9) 확보. GHS 분류/신호어/H코드는 'None found'(미확립). Suppliers = 'None found' 이고 IFRA는 향료 사용 PROHIBITED이라 상업적 제품 SDS가 사실상 존재하지 않음 → no_sds_exists. 다만 경구 LD50 130 mg/kg(rat), 경피 LD50 625 mg/kg(rabbit)은 출처와 함께 확보(ascaridole 함유로 독성 높음). pH 정보 없음."
+ },
+ {
+  "row": 1629,
+  "fid": "MIX956",
+  "product_name": "Bois de rose oil Brazilian",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.thegoodscentscompany.com/data/es1002051.html",
+  "source_type": "TGSC material record (OSHA HCS GHS block, 공급업체 SDS 집계)",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": "Warning",
+   "h_statements": [
+    "H302"
+   ],
+   "eye_cat": null,
+   "skin_cat": null,
+   "sens_cat": null,
+   "ld50_oral": null,
+   "ld50_dermal": null,
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": [
+   {
+    "name": "Bois de rose / Rosewood oil (Aniba rosaeodora)",
+    "cas": "8015-77-8",
+    "eye_cat": "2",
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": [
+     "H315",
+     "H317",
+     "H319",
+     "H412"
+    ],
+    "source_url": "https://www.chemblink.com/en/products/8015-77-8.htm"
+   }
+  ],
+  "note_ko": "이전 pass의 구형 MSDS 대신, TGSC 'bois de rose oil brazil'(제품명 정확 일치) 레코드에서 OSHA HCS GHS 블록 확보: Acute Tox. Oral Cat.4 / 신호어 Warning / H302. 경구·경피·흡입 LD50은 'Not determined'. 눈·피부·감작 카테고리는 TGSC GHS 블록에 없으므로 product_ghs에서는 null로 두고, ECHA C&L 신고분류(chemBlink 경유, CAS 8015-77-8: Skin Irrit.2 H315 / Eye Irrit.2 H319 / Skin Sens.1 H317 / Aquatic Chronic 3 H412)를 per_ingredient에 별도 출처로 기록. pH 정보 없음."
+ },
+ {
+  "row": 1631,
+  "fid": "MIX958",
+  "product_name": "Deertongue incolore",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.thegoodscentscompany.com/data/ab1018501.html",
+  "source_type": "TGSC material record (GHS aggregation + RTECS LD50)",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": null,
+   "h_statements": null,
+   "eye_cat": null,
+   "skin_cat": null,
+   "sens_cat": null,
+   "ld50_oral": ">5000 mg/kg (oral, rat)",
+   "ld50_dermal": ">5000 mg/kg (skin, rabbit)",
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": null,
+  "note_ko": "'incolore'(=탈색)는 Firmenich 'LIATRIX ABS DECOL'/Robertet 'Liatrix absolute' 계열의 탈색 deertongue absolute를 의미 → TGSC 'deertongue absolute'(Liatris odoratissima, CAS 68606-82-6, oil 표기 CAS 8024-14-4 = hint의 labnovo CAS와 동일) 레코드로 매칭. GHS 분류/신호어/H코드는 'None found'(미확립)으로 이전 pass와 동일 결론. 경구 LD50 >5000 mg/kg(rat), 경피 LD50 >5000 mg/kg(rabbit) 확보. IFRA 사유: coumarin(최대 25%)·dihydrocoumarin에 의한 감작. pH 정보 없음."
+ },
+ {
+  "row": 1639,
+  "fid": "MIX965",
+  "product_name": "Copaiba oil",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://www.aurochemicals.com/wp-content/uploads/2019/05/COPAIBA-OIL-Natural-SDS.pdf",
+  "source_type": "supplier_product_SDS_GHS (Aurochemicals, 29 CFR 1910 OSHA HCS, 2022-08-09)",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": "None",
+   "h_statements": [],
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "Not classified",
+   "ld50_oral": null,
+   "ld50_dermal": null,
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": null,
+  "note_ko": "hint_newlink(Aurochemicals SDS)를 curl+pdftotext로 직접 파싱. 이전 pass가 'Section11 분류정보 없음'이라 실패 처리했으나, Section2에 GHS 판정이 명시되어 있음: 'Not a hazardous substance or mixture', Pictogram/Signal Statement/Hazard Statement 모두 'None' → 눈·피부·감작 Not classified. Section3 = Copaiba Oil 단일물질 CAS 8013-97-6, 유해성분 없음. Section11 LD50-Oral / LD50-Dermal / LC50-Inhalation 모두 'No data available'. Section9 pH 'No data available'(→null)."
+ },
+ {
+  "row": 1641,
+  "fid": "MIX967",
+  "product_name": "Guaiac wood oil",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://ultrainternational.com/wp-content/uploads/2023/08/SDS-GUAIACWOOD-OIL.pdf",
+  "source_type": "supplier_product_SDS_GHS (Ultra International Ltd, ver GHS/SDS/04, 2023-05-01); 교차검증 Vigon https://www.vigon.com/docs/SDS/500490sds.pdf",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": "Warning",
+   "h_statements": [
+    "H315",
+    "H317",
+    "H401",
+    "H411"
+   ],
+   "eye_cat": "Not classified",
+   "skin_cat": "2",
+   "sens_cat": "1",
+   "ld50_oral": ">5000 mg/kg",
+   "ld50_dermal": ">5000 mg/kg",
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": [
+   {
+    "name": "alpha-Guaiene",
+    "cas": "3691-12-1",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": null,
+    "h_statements": [
+     "H315",
+     "H319"
+    ],
+    "source_url": "https://ultrainternational.com/wp-content/uploads/2023/08/SDS-GUAIACWOOD-OIL.pdf"
+   },
+   {
+    "name": "beta-Caryophyllene",
+    "cas": "87-44-5",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": "1B",
+    "h_statements": [
+     "H317"
+    ],
+    "source_url": "https://ultrainternational.com/wp-content/uploads/2023/08/SDS-GUAIACWOOD-OIL.pdf"
+   }
+  ],
+  "note_ko": "이전 pass의 구형 SDS(essentialoil.in) 대신 Ultra International의 GHS 완비 SDS 확보. 신호어 Warning, Skin Irrit.2 H315 / Skin Sens.1 H317 / Aquatic Acute 2 H401 / Aquatic Chronic 2 H411, 눈 자극성은 분류 안 됨. Section11 경구 LD50 >5000 mg/kg, 경피 >5000 mg/kg, 흡입 No Data. Section9 pH 'Not Determined'(→null). Vigon SDS(500490)로 교차검증 완료(Warning / Skin Irrit.2 / Skin Sens.1 동일, 수생 분류만 Aquatic 1 H400/H410으로 더 엄격). Section3의 분류 유발 성분(alpha-guaiene, beta-caryophyllene)은 per_ingredient에 기록."
+ },
+ {
+  "row": 1648,
+  "fid": "MIX973",
+  "product_name": "Pennyroyal oil Eurafrican",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.vigon.com/docs/SDS/500309sds.pdf",
+  "source_type": "supplier_product_SDS_GHS (Vigon International, item 500309, rev 2020-11-19)",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": "Warning",
+   "h_statements": [
+    "H227",
+    "H302",
+    "H317",
+    "H412"
+   ],
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "1",
+   "ld50_oral": null,
+   "ld50_dermal": null,
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": [
+   {
+    "name": "Pennyroyal oil (Mentha pulegium)",
+    "cas": "8013-99-8",
+    "eye_cat": null,
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": [
+     "H302",
+     "H312",
+     "H315",
+     "H317",
+     "H411",
+     "H412"
+    ],
+    "source_url": "https://www.chemblink.com/en/products/8013-99-8.htm"
+   }
+  ],
+  "note_ko": "Vigon Pennyroyal Oil(FEMA 2839) 제품 SDS 확보 - 이전 pass의 '전부 없음/미확정'을 대체. Section2: Physical hazards Flam.Liq.4 / Health hazards 'Not classified' 이지만 라벨요소에 신호어 Warning + H227·H302·H317·H412 명시(SDS 내부 불일치, 라벨요소를 채택). H315/H319 없음 → 피부·눈 Not classified, H317 → Skin Sens.1. Section3 = PENNYROYAL OIL 100%. Section9 pH 'Not available', Section11에 수치 LD50/LC50 없음. 'Eurafrican' 산지 표기와 정확히 일치하는 SDS는 여전히 없어 confidence=medium. 보조로 ECHA C&L 신고분류(EC 616-943-1: Acute Tox.4 H302/H312, Skin Irrit.2 H315, Skin Sens.1 H317, Aquatic Chronic 2)를 per_ingredient에 기록."
+ },
+ {
+  "row": 1649,
+  "fid": "MIX974",
+  "product_name": "Olibanum gum",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.vigon.com/docs/SDS/504309sds.pdf",
+  "source_type": "supplier_product_SDS_GHS (Vigon International, OLIBANUM RESINOID, item 504309)",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": "None",
+   "h_statements": [],
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "Not classified",
+   "ld50_oral": null,
+   "ld50_dermal": null,
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": [
+   {
+    "name": "Cymene para",
+    "cas": "99-87-6",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": null,
+    "h_statements": null,
+    "source_url": "https://www.vigon.com/docs/SDS/504309sds.pdf"
+   },
+   {
+    "name": "Pinene alpha",
+    "cas": "80-56-8",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": null,
+    "h_statements": null,
+    "source_url": "https://www.vigon.com/docs/SDS/504309sds.pdf"
+   },
+   {
+    "name": "Camphor",
+    "cas": "76-22-2",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": null,
+    "h_statements": null,
+    "source_url": "https://www.vigon.com/docs/SDS/504309sds.pdf"
+   },
+   {
+    "name": "Carvacrol",
+    "cas": "499-75-2",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": null,
+    "h_statements": null,
+    "source_url": "https://www.vigon.com/docs/SDS/504309sds.pdf"
+   },
+   {
+    "name": "Dipentene (d,l-limonene)",
+    "cas": "138-86-3",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": null,
+    "h_statements": null,
+    "source_url": "https://www.vigon.com/docs/SDS/504309sds.pdf"
+   }
+  ],
+  "note_ko": "제품명 'gum'에 가장 가까운 형태인 Vigon OLIBANUM RESINOID SDS 확보(CAS 8016-36-2 100%, Section9 physical state=Solid → 검/수지 형태 일치). Section2: 물리·건강·환경 위해성 모두 'Not classified', 신호어 'None', 'The substance does not meet the criteria for classification' → 이전 pass 결론과 동일하나 이제 1차 출처 확보. Section9 pH 'Not available'. Section11 acute toxicity 'Not known'(제품 LD50 없음; 개별 구성성분 LD50만 존재). 주의: 동일 CAS의 휘발성 정유(Ultra FRANKINCENSE OIL, https://ultrainternational.com/wp-content/uploads/2023/08/SDS-FRANKINCENSE-OIL.pdf)는 Danger / H226·H302·H304·H315·H317·H361·H410 으로 크게 다름 → 검(gum)/레지노이드 vs 정유 형태 구분이 중요. per_ingredient는 Section3 구성성분 목록(농도 1~7.5%)만 기록(개별 GHS 카테고리는 해당 SDS에 미기재)."
+ },
+ {
+  "row": 1651,
+  "fid": "MIX976",
+  "product_name": "1,3-nonanediol acetate (mixed esters)",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://www.vigon.com/docs/SDS/500449sds.pdf",
+  "source_type": "supplier_product_SDS_GHS (Vigon International 'Jasmonyl', item 500449, GHS US)",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": "None",
+   "h_statements": [
+    "H402",
+    "H412"
+   ],
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "Not classified",
+   "ld50_oral": "Not classified (기준 미충족)",
+   "ld50_dermal": "Not classified (기준 미충족)",
+   "lc50_inh": "Not classified (기준 미충족)",
+   "ph": null
+  },
+  "per_ingredient": [
+   {
+    "name": "1,3-Nonanediol acetate / 3-hydroxynonyl acetate",
+    "cas": "1322-17-4",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/234237/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "Vigon 'Jasmonyl' 제품 SDS 확보 - Section1 chemical name = 'Reaction mass of nonane-1,3-diyl diacetate and tetrahydro-3-pentyl-2H-pyran-4-yl acetate' (CAS 18871-14-2 / 63270-14-4, EC Index 607-130-00-2)로 제품명의 'mixed esters'와 정확히 부합. GHS US 분류는 Aquatic Acute 3 H402 + Aquatic Chronic 3 H412 뿐이며 라벨요소에 신호어 항목 자체가 없음(H402/H412는 신호어 없음). Section11 경구·경피·흡입 급성독성, 피부부식/자극, 심한눈손상/자극, 호흡기·피부감작 모두 'Not classified (Based on available data, the classification criteria are not met)'. Section9 pH 'No data available'. 이전 pass가 쓴 CAS 1322-17-4(EC 215-332-3)에 대해서도 PubChem PUG-View(CID 234237) ECHA C&L 집계에서 3/3 보고 모두 'Not Classified'로 확인 → 두 경로 모두 건강유해성 미분류로 일치."
+ }
+]

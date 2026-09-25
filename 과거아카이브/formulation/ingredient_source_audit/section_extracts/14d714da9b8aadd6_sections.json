@@ -1,0 +1,61 @@
+{
+  "source_id": "14d714da9b8aadd6",
+  "file_path": "ingredient_source_audit/highlighted/14d714da9b8aadd6_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 25572,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Sipcam Pacific Australia Pty. Ltd.",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "Section 1 - Identification of The Material and Supplier \n \nSipcam Pacific Australia Pty. Ltd.\nA.B.N. 94 073 176 888\nLevel 1\n191 Malop Street\nGeelong, Victoria, 3220\nPhone: (03)5223 3746 (business hours)\n \nTrade Name:  \nPanida Grande Herbicide \nAPVMA Code:  \n59630 \nChemical nature:  \nPendimethalin is"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H227",
+      "H302",
+      "H315",
+      "H317",
+      "H320",
+      "H335",
+      "H410"
+    ],
+    "p_codes": [
+      "P102",
+      "P210",
+      "P262",
+      "P264",
+      "P270",
+      "P273",
+      "P280",
+      "P362",
+      "P301",
+      "P312",
+      "P330",
+      "P331",
+      "P302",
+      "P352",
+      "P303",
+      "P361",
+      "P353"
+    ],
+    "ghs_classes": [],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 3,
+    "text_excerpt": "Section 2 - Hazards Identification \nStatement of Hazardous Nature  \nThis product is classified as: Xn, Harmful. Xi, Irritating. N, Dangerous to the environment. Hazardous according to \nthe criteria of SWA.  \nNot a Dangerous Good according to Australian Dangerous Goods (ADG) Code, IATA or IMDG/IMSBC "
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

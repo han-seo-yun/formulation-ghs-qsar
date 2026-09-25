@@ -1,0 +1,51 @@
+{
+  "source_id": "504b70f24956ee09",
+  "file_path": "ingredient_source_audit/highlighted/504b70f24956ee09_highlighted.pdf",
+  "page_count": 13,
+  "full_text_length": 27581,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "· Product identifier",
+    "formulation_code": null,
+    "epa_reg_number": "33906-26",
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": "EPA",
+    "active_ingredient_declared": true,
+    "text_excerpt": "1 Identification\n· Product identifier\n· Trade name: Quintec® Fungicide\nEPA Registration No.: 33906-26-10163\n· CAS Number: Active Ingredient: Quinoxyfen (22.58%), CAS:124495-18-7\n· Application of the substance / the mixture Agricultural Fungicide\n· Details of the supplier of the safety data sheet\n· M"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H400",
+      "H317"
+    ],
+    "p_codes": [
+      "P261",
+      "P272",
+      "P280",
+      "P302",
+      "P352",
+      "P333",
+      "P313",
+      "P363",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Aquatic Acute 1",
+      "Skin Sens. 1"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "2 Hazard(s) identification\n· Classification of the substance or mixture\n\n\n\nGHS09 Environment\nAquatic Acute 1 H400 Very toxic to aquatic life.\n\n\n\nGHS07\nSkin Sens. 1\nH317 May cause an allergic skin reaction.\n· Label elements\n· GHS label elements\nThe product is classified and labeled according to"
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

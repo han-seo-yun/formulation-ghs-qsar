@@ -1,0 +1,24 @@
+{
+  "source_id": "c83c603be5fc935c",
+  "file_path": "ingredient_source_audit/highlighted/c83c603be5fc935c_highlighted.pdf",
+  "page_count": 9,
+  "full_text_length": 16786,
+  "sections_found": [
+    "section_3",
+    "section_2",
+    "section_14",
+    "section_15"
+  ],
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION\nWarning\nClassifications:\nSignal Word (OSHA):\nMay cause an allergic skin reaction\nHazard Statements:\nSkin Sensitizer:  Category 1B\nNone\nOther Hazard Statements:\nPrecautionary Statements:\nAvoid breathing mist, vapors, spray.\nContaminated work clothing must not be allowed out "
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

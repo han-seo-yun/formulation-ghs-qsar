@@ -1,0 +1,74 @@
+{
+  "source_id": "1f0b0a5e2dd8c0a0",
+  "file_path": "ingredient_source_audit/highlighted/1f0b0a5e2dd8c0a0_highlighted.pdf",
+  "page_count": 15,
+  "full_text_length": 30180,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product identifier used on the label",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. Identification \nProduct identifier used on the label \n \nSegment II \n \nRecommended use of the chemical and restriction on use \n \nRecommended use*: , crop protection product,, herbicide \n \n* The “Recommended use” identified for this product is provided solely to comply with a Federal requirement an"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H227",
+      "H319",
+      "H315",
+      "H332",
+      "H304",
+      "H336",
+      "H335",
+      "H351",
+      "H401",
+      "H411"
+    ],
+    "p_codes": [
+      "P280",
+      "P271",
+      "P201",
+      "P273",
+      "P260",
+      "P210",
+      "P202",
+      "P264",
+      "P312",
+      "P305",
+      "P351",
+      "P338",
+      "P304",
+      "P340",
+      "P301",
+      "P310",
+      "P308",
+      "P313"
+    ],
+    "ghs_classes": [
+      "Flam. Liq. \n4",
+      "Acute Tox. \n4",
+      "Skin corrosion",
+      "Carc. \n2",
+      "Carcinogenicity",
+      "STOT SE \n3",
+      "Aquatic Chronic \n2",
+      "Aquatic Acute \n2"
+    ],
+    "environmental_hazard": "aquatic_chronic",
+    "hazard_level_score": 5,
+    "text_excerpt": "2. Hazards Identification \nAccording to Regulation 2012 OSHA Hazard Communication Standard; 29 CFR Part 1910.1200 \n \nClassification of the product \n \nAsp. Tox. \n1  \nAspiration hazard \nFlam. Liq. \n4  \nFlammable liquids \nAcute Tox. \n4  (Inhalation - mist) \nAcute toxicity \n \nSafety Data Sheet   \nSegmen"
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

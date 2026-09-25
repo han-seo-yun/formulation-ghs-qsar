@@ -1,0 +1,348 @@
+[
+ {
+  "row": 1289,
+  "fid": "MIX620",
+  "product_name": "Abamectin A2a",
+  "tier": "ingredient",
+  "resolution": "unresolved",
+  "confidence": "low",
+  "source_url": "https://www.chemblink.com/products/65195-53-1.htm",
+  "source_type": "chemBlink substance record (CAS/identity 확인용) + PubChem CID 11953987 (Safety and Hazards 섹션 자체가 없음)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Avermectin A2a",
+    "cas": "65195-53-1",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": null,
+    "h_statements": null,
+    "source_url": "https://www.chemblink.com/products/65195-53-1.htm"
+   }
+  ],
+  "note_ko": "Avermectin A2a(CAS 65195-53-1, = (23S)-22,23-dihydro-23-hydroxyavermectin A1a)의 정체는 chemBlink으로 확인했으나, PubChem CID 11953987에는 Safety and Hazards 섹션이 아예 없고 chemBlink에도 공급사/SDS가 0건이어서 GHS 분류값을 얻지 못함. 상업용 Abamectin(B1a/B1b) SDS는 성분 불일치라 대체 불가."
+ },
+ {
+  "row": 1296,
+  "fid": "MIX627",
+  "product_name": "Dinotefuron",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/197701/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS / PUG-View REST (ECHA CLP Annex VI harmonised classification + ECHA C&L Inventory notification summary)",
+  "ingredients_match": true,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Dinotefuran",
+    "cas": "165252-70-0",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H302 (85.3%)",
+     "H400 (64.7%)",
+     "H410 (65.2%)"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/197701/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "제품명 'Dinotefuron'은 활성성분 Dinotefuran(CAS 165252-70-0)의 표기 오류로 판단되어 단일물질 GHS로 대체. ECHA C&L 통보 다수의견은 H302(85.3%)/H400/H410이며 eye·skin·sens는 분류 없음. H317은 소수 통보자(1개사)에만 있어 채택하지 않음. 제품 SDS는 존재하지 않는 연구용 단일물질로 판단."
+ },
+ {
+  "row": 1302,
+  "fid": "MIX632",
+  "product_name": "Flufenpyr-Ethyl-S-3153 WDG/Atrazine Premix",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/2256/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS / PUG-View REST (ECHA CLP Annex VI harmonised classification + ECHA C&L Inventory notification summary) + Hayashi Pure Chemical 단일물질 SDS(Flufenpyr-ethyl)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Flufenpyr-ethyl",
+    "cas": "188489-07-8",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": null,
+    "h_statements": null,
+    "source_url": "https://direct.hpc-j.co.jp/sds/eng/T3-14_EN.pdf"
+   },
+   {
+    "name": "Atrazine",
+    "cas": "1912-24-9",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": [
+     "H317",
+     "H373",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/2256/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "비상용 실험용 프리믹스로 제품 SDS 자체가 존재하지 않음(힌트 URL은 무관한 Bayer Method 240SL 문서). Atrazine은 EU CLP 조화분류(H317/H373/H400/H410, sens Cat 1) 확보. Flufenpyr-ethyl은 시약 SDS 전 항목이 '분류불가'라 값 없음(null)."
+ },
+ {
+  "row": 1305,
+  "fid": "MIX635",
+  "product_name": "Flufenpyr-Ethyl-S-3153 Acid-4-OH",
+  "tier": "ingredient",
+  "resolution": "unresolved",
+  "confidence": "low",
+  "source_url": "https://direct.hpc-j.co.jp/sds/eng/T3-14_EN.pdf",
+  "source_type": "Hayashi Pure Chemical Ind. 시약 SDS (T3-14, rev. 2025-04-11) — Section 3에서 Flufenpyr-ethyl 95~100% 확인",
+  "ingredients_match": true,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Flufenpyr-ethyl",
+    "cas": "188489-07-8",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": null,
+    "h_statements": null,
+    "source_url": "https://direct.hpc-j.co.jp/sds/eng/T3-14_EN.pdf"
+   }
+  ],
+  "note_ko": "모화합물 Flufenpyr-ethyl(CAS 188489-07-8) 시약 SDS를 직접 다운로드·본문 추출해 확인했으나 Section 2/11의 모든 건강 유해성 항목이 'classification not possible', Section 9 pH는 'No data available'이어서 기록할 GHS 값이 없음. Acid-4-OH 대사체 전용 SDS는 존재하지 않음."
+ },
+ {
+  "row": 1306,
+  "fid": "MIX636",
+  "product_name": "GA 6-Weed to Grass Killer Ready-to-Use",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/53597/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS / PUG-View REST (ECHA CLP Annex VI harmonised classification + ECHA C&L Inventory notification summary)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Glufosinate-ammonium",
+    "cas": "77182-82-2",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H302",
+     "H312",
+     "H332",
+     "H360Fd",
+     "H373"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/53597/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "2002년 EPA 등록취소(432-1206)로 단종되어 제품 SDS 확보 불가. 활성성분 Glufosinate-ammonium의 EU CLP 조화분류(Danger, H302/H312/H332/H360Fd/H373) 확보. eye·skin·sens 모두 분류 없음. 제품은 0.6% 희석 RTU이므로 GHS 농도 임계치 기준으로는 대부분 미분류 예상."
+ },
+ {
+  "row": 1316,
+  "fid": "MIX645",
+  "product_name": "Metarex 4% Snail to Slug Bait",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/61021/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS / PUG-View REST (ECHA CLP Annex VI harmonised classification + ECHA C&L Inventory notification summary)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Metaldehyde",
+    "cas": "108-62-3",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H228",
+     "H301",
+     "H361f",
+     "H412"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/61021/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "로컬 힌트 PDF(9e4e42c3ac50daf5)가 디스크에 존재하지 않고 제조사(Nufarm/De Sangosse) 사이트는 Cloudflare 차단으로 제품 SDS 확보 실패. 활성성분 Metaldehyde EU CLP 조화분류(Danger, H228/H301/H361f/H412) 확보, eye·skin·sens 모두 분류 없음."
+ },
+ {
+  "row": 1320,
+  "fid": "MIX649",
+  "product_name": "Optiguard Liquid Ant Bait",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/5821911/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS / PUG-View REST (ECHA CLP Annex VI harmonised classification + ECHA C&L Inventory notification summary)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Thiamethoxam",
+    "cas": "153719-23-4",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H302",
+     "H361fd",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/5821911/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "Syngenta 제품 경로(syngentaornamentals.com/products/optiguard-liquid-ant-bait)는 실재하나 Cloudflare 403, syngenta-us.com 라벨검색과 syngentapmp.com은 JS/로그인 기반이어서 제품 SDS 확보 실패. 활성성분 Thiamethoxam EU CLP 조화분류(Warning, H302/H361fd/H400/H410) 확보. 제품은 당액 미끼(수용액)로 pH 정보 필요."
+ },
+ {
+  "row": 1324,
+  "fid": "MIX652",
+  "product_name": "Prequel Herbicide",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/91779/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS / PUG-View REST (ECHA CLP Annex VI harmonised classification + ECHA C&L Inventory notification summary)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Rimsulfuron",
+    "cas": "122931-48-0",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H317 (14.2%)",
+     "H319 (44.2%)",
+     "H400 (52.2%)",
+     "H410 (53.1%)"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/91779/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Isoxaflutole",
+    "cas": "141112-29-0",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H361d",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/84098/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "Corteva 제품 페이지는 404, CDMS/Greenbook은 JS 전용이라 제품 SDS 확보 실패. Rimsulfuron은 CLP 조화분류가 없어 ECHA C&L 통보 기반(H319 44.2% → eye 2A, H317 14.2%는 소수라 미채택)이므로 신뢰도 medium. Isoxaflutole은 조화분류(H361d/H400/H410)로 eye·skin·sens 모두 분류 없음."
+ },
+ {
+  "row": 1328,
+  "fid": "MIX656",
+  "product_name": "Sargeant's Spot-On for Cats",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/3352/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS / PUG-View REST (ECHA CLP Annex VI harmonised classification + ECHA C&L Inventory notification summary)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Fipronil",
+    "cas": "120068-37-3",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H301",
+     "H311",
+     "H331",
+     "H372",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/3352/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "S-Methoprene",
+    "cas": "65733-16-6",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H400 (100%)",
+     "H410 (66.7%)"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/1711973/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Etofenprox",
+    "cas": "80844-07-1",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H362 (96.7%)",
+     "H400 (97.5%)",
+     "H410 (97.5%)"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/71245/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "이전 패스에서 지적된 로컬 SDS 불일치(Propoxur 목걸이 제품)를 확인했고, 해당 로컬 PDF는 디스크에 아예 없음. 제품 SDS는 확보 실패. 3개 활성성분 모두 PubChem/ECHA 확보: Fipronil(Danger, H301/H311/H331/H372/H400/H410), S-Methoprene(H400/H410), Etofenprox(H362/H400/H410). 세 성분 모두 eye·skin·sens 분류 없음."
+ },
+ {
+  "row": 1331,
+  "fid": "MIX659",
+  "product_name": "Touchdown Diquat Home to Garden Concentrate",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6794/JSON?heading=GHS+Classification",
+  "source_type": "PubChem LCSS / PUG-View REST (ECHA CLP Annex VI harmonised classification + ECHA C&L Inventory notification summary)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Glyphosate",
+    "cas": "1071-83-6",
+    "eye_cat": "1",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H318 (99.7%)",
+     "H411 (99.7%)"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/3496/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Diquat dibromide",
+    "cas": "85-00-7",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": [
+     "H302",
+     "H315",
+     "H317",
+     "H319",
+     "H330",
+     "H335",
+     "H372",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6794/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "이전 패스의 로컬 SDS(TOUCHDOWN CT, Glyphosate 단독)는 성분 불일치이며 파일도 디스크에 없음. 제품 SDS 확보 실패. Glyphosate는 CLP 조화분류 H318 → eye Cat 1(Danger), Diquat dibromide는 조화분류 H302/H315/H317/H319/H330/H335/H372/H400/H410 → eye 2A / skin 2 / sens 1. 두 성분 모두 확보되어 GHS 가산성 기준선 산출 가능."
+ }
+]

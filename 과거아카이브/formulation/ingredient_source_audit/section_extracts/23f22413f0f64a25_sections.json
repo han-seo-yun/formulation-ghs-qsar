@@ -1,0 +1,20 @@
+{
+  "source_id": "23f22413f0f64a25",
+  "file_path": "ingredient_source_audit/highlighted/23f22413f0f64a25_highlighted.pdf",
+  "page_count": 7,
+  "full_text_length": 23264,
+  "sections_found": [
+    "label_header"
+  ],
+  "label_header": {
+    "epa_reg_number": "67071-62",
+    "formulation_code": "DC",
+    "signal_word": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "                          UNITED STATES ENVIRONMENTAL PROTECTION AGENCY \n                                                             WASHINGTON, DC  20460 \n \n \n \nFQPA Label Acceptable v.20150320 \nOFFICE OF CHEMICAL SAFETY \nAND POLLUTION PREVENTION \nFebruary 21, 2017 \n \nLucy Cremese \nRegulatory Spec"
+  },
+  "fallback": {
+    "epa_reg_number": "67071-62",
+    "formulation_code": "DC"
+  }
+}

@@ -1,0 +1,888 @@
+{
+ "n_rows": 1675,
+ "n_features": 520,
+ "crosstab": [
+  {
+   "endpoint": "eye",
+   "label_source": "__NaN(라벨없음)__",
+   "n_rows": 570,
+   "n_labeled": 0,
+   "n_pos": 0,
+   "pos_rate": NaN,
+   "n_cat_unique": 0,
+   "cats": ""
+  },
+  {
+   "endpoint": "eye",
+   "label_source": "ntp_measured",
+   "n_rows": 608,
+   "n_labeled": 608,
+   "n_pos": 390,
+   "pos_rate": 0.6414,
+   "n_cat_unique": 4,
+   "cats": "1;2A;2B;NC"
+  },
+  {
+   "endpoint": "eye",
+   "label_source": "phase1_sds",
+   "n_rows": 31,
+   "n_labeled": 31,
+   "n_pos": 6,
+   "pos_rate": 0.1935,
+   "n_cat_unique": 3,
+   "cats": "2A;2B;NC"
+  },
+  {
+   "endpoint": "eye",
+   "label_source": "sds_2nd",
+   "n_rows": 135,
+   "n_labeled": 135,
+   "n_pos": 112,
+   "pos_rate": 0.8296,
+   "n_cat_unique": 4,
+   "cats": "1;2A;2B;NC"
+  },
+  {
+   "endpoint": "eye",
+   "label_source": "sds_2nd_sec11",
+   "n_rows": 150,
+   "n_labeled": 150,
+   "n_pos": 37,
+   "pos_rate": 0.2467,
+   "n_cat_unique": 5,
+   "cats": "1;2;2A;2B;NC"
+  },
+  {
+   "endpoint": "eye",
+   "label_source": "sds_v1",
+   "n_rows": 181,
+   "n_labeled": 181,
+   "n_pos": 181,
+   "pos_rate": 1.0,
+   "n_cat_unique": 4,
+   "cats": "1;2;2A;2B"
+  },
+  {
+   "endpoint": "skin",
+   "label_source": "__NaN(라벨없음)__",
+   "n_rows": 683,
+   "n_labeled": 0,
+   "n_pos": 0,
+   "pos_rate": NaN,
+   "n_cat_unique": 0,
+   "cats": ""
+  },
+  {
+   "endpoint": "skin",
+   "label_source": "ntp_measured",
+   "n_rows": 544,
+   "n_labeled": 544,
+   "n_pos": 100,
+   "pos_rate": 0.1838,
+   "n_cat_unique": 4,
+   "cats": "1;2A;2B;NC"
+  },
+  {
+   "endpoint": "skin",
+   "label_source": "phase1_sds",
+   "n_rows": 31,
+   "n_labeled": 31,
+   "n_pos": 6,
+   "pos_rate": 0.1935,
+   "n_cat_unique": 2,
+   "cats": "2;NC"
+  },
+  {
+   "endpoint": "skin",
+   "label_source": "sds_2nd",
+   "n_rows": 123,
+   "n_labeled": 123,
+   "n_pos": 99,
+   "pos_rate": 0.8049,
+   "n_cat_unique": 4,
+   "cats": "1;2;3;NC"
+  },
+  {
+   "endpoint": "skin",
+   "label_source": "sds_2nd_sec11",
+   "n_rows": 137,
+   "n_labeled": 137,
+   "n_pos": 16,
+   "pos_rate": 0.1168,
+   "n_cat_unique": 5,
+   "cats": "1;1B;2;3;NC"
+  },
+  {
+   "endpoint": "skin",
+   "label_source": "sds_v1",
+   "n_rows": 157,
+   "n_labeled": 157,
+   "n_pos": 157,
+   "pos_rate": 1.0,
+   "n_cat_unique": 4,
+   "cats": "1;1B;2;3"
+  },
+  {
+   "endpoint": "sens",
+   "label_source": "__NaN(라벨없음)__",
+   "n_rows": 1080,
+   "n_labeled": 0,
+   "n_pos": 0,
+   "pos_rate": NaN,
+   "n_cat_unique": 0,
+   "cats": ""
+  },
+  {
+   "endpoint": "sens",
+   "label_source": "phase1_sds",
+   "n_rows": 29,
+   "n_labeled": 29,
+   "n_pos": 7,
+   "pos_rate": 0.2414,
+   "n_cat_unique": 2,
+   "cats": "1;NC"
+  },
+  {
+   "endpoint": "sens",
+   "label_source": "sds_2nd",
+   "n_rows": 198,
+   "n_labeled": 198,
+   "n_pos": 170,
+   "pos_rate": 0.8586,
+   "n_cat_unique": 2,
+   "cats": "1;NC"
+  },
+  {
+   "endpoint": "sens",
+   "label_source": "sds_2nd_sec11",
+   "n_rows": 184,
+   "n_labeled": 184,
+   "n_pos": 25,
+   "pos_rate": 0.1359,
+   "n_cat_unique": 4,
+   "cats": "1;1A;1B;NC"
+  },
+  {
+   "endpoint": "sens",
+   "label_source": "sds_v1",
+   "n_rows": 184,
+   "n_labeled": 184,
+   "n_pos": 184,
+   "pos_rate": 1.0,
+   "n_cat_unique": 2,
+   "cats": "1;1B"
+  }
+ ],
+ "fact_sds_v1_all_positive": {
+  "eye": true,
+  "skin": true,
+  "sens": true
+ },
+ "root_cause_v1_source": {
+  "eye": {
+   "status_counts": {
+    "no_sds": 1111,
+    "ok": 233,
+    "negative": 146,
+    "not_stated": 101,
+    "verdict_only": 84
+   },
+   "cat_value_counts": {
+    "__NaN__": 1442,
+    "1": 101,
+    "2A": 94,
+    "2B": 36,
+    "2": 2
+   },
+   "status_x_cat_present": {
+    "cat_present=False": {
+     "negative": 146,
+     "no_sds": 1111,
+     "not_stated": 101,
+     "ok": 0,
+     "verdict_only": 84
+    },
+    "cat_present=True": {
+     "negative": 0,
+     "no_sds": 0,
+     "not_stated": 0,
+     "ok": 233,
+     "verdict_only": 0
+    }
+   },
+   "n_status_negative": 146,
+   "n_status_negative_with_cat": 0,
+   "n_status_ok_with_cat": 233,
+   "cat_has_any_NC": false
+  },
+  "skin": {
+   "status_counts": {
+    "no_sds": 1111,
+    "ok": 193,
+    "negative": 169,
+    "not_stated": 104,
+    "verdict_only": 98
+   },
+   "cat_value_counts": {
+    "__NaN__": 1482,
+    "2": 148,
+    "1": 28,
+    "3": 12,
+    "1B": 5
+   },
+   "status_x_cat_present": {
+    "cat_present=False": {
+     "negative": 169,
+     "no_sds": 1111,
+     "not_stated": 104,
+     "ok": 0,
+     "verdict_only": 98
+    },
+    "cat_present=True": {
+     "negative": 0,
+     "no_sds": 0,
+     "not_stated": 0,
+     "ok": 193,
+     "verdict_only": 0
+    }
+   },
+   "n_status_negative": 169,
+   "n_status_negative_with_cat": 0,
+   "n_status_ok_with_cat": 193,
+   "cat_has_any_NC": false
+  },
+  "sens": {
+   "status_counts": {
+    "no_sds": 1111,
+    "negative": 211,
+    "ok": 184,
+    "not_stated": 147,
+    "verdict_only": 22
+   },
+   "cat_value_counts": {
+    "__NaN__": 1491,
+    "1": 167,
+    "1B": 17
+   },
+   "status_x_cat_present": {
+    "cat_present=False": {
+     "negative": 211,
+     "no_sds": 1111,
+     "not_stated": 147,
+     "ok": 0,
+     "verdict_only": 22
+    },
+    "cat_present=True": {
+     "negative": 0,
+     "no_sds": 0,
+     "not_stated": 0,
+     "ok": 184,
+     "verdict_only": 0
+    }
+   },
+   "n_status_negative": 211,
+   "n_status_negative_with_cat": 0,
+   "n_status_ok_with_cat": 184,
+   "cat_has_any_NC": false
+  }
+ },
+ "lost_negatives": {
+  "eye": {
+   "n_explicit_negative": 146,
+   "final_y_missing": 48,
+   "final_y_from_other_src": {
+    "__NaN__": 48,
+    "sds_2nd_sec11": 44,
+    "ntp_measured": 37,
+    "phase1_sds": 9,
+    "sds_2nd": 8
+   },
+   "final_y_pos_among_labeled": 32,
+   "recoverable_negatives": 48
+  },
+  "skin": {
+   "n_explicit_negative": 169,
+   "final_y_missing": 67,
+   "final_y_from_other_src": {
+    "__NaN__": 67,
+    "sds_2nd_sec11": 43,
+    "ntp_measured": 41,
+    "phase1_sds": 10,
+    "sds_2nd": 8
+   },
+   "final_y_pos_among_labeled": 10,
+   "recoverable_negatives": 67
+  },
+  "sens": {
+   "n_explicit_negative": 211,
+   "final_y_missing": 121,
+   "final_y_from_other_src": {
+    "__NaN__": 121,
+    "sds_2nd_sec11": 75,
+    "phase1_sds": 9,
+    "sds_2nd": 6
+   },
+   "final_y_pos_among_labeled": 5,
+   "recoverable_negatives": 121
+  }
+ },
+ "counterfactual_sds_v1_pos_rate": {
+  "eye": {
+   "n_pos": 181,
+   "n_recoverable_neg": 48,
+   "pos_rate_if_recovered": 0.7904
+  },
+  "skin": {
+   "n_pos": 157,
+   "n_recoverable_neg": 67,
+   "pos_rate_if_recovered": 0.7009
+  },
+  "sens": {
+   "n_pos": 184,
+   "n_recoverable_neg": 121,
+   "pos_rate_if_recovered": 0.6033
+  }
+ },
+ "label_source_onehot_only": {
+  "eye": {
+   "roc_auc": 0.7566,
+   "pr_auc": 0.8283,
+   "n": 1105,
+   "base_rate": 0.657
+  },
+  "skin": {
+   "roc_auc": 0.8344,
+   "pr_auc": 0.7924,
+   "n": 992,
+   "base_rate": 0.381
+  },
+  "sens": {
+   "roc_auc": 0.9262,
+   "pr_auc": 0.9423,
+   "n": 595,
+   "base_rate": 0.6487
+  }
+ },
+ "is_sds_v1_reconstruction": {
+  "eye": {
+   "labeled_rows_only": {
+    "roc_auc": 0.949,
+    "pr_auc": 0.756,
+    "n": 1105,
+    "n_sds_v1": 181
+   },
+   "all_rows": {
+    "roc_auc": 0.9393,
+    "pr_auc": 0.5995,
+    "n": 1675,
+    "n_sds_v1": 181
+   }
+  },
+  "skin": {
+   "labeled_rows_only": {
+    "roc_auc": 0.9619,
+    "pr_auc": 0.8489,
+    "n": 992,
+    "n_sds_v1": 157
+   },
+   "all_rows": {
+    "roc_auc": 0.9726,
+    "pr_auc": 0.805,
+    "n": 1675,
+    "n_sds_v1": 157
+   }
+  },
+  "sens": {
+   "labeled_rows_only": {
+    "roc_auc": 0.95,
+    "pr_auc": 0.8603,
+    "n": 595,
+    "n_sds_v1": 184
+   },
+   "all_rows": {
+    "roc_auc": 0.9546,
+    "pr_auc": 0.7268,
+    "n": 1675,
+    "n_sds_v1": 184
+   }
+  },
+  "any_endpoint_is_sds_v1": {
+   "roc_auc": 0.97,
+   "pr_auc": 0.862,
+   "n": 1675,
+   "n_sds_v1": 299
+  },
+  "top_leaking_features": {
+   "n_tox_endpoints": 0.11581,
+   "has_toxicity": 0.11436,
+   "tox_n_composition_rows": 0.10862,
+   "tox_n_composition_rows_isna": 0.07811,
+   "sds_epa_skin_ambiguous": 0.03839,
+   "trainable": 0.02364,
+   "trainable_ntp": 0.01965,
+   "n_ing_missing": 0.01289,
+   "has_y": 0.01083,
+   "n_ing_total_known": 0.01026,
+   "n_ntp_endpoints": 0.00877,
+   "has_epa_target": 0.00834,
+   "has_ntp_label": 0.00703,
+   "n_ing_align_bad": 0.00658,
+   "t11_gated": 0.00592,
+   "f_TPSA_min": 0.00544,
+   "f_MolWt_mean": 0.00486,
+   "align_ok": 0.00486,
+   "t11_ld50_dermal_unparsed_isna": 0.00482,
+   "n_y_conflict": 0.00471,
+   "f_Kappa2_max": 0.00461,
+   "t11_ld50_dermal_multi_isna": 0.00437,
+   "t11_lc50_inhal_multi_isna": 0.00428,
+   "t11_ld50_oral_multi_isna": 0.00428,
+   "t11_lc50_inhal_n_isna": 0.00415
+  }
+ },
+ "baseline_performance": {
+  "eye": {
+   "full": {
+    "f1": 0.791,
+    "f1_sd": 0.0071,
+    "roc_auc": 0.6977,
+    "roc_auc_sd": 0.0155,
+    "pr_auc": 0.8029,
+    "pr_auc_sd": 0.0205,
+    "balanced_acc": 0.6057,
+    "balanced_acc_sd": 0.0116,
+    "n_folds": 5,
+    "n": 1105,
+    "n_pos": 726,
+    "pos_rate": 0.657,
+    "n_groups": 460
+   },
+   "exclude_sds_v1": {
+    "f1": 0.7268,
+    "f1_sd": 0.0307,
+    "roc_auc": 0.6794,
+    "roc_auc_sd": 0.0547,
+    "pr_auc": 0.7497,
+    "pr_auc_sd": 0.0502,
+    "balanced_acc": 0.6074,
+    "balanced_acc_sd": 0.044,
+    "n_folds": 5,
+    "n": 924,
+    "n_pos": 545,
+    "pos_rate": 0.5898,
+    "n_groups": 391
+   },
+   "only_sds_v1": {
+    "error": "single class",
+    "n": 181,
+    "pos": 181
+   },
+   "delta_exclude_minus_full": {
+    "f1": -0.0642,
+    "roc_auc": -0.0183,
+    "pr_auc": -0.0532,
+    "balanced_acc": 0.0017
+   }
+  },
+  "skin": {
+   "full": {
+    "f1": 0.6617,
+    "f1_sd": 0.0648,
+    "roc_auc": 0.8332,
+    "roc_auc_sd": 0.0196,
+    "pr_auc": 0.793,
+    "pr_auc_sd": 0.0281,
+    "balanced_acc": 0.7398,
+    "balanced_acc_sd": 0.0403,
+    "n_folds": 5,
+    "n": 992,
+    "n_pos": 378,
+    "pos_rate": 0.381,
+    "n_groups": 460
+   },
+   "exclude_sds_v1": {
+    "f1": 0.5311,
+    "f1_sd": 0.0394,
+    "roc_auc": 0.7803,
+    "roc_auc_sd": 0.0256,
+    "pr_auc": 0.644,
+    "pr_auc_sd": 0.0284,
+    "balanced_acc": 0.6821,
+    "balanced_acc_sd": 0.0213,
+    "n_folds": 5,
+    "n": 835,
+    "n_pos": 221,
+    "pos_rate": 0.2647,
+    "n_groups": 384
+   },
+   "only_sds_v1": {
+    "error": "single class",
+    "n": 157,
+    "pos": 157
+   },
+   "delta_exclude_minus_full": {
+    "f1": -0.1306,
+    "roc_auc": -0.0529,
+    "pr_auc": -0.149,
+    "balanced_acc": -0.0577
+   }
+  },
+  "sens": {
+   "full": {
+    "f1": 0.7942,
+    "f1_sd": 0.0189,
+    "roc_auc": 0.7747,
+    "roc_auc_sd": 0.041,
+    "pr_auc": 0.8617,
+    "pr_auc_sd": 0.0301,
+    "balanced_acc": 0.6742,
+    "balanced_acc_sd": 0.0206,
+    "n_folds": 5,
+    "n": 595,
+    "n_pos": 386,
+    "pos_rate": 0.6487,
+    "n_groups": 317
+   },
+   "exclude_sds_v1": {
+    "f1": 0.7077,
+    "f1_sd": 0.0821,
+    "roc_auc": 0.8326,
+    "roc_auc_sd": 0.05,
+    "pr_auc": 0.8369,
+    "pr_auc_sd": 0.0511,
+    "balanced_acc": 0.736,
+    "balanced_acc_sd": 0.0559,
+    "n_folds": 5,
+    "n": 411,
+    "n_pos": 202,
+    "pos_rate": 0.4915,
+    "n_groups": 227
+   },
+   "only_sds_v1": {
+    "error": "single class",
+    "n": 184,
+    "pos": 184
+   },
+   "delta_exclude_minus_full": {
+    "f1": -0.0865,
+    "roc_auc": 0.0579,
+    "pr_auc": -0.0248,
+    "balanced_acc": 0.0618
+   }
+  }
+ },
+ "conservative_exclude_v1_and_2nd": {
+  "eye": {
+   "f1": 0.7274,
+   "f1_sd": 0.0216,
+   "roc_auc": 0.6988,
+   "roc_auc_sd": 0.0248,
+   "pr_auc": 0.7112,
+   "pr_auc_sd": 0.0268,
+   "balanced_acc": 0.6434,
+   "balanced_acc_sd": 0.0175,
+   "n_folds": 5,
+   "n": 789,
+   "n_pos": 433,
+   "pos_rate": 0.5488,
+   "n_groups": 333
+  },
+  "skin": {
+   "f1": 0.1376,
+   "f1_sd": 0.1124,
+   "roc_auc": 0.674,
+   "roc_auc_sd": 0.0813,
+   "pr_auc": 0.3498,
+   "pr_auc_sd": 0.1235,
+   "balanced_acc": 0.5307,
+   "balanced_acc_sd": 0.0406,
+   "n_folds": 5,
+   "n": 712,
+   "n_pos": 122,
+   "pos_rate": 0.1713,
+   "n_groups": 314
+  },
+  "sens": {
+   "f1": 0.3378,
+   "f1_sd": 0.1701,
+   "roc_auc": 0.7034,
+   "roc_auc_sd": 0.0815,
+   "pr_auc": 0.4369,
+   "pr_auc_sd": 0.1027,
+   "balanced_acc": 0.6091,
+   "balanced_acc_sd": 0.0686,
+   "n_folds": 5,
+   "n": 213,
+   "n_pos": 32,
+   "pos_rate": 0.1502,
+   "n_groups": 133
+  }
+ },
+ "leak_decomposition": {
+  "n_chem_feats": 273,
+  "n_meta_feats": 247,
+  "meta_feats_dropped": [
+   "n_ingredients",
+   "n_pct_known",
+   "n_smiles",
+   "n_structural_na",
+   "n_smiles_ice",
+   "align_ok",
+   "n_ing_align_bad",
+   "has_epa_target",
+   "n_ing_active",
+   "n_ing_total_known",
+   "n_ing_missing",
+   "has_toxicity",
+   "n_tox_endpoints",
+   "tox_n_composition_rows",
+   "has_ntp_label",
+   "n_ntp_endpoints",
+   "n_y_conflict",
+   "sds_epa_eye_ambiguous",
+   "sds_epa_skin_ambiguous",
+   "ice_n_ingredients",
+   "ice_n_smiles",
+   "has_ghs_label",
+   "has_y",
+   "trainable",
+   "trainable_ntp",
+   "trainable_ghs",
+   "trainable_epa",
+   "trainable_epa_any",
+   "review_matched",
+   "pc2_n_params",
+   "pc2_n_items",
+   "pc2_parse_ok",
+   "t11_present",
+   "t11_gated",
+   "f_n_ing",
+   "f_n_pct_known",
+   "f_n_smiles",
+   "f_n_structural_alerts_mean",
+   "f_n_structural_alerts_max",
+   "f_n_structural_alerts_min",
+   "f_n_structural_alerts_range",
+   "f_n_structural_alerts_std",
+   "f_n_structural_alerts_wmean",
+   "pct_sum_known_isna",
+   "active_pct_sum_isna",
+   "tox_n_composition_rows_isna",
+   "ice_active_pct_sum_isna",
+   "pc2_ph_lo_isna",
+   "pc2_ph_hi_isna",
+   "ph_basis_pct_isna",
+   "pc2_density_isna",
+   "pc2_autoignition_isna",
+   "pc2_ph_isna",
+   "pc2_fp_isna",
+   "pc2_logkow_isna",
+   "pc2_vp_isna",
+   "pc2_bp_isna",
+   "pc2_solubility_isna",
+   "pc2_mp_isna",
+   "pc2_decomp_isna",
+   "pc2_viscosity_isna",
+   "t11_ld50_oral_isna",
+   "t11_ld50_oral_log_isna",
+   "t11_ld50_oral_censored_isna",
+   "t11_ld50_oral_n_isna",
+   "t11_ld50_oral_multi_isna",
+   "t11_ld50_oral_unparsed_isna",
+   "t11_acute_oral_ord_isna",
+   "t11_ld50_dermal_isna",
+   "t11_ld50_dermal_log_isna",
+   "t11_ld50_dermal_censored_isna",
+   "t11_ld50_dermal_n_isna",
+   "t11_ld50_dermal_multi_isna",
+   "t11_ld50_dermal_unparsed_isna",
+   "t11_acute_dermal_ord_isna",
+   "t11_lc50_inhal_isna",
+   "t11_lc50_inhal_log_isna",
+   "t11_lc50_inhal_censored_isna",
+   "t11_lc50_inhal_n_isna",
+   "t11_lc50_inhal_multi_isna",
+   "t11_lc50_inhal_unparsed_isna",
+   "t11_acute_inhal_ord_isna",
+   "t11_carc_ord_isna",
+   "t11_muta_ord_isna",
+   "t11_repr_ord_isna",
+   "t11_stot_se_ord_isna",
+   "t11_stot_re_ord_isna",
+   "t11_aspir_ord_isna",
+   "f_pct_sum_known_isna",
+   "f_pct_with_structure_isna",
+   "f_shannon_isna",
+   "f_simpson_isna",
+   "f_max_pct_isna",
+   "f_MolWt_mean_isna",
+   "f_MolWt_max_isna",
+   "f_MolWt_min_isna",
+   "f_MolWt_range_isna",
+   "f_MolWt_std_isna",
+   "f_MolWt_wmean_isna",
+   "f_MolLogP_mean_isna",
+   "f_MolLogP_max_isna",
+   "f_MolLogP_min_isna",
+   "f_MolLogP_range_isna",
+   "f_MolLogP_std_isna",
+   "f_MolLogP_wmean_isna",
+   "f_TPSA_mean_isna",
+   "f_TPSA_max_isna",
+   "f_TPSA_min_isna",
+   "f_TPSA_range_isna",
+   "f_TPSA_std_isna",
+   "f_TPSA_wmean_isna",
+   "f_NumHDonors_mean_isna",
+   "f_NumHDonors_max_isna",
+   "f_NumHDonors_min_isna",
+   "f_NumHDonors_range_isna",
+   "f_NumHDonors_std_isna",
+   "f_NumHDonors_wmean_isna",
+   "f_NumHAcceptors_mean_isna",
+   "f_NumHAcceptors_max_isna",
+   "f_NumHAcceptors_min_isna",
+   "f_NumHAcceptors_range_isna",
+   "f_NumHAcceptors_std_isna",
+   "f_NumHAcceptors_wmean_isna",
+   "f_NumRotatableBonds_mean_isna",
+   "f_NumRotatableBonds_max_isna",
+   "f_NumRotatableBonds_min_isna",
+   "f_NumRotatableBonds_range_isna",
+   "f_NumRotatableBonds_std_isna",
+   "f_NumRotatableBonds_wmean_isna",
+   "f_NumAromaticRings_mean_isna",
+   "f_NumAromaticRings_max_isna",
+   "f_NumAromaticRings_min_isna",
+   "f_NumAromaticRings_range_isna",
+   "f_NumAromaticRings_std_isna",
+   "f_NumAromaticRings_wmean_isna",
+   "f_FractionCSP3_mean_isna",
+   "f_FractionCSP3_max_isna",
+   "f_FractionCSP3_min_isna",
+   "f_FractionCSP3_range_isna",
+   "f_FractionCSP3_std_isna",
+   "f_FractionCSP3_wmean_isna",
+   "f_MolMR_mean_isna",
+   "f_MolMR_max_isna",
+   "f_MolMR_min_isna",
+   "f_MolMR_range_isna",
+   "f_MolMR_std_isna",
+   "f_MolMR_wmean_isna",
+   "f_LabuteASA_mean_isna",
+   "f_LabuteASA_max_isna",
+   "f_LabuteASA_min_isna",
+   "f_LabuteASA_range_isna",
+   "f_LabuteASA_std_isna",
+   "f_LabuteASA_wmean_isna",
+   "f_BertzCT_mean_isna",
+   "f_BertzCT_max_isna",
+   "f_BertzCT_min_isna",
+   "f_BertzCT_range_isna",
+   "f_BertzCT_std_isna",
+   "f_BertzCT_wmean_isna",
+   "f_Kappa2_mean_isna",
+   "f_Kappa2_max_isna",
+   "f_Kappa2_min_isna",
+   "f_Kappa2_range_isna",
+   "f_Kappa2_std_isna",
+   "f_Kappa2_wmean_isna",
+   "f_HallKierAlpha_mean_isna",
+   "f_HallKierAlpha_max_isna",
+   "f_HallKierAlpha_min_isna",
+   "f_HallKierAlpha_range_isna",
+   "f_HallKierAlpha_std_isna",
+   "f_HallKierAlpha_wmean_isna",
+   "f_MaxAbsPartialCharge_mean_isna",
+   "f_MaxAbsPartialCharge_max_isna",
+   "f_MaxAbsPartialCharge_min_isna",
+   "f_MaxAbsPartialCharge_range_isna",
+   "f_MaxAbsPartialCharge_std_isna",
+   "f_MaxAbsPartialCharge_wmean_isna",
+   "f_logKp_pottsguy_mean_isna",
+   "f_logKp_pottsguy_max_isna",
+   "f_logKp_pottsguy_min_isna",
+   "f_logKp_pottsguy_range_isna",
+   "f_logKp_pottsguy_std_isna",
+   "f_logKp_pottsguy_wmean_isna",
+   "f_max_alkyl_chain_mean_isna",
+   "f_max_alkyl_chain_max_isna",
+   "f_max_alkyl_chain_min_isna",
+   "f_max_alkyl_chain_range_isna",
+   "f_max_alkyl_chain_std_isna",
+   "f_max_alkyl_chain_wmean_isna",
+   "f_n_structural_alerts_mean_isna",
+   "f_n_structural_alerts_max_isna",
+   "f_n_structural_alerts_min_isna",
+   "f_n_structural_alerts_range_isna",
+   "f_n_structural_alerts_std_isna",
+   "f_n_structural_alerts_wmean_isna",
+   "f_NumHeteroatoms_mean_isna",
+   "f_NumHeteroatoms_max_isna",
+   "f_NumHeteroatoms_min_isna",
+   "f_NumHeteroatoms_range_isna",
+   "f_NumHeteroatoms_std_isna",
+   "f_NumHeteroatoms_wmean_isna",
+   "f_RingCount_mean_isna",
+   "f_RingCount_max_isna",
+   "f_RingCount_min_isna",
+   "f_RingCount_range_isna",
+   "f_RingCount_std_isna",
+   "f_RingCount_wmean_isna",
+   "f_pct_active_presumed_isna",
+   "f_pct_water_isna",
+   "f_pct_surfactant_isna",
+   "f_pct_solvent_isna",
+   "f_pct_synergist_isna",
+   "f_pct_carrier_inert_isna",
+   "f_pct_propellant_isna",
+   "f_pct_ph_adjuster_isna",
+   "f_pct_preservative_isna",
+   "f_pct_thickener_isna",
+   "f_pct_fragrance_dye_isna",
+   "f_pct_unknown_isna",
+   "f_pct_surf_anionic_isna",
+   "f_pct_surf_cationic_isna",
+   "f_pct_surf_nonionic_isna",
+   "f_pct_surf_amphoteric_isna",
+   "f_surf_charge_imbalance_isna",
+   "f_pct_active_isna",
+   "f_solvent_x_logp_isna",
+   "f_surf_x_logp_isna",
+   "f_surf_x_logkp_isna",
+   "f_tanimoto_mean_isna",
+   "f_tanimoto_max_isna",
+   "f_tanimoto_min_isna",
+   "f_ct_eye_s1_isna",
+   "f_ct_eye_s2_isna",
+   "f_ct_eye_add_isna",
+   "f_ct_skin_s1_isna",
+   "f_ct_skin_s2_isna",
+   "f_ct_skin_add_isna",
+   "f_ct_sens_s1_isna",
+   "f_ct_sens_s2_isna",
+   "f_ct_sens_add_isna",
+   "ph_best_isna",
+   "ct_eye_ord_isna",
+   "ct_skin_ord_isna",
+   "ct_sens_ord_isna",
+   "f_ct_eye_ord_isna",
+   "f_ct_skin_ord_isna",
+   "f_ct_sens_ord_isna"
+  ],
+  "per_endpoint": {
+   "eye": {
+    "chem_only_roc_auc": 0.675,
+    "full_X_roc_auc": 0.9393
+   },
+   "skin": {
+    "chem_only_roc_auc": 0.7307,
+    "full_X_roc_auc": 0.9726
+   },
+   "sens": {
+    "chem_only_roc_auc": 0.7857,
+    "full_X_roc_auc": 0.9546
+   }
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+  "source_id": "977325f7a5459751",
+  "file_path": "ingredient_source_audit/highlighted/977325f7a5459751_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 16028,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_14",
+    "section_3",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product name",
+    "formulation_code": "WG",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: IDENTIFICATION OF THE MATERIAL AND SUPPLIER \n \nProduct name \nLarvin® 800 WG Insecticide \nOther names \nnone \nProduct code (UVP) \n05927390 \nChemical Group \noxime carbamate \n \nRecommended use \nInsecticide \n \nChemical Formulation \nWater dispersible granules (WG)  \n \nCompany \nBayer Cropscience"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "SECTION 2. HAZARDS IDENTIFICATION \n \nEmergency Overview \n \nHAZARDOUS SUBSTANCE \nDANGEROUS GOODS\n \nHazardous classification \nHazardous (National Occupational Health and Safety Commission - \nNOHSC) \n \nR-phrase(s) \nR23/25 - Toxic by inhalation and if swallowed. \nR36 - Irritating to eyes. \nR43 - May cau"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

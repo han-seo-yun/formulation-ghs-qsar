@@ -1,0 +1,35 @@
+{
+  "source_id": "e330cefeaa8b9c69",
+  "file_path": "ingredient_source_audit/highlighted/e330cefeaa8b9c69_highlighted.pdf",
+  "page_count": 9,
+  "full_text_length": 17321,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product Name",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. Identification\nProduct Name\nImidacloprid\nCat No. :\nAC466750000; AC466750010; AC466752500\nCAS No\n138261-41-3\nSynonyms\nNo information available\nRecommended Use\nLaboratory chemicals.\nUses advised against\nFood, drug, pesticide or biocidal product use.\nDetails of the supplier of the safety data sheet "
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "2. Hazard(s) identification\nClassification \nThis chemical is considered hazardous according to [US] OSHA (29 CFR 1910.1200, 2024)\nLabel Elements  \nSignal Word\nDanger\nHazard Statements\nToxic if swallowed\nCompany \nFisher Scientific Company\nOne Reagent Lane\nFair Lawn, NJ 07410\nTel: (201) 796-7100\nAcros"
+  },
+  "section_14": {
+    "un_number": "2811"
+  }
+}

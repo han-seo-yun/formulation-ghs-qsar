@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"ls -la \\\"/Users/hanseoyun/Desktop/20260814_제형분석_이서윤.xlsx\\\" \\\"/Users/hanseoyun/Desktop/제형/\\\" 2>&1\"}",
+  "error": "Exit code 1\nls: /Users/hanseoyun/Desktop/20260814_제형분석_이서윤.xlsx: No such file or directory\n/Users/hanseoyun/Desktop/제형/:\ntotal 696\ndrwxr-xr-x   9 hanseoyun  staff     288  8 15 11:08 .\ndrwx------@ 62 hanseoyun  staff    1984  8 15 11:08 ..\n-rw-r--r--@  1 hanseoyun  staff    6148  8 15 11:07 .DS_Store\ndrwxr-xr-x   3 hanseoyun  staff      96  8 13 15:02 .claude\ndrwxr-xr-x   3 hanseoyun  staff      96  8 13 01:06 .omc\n-rw-r--r--@  1 hanseoyun  staff  118649  8 15 11:05 20260814_제형분석_이서윤.xlsx\n-rw-r-...",
+  "timestamp": "2026-08-15T02:08:41.026Z",
+  "retry_count": 1
+}

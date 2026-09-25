@@ -1,0 +1,35 @@
+{
+  "source_id": "cbccf99a4834a73f",
+  "file_path": "ingredient_source_audit/highlighted/cbccf99a4834a73f_highlighted.pdf",
+  "page_count": 7,
+  "full_text_length": 19646,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "IMPACT® Herbicide",
+    "formulation_code": "SC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. Identification\nIMPACT® Herbicide\nProduct identifier\nOther means of identification\n323\nSDS number\nSynonym(s)\nRecommended use\nRecommended restrictions\nEPA Registration number\nTopramezone SC Herbicide\nHerbicide. For postemergence weed control in all types of field corn, popcorn and seed corn. \nKeep "
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "2. Hazard(s) identification\nNot classified.\nPhysical hazards\nCategory 1\nSensitization, skin\nHealth hazards\nCategory 2\nReproductive toxicity\nNot classified.\nEnvironmental hazards\nNot classified.\nOSHA defined hazards\nLabel elements\nSignal word\nWarning\nHazard statement\nMay cause an allergic skin reacti"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

@@ -1,0 +1,77 @@
+[    0.0s] 데이터 로드
+[    0.1s] S1_chemistry=221열, CT유래=26열, S1_minus_CT26=195열
+[    0.1s] src_detail[eye] 관측값=['ntp_measured', 'phase1_sds', 'sds_2nd', 'sds_2nd_sec11', 'sds_v1', 'sds_v1_negative_recovered']
+[    0.1s] src_detail[skin] 관측값=['ntp_measured', 'phase1_sds', 'sds_2nd', 'sds_2nd_sec11', 'sds_v1', 'sds_v1_negative_recovered']
+[    0.1s] src_detail[sens] 관측값=['phase1_sds', 'sds_2nd', 'sds_2nd_sec11', 'sds_v1', 'sds_v1_negative_recovered']
+[    0.1s] 무결성[eye] inclusive/all n=1153 vs 디스크 y_eye_bin 일치율=1.0000
+[    0.1s] 무결성[skin] inclusive/all n=1059 vs 디스크 y_skin_bin 일치율=1.0000
+[    0.1s] 무결성[sens] inclusive/all n=716 vs 디스크 y_sens_bin 일치율=1.0000
+[    0.1s] === 격자 실행 ===
+[    7.8s]   eye  inclusive         all                    S1_chemistry   n=1153 grp= 477 p=0.618 AUC=0.639±0.010 PR=0.728 MCC=0.202±0.023 BA=0.590 F1=0.740(더미실측0.764/식0.764)
+[   15.3s]   eye  inclusive         all                    S1_minus_CT26  n=1153 grp= 477 p=0.618 AUC=0.639±0.009 PR=0.722 MCC=0.216±0.008 BA=0.596 F1=0.744(더미실측0.764/식0.764)
+[   21.4s]   eye  inclusive         measured               S1_chemistry   n= 608 grp= 273 p=0.641 AUC=0.638±0.007 PR=0.738 MCC=0.210±0.013 BA=0.581 F1=0.776(더미실측0.782/식0.782)
+[   27.2s]   eye  inclusive         measured               S1_minus_CT26  n= 608 grp= 273 p=0.641 AUC=0.637±0.011 PR=0.740 MCC=0.211±0.010 BA=0.582 F1=0.775(더미실측0.782/식0.782)
+[   32.9s]   eye  inclusive         regulatory             S1_chemistry   n= 545 grp= 351 p=0.593 AUC=0.636±0.015 PR=0.714 MCC=0.190±0.020 BA=0.592 F1=0.690(더미실측0.744/식0.744)
+[   38.6s]   eye  inclusive         regulatory             S1_minus_CT26  n= 545 grp= 351 p=0.593 AUC=0.635±0.016 PR=0.711 MCC=0.184±0.030 BA=0.589 F1=0.691(더미실측0.744/식0.744)
+[   43.9s]   eye  inclusive         regulatory_minus_sdsv1 S1_chemistry   n= 255 grp= 202 p=0.557 AUC=0.725±0.017 PR=0.739 MCC=0.350±0.043 BA=0.675 F1=0.706(더미실측0.715/식0.715)
+[   49.3s]   eye  inclusive         regulatory_minus_sdsv1 S1_minus_CT26  n= 255 grp= 202 p=0.557 AUC=0.724±0.016 PR=0.732 MCC=0.351±0.037 BA=0.676 F1=0.708(더미실측0.715/식0.715)
+[   56.5s]   eye  strict            all                    S1_chemistry   n=1153 grp= 477 p=0.335 AUC=0.720±0.007 PR=0.563 MCC=0.365±0.029 BA=0.675 F1=0.559(더미실측0.000/식0.502)
+[   63.6s]   eye  strict            all                    S1_minus_CT26  n=1153 grp= 477 p=0.335 AUC=0.715±0.007 PR=0.565 MCC=0.361±0.029 BA=0.671 F1=0.552(더미실측0.000/식0.502)
+[   69.3s]   eye  strict            measured               S1_chemistry   n= 608 grp= 273 p=0.191 AUC=0.690±0.012 PR=0.366 MCC=0.200±0.044 BA=0.568 F1=0.267(더미실측0.000/식0.320)
+[   75.1s]   eye  strict            measured               S1_minus_CT26  n= 608 grp= 273 p=0.191 AUC=0.684±0.007 PR=0.366 MCC=0.195±0.045 BA=0.567 F1=0.265(더미실측0.000/식0.320)
+[   80.7s]   eye  strict            regulatory             S1_chemistry   n= 545 grp= 351 p=0.495 AUC=0.662±0.012 PR=0.643 MCC=0.233±0.034 BA=0.616 F1=0.628(더미실측0.000/식0.663)
+[   86.4s]   eye  strict            regulatory             S1_minus_CT26  n= 545 grp= 351 p=0.495 AUC=0.665±0.013 PR=0.643 MCC=0.242±0.029 BA=0.621 F1=0.633(더미실측0.000/식0.663)
+[   91.8s]   eye  strict            regulatory_minus_sdsv1 S1_chemistry   n= 255 grp= 202 p=0.455 AUC=0.712±0.012 PR=0.628 MCC=0.324±0.007 BA=0.662 F1=0.634(더미실측0.000/식0.625)
+[   97.2s]   eye  strict            regulatory_minus_sdsv1 S1_minus_CT26  n= 255 grp= 202 p=0.455 AUC=0.708±0.008 PR=0.621 MCC=0.329±0.021 BA=0.665 F1=0.640(더미실측0.000/식0.625)
+[  103.9s]   eye  strict_drop       all                    S1_chemistry   n= 826 grp= 415 p=0.467 AUC=0.708±0.006 PR=0.674 MCC=0.328±0.019 BA=0.664 F1=0.649(더미실측0.000/식0.637)
+[  110.7s]   eye  strict_drop       all                    S1_minus_CT26  n= 826 grp= 415 p=0.467 AUC=0.707±0.009 PR=0.675 MCC=0.314±0.018 BA=0.657 F1=0.640(더미실측0.000/식0.637)
+[  116.1s]   eye  strict_drop       measured               S1_chemistry   n= 334 grp= 193 p=0.347 AUC=0.723±0.011 PR=0.572 MCC=0.333±0.043 BA=0.652 F1=0.523(더미실측0.000/식0.516)
+[  121.5s]   eye  strict_drop       measured               S1_minus_CT26  n= 334 grp= 193 p=0.347 AUC=0.717±0.011 PR=0.563 MCC=0.320±0.031 BA=0.649 F1=0.522(더미실측0.000/식0.516)
+[  127.1s]   eye  strict_drop       regulatory             S1_chemistry   n= 492 grp= 327 p=0.549 AUC=0.668±0.011 PR=0.707 MCC=0.216±0.033 BA=0.607 F1=0.654(더미실측0.709/식0.709)
+[  132.7s]   eye  strict_drop       regulatory             S1_minus_CT26  n= 492 grp= 327 p=0.549 AUC=0.662±0.013 PR=0.702 MCC=0.199±0.026 BA=0.599 F1=0.646(더미실측0.709/식0.709)
+[  138.1s]   eye  strict_drop       regulatory_minus_sdsv1 S1_chemistry   n= 229 grp= 185 p=0.507 AUC=0.738±0.005 PR=0.720 MCC=0.368±0.029 BA=0.684 F1=0.683(더미실측0.672/식0.672)
+[  143.5s]   eye  strict_drop       regulatory_minus_sdsv1 S1_minus_CT26  n= 229 grp= 185 p=0.507 AUC=0.739±0.006 PR=0.715 MCC=0.365±0.029 BA=0.682 F1=0.682(더미실측0.672/식0.672)
+[  150.4s]   skin inclusive         all                    S1_chemistry   n=1059 grp= 477 p=0.350 AUC=0.756±0.005 PR=0.644 MCC=0.370±0.010 BA=0.677 F1=0.570(더미실측0.000/식0.519)
+[  157.6s]   skin inclusive         all                    S1_minus_CT26  n=1059 grp= 477 p=0.350 AUC=0.755±0.006 PR=0.642 MCC=0.373±0.020 BA=0.678 F1=0.571(더미실측0.000/식0.519)
+[  163.3s]   skin inclusive         measured               S1_chemistry   n= 544 grp= 257 p=0.184 AUC=0.677±0.014 PR=0.328 MCC=0.127±0.047 BA=0.525 F1=0.116(더미실측0.000/식0.311)
+[  168.9s]   skin inclusive         measured               S1_minus_CT26  n= 544 grp= 257 p=0.184 AUC=0.676±0.013 PR=0.326 MCC=0.127±0.037 BA=0.525 F1=0.116(더미실측0.000/식0.311)
+[  174.6s]   skin inclusive         regulatory             S1_chemistry   n= 515 grp= 349 p=0.526 AUC=0.710±0.008 PR=0.729 MCC=0.323±0.011 BA=0.660 F1=0.693(더미실측0.690/식0.690)
+[  180.3s]   skin inclusive         regulatory             S1_minus_CT26  n= 515 grp= 349 p=0.526 AUC=0.712±0.012 PR=0.728 MCC=0.317±0.019 BA=0.657 F1=0.691(더미실측0.690/식0.690)
+[  185.6s]   skin inclusive         regulatory_minus_sdsv1 S1_chemistry   n= 230 grp= 188 p=0.496 AUC=0.747±0.017 PR=0.739 MCC=0.359±0.061 BA=0.679 F1=0.691(더미실측0.000/식0.663)
+[  190.9s]   skin inclusive         regulatory_minus_sdsv1 S1_minus_CT26  n= 230 grp= 188 p=0.496 AUC=0.752±0.016 PR=0.743 MCC=0.352±0.050 BA=0.675 F1=0.688(더미실측0.000/식0.663)
+[  197.9s]   skin strict            all                    S1_chemistry   n=1059 grp= 477 p=0.259 AUC=0.771±0.007 PR=0.613 MCC=0.443±0.012 BA=0.716 F1=0.581(더미실측0.000/식0.411)
+[  204.8s]   skin strict            all                    S1_minus_CT26  n=1059 grp= 477 p=0.259 AUC=0.769±0.005 PR=0.613 MCC=0.448±0.013 BA=0.718 F1=0.584(더미실측0.000/식0.411)
+[  210.4s]   skin strict            measured               S1_chemistry   n= 544 grp= 257 p=0.033 AUC=0.798±0.023 PR=0.163 MCC=0.046±0.104 BA=0.506 F1=0.021(더미실측0.000/식0.064)  [저신뢰]
+[  215.9s]   skin strict            measured               S1_minus_CT26  n= 544 grp= 257 p=0.033 AUC=0.811±0.010 PR=0.159 MCC=0.046±0.104 BA=0.506 F1=0.021(더미실측0.000/식0.064)  [저신뢰]
+[  221.5s]   skin strict            regulatory             S1_chemistry   n= 515 grp= 349 p=0.497 AUC=0.713±0.011 PR=0.718 MCC=0.290±0.018 BA=0.645 F1=0.654(더미실측0.000/식0.664)
+[  227.1s]   skin strict            regulatory             S1_minus_CT26  n= 515 grp= 349 p=0.497 AUC=0.710±0.007 PR=0.717 MCC=0.279±0.027 BA=0.639 F1=0.652(더미실측0.000/식0.664)
+[  232.4s]   skin strict            regulatory_minus_sdsv1 S1_chemistry   n= 230 grp= 188 p=0.474 AUC=0.746±0.013 PR=0.731 MCC=0.360±0.045 BA=0.680 F1=0.678(더미실측0.000/식0.643)
+[  237.7s]   skin strict            regulatory_minus_sdsv1 S1_minus_CT26  n= 230 grp= 188 p=0.474 AUC=0.752±0.010 PR=0.735 MCC=0.380±0.034 BA=0.690 F1=0.685(더미실측0.000/식0.643)
+[  244.6s]   skin strict_drop       all                    S1_chemistry   n=1044 grp= 471 p=0.262 AUC=0.775±0.003 PR=0.614 MCC=0.451±0.014 BA=0.717 F1=0.586(더미실측0.000/식0.416)
+[  251.5s]   skin strict_drop       all                    S1_minus_CT26  n=1044 grp= 471 p=0.262 AUC=0.775±0.005 PR=0.609 MCC=0.448±0.011 BA=0.716 F1=0.584(더미실측0.000/식0.416)
+[  257.0s]   skin strict_drop       measured               S1_chemistry   n= 544 grp= 257 p=0.033 AUC=0.798±0.023 PR=0.163 MCC=0.046±0.104 BA=0.506 F1=0.021(더미실측0.000/식0.064)  [저신뢰]
+[  262.5s]   skin strict_drop       measured               S1_minus_CT26  n= 544 grp= 257 p=0.033 AUC=0.811±0.010 PR=0.159 MCC=0.046±0.104 BA=0.506 F1=0.021(더미실측0.000/식0.064)  [저신뢰]
+[  268.2s]   skin strict_drop       regulatory             S1_chemistry   n= 500 grp= 339 p=0.512 AUC=0.717±0.009 PR=0.731 MCC=0.337±0.012 BA=0.667 F1=0.692(더미실측0.677/식0.677)
+[  274.0s]   skin strict_drop       regulatory             S1_minus_CT26  n= 500 grp= 339 p=0.512 AUC=0.716±0.008 PR=0.728 MCC=0.332±0.007 BA=0.665 F1=0.689(더미실측0.677/식0.677)
+[  279.3s]   skin strict_drop       regulatory_minus_sdsv1 S1_chemistry   n= 225 grp= 183 p=0.484 AUC=0.738±0.006 PR=0.736 MCC=0.320±0.029 BA=0.659 F1=0.667(더미실측0.000/식0.653)
+[  284.6s]   skin strict_drop       regulatory_minus_sdsv1 S1_minus_CT26  n= 225 grp= 183 p=0.484 AUC=0.739±0.008 PR=0.735 MCC=0.328±0.020 BA=0.663 F1=0.668(더미실측0.000/식0.653)
+[  291.6s]   skin strict_skin_only3 all                    S1_chemistry   n=1059 grp= 477 p=0.336 AUC=0.755±0.008 PR=0.639 MCC=0.373±0.020 BA=0.678 F1=0.563(더미실측0.000/식0.503)
+[  298.5s]   skin strict_skin_only3 all                    S1_minus_CT26  n=1059 grp= 477 p=0.336 AUC=0.754±0.007 PR=0.636 MCC=0.355±0.020 BA=0.670 F1=0.552(더미실측0.000/식0.503)
+[  304.1s]   skin strict_skin_only3 measured               S1_chemistry   n= 544 grp= 257 p=0.184 AUC=0.677±0.014 PR=0.328 MCC=0.127±0.047 BA=0.525 F1=0.116(더미실측0.000/식0.311)
+[  309.8s]   skin strict_skin_only3 measured               S1_minus_CT26  n= 544 grp= 257 p=0.184 AUC=0.676±0.013 PR=0.326 MCC=0.127±0.037 BA=0.525 F1=0.116(더미실측0.000/식0.311)
+[  315.4s]   skin strict_skin_only3 regulatory             S1_chemistry   n= 515 grp= 349 p=0.497 AUC=0.713±0.011 PR=0.718 MCC=0.290±0.018 BA=0.645 F1=0.654(더미실측0.000/식0.664)
+[  321.1s]   skin strict_skin_only3 regulatory             S1_minus_CT26  n= 515 grp= 349 p=0.497 AUC=0.710±0.007 PR=0.717 MCC=0.279±0.027 BA=0.639 F1=0.652(더미실측0.000/식0.664)
+[  326.5s]   skin strict_skin_only3 regulatory_minus_sdsv1 S1_chemistry   n= 230 grp= 188 p=0.474 AUC=0.746±0.013 PR=0.731 MCC=0.360±0.045 BA=0.680 F1=0.678(더미실측0.000/식0.643)
+[  331.9s]   skin strict_skin_only3 regulatory_minus_sdsv1 S1_minus_CT26  n= 230 grp= 188 p=0.474 AUC=0.752±0.010 PR=0.735 MCC=0.380±0.034 BA=0.690 F1=0.685(더미실측0.000/식0.643)
+[  338.3s]   sens inclusive         all                    S1_chemistry   n= 716 grp= 364 p=0.532 AUC=0.697±0.013 PR=0.726 MCC=0.298±0.032 BA=0.649 F1=0.670(더미실측0.695/식0.695)
+[  344.6s]   sens inclusive         all                    S1_minus_CT26  n= 716 grp= 364 p=0.532 AUC=0.679±0.011 PR=0.708 MCC=0.275±0.035 BA=0.637 F1=0.660(더미실측0.695/식0.695)
+[  344.6s]   sens inclusive         measured               n=0 → 측정 불가
+[  351.1s]   sens inclusive         regulatory             S1_chemistry   n= 716 grp= 364 p=0.532 AUC=0.697±0.013 PR=0.726 MCC=0.298±0.032 BA=0.649 F1=0.670(더미실측0.695/식0.695)
+[  357.6s]   sens inclusive         regulatory             S1_minus_CT26  n= 716 grp= 364 p=0.532 AUC=0.679±0.011 PR=0.708 MCC=0.275±0.035 BA=0.637 F1=0.660(더미실측0.695/식0.695)
+[  363.0s]   sens inclusive         regulatory_minus_sdsv1 S1_chemistry   n= 321 grp= 185 p=0.614 AUC=0.615±0.024 PR=0.696 MCC=0.166±0.045 BA=0.583 F1=0.676(더미실측0.761/식0.761)
+[  368.3s]   sens inclusive         regulatory_minus_sdsv1 S1_minus_CT26  n= 321 grp= 185 p=0.614 AUC=0.615±0.028 PR=0.695 MCC=0.168±0.050 BA=0.584 F1=0.672(더미실측0.761/식0.761)
+[  368.3s] → /Users/hanseoyun/Desktop/260830/04_모델산출물/v5_perf_grid/target_definition_grid.csv  (62행)
+[  368.4s] → /Users/hanseoyun/Desktop/260830/04_모델산출물/v5_perf_grid/target_definition_deltas.csv  (71행)
+[  368.4s] → /Users/hanseoyun/Desktop/260830/04_모델산출물/v5_perf_grid/target_definition_grid.json
+[  368.4s] 고신뢰 셀 최대 ROC-AUC = 0.7747075552185041
+[  368.4s] 완료

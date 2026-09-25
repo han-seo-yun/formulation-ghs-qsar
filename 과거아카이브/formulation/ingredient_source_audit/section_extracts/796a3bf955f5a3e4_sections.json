@@ -1,0 +1,35 @@
+{
+  "source_id": "796a3bf955f5a3e4",
+  "file_path": "ingredient_source_audit/highlighted/796a3bf955f5a3e4_highlighted.pdf",
+  "page_count": 9,
+  "full_text_length": 18601,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "24 Hour Emergency Response Information",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "Product and Company Identification \n24 Hour Emergency Response Information  \nCompany \nBASF CORPORATION \n100 Campus Drive \nFlorham Park, NJ 07932, USA \n \nCHEMTREC: 1-800-424-9300 \nBASF HOTLINE: 1-800-832-HELP \n \n \n \nSubstance number: \n000000239241  \nMolecular formula: \nC17 H17 Cl F4 N4 O5 S  \nChemica"
+  },
+  "section_2": {
+    "signal_word": "CAUTION",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 1,
+    "text_excerpt": "2. Hazards Identification \nEmergency overview \n \nCAUTION: \nHARMFUL IF SWALLOWED.  \nHARMFUL IF ABSORBED THROUGH SKIN.  \nMay cause moderate but temporary irritation to the eyes.  \nKEEP OUT OF REACH OF CHILDREN.  \nKEEP OUT OF REACH OF DOMESTIC ANIMALS.  \nAvoid contact with the skin, eyes and clothing. "
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

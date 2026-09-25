@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"cd \\\"/Users/hanseoyun/Desktop/신작물보호제\\\" && python3 -c \\\"\\nimport docx\\nd = docx.Document('01_파이프라인/verify/../..'.replace('..','')) if False else None\\n\\\"\\ngrep -n \\\"\\\\\\\"D7\\\\|'D7\\\\|D7[:.,]\\\\...",
+  "error": "Exit code 1\n01_파이프라인/apply_negrec_mask_and_split_review.py:735:    {\"항목ID\": \"D7\", \"구분\": \"방법론 결정\",\n01_파이프라인/make_meeting_lecture_docx.py:838:    \"D7\": (\"오늘 필요\", \"감작 arm 선택(D11) · 이 자료의 모든 성능 수치의 기준\",\n01_파이프라인/make_meeting_lecture_docx.py:851:ORDER = [\"B4\", \"D7\", \"D11\", \"D8\", \"B1\", \"B3\", \"B2\", \"D12\", \"D4\"]\n01_파이프라인/make_meeting_lecture_docx.py:859:     \"D7·D11 은 감작 학습 설정, D8 은 임계값 구현이다. \"\n01_파이프라인/revise_meeting_report_part4.py:118:    ax1.set_title(\"D7: 결측 규모\")\n01_파이프라인/revise_meeting_report_part...",
+  "timestamp": "2026-09-08T04:52:32.642Z",
+  "retry_count": 2
+}

@@ -1,0 +1,44 @@
+flumioxazin :: 92425
+1,2-benzisothiazol-3(2H)-one :: 17520
+clodinafop-propargyl :: 92431
+clothianidin :: 86287519
+abamectin :: 9920327
+sodium chlorite :: 23668197
+imidacloprid :: 86287518
+fipronil :: 3352
+boscalid :: 213013
+pyraclostrobin :: 6422843
+cymoxanil :: 5364079
+glyphosate :: 3496
+desmedipham :: 24743
+chlorantraniliprole :: 11271640
+chlorothalonil :: 15910
+bifenthrin :: 6442842
+lambda-cyhalothrin :: 6440557
+pirimiphos-methyl :: 34526
+4,5-dichloro-2-octylisothiazol-3-one :: NONE
+aminocyclopyrachlor-methyl :: 16725794
+carfentrazone-ethyl :: 86222
+dicamba :: 3030
+2,4-D :: 1486
+spirodiclofen :: 177863
+tebuconazole :: 86102
+iprodione :: 37517
+etoxazole :: 153974
+tau-fluvalinate :: 91768
+sulfur :: 5362487
+monopotassium phosphate :: 516951
+metofluthrin :: 5282227
+permethrin :: 40326
+propiconazole :: 43234
+nicotine :: 89594
+penthiopyrad :: 11388558
+thiamethoxam :: 5821911
+fludioxonil :: 86398
+azoxystrobin :: 3034285
+metalaxyl-M :: 11150163
+malathion :: 4004
+flufenpyr-ethyl :: 3083546
+glufosinate-ammonium :: 53597
+piperonyl butoxide :: 5794
+pyrethrins :: 60202781

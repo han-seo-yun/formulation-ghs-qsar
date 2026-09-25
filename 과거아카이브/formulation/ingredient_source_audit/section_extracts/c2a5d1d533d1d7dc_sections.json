@@ -1,0 +1,37 @@
+{
+  "source_id": "c2a5d1d533d1d7dc",
+  "file_path": "ingredient_source_audit/highlighted/c2a5d1d533d1d7dc_highlighted.pdf",
+  "page_count": 10,
+  "full_text_length": 23217,
+  "sections_found": [
+    "section_1",
+    "section_15",
+    "section_2",
+    "section_3",
+    "section_14"
+  ],
+  "section_1": {
+    "product_name": "Product identifier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. Identification \nProduct identifier \nProduct Name \nBIFEN G/N 7.9F SELECT \nOther means of identification \nProduct Code(s) \n89442-24 \nSynonyms \nNone  \nRegistration Number(s) \n89442-24  \nRecommended use of the chemical and restrictions on use \nRecommended use \nInsecticide  \nRestrictions on use \nFollo"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Carcinogenicity"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. Hazard(s) identification \nClassification \nAcute toxicity - Oral \nCategory 2  \nAcute toxicity - Inhalation (Dusts/Mists) \nCategory 4  \nSkin sensitization \nCategory 1B  \nCarcinogenicity \nCategory 2  \nSpecific target organ toxicity (repeated exposure) \nCategory 1  \nHazards not otherwise classified ("
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "source_id": "f151a049d1ba54a9",
+  "file_path": "ingredient_source_audit/highlighted/f151a049d1ba54a9_highlighted.pdf",
+  "page_count": 11,
+  "full_text_length": 25130,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Organisation",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. IDENTIFICATION\nOrganisation\nLocation\nTelephone\nRedox Ltd\n2 Swettenham Road\nMinto NSW 2566\nAustralia\n+61-2-97333000\nRedox Ltd\n11 Mayo Road\nWiri Auckland 2104\nNew Zealand\n+64-9-2506222\nRedox Inc.\n3960 Paramount Boulevard\nSuite 107\nLakewood CA 90712\nUSA\n+1-424-675-3200\nRedox Chemicals Sdn Bhd\nSuite "
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H290",
+      "H302",
+      "H314",
+      "H317",
+      "H410"
+    ],
+    "p_codes": [
+      "P260",
+      "P280",
+      "P273",
+      "P270",
+      "P272",
+      "P234",
+      "P264",
+      "P303",
+      "P361",
+      "P353",
+      "P310",
+      "P305",
+      "P351",
+      "P338",
+      "P390",
+      "P301",
+      "P330",
+      "P331",
+      "P363",
+      "P333",
+      "P313",
+      "P391",
+      "P304",
+      "P340",
+      "P370",
+      "P378"
+    ],
+    "ghs_classes": [
+      "Skin Corrosion"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "2. HAZARD IDENTIFICATION\nSAFETY DATA SHEET\nPROXEL GXL\nREVISION 4, DATE 10 JAN 2024\nForm 21047, Revision 3, Page 1 of 11, 04-Jun-2026 02:01:19\nAustralia\nAdelaide\nBrisbane\nMelbourne\nPerth\nSydney\nNew Zealand\nAuckland\nChristchurch\nHawke’s Bay\nMalaysia\nKuala Lumpur\nUSA\nLos Angeles\nOakland\nUK \nLondon\nMexi"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "source_id": "0df309adc32d174c",
+  "file_path": "ingredient_source_audit/highlighted/0df309adc32d174c_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 18725,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_14",
+    "section_3",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product Name:",
+    "formulation_code": null,
+    "epa_reg_number": "70506-500",
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": "EPA",
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: IDENTIFICATION \n \n \nProduct Name: \nSection® Three \nEPA Registration #: \n70506-500-1381 \nCommon Name: \nClethodim \nChemical Description: \nClethodim \nRecommended Uses: \nAgricultural herbicide. See product label for complete list of uses and use sites. \nRestrictions for Use: \nSee product labe"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Carcinogenicity"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2: HAZARDS IDENTIFICATION \nEMERGENCY OVERVIEW:  Amber liquid with aromatic solvent odor.  Causes moderate eye irritation. Aspiration hazard. \nCombustible liquid. \nPOTENTIAL HEALTH EFFECTS: \nEyes: Causes mild to moderate but temporary eye irritation. \nSkin: May cause skin irritation but any e"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

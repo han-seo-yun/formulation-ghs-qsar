@@ -1,0 +1,82 @@
+{
+  "source_id": "01b9a6ba15948550",
+  "file_path": "ingredient_source_audit/highlighted/01b9a6ba15948550_highlighted.pdf",
+  "page_count": 7,
+  "full_text_length": 11174,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product name",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION\n \nProduct name\n:\nNutmeg (India) Essential Oil\n \nBotanical name\n:\nMyristica fragrans\n \nINCI name\n:\nMyristica Fragrans Kernel Oil\n \nCAS #\n:\n8007-12-3 / 8008-45-5\n \nCountry of Origin\n:\nIndia\n \nProduct use\n:\nDomestic and Industrial\n \nSupplier\n:\nNew Directions Aromatics"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H226",
+      "H315",
+      "H317",
+      "H319",
+      "H341",
+      "H350",
+      "H400",
+      "H410"
+    ],
+    "p_codes": [
+      "P201",
+      "P202",
+      "P210",
+      "P233",
+      "P240",
+      "P241",
+      "P242",
+      "P243",
+      "P261",
+      "P264",
+      "P272",
+      "P273",
+      "P280",
+      "P301",
+      "P310",
+      "P302",
+      "P352",
+      "P303",
+      "P361",
+      "P353",
+      "P305",
+      "P351",
+      "P338",
+      "P332",
+      "P313",
+      "P333",
+      "P337",
+      "P362",
+      "P364",
+      "P370",
+      "P391",
+      "P403",
+      "P235"
+    ],
+    "ghs_classes": [
+      "Skin Corrosion",
+      "Carcinogenicity",
+      "explosion"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 5,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION\n \nEmergency Overview\n \nGHS Classification\n \nFlammable Liquid - Category 3\n \nSkin Corrosion/Irritation - Category 2\n \nSerious eye damga/eye irritation - Category 2A\n \nSkin Sensitization - Category 1\n \nGerm cell mutagenicity - Category 2\n \nCarcinogenicity - Category 1B\n \nHaza"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

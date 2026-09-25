@@ -1,0 +1,16 @@
+{
+  "source_id": "65ba622bb02581cf",
+  "file_path": "ingredient_source_audit/highlighted/65ba622bb02581cf_highlighted.pdf",
+  "page_count": 5,
+  "full_text_length": 9210,
+  "sections_found": [
+    "label_header"
+  ],
+  "label_header": {
+    "epa_reg_number": null,
+    "formulation_code": null,
+    "signal_word": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "MATERIAL SAFETY DATA SHEET\nAgricultural Products Group\nP.O.Box 13528, \nResearch Triangle Park, NC 27709\nBASF Corporation\nEMERGENCY TELEPHONE NUMBERS:\nBASF Corporation:  1 (800) 832-HELP\nCHEMTREC:  1 (800) 424-9300\nProduct No.: 579604\nAmdro® Pro fire ant bait\nDate Prepared: 6/21/2000     Date Revised"
+  }
+}

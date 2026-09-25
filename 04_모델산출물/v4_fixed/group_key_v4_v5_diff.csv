@@ -1,0 +1,39 @@
+Formulation_ID,group_key,group_primary_cas,group_primary_name,group_key_src,group_primary_from_same_row,group_primary_ing_idx,group_primary_cas_ing_idx,group_primary_name_ing_idx,group_key_v4,group_primary_cas_v4,group_primary_name_v4,_merge
+EyeIrritation6pack_PID1005,6440-58-0,6440-58-0,"1,3-Dimethylol-5,5-dimethylhydantoin",cas,True,2.0,2.0,2.0,64742-47-8,64742-47-8,"Distillates (Petroleum), Hydrotreated Light",both
+EyeIrritation6pack_PID1044,29450-45-1,29450-45-1,2-Ethylhexyl (4-chloro-2-methylphenoxy)acetate,cas,True,1.0,1.0,1.0,75-09-0,75-09-0,Methylene Chloride,both
+EyeIrritation6pack_PID23,131860-33-8,131860-33-8,Azoxystrobin,cas,True,1.0,1.0,1.0,20427-59-2,20427-59-2,Copper(II) hydroxide,both
+EyeIrritation6pack_PID32,Name : Abamectin techn. min,,Name : Abamectin techn. min,name,False,0.0,,0.0,71751-41-2,71751-41-2,Name : Abamectin techn. min,both
+EyeIrritation6pack_PID494,577-11-7,577-11-7,spinosad (ISO) (reaction mass of,cas,False,2.0,2.0,0.0,168316-95-8,168316-95-8,spinosad (ISO) (reaction mass of,both
+EyeIrritation6pack_PID498,"p1r-oUpnedneyclaanmolino-, monosodium salt, polymer with - 1 EzeFlo F103 #1Surfactant, fracturing X S",,"p1r-oUpnedneyclaanmolino-, monosodium salt, polymer with - 1 EzeFlo F103 #1Surfactant, fracturing X S",name,False,8.0,,8.0,Acetic acid atom % D 1 Acetic acid 100 Uatnokmno %w nD X S,,Acetic acid atom % D 1 Acetic acid 100 Uatnokmno %w nD X S,both
+EyeIrritation6pack_PID500,577-11-7,577-11-7,spinosad (ISO) (reaction mass of,cas,False,2.0,2.0,0.0,168316-95-8,168316-95-8,spinosad (ISO) (reaction mass of,both
+EyeIrritation6pack_PID560,111991-09-4,111991-09-4,Nicosulfuron,cas,True,1.0,1.0,1.0,64742-47-8,64742-47-8,"Distillates (petroleum), hydrotreated light",both
+EyeIrritation6pack_PID602,Other/Inert Ingredients,,Other/Inert Ingredients,name,False,3.0,,3.0,Other ingredients,,Other ingredients,both
+EyeIrritation6pack_PID674,34256-82-1,34256-82-1,Acetochlor,cas,True,1.0,1.0,1.0,627-91-8,627-91-8,"Hexanedioic acid, monomethyl ester",both
+EyeIrritation6pack_PID675,34256-82-1,34256-82-1,Acetochlor,cas,True,6.0,6.0,6.0,78-93-3,78-93-3,Butan-2-one w/w,both
+EyeIrritation6pack_PID739,210880-92-5,210880-92-5,Clothianidin,cas,True,2.0,2.0,2.0,7732-18-5,7732-18-5,Water/Inactive Ingredients,both
+EyeIrritation6pack_PID760,97-99-4,97-99-4,Tetrahydrofurfuryl,cas,True,1.0,1.0,1.0,243973-20-8,243973-20-8,Pinoxaden,both
+EyeIrritation6pack_PID765,Other/Inert Ingredients,,Other/Inert Ingredients,name,False,4.0,,4.0,Other ingredients,,Other ingredients,both
+EyeIrritation6pack_PID77,566191-89-7,566191-89-7,Aminopyralid Triisopropanolamine Salt,cas,True,0.0,0.0,0.0,150114-71-9,150114-71-9,Aminopyralid,both
+EyeIrritation6pack_PID813,Bispyribac-sodium,,Bispyribac-sodium,name,False,0.0,,0.0,Total,,Total,both
+EyeIrritation6pack_PID869,38641-94-0,38641-94-0,"isopropylamine salt (EC no) -8 Poly(oxy-1,2-ethanediyl),.alpha.-phosphono-.omega.-",cas,True,0.0,0.0,0.0,1071-83-6,1071-83-6,Glyphosate,both
+EyeIrritation6pack_PID955,Active ingredient (% w/w): Tebuconazole Technical,,Active ingredient (% w/w): Tebuconazole Technical,name,False,0.0,,0.0,107534-96-3,107534-96-3,Active ingredient (% w/w): Tebuconazole Technical,both
+EyeIrritation6pack_PID977,210880-92-5,210880-92-5,Clothianidin,cas,True,5.0,5.0,5.0,64742-94-5,64742-94-5,Heavy aromatic naptha solvent,both
+MIX10,131860-33-8,131860-33-8,Azoxystrobin,cas,True,1.0,1.0,1.0,20427-59-2,20427-59-2,Copper(II) hydroxide,both
+MIX1048,Diethylene Glycol Monobutyl Ether,,Diethylene Glycol Monobutyl Ether,name,False,0.0,,0.0,112-34-5,112-34-5,Diethylene Glycol Monobutyl Ether,both
+MIX1052,80-56-8,80-56-8,"Limonene, (-)-",cas,False,1.0,1.0,0.0,90028-76-5,90028-76-5,"Limonene, (-)-",both
+MIX13,71751-41-2,71751-41-2,Abamectin,cas,True,0.0,0.0,0.0,98-86-2,98-86-2,Acetophenone,both
+MIX15,98-86-2,98-86-2,Acetophenone,cas,True,1.0,1.0,1.0,65195-56-4,65195-56-4,"Avermectin B1b (무관 순물질 데이터로 판단, 완제품 구성에서 제외 권고)",both
+MIX155,858956-35-1,858956-35-1,Potassium salt of aminocyclopyrachlor,cas,True,0.0,0.0,0.0,858956-08-8,858956-08-8,Inert Ingredients,both
+MIX310,208465-21-8,208465-21-8,Mesosulfuron-methyl,cas,True,1.0,1.0,1.0,208465-19-4,208465-19-4,Mesosulfuron-methyl,both
+MIX333,34256-82-1,34256-82-1,Acetochlor,cas,True,1.0,1.0,1.0,627-91-8,627-91-8,Adipic Acid Monomethyl Ester,both
+MIX334,34256-82-1,34256-82-1,Acetochlor,cas,True,6.0,6.0,6.0,78-93-3,78-93-3,Butan-2-one w/w,both
+MIX398,210880-92-5,210880-92-5,Clothianidin,cas,True,2.0,2.0,2.0,7732-18-5,7732-18-5,Water/Inactive Ingredients,both
+MIX412,36734-19-7,36734-19-7,"Iprodione - 원본 문서에 근거 없음, 다른 제품 데이터 혼입으로 판단, 제외 권고",cas,True,4.0,4.0,4.0,20427-59-2,20427-59-2,Copper hydroxide,both
+MIX425,97-99-4,97-99-4,Tetrahydrofurfuryl alcohol,cas,True,1.0,1.0,1.0,243973-20-8,243973-20-8,Pinoxaden,both
+MIX470,1332-58-7,1332-58-7,Kaolin,cas,True,1.0,1.0,1.0,84087-01-4,84087-01-4,Quinclorac,both
+MIX491,210880-92-5,210880-92-5,Clothianidin,cas,True,5.0,5.0,5.0,64742-94-5,64742-94-5,Heavy aromatic naptha solvent,both
+MIX537,29450-45-1,29450-45-1,MCPA-2-ethylhexyl,cas,True,1.0,1.0,1.0,75-09-0,75-09-0,Methylene Chloride,both
+MIX801,7681-57-4,7681-57-4,Sodium metabisulfite,cas,True,2.0,2.0,2.0,1310-73-2,1310-73-2,Sodium hydroxide,both
+MIX804,7664-93-9,7664-93-9,Sulfuric acid,cas,True,1.0,1.0,1.0,151-21-3,151-21-3,Sodium dodecyl sulfate,both
+MIX818,124-07-2,124-07-2,Octanoic acid (unverified - not present in this mismatched source),cas,True,1.0,1.0,1.0,334-48-5,334-48-5,Decanoic acid (Capric acid),both
+MIX819,124-07-2,124-07-2,Octanoic acid (unverified - not present in this mismatched source),cas,True,1.0,1.0,1.0,334-48-5,334-48-5,Decanoic acid (Capric acid),both

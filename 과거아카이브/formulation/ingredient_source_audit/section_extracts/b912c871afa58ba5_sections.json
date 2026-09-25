@@ -1,0 +1,35 @@
+{
+  "source_id": "b912c871afa58ba5",
+  "file_path": "ingredient_source_audit/highlighted/b912c871afa58ba5_highlighted.pdf",
+  "page_count": 16,
+  "full_text_length": 36204,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Company Identification:",
+    "formulation_code": null,
+    "epa_reg_number": "21164-9",
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": "EPA",
+    "active_ingredient_declared": false,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION\nCompany Identification: \nNeogen Corporation \n620 Lesher Place \nLansing, Ml USA \n800-234-5333\n24 Hour Emergency Telephone 1-800-234-5333 \nNumber: \nProduct Identifier: \nSynonyms: \nProduct Use: \nUses Advised Against: \nPrint date: 05-03-2014 \nAquaPrime® NeoKlor \n7.5% S"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "HAZARDS IDENTIFICATION\nOSHA REGULATORY STATUS: This material is considered hazardous by the OSHA Hazard Communication \nStandard (29 CFR 1910.1200). \n********************************************************************************************************************************** \nEMERGENCY OVERVIEW:"
+  },
+  "section_14": {
+    "un_number": "1908"
+  }
+}

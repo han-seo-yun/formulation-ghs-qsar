@@ -1,0 +1,50 @@
+{
+  "source_id": "a3be52c2c71a5c45",
+  "file_path": "ingredient_source_audit/highlighted/a3be52c2c71a5c45_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 12564,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product Name",
+    "formulation_code": "EC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. IDENTIFICATION OF THE SUBSTANCE/PREPARATION & THE COMPANY/UNDERTAKING \nProduct Name \nBay Laurel Oil Organic \nBiological Definition \nVolatile oil obtained by steam distillation of the dried leaves of Laurus nobilis Fam. \nLauraceae. \nINCI Name \nLaurus Nobilis Leaf Oil \nSynonyms & Trade Names \nSweet"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H226",
+      "H304",
+      "H315",
+      "H317",
+      "H319",
+      "H341",
+      "H351"
+    ],
+    "p_codes": [
+      "P262",
+      "P280",
+      "P281",
+      "P301",
+      "P331",
+      "P305"
+    ],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 5,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION \nClassification (1999/45) \nXn;  R10-38-40-43-52/53-65-68, S24-36/37-62 \nClassification (EC 1272/2008) \nUN-GHS: FL 3, ATO 5(3950), AH 1, SCI 2, SS 1, EDI 2A, CAR 2, MUT 2, EH \nA3,C3 \nEU-CLP: FL 3, AH 1, SCI 2, SS 1, EDI 2, CAR 2, MUT 2 \nLabel in accordance with (EC) No \n1272"
+  },
+  "section_14": {
+    "un_number": "1169"
+  }
+}

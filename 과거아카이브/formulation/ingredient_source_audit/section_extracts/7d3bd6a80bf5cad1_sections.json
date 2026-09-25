@@ -1,0 +1,75 @@
+{
+  "source_id": "7d3bd6a80bf5cad1",
+  "file_path": "ingredient_source_audit/highlighted/7d3bd6a80bf5cad1_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 11767,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product name",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. IDENTIFICATION OF THE SUBSTANCE/MIXTURE AND OF THE COMPANY/UNDERTAKING \nProduct name \n: \nGALBANUM OIL LMR \nIFF Code \n: \n00071027 \nSDS Number \n: \nR00000222243 \n \nUse of the Substance/Mixture \n: \nIngredient used in Flavour and/or Fragrance preparations \n \nCompany \n: \nIFF LMR Naturals \nParc Industri"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H226",
+      "H303",
+      "H304",
+      "H315",
+      "H317",
+      "H410"
+    ],
+    "p_codes": [
+      "P210",
+      "P233",
+      "P240",
+      "P241",
+      "P242",
+      "P243",
+      "P261",
+      "P264",
+      "P272",
+      "P273",
+      "P280",
+      "P301",
+      "P310",
+      "P303",
+      "P361",
+      "P353",
+      "P312",
+      "P331",
+      "P333",
+      "P313",
+      "P362",
+      "P364",
+      "P370",
+      "P378",
+      "P391",
+      "P403",
+      "P235",
+      "P405",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Skin corrosion",
+      "explosion"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION \nGHS-Classification \nFlammable liquids, Category 3  \nAcute toxicity, Category 5, Oral  \nSkin corrosion/irritation, Category 2  \nSkin sensitisation, Category 1  \nAspiration hazard, Category 1  \nShort-term (acute) aquatic hazard, Category 1  \nLong-term (chronic) aquatic hazar"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

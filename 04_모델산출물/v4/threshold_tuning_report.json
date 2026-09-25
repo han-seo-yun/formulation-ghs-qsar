@@ -1,0 +1,47 @@
+{
+ "eye": {
+  "n": 1105,
+  "f1_default_0.5": 0.791,
+  "f1_oof_tuned": 0.7051,
+  "balanced_acc_default_0.5": 0.6057,
+  "balanced_acc_oof_tuned": 0.6499,
+  "mean_selected_threshold": 0.624,
+  "thresholds_per_fold": [
+   0.6200000000000001,
+   0.6000000000000001,
+   0.7000000000000002,
+   0.6200000000000001,
+   0.5800000000000001
+  ]
+ },
+ "skin": {
+  "n": 992,
+  "f1_default_0.5": 0.6617,
+  "f1_oof_tuned": 0.6888,
+  "balanced_acc_default_0.5": 0.7398,
+  "balanced_acc_oof_tuned": 0.75,
+  "mean_selected_threshold": 0.408,
+  "thresholds_per_fold": [
+   0.44000000000000006,
+   0.4000000000000001,
+   0.36000000000000004,
+   0.4000000000000001,
+   0.44000000000000006
+  ]
+ },
+ "sens": {
+  "n": 595,
+  "f1_default_0.5": 0.7942,
+  "f1_oof_tuned": 0.7456,
+  "balanced_acc_default_0.5": 0.6742,
+  "balanced_acc_oof_tuned": 0.7083,
+  "mean_selected_threshold": 0.608,
+  "thresholds_per_fold": [
+   0.6000000000000001,
+   0.6000000000000001,
+   0.6000000000000001,
+   0.6000000000000001,
+   0.6400000000000001
+  ]
+ }
+}

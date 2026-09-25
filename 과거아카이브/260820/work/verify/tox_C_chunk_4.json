@@ -1,0 +1,395 @@
+[
+ {
+  "row": 633,
+  "product_name": "A12010C Fungicide",
+  "ingredient_names": "Copper(II) hydroxide | Azoxystrobin | Cyproconazole",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "제공된 hint URL은 순수 Copper(II) hydroxide(단일물질, Carl Roth 시약) SDS로, Azoxystrobin/Cyproconazole이 포함된 실제 제품(A12010C)과 불일치. 검색 엔진 접근 불가로 대체 제품 SDS 미발견",
+  "검증근거": "추출정보 공란 + 성분 불일치(다른 제품 SDS 의심)",
+  "pdf_path": null,
+  "urls": [
+   "https://www.carlroth.com/medias/SDB-9864-MT-EN.pdf?context=bWFzdGVyfHNlY3VyaXR5RGF0YXNoZWV0c3wzNDk5NTl8YXBwbGljYXRpb24vcGRmfGFEZGpMMmhqWWk4NU1qTXpNRGc0TlRFeU1ETXdMMU5FUWw4NU9EWTBYMDFVWDBWT0xuQmtaZ3w5YTk3MjkyMTI2YTdkMTBkNGUwYTI5ZjAwMTEzM2JiOGM4ZTIzZThmMjVhOTUzOWY4NTMxZTE3Yjk4MTgxNDZl"
+  ]
+ },
+ {
+  "row": 634,
+  "product_name": "Chipco Brand Triton 70 WDG Fungicide",
+  "ingredient_names": "Fosetyl Aluminium | Sodium diisopropylnaphthalene sulphonate | Crystalline quartz (respirable) | Triticonazole",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "검색 엔진 접근 불가(봇 차단/캐시 오류)로 SDS 자체를 찾지 못함",
+  "검증근거": "추출정보 공란 + 출처 접근 실패(링크불가·403/404·로그인·못찾음)",
+  "pdf_path": null,
+  "urls": [
+   "https://cdn.commercev3.net/cdn.ourprosolutions.com/downloads/SDS/Chipco-Signature-MSDS.pdf"
+  ]
+ },
+ {
+  "row": 651,
+  "product_name": "Mastic absolute",
+  "ingredient_names": "None",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "GHS 미분류 물질(Sigma-Aldrich SDS, Gum mastic CAS 61789-92-2), Dermal LD50 >5000mg/kg(rabbit) 외 분류정보 없음",
+  "검증근거": "추출정보 공란 + 미분류 메모: GHS 미분류 물질(Sigma-Aldrich SDS, Gum mastic",
+  "pdf_path": null,
+  "urls": [
+   "https://www.chemblink.com/MSDSFiles/61789-92-2Sigma-Aldrich.pdf"
+  ]
+ },
+ {
+  "row": 665,
+  "product_name": "Cinnamon leaf oil, Ceylon",
+  "ingredient_names": "None",
+  "tox_signal_word": "warning",
+  "tox_h_statements": "H227 ;; H315 ;; H317 ;; H319 ;; H335",
+  "cat_eye_ghs": "2A",
+  "cat_skin_ghs": 2,
+  "cat_sens_ghs": 1,
+  "추출정보": "Warning / H227 Combustible liquid; H315 Causes skin irritation; H317 May cause an allergic skin reaction; H319 Causes serious eye irritation; H335 May cause respiratory irritation",
+  "메모": "원본 힌트 URL은 Cinnamon Bark Oil SDS였음(성분 불일치); 동일 제조사의 Cinnamon Leaf Oil, Natural(CAS 8015-96-1) 전용 SDS로 대체 검색하여 확인",
+  "검증근거": "메모가 제품/성분 불일치를 진술",
+  "pdf_path": null,
+  "urls": [
+   "https://www.aurochemicals.com/wp-content/uploads/2019/05/CINNAMON-BARK-OIL-Natural-SDS.pdf",
+   "https://www.aurochemicals.com/wp-content/uploads/2019/05/CINNAMON-LEAF-OIL-Natural-SDS.pdf"
+  ]
+ },
+ {
+  "row": 666,
+  "product_name": "Lemon petitgrain oil",
+  "ingredient_names": "Citronellyl Acetate",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Warning / H315 Causes skin irritation",
+  "메모": "SDS는 성분 'Citronellyl Acetate'(CAS 150-84-5) 단일물질 기준; Section2는 H315(피부자극) 분류이나 Section11 원발성 자극시험 결과는 피부/눈 자극 없음으로 기재되어 상호 불일치",
+  "검증근거": "메모가 제품/성분 불일치를 진술",
+  "pdf_path": null,
+  "urls": [
+   "https://prod.adv-bio.com/sds-us/1109sdsUS.pdf"
+  ]
+ },
+ {
+  "row": 669,
+  "product_name": "Eucalyptus oil",
+  "ingredient_names": "None",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Not stated (old EU risk/safety phrase system used instead) / Not in H-code format; EU Risk phrases R10 (Flammable), R38 (Irritating to skin); Safety phrases S16, S26, S36",
+  "메모": "정식 SDS가 아닌 ChemicalBook 물성정보 페이지 기준; GHS 신호어/H코드 대신 구 EU R/S 문구만 제공됨. ingredient_names 필드가 없어 성분 대조는 명칭 수준(Eucalyptus oil, CAS 8000-48-4)으로만 확인",
+  "검증근거": "신호어도 H코드도 파싱되지 않음",
+  "pdf_path": null,
+  "urls": [
+   "https://www.chemicalbook.com/ProductChemicalPropertiesCB9727874_EN.htm"
+  ]
+ },
+ {
+  "row": 673,
+  "product_name": "Geranium oil Moroccan",
+  "ingredient_names": "None",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger (위험) / H315(피부자극); H317(알레르기성 피부반응 유발 가능); H318(심한 눈손상); H412(수생생물에 장기적으로 유해)",
+  "메모": "산지 불일치 가능성: 확보한 SDS는 이집트산(Egypt) Geranium Oil(Pelargonium graveolens, CAS 8000-46-2) 기준이며, 모로코산 전용 SDS는 검색으로 찾지 못함(동일 종·유사 성분 프로필)",
+  "검증근거": "메모가 제품/성분 불일치를 진술",
+  "pdf_path": null,
+  "urls": [
+   "https://www.amphora-aromatics.com/images/product/19%20Geranium%20SDS%20-%20Version%204.pdf"
+  ]
+ },
+ {
+  "row": 675,
+  "product_name": "Clove stem oil",
+  "ingredient_names": "Clove stem oil",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / H319 눈에 심한 자극, H315 피부 자극, H304 삼켜서 기도로 흡입되면 치명적일 수 있음",
+  "메모": "기존 힌트 URL(bulknaturaloils)이 접근 차단(403)되어 Vigon 제조사 SDS로 대체 확인",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://bulknaturaloils.com/mwdownloads/download/link/id/517",
+   "https://www.vigon.com/product/clove-stem-oil/"
+  ]
+ },
+ {
+  "row": 681,
+  "product_name": "Gurjun balsam",
+  "ingredient_names": "Copaene | (-)-Caryophyllene | Humulene",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Warning / H304 삼켜서 기도로 흡입되면 치명적일 수 있음, H317 알레르기성 피부 반응 가능, H400/H410 수생생물에 매우 유독(장기적 영향)",
+  "메모": null,
+  "검증근거": "신호어 부정합: ['H304'] 는 Danger 인데 Warning 표기",
+  "pdf_path": null,
+  "urls": [
+   "https://www.echemi.com/sds/gurjunbalsam-pid_Rock27584.html"
+  ]
+ },
+ {
+  "row": 702,
+  "product_name": "Abies sachalinensis oil",
+  "ingredient_names": "None",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "TGSC 집계정보상 GHS분류/위험문구 \"None found\", 독성값 \"Not determined\"으로 명시됨; CAS 번호 미확정(일부 사이트가 무관한 CAS 8021-28-1(캐나다 전나무오일)을 잘못 연결하는 경우 있어 채택하지 않음)",
+  "검증근거": "추출정보 공란 + 미분류 메모: TGSC 집계정보상 GHS분류/위험문구 \"None found\", 독성값 ",
+  "pdf_path": null,
+  "urls": [
+   "https://www.thegoodscentscompany.com/data/es1539081.html"
+  ]
+ },
+ {
+  "row": 727,
+  "product_name": "Cheminova Nicosulfuron",
+  "ingredient_names": "Structural formula | OCH3 N=— N\\ I N—C—N \\ — OCH H3C CH | Nicosulfuron",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": "Warning (경고) / H315, H319, H400, H410 (ECHA C&L 집계, 통보사별 차이 있음)",
+  "메모": "제조사(Cheminova) 전용 SDS는 못 찾음; PubChem/ECHA C&L 집계 데이터(니코설퓨론 기술원제 기준)로 대체",
+  "검증근거": "피부 참조=Not classified 인데 H코드는 구분 2 를 지시 ; 메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/73281"
+  ]
+ },
+ {
+  "row": 735,
+  "product_name": "Co-Ral 3% Spray Foam",
+  "ingredient_names": "Coumaphos Technical | Catalytic reformer petroleum | Naphthalene",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": "Danger (원료 coumaphos 기술물질 기준) / H320, H300, H311, H330, H400/H410, H370/H372 (coumaphos 기준; naphthalene·석유계 성분 독성정보 미포함)",
+  "메모": "제품(3% Spray Foam) 전용 SDS 없음(단종 추정); coumaphos 기술물질 SDS로 대체하며 naphthalene/석유계 촉매개질물 독성정보 미포함. 시트 상 눈자극 힌트(Cat.1)가 원료 기준(2B)과 불일치 - 확인 못함",
+  "검증근거": "메모가 제품/성분 불일치를 진술",
+  "pdf_path": null,
+  "urls": [
+   "https://labchem-wako.fujifilm.com/sds/W01W0103-1646JGHEEN.pdf"
+  ]
+ },
+ {
+  "row": 746,
+  "product_name": "Cyazofamid Fungicide",
+  "ingredient_names": "Cyazofamid 4-chloro-2-cyano-N,N-dimethyl-5-p-tolylimidazole-1-sulfonamide",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": "Warning / H400 (수생생물에 매우 유독); H410 (장기적 영향 포함 수생생물에 매우 유독)",
+  "메모": "제조사 SDS를 찾지 못해(검색엔진 접근 차단) PubChem/ECHA C&L 집계(129건 노티) GHS 분류로 대체 확인함; IUPAC명 완전일치로 성분 확인됨; 구체적 LD50/LC50 수치는 확인되지 않음",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/9862076"
+  ]
+ },
+ {
+  "row": 748,
+  "product_name": "CYFLU",
+  "ingredient_names": "Cyfluthrin 434.29 (3)-4123 4-(7)-1541",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "2B",
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / H300 (삼키면 치명적); H330 (흡입시 치명적); H362 (모유수유아에 유해할 수 있음, 일부 노티); H370 (장기손상, 일부 노티); H400/H410 (수생생물 매우 유독, 장기영향)",
+  "메모": "제조사 SDS를 찾지 못해(검색엔진 접근 차단) PubChem/ECHA C&L 집계(282건 노티) GHS 분류로 대체 확인함; 분자량(434.29≈434.3) 일치로 Cyfluthrin(CAS 68359-37-5) 성분 확인됨; 구체적 LD50/LC50 수치는 확인되지 않음",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/104926"
+  ]
+ },
+ {
+  "row": 755,
+  "product_name": "Adage Premier",
+  "ingredient_names": "| Fludioxonil | Azoxystrobin | Thiabendazole | Thiamethoxam | Metalaxyl-M",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": "Caution / Harmful if swallowed; highly toxic to fish, wildlife and aquatic invertebrates; thiamethoxam highly toxic to bees",
+  "메모": "제품 등록취소(2019); 정식 SDS 링크(410 Gone)로 접근불가하여 EPA 라벨(Section 11 대체) 정보로 기재",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://www3.epa.gov/pesticides/chem_search/ppls/000100-01450-20120823.pdf"
+  ]
+ },
+ {
+  "row": 759,
+  "product_name": "CruiserMaxx Peanuts",
+  "ingredient_names": "CRUISERMAXX® Peanuts | Fludioxonil | Azoxystrobin | Thiamethoxam | Metalaxyl-M",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": "Warning / 특정 표적 장기 독성(반복 노출) Category 2, 특정 표적 장기 독성(호흡기 자극) Category 3 - 호흡기 자극 및 반복노출시 장기손상 가능",
+  "메모": "찾은 SDS는 2015년판(구버전, syngenta-us.com에 남아있는 legacy PDF). 최신판 여부 확인 불가",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://www.syngenta-us.com/pdf/msds/CRUISERMAXX%20Peanuts%2006032015.pdf"
+  ]
+ },
+ {
+  "row": 760,
+  "product_name": "DeerPro Winter Animal Repellant",
+  "ingredient_names": "Acetic acid 1 - 5 | Thiram",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": "[Acetic acid 원물질] Danger / [Thiram 원물질] Warning-Danger / [Acetic acid 100%] H226, H303, H312, H314, H318, H334, H370, H371; [Thiram] H302, H315, H316, H317, H319, H320, H330, H332, H340, H341, H361, H370, H372, H373, H400, H410",
+  "메모": "제품 전용 SDS를 찾지 못해 두 원료(acetic acid, thiram=bis(dimethylaminothiocarbonyl) disulfide)의 순물질 PubChem GHS 집계분류를 참고자료로 사용함 (완제품 SDS 아님); 완제품은 acetic acid 1-5% 저농도라 순물질 부식성(H314/H318) 분류가 그대로 적용되지 않을 가능성 높음 - 힌트(Not classified)는 저농도 희석 결과로 보임",
+  "검증근거": "피부 참조=Not classified 인데 H코드는 구분 1 를 지시",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/5455"
+  ]
+ },
+ {
+  "row": 767,
+  "product_name": "Dichloroprop-P",
+  "ingredient_names": "| Dichloroprop-P",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": "위험 (Danger) / H302, H315, H317, H318 (ECHA C&L Inventory 집계 기준, 원제 dichlorprop-P)",
+  "메모": "제공된 hint URL(datasheets.scbt.com)이 403으로 접근불가하여 내용 검증 불가 - PubChem/ECHA C&L 자료(CID 119435, Dichlorprop-P)로 대체 확인, 성분명 및 안구손상 구분1 일치",
+  "검증근거": "피부 참조=Not classified 인데 H코드는 구분 2 를 지시 ; 메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/119435"
+  ]
+ },
+ {
+  "row": 768,
+  "product_name": "Diflubenzuron VC-90",
+  "ingredient_names": "Molecular Weight: 310.68",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "2B",
+  "cat_sens_ghs": null,
+  "추출정보": "경고 (Warning) / H312(피부접촉 유해), H400/H410(수생환경 유해); 일부 신고 H373(13.5%)",
+  "메모": "제품(VC-90)별 SDS 미발견 - PubChem/ECHA C&L 원제(diflubenzuron, CID 37123, 분자량 310.68 정확히 일치) 분류로 대체. ECHA 집계자료에는 안구자극 분류가 임계치(10%) 미만으로 표시되지 않아 기존 기록의 '2B'와 직접 비교 불가",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/37123"
+  ]
+ },
+ {
+  "row": 785,
+  "product_name": "Durham Metaldehyde Granules 3.5",
+  "ingredient_names": "Metaldehyde | Crystalline silica, quartz trace",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": "None (분류되지 않음) / Not available (분류되지 않음)",
+  "메모": null,
+  "검증근거": "신호어도 H코드도 파싱되지 않음",
+  "pdf_path": null,
+  "urls": [
+   "https://s3-us-west-1.amazonaws.com/agrian-cg-fs1-production/pdfs/Durham_Metaldehyde_Granules_3.5_MSDS3.pdf"
+  ]
+ },
+ {
+  "row": 786,
+  "product_name": "Durivo Insecticide",
+  "ingredient_names": "Thiamethoxam | Chlorantraniliprole | Poly(oxy-,2-ethanediyl), alpha-phosphono-omega-[2,4,6-tris(1- >=1-<10 | 2-benzisothiazol-3(2H)-one >=0.025-<0.05 | other ingredients determined not to be hazardous",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": "없음 (분류되지 않음) / 없음 (유해물질/혼합물 아님, GHS 분류 요건 미충족)",
+  "메모": "Durivo는 Syngenta 등록제품(DuPont 아님)",
+  "검증근거": "신호어도 H코드도 파싱되지 않음",
+  "pdf_path": null,
+  "urls": [
+   "https://assets.syngenta-us.com/pdf/msds/DURIVO.pdf"
+  ]
+ },
+ {
+  "row": 789,
+  "product_name": "Dinotefuron Ant Bait",
+  "ingredient_names": "Dinotefuran (-No) | s)-Methoprene Technical (-No",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": "경고 (Warning, 원제 기준) / Dinotefuran: H302, H400, H410; S-Methoprene: H400, H410 (일부 신고 H315, H335)",
+  "메모": "미끼제(고체 베이트) 완제품 SDS 미발견 - PubChem/ECHA 원제 2종(dinotefuran CID 197701, S-methoprene CID 1711973) 분류로 대체. 완제품은 저농도 고체 미끼 형태라 개별 원제 분류와 실제 제품 분류(기존 기록: Not classified)가 다를 수 있음",
+  "검증근거": "피부 참조=Not classified 인데 H코드는 구분 2 를 지시",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/197701"
+  ]
+ },
+ {
+  "row": 790,
+  "product_name": "Dylox 9.3% Insect Granules",
+  "ingredient_names": "A straight insect control product for general turf use. Contains Dylox at",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": "Warning / Eye irritation Category 2B(H320)",
+  "메모": "동일 EPA등록번호(92564-40)/동일 유효성분(Trichlorfon 9.3%)의 공동브랜드 제품인 SBM Life Science BioAdvanced 24-Hour Grub Killer Plus SDS로 확인(Dylox 브랜드 전용 SDS는 못 찾음)",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "http://www.businesscenter.lebsea.com/msds/1418584.PDF"
+  ]
+ }
+]

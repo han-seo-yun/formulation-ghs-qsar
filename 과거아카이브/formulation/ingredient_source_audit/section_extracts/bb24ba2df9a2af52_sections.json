@@ -1,0 +1,35 @@
+{
+  "source_id": "bb24ba2df9a2af52",
+  "file_path": "ingredient_source_audit/highlighted/bb24ba2df9a2af52_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 19400,
+  "sections_found": [
+    "section_15",
+    "section_2",
+    "section_1",
+    "section_14",
+    "section_3"
+  ],
+  "section_1": {
+    "product_name": "Safety Data Sheet - GHS",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. IDENTIFICATION: CHEMICAL PRODUCT AND COMPANY \nSafety Data Sheet - GHS \nAloftÒ GC G Insecticide \n800-682-5368 \n1 \n0481 \n11/24/2015 \nEmergency Telephone: \nREVISION NUMBER: \nSDS NO.: \nREVISION DATE: \n \nPage 2 of 8 \nAloftÒ GC G Insecticide \n \n \nEyes IF IN EYES: Rinse cautiously with water for several"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION \nPRODUCT INFORMATION \nAGRICULTURAL PRODUCTS: (800) 682-5368 \nEMERGENCY TELEPHONE NUMBERS \nHEALTH EMERGENCY OR SPILL (24 hr): \n(800) 892-0099 \nTRANSPORTATION (24 hr.): CHEMTREC \n(800) 424-9300 or (202) 483-7616 \nMANUFACTURER/DISTRIBUTOR \nVALENT U.S.A. CORPORATION \nP.O. Box 8"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

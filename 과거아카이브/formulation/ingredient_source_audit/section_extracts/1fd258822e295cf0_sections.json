@@ -1,0 +1,44 @@
+{
+  "source_id": "1fd258822e295cf0",
+  "file_path": "ingredient_source_audit/highlighted/1fd258822e295cf0_highlighted.pdf",
+  "page_count": 15,
+  "full_text_length": 28935,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "company/undertaking",
+    "formulation_code": "EC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification of the substance/mixture and of the \ncompany/undertaking\n1.1\nProduct identifier\nIdentification of the substance\nCopper(II) oxide ≥97,5 %, powder\nArticle number\n8169\nRegistration number (REACH)\n01-2119502447-44-xxxx\nIndex number in CLP Annex VI\n029-016-00-6\nEC number\n215-269"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H400",
+      "H410"
+    ],
+    "p_codes": [
+      "P260",
+      "P273"
+    ],
+    "ghs_classes": [
+      "Aquatic Acute 1",
+      "Aquatic Chronic 1"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2: Hazards identification\n2.1\nClassification of the substance or mixture\nClassification according to Regulation (EC) No 1272/2008 (CLP)\nSection\nHazard class\nCat-\negory\nHazard class and \ncategory\nHazard \nstatement\n4.1A\nHazardous to the aquatic environment - acute hazard\n1\nAquatic Acute 1\nH400"
+  },
+  "section_14": {
+    "un_number": "3077"
+  }
+}

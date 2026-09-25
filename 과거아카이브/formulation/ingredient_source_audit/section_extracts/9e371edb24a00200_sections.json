@@ -1,0 +1,53 @@
+{
+  "source_id": "9e371edb24a00200",
+  "file_path": "ingredient_source_audit/highlighted/9e371edb24a00200_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 12638,
+  "sections_found": [
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H319",
+      "H317",
+      "H412"
+    ],
+    "p_codes": [
+      "P273",
+      "P280",
+      "P302",
+      "P352",
+      "P305",
+      "P351",
+      "P338",
+      "P337",
+      "P313",
+      "P501",
+      "P261",
+      "P264",
+      "P272",
+      "P321",
+      "P333",
+      "P362",
+      "P364"
+    ],
+    "ghs_classes": [
+      "Eye Irrit. 2",
+      "Skin Sens. 1",
+      "Aquatic Chronic 3"
+    ],
+    "environmental_hazard": "aquatic",
+    "hazard_level_score": 2,
+    "text_excerpt": "HAZARDS IDENTIFICATION  \nCLASSIFICATION OF THE SUBSTANCE OR MIXTURE  \n \nCLASSIFICATION (EC 1272/2008): \n \n- \nPHYSICAL HAZARDS: \nNot Classified \n- \nHEALTH HAZARDS: \nEye Irrit. 2 - H319  \nSkin Sens. 1 - H317 \n- \nENVIRONMENTAL HAZARDS: \nAquatic Chronic 3 - H412 \n \nLABEL ELEMENTS \nPICTOGRAM: \n \nSIGNAL W"
+  },
+  "section_14": {
+    "un_number": null
+  },
+  "fallback": {
+    "formulation_code": "EC"
+  }
+}

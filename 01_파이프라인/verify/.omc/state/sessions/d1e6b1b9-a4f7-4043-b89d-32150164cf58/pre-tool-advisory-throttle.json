@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "entries": {
+    "445ed27a3872b681d98190bae61ccb84954e1bc4e140df5370be958dee776b3a": {
+      "last_emitted_at_ms": 1787751205367,
+      "message": "Verify changes work after editing. Test functionality before marking complete."
+    },
+    "79a93d4a2f8f50b95f852280616242fee1855dc99a3c75211917f55e72e95fae": {
+      "last_emitted_at_ms": 1787751076015,
+      "message": "Use parallel execution for independent tasks. Use run_in_background for long operations (npm install, builds, tests)."
+    },
+    "466399dafa2d20f60587180bad0a07358eb7f2bce724df0ff682f038ad33f5ad": {
+      "last_emitted_at_ms": 1787749873076,
+      "message": "Read multiple files in parallel when possible for faster analysis."
+    },
+    "9f2560a7d093629f1c9347ac176b83c78398402a91e6d03b8c4c8dd0a6d65e77": {
+      "last_emitted_at_ms": 1787749461894,
+      "message": "Spawning agent: general-purpose (inherit) | Task: Retry group B chunk 13 via structured DB lookup"
+    },
+    "b599bed21092e81aa9ddf2a69c082c8a39ea38f27de50a26f23c550653e0d94f": {
+      "last_emitted_at_ms": 1787749451470,
+      "message": "Spawning agent: general-purpose (inherit) | Task: Retry group B chunk 12 via structured DB lookup"
+    },
+    "2051834ad273f93a66fede70c6d8d52b566c6d1151bebffb8a2791666290f0e5": {
+      "last_emitted_at_ms": 1787749442418,
+      "message": "Spawning agent: general-purpose (inherit) | Task: Retry group B chunk 11 via structured DB lookup"
+    },
+    "1d22bf52c9dbfaa057171ed3dd54b7a9b5db7c1ff746c013f9e49eadec377314": {
+      "last_emitted_at_ms": 1787749433335,
+      "message": "Spawning agent: general-purpose (inherit) | Task: Retry group B chunk 10 via structured DB lookup"
+    },
+    "671d51387bf8dd3877bc7adf5d502b1767cab93b98c8c3e87001ce8093ae668f": {
+      "last_emitted_at_ms": 1787749424207,
+      "message": "Spawning agent: general-purpose (inherit) | Task: Retry group B chunk 9 via structured DB lookup"
+    },
+    "003f2909ac0c1f49a007bc823e40400ad431f8eab40e6da0adce4d00ecd802b5": {
+      "last_emitted_at_ms": 1787749415118,
+      "message": "Spawning agent: general-purpose (inherit) | Task: Retry group B chunk 8 via structured DB lookup"
+    },
+    "e2ade9f685b64768a242eba7200c1a60d9c6ae512da26dce50464a00371985d2": {
+      "last_emitted_at_ms": 1787749406013,
+      "message": "Spawning agent: general-purpose (inherit) | Task: Retry group B chunk 7 via structured DB lookup"
+    },
+    "99880ac5cc842655c5e794ecd2394db7c1061701db43e09948055657b40f842a": {
+      "last_emitted_at_ms": 1787749397031,
+      "message": "Spawning agent: general-purpose (inherit) | Task: Retry group B chunk 6 via structured DB lookup"
+    },
+    "8da13e84f30e5009194044f9b7497f5ff21e1c3d88cf2992acdaef8e2b5f019b": {
+      "last_emitted_at_ms": 1787749387920,
+      "message": "Spawning agent: general-purpose (inherit) | Task: Retry group B chunk 5 via structured DB lookup"
+    },
+    "fa08c4dd376979601a5512f908ed122004c0ad7da3c51542f9d5b89dc254f255": {
+      "last_emitted_at_ms": 1787749378842,
+      "message": "Spawning agent: general-purpose (inherit) | Task: Retry group B chunk 4 via structured DB lookup"
+    },
+    "1310558072ecf498b6c56a9ad69b6c6f9d2f0f6a187b7c8199a3cd8d69bc6152": {
+      "last_emitted_at_ms": 1787749369748,
+      "message": "Spawning agent: general-purpose (inherit) | Task: Retry group B chunk 3 via structured DB lookup"
+    },
+    "8f731d2c5d6afc0287860634f61843d991b9c28dfc990091cf6f55327fe8aec6": {
+      "last_emitted_at_ms": 1787749360752,
+      "message": "Spawning agent: general-purpose (inherit) | Task: Retry group B chunk 2 via structured DB lookup"
+    },
+    "8a7a04a613621e4b029bd9814cc646d8da2fadfb3745ce08a6115d169c3aea23": {
+      "last_emitted_at_ms": 1787749351910,
+      "message": "Spawning agent: general-purpose (inherit) | Task: Retry group B chunk 1 via structured DB lookup"
+    },
+    "0e3d4b7d4301a04dbebb5f5dec9653f47c096a6647478460cca78aa39fdbe444": {
+      "last_emitted_at_ms": 1787749342395,
+      "message": "Spawning agent: general-purpose (inherit) | Task: Retry group B chunk 0 via structured DB lookup"
+    },
+    "c1a46ace0e0fe4078d18b36b9650e169f1726e4aa08dbc7fbd728b4aca91d8b8": {
+      "last_emitted_at_ms": 1787749315757,
+      "message": "Spawning agent: general-purpose (inherit) | Task: Retry group A chunk 6 with new access method"
+    },
+    "f19a815aa3e54baaea83015da5444e584e8c91f40fb1db46dc123695aedcea1e": {
+      "last_emitted_at_ms": 1787749304493,
+      "message": "Spawning agent: general-purpose (inherit) | Task: Retry group A chunk 5 with new access method"
+    },
+    "2e505418110858a170b392ba89ecdee8f232320fbda78b9b142dc6d0ad04dc63": {
+      "last_emitted_at_ms": 1787749294259,
+      "message": "Spawning agent: general-purpose (inherit) | Task: Retry group A chunk 4 with new access method"
+    },
+    "31c555e7428b34ef7bcd5eb7af08aba1a677be62e89d540945f7abe9ddb30106": {
+      "last_emitted_at_ms": 1787749283795,
+      "message": "Spawning agent: general-purpose (inherit) | Task: Retry group A chunk 3 with new access method"
+    },
+    "802085a36da54298cf127fbd6925d3faecf751410e2a48a3f9a86e951705332d": {
+      "last_emitted_at_ms": 1787749273623,
+      "message": "Spawning agent: general-purpose (inherit) | Task: Retry group A chunk 2 with new access method"
+    },
+    "ce7c60604d7ca72ca86dba217ba73452480910729189793c71592f915bb1f3fb": {
+      "last_emitted_at_ms": 1787749264313,
+      "message": "Spawning agent: general-purpose (inherit) | Task: Retry group A chunk 1 with new access method"
+    },
+    "2ad318478cbdc6810c5391707c2bca3719a1739d2f7a507ac8a0b1121794d306": {
+      "last_emitted_at_ms": 1787749252897,
+      "message": "Spawning agent: general-purpose (inherit) | Task: Retry group A chunk 0 with new access method"
+    }
+  },
+  "updated_at": "2026-08-26T13:33:25.367Z"
+}

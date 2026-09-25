@@ -1,0 +1,17 @@
+{
+  "source_id": "442050fe9cad91ca",
+  "file_path": "ingredient_source_audit/highlighted/442050fe9cad91ca_highlighted.html",
+  "page_count": 0,
+  "full_text_length": 22357,
+  "sections_found": [
+    "section_2"
+  ],
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0
+  }
+}

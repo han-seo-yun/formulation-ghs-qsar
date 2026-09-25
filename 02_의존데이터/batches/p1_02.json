@@ -1,0 +1,112 @@
+[
+ {
+  "row": 691,
+  "fid": "MIX1051",
+  "product_name": "Heptylidene methyl anthranilate",
+  "ingredient_names": "Methyl Anthranilate",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "제품명(Heptylidene methyl anthranilate, PubChem CID 101668100, CAS 68140-48-5 계열)과 주어진 ingredient_names(Methyl Anthranilate, CAS 134-20-3)가 서로 다른 물질. 실제 화합물의 PubChem 레코드에는 Safety/Hazards 섹션이 전혀 없어 대체 확인도 불가",
+  "n_smiles": 1
+ },
+ {
+  "row": 692,
+  "fid": "MIX1052",
+  "product_name": "Abies alba oil from cones",
+  "ingredient_names": "Limonene, (-)- | (+-)-alpha-Pinene | Camphene | Beta-Pinene | Terpinolene | Myrcene | Alpha-Terpineol | P-Cymene",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "PubChem/ChemIDplus 'Abies alba cone oil' 레코드(legacy)에 Safety/Hazards·Toxicity 섹션 자체가 없어 독성코드 확인 불가. 성분(모노테르펜류: 리모넨·알파피넨·캄펜 등)은 침엽수 오일 특징과 부합",
+  "n_smiles": 8
+ },
+ {
+  "row": 694,
+  "fid": "MIX1054",
+  "product_name": "Abies alba oil from needles",
+  "ingredient_names": "Limonene, (-)- | (+-)-alpha-Pinene | Camphene | Beta-Pinene | Terpinolene | Myrcene | Alpha-Terpineol | P-Cymene",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "PubChem 'Abies alba leaf oil'(RefChem:26066, CAS 8021-27-0) 레코드에 Safety/Hazards 섹션이 없어 독성코드 확인 불가. 성분(모노테르펜류)은 전나무 침엽오일 특징과 부합",
+  "n_smiles": 8
+ },
+ {
+  "row": 696,
+  "fid": "MIX1056",
+  "product_name": "Santalyl acetate",
+  "ingredient_names": "Santalyl acetate",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "전통적 SDS 못 찾음; PubChem/ECHA CLP 통합자료 기준 미분류(234/235 not classified)",
+  "n_smiles": 1
+ },
+ {
+  "row": 697,
+  "fid": "MIX1057",
+  "product_name": "Ocotea cymbarum oil",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "PubChem/ChemIDplus(CAS 68917-09-9, RefChem:20940)에 'Skin/Eye Irritant' 정성적 표시만 있고 GHS 신호어·H코드·LD50 수치는 확인 안됨",
+  "n_smiles": 0
+ },
+ {
+  "row": 699,
+  "fid": "MIX1059",
+  "product_name": "Ale oil",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "SDS/성분 정보 전혀 확인 안됨(검색으로도 실체 특정 불가)",
+  "n_smiles": 0
+ },
+ {
+  "row": 702,
+  "fid": "MIX1061",
+  "product_name": "Abies sachalinensis oil",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": "https://www.thegoodscentscompany.com/data/es1539081.html",
+  "hint_doc_rel": null,
+  "prev_fail_memo": "TGSC 집계정보상 GHS분류/위험문구 \"None found\", 독성값 \"Not determined\"으로 명시됨; CAS 번호 미확정(일부 사이트가 무관한 CAS 8021-28-1(캐나다 전나무오일)을 잘못 연결하는 경우 있어 채택하지 않음)",
+  "n_smiles": 0
+ },
+ {
+  "row": 706,
+  "fid": "MIX1065",
+  "product_name": "Krameria extract",
+  "ingredient_names": "Water | Glycerol | Benzyl Alcohol | Potassium Sorbate",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "성분(Water/Glycerol/Benzyl Alcohol/Potassium Sorbate)이 Chemyunion 'Melscreen Red EX 3R'(INCI: Water/Glycerin/Decyl Glucoside/Krameria Triandra Root Extract/Benzyl Alcohol/Potassium Sorbate/Lycopene)와 유사하여 해당 제품으로 추정되나, SDS 문서는 로그인 필요 사이트(ulprospector, specialchem)에서만 확인되어 실제 독성정보 확보 못함",
+  "n_smiles": 4
+ },
+ {
+  "row": 709,
+  "fid": "MIX1068",
+  "product_name": "N-trimethylolmethylmercaptoacetamide",
+  "ingredient_names": "2-Mercaptoacetamide | Methanol | Ammonia",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "CAS 번호 미부여 물질(ChemicalBook CB01438910, C6H13NO4S)로 확인되나 SDS/독성정보(Section 11) 문서를 찾지 못함; 제공된 ingredient_names(2-Mercaptoacetamide/Methanol/Ammonia)는 합성원료로 추정되며 최종물질 조성과 직접 대응 확인 불가",
+  "n_smiles": 3
+ },
+ {
+  "row": 724,
+  "fid": "MIX110",
+  "product_name": "Clodinafop 240 EC",
+  "ingredient_names": "Clodinafop-propargyl | N-methyl-2-pyrrolidone | Cloquintocet-mexyl",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "제품별 SDS 미발견 (활성성분+NMP+안전제 복합 제형)",
+  "n_smiles": 3
+ }
+]

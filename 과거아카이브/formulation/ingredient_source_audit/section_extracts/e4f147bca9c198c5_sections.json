@@ -1,0 +1,55 @@
+{
+  "source_id": "e4f147bca9c198c5",
+  "file_path": "ingredient_source_audit/highlighted/e4f147bca9c198c5_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 11990,
+  "sections_found": [
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H315",
+      "H319",
+      "H317",
+      "H412"
+    ],
+    "p_codes": [
+      "P273",
+      "P280",
+      "P302",
+      "P352",
+      "P305",
+      "P351",
+      "P338",
+      "P333",
+      "P313",
+      "P337",
+      "P261",
+      "P264",
+      "P272",
+      "P321",
+      "P332",
+      "P362",
+      "P364",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Eye Irrit. 2",
+      "Skin Sens. 1",
+      "Aquatic Chronic 3"
+    ],
+    "environmental_hazard": "aquatic",
+    "hazard_level_score": 2,
+    "text_excerpt": "HAZARDS IDENTIFICATION  \nCLASSIFICATION OF THE SUBSTANCE OR MIXTURE  \nCLASSIFICATION (EC 1272/2008): \n \n- \nPHYSICAL HAZARDS: \nNot Classified. \n- \nHEALTH HAZARDS: \nSkin Irrit. 2 - H315 \nEye Irrit. 2 - H319 \nSkin Sens. 1 - H317 \n- \nENVIRONMENTAL HAZARDS: \nAquatic Chronic 3 - H412 \n \nLABEL ELEMENTS \nPI"
+  },
+  "section_14": {
+    "un_number": null
+  },
+  "fallback": {
+    "formulation_code": "EC"
+  }
+}

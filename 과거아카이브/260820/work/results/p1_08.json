@@ -1,0 +1,315 @@
+[
+ {
+  "row": 1411,
+  "fid": "MIX751",
+  "product_name": "DuPont Accent SC",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.corteva.com/content/dam/dpagco/corteva/na/ca/en/files/products/sds/DF-Accent-Herbicide-SDS-English.pdf",
+  "source_type": "manufacturer_sds_pdf (Corteva Agriscience Canada, Accent Herbicide, issue 2021-04-28)",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": "None",
+   "h_statements": [],
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "Not classified",
+   "ld50_oral": "> 5000 mg/kg (rat, as product, OPP 81-1)",
+   "ld50_dermal": "> 2000 mg/kg (rabbit, as product, OPP 81-2)",
+   "lc50_inh": "> 5.6 mg/L (rat, 4 h, dust/mist, as product)",
+   "ph": 3.9
+  },
+  "per_ingredient": [
+   {
+    "name": "Nicosulfuron",
+    "cas": "111991-09-4",
+    "eye_cat": "2A (H319, 27.5% of ECHA notifiers)",
+    "skin_cat": "2 (H315, 28.1% of ECHA notifiers)",
+    "sens_cat": "Not classified",
+    "h_statements": ["H315", "H319", "H400", "H410"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/73281"
+   }
+  ],
+  "note_ko": "Corteva Accent Herbicide SDS(니코설퓨론 75% + 카올린/수크로스/알킬나프탈렌설폰산나트륨/석영) 원문을 PDF로 직접 내려받아 텍스트 추출 성공. Section 2에서 'WHMIS 2015/HPR 기준 유해하지 않음'으로 미분류 → 신호어·H문구 없음, Section 9 pH 3.9 확보. 단 제품명이 'Accent SC'인데 확보된 SDS는 수분산성 과립(DF/75DF) 제형이라 제형 차이 가능성 있어 confidence=medium. 이전 pass가 지적한 BETAPRIME 접착제 성분은 원본 오류로 판단되며 본 배치의 ingredient_names는 null이라 Section 3 대조 불가(ingredients_match=null)."
+ },
+ {
+  "row": 1413,
+  "fid": "MIX753",
+  "product_name": "DuPont DPX-KJM44 Herbicide",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/16725794",
+  "source_type": "pubchem_lcss_ghs (PUG-View REST, ECHA C&L notifications)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Aminocyclopyrachlor-methyl (aminocyclopyrachlor methyl ester, DPX-KJM44)",
+    "cas": "858954-83-3",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": ["H411"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/16725794"
+   },
+   {
+    "name": "Chlorimuron-ethyl",
+    "cas": "90982-32-4",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": ["H332", "H373", "H400", "H410"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/56160"
+   },
+   {
+    "name": "Titanium dioxide",
+    "cas": "13463-67-7",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": ["H351"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/26042"
+   },
+   {
+    "name": "Quartz (crystalline silica)",
+    "cas": "14808-60-7",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/24261"
+   }
+  ],
+  "note_ko": "DPX-KJM44는 DuPont 개발코드(아미노시클로피라클로르 메틸에스터)로, EPA 등록 라벨은 단일성분 80% 제품뿐이고 chlorimuron-ethyl·TiO2·석영을 포함한 조성의 상용 제품 SDS는 존재하지 않음 → Tier2 성분별 GHS로 대체. PubChem PUG-View(ECHA C&L 집계) 기준. 주의: TiO2는 통보자 다수(63%)가 '미분류'로 신고, 소수가 H319/H335를 신고하며 석영은 통보자 85%가 미분류(입도·호흡성 분율에 따라 변동). EPA PPLS 디렉터리 인덱스는 403, 일반 웹검색 엔진(DDG/Bing/Brave/Mojeek/Seznam 등) 전부 봇차단으로 접근 불가."
+ },
+ {
+  "row": 1414,
+  "fid": "MIX754",
+  "product_name": "DuPont DPX-LEM17 50WDG Fungicide",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/11388558",
+  "source_type": "pubchem_lcss_ghs (PUG-View REST, ECHA C&L notifications)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Penthiopyrad (DPX-LEM17)",
+    "cas": "183675-82-3",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": ["H400", "H410"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/11388558"
+   },
+   {
+    "name": "Polyoxin D zinc salt (polyoxorim-zinc)",
+    "cas": "146659-78-1",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": null,
+    "h_statements": null,
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/76570326"
+   }
+  ],
+  "note_ko": "DPX-LEM17 = 펜티오피라드 단일성분 개발코드(Fontelis/Vertisan). 폴리옥소림-아연 병용 50WDG 제형은 상용 제품이 아니어서 제품 SDS 부재 → Tier2. 펜티오피라드는 PubChem/ECHA에서 Warning, H400/H410만(눈·피부·감작 미분류). 폴리옥신D-아연염(CID 76570326)은 PubChem에 GHS Classification 섹션이 아예 없어 전부 null로 남김(값 추정 금지 원칙)."
+ },
+ {
+  "row": 1415,
+  "fid": "MIX755",
+  "product_name": "DuPont DPX-MAT28 0.05G Turf Herbicide + Fertilizer",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "medium",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/17747875",
+  "source_type": "pubchem_lcss_ghs (PUG-View REST, ECHA C&L notifications)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Aminocyclopyrachlor (DPX-MAT28)",
+    "cas": "858956-08-8",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": ["H412"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/17747875"
+   }
+  ],
+  "note_ko": "DPX-MAT28 = 아미노시클로피라클로르(Imprelis 계열). EPA 등록 352-813은 2014년 취소되었고 남아있는 자료는 스캔 라벨뿐(텍스트 추출 불가), 비료 혼합 0.05G 제형 SDS는 확인되지 않음 → Tier2 활성성분 GHS만 기록. ECHA 통보 1건(28 reports) 전부 H412 단독, 신호어 없음. 비료 성분(요소/칼륨 등)은 조성 미공개로 기록하지 않음."
+ },
+ {
+  "row": 1417,
+  "fid": "MIX758",
+  "product_name": "EX2108",
+  "tier": "ingredient",
+  "resolution": "unresolved",
+  "confidence": "low",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/33557",
+  "source_type": "pubchem_lcss_ghs + chemblink SDS index (Sigma-Aldrich sample)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Sodium azide (from hint_tox_url / local highlighted SDS lineage only)",
+    "cas": "26628-22-8",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": ["H300", "H400", "H410"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/33557"
+   }
+  ],
+  "note_ko": "제품코드 'EX2108'의 정체를 특정할 수 있는 SDS/라벨을 끝까지 찾지 못함(웹 검색엔진 전면 봇차단, 제조사 추정 불가) → resolution=unresolved. 다만 hint_tox_url(chemblink 26628-22-8 Sigma-Aldrich)과 로컬 하이라이트 문서명이 모두 sodium azide를 지시하므로 참고용으로 아지드화나트륨 성분 GHS만 기록. 주 통보(ECHA 조화분류)는 Danger, H300/H400/H410이며 눈·피부·감작은 미분류. 단 소수 통보자(약 16%)는 H310, 일부는 H314/H318도 신고하여 변동 있음. EX2108=아지드화나트륨이라는 매칭 자체가 미검증이라 confidence=low."
+ },
+ {
+  "row": 1423,
+  "fid": "MIX769",
+  "product_name": "TC-314",
+  "tier": "ingredient",
+  "resolution": "unresolved",
+  "confidence": "low",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/91778",
+  "source_type": "pubchem_lcss_ghs (PUG-View REST, ECHA C&L notifications)",
+  "ingredients_match": false,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Chlorfenapyr",
+    "cas": "122453-73-0",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": ["H302", "H331", "H400", "H410"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/91778"
+   },
+   {
+    "name": "Prallethrin",
+    "cas": "23031-36-9",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": ["H302", "H331", "H400", "H410"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/9839306"
+   },
+   {
+    "name": "Pyriproxyfen",
+    "cas": "95737-68-1",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": ["H400", "H410"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/91753"
+   }
+  ],
+  "note_ko": "hint_tox_url(EPA PPLS 062719-00478-20030513.pdf)을 직접 내려받아 확인한 결과 해당 라벨은 Dow AgroSciences 'XDE-007 50% Concentrate'(노비플루무론 50%, 신호어 CAUTION)로 TC-314 및 클로르페나피르/프랄레트린/피리프록시펜과 전혀 무관 → 힌트 소스는 오류(ingredients_match=false). 'TC-314' 제품 자체의 SDS는 검색 수단 부재로 특정 실패 → unresolved. 대신 이전 메모가 지목한 3개 활성성분의 성분별 GHS를 PubChem/ECHA로 확보. 3종 모두 눈·피부·감작 미분류이고 급성경구/흡입 및 수생독성이 주 분류."
+ },
+ {
+  "row": 1434,
+  "fid": "MIX780",
+  "product_name": "boron trifluoride-acetic acid complex",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/171039532",
+  "source_type": "pubchem_lcss_ghs (PUG-View REST, ECHA C&L, 194 reports / 8 notifications) + chemblink substance page",
+  "ingredients_match": true,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Boron trifluoride-acetic acid complex (acetic acid - boron trifluoride, 2:1)",
+    "cas": "373-61-5",
+    "eye_cat": "1",
+    "skin_cat": "1",
+    "sens_cat": "Not classified",
+    "h_statements": ["H290", "H302", "H314", "H318", "H332", "H372"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/171039532"
+   }
+  ],
+  "note_ko": "단일물질 제품이므로 성분=제품. PubChem CID 171039532(CAS 373-61-5, 분자식 BF3·2CH3COOH)의 GHS Classification을 PUG-View REST로 직접 수집: Danger, H290/H302/H314/H318/H332/H372 → 피부부식 1(하위구분 미명시), 눈손상 1, 감작 미분류. chemblink 물질 페이지(https://www.chemblink.com/products/373-61-5.htm)로 명칭/CAS/분자량(187.91) 일치 확인, ingredient_names 'Acetic acid boron trifluoride (2:1)'와 정확히 일치. 정식 SDS(Alfa Aesar A11471)는 Thermo Fisher 사이트 이관으로 PDF가 HTML 랜딩페이지로 리다이렉트되어 Section 9 pH 확보 실패(pH=null). GHS 강산/강염기 예외규칙 적용 시 pH 별도 보완 필요."
+ },
+ {
+  "row": 1435,
+  "fid": "MIX781",
+  "product_name": "butylamine (in ethanol/ethylene glycol;1:1)",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/8007",
+  "source_type": "pubchem_lcss_ghs (PUG-View REST, ECHA C&L notifications)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Butylamine (n-butylamine)",
+    "cas": "109-73-9",
+    "eye_cat": "1",
+    "skin_cat": "1",
+    "sens_cat": "Not classified",
+    "h_statements": ["H225", "H302", "H312", "H314", "H332"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/8007"
+   },
+   {
+    "name": "Ethylene glycol monobutyl ether (2-butoxyethanol)",
+    "cas": "111-76-2",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": ["H302", "H315", "H319", "H331"],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/8133"
+   }
+  ],
+  "note_ko": "혼합시약(부틸아민 in 에탄올/에틸렌글리콜 1:1) 자체의 제품 SDS는 존재하지 않아 Tier2로 전환. ingredient_names의 2개 물질 모두 PubChem PUG-View(ECHA C&L)에서 확정 수집: 부틸아민 Danger H225/H302/H312/H314/H332(피부부식 1, 눈손상 1 — ECHA 조화분류는 Skin Corr. 1B), 2-부톡시에탄올 Danger H302/H315/H319/H331(피부자극 2, 눈자극 2A). 두 성분 모두 감작(H317) 신고 없음. 제품명이 지시하는 용매(에탄올/에틸렌글리콜)와 ingredient_names(에틸렌글리콜모노부틸에테르)가 불일치하는 원본 문제는 그대로 남아 있으므로 ingredients_match는 판정 불가(null)로 둠. pH는 SDS가 없어 null."
+ },
+ {
+  "row": 1440,
+  "fid": "MIX786",
+  "product_name": "Duoquad T50",
+  "tier": "ingredient",
+  "resolution": "unresolved",
+  "confidence": "low",
+  "source_url": "https://www.chemblink.com/products/61789-80-8.htm",
+  "source_type": "chemblink substance page (GHS/ECHA C&L summary)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Bis(hydrogenated tallow alkyl)dimethyl quaternary ammonium compounds chlorides (previous pass's provisional identification - NOT verified for Duoquad T-50)",
+    "cas": "61789-80-8",
+    "eye_cat": "1",
+    "skin_cat": null,
+    "sens_cat": "Not classified",
+    "h_statements": ["H318", "H400", "H410"],
+    "source_url": "https://www.chemblink.com/products/61789-80-8.htm"
+   }
+  ],
+  "note_ko": "Nouryon 'Duoquad T-50'의 실제 조성을 확인할 수 있는 SDS/제품페이지를 확보하지 못함: nouryon.com 제품검색·SDS검색은 전부 JS 렌더링이며 Episerver Find 엔드포인트는 로그인 리다이렉트, /product/duoquad-t-50* 슬러그 추정은 모두 404, sitemap.xml에 제품 URL 미포함, 외부 검색엔진 전면 차단 → unresolved. 참고로 이전 pass가 추정한 CAS 61789-80-8은 디(수소화탈로우알킬)디메틸암모늄 클로라이드(모노 4급염)로, Duoquad 계열(탈로우알킬 프로판디암모늄 디클로라이드, 디아민 유래 이중 4급염)과 화학적으로 다를 가능성이 높아 신뢰 낮음. chemblink 기준 GHS는 Danger, H318-H400-H410(눈손상 1), 감작 미신고이며 동 페이지의 통보 변이표에 Skin Corr. 1B/Skin Irrit. 2가 함께 나열되어 피부 구분은 단일값 확정 불가로 null 처리."
+ },
+ {
+  "row": 1443,
+  "fid": "MIX789",
+  "product_name": "Empilan CME",
+  "tier": "ingredient",
+  "resolution": "unresolved",
+  "confidence": "low",
+  "source_url": "https://www.chemblink.com/products/68140-00-1.htm",
+  "source_type": "chemblink substance page (GHS/ECHA C&L summary)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Coconut oil monoethanolamide (cocamide MEA) - provisional identification of the Empilan CME trade name, not confirmed from a fetched source",
+    "cas": "68140-00-1",
+    "eye_cat": "1",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": ["H302", "H315", "H318", "H411"],
+    "source_url": "https://www.chemblink.com/products/68140-00-1.htm"
+   }
+  ],
+  "note_ko": "'Empilan CME'(Innospec/Huntsman 계열 상표명)의 SDS 및 상표명-물질 매핑을 확인할 수 있는 1차 자료를 확보하지 못함(제조사 사이트 문서검색 불가, 웹 검색엔진 전면 봇차단, chemicalbook 503) → unresolved. 업계 통용 해석인 코코넛 모노에탄올아마이드(cocamide MEA, CAS 68140-00-1)를 잠정 성분으로 두고 chemblink의 GHS 요약만 기록: Danger, H302-H315-H318-H411 → 눈손상 1(Eye Dam. 1), 피부자극 2(Skin Irrit. 2), 감작 미신고. 상표명 매핑이 미검증이므로 confidence=low, pH는 SDS 부재로 null."
+ }
+]

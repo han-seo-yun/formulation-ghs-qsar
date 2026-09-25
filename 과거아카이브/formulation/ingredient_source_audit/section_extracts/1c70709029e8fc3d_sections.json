@@ -1,0 +1,24 @@
+{
+  "source_id": "1c70709029e8fc3d",
+  "file_path": "ingredient_source_audit/highlighted/1c70709029e8fc3d_highlighted.pdf",
+  "page_count": 9,
+  "full_text_length": 37545,
+  "sections_found": [
+    "section_3",
+    "section_2",
+    "section_14",
+    "section_15"
+  ],
+  "section_2": {
+    "signal_word": "CAUTION",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 1,
+    "text_excerpt": "HAZARDS IDENTIFICATION:                                                  \n-------------------------------------------------------------------------------\n                                                                               \n        **********************************************************"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

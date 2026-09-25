@@ -1,0 +1,48 @@
+{
+  "source_id": "75eb485b35e71c8d",
+  "file_path": "ingredient_source_audit/highlighted/75eb485b35e71c8d_highlighted.pdf",
+  "page_count": 16,
+  "full_text_length": 36298,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "company/undertaking",
+    "formulation_code": "EC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification of the substance/mixture and of the \ncompany/undertaking\n1.1\nProduct identifier\nIdentification of the substance\nPermethrin ROTICHROM® Pestilyse® HPLC\nArticle number\n233L\nRegistration number (REACH)\nIt is not required to list the identified uses be-\ncause the substance is no"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H302",
+      "H332",
+      "H317",
+      "H400",
+      "H410"
+    ],
+    "p_codes": [
+      "P280"
+    ],
+    "ghs_classes": [
+      "Acute Tox. 4",
+      "Skin Sens. 1",
+      "Aquatic Acute 1",
+      "Aquatic Chronic 1"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 3,
+    "text_excerpt": "SECTION 2: Hazards identification\n2.1\nClassification of the substance or mixture\nClassification according to Regulation (EC) No 1272/2008 (CLP)\nSection\nHazard class\nCat-\negory\nHazard class and \ncategory\nHazard \nstatement\n3.1O\nAcute toxicity (oral)\n4\nAcute Tox. 4\nH302\n3.1I\nAcute toxicity (inhal.)\n4\nA"
+  },
+  "section_14": {
+    "un_number": "3077"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source_id": "d057912a8c97de36",
+  "file_path": "ingredient_source_audit/highlighted/d057912a8c97de36_highlighted.pdf",
+  "page_count": 12,
+  "full_text_length": 27440,
+  "sections_found": [
+    "section_3",
+    "section_2",
+    "section_15"
+  ],
+  "section_2": {
+    "signal_word": "CAUTION",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Carcinogenicity",
+      "carcinogen"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 1,
+    "text_excerpt": "HAZARDS IDENTIFICATION\n       ----------------------------------------------------------------------\n       Emergency Overview\n          CAUTION!  Harmful if swallowed, inhaled or absorbed through\n          skin.  Causes moderate eye irritation.  Do not breathe dust\n          or spray mist.  Avoid c"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source_id": "bd26a419ca333709",
+  "file_path": "ingredient_source_audit/highlighted/bd26a419ca333709_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 17658,
+  "sections_found": [
+    "section_3",
+    "section_2",
+    "section_15"
+  ],
+  "section_2": {
+    "signal_word": "CAUTION",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Carcinogenicity",
+      "carcinogen"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 1,
+    "text_excerpt": "HAZARDS IDENTIFICATION \n       ---------------------------------------------------------------------- \n       Emergency Overview \n \n          CAUTION.  Avoid contact with skin, eyes, or clothing.  Wash \n          thoroughly with soap and water after handling and before \n          eating, drinking, c"
+  }
+}

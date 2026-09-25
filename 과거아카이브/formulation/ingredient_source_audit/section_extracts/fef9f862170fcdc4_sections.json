@@ -1,0 +1,35 @@
+{
+  "source_id": "fef9f862170fcdc4",
+  "file_path": "ingredient_source_audit/highlighted/fef9f862170fcdc4_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 16260,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. Identification of Substance & Company \nProduct \nProduct name \nMove-It Total Moss & Moss \nHSNO approval \nNA \nApproval description \nNA \nUN number \nNA \nDG class \nNA \nProper Shipping Name \nNA \nPackaging group \nNA \nHazchem code \nNA \nUses \nReady to use moss and mould remover \nCompany Details \nCompany \n"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. Hazard Identification \nApproval \nThis product is not considered hazardous  under the Hazardous Substances and New Organisms Act (HSNO),  according to \nthe criteria in the Hazardous substances (Hazard Classification) Notice 2020. \nGHS 7 Classes  \nHazard Statements \nNone \n \nSYMBOLS \n \nnone \n \nOther"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

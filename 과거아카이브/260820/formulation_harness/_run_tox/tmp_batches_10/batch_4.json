@@ -1,0 +1,94 @@
+[
+  {
+    "row": 1355,
+    "product_name": "Countdown L&G",
+    "ingredient_names": " | Chlorothalonil",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/211659426162fdb3_highlighted.pdf",
+    "tox_signal_word": "danger",
+    "tox_h_statements": "H317 ;; H335 ;; H350 ;; H373 ;; H400 ;; H410",
+    "cat_sens_ghs": "1",
+    "sds_grade_status_eye": "not_stated",
+    "sds_grade_status_skin": "not_stated",
+    "sds_grade_status_sens": "ok"
+  },
+  {
+    "row": 1357,
+    "product_name": "Daconil 2787 Flowable Fungicide",
+    "ingredient_names": " | Chlorothalonil",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/9e29024278ed40f0_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "tox_h_statements": "H319 ;; H317 ;; H351 ;; H361 ;; H400 ;; H410 ;; H332 ;; H302 ;; H315 ;; H318",
+    "cat_eye_ghs": "1",
+    "cat_skin_ghs": "2",
+    "cat_sens_ghs": "1",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "ok"
+  },
+  {
+    "row": 1358,
+    "product_name": "Daconil Zn Flowable Fungicide",
+    "ingredient_names": "Zinc Oxide | Chlorothalonil",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/682db1cfcf164af3_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "cat_skin_ghs": "2",
+    "cat_sens_ghs": "1B",
+    "sds_grade_status_eye": "not_stated",
+    "sds_grade_status_skin": "ok",
+    "sds_grade_status_sens": "ok"
+  },
+  {
+    "row": 1362,
+    "product_name": "Echo 825",
+    "ingredient_names": " | Chlorothalonil",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1369,
+    "product_name": "GF-1593 Naturalyte Insect Control",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/f11df1a2ad8d1f36_highlighted.pdf",
+    "tox_signal_word": "warning",
+    "cat_eye_ghs": "2A",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "not_stated",
+    "sds_grade_status_sens": "negative"
+  },
+  {
+    "row": 1370,
+    "product_name": "Glyphosphate 62% IPA Salt",
+    "ingredient_names": "Roundup",
+    "sds_grade_status_eye": "no_sds",
+    "sds_grade_status_skin": "no_sds",
+    "sds_grade_status_sens": "no_sds"
+  },
+  {
+    "row": 1371,
+    "product_name": "Glyphosphate (99)",
+    "ingredient_names": "Glyphosate",
+    "tox_source_url": "https://www.fishersci.com/store/msds?partNumber=AC466180050&productDescription=GLYPHOSATE+5GR&vendorId=VN00032119&countryCode=US&language=en",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/9b695a4a94f1976f_highlighted.pdf",
+    "tox_signal_word": "danger",
+    "cat_eye_ghs": "1",
+    "sds_grade_status_eye": "ok",
+    "sds_grade_status_skin": "not_stated",
+    "sds_grade_status_sens": "not_stated"
+  },
+  {
+    "row": 1376,
+    "product_name": "241-GOL Acrobat MZ WDG Fungicide",
+    "ingredient_names": " | Dimethomorph | Mancozeb",
+    "tox_source_url": "https://www.rfdsafeagri.com/wp-content/uploads/2019/10/Acrobat.pdf",
+    "doc_source": "local",
+    "doc_rel": "ingredient_source_audit/highlighted/0c22b97aa385a2ea_highlighted.pdf",
+    "sds_grade_status_eye": "negative",
+    "sds_grade_status_skin": "negative",
+    "sds_grade_status_sens": "verdict_only"
+  }
+]

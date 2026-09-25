@@ -1,0 +1,50 @@
+{
+  "source_id": "9e9937cbb45ac976",
+  "file_path": "ingredient_source_audit/highlighted/9e9937cbb45ac976_highlighted.pdf",
+  "page_count": 15,
+  "full_text_length": 28443,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "company/undertaking",
+    "formulation_code": "EC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification of the substance/mixture and of the \ncompany/undertaking\n1.1\nProduct identifier\nIdentification of the substance\nCypermethrin ROTICHROM® Pestilyse® HPLC\nArticle number\n22T0\nRegistration number (REACH)\nIt is not required to list the identified uses be-\ncause the substance is "
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H302",
+      "H332",
+      "H335",
+      "H373",
+      "H400",
+      "H410"
+    ],
+    "p_codes": [
+      "P280"
+    ],
+    "ghs_classes": [
+      "Acute Tox. 4",
+      "STOT SE 3",
+      "STOT RE 2",
+      "Aquatic Acute 1",
+      "Aquatic Chronic 1"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 3,
+    "text_excerpt": "SECTION 2: Hazards identification\n2.1\nClassification of the substance or mixture\nSafety data sheet \naccording to Regulation (EC) No. 1907/2006 (REACH), amended by 2020/878/EU \n \nCypermethrin ROTICHROM® Pestilyse® HPLC\narticle number: 22T0 \nIreland (en)\nPage 2 / 15\nClassification according to Regulat"
+  },
+  "section_14": {
+    "un_number": "2902"
+  }
+}

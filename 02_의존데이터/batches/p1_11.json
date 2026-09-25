@@ -1,0 +1,112 @@
+[
+ {
+  "row": 1550,
+  "fid": "MIX885",
+  "product_name": "Jonquil absolute",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "",
+  "n_smiles": 0
+ },
+ {
+  "row": 1553,
+  "fid": "MIX888",
+  "product_name": "Fenugreek absolute",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/9f8366c3265648db_highlighted.pdf",
+  "prev_fail_memo": "",
+  "n_smiles": 0
+ },
+ {
+  "row": 1565,
+  "fid": "MIX899",
+  "product_name": "Castoreum",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "",
+  "n_smiles": 0
+ },
+ {
+  "row": 1569,
+  "fid": "MIX901",
+  "product_name": "Costus root, essential oil, absolute and concrete",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": "http://ultrainternational.com/wp-content/uploads/2023/08/SDS-COSTUS-ROOT-OIL.pdf",
+  "hint_doc_rel": null,
+  "prev_fail_memo": "원 힌트 없어 대체 검색으로 SDS 확인(Ultra International, CAS 8023-88-9); Section 11 전 항목 'No data available', GHS 미분류(NC)",
+  "n_smiles": 0
+ },
+ {
+  "row": 1571,
+  "fid": "MIX903",
+  "product_name": "Celery seed oil",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/92a9be9222554c1f_highlighted.pdf",
+  "prev_fail_memo": "구형 MSDS(Oxford Lab Fine Chem)로 GHS 신호어/H코드 없음, 서술형 독성정보만 존재",
+  "n_smiles": 0
+ },
+ {
+  "row": 1583,
+  "fid": "MIX914",
+  "product_name": "Cardamom oil",
+  "ingredient_names": "1,8-Cineole",
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": "ingredient_source_audit/highlighted/bc72d8d1be4a4024_highlighted.pdf",
+  "prev_fail_memo": "성분명이 EUH208 표기성분(1,8-시네올) 위주로만 확인되어 전체 성분표 직접 대조는 못함; 카다몬 오일 SDS로서 패턴상 합치",
+  "n_smiles": 1
+ },
+ {
+  "row": 1585,
+  "fid": "MIX916",
+  "product_name": "Camphor oil yellow",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "황색(원유/조유) 캄퍼오일 전용 SDS/톡시데이터 못 찾음. 찾은 자료(TGSC camphor oil white, CAS 8000-68-8/유사)는 백색 정제유 전용이며 해당 페이지 자체에서 '황색·갈색유는 조유(crude)로 백색유보다 독성이 강함(safrole 함유)'이라 명시하여 백색유 데이터를 그대로 적용할 수 없음",
+  "n_smiles": 0
+ },
+ {
+  "row": 1590,
+  "fid": "MIX920",
+  "product_name": "Camphor oil brown",
+  "ingredient_names": null,
+  "hint_tox_url": "https://resource.regsolutions.com.au/archives/jobs/camphor-oil-brown | https://www.myskinrecipes.com/shop/en/cools-eucalyptus-mint-camphor/3186-camphor-oil-brown.html",
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "제공된 힌트 URL(resource.regsolutions.com.au)은 SDS가 아니라 호주 TGA 규제/조성 참고문서(성분: camphor, cineole, safrole 확인)이며 Section 11 독성정보 없음. PubChem/ChemIDplus에 'Camphor oil brown'(RTECS EX1497000) 물질 등록은 확인되나 연계된 독성/GHS 데이터 없음. 실제 SDS 문서를 찾지 못함",
+  "n_smiles": 0
+ },
+ {
+  "row": 1591,
+  "fid": "MIX921",
+  "product_name": "Cascarilla oil",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": "https://www.thegoodscentscompany.com/data/es1021531.html",
+  "hint_doc_rel": null,
+  "prev_fail_memo": "동일 검색어로 'cascarilla oil replacer/reco'(합성 대체품, Charabot/Robertet)가 함께 검색되었으나 이는 다른 제품이므로 배제하고, 실제 천연오일 페이지(cascarilla bark oil, CAS 8007-06-5)를 채택함",
+  "n_smiles": 0
+ },
+ {
+  "row": 1613,
+  "fid": "MIX941",
+  "product_name": "Almond oil bitter FFPA",
+  "ingredient_names": null,
+  "hint_tox_url": null,
+  "hint_newlink": null,
+  "hint_doc_rel": null,
+  "prev_fail_memo": "FFPA(Free From Prussic Acid, 시안화수소 제거) 등급 전용 SDS/자료를 찾지 못함. 일반 bitter almond oil(CAS 8013-76-1)은 HCN으로 인한 급성경구독성이 매우 높아(LD50 960mg/kg, human LDLo 107mg/kg) FFPA 등급과 독성 프로파일이 크게 다를 수 있어 해당 데이터를 대입하지 않음",
+  "n_smiles": 0
+ }
+]

@@ -1,0 +1,35 @@
+{
+  "source_id": "24850029db85acdc",
+  "file_path": "ingredient_source_audit/highlighted/24850029db85acdc_highlighted.pdf",
+  "page_count": 12,
+  "full_text_length": 25040,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product identifier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. IDENTIFICATION OF THE SUBSTANCE/MIXTURE AND OF THE COMPANY/UNDERTAKING\nProduct identifier \nProduct name \n: TITUS®  \nSynonyms \n: DPX-E9636 25WG \nB10022922 \nRelevant identified uses of the substance or mixture and uses advised against \nUse of the Substance/Mixture  \nHerbicide \nDetails of the suppli"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION \nClassification of the substance or mixture \nDangerous for the \nenvironment\n R50/53: Very toxic to aquatic organisms, may cause long-term adverse effects \nin the aquatic environment. \nPrint Date: 2012 - 6 - 26\nSAFETY DATA SHEET according to Regulation (EC) No 1907/2006 \nand"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

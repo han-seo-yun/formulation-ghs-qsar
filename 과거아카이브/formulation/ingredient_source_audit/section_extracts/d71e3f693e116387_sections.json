@@ -1,0 +1,49 @@
+{
+  "source_id": "d71e3f693e116387",
+  "file_path": "ingredient_source_audit/highlighted/d71e3f693e116387_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 17275,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "· Product identifier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1 Identification\n· Product identifier\n· Product Name: Tepraloxydim in Solution\n· Part Number: LCS-6178\n· Application of the substance / the mixture Certified Reference Material\n· Details of the supplier of the safety data sheet\n· Manufacturer/Supplier:\nSPEX CertiPrep, LLC.\n203 Norcross Ave, Metuchen"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H225",
+      "H351",
+      "H361",
+      "H312",
+      "H332",
+      "H319"
+    ],
+    "p_codes": [],
+    "ghs_classes": [
+      "Flam. Liq. 2",
+      "Carc. 2",
+      "Repr. 2",
+      "Acute Tox. 4",
+      "Eye Irrit. 2",
+      "explosion"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 5,
+    "text_excerpt": "2 Hazard(s) identification\n· Classification of the substance or mixture\nGHS02 Flame\nFlam. Liq. 2 H225 Highly flammable liquid and vapor.\nGHS08 Health hazard\nCarc. 2\nH351 Suspected of causing cancer.\nRepr. 2\nH361 Suspected of damaging fertility or the unborn child.\nGHS07\nAcute Tox. 4 H312 Harmful in "
+  },
+  "section_14": {
+    "un_number": "1648"
+  }
+}

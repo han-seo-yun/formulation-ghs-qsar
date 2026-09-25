@@ -1,0 +1,66 @@
+{
+  "source_id": "ae6d4182ec63cca5",
+  "file_path": "ingredient_source_audit/highlighted/ae6d4182ec63cca5_highlighted.pdf",
+  "page_count": 9,
+  "full_text_length": 14944,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "1.1 Product Identifier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "Section 1. Identification of the substance or the mixture and of the supplier \n \n1.1 Product Identifier \nProduct identifier: \n \n \nDaucus Carota Sativa (Carrot) Seed Oil; CAS: 8015-88-1 \nOther identifiers: \nCarrot Seed Oil \n1.2 Relevant identified uses of the substance of mixture and uses advised aga"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H226",
+      "H304",
+      "H315",
+      "H317",
+      "H411"
+    ],
+    "p_codes": [
+      "P210",
+      "P233",
+      "P240",
+      "P241",
+      "P242",
+      "P243",
+      "P261",
+      "P264",
+      "P272",
+      "P273",
+      "P280",
+      "P301",
+      "P303",
+      "P331",
+      "P333",
+      "P362",
+      "P370",
+      "P391",
+      "P403",
+      "P405",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Skin Corrosion",
+      "explosion"
+    ],
+    "environmental_hazard": "aquatic_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "Section 2. Hazards identification \n \n2.1 Classification of the substance or mixture \n \n \n \nClass and category of \ndanger: \nClassification under Regulation (EC) No 1272/2008 \n \nFlammable Liquid, Hazard Category 3 \nSkin Corrosion / Irritation Category 2 \nSensitization - Skin Category 1 \nAspiration Haz"
+  },
+  "section_14": {
+    "un_number": "1169"
+  }
+}

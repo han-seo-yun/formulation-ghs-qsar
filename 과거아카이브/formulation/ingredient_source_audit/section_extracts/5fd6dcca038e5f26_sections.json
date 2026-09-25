@@ -1,0 +1,35 @@
+{
+  "source_id": "5fd6dcca038e5f26",
+  "file_path": "ingredient_source_audit/highlighted/5fd6dcca038e5f26_highlighted.pdf",
+  "page_count": 11,
+  "full_text_length": 21171,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "COMPANY/UNDERTAKING",
+    "formulation_code": null,
+    "epa_reg_number": "524-579",
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": "EPA",
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: IDENTIFICATION OF THE SUBSTANCE/MIXTURE AND OF THE \nCOMPANY/UNDERTAKING \n \nProduct identifier \n \nTrade name \nROUNDUP PROMAX® HERBICIDE \n \nProduct code (UVP) \n86723530 \n \nSDS Number \n102000037605 \n \nEPA Registration No. \n524-579 \n \nRelevant identified uses of the substance or mixture and u"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2: HAZARDS IDENTIFICATION \n \nClassification in accordance with regulation HCS 29CFR §1910.1200 \nAcute toxicity(Inhalation): Category 4 \n \nLabelling in accordance with regulation HCS 29CFR §1910.1200 \n \n \n \nSignal word: Warning \n \nHazard statements \nHarmful if inhaled.  \n \nPrecautionary state"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "source_id": "8aeb8ec784fd4a7e",
+  "file_path": "ingredient_source_audit/highlighted/8aeb8ec784fd4a7e_highlighted.pdf",
+  "page_count": 2,
+  "full_text_length": 22543,
+  "sections_found": [
+    "label_header"
+  ],
+  "label_header": {
+    "epa_reg_number": null,
+    "formulation_code": null,
+    "signal_word": "CAUTION",
+    "active_ingredient_declared": true,
+    "text_excerpt": "Distributed By:    Southern Agricultural Insecticides, Inc.\nPalmetto, FL 34220                 Hendersonville, NC 28793                  Boone, NC 28607\nEPA Reg. No.70506-74-829                           J1                             EPA EST. NO 829-FL-1\nNet Weight:\n50 lb. (22.68 kg)\nDO NOT USE THI"
+  }
+}

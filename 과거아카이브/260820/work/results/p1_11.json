@@ -1,0 +1,316 @@
+[
+ {
+  "row": 1550,
+  "fid": "MIX885",
+  "product_name": "Jonquil absolute",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://hermitageoils.com/wp-content/uploads/2015/10/JONQUILLE-ABSOLUTE-EN-2023-03-17.pdf",
+  "source_type": "supplier product SDS (Hermitage Oils srl, EU CLP 1272/2008, rev 2023-03-17), PDF text extracted",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": "None (no signal word; mixture not classified as dangerous)",
+   "h_statements": "None. Supplemental only: EUH210 (SDS available on request); EUH208 (Contains ISOEUGENOL, CAS 97-54-1 - may produce an allergic reaction)",
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "Not classified",
+   "ld50_oral": "5000 mg/kg (rat, LD50, data for mixture; SDS S11.1)",
+   "ld50_dermal": null,
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": null,
+  "note_ko": "Hermitage Oils 제품 SDS 확보(CAS 8023-75-4 / 90064-25-8 = TGSC jonquil absolute와 일치). S2 '이 혼합물은 위험물로 분류되지 않음', 신호어 없음. S11 눈/피부/감작 모두 '분류되지 않음'. S9 pH = 'Not available'로 pH 없음. S3에 에탄올 1~3% 포함(H225/H319)."
+ },
+ {
+  "row": 1553,
+  "fid": "MIX888",
+  "product_name": "Fenugreek absolute",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://hermitageoils.com/wp-content/uploads/2015/09/FENUGREEK-ABSOLUTE-EN-2021_12_03.pdf",
+  "source_type": "supplier product SDS (Hermitage Oils, EU CLP 1272/2008, rev 2021-12-03), PDF text extracted",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": "None (no signal word; mixture not classified as dangerous)",
+   "h_statements": "None (no hazard statements; label elements all '-')",
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "Not classified",
+   "ld50_oral": null,
+   "ld50_dermal": null,
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": null,
+  "note_ko": "구형 MSDS 대신 최신 GHS/CLP SDS 확보. S3 = Fenugreek, ext. CAS 84625-40-1 (≤100%), 분류 없음. S11: 피부부식 '자극성 없음', 눈 '자극성 없음', 감작 '감작성 알려진 바 없음' → 모두 미분류. LD50 데이터 없음. S9 pH = 'Not available'."
+ },
+ {
+  "row": 1565,
+  "fid": "MIX899",
+  "product_name": "Castoreum",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://hermitageoils.com/wp-content/uploads/2015/10/CASTOREUM-ABSOLUTE-EN-2021_10_11.pdf",
+  "source_type": "supplier product SDS (Hermitage Oils, CASTOREUM ABSOLUTE, CAS 8023-83-4 / EC 232-427-5, rev 2021-10-11), PDF text extracted",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": "None (no signal word; mixture not classified as dangerous)",
+   "h_statements": "None. Supplemental only: EUH210; EUH208 (Contains ISOEUGENOL, CAS 97-54-1)",
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "Not classified",
+   "ld50_oral": "> 5000 mg/kg bw (rat, LD50, RIFM; SDS S11.1)",
+   "ld50_dermal": "> 5000 mg/kg bw (rat, LD50; SDS S11.2)",
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": null,
+  "note_ko": "제품명 'Castoreum'에 대응하는 CAS 8023-83-4(TGSC castoreum/ castoreum absolute와 동일 CAS)의 Castoreum Absolute SDS 채택. S11 전 항목 '제품은 분류되지 않음'. S3에 에탄올 1~10%(H225). S9 pH = 'Not available'."
+ },
+ {
+  "row": 1569,
+  "fid": "MIX901",
+  "product_name": "Costus root, essential oil, absolute and concrete",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://ultrainternational.com/wp-content/uploads/2023/08/SDS-COSTUS-ROOT-OIL.pdf",
+  "source_type": "supplier product SDS (Ultra International Ltd, COSTUS ROOT OIL, CAS 8023-88-9, GHS/SDS/04, 2023-05-03), PDF text extracted",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": "No Signal Word",
+   "h_statements": "NC - Not classified (no hazard statements)",
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "Not classified",
+   "ld50_oral": null,
+   "ld50_dermal": null,
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": null,
+  "note_ko": "힌트 URL의 PDF를 직접 내려받아 텍스트 추출로 재확인. S2 GHS = 'NC / Not classified', 신호어 없음. S3.2 위험성분 'None identified'. S11 전 항목 'No Data Available'(LD50/LC50 없음). S9 pH value = 'Not Determined' → pH 없음."
+ },
+ {
+  "row": 1571,
+  "fid": "MIX903",
+  "product_name": "Celery seed oil",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://old.pentafineingredients.com/assets/inc/db/reports.php?section=getdocumentation&name=sds&idx=3494750c-0432-11e7-8535-0024e85aac14&auto=0",
+  "source_type": "supplier product SDS (Penta Fine Ingredients, CELERY SEED OIL, product no. 03-17500, CAS 8015-90-5, GHS per 29 CFR 1910 OSHA HCS), PDF text extracted",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": "Warning",
+   "h_statements": "H226 (Flammable liquid and vapour)",
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "Not classified",
+   "ld50_oral": "2650 mg/kg (rat, LD50; SDS S11)",
+   "ld50_dermal": "> 5000 mg/kg (rabbit, LD50; SDS S11)",
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": null,
+  "note_ko": "구형 Oxford Lab MSDS 대신 Penta Fine Ingredients의 GHS SDS 확보(TGSC celery seed oil CAS 8015-90-5과 일치). S2 GHS 분류는 Flam. Liq. 3(H226)만이며 눈/피부/감작은 분류 없음. 단 S11 '호흡기 또는 피부 감작: May cause allergic skin reaction' 서술이 있어 S2와 불일치 - S2 기준으로 미분류 기록. S9 pH = 'no data available'."
+ },
+ {
+  "row": 1583,
+  "fid": "MIX914",
+  "product_name": "Cardamom oil",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://ultrainternational.com/wp-content/uploads/2023/08/SDS-CARDAMOM-OIL.pdf",
+  "source_type": "supplier product SDS (Ultra International Ltd, CARDAMOM OIL, CAS 8000-66-6, GHS/SDS/04, 2023-05-01), PDF text extracted",
+  "ingredients_match": true,
+  "product_ghs": {
+   "signal_word": "Danger",
+   "h_statements": "H226, H304, H315, H317, H319, H401, H411",
+   "eye_cat": "2A",
+   "skin_cat": "2",
+   "sens_cat": "1",
+   "ld50_oral": "> 5 g/kg (> 5000 mg/kg; SDS S11.1 Oral)",
+   "ld50_dermal": "> 5 g/kg (> 5000 mg/kg; SDS S11.1 Skin)",
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": [
+   {
+    "name": "1,8-Cineole (Eucalyptol)",
+    "cas": "470-82-6",
+    "eye_cat": "2B",
+    "skin_cat": "Not classified",
+    "sens_cat": "1B",
+    "h_statements": "Acute Tox. 5 (Oral) H303; Skin Sens. 1B H317; Eye Irrit. 2B H320; Aquatic Acute 3 H402",
+    "source_url": "https://ultrainternational.com/wp-content/uploads/2023/08/SDS-CARDAMOM-OIL.pdf"
+   },
+   {
+    "name": "1,8-Cineole (Eucalyptol)",
+    "cas": "470-82-6",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": "1",
+    "h_statements": "ECHA C&L aggregated (16 notifications / 2288 reports), Signal: Warning - H226 (98.7%), H317 (84.2%)",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/2758/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "성분 대조 성공: SDS S3.2 위험성분에 Eucalyptol(CAS 470-82-6 = 1,8-시네올)이 명시되어 ingredient_names와 합치(그 외 terpinyl acetate, linalyl acetate). S2 Eye Irrit. 2A 명시. S9 pH value = 'Not Determined'. 성분별 GHS는 SDS S3.2와 PubChem PUG-View 양쪽에서 수집."
+ },
+ {
+  "row": 1585,
+  "fid": "MIX916",
+  "product_name": "Camphor oil yellow",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "low",
+  "source_url": "https://www.thegoodscentscompany.com/data/es1002432.html",
+  "source_type": "aggregator composition/fraction description (TGSC camphor tree bark oil, CAS 8008-51-3) + PubChem PUG-View GHS per constituent",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Camphor",
+    "cas": "76-22-2",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": null,
+    "h_statements": "ECHA C&L aggregated (73 notifications / 1988 reports), Signal: Danger - H228 (97.6%), H302 (15.3%), H315 (10.1%), H332 (93.6%), H371 (73.3%), H373 (19.6%)",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/2537/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "1,8-Cineole (Eucalyptol)",
+    "cas": "470-82-6",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": "1",
+    "h_statements": "ECHA C&L aggregated (16 notifications / 2288 reports), Signal: Warning - H226 (98.7%), H317 (84.2%)",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/2758/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Safrole",
+    "cas": "94-59-7",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": null,
+    "h_statements": "PubChem GHS, Signal: Danger - H302, H341, H350 (ECHA C&L 7 notifications / 409 reports: H302 100%, H341 100%, H350 100%)",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/5144/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "황색(조유) 캄퍼오일 전용 제품 SDS는 공개적으로 존재하지 않음(Penta/Berje/Ultra/Hermitage 모두 white 분획만 취급). TGSC 페이지가 캄퍼오일을 white/brown/yellow 3분획으로 기술하고 '갈색·황색은 조유로 외용에서도 더 독성이 강함'이라 명시 → 이 조성 기술을 근거로 대표 구성성분(캄퍼·1,8-시네올·사프롤)의 PubChem GHS를 Tier2로 수집. 구성성분 목록은 문헌 기술 기반 추정이므로 confidence=low, 제품수준 값은 기록하지 않음."
+ },
+ {
+  "row": 1590,
+  "fid": "MIX920",
+  "product_name": "Camphor oil brown",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "medium",
+  "source_url": "https://resource.regsolutions.com.au/archives/jobs/camphor-oil-brown",
+  "source_type": "regulatory composition document (AU TGA listed-medicine ingredient record: mandatory components camphor, cineole, safrole) + PubChem PUG-View GHS per constituent",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Camphor",
+    "cas": "76-22-2",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": null,
+    "h_statements": "ECHA C&L aggregated (73 notifications / 1988 reports), Signal: Danger - H228 (97.6%), H302 (15.3%), H315 (10.1%), H332 (93.6%), H371 (73.3%), H373 (19.6%)",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/2537/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "1,8-Cineole (Eucalyptol)",
+    "cas": "470-82-6",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": "1",
+    "h_statements": "ECHA C&L aggregated (16 notifications / 2288 reports), Signal: Warning - H226 (98.7%), H317 (84.2%)",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/2758/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Safrole",
+    "cas": "94-59-7",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": null,
+    "h_statements": "PubChem GHS, Signal: Danger - H302, H341, H350 (ECHA C&L 7 notifications / 409 reports: H302 100%, H341 100%, H350 100%)",
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/5144/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "갈색 캄퍼오일 전용 제품 SDS는 여전히 찾지 못함(Section 11 보유 문서 부재). 다만 힌트의 TGA 규제문서를 재확인해 필수 구성성분이 'camphor, cineole, safrole'임을 명시적으로 확보(safrole 내용용 ≤0.1%, 외용 ≤1.0% 등) → 이를 근거로 3성분의 PubChem GHS를 Tier2로 수집. 제품수준 값은 기록하지 않음."
+ },
+ {
+  "row": 1591,
+  "fid": "MIX921",
+  "product_name": "Cascarilla oil",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://old.pentafineingredients.com/assets/inc/db/reports.php?section=getdocumentation&name=sds&idx=3494587e-0432-11e7-8535-0024e85aac14&auto=0",
+  "source_type": "supplier product SDS (Penta Fine Ingredients, CASCARILLA BARK OIL, product no. 03-14400, CAS 8007-06-5 / EC 284-284-3, rev 2023-07-01, GHS per 29 CFR 1910 OSHA HCS), PDF text extracted",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": "Warning",
+   "h_statements": "H302, H315, H317, H320, H333",
+   "eye_cat": "2B",
+   "skin_cat": "2",
+   "sens_cat": "1",
+   "ld50_oral": null,
+   "ld50_dermal": null,
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": null,
+  "note_ko": "TGSC(GHS 'None found')를 대체하는 실제 제품 SDS 확보. S2 GHS: Acute Tox. Oral 4, Skin Corr./Irrit. 2, Skin Sens. 1, Eye Dam./Irrit. 2B, Acute Tox. Inhalation 5. S3 CAS 8007-06-5(= TGSC croton eluteria bark oil)로 성분 동일. S11 LD50/LC50 모두 'no data available'. S9 pH = 'no data available'."
+ },
+ {
+  "row": 1613,
+  "fid": "MIX941",
+  "product_name": "Almond oil bitter FFPA",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://hermitageoils.com/wp-content/uploads/2015/10/BITTER-ALMOND-E.O-MSDS.pdf",
+  "source_type": "supplier product SDS (Hermitage Oils, BITTER ALMOND OIL, CAS 68650-44-2 / EC 272-046-1, EU-GB CLP), PDF text extracted",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": "Warning",
+   "h_statements": "H302+H332, H319, H335, H373 (classification: Acute Tox. 4, Acute Tox. 4, Eye Irrit. 2, STOT SE 3, STOT RE 2)",
+   "eye_cat": "2A (CLP Eye Irrit. 2)",
+   "skin_cat": "Not classified",
+   "sens_cat": "Not classified",
+   "ld50_oral": "1430 mg/kg (rat, OECD 401; classification-relevant value for benzaldehyde 90-100%)",
+   "ld50_dermal": "2500 mg/kg (rabbit, Acute Toxicity Estimate ATE)",
+   "lc50_inh": null,
+   "ph": null
+  },
+  "per_ingredient": [
+   {
+    "name": "Benzaldehyde",
+    "cas": "100-52-7",
+    "eye_cat": "2A (CLP Eye Irrit. 2)",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": "Acute Tox. 4 H302; Acute Tox. 4 H332; Eye Irrit. 2 H319; STOT SE 3 H335 (90-100% of product)",
+    "source_url": "https://hermitageoils.com/wp-content/uploads/2015/10/BITTER-ALMOND-E.O-MSDS.pdf"
+   },
+   {
+    "name": "Benzoic acid",
+    "cas": "65-85-0",
+    "eye_cat": "1 (Eye Dam. 1)",
+    "skin_cat": "2",
+    "sens_cat": null,
+    "h_statements": "STOT RE 1 H372; Eye Dam. 1 H318; Skin Irrit. 2 H315 (<1% of product)",
+    "source_url": "https://hermitageoils.com/wp-content/uploads/2015/10/BITTER-ALMOND-E.O-MSDS.pdf"
+   }
+  ],
+  "note_ko": "'FFPA' 표기가 명시된 전용 SDS는 없으나, 확보한 bitter almond oil SDS의 S3 조성이 benzaldehyde 90-100% + benzoic acid <1%로 시안화수소(HCN)/amygdalin 기재가 전혀 없어 FFPA(탈시안) 등급과 정합적. CAS 68650-44-2(EC 272-046-1)로, HCN 함유 8013-76-1과는 다른 등록번호. 이 근거로 confidence=medium. S9에 pH 항목 자체가 없음."
+ }
+]

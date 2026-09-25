@@ -1,0 +1,35 @@
+{
+  "source_id": "0621368118bd1667",
+  "file_path": "ingredient_source_audit/highlighted/0621368118bd1667_highlighted.pdf",
+  "page_count": 14,
+  "full_text_length": 25902,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_15",
+    "section_3",
+    "section_14"
+  ],
+  "section_1": {
+    "product_name": "Product name",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1. PRODUCT AND COMPANY IDENTIFICATION \n \nProduct name \n: \nDuPont™ Canopy® Herbicide \nTradename/Synonym \n: \nCANOPY 75DF \nDPX-L8347 \nMETRIBUZIN:  4-Amino-6-(1,1-dimethylethyl)-3-(methylthio)-1,2,4-triazin-\n5(4H)-one \nCHLORIMURON ETHYL:  Ethyl 2-[[[[(4-chloro-6-methoxypyrimidin-2-\nyl)amino]carb"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2. HAZARDS IDENTIFICATION  \n \n \nProduct hazard category \nAcute toxicity (Oral) \nCategory 4 \nSkin irritation \nCategory 2 \nSerious eye damage/eye irritation \nCategory 2B \nSpecific target organ toxicity - \nsingle exposure \nCategory 3 \n \n \nSafety Data Sheet \n \nDuPont™ Canopy® Herbicide  \nVersion"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

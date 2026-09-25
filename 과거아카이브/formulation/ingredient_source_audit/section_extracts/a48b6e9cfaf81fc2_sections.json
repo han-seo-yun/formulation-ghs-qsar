@@ -1,0 +1,35 @@
+{
+  "source_id": "a48b6e9cfaf81fc2",
+  "file_path": "ingredient_source_audit/highlighted/a48b6e9cfaf81fc2_highlighted.pdf",
+  "page_count": 5,
+  "full_text_length": 13812,
+  "sections_found": [
+    "section_2",
+    "section_1",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Classification of the substance / preparation",
+    "formulation_code": "EC",
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. IDENTIFICATION OF THE SUBSTANCE/ MIXTURE AND OF THE COMPANY / UNDERTAKING \n \nClassification of the substance / preparation \nClassification according to Regulation (EC) No. 1272/2008  \nFL 4, SCI 2, EDI 2A, SS 1, AH 1, EH A3, EH C3; H226, H304, H315, H317, H319, H402, H412 \n \nClassification accord"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. HAZARD IDENTIFICATION \n  4. FIRST AID MEASURES \n "
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

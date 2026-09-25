@@ -1,0 +1,65 @@
+{
+  "source_id": "485bf0f04619e39b",
+  "file_path": "ingredient_source_audit/highlighted/485bf0f04619e39b_highlighted.pdf",
+  "page_count": 8,
+  "full_text_length": 16810,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product identifier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification: Product identifier and chemical identity\nProduct identifier\nProduct name\nMULTICIDE ® Mosquito Adulticiding Concentrate 2705\nRelevant identified uses of the substance or mixture and uses advised against\nApplication\nInsecticide\nUses advised against\nNo specific uses advised a"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H227",
+      "H332",
+      "H304",
+      "H400",
+      "H410"
+    ],
+    "p_codes": [
+      "P210",
+      "P261",
+      "P271",
+      "P273",
+      "P280",
+      "P301",
+      "P310",
+      "P304",
+      "P340",
+      "P312",
+      "P331",
+      "P370",
+      "P378",
+      "P391",
+      "P403",
+      "P235",
+      "P405",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Flam. Liq. 4",
+      "Acute Tox. 4",
+      "Aquatic Acute 1",
+      "Aquatic Chronic 1"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2: Hazard(s) identification\nClassification of the substance or mixture\nPhysical hazards\nFlam. Liq. 4 - H227\nHealth hazards\nAcute Tox. 4 - H332 Asp. Tox. 1 - H304\nEnvironmental hazards\nAquatic Acute 1 - H400 Aquatic Chronic 1 - H410\nLabel elements\nHazard pictograms\n      \n      \nSignal word\nD"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

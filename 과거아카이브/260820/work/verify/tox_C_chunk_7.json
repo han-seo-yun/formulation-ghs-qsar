@@ -1,0 +1,395 @@
+[
+ {
+  "row": 1171,
+  "product_name": "Vapona Concentrate Insecticide",
+  "ingredient_names": "Dichlorvos",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": 1,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / H301 Toxic if swallowed; H304 May be fatal if swallowed and enters airways; H311 Toxic in contact with skin; H315 Causes skin irritation; H317 May cause an allergic skin reaction; H319 Causes serious eye irritation; H330 Fatal if inhaled; H340 May cause genetic defects; H350 May cause cancer",
+  "메모": "기존 힌트 URL(Cayman Chemical, 시약등급 Dichlorvos)은 제품과 무관한 SDS - 실제 제제(Bayer/AMVAC Vapona Concentrate Insecticide, Dichlorvos 41.02%, EPA Reg 11556-174) SDS로 대체 확인",
+  "검증근거": "피부 구분 충돌 참조=1 vs H코드유도=2",
+  "pdf_path": null,
+  "urls": [
+   "https://s3-us-west-1.amazonaws.com/agrian-cg-fs1-production/pdfs/DDVP_20_Emulsifiable_Concentrate_Insecticide_MSDSen3.pdf",
+   "https://assets.pim.ecolab.com/media/Original/10368/Pest_Vapona%20CONCENTRATE%20INSECTICIDE_SDS_US.pdf"
+  ]
+ },
+ {
+  "row": 1172,
+  "product_name": "Triflurex HFP",
+  "ingredient_names": "Trifluralin 480 g/L",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "2B",
+  "cat_sens_ghs": null,
+  "추출정보": "Warning (일부 제형은 Danger) / H317(피부알레르기 가능), H351(발암성 의심), H400/H410(수생환경 유해); 원제 기준. 일부 출처는 H302/H319/H330/H371/H372 추가 보고",
+  "메모": "Triflurex HFP(480g/L 제형) 자체 SDS는 못 찾음; Trifluralin 원제(technical) 기준 GHS/독성 자료로 대체 확인. 제형 SDS와는 수치가 다를 수 있음",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/5569"
+  ]
+ },
+ {
+  "row": 1173,
+  "product_name": "Triticonazole Fungicide",
+  "ingredient_names": "Triticonazole",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": "신호어 명시 확인 안됨 (H411만 확인) / H411 (장기적 수생환경 유해)",
+  "메모": "기존 힌트 URL(datasheets.scbt.com)은 403으로 접근 불가; PubChem 통합 GHS분류(동일 CAS)로 대체 확인, 눈자극 'Not classified' 힌트와 일치",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/6537961"
+  ]
+ },
+ {
+  "row": 1175,
+  "product_name": "Troysan 680",
+  "ingredient_names": "distillates (petroleum), hydrotreated light | white mineral oil | butyl stearate | petrolatum | distillates (petroleum), hydrotreated heavy paraffinic | 1,2-Benzisothiazolin-3-one | 1,3-Dimethylol-5,5",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "힌트 SDS(crcindustries.com)는 무관한 제품(\"2-26 Multi-Purpose Precision Lubricant\", 광유계 윤활제)로 성분 완전 불일치. Troy Corp/Arxada 사이트 및 검색으로도 Troysan 680 정확한 SDS 못 찾음",
+  "검증근거": "추출정보 공란 + 성분 불일치(다른 제품 SDS 의심)",
+  "pdf_path": null,
+  "urls": [
+   "https://www.crcindustries.com/media/msdsen/msds_en-1003169.pdf"
+  ]
+ },
+ {
+  "row": 1203,
+  "product_name": "UPI Imidacloprid",
+  "ingredient_names": "Imidacloprid | Debacarb | Carbendazim | Tetrahydrofurfuryl alcohol (THFA)",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": "Warning(다수 통보 기준, 일부 통보는 Danger) / H302 삼킴 유해(통보 100%), H400 수생생물에 매우 유독(97.7%), H410 장기간 영향 수생생물에 매우 유독(97.7%); 일부 통보에서 H370(장기손상) H373(반복노출시 장기손상) 병기",
+  "메모": "힌트 URL(carlroth.com)이 HTTP 400 오류로 접속불가; PubChem의 ECHA C&L 통보 집계 GHS 분류(순수 Imidacloprid, CAS 138261-41-3)로 대체 확인함. UPI Imidacloprid Technical Insecticide(EPA Reg 70506-122) 자체 SDS 문서는 검색으로 찾지 못했으며, 물질 동일성(성분=Imidacloprid 단일)만 확인된 상태",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/86418"
+  ]
+ },
+ {
+  "row": 1212,
+  "product_name": "XDE-007 50% Concentrate",
+  "ingredient_names": "| Noviflumuron",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "제품 자체 SDS 못 찾음(검색엔진 접근 제한); 활성성분 노비플루무론(CAS 121451-02-3) 기술물질 GHS(Warning, H361/H362/H400/H410)만 확인, 제품(50% 농축물)과 직접 매칭 불가",
+  "검증근거": "추출정보 공란 + 출처 접근 실패(링크불가·403/404·로그인·못찾음)",
+  "pdf_path": null,
+  "urls": [
+   "https://www3.epa.gov/pesticides/chem_search/ppls/062719-00478-20030513.pdf"
+  ]
+ },
+ {
+  "row": 1215,
+  "product_name": "XDE-742",
+  "ingredient_names": "Ferric chloride hexahydrate | Pyroxsulam",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": "Warning / H317, H400, H410",
+  "메모": "코드명 XDE-742=Pyroxsulam으로 확인(PubChem 일치). 완제품 SDS는 못 찾아 PubChem GHS 집계자료(활성성분 Pyroxsulam 기준)로 대체; Ferric chloride hexahydrate(2성분)의 역할/함량은 확인 못함",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/11571555"
+  ]
+ },
+ {
+  "row": 1225,
+  "product_name": "Reality 25",
+  "ingredient_names": "Free | Permethrin",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "Reality 25'(25% 제형) 전용 SDS를 찾지 못해 동일 제조사(Gharda Chemicals) 'Reality Termiticide/Insecticide'(permethrin 38.3% EC, EPA Reg 33658-33) SDS로 대체 참고함 - 제형/농도 다름, 정확한 LD50 수치 없음(정성적 서술만 존재)",
+  "검증근거": "추출정보 공란 + 미분류 메모: Reality 25'(25% 제형) 전용 SDS를 찾지 못해 동일 제조사",
+  "pdf_path": null,
+  "urls": [
+   "https://assets.greenbook.net/04-59-20-08-11-2022-RealityMSDS__1_.pdf"
+  ]
+ },
+ {
+  "row": 1227,
+  "product_name": "Regent 500TS Insecticide",
+  "ingredient_names": "Fipronil | Diacetone Alcohol",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "Regent 500TS'(fipronil 41%, Diacetone Alcohol 포함) 전용 SDS를 찾지 못해 동일 제조사(BASF) 'Regent 4 SC Insecticide'(fipronil 25-50%, EPA Reg 7969-207) SDS로 대체 참고함 - 제형/불활성성분 다름(디아세톤알코올 미확인)",
+  "검증근거": "추출정보 공란 + 미분류 메모: Regent 500TS'(fipronil 41%, Diacetone Al",
+  "pdf_path": null,
+  "urls": [
+   "https://s3-us-west-1.amazonaws.com/agrian-cg-fs1-production/pdfs/RegentR_4SC_Insecticide_MSDS2p.pdf"
+  ]
+ },
+ {
+  "row": 1232,
+  "product_name": "BAS 536 00 F Fungicide",
+  "ingredient_names": "Pyraclostrobin | Fluxapyroxad | Bronopol | 1,2-Benzisothiazol-3(2H)-one | Methylisothiazolinone | Propylene Glycol | Dimethomorph",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "2B",
+  "cat_sens_ghs": null,
+  "추출정보": "Caution (US EPA 라벨) / Harmful if swallowed or absorbed through skin. Causes moderate eye irritation. (EPA 라벨 기준)",
+  "메모": "US EPA 라벨(Cabrio Team Fungicide) 확인: 활성성분은 Pyraclostrobin 6.7% + Dimethomorph 12.0% (WDG, Other ingredients 81.3%)뿐이며, ingredient_names의 Fluxapyroxad 및 방부제 패키지(Bronopol/BIT/MIT/프로필렌글리콜)는 실제 제품 구성에 없는 것으로 보임(다른 제품 SDS와 혼입 추정).",
+  "검증근거": "메모가 제품/성분 불일치를 진술",
+  "pdf_path": null,
+  "urls": [
+   "https://www3.epa.gov/pesticides/chem_search/ppls/007969-00229-20050526.pdf"
+  ]
+ },
+ {
+  "row": 1238,
+  "product_name": "Acticide PM Industrial Mildewicide",
+  "ingredient_names": "used at up to in face and neck formulations. Macrocystis Pyrifera (Kelp) Extract is reported | to be used at up to in eye lotions. The other ingredients are reported to be used at 6% or | Urea is used",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "제공된 힌트 URL 없음, 검색으로도 제품 SDS 확인 불가",
+  "검증근거": "추출정보 공란 + 출처 접근 실패(링크불가·403/404·로그인·못찾음)",
+  "pdf_path": null,
+  "urls": [
+   "https://www.makingcosmetics.com/on/demandware.static/-/Sites-makingcosmetics-master/default/dw486ade05/msds/sds-sea-kelp-extract.pdf"
+  ]
+ },
+ {
+  "row": 1241,
+  "product_name": "Benefin(97.3%)",
+  "ingredient_names": "1,1,1,3,3,3-Hexafluoro-2-propanol | Benfluralin",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "2B",
+  "cat_sens_ghs": null,
+  "추출정보": "Warning (경고) / H315, H317, H319, H351, H361d, H400, H410",
+  "메모": "성분란에 무관한 화합물(1,1,1,3,3,3-Hexafluoro-2-propanol)이 함께 표기되어 있으나 herbicide 성분과 무관 - 추출 오류로 판단, Benfluralin(=Benefin) 기준으로 확인. 제품 전용 SDS는 못 찾아 PubChem/ECHA 집계 GHS 자료(원제 기준) 사용",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/2319"
+  ]
+ },
+ {
+  "row": 1294,
+  "product_name": "Fludioxonil(95.4%)",
+  "ingredient_names": "Ethylene Glycol | N-(4-Nitrophenyl)-N'-propylurea | Fludioxonil",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "주성분 Fludioxonil(95.4%)만 확인됨; 부성분 Ethylene Glycol, N-(4-Nitrophenyl)-N'-propylurea은 이 SDS에 포함되지 않음",
+  "검증근거": "추출정보 공란 + 미분류 메모: 주성분 Fludioxonil(95.4%)만 확인됨; 부성분 Ethylen",
+  "pdf_path": null,
+  "urls": [
+   "https://www.chemblink.com/MSDSFiles/131341-86-1Sigma-Aldrich.pdf"
+  ]
+ },
+ {
+  "row": 1302,
+  "product_name": "Flufenpyr-Ethyl-S-3153 WDG/Atrazine Premix",
+  "ingredient_names": "| Flufenpyr-ethyl | Atrazine",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "힌트 URL(firstelectric.coop Method SDS)은 성분이 Aminocyclopyrachlor인 Bayer 'Method 240SL Herbicide' SDS로 완전히 무관한 문서임. Flufenpyr-ethyl+Atrazine 프리믹스 제품 자체의 SDS는 검색으로 찾지 못함(비상용 실험용 프리믹스로 추정)",
+  "검증근거": "추출정보 공란 + 미분류 메모: 힌트 URL(firstelectric.coop Method SDS)은 성",
+  "pdf_path": null,
+  "urls": [
+   "https://www.firstelectric.coop/pdfs/Method%20SDS.pdf"
+  ]
+ },
+ {
+  "row": 1305,
+  "product_name": "Flufenpyr-Ethyl-S-3153 Acid-4-OH",
+  "ingredient_names": "| Flufenpyr-ethyl",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "제품명은 산 대사체(Acid-4-OH)를 시사하나, 대사체 전용 SDS는 찾지 못했고 ingredient_names에 기재된 'Flufenpyr-ethyl'(모화합물, CAS 188489-07-8) 시약용 SDS(Hayashi Pure Chemical)만 확인됨 - Section 11 전 항목 '분류불가/분류없음'으로 코드 없음",
+  "검증근거": "추출정보 공란 + 출처 접근 실패(링크불가·403/404·로그인·못찾음)",
+  "pdf_path": null,
+  "urls": [
+   "https://direct.hpc-j.co.jp/sds/eng/T3-14_EN.pdf"
+  ]
+ },
+ {
+  "row": 1313,
+  "product_name": "lsobutyric Acid Hydrazide",
+  "ingredient_names": "Butyrohydrazide | Isobutyric acid hydrazide",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "자료 확인 제한적 / 자료 확인 제한적(PubChem GHS 요약 기준)",
+  "메모": "제조사 SDS 못 찾아 PubChem GHS 분류 자료로 대체 (CAS 3619-17-8)",
+  "검증근거": "신호어도 H코드도 파싱되지 않음 ; 메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/3619-17-8"
+  ]
+ },
+ {
+  "row": 1339,
+  "product_name": "Bifenthrin 0.073 Insecticide with X-X-X Fertilizer",
+  "ingredient_names": "Bifenthrin",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "정식 SDS 못찾음(검색엔진 접근 제한); EPA 등록정보(pomerix, EPA Reg 70506-126, UPL NA Inc, Bifenthrin 0.07%)만 확인, 신호어 Caution(FIFRA 라벨 기준)이며 GHS Section11 독성코드 자료 없음",
+  "검증근거": "추출정보 공란 + 미분류 메모: 정식 SDS 못찾음(검색엔진 접근 제한); EPA 등록정보(pomerix",
+  "pdf_path": null,
+  "urls": [
+   "https://assets.greenbook.net/M103774.pdf"
+  ]
+ },
+ {
+  "row": 1351,
+  "product_name": "Chlorothalonil FB",
+  "ingredient_names": "Chlorothalonil",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "위험 (Danger) / H317 (피부 알레르기 반응을 일으킬 수 있음, 피부감작성), H318 (눈에 심한 손상을 일으킴), H400 (수생생물에 매우 유독함); 발암성 우려물질(EPA Group B2, 인체발암가능물질로 분류)",
+  "메모": "제품 전용(브랜드명 'FB') SDS는 못 찾았으나, 유효성분이 Chlorothalonil 단일물질이므로 EPA R.E.D. FACTS(EPA-738-F-99-008, 1999)와 PubChem/ECHA 물질수준 GHS 데이터를 근거로 기재. 눈손상 구분 I은 입력된 cat_eye_ghs=1과 일치",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://www3.epa.gov/pesticides/chem_search/reg_actions/reregistration/fs_PC-081901_1-Apr-99.pdf"
+  ]
+ },
+ {
+  "row": 1354,
+  "product_name": "BAS 670 336SC Herbicide",
+  "ingredient_names": "Topramezone technical | Content (W/W) | Content (W/W): >= 1.0 | 2-Methyl-4-Isothiazolin-3-one | Content (W/W): <= | Topramezone",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": "Not classified",
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "정확히 동일 코드(BAS 670 336SC)의 SDS는 못 찾았으나, 동일 유효성분·동일 농도(Topramezone 336 g/l SC)인 'CONVEY - BAS 670 01 H'(BASF, 볼리비아向) SDS를 확인하여 사실상 동일 제품으로 판단. 구형식 SDS로 GHS 신호어/H코드 명시 없음(Section 9 독성정보만 기재).",
+  "검증근거": "추출정보 공란 + 출처 접근 실패(링크불가·403/404·로그인·못찾음)",
+  "pdf_path": null,
+  "urls": [
+   "https://download.basf.com/p1/8a8081c57fd4b609017fe080f75f7e80/es/Hoja_de_Seguridad_-_Convey%C2%AE"
+  ]
+ },
+ {
+  "row": 1362,
+  "product_name": "Echo 825",
+  "ingredient_names": "| Chlorothalonil",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / H317, H318, H330, H335, H351, H400(수생생물 매우 유독), H410(장기적 수생생물 유독)",
+  "메모": "개별 제품(Echo 825) SDS는 Sipcam 사이트 접속 실패(SSL/차단)로 찾지 못해 활성성분 Chlorothalonil의 PubChem 집계 GHS 분류를 사용함. 단일성분(100%)이라 성분은 일치하나 특정 제품 SDS 원문 기준은 아님",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://pubchem.ncbi.nlm.nih.gov/compound/15910"
+  ]
+ },
+ {
+  "row": 1366,
+  "product_name": "Fipronil",
+  "ingredient_names": "| Fipronil",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": "Danger / H301+H311+H331 (Toxic if swallowed/in contact with skin/if inhaled), H372 (Causes damage to organs through prolonged or repeated exposure), H410 (Very toxic to aquatic life with long lasting effects)",
+  "메모": "hint PDF(SDB-0925-DE-EN.pdf) 직접 접속 실패(HTTP 400) - Carl Roth 제품페이지(품목 0925.1, Fipronil ≥98%)에서 동일 물질 GHS 정보 대체 확인",
+  "검증근거": "메모에 출처 접근 실패 흔적이 남아 있음 — 값의 근거 재확인 필요",
+  "pdf_path": null,
+  "urls": [
+   "https://www.merck.com/docs/product/safety-data-sheets/ah-sds/300000048235_ERD_CA_EN.pdf",
+   "https://www.carlroth.com/de/en/pesticide-standards/fipronil/p/0925.1"
+  ]
+ },
+ {
+  "row": 1374,
+  "product_name": "Insecticide TD Granule",
+  "ingredient_names": "Imidacloprid | Clothianidin",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "성분 불일치: 실제 등록제품(EPA 92564-49, SBM Life Science)은 Imidacloprid 0.55%+Clothianidin 0.275%만 함유, Bifenthrin 없음. 여러 라벨(2011~2019년판) 확인해도 동일, 대체 3성분 제품 못 찾음.",
+  "검증근거": "추출정보 공란 + 성분 불일치(다른 제품 SDS 의심)",
+  "pdf_path": null,
+  "urls": [
+   "https://www.chemicalbook.com/msds/Imidacloprid.pdf"
+  ]
+ },
+ {
+  "row": 1380,
+  "product_name": "NUP-12004 Herbicide",
+  "ingredient_names": "Ethylene sulfite (Glycol sulfite) | Pyraflufen-ethyl | 2,4-D-2-ethylhexyl",
+  "tox_signal_word": null,
+  "tox_h_statements": null,
+  "cat_eye_ghs": null,
+  "cat_skin_ghs": null,
+  "cat_sens_ghs": null,
+  "추출정보": null,
+  "메모": "검색 도구가 이 세션에서 정상 작동하지 않아(모든 검색엔진이 질의와 무관한 결과만 반환) SDS를 찾지 못함. NUP-12004는 Nufarm 내부 개발코드로 보이며 공개 SDS 검색 결과 없음.",
+  "검증근거": "추출정보 공란 + 미분류 메모: 검색 도구가 이 세션에서 정상 작동하지 않아(모든 검색엔진이 질의와 무관",
+  "pdf_path": null,
+  "urls": [
+   "https://pim-resources.coleparmer.com/sds/37480.pdf"
+  ]
+ }
+]

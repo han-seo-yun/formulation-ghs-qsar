@@ -1,0 +1,35 @@
+{
+  "source_id": "9f8366c3265648db",
+  "file_path": "ingredient_source_audit/highlighted/9f8366c3265648db_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 12900,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product identifier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. Identification of the Substance/Preparation and of the Company/Undertaking \nProduct identifier \nProduct name \nFENUGREEK ABSOLUTE \nOther means of identification \nProduct code \n10267-01 \nSynonyms \nINCI: Trigonella Foenum-Graecum Seed Extract  \nRegistration number(s) \nCAS: 68990-15-8 / 84625-40-1  \n"
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. Hazards Identification \nClassification \nThis chemical is not considered hazardous by the 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200)  \nLabel elements \nEMERGENCY OVERVIEW  \nSupplier Address\nTilley Distribution \n355 Chestnut Street \nNorwood, NJ 07648 \nPhone: (201) 784-6100  Fax: (201"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

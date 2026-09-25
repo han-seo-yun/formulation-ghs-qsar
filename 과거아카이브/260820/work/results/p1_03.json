@@ -1,0 +1,553 @@
+[
+ {
+  "row": 807,
+  "fid": "MIX187",
+  "product_name": "ENS-010A",
+  "tier": "ingredient",
+  "resolution": "ingredient_mismatch",
+  "confidence": "medium",
+  "source_url": "https://www.pomerix.com/pesticides/ens-010a",
+  "source_type": "epa_ppls_registry_mirror(pomerix)",
+  "ingredients_match": false,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Nitric Acid",
+    "cas": "7697-37-2",
+    "eye_cat": "1",
+    "skin_cat": "1",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H272",
+     "H314",
+     "H330",
+     "H331"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/944/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Sulfuric Acid",
+    "cas": "7664-93-9",
+    "eye_cat": "1",
+    "skin_cat": "1",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H314"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/1118/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Sodium Carbonate Monohydrate",
+    "cas": "5968-11-6",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H319"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/2735133/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Edetate Sodium",
+    "cas": "64-02-8",
+    "eye_cat": "1",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H302",
+     "H318"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6144/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Imidacloprid",
+    "cas": "105827-78-9",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H301",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/86287518/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "ENS-010A는 EPA 등록 82957-4(Ensystex III), Imidacloprid 99% 기술원제(Technical Chemical)로 확인됨. 따라서 ingredient_names의 질산/황산/탄산나트륨1수화물/EDTA-Na는 이 제품 조성과 무관하며 성분 병합 오류가 확정됨 → product_ghs 미기록. 명명된 5성분 각각의 GHS는 PubChem PUG-View(ECHA C&L)에서 확보. 강산 2종 포함으로 GHS 강산/강염기 예외규칙 적용 대상일 수 있으나 제품 pH는 미확보."
+ },
+ {
+  "row": 826,
+  "fid": "MIX203",
+  "product_name": "Fenhexamid(95.5%)",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.chemblink.com/MSDSFiles/126833-17-8Sigma-Aldrich.pdf",
+  "source_type": "supplier_sds_pdf(Sigma-Aldrich, chemBlink mirror)",
+  "ingredients_match": true,
+  "product_ghs": {
+   "signal_word": "None",
+   "h_statements": [
+    "H401",
+    "H411"
+   ],
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "Not classified",
+   "ld50_oral": "LD50 Oral - Rat - 5,000 mg/kg",
+   "ld50_dermal": "LD50 Dermal - Rat - 5,000 mg/kg",
+   "lc50_inh": "LC50 Inhalation - Rat - 322 mg/m3",
+   "ph": "5.9 (20 g/L, 20 C)"
+  },
+  "per_ingredient": [
+   {
+    "name": "Fenhexamid",
+    "cas": "126833-17-8",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H411"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/213031/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "단일 유효성분 원제(95.5%)이므로 fenhexamid 물질 SDS(Sigma-Aldrich, CAS 126833-17-8)를 제품 등가로 사용. Section 2 분류는 Aquatic Acute 2/Chronic 2(H401/H411)뿐이고 신호어 'none'. 이전 시도의 '독성 항목 전부 분류대상 아님' 판단이 실제로 정확했음(눈/피부/감작 모두 Not classified). Section 9 pH 5.9, Section 11 LD50/LC50 확보. H411은 Section 2 분류 코드이며 Section 11 독성값은 아님을 확인."
+ },
+ {
+  "row": 879,
+  "fid": "MIX251",
+  "product_name": "GF-1592 Naturalyte Insect Control",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://www.clarke.com/wp-content/uploads/2022/03/natular2ec-msds.pdf",
+  "source_type": "manufacturer_sds_pdf(Clarke Mosquito Control)",
+  "ingredients_match": null,
+  "product_ghs": {
+   "signal_word": "Warning",
+   "h_statements": [
+    "H332"
+   ],
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "Not classified",
+   "ld50_oral": "Oral, Rat LD50 > 2,000 mg/kg-bw",
+   "ld50_dermal": "Dermal, Rat LD50 > 4,000 mg/kg-bw",
+   "lc50_inh": "Inhalation, Rat LC50 > 2.01 mg/L",
+   "ph": "7.5"
+  },
+  "per_ingredient": [
+   {
+    "name": "Spinosad (Spinosyn A + D)",
+    "cas": "168316-95-8",
+    "eye_cat": null,
+    "skin_cat": null,
+    "sens_cat": null,
+    "h_statements": [
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/17754356/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "pomerix/EPA 등록조회로 GF-1592 = EPA Reg 8329-82, Clarke Mosquito Control의 NATULAR 2EC(별칭 NATULAR 20EC/NOVUS 20EC), Spinosad 20.6% EC임을 확정. 해당 제품의 GHS(OSHA HCS 2012) SDS 확보: 유일 분류가 Acute Tox.(inh) Cat 4/H332, Section 11에서 피부 비자극·비감작, 눈은 경미(일시적) 자극으로 분류대상 아님. Section 9 pH 7.5. 입력의 ingredient_names가 null이라 Section 3 대조 게이팅은 불가(ingredients_match=null)이나 Section 3은 Spinosyn A/D + 윈터그린유로 확인."
+ },
+ {
+  "row": 908,
+  "fid": "MIX278",
+  "product_name": "Kathon CF 400",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.pomerix.com/pesticides/kathon-cf-400",
+  "source_type": "epa_ppls_registry_mirror(pomerix) + pubchem_lcss",
+  "ingredients_match": true,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "5-Chloro-2-methyl-3(2H)-isothiazolone (CMIT)",
+    "cas": "26172-55-4",
+    "eye_cat": "1",
+    "skin_cat": "1",
+    "sens_cat": "1",
+    "h_statements": [
+     "H301",
+     "H311",
+     "H314",
+     "H317",
+     "H318",
+     "H330",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/33344/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "2-Methyl-3(2H)-isothiazolone (MIT)",
+    "cas": "2682-20-4",
+    "eye_cat": "1",
+    "skin_cat": "1",
+    "sens_cat": "1",
+    "h_statements": [
+     "H301",
+     "H311",
+     "H314",
+     "H317",
+     "H318",
+     "H330",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/39800/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "EPA Reg 707-316(Lanxess), 유효성분 CMIT 2.95% + MIT 1.05%(합 4%)로 ingredient_names와 일치 확인. 그러나 Lanxess의 제품 SDS는 공개 웹에 없음(EPA 라벨 PDF만 존재, FIFRA 신호어 Danger). 따라서 Tier2로 CMIT/MIT 원료 GHS를 PubChem에서 확보. CMIT는 harmonised 블록이 없어 ECHA C&L 집계 다수값(H314 98.3%, H317 98.4%, H318 64.9%)을 사용. 실제 4% 희석 제품 분류는 농도한계 계산이 필요(CMIT/MIT 혼합물 Skin Corr 1C 한계 0.6%, Skin Sens 1 한계 0.0015% 등)."
+ },
+ {
+  "row": 916,
+  "fid": "MIX285",
+  "product_name": "Kitchen Klenzer",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.pomerix.com/pesticides/kitchen-klenzer",
+  "source_type": "epa_ppls_registry_mirror(pomerix) + pubchem_lcss",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Limestone/Calcium Carbonate",
+    "cas": "471-34-1",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/10112/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Crystalline Silica",
+    "cas": "14464-46-1",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/24261/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Sodium Carbonate",
+    "cas": "497-19-8",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H319"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/10340/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Sodium Dodecylbenzene Sulfonate",
+    "cas": "25155-30-0",
+    "eye_cat": "1",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H302",
+     "H315",
+     "H318"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/23662403/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Trichloroisocyanuric Acid",
+    "cas": "87-90-1",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H272",
+     "H302",
+     "H319",
+     "H335",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6909/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Sodium dichloroisocyanurate",
+    "cas": "2893-78-9",
+    "eye_cat": "2A",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H272",
+     "H302",
+     "H319",
+     "H335",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/517202/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "이전 판단(성분 불일치)은 부분적으로 오류: EPA Reg 6466-12(Fitzpatrick Bros)의 Kitchen Klenzer 유효성분은 실제로 Sodium dichloroisocyanurate dihydrate 0.8%로 SDCC가 맞음. 다만 (a)hint URL(keatingofchicago) PDF와 Fitzpatrick 원본 MSDS(uww.edu 소장본)는 모두 텍스트 없는 스캔 이미지이고, (b)텍스트 추출 가능한 유일 SDS(Olds Products, bannersystemsma OPCKKO24.PDF)는 CaCO3/Na2CO3/SDBS 3종만 기재하고 결정질실리카·염소화이소시아누레이트가 없는 다른 제조사 변형판임. GHS 형식 제품 SDS를 확보하지 못해 product_ghs 미기록, 6성분 전부 Tier2로 수집. 결정질실리카는 ECHA harmonised 미분류이나 C&L 집계 56%가 H315/H319/H335 통보."
+ },
+ {
+  "row": 939,
+  "fid": "MIX305",
+  "product_name": "Mediclean Carpet Sanitizer",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "medium",
+  "source_url": "https://www.pomerix.com/pesticides/mediclean-disinfectant-spray-plus",
+  "source_type": "epa_registry_mirror(pomerix) + pubchem_lcss",
+  "ingredients_match": false,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Clorophene (o-benzyl-p-chlorophenol)",
+    "cas": "120-32-1",
+    "eye_cat": "1",
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": [
+     "H315",
+     "H317",
+     "H318",
+     "H332",
+     "H351",
+     "H361f",
+     "H373",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/8425/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "4-(2-Methylbutan-2-yl)phenol (p-tert-amylphenol)",
+    "cas": "80-46-6",
+    "eye_cat": "1",
+    "skin_cat": "1",
+    "sens_cat": "1",
+    "h_statements": [
+     "H314",
+     "H317",
+     "H318",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/6643/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "2-Phenylphenol (OPP)",
+    "cas": "90-43-7",
+    "eye_cat": "2A",
+    "skin_cat": "2",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H315",
+     "H319",
+     "H335",
+     "H400"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/7017/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "'Mediclean Carpet Sanitizer'라는 제품명은 EPA 등록DB·웹 검색 모두에서 존재하지 않음(완전 무결과). 성분 3종(clorophene/p-tert-amylphenol/OPP) 페놀계 조합을 가진 Legend Brands 제품을 역추적했으나 후보 2종 모두 조성 불일치 확인: Mediclean X-590(EPA 70385-3)은 IPA+4급암모늄+피레트린+OPP만, Mediclean Disinfectant Spray Plus(EPA 70385-5)는 4급암모늄+OPP만 함유. 따라서 제품 SDS 부재로 판정하고 3성분 Tier2 수집. OPP는 PubChem 첫 블록(H314/H318)과 ECHA C&L 집계(H315 100%/H319 97.3%/H335 100%)가 상충하여 집계 다수값을 채택함."
+ },
+ {
+  "row": 965,
+  "fid": "MIX329",
+  "product_name": "Mon 58416",
+  "tier": "product",
+  "resolution": "found",
+  "confidence": "high",
+  "source_url": "https://assets.greenbook.net/00-47-30-22-04-2022-Bayer_Harness_Xtra_Herbicide_-_sds.pdf",
+  "source_type": "manufacturer_sds_pdf(Bayer, via Greenbook)",
+  "ingredients_match": true,
+  "product_ghs": {
+   "signal_word": "Warning",
+   "h_statements": [
+    "H302",
+    "H317",
+    "H335",
+    "H351",
+    "H373"
+   ],
+   "eye_cat": "Not classified",
+   "skin_cat": "Not classified",
+   "sens_cat": "1",
+   "ld50_oral": "LD50 (Rat) 1,249 mg/kg",
+   "ld50_dermal": "LD50 (Rat) > 5,000 mg/kg",
+   "lc50_inh": "LC50 (Rat) > 2.0 mg/l",
+   "ph": "7.0 - 8.5 (5%, 23 C, deionized water)"
+  },
+  "per_ingredient": [
+   {
+    "name": "Furilazole",
+    "cas": "121776-33-8",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": [
+     "H302",
+     "H317",
+     "H411"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/86187/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Atrazine",
+    "cas": "1912-24-9",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": [
+     "H317",
+     "H373",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/2256/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Acetochlor",
+    "cas": "34256-82-1",
+    "eye_cat": "Not classified",
+    "skin_cat": "2",
+    "sens_cat": "1",
+    "h_statements": [
+     "H315",
+     "H317",
+     "H332",
+     "H335",
+     "H351",
+     "H361f",
+     "H373",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/1988/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "MON 58416 = EPA Reg 524-480 = HARNESS XTRA HERBICIDE(별칭 CONFIDENCE XTRA, MON 58429/58438), Bayer(구 Monsanto). 미국판 SDS Section 3이 Acetochlor 46.3% / Atrazine 18.3% / Furilazole 1.5%로 ingredient_names 3종과 정확히 일치(게이팅 통과). 주의: 남아공판 'HARNESS XTRA EC960'(cs-assets.bayer.com) SDS는 acetochlor 86.5% 단일이므로 오답 소스임. Section 11에서 피부·눈 모두 'slight irritant, does not require labelling'→Not classified, 피부감작 Cat1. Section 9 pH 7.0-8.5. 힌트 chemblink 532-43-4(thiamine)는 무관함이 확인됨."
+ },
+ {
+  "row": 1018,
+  "fid": "MIX377",
+  "product_name": "Quinoxyfen Manufacturing Use Concentrate",
+  "tier": "ingredient",
+  "resolution": "no_sds_exists",
+  "confidence": "medium",
+  "source_url": "https://www.pomerix.com/pesticides/quinoxyfen-manufacturing-use-concentrate",
+  "source_type": "epa_ppls_registry_mirror(pomerix) + pubchem_lcss",
+  "ingredients_match": true,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Quinoxyfen",
+    "cas": "124495-18-7",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": [
+     "H317",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/3391107/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "EPA Reg 33906-25(Nissan Chemical), Quinoxyfen 53.5% 'Formulation Intermediate / manufacturing use only'로 확인. 제조용 중간체라 시판 제품 SDS가 존재하지 않으며 웹 공개본 없음 → Tier2로 quinoxyfen 원료 GHS만 확보(ECHA harmonised: Warning, Skin Sens.1 H317, Aquatic Acute/Chronic 1 H400/H410; 눈·피부 자극 분류 없음). 힌트 SDS가 메탄올이었던 점은 실제로 무관 문서였음이 확인됨."
+ },
+ {
+  "row": 1026,
+  "fid": "MIX384",
+  "product_name": "Not Stated",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.chemblink.com/MSDSFiles/33089-61-1Sigma-Aldrich.pdf",
+  "source_type": "pubchem_lcss + supplier_sds_pdf(Sigma-Aldrich for amitraz)",
+  "ingredients_match": null,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Fipronil",
+    "cas": "120068-37-3",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H301",
+     "H311",
+     "H331",
+     "H372",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/3352/JSON?heading=GHS+Classification"
+   },
+   {
+    "name": "Amitraz",
+    "cas": "33089-61-1",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": [
+     "H302",
+     "H317",
+     "H373",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://www.chemblink.com/MSDSFiles/33089-61-1Sigma-Aldrich.pdf"
+   },
+   {
+    "name": "S-Methoprene",
+    "cas": "65733-16-6",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "Not classified",
+    "h_statements": [
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/1711973/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "제품명이 'Not Stated'이고 3성분(Fipronil/Amitraz/S-Methoprene) 조합은 Merial CERTIFECT(반려견용 스팟온 동물용의약품)에 해당함을 EMA EPAR로 확인. 동물용의약품이라 EPA 등록·공개 GHS SDS가 없고 Boehringer-Ingelheim SDS 포털도 해당 문서 미제공 → Tier2 성분별 수집. Amitraz는 PubChem에 GHS 섹션이 없어 Sigma-Aldrich SDS(CAS 33089-61-1)에서 Acute Tox.4 H302 / Skin Sens.1 H317 / STOT RE 2 H373 / Aquatic 1 H400·H410, 신호어 Warning 확보. 3성분 모두 눈·피부 자극 분류는 없음."
+ },
+ {
+  "row": 1093,
+  "fid": "MIX444",
+  "product_name": "Silent",
+  "tier": "ingredient",
+  "resolution": "found",
+  "confidence": "medium",
+  "source_url": "https://www.pomerix.com/pesticides/silent",
+  "source_type": "epa_ppls_registry_mirror(pomerix) + pubchem_lcss",
+  "ingredients_match": true,
+  "product_ghs": null,
+  "per_ingredient": [
+   {
+    "name": "Esfenvalerate",
+    "cas": "66230-04-4",
+    "eye_cat": "Not classified",
+    "skin_cat": "Not classified",
+    "sens_cat": "1",
+    "h_statements": [
+     "H301",
+     "H317",
+     "H331",
+     "H370",
+     "H373",
+     "H400",
+     "H410"
+    ],
+    "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/10342051/JSON?heading=GHS+Classification"
+   }
+  ],
+  "note_ko": "'Silent'은 EPA Reg 3282-107(Reckitt Benckiser), Esfenvalerate 0.02% Ready-to-Use Solution, 2016-01-22 등록취소 제품으로 확인. 유효성분이 ingredient_names와 일치하나 단종 소비재라 SDS 공개본이 없음 → Tier2로 esfenvalerate 원료 GHS 확보(Danger; H301/H317/H331/H370/H373/H400/H410, 눈·피부 자극 분류 없음). 0.02% 희석품이므로 GHS 농도한계 적용 시 실제 제품 분류는 대부분 미분류가 될 가능성이 높음(감작성 H317 한계 0.1%도 미달)."
+ }
+]

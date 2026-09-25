@@ -1,0 +1,61 @@
+{
+  "source_id": "8b7711a15122e818",
+  "file_path": "ingredient_source_audit/highlighted/8b7711a15122e818_highlighted.pdf",
+  "page_count": 10,
+  "full_text_length": 21402,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product Identifiers",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification of the substance/mixture and of the company/undertaking \n1.1 \nProduct Identifiers \nTrade Name & Synonyms : Superfine Sulfur \n \nProduct Name \n \n: Sulfur \nProduct Number  \n: 75793 \nBrand   \n \n: International Sulphur, Inc.  \nCAS Number \n \n: 7704-34-9 \n \n1.2 \nRelevant identifie"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H315",
+      "H290",
+      "H303",
+      "H316",
+      "H320",
+      "H335"
+    ],
+    "p_codes": [
+      "P210",
+      "P240",
+      "P241",
+      "P264",
+      "P280",
+      "P284",
+      "P332",
+      "P313",
+      "P362",
+      "P363",
+      "P370",
+      "P378",
+      "P381",
+      "P402",
+      "P403",
+      "P404"
+    ],
+    "ghs_classes": [
+      "explosion"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 3,
+    "text_excerpt": "SECTION 2: HAZARDS IDENTIFICATION \n \n2.1 \nClassification of the substance or mixture \nGHS Classification in accordance with 29 CFR 1910 (OSHA HCS) \n \nSkin Irritation (Category 2), H315 \nOSHA Defined Hazards  \n: Combustible dust \n2.2 \nGHS Label Elements \n \nPictogram (s):  \n \n \n \n \n \n \n \n \n \n \n \n \n \n "
+  },
+  "section_14": {
+    "un_number": "1350"
+  }
+}

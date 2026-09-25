@@ -1,0 +1,38 @@
+{
+  "source_id": "dc0f599159423c53",
+  "file_path": "ingredient_source_audit/highlighted/dc0f599159423c53_highlighted.pdf",
+  "page_count": 12,
+  "full_text_length": 30935,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product identifier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. IDENTIFICATION\nProduct identifier \nProduct Name  \nOther means of identification \nProduct Code  \nSynonyms  \nWolmanized® Heavy Duty™ Wood \n20001  \nCCA Treated Wood \nRecommended use of the chemical and restrictions on use \nRecommended Use  \nTreated Wood.   \nDetails of the supplier of the safety data"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [
+      "Skin corrosion",
+      "Carcinogenicity"
+    ],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION\nClassification \nOSHA Regulatory Status \nThis chemical is considered hazardous by the 2012 OSHA Hazard Communication Standard (29 CFR 1910.1200) \nSkin corrosion/irritation \nCategory 3 \nSerious eye damage/eye irritation \nCategory 2B \nRespiratory sensitization \nCategory 1 \nSki"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

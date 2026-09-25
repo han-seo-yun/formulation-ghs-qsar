@@ -1,0 +1,27 @@
+{
+  "source_id": "0c22b97aa385a2ea",
+  "file_path": "ingredient_source_audit/highlighted/0c22b97aa385a2ea_highlighted.pdf",
+  "page_count": 9,
+  "full_text_length": 15453,
+  "sections_found": [
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "2. Hazard identification \n \nPossible Hazards \n \nIrritating to respiratory system. \nMay cause sensitization by skin contact. \nVery toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment. \n \n \n"
+  },
+  "section_14": {
+    "un_number": "3077"
+  },
+  "fallback": {
+    "formulation_code": "EC"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "source_id": "fc36899be05671d0",
+  "file_path": "ingredient_source_audit/highlighted/fc36899be05671d0_highlighted.pdf",
+  "page_count": 10,
+  "full_text_length": 18435,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product Name",
+    "formulation_code": null,
+    "epa_reg_number": "264-330",
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": "EPA",
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1. CHEMICAL PRODUCT AND COMPANY INFORMATION \n \nProduct Name \nTEMIK® BRAND 15G ALDICARB PESTICIDE \nMSDS Number \n102000001960 \nEPA Registration No. \n264-330  \n \n \nBayer CropScience \n2 T.W. Alexander Drive \nResearch Triangle PK, NC 27709 \nUSA \n \n \nFor MEDICAL, TRANSPORTATION or other EMERGENCY "
+  },
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "SECTION 2. "
+  },
+  "section_14": {
+    "un_number": "2757"
+  }
+}

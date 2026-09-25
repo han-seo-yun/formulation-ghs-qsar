@@ -1,0 +1,53 @@
+{
+  "source_id": "b752aeb484e1c1a7",
+  "file_path": "ingredient_source_audit/highlighted/b752aeb484e1c1a7_highlighted.pdf",
+  "page_count": 12,
+  "full_text_length": 24496,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Product identifier used on the label",
+    "formulation_code": null,
+    "epa_reg_number": "7969-276",
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": "EPA",
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. Identification \nProduct identifier used on the label \n \nTREEVIX POWERED BY KIXOR HERBICIDE \n \nRecommended use of the chemical and restriction on use \nRecommended use*: herbicide \n \n* The “Recommended use” identified for this product is provided solely to comply with a Federal requirement and is n"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H361",
+      "H400",
+      "H410"
+    ],
+    "p_codes": [
+      "P273",
+      "P280",
+      "P201",
+      "P202",
+      "P391",
+      "P308",
+      "P311",
+      "P405",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Repr. \n2",
+      "Aquatic Acute \n1",
+      "Aquatic Chronic \n1"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 4,
+    "text_excerpt": "2. Hazards Identification \nAccording to Regulation 2012 OSHA Hazard Communication Standard; 29 CFR Part 1910.1200 \n \nClassification of the product \n \nRepr. \n2  (unborn child) \nReproductive toxicity \nAquatic Acute \n1  \nHazardous to the aquatic environment - acute \nAquatic Chronic \n1  \nHazardous to th"
+  },
+  "section_14": {
+    "un_number": "3077"
+  }
+}

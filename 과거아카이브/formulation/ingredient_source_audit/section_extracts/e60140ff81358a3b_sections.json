@@ -1,0 +1,89 @@
+{
+  "source_id": "e60140ff81358a3b",
+  "file_path": "ingredient_source_audit/highlighted/e60140ff81358a3b_highlighted.pdf",
+  "page_count": 7,
+  "full_text_length": 16740,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "Material name",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "Product and Company Identification \nMaterial name \nShelter Island Plus  \nVersion # \n01 \nRevision date \n10-17-2019 \nProduct code \n824 Series \nProduct use \nMarine Antifouling Paint \nManufacturer/Supplier \nBlue Water Marine Paint \n                                                         14805 49th Stre"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [
+      "H226",
+      "H302",
+      "H304",
+      "H410",
+      "H400",
+      "H317",
+      "H350"
+    ],
+    "p_codes": [
+      "P201",
+      "P202",
+      "P210",
+      "P233",
+      "P240",
+      "P241",
+      "P242",
+      "P243",
+      "P261",
+      "P264",
+      "P270",
+      "P272",
+      "P273",
+      "P280",
+      "P301",
+      "P310",
+      "P312",
+      "P302",
+      "P352",
+      "P303",
+      "P361",
+      "P353",
+      "P308",
+      "P313",
+      "P321",
+      "P330",
+      "P331",
+      "P333",
+      "P362",
+      "P364",
+      "P370",
+      "P378",
+      "P391",
+      "P403",
+      "P235",
+      "P405",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Flam. Liq. 3",
+      "Acute  Tox. 4",
+      "Aquatic Chronic 1",
+      "Aquatic Acute 1",
+      "Skin Sens. 1",
+      "Carc. 1A",
+      "explosion"
+    ],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 5,
+    "text_excerpt": "2. Hazards Identification \n   2.1. \nClassification of the substance or mixture \n  Classification (GHS-US) \nFlam. Liq. 3 \nH226  \nAcute  Tox. 4  \nH302 \nAsp. Tox. 1 \nH304 \nAquatic Chronic 1 \nAquatic Acute 1 \nSkin Sens. 1 \nCarc. 1A \nH410 \nH400 \nH317 \nH350 \n \n  Contains 9.5% ingredients of unknown oral t"
+  },
+  "section_14": {
+    "un_number": "1263"
+  }
+}

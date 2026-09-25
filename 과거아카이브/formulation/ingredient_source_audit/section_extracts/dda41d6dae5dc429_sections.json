@@ -1,0 +1,54 @@
+{
+  "source_id": "dda41d6dae5dc429",
+  "file_path": "ingredient_source_audit/highlighted/dda41d6dae5dc429_highlighted.pdf",
+  "page_count": 6,
+  "full_text_length": 10442,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "00121142",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "1. IDENTIFICATION OF THE SUBSTANCE/MIXTURE AND OF THE COMPANY/UNDERTAKING \nIPC # \n: \n00121142 \n \nIPC Description \n: \nLABDANUM RESOID LMR \nSDS Number \n: \nR00000379715 \n \nUse of the Substance/Mixture \n: \nIngredient used in Flavour and/or Fragrance preparations \n \nCompany \n: \nIFF Benicarló, S.L. \nAvda."
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H316",
+      "H317",
+      "H411"
+    ],
+    "p_codes": [
+      "P261",
+      "P272",
+      "P273",
+      "P280",
+      "P302",
+      "P352",
+      "P333",
+      "P313",
+      "P362",
+      "P364",
+      "P391",
+      "P501"
+    ],
+    "ghs_classes": [
+      "Skin corrosion"
+    ],
+    "environmental_hazard": "aquatic_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "2. HAZARDS IDENTIFICATION \nGHS-Classification \nSkin corrosion/irritation, Category 3  \nSkin sensitisation, Category 1  \nShort-term (acute) aquatic hazard, Category 2  \nLong-term (chronic) aquatic hazard, Category 2  \n \n \nGHS-Labelling \nSymbol(s) \n:  \n \n \n \nSignal word \n: Warning \n \nHazard statements"
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

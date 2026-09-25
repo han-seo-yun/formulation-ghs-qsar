@@ -1,0 +1,24 @@
+{
+  "source_id": "f4dd0013afe8b77b",
+  "file_path": "ingredient_source_audit/highlighted/f4dd0013afe8b77b_highlighted.pdf",
+  "page_count": 2,
+  "full_text_length": 5108,
+  "sections_found": [
+    "section_3",
+    "section_2",
+    "section_14",
+    "section_15"
+  ],
+  "section_2": {
+    "signal_word": null,
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 0,
+    "text_excerpt": "HAZARDS IDENTIFICATION \nThis product is intended for use as a pesticide to control fungi, insects, and mites on ornamental plants. This product should \npose no health concerns through normal use. \nEye Contact: \n \n \nMay cause mild eye irritation. \nSkin Contact: \n \n \nMay cause mild skin irritation on "
+  },
+  "section_14": {
+    "un_number": null
+  }
+}

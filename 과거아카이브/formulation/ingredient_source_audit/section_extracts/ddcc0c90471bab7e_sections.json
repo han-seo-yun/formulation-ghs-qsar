@@ -1,0 +1,41 @@
+{
+  "source_id": "ddcc0c90471bab7e",
+  "file_path": "ingredient_source_audit/highlighted/ddcc0c90471bab7e_highlighted.pdf",
+  "page_count": 19,
+  "full_text_length": 30320,
+  "sections_found": [
+    "section_1",
+    "section_2",
+    "section_3",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "1.1 Product identifier",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": false,
+    "text_excerpt": "SECTION 1: Identification of the substance/mixture and of the company/undertaking\n1.1 Product identifier\nTrade name\n:\nVOLIAM\nDesign code \n:\nA16130M \nProduct Registration Number\n:\nMAPP 19718\nUnique Formula Identifier \n(UFI)\n:\nSJM3-V0JX-D00M-8ST6\n1.2 Relevant identified uses of the substance or mixtur"
+  },
+  "section_2": {
+    "signal_word": "WARNING",
+    "h_codes": [
+      "H400",
+      "H410"
+    ],
+    "p_codes": [
+      "P391",
+      "P501"
+    ],
+    "ghs_classes": [],
+    "environmental_hazard": "aquatic_acute_and_chronic",
+    "hazard_level_score": 2,
+    "text_excerpt": "SECTION 2: Hazards identification\n2.1 Classification of the substance or mixture\nClassification (REGULATION (EC) No 1272/2008) as amended by GB-CLP Regulation, UK \nSI 2019/720, and UK SI 2020/1567)\nShort-term (acute) aquatic hazard, \nCategory 1\nH400: Very toxic to aquatic life.\nLong-term (chronic) a"
+  },
+  "section_14": {
+    "un_number": "3082"
+  }
+}

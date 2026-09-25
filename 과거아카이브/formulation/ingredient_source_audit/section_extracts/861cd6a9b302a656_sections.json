@@ -1,0 +1,35 @@
+{
+  "source_id": "861cd6a9b302a656",
+  "file_path": "ingredient_source_audit/highlighted/861cd6a9b302a656_highlighted.pdf",
+  "page_count": 3,
+  "full_text_length": 12702,
+  "sections_found": [
+    "section_1",
+    "section_3",
+    "section_2",
+    "section_14",
+    "section_15"
+  ],
+  "section_1": {
+    "product_name": "PRODUCT NAME:",
+    "formulation_code": null,
+    "epa_reg_number": null,
+    "pcp_reg_number": null,
+    "reach_id": null,
+    "registration_type": null,
+    "active_ingredient_declared": true,
+    "text_excerpt": "PRODUCT AND COMPANY IDENTIFICATION\nPRODUCT NAME:\nChlorpyrifos E-Pro 2 Insecticide\nActive Ingredient:\nChlorpyrifos\nChemical Name:\nO,O-diethyl O-(3,5,6-trichloro-2-\npyridinyl) phosphorothioate\nChemical Formula:\nC9H11Cl3NO3PS\nCOMPANY IDENTIFICATION:\nEtigra\n501 Cascade Pointe Lane, Suite 103\nCary, NC 27"
+  },
+  "section_2": {
+    "signal_word": "DANGER",
+    "h_codes": [],
+    "p_codes": [],
+    "ghs_classes": [],
+    "environmental_hazard": null,
+    "hazard_level_score": 2,
+    "text_excerpt": "HAZARD IDENTIFICATION\nEMERGENCY OVERVIEW\nMay be fatal if swallowed. Harmful if absorbed through\nskin or inhaled. Wash thoroughly with soap and water\nafter handling. Causes moderate eye irritation. Avoid\ncontact with eyes, skin or clothing. Avoid breathing\nvapors. Chlorpyrifos is a cholinesterase inh"
+  },
+  "section_14": {
+    "un_number": "3018"
+  }
+}
