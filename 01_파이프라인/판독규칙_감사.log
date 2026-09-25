@@ -1,0 +1,113 @@
+[    0.0s] 문서불일치 전수검사 1824행 · 분류 {'표기차이': 539, '같은문서_성분목록다름': 537, '대체근거문서': 308, '문서형식부적합': 250, '다른제품문서': 146, '데이터쪽오류': 44}
+[   10.7s] 감사 대상 583행 · 문서 285건
+[   42.8s] 저장 583행 → 08_판독규칙_감사.csv
+[   42.8s] 
+[   42.8s] === 표기차이 539 단계별 ===
+[   42.8s]   농도   L1_공백무시        44건   조치가능 {'예_공백정규화': 44}
+[   42.8s]   농도   L2_숫자만        177건   조치가능 {'아니오': 177}
+[   42.8s]   농도   L2_숫자일부        11건   조치가능 {'아니오': 11}
+[   42.8s]   성분명  L1_구두점무시       40건   조치가능 {'조건부_squash일치': 26, '아니오': 14}
+[   42.8s]   성분명  L2_어절전부       118건   조치가능 {'조건부_어절전부': 107, '아니오': 11}
+[   42.8s]   성분명  L3_어절일부       144건   조치가능 {'아니오': 144}
+[   42.8s]   성분명  L4_어절없음         5건   조치가능 {'아니오': 5}
+[   42.8s] 
+[   42.8s] === 데이터쪽오류 44 ===
+[   42.8s]   CAS체크섬오류       아니오                9건
+[   42.8s]   CAS체크섬오류       예_문서확인             3건
+[   42.8s]   CAS체크섬오류       조건부_데이터내근거         2건
+[   42.8s]   이름이_추출잡음       아니오               15건
+[   42.8s]   이름이_추출잡음       예_문서확인            15건
+[   42.8s] 
+[   42.8s] === 표본 ===
+[   42.8s] [성분명 · L1_구두점무시 · 40건]
+[   42.8s]    「otal 33.6 28.3 26.3」 → 구두점·공백만 다름 · 원문에 그대로도 있음 · 더긴낱말안에서만_일치
+[   42.8s]       문서: tobacco 2.8 2.9 3.4 25.4 Subtotal 33.6 28.3 26.3 16.0 2 Crude materials 1.7 2.
+[   42.8s]    「otal 30.3 26.2 25.7」 → 구두점·공백만 다름 · 원문에 그대로도 있음 · 더긴낱말안에서만_일치
+[   42.8s]       문서: and fats 0.4 0.2 0.2 11.0 Subtotal 30.3 26.2 25.7 17.6 5 Chemicals 17.2 14.7 15
+[   42.8s]    「otal 36.0 45.4 47.9」 → 구두점·공백만 다름 · 원문에 그대로도 있음 · 더긴낱말안에서만_일치
+[   42.8s]       문서: items 6.4 16.0 16.8 42.0 Subtotal 36.0 45.4 47.9 26.8 9 Miscellaneous 0.1 0.1
+[   42.8s]    「ARIFTA imports 8 9」 → 구두점·공백만 다름 · 원문에 그대로도 있음 · 더긴낱말안에서만_일치
+[   42.8s]       문서: ent) Category 1963 1967 1971 CARIFTA imports 8 9 15 Non-CARIFTA imports 269 25
+[   42.8s]    「Propanesulfonic acid, 2-methyl-2-((1-oxo-2- 1 SGA-II Gellant, fr」 → 구두점·공백만 다름 · 원문에는 그대로 없음(구두점 제거 후에만 걸림) · 낱말경계 정합
+[   42.8s]       문서: nt, fracturing 61789-40-0 X 1-Propanesulfonic acid, 2-methyl-2-((1-oxo-2- 1 SGA-II Gellant, frac
+[   42.8s]    「Lambda-cyhalothrin」 → 구두점·공백만 다름 · 원문에 그대로도 있음 · 더긴낱말안에서만_일치
+[   42.8s]       문서: rand: HELM Active Ingredient: Lambda-cyhalothrin1: [1 α(S*),3 α(Z)]-(±)-cyano-
+[   42.8s] [성분명 · L2_어절전부 · 118건]
+[   42.8s]    「Calcium Limestone (>=80 - <=)」 → 어절 2개 전부 있음(연속 아님) · 그중 낱말경계 정합 2개 · 앞1/뒤1 연속일치
+[   42.8s]    「Polymer coating () Mixture」 → 어절 3개 전부 있음(연속 아님) · 그중 낱말경계 정합 3개 · 앞2/뒤1 연속일치
+[   42.8s]    「Bifenthrin C =」 → 어절 1개 전부 있음(연속 아님) · 그중 낱말경계 정합 1개 · 앞1/뒤1 연속일치
+[   42.8s]    「Inert Ingredients () n/a」 → 어절 2개 전부 있음(연속 아님) · 그중 낱말경계 정합 2개 · 앞2/뒤2 연속일치
+[   42.8s]    「1-2 Sodium alkylnaphthalenesulfonate」 → 어절 2개 전부 있음(연속 아님) · 그중 낱말경계 정합 2개 · 앞2/뒤2 연속일치
+[   42.8s]    「Avermectin B1a」 → 어절 1개 전부 있음(연속 아님) · 그중 낱말경계 정합 1개 · 앞1/뒤1 연속일치
+[   42.8s] [성분명 · L3_어절일부 · 144건]
+[   42.8s]    「Metconazole (-[(4-chlorophenyl)methyl]-2,2-dimethyl-1-(1H-1,2,4-」 → 1/6 ['ingredient'] · 그중 낱말경계 정합 0개 · 앞0/뒤1 연속일치
+[   42.8s]    「Metconazole (-[(4-chlorophenyl)methyl]-2,2-dimethyl-1-(1H-1,2,4-」 → 5/6 ['metconazole', 'chlorophenyl', 'methyl'] · 그중 낱말경계 정합 2개 · 앞1/뒤1 연속일치
+[   42.8s]    「Other/Inert Ingredients」 → 2/3 ['other', 'ingredients'] · 그중 낱말경계 정합 2개 · 앞1/뒤1 연속일치
+[   42.8s]    「3-Iodo-2-propynyl-N-butylcarbamate」 → 2/3 ['iodo', 'propynyl'] · 그중 낱말경계 정합 2개 · 앞1/뒤2 연속일치
+[   42.8s]    「2-Ethylhexyl (4-chloro-2-methylphenoxy)acetate」 → 1/4 ['chloro'] · 그중 낱말경계 정합 0개 · 앞0/뒤0 연속일치
+[   42.8s]    「Peracetic acid」 → 1/2 ['acid'] · 그중 낱말경계 정합 1개 · 앞0/뒤1 연속일치
+[   42.8s] [성분명 · L4_어절없음 · 5건]
+[   42.8s]    「1,2-benzisothiazoline-3-one」 → 어절 1개 모두 없음 · 앞0/뒤0 연속일치
+[   42.8s]       문서: 동일CAS 이름 문서에 있음: 1,2-Benzisothiazolin-3-one (빈도 9)
+[   42.8s]    「Metalaxyl-M」 → 어절 1개 모두 없음 · 앞0/뒤0 연속일치
+[   42.8s]       문서: 동일CAS 이름 문서에 있음: Hazardous components (빈도 2)
+[   42.8s]    「Mefenoxam (Metalaxyl-M)」 → 어절 2개 모두 없음 · 앞0/뒤0 연속일치
+[   42.8s]       문서: 동일CAS 이름 문서에 있음: Hazardous components (빈도 2)
+[   42.8s]    「Glyphosate」 → 어절 1개 모두 없음 · 앞0/뒤0 연속일치
+[   42.8s]       문서: 동일CAS 이름 문서에 있음: Inert ingredients (빈도 1)
+[   42.8s]    「Methylisothiazolinone」 → 어절 1개 모두 없음 · 앞0/뒤0 연속일치
+[   42.8s]       문서: 동일CAS 이름 문서에 있음: 2-Methyl-4-Isothiazolin-3-one (빈도 3)
+[   42.8s] [농도 · L1_공백무시 · 44건]
+[   42.8s]    「26.9%」 → 공백만 다름
+[   42.8s]       문서: 65318-97-4 Content (W/W): 26.9 % Synonym: ametoctradin dim
+[   42.8s]    「20.2%」 → 공백만 다름
+[   42.8s]       문서: 10488-70-5 Content (W/W): 20.2 % Synonym: (E,Z)-4-[(3-(4-C
+[   42.8s]    「100%」 → 공백만 다름
+[   42.8s]       문서: or - Aquatic Acute: 10 <= 100 % For the full text of the
+[   42.8s]    「79.8%」 → 공백만 다름
+[   42.8s]       문서: morpholine Content (W/W): 79.8 % CAS Number: 67564-91-4 EC
+[   42.8s]    「<20%」 → 공백만 다름
+[   42.8s]       문서: lohexanone Content (W/W): < 20 % CAS Number: 108-94-1 EC-N
+[   42.8s]    「1%」 → 공백만 다름
+[   42.8s]       문서: dimethalin Content (W/W): 1 % CAS Number: 40487-42-1 Ac
+[   42.8s] [농도 · L2_숫자만 · 177건]
+[   42.8s]    「24.8%」 → 숫자 1개 전부 있음 · 뒤에 단위표기 없음
+[   42.8s]       문서: rans +/- 40/60 52315-07-8 24.8 Light aromatic naptha 747
+[   42.8s]    「51.1%」 → 숫자 1개 전부 있음 · 뒤에 단위표기 없음
+[   42.8s]       문서: romatic naptha 74742-95-6 51.1 If CAS number is "proprie
+[   42.8s]    「75%」 → 숫자 1개 전부 있음 · 뒤에 단위표기 없음
+[   42.8s]       문서: ron Technical 122548-33-8 75 2,4,7,9-tetramethyl-5-dec
+[   42.8s]    「2.43%」 → 숫자 1개 전부 있음 · 뒤에 단위표기 없음
+[   42.8s]       문서: -decyne-4,7-diol 126-86-3 2.43 Polyoxyethylene-polyoxypr
+[   42.8s]    「0.16%」 → 숫자 1개 전부 있음 · 뒤에 단위표기 없음
+[   42.8s]       문서: block copolymer 9003-11-6 0.16 Kaolin clay 1332-58-7 5.3
+[   42.8s]    「5.34%」 → 숫자 1개 전부 있음 · 뒤에 단위표기 없음
+[   42.8s]       문서: .16 Kaolin clay 1332-58-7 5.34 Non-ionic surfactant on u
+[   42.8s] [농도 · L2_숫자일부 · 11건]
+[   42.8s]    「50.001-100%」 → 1/2 ['100'] · 뒤에 단위표기 없음
+[   42.8s]       문서: -56-8 ALPHA-PINENE 50,001-100 EC number: 201-291-9 Asp.
+[   42.8s]    「1.5-2.0」 → 1/2 ['1.5'] · 뒤에 단위표기 없음
+[   42.8s]       문서: oxicity LD50 Oral - rat - 1.5 mg/kg LC50 Inhalation - r
+[   42.8s]    「12-14%」 → 1/2 ['12'] · 뒤에 단위표기 없음
+[   42.8s]       문서: 11/06/2017 Print Date 11/12/2018 1. PRODUCT AND COMPA
+[   42.8s]    「>=0.5-<1.5 (trade secret range)」 → 1/2 ['0.5'] · 단위표기 있음
+[   42.8s]       문서: e Version 4 (BJ Services) 0.5-10% 1 1 1 1 1 1 BF-7L Ver
+[   42.8s]    「>=0.1-<1 (trade secret range)」 → 1/2 ['1'] · 뒤에 단위표기 없음
+[   42.8s]       문서: h R) R Respirator or mask 1-20 Corresponds to the num
+[   42.8s]    「70.0% (in cited Imidan 70-W source; % for actual 'Imidan 60 WDG'」 → 1/3 ['70.0'] · 단위표기 있음
+[   42.8s]       문서: de · CAS Number: Phosmet (70.0%): 732-11-6 Registration
+[   42.8s] 
+[   42.8s] === C. '일치' 판정 성분명 앵커의 낱말 경계 검사 ===
+[   42.8s] 대상 864앵커 · 문서 443건
+[   52.8s] 의심 0앵커
+[   52.8s] 
+[   52.8s] === D. HTML 사본에서 mark 삽입이 낱말을 가른 건수 ===
+[   52.8s] HTML 사본 97건
+[   56.3s] 낱말이 갈라진 HTML 사본 6건 / 97건 · 갈라진 낱말 합계 2개
+[   56.3s]    EyeIrritation6pack_PID473__1__G034_alternate_sds_index_p · 1개 · aluminu
+[   56.3s]    EyeIrritation6pack_PID76__1__G043_alternate_chemical_ref · 0개 · 
+[   56.3s]    MIX225__1__G034_alternate_sds_index_page.html · 1개 · aluminu
+[   56.3s]    MIX40__1__G043_alternate_chemical_reference_page.html · 0개 · 
+[   56.3s]    MIX879__1__G060_alternate_product_reference_page.html · 0개 · 
+[   56.3s]    MIX879__2__G060_alternate_sds_page.html · 0개 · 
+[   56.3s] 끝

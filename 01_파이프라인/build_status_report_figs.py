@@ -191,8 +191,8 @@ for i, ep in enumerate(("eye", "skin")):
     ax[i].set_xlim(0.5, 0.82)
     ax[i].set_title(f"{ep} (n={int(d['n'].iloc[0])})", fontsize=11)
     ax[i].legend(fontsize=8, loc="lower right")
-fig.suptitle("[그림 5] pooled 로는 통과, 보정으로는 미달 — 초과분의 27~30%가 "
-             "'라벨을 어느 문서에서 읽었는가' 였다\n"
+fig.suptitle("[그림 5] pooled 로는 통과, 보정으로는 미달 — 초과분의 눈 28.6% · "
+             "피부 30.6%가 '라벨을 어느 문서에서 읽었는가' 였다\n"
              "대표 셀은 L2단독. 게이트를 넘는 두 arm 은 다른 노선 정보를 더한 것이라 "
              "L2 단독 가설의 근거가 못 된다", fontsize=12)
 save("fig5_gate")

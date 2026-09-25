@@ -1,0 +1,401 @@
+﻿Formulation_ID,ingredient_name,cas,채움전략,농도값,정보원,신뢰도,상세,원본행인덱스
+EyeIrritation6pack_PID1005,"Distillates (Petroleum), Hydrotreated Light",64742-47-8,전략4_ing2pct_exact,100.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=total_row_dropped",52
+EyeIrritation6pack_PID1009,0.2 mg/M3 0.2 mg/M3 N/A No,,전략4_ing2pct_exact,75.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",63
+EyeIrritation6pack_PID1013,Food 30.8 25.4 22.9,,전략4_ing2pct_exact,30.8,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",76
+EyeIrritation6pack_PID1013,Beverages and tobacco 2.8 2.9 3.4,,전략4_ing2pct_exact,2.8,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",77
+EyeIrritation6pack_PID1013,otal 33.6 28.3 26.3,,전략4_ing2pct_exact,33.6,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",78
+EyeIrritation6pack_PID1013,Crude materials 1.7 2.9 0.8,,전략4_ing2pct_exact,1.7,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",79
+EyeIrritation6pack_PID1013,Fuels 28.2 23.1 24.7,,전략4_ing2pct_exact,28.2,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",80
+EyeIrritation6pack_PID1013,Oils and fats 0.4 0.2 0.2,,전략4_ing2pct_exact,0.4,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",81
+EyeIrritation6pack_PID1013,otal 30.3 26.2 25.7,,전략4_ing2pct_exact,30.3,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",82
+EyeIrritation6pack_PID1013,Chemicals 17.2 14.7 15.3,,전략4_ing2pct_exact,17.2,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",83
+EyeIrritation6pack_PID1013,"Wood, textile, metals 12.1 13.5 13.1",,전략4_ing2pct_exact,12.1,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",84
+EyeIrritation6pack_PID1013,Machinery and transportation equipment 0.3 1.2 2.7,,전략4_ing2pct_exact,0.3,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",85
+EyeIrritation6pack_PID1013,"Clothing, footwear, and similar items 6.4 16.0 16.8",,전략4_ing2pct_exact,6.4,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",86
+EyeIrritation6pack_PID1013,otal 36.0 45.4 47.9,,전략4_ing2pct_exact,36.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",87
+EyeIrritation6pack_PID1013,Miscellaneous 0.1 0.1 0.1,,전략4_ing2pct_exact,0.1,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",88
+EyeIrritation6pack_PID1013,9    Miscellaneous                          0.1    0.1     0.1       7.9,,전략4_ing2pct_exact,100.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",89
+EyeIrritation6pack_PID1013,are of manufactures in total imports 50 54,,전략4_ing2pct_exact,50.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",90
+EyeIrritation6pack_PID1013,are of manufactures in imports from CARIFTA sources 25 33,,전략4_ing2pct_exact,25.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",91
+EyeIrritation6pack_PID1013,hare of manufactures in total exports 4 10,,전략4_ing2pct_exact,4.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",92
+EyeIrritation6pack_PID1013,are of manufactures in exports to CARIFTA destinations 26 34,,전략4_ing2pct_exact,26.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",93
+EyeIrritation6pack_PID1013,ARIFTA imports 8 9,,전략4_ing2pct_exact,8.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",94
+EyeIrritation6pack_PID1019,Cypermethrin,52315-07-8,전략4_ing2pct_exact,24.8,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:master_kept",103
+EyeIrritation6pack_PID1027,Imazosulfuron,122548-33-8,전략4_ing2pct_exact,75.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:master_kept",127
+EyeIrritation6pack_PID17,Diuron,330-54-1,전략4_ing2pct_exact,62.22,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",372
+EyeIrritation6pack_PID219,flumioxazin (ISO),,전략4_ing2pct_exact,50.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",445
+EyeIrritation6pack_PID328,"Diuron 3-(3,4-dichlorophenyl)-1,1-dimethylurea",,전략4_ing2pct_exact,40.7,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",638
+EyeIrritation6pack_PID351,Metribuzin,,전략4_ing2pct_exact,64.3,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",684
+EyeIrritation6pack_PID351,Chlorimuron ethyl,,전략4_ing2pct_exact,10.7,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",685
+EyeIrritation6pack_PID351,Other/Inert Ingredients,,전략4_ing2pct_exact,25.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",687
+EyeIrritation6pack_PID352,Chlorimuron ethyl,,전략4_ing2pct_exact,25.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",689
+EyeIrritation6pack_PID364,Penthiopyrad,,전략4_ing2pct_exact,20.6,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",732
+EyeIrritation6pack_PID413,Carfentrazone-ethyl,128639-02-1,전략4_ing2pct_exact,18.04,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:master_kept",887
+EyeIrritation6pack_PID414,Glyphosate isopropylamine,38641-94-0,전략4_ing2pct_exact,49.71,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:master_kept",895
+EyeIrritation6pack_PID437,cid:131) Satisfaction Guaranteed (or your money back) (cid:131) Kills Japanese beetles and other leaf feeding beetles,,전략4_ing2pct_exact,100.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=total_row_dropped",923
+EyeIrritation6pack_PID486,"Lambda Lambda-cyhalothrin:[1a(S),3a(Z)]-(±))cyano(3-phenoxyphenyl)methyl",,전략4_ing2pct_exact,23.6,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1039
+EyeIrritation6pack_PID486,Other Non-Toxic and non-hazardous,,전략4_ing2pct_exact,76.4,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1040
+EyeIrritation6pack_PID498,Acetic acid atom % D 1 Acetic acid 100 Uatnokmno %w nD X S,,전략4_ing2pct_exact,100.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=total_row_dropped",1081
+EyeIrritation6pack_PID503,Sulfoxaflor,,전략4_ing2pct_exact,21.8,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1111
+EyeIrritation6pack_PID503,Propylene glycol,,전략4_ing2pct_exact,4.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1112
+EyeIrritation6pack_PID503,Balance Not available,,전략4_ing2pct_exact,74.2,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1113
+EyeIrritation6pack_PID574,"N’-1,2,3-thiadiazol-5-ylurea",,전략4_ing2pct_exact,42.4,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1266
+EyeIrritation6pack_PID574,INERT INGREDIENTS:. . . . . . . . . . . . . . . . . . . . . . . Hold eye open and rinse slowly and gently with water for,,전략4_ing2pct_exact,57.6,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1267
+EyeIrritation6pack_PID61,Isopropylamine Salt of Glyphosate,38641-94-0,전략4_ing2pct_exact,41.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1327
+EyeIrritation6pack_PID691,Synonyms: Sodium Chlorite Solution,,전략4_ing2pct_exact,7.5,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1514
+EyeIrritation6pack_PID691,Sodium chlorite 2 -7.8,,전략4_ing2pct_exact,7.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1515
+EyeIrritation6pack_PID691,Water,,전략4_ing2pct_exact,89.2,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1516
+EyeIrritation6pack_PID739,Hydrofluorosilicic Acid,16961-83-4,전략4_ing2pct_exact,25.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1610
+EyeIrritation6pack_PID739,Water/Inactive Ingredients,7732-18-5,전략4_ing2pct_exact,75.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1611
+EyeIrritation6pack_PID772,Neat,,전략4_ing2pct_exact,100.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=total_row_dropped",1678
+EyeIrritation6pack_PID776,Calcium Limestone (>=80 - <=),,전략4_ing2pct_exact,100.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1697
+EyeIrritation6pack_PID776,"Carbamide, Carbonyldiamide, Carbamidic Acid",,전략4_ing2pct_exact,97.5,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1699
+EyeIrritation6pack_PID776,Alkalinity as ammonia (150 ppm max) C =,,전략4_ing2pct_exact,31.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1700
+EyeIrritation6pack_PID776,XCU C =,,전략4_ing2pct_exact,11.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1704
+EyeIrritation6pack_PID776,19-0-5 Prodiamine,,전략4_ing2pct_exact,0.37,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1707
+EyeIrritation6pack_PID776,Oil Dri Montmorillonite ( - 93%),,전략4_ing2pct_exact,90.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1708
+EyeIrritation6pack_PID776,Pesticide Prodiamine ( - 66.95 %) C = 0.6 %,,전략4_ing2pct_exact,63.05,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1709
+EyeIrritation6pack_PID776,Kaolin ( - 27.63 %),,전략4_ing2pct_exact,26.03,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1710
+EyeIrritation6pack_PID776,White mineral oil () n/a C = 0.6 %,,전략4_ing2pct_exact,100.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1711
+EyeIrritation6pack_PID795,Acetone 60- <=,,전략4_ing2pct_exact,100.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=total_row_dropped",1752
+EyeIrritation6pack_PID801,METIlYLCARBAMA'IE,,전략4_ing2pct_exact,0.665,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1790
+EyeIrritation6pack_PID801,"2,2-DIClll..OROVINYL DIME1HYL PHOSPHA'IE; RELA'IED",,전략4_ing2pct_exact,0.186,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1791
+EyeIrritation6pack_PID801,COMPOUNDS,,전략4_ing2pct_exact,0.014,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1792
+EyeIrritation6pack_PID801,INERT INGREDIENTS: (CONTAINS PETROLEUM),,전략4_ing2pct_exact,99.135,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1793
+EyeIrritation6pack_PID801,Other/Inert Ingredients,,전략4_ing2pct_exact,99.135,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1794
+EyeIrritation6pack_PID810,Free,,전략4_ing2pct_exact,100.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=total_row_dropped",1829
+EyeIrritation6pack_PID829,Methomyl (900g/kg) – MSDS 2440 Page 1 of,,전략4_ing2pct_exact,90.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",1880
+EyeIrritation6pack_PID901,"wallboards. The TBZ metabolite, 5OH-TBZ, was detected in of urine samples collected from",,전략4_ing2pct_exact,48.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",2070
+EyeIrritation6pack_PID901,of the urine samples. The detection frequency of 5OH-TBZ was positively associated with,,전략4_ing2pct_exact,37.5,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",2071
+EyeIrritation6pack_PID903,Fluoroxypyr-meptyl (ISO),,전략4_ing2pct_exact,45.52,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",2075
+EyeIrritation6pack_PID918,Free,,전략4_ing2pct_exact,100.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=total_row_dropped",2115
+EyeIrritation6pack_PID933,Triticonazole,131983-72-7,전략4_ing2pct_exact,10.5,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:master_kept",2151
+EyeIrritation6pack_PID972,TOTAL structions and exceptions pertaining to the statements on this label about personal,,전략4_ing2pct_exact,100.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=total_row_dropped",2219
+EyeIrritation6pack_PID977,Clethodim,99129-21-2,전략4_ing2pct_exact,36.7,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",2226
+EyeIrritation6pack_PID977,Heavy aromatic naptha solvent,64742-94-5,전략4_ing2pct_exact,53.69,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",2227
+EyeIrritation6pack_PID977,"1,2,4-trimethylbenzene",95-63-6,전략4_ing2pct_exact,5.2,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",2228
+EyeIrritation6pack_PID977,Anionic/nonionic surfactant blend,91-20-3,전략4_ing2pct_exact,4.92,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",2229
+EyeIrritation6pack_PID990,Cymoxanil,,전략4_ing2pct_exact,60.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",2269
+EyeIrritation6pack_PID990,Other/Inert Ingredients,,전략4_ing2pct_exact,40.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",2271
+MIX109,flumioxazin (ISO),,전략4_ing2pct_exact,50.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",2589
+MIX193,Other inert ingredients secret To w/v,,전략4_ing2pct_exact,100.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=total_row_dropped",2848
+MIX295,"Permethrin (3-phenoxyphenyl)methyl(±)cis,trans-3-(2,2-dichloroethenyl",,전략4_ing2pct_exact,28.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",3210
+MIX412,"Elemental copper, present as copper hydroxide …",,전략4_ing2pct_exact,50.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",3701
+MIX465,Triticonazole,131983-72-7,전략4_ing2pct_exact,10.5,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:master_kept",3952
+MIX470,Orthosulfamuron,213464-77-8,전략4_ing2pct_exact,50.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:master_kept",3980
+MIX476,Prothioconazole,178928-70-6,전략4_ing2pct_exact,10.8,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:master_kept",3993
+MIX518,"1,2-Benzisothiazolin-3-one",2634-33-5,전략4_ing2pct_exact,10.9,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:master_kept",4141
+MIX518,"1,3-Dimethylol-5,5-dimethylhydantoin",6440-58-0,전략4_ing2pct_exact,12.5,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:master_kept",4142
+MIX518,5-(Hydroxymethyl)-2-furfural,67-47-0,전략4_ing2pct_exact,2.9,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:master_kept",4143
+MIX780,,,전략4_ing2pct_exact,100.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=total_row_dropped",4903
+MIX799,,,전략4_ing2pct_exact,89.81,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",4949
+MIX801,Sodium hydroxide,1310-73-2,전략4_ing2pct_exact,100.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=total_row_dropped",4960
+MIX804,Sodium dodecyl sulfate,,전략4_ing2pct_exact,99.0,ing2_pct_value(2차수집_exact),높음,"ing2_pct_kind=exact, pct_status=cross_source_block_dropped:ntp_ice_kept",4968
+EyeIrritation6pack_PID1001,"Synonyms : Trifloxysulfuron sodium,Trifloxysulfuron sodium salt",199119-58-9,전략2_CASmedian_n>=3,37.85,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=37.9%, pct_status=ok",49
+EyeIrritation6pack_PID1026,Deltamethrin,52918-63-5,전략2_CASmedian_n>=3,4.225,동일CAS_median(n=6),중간,"동일CAS n=6, 중앙값=4.2%, pct_status=ok",120
+EyeIrritation6pack_PID1028,Bifenthrin,82657-04-3,전략2_CASmedian_n>=3,7.9,동일CAS_median(n=55),중간,"동일CAS n=55, 중앙값=7.9%, pct_status=ok",128
+EyeIrritation6pack_PID1028,Pyraclostrobin,175013-18-0,전략2_CASmedian_n>=3,21.26,동일CAS_median(n=14),중간,"동일CAS n=14, 중앙값=21.3%, pct_status=ok",129
+EyeIrritation6pack_PID1028,Propylene glycol 5-10,57-55-6,전략2_CASmedian_n>=3,4.0,동일CAS_median(n=8),중간,"동일CAS n=8, 중앙값=4.0%, pct_status=ok",130
+EyeIrritation6pack_PID1059,Water To q.s,7732-18-5,전략2_CASmedian_n>=3,50.0,동일CAS_median(n=5),중간,"동일CAS n=5, 중앙값=50.0%, pct_status=ok",233
+EyeIrritation6pack_PID1062,Zoxamide,156052-68-5,전략2_CASmedian_n>=3,80.32,동일CAS_median(n=6),중간,"동일CAS n=6, 중앙값=80.3%, pct_status=ok",249
+EyeIrritation6pack_PID115,Synonym: CGA 64250,60207-90-1,전략2_CASmedian_n>=3,1.41,동일CAS_median(n=17),중간,"동일CAS n=17, 중앙값=1.4%, pct_status=ok",257
+EyeIrritation6pack_PID126,Service () Number,907204-31-3,전략2_CASmedian_n>=3,14.33,동일CAS_median(n=5),중간,"동일CAS n=5, 중앙값=14.3%, pct_status=ok",299
+EyeIrritation6pack_PID131,Permethrin,52645-53-1,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=30),중간,"동일CAS n=30, 중앙값=2.5%, pct_status=ok",312
+EyeIrritation6pack_PID131,Piperonyl butoxide,51-03-6,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=19),중간,"동일CAS n=19, 중앙값=2.5%, pct_status=ok",313
+EyeIrritation6pack_PID143,Bifenthrin Weight %,82657-04-3,전략2_CASmedian_n>=3,7.9,동일CAS_median(n=55),중간,"동일CAS n=55, 중앙값=7.9%, pct_status=ok",327
+EyeIrritation6pack_PID144,Sulfur Coated Urea,7704-34-9,전략2_CASmedian_n>=3,40.225,동일CAS_median(n=16),중간,"동일CAS n=16, 중앙값=40.2%, pct_status=ok",331
+EyeIrritation6pack_PID144,Micro Pelleted Limestone/Filler,1317-65-3,전략2_CASmedian_n>=3,23.0,동일CAS_median(n=3),중간,"동일CAS n=3, 중앙값=23.0%, pct_status=ok",332
+EyeIrritation6pack_PID154,Bifenthrin,82657-04-3,전략2_CASmedian_n>=3,7.9,동일CAS_median(n=55),중간,"동일CAS n=55, 중앙값=7.9%, pct_status=ok",360
+EyeIrritation6pack_PID155,Bifenthrin,82657-04-3,전략2_CASmedian_n>=3,7.9,동일CAS_median(n=55),중간,"동일CAS n=55, 중앙값=7.9%, pct_status=ok",363
+EyeIrritation6pack_PID160,RN,125401-92-5,전략2_CASmedian_n>=3,80.0,동일CAS_median(n=5),중간,"동일CAS n=5, 중앙값=80.0%, pct_status=ok",368
+EyeIrritation6pack_PID170,RN,188425-85-6,전략2_CASmedian_n>=3,18.0,동일CAS_median(n=7),중간,"동일CAS n=7, 중앙값=18.0%, pct_status=ok",374
+EyeIrritation6pack_PID217,Metofluthrin,240494-70-6,전략2_CASmedian_n>=3,31.439999999999998,동일CAS_median(n=8),중간,"동일CAS n=8, 중앙값=31.4%, pct_status=cross_source_block_dropped:master_kept",439
+EyeIrritation6pack_PID224,BUTANE 10.0-20.0,106-97-8,전략2_CASmedian_n>=3,5.5,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=5.5%, pct_status=ok",464
+EyeIrritation6pack_PID224,PROPANE 2.5-10.0,74-98-6,전략2_CASmedian_n>=3,10.0,동일CAS_median(n=6),중간,"동일CAS n=6, 중앙값=10.0%, pct_status=ok",465
+EyeIrritation6pack_PID224,ALIPHATIC HYDROCARBONS 5.0-10.0,64742-47-8,전략2_CASmedian_n>=3,5.875,동일CAS_median(n=12),중간,"동일CAS n=12, 중앙값=5.9%, pct_status=ok",466
+EyeIrritation6pack_PID224,N-OCTYL BICYCLOHEPTENE DICARBOXIMIDE,113-48-4,전략2_CASmedian_n>=3,0.29,동일CAS_median(n=5),중간,"동일CAS n=5, 중앙값=0.3%, pct_status=ok",467
+EyeIrritation6pack_PID224,PIPERONYL BUTOXIDE,51-03-6,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=19),중간,"동일CAS n=19, 중앙값=2.5%, pct_status=ok",468
+EyeIrritation6pack_PID224,PRALLETHRIN,23031-36-9,전략2_CASmedian_n>=3,0.03,동일CAS_median(n=20),중간,"동일CAS n=20, 중앙값=0.0%, pct_status=ok",469
+EyeIrritation6pack_PID225,Sulfur,7704-34-9,전략2_CASmedian_n>=3,40.225,동일CAS_median(n=16),중간,"동일CAS n=16, 중앙값=40.2%, pct_status=ok",477
+EyeIrritation6pack_PID228,Crystalline quartz (respirable),14808-60-7,전략2_CASmedian_n>=3,0.1,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=0.1%, pct_status=ok",489
+EyeIrritation6pack_PID242,Metribuzin 62,21087-64-9,전략2_CASmedian_n>=3,75.0,동일CAS_median(n=5),중간,"동일CAS n=5, 중앙값=75.0%, pct_status=ok",507
+EyeIrritation6pack_PID242,Kaolin 8.3,1332-58-7,전략2_CASmedian_n>=3,13.6,동일CAS_median(n=9),중간,"동일CAS n=9, 중앙값=13.6%, pct_status=ok",509
+EyeIrritation6pack_PID242,Crystalline Silica (quartz) <,14808-60-7,전략2_CASmedian_n>=3,0.1,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=0.1%, pct_status=ok",510
+EyeIrritation6pack_PID242,Titanium dioxide <,13463-67-7,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=3),중간,"동일CAS n=3, 중앙값=2.5%, pct_status=ok",511
+EyeIrritation6pack_PID243,Metribuzin 62,21087-64-9,전략2_CASmedian_n>=3,75.0,동일CAS_median(n=5),중간,"동일CAS n=5, 중앙값=75.0%, pct_status=ok",514
+EyeIrritation6pack_PID243,Kaolin 8.3,1332-58-7,전략2_CASmedian_n>=3,13.6,동일CAS_median(n=9),중간,"동일CAS n=9, 중앙값=13.6%, pct_status=ok",516
+EyeIrritation6pack_PID243,Crystalline Silica (quartz) <,14808-60-7,전략2_CASmedian_n>=3,0.1,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=0.1%, pct_status=ok",517
+EyeIrritation6pack_PID243,Titanium dioxide <,13463-67-7,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=3),중간,"동일CAS n=3, 중앙값=2.5%, pct_status=ok",518
+EyeIrritation6pack_PID251,Kaolin clay NF Carrier,1332-58-7,전략2_CASmedian_n>=3,13.6,동일CAS_median(n=9),중간,"동일CAS n=9, 중앙값=13.6%, pct_status=ok",524
+EyeIrritation6pack_PID252,Silica,14808-60-7,전략2_CASmedian_n>=3,0.1,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=0.1%, pct_status=ok",525
+EyeIrritation6pack_PID276,3.1 Substance/Mixture,91465-08-6,전략2_CASmedian_n>=3,4.63,동일CAS_median(n=23),중간,"동일CAS n=23, 중앙값=4.6%, pct_status=ok",572
+EyeIrritation6pack_PID286,Molecular Weight: 449.85,91465-08-6,전략2_CASmedian_n>=3,4.63,동일CAS_median(n=23),중간,"동일CAS n=23, 중앙값=4.6%, pct_status=ok",585
+EyeIrritation6pack_PID288,mol,52315-07-8,전략2_CASmedian_n>=3,0.0625,동일CAS_median(n=12),중간,"동일CAS n=12, 중앙값=0.1%, pct_status=ok",588
+EyeIrritation6pack_PID298,Dichlorvos,62-73-7,전략2_CASmedian_n>=3,5.3,동일CAS_median(n=9),중간,"동일CAS n=9, 중앙값=5.3%, pct_status=ok",597
+EyeIrritation6pack_PID298,"Solvent naphtha (petroleum), heavy aromatic",64742-94-5,전략2_CASmedian_n>=3,46.0,동일CAS_median(n=15),중간,"동일CAS n=15, 중앙값=46.0%, pct_status=ok",598
+EyeIrritation6pack_PID300,Permethrin (ISO) >= 5 -<,52645-53-1,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=30),중간,"동일CAS n=30, 중앙값=2.5%, pct_status=ok",603
+EyeIrritation6pack_PID303,Acetic acid 1 - 5,64-19-7,전략2_CASmedian_n>=3,82.1,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=82.1%, pct_status=ok",608
+EyeIrritation6pack_PID316,Molecular Weight: 310.68,35367-38-5,전략2_CASmedian_n>=3,22.0,동일CAS_median(n=3),중간,"동일CAS n=3, 중앙값=22.0%, pct_status=ok",624
+EyeIrritation6pack_PID323,Dinotefuran,165252-70-0,전략2_CASmedian_n>=3,20.0,동일CAS_median(n=17),중간,"동일CAS n=17, 중앙값=20.0%, pct_status=ok",630
+EyeIrritation6pack_PID324,Dinotefuran (-No),165252-70-0,전략2_CASmedian_n>=3,20.0,동일CAS_median(n=17),중간,"동일CAS n=17, 중앙값=20.0%, pct_status=ok",631
+EyeIrritation6pack_PID324,s)-Methoprene Technical (-No,65733-16-6,전략2_CASmedian_n>=3,5.8,동일CAS_median(n=9),중간,"동일CAS n=9, 중앙값=5.8%, pct_status=ok",632
+EyeIrritation6pack_PID325,Dinotefuran,165252-70-0,전략2_CASmedian_n>=3,20.0,동일CAS_median(n=17),중간,"동일CAS n=17, 중앙값=20.0%, pct_status=ok",633
+EyeIrritation6pack_PID326,Fluoxastrobin,361377-29-9,전략2_CASmedian_n>=3,94.8,동일CAS_median(n=3),중간,"동일CAS n=3, 중앙값=94.8%, pct_status=ok",634
+EyeIrritation6pack_PID366,"Crystalline silica, quartz trace",14808-60-7,전략2_CASmedian_n>=3,0.1,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=0.1%, pct_status=ok",742
+EyeIrritation6pack_PID377,Isopropylamine salt of glyphosate,38641-94-0,전략2_CASmedian_n>=3,41.0,동일CAS_median(n=5),중간,"동일CAS n=5, 중앙값=41.0%, pct_status=ok",772
+EyeIrritation6pack_PID419,Tau-fluvalinate (-No),102851-06-9,전략2_CASmedian_n>=3,0.014,동일CAS_median(n=3),중간,"동일CAS n=3, 중앙값=0.0%, pct_status=ok",898
+EyeIrritation6pack_PID419,Ethylene glycol (-No),107-21-1,전략2_CASmedian_n>=3,10.0,동일CAS_median(n=6),중간,"동일CAS n=6, 중앙값=10.0%, pct_status=ok",900
+EyeIrritation6pack_PID433,from Elemental Sulfur not listed,7704-34-9,전략2_CASmedian_n>=3,40.225,동일CAS_median(n=16),중간,"동일CAS n=16, 중앙값=40.2%, pct_status=ok",918
+EyeIrritation6pack_PID434,Propiconazole 418 g/L,60207-90-1,전략2_CASmedian_n>=3,1.41,동일CAS_median(n=17),중간,"동일CAS n=17, 중앙값=1.4%, pct_status=ok",919
+EyeIrritation6pack_PID434,Naphthalene 40 – 45 g/L,91-20-3,전략2_CASmedian_n>=3,4.6,동일CAS_median(n=13),중간,"동일CAS n=13, 중앙값=4.6%, pct_status=ok",920
+EyeIrritation6pack_PID441,Ethylene Glycol,107-21-1,전략2_CASmedian_n>=3,10.0,동일CAS_median(n=6),중간,"동일CAS n=6, 중앙값=10.0%, pct_status=ok",931
+EyeIrritation6pack_PID443,Identifiers,142459-58-3,전략2_CASmedian_n>=3,46.2,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=46.2%, pct_status=ok",934
+EyeIrritation6pack_PID51,Diuron,330-54-1,전략2_CASmedian_n>=3,19.0,동일CAS_median(n=15),중간,"동일CAS n=15, 중앙값=19.0%, pct_status=ok",1137
+EyeIrritation6pack_PID51,Chlorothalonil,1897-45-6,전략2_CASmedian_n>=3,38.5,동일CAS_median(n=29),중간,"동일CAS n=29, 중앙값=38.5%, pct_status=ok",1138
+EyeIrritation6pack_PID511,mol,52645-53-1,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=30),중간,"동일CAS n=30, 중앙값=2.5%, pct_status=ok",1139
+EyeIrritation6pack_PID514,article number: 22YE,1071-83-6,전략2_CASmedian_n>=3,36.5,동일CAS_median(n=21),중간,"동일CAS n=21, 중앙값=36.5%, pct_status=ok",1142
+EyeIrritation6pack_PID515,"Synonyms : glyphosate,N-(Phosphonomethyl)glycine 2-propylamine",1071-83-6,전략2_CASmedian_n>=3,36.5,동일CAS_median(n=21),중간,"동일CAS n=21, 중앙값=36.5%, pct_status=ok",1144
+EyeIrritation6pack_PID516,mol,1071-83-6,전략2_CASmedian_n>=3,36.5,동일CAS_median(n=21),중간,"동일CAS n=21, 중앙값=36.5%, pct_status=ok",1145
+EyeIrritation6pack_PID519,Glyphosate,1071-83-6,전략2_CASmedian_n>=3,36.5,동일CAS_median(n=21),중간,"동일CAS n=21, 중앙값=36.5%, pct_status=ok",1147
+EyeIrritation6pack_PID520,Piperonyl butoxide,51-03-6,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=19),중간,"동일CAS n=19, 중앙값=2.5%, pct_status=ok",1151
+EyeIrritation6pack_PID520,Pyrethrins,8003-34-7,전략2_CASmedian_n>=3,0.55,동일CAS_median(n=9),중간,"동일CAS n=9, 중앙값=0.6%, pct_status=ok",1152
+EyeIrritation6pack_PID555,Bifenthrin 2g/Kg,82657-04-3,전략2_CASmedian_n>=3,7.9,동일CAS_median(n=55),중간,"동일CAS n=55, 중앙값=7.9%, pct_status=ok",1224
+EyeIrritation6pack_PID556,"Alcohols, C11-14-iso-, C13-rich, eth- >= 1 - <",78330-21-9,전략2_CASmedian_n>=3,15.5,동일CAS_median(n=3),중간,"동일CAS n=3, 중앙값=15.5%, pct_status=ok",1229
+EyeIrritation6pack_PID559,"Synonyms : Iprodione,IPRODION",36734-19-7,전략2_CASmedian_n>=3,23.3,동일CAS_median(n=8),중간,"동일CAS n=8, 중앙값=23.3%, pct_status=ok",1239
+EyeIrritation6pack_PID560,"Distillates (petroleum), hydrotreated light >= 70 - <",64742-47-8,전략2_CASmedian_n>=3,5.875,동일CAS_median(n=12),중간,"동일CAS n=12, 중앙값=5.9%, pct_status=cross_source_block_dropped:ntp_ice_kept",1240
+EyeIrritation6pack_PID594,TCM; PC Code 015804; . Given the minimal amount of new data received since the,317815-83-1,전략2_CASmedian_n>=3,45.0,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=45.0%, pct_status=ok",1303
+EyeIrritation6pack_PID607,No,7732-18-5,전략2_CASmedian_n>=3,50.0,동일CAS_median(n=5),중간,"동일CAS n=5, 중앙값=50.0%, pct_status=ok",1320
+EyeIrritation6pack_PID632,2-(4-Chloro-2-methylphenoxy)propanoic acid,93-65-2,전략2_CASmedian_n>=3,49.655,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=49.7%, pct_status=ok",1389
+EyeIrritation6pack_PID635,3.1 Mixtures,1897-45-6,전략2_CASmedian_n>=3,38.5,동일CAS_median(n=29),중간,"동일CAS n=29, 중앙값=38.5%, pct_status=ok",1395
+EyeIrritation6pack_PID635,Hazardous components,70630-17-0,전략2_CASmedian_n>=3,1.7,동일CAS_median(n=19),중간,"동일CAS n=19, 중앙값=1.7%, pct_status=ok",1396
+EyeIrritation6pack_PID635,For explanation of abbreviations see section 16,2634-33-5,전략2_CASmedian_n>=3,10.0,동일CAS_median(n=19),중간,"동일CAS n=19, 중앙값=10.0%, pct_status=ok",1397
+EyeIrritation6pack_PID65,Imidacloprid 0.10-0.125,138261-41-3,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=65),중간,"동일CAS n=65, 중앙값=2.5%, pct_status=ok",1407
+EyeIrritation6pack_PID65,Bifenthrin 0.08-0.10,82657-04-3,전략2_CASmedian_n>=3,7.9,동일CAS_median(n=55),중간,"동일CAS n=55, 중앙값=7.9%, pct_status=ok",1408
+EyeIrritation6pack_PID65,Sulfur 0-3,7704-34-9,전략2_CASmedian_n>=3,40.225,동일CAS_median(n=16),중간,"동일CAS n=16, 중앙값=40.2%, pct_status=ok",1416
+EyeIrritation6pack_PID65,Quartz (SiO2) 0-1,14808-60-7,전략2_CASmedian_n>=3,0.1,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=0.1%, pct_status=ok",1417
+EyeIrritation6pack_PID651,Flufenacet,142459-58-3,전략2_CASmedian_n>=3,46.2,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=46.2%, pct_status=cross_source_block_dropped:master_kept",1423
+EyeIrritation6pack_PID655,PiperonylButoxide(PBO),51-03-6,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=19),중간,"동일CAS n=19, 중앙값=2.5%, pct_status=ok",1428
+EyeIrritation6pack_PID655,Permethrin,52645-53-1,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=30),중간,"동일CAS n=30, 중앙값=2.5%, pct_status=ok",1429
+EyeIrritation6pack_PID655,"Petroleumdistillates,hydrotreatedlight < 10",64742-47-8,전략2_CASmedian_n>=3,5.875,동일CAS_median(n=12),중간,"동일CAS n=12, 중앙값=5.9%, pct_status=ok",1430
+EyeIrritation6pack_PID656,Pyrethrins,8003-34-7,전략2_CASmedian_n>=3,0.55,동일CAS_median(n=9),중간,"동일CAS n=9, 중앙값=0.6%, pct_status=ok",1436
+EyeIrritation6pack_PID656,PiperonylButoxide(PBO),51-03-6,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=19),중간,"동일CAS n=19, 중앙값=2.5%, pct_status=ok",1437
+EyeIrritation6pack_PID656,Permethrin,52645-53-1,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=30),중간,"동일CAS n=30, 중앙값=2.5%, pct_status=ok",1438
+EyeIrritation6pack_PID656,"Petroleumdistillates,hydrotreatedlight < 10",64742-47-8,전략2_CASmedian_n>=3,5.875,동일CAS_median(n=12),중간,"동일CAS n=12, 중앙값=5.9%, pct_status=ok",1439
+EyeIrritation6pack_PID658,0-1 permethrin,52645-53-1,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=30),중간,"동일CAS n=30, 중앙값=2.5%, pct_status=ok",1453
+EyeIrritation6pack_PID661,Diflubenzuron,35367-38-5,전략2_CASmedian_n>=3,22.0,동일CAS_median(n=3),중간,"동일CAS n=3, 중앙값=22.0%, pct_status=cross_source_block_dropped:master_kept",1464
+EyeIrritation6pack_PID689,Fipronil,120068-37-3,전략2_CASmedian_n>=3,6.6,동일CAS_median(n=19),중간,"동일CAS n=19, 중앙값=6.6%, pct_status=ok",1509
+EyeIrritation6pack_PID698,Clothianidin 1 - 5 Active ingredient,210880-92-5,전략2_CASmedian_n>=3,20.175,동일CAS_median(n=22),중간,"동일CAS n=22, 중앙값=20.2%, pct_status=ok",1526
+EyeIrritation6pack_PID698,Metconazole 0.1 - 1 Active ingredient,125116-23-6,전략2_CASmedian_n>=3,5.0,동일CAS_median(n=7),중간,"동일CAS n=7, 중앙값=5.0%, pct_status=ok",1527
+EyeIrritation6pack_PID698,Metalaxyl 0.1 - 1 Active ingredient,57837-19-1,전략2_CASmedian_n>=3,0.8,동일CAS_median(n=28),중간,"동일CAS n=28, 중앙값=0.8%, pct_status=ok",1528
+EyeIrritation6pack_PID698,Propylene glycol 3 - 7 Humectant,57-55-6,전략2_CASmedian_n>=3,4.0,동일CAS_median(n=8),중간,"동일CAS n=8, 중앙값=4.0%, pct_status=ok",1529
+EyeIrritation6pack_PID719,thiamethoxam (ISO) <,153719-23-4,전략2_CASmedian_n>=3,20.0,동일CAS_median(n=27),중간,"동일CAS n=27, 중앙값=20.0%, pct_status=ok",1576
+EyeIrritation6pack_PID737,Glycerin 7.6,56-81-5,전략2_CASmedian_n>=3,8.5,동일CAS_median(n=13),중간,"동일CAS n=13, 중앙값=8.5%, pct_status=ok",1607
+EyeIrritation6pack_PID741,"Synonyms : Penflufen,1H-Pyrazole-4-carboxamide, N-[2-(1,3-dimethylbutyl)phenyl]-5-fluoro-1,3-dimethyl",494793-67-8,전략2_CASmedian_n>=3,7.675,동일CAS_median(n=12),중간,"동일CAS n=12, 중앙값=7.7%, pct_status=ok",1619
+EyeIrritation6pack_PID746,"Synonyms : penthiopyrad,GAIA",183675-82-3,전략2_CASmedian_n>=3,35.2,동일CAS_median(n=6),중간,"동일CAS n=6, 중앙값=35.2%, pct_status=ok",1629
+EyeIrritation6pack_PID756,Glycerol,56-81-5,전략2_CASmedian_n>=3,8.5,동일CAS_median(n=13),중간,"동일CAS n=13, 중앙값=8.5%, pct_status=ok",1642
+EyeIrritation6pack_PID760,Pinoxaden,243973-20-8,전략2_CASmedian_n>=3,4.976,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=5.0%, pct_status=cross_source_block_dropped:master_kept",1656
+EyeIrritation6pack_PID784,Deltamethrin,52918-63-5,전략2_CASmedian_n>=3,4.225,동일CAS_median(n=6),중간,"동일CAS n=6, 중앙값=4.2%, pct_status=ok",1737
+EyeIrritation6pack_PID784,Kathon,55965-84-9,전략2_CASmedian_n>=3,0.0009125,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=0.0%, pct_status=ok",1738
+EyeIrritation6pack_PID788,mol,107534-96-3,전략2_CASmedian_n>=3,10.0,동일CAS_median(n=53),중간,"동일CAS n=53, 중앙값=10.0%, pct_status=ok",1740
+EyeIrritation6pack_PID790,"Synonyms : Dimethenamid,Frontier",87674-68-8,전략2_CASmedian_n>=3,31.635,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=31.6%, pct_status=ok",1743
+EyeIrritation6pack_PID806,Sodium Hydroxide 3,1310-73-2,전략2_CASmedian_n>=3,5.0,동일CAS_median(n=7),중간,"동일CAS n=7, 중앙값=5.0%, pct_status=ok",1815
+EyeIrritation6pack_PID815,Aminocyclopyrachlor,858956-08-8,전략2_CASmedian_n>=3,0.05,동일CAS_median(n=3),중간,"동일CAS n=3, 중앙값=0.1%, pct_status=ok",1852
+EyeIrritation6pack_PID827,Abamectin,71751-41-2,전략2_CASmedian_n>=3,6.0,동일CAS_median(n=6),중간,"동일CAS n=6, 중앙값=6.0%, pct_status=ok",1875
+EyeIrritation6pack_PID828,mol,138261-41-3,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=65),중간,"동일CAS n=65, 중앙값=2.5%, pct_status=ok",1878
+EyeIrritation6pack_PID852,Glycerin,56-81-5,전략2_CASmedian_n>=3,8.5,동일CAS_median(n=13),중간,"동일CAS n=13, 중앙값=8.5%, pct_status=ok",1944
+EyeIrritation6pack_PID856,480 g/L,21087-64-9,전략2_CASmedian_n>=3,75.0,동일CAS_median(n=5),중간,"동일CAS n=5, 중앙값=75.0%, pct_status=ok",1979
+EyeIrritation6pack_PID867,Glycerin,56-81-5,전략2_CASmedian_n>=3,8.5,동일CAS_median(n=13),중간,"동일CAS n=13, 중앙값=8.5%, pct_status=ok",2007
+EyeIrritation6pack_PID868,Fipronil,120068-37-3,전략2_CASmedian_n>=3,6.6,동일CAS_median(n=19),중간,"동일CAS n=19, 중앙값=6.6%, pct_status=ok",2008
+EyeIrritation6pack_PID869,Glyphosate,1071-83-6,전략2_CASmedian_n>=3,36.5,동일CAS_median(n=21),중간,"동일CAS n=21, 중앙값=36.5%, pct_status=cross_source_block_dropped:master_kept",2013
+EyeIrritation6pack_PID891,Rimsulfuron,122931-48-0,전략2_CASmedian_n>=3,25.0,동일CAS_median(n=11),중간,"동일CAS n=11, 중앙값=25.0%, pct_status=ok",2049
+EyeIrritation6pack_PID897,spirotetramat (ISO),203313-25-1,전략2_CASmedian_n>=3,22.4,동일CAS_median(n=3),중간,"동일CAS n=3, 중앙값=22.4%, pct_status=ok",2059
+EyeIrritation6pack_PID923,Glyphosate,1071-83-6,전략2_CASmedian_n>=3,36.5,동일CAS_median(n=21),중간,"동일CAS n=21, 중앙값=36.5%, pct_status=cross_source_block_dropped:master_kept",2130
+EyeIrritation6pack_PID951,"1-(4-chlorophenyl)-4,4-dimethyl-3-(1,2,4-triazol-1-ylmethyl)pentan-3-ol",107534-96-3,전략2_CASmedian_n>=3,10.0,동일CAS_median(n=53),중간,"동일CAS n=53, 중앙값=10.0%, pct_status=ok",2171
+EyeIrritation6pack_PID968,Limestone Calcite 50-60,1317-65-3,전략2_CASmedian_n>=3,23.0,동일CAS_median(n=3),중간,"동일CAS n=3, 중앙값=23.0%, pct_status=ok",2201
+EyeIrritation6pack_PID968,Bifenthrin Talstar <1.0,82657-04-3,전략2_CASmedian_n>=3,7.9,동일CAS_median(n=55),중간,"동일CAS n=55, 중앙값=7.9%, pct_status=ok",2202
+EyeIrritation6pack_PID976,"Synonyms : Thiencarbazone-methyl,Thiencarbazone",317815-83-1,전략2_CASmedian_n>=3,45.0,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=45.0%, pct_status=ok",2225
+EyeIrritation6pack_PID982,Glyphosate,1071-83-6,전략2_CASmedian_n>=3,36.5,동일CAS_median(n=21),중간,"동일CAS n=21, 중앙값=36.5%, pct_status=ok",2248
+EyeIrritation6pack_PID991,Thiophanate methyl,23564-05-8,전략2_CASmedian_n>=3,50.0,동일CAS_median(n=10),중간,"동일CAS n=10, 중앙값=50.0%, pct_status=ok",2274
+EyeIrritation6pack_PID998,Isoparaffinic Hydrocarbon 5-10,64742-47-8,전략2_CASmedian_n>=3,5.875,동일CAS_median(n=12),중간,"동일CAS n=12, 중앙값=5.9%, pct_status=ok",2291
+MIX100,Crystalline quartz (respirable),14808-60-7,전략2_CASmedian_n>=3,0.1,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=0.1%, pct_status=ok",2302
+MIX105,Ethylene Glycol,107-21-1,전략2_CASmedian_n>=3,10.0,동일CAS_median(n=6),중간,"동일CAS n=6, 중앙값=10.0%, pct_status=ok",2483
+MIX115,Kaolin clay NF Carrier,1332-58-7,전략2_CASmedian_n>=3,13.6,동일CAS_median(n=9),중간,"동일CAS n=9, 중앙값=13.6%, pct_status=ok",2607
+MIX117,Silica,14808-60-7,전략2_CASmedian_n>=3,0.1,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=0.1%, pct_status=ok",2610
+MIX126,3.1 Substance/Mixture,91465-08-6,전략2_CASmedian_n>=3,4.63,동일CAS_median(n=23),중간,"동일CAS n=23, 중앙값=4.6%, pct_status=ok",2641
+MIX139,"Solvent naphtha (petroleum), heavy aromatic",64742-94-5,전략2_CASmedian_n>=3,46.0,동일CAS_median(n=15),중간,"동일CAS n=15, 중앙값=46.0%, pct_status=ok",2672
+MIX141,Permethrin (ISO) >= 5 -<,52645-53-1,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=30),중간,"동일CAS n=30, 중앙값=2.5%, pct_status=ok",2682
+MIX151,Molecular Weight: 310.68,35367-38-5,전략2_CASmedian_n>=3,22.0,동일CAS_median(n=3),중간,"동일CAS n=3, 중앙값=22.0%, pct_status=ok",2715
+MIX161,Dinotefuran,165252-70-0,전략2_CASmedian_n>=3,20.0,동일CAS_median(n=17),중간,"동일CAS n=17, 중앙값=20.0%, pct_status=ok",2733
+MIX167,"Crystalline silica, quartz trace",14808-60-7,전략2_CASmedian_n>=3,0.1,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=0.1%, pct_status=ok",2756
+MIX185,Isopropylamine salt of glyphosate,38641-94-0,전략2_CASmedian_n>=3,41.0,동일CAS_median(n=5),중간,"동일CAS n=5, 중앙값=41.0%, pct_status=ok",2808
+MIX198,Carfentrazone-ethyl,128639-02-1,전략2_CASmedian_n>=3,0.395,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=0.4%, pct_status=cross_source_block_dropped:master_kept",2871
+MIX200,Tau-fluvalinate (-No),102851-06-9,전략2_CASmedian_n>=3,0.014,동일CAS_median(n=3),중간,"동일CAS n=3, 중앙값=0.0%, pct_status=ok",2879
+MIX200,Ethylene glycol (-No),107-21-1,전략2_CASmedian_n>=3,10.0,동일CAS_median(n=6),중간,"동일CAS n=6, 중앙값=10.0%, pct_status=ok",2881
+MIX206,Clothianidin,210880-92-5,전략2_CASmedian_n>=3,20.175,동일CAS_median(n=22),중간,"동일CAS n=22, 중앙값=20.2%, pct_status=ok",2903
+MIX206,Metofluthrin,240494-70-6,전략2_CASmedian_n>=3,31.439999999999998,동일CAS_median(n=8),중간,"동일CAS n=8, 중앙값=31.4%, pct_status=ok",2904
+MIX206,Piperonyl Butoxide,51-03-6,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=19),중간,"동일CAS n=19, 중앙값=2.5%, pct_status=ok",2905
+MIX206,Water >85,7732-18-5,전략2_CASmedian_n>=3,50.0,동일CAS_median(n=5),중간,"동일CAS n=5, 중앙값=50.0%, pct_status=ok",2906
+MIX207,Propiconazole 418 g/L,60207-90-1,전략2_CASmedian_n>=3,1.41,동일CAS_median(n=17),중간,"동일CAS n=17, 중앙값=1.4%, pct_status=ok",2908
+MIX207,Naphthalene 40 – 45 g/L,91-20-3,전략2_CASmedian_n>=3,4.6,동일CAS_median(n=13),중간,"동일CAS n=13, 중앙값=4.6%, pct_status=ok",2909
+MIX222,Identifiers,142459-58-3,전략2_CASmedian_n>=3,46.2,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=46.2%, pct_status=ok",2947
+MIX245,mol,52645-53-1,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=30),중간,"동일CAS n=30, 중앙값=2.5%, pct_status=ok",3017
+MIX248,article number: 22YE,1071-83-6,전략2_CASmedian_n>=3,36.5,동일CAS_median(n=21),중간,"동일CAS n=21, 중앙값=36.5%, pct_status=ok",3022
+MIX252,Glyphosate,1071-83-6,전략2_CASmedian_n>=3,36.5,동일CAS_median(n=21),중간,"동일CAS n=21, 중앙값=36.5%, pct_status=ok",3030
+MIX267,Imidacloprid 58.5 g/L,138261-41-3,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=65),중간,"동일CAS n=65, 중앙값=2.5%, pct_status=ok",3103
+MIX285,Limestone/Calcium Carbonate,1317-65-3,전략2_CASmedian_n>=3,23.0,동일CAS_median(n=3),중간,"동일CAS n=3, 중앙값=23.0%, pct_status=ok",3172
+MIX285,Crystalline Silica,14808-60-7,전략2_CASmedian_n>=3,0.1,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=0.1%, pct_status=ok",3173
+MIX292,TCM; PC Code 015804; . Given the minimal amount of new data received since the,317815-83-1,전략2_CASmedian_n>=3,45.0,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=45.0%, pct_status=ok",3202
+MIX294,"Distillates (petroleum), hydrotreated light >= 70 - <",64742-47-8,전략2_CASmedian_n>=3,5.875,동일CAS_median(n=12),중간,"동일CAS n=12, 중앙값=5.9%, pct_status=ok",3207
+MIX30,Sulfur 0-3,7704-34-9,전략2_CASmedian_n>=3,40.225,동일CAS_median(n=16),중간,"동일CAS n=16, 중앙값=40.2%, pct_status=ok",3238
+MIX30,Quartz (SiO2) 0-1,14808-60-7,전략2_CASmedian_n>=3,0.1,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=0.1%, pct_status=ok",3239
+MIX301,MCPP-P 150 g/L not listed,16484-77-8,전략2_CASmedian_n>=3,45.61,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=45.6%, pct_status=ok",3246
+MIX303,2-(4-Chloro-2-methylphenoxy)propanoic acid,93-65-2,전략2_CASmedian_n>=3,49.655,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=49.7%, pct_status=ok",3256
+MIX306,No,7732-18-5,전략2_CASmedian_n>=3,50.0,동일CAS_median(n=5),중간,"동일CAS n=5, 중앙값=50.0%, pct_status=ok",3266
+MIX307,3.1 Mixtures,1897-45-6,전략2_CASmedian_n>=3,38.5,동일CAS_median(n=29),중간,"동일CAS n=29, 중앙값=38.5%, pct_status=ok",3267
+MIX307,Hazardous components,70630-17-0,전략2_CASmedian_n>=3,1.7,동일CAS_median(n=19),중간,"동일CAS n=19, 중앙값=1.7%, pct_status=ok",3268
+MIX307,For explanation of abbreviations see section 16,2634-33-5,전략2_CASmedian_n>=3,10.0,동일CAS_median(n=19),중간,"동일CAS n=19, 중앙값=10.0%, pct_status=ok",3269
+MIX319,metsulfuron methyl >98,74223-64-6,전략2_CASmedian_n>=3,0.014,동일CAS_median(n=5),중간,"동일CAS n=5, 중앙값=0.0%, pct_status=ok",3321
+MIX321,"Petroleumdistillates,hydrotreatedlight < 10",64742-47-8,전략2_CASmedian_n>=3,5.875,동일CAS_median(n=12),중간,"동일CAS n=12, 중앙값=5.9%, pct_status=ok",3333
+MIX325,Pyrethrins,8003-34-7,전략2_CASmedian_n>=3,0.55,동일CAS_median(n=9),중간,"동일CAS n=9, 중앙값=0.6%, pct_status=ok",3347
+MIX325,PiperonylButoxide(PBO),51-03-6,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=19),중간,"동일CAS n=19, 중앙값=2.5%, pct_status=ok",3348
+MIX325,Permethrin,52645-53-1,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=30),중간,"동일CAS n=30, 중앙값=2.5%, pct_status=ok",3349
+MIX325,"Petroleumdistillates,hydrotreatedlight < 10",64742-47-8,전략2_CASmedian_n>=3,5.875,동일CAS_median(n=12),중간,"동일CAS n=12, 중앙값=5.9%, pct_status=ok",3350
+MIX337,Diflubenzuron,35367-38-5,전략2_CASmedian_n>=3,22.0,동일CAS_median(n=3),중간,"동일CAS n=3, 중앙값=22.0%, pct_status=duplicate_dropped",3415
+MIX341,Fipronil,120068-37-3,전략2_CASmedian_n>=3,6.6,동일CAS_median(n=19),중간,"동일CAS n=19, 중앙값=6.6%, pct_status=ok",3426
+MIX35,Bifenthrin,82657-04-3,전략2_CASmedian_n>=3,7.9,동일CAS_median(n=55),중간,"동일CAS n=55, 중앙값=7.9%, pct_status=ok",3446
+MIX35,Clothianidin,210880-92-5,전략2_CASmedian_n>=3,20.175,동일CAS_median(n=22),중간,"동일CAS n=22, 중앙값=20.2%, pct_status=ok",3447
+MIX352,Propylene glycol 3 - 7 Humectant,57-55-6,전략2_CASmedian_n>=3,4.0,동일CAS_median(n=8),중간,"동일CAS n=8, 중앙값=4.0%, pct_status=ok",3455
+MIX398,Water/Inactive Ingredients,7732-18-5,전략2_CASmedian_n>=3,50.0,동일CAS_median(n=5),중간,"동일CAS n=5, 중앙값=50.0%, pct_status=cross_source_block_dropped:ntp_ice_kept",3649
+MIX40,RN,129909-90-6,전략2_CASmedian_n>=3,58.25,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=58.2%, pct_status=ok",3664
+MIX401,"Synonyms : Penflufen,1H-Pyrazole-4-carboxamide, N-[2-(1,3-dimethylbutyl)phenyl]-5-fluoro-1,3-dimethyl",494793-67-8,전략2_CASmedian_n>=3,7.675,동일CAS_median(n=12),중간,"동일CAS n=12, 중앙값=7.7%, pct_status=ok",3669
+MIX403,Abamectin,71751-41-2,전략2_CASmedian_n>=3,6.0,동일CAS_median(n=6),중간,"동일CAS n=6, 중앙값=6.0%, pct_status=ok",3671
+MIX405,mol,138261-41-3,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=65),중간,"동일CAS n=65, 중앙값=2.5%, pct_status=ok",3678
+MIX425,Pinoxaden,243973-20-8,전략2_CASmedian_n>=3,4.976,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=5.0%, pct_status=cross_source_block_dropped:master_kept",3771
+MIX435,Esfenvalerate,66230-04-4,전략2_CASmedian_n>=3,0.1,동일CAS_median(n=7),중간,"동일CAS n=7, 중앙값=0.1%, pct_status=ok",3829
+MIX435,n-Octyl Bicycloheptene,113-48-4,전략2_CASmedian_n>=3,0.29,동일CAS_median(n=5),중간,"동일CAS n=5, 중앙값=0.3%, pct_status=ok",3830
+MIX435,"Petroleum distillates, 1-10",64742-47-8,전략2_CASmedian_n>=3,5.875,동일CAS_median(n=12),중간,"동일CAS n=12, 중앙값=5.9%, pct_status=ok",3831
+MIX435,Isobutane 10< - >15,75-28-5,전략2_CASmedian_n>=3,15.0,동일CAS_median(n=7),중간,"동일CAS n=7, 중앙값=15.0%, pct_status=ok",3832
+MIX458,Tebuconazole,107534-96-3,전략2_CASmedian_n>=3,10.0,동일CAS_median(n=53),중간,"동일CAS n=53, 중앙값=10.0%, pct_status=ok",3914
+MIX470,Quinclorac,84087-01-4,전략2_CASmedian_n>=3,2.1,동일CAS_median(n=6),중간,"동일CAS n=6, 중앙값=2.1%, pct_status=cross_source_block_dropped:master_kept",3981
+MIX491,Heavy aromatic naptha solvent,64742-94-5,전략2_CASmedian_n>=3,46.0,동일CAS_median(n=15),중간,"동일CAS n=15, 중앙값=46.0%, pct_status=cross_source_block_dropped:ntp_ice_kept",4041
+MIX491,"1,2,4-trimethylbenzene",95-63-6,전략2_CASmedian_n>=3,5.0,동일CAS_median(n=3),중간,"동일CAS n=3, 중앙값=5.0%, pct_status=cross_source_block_dropped:ntp_ice_kept",4042
+MIX491,Anionic/nonionic surfactant blend,91-20-3,전략2_CASmedian_n>=3,4.6,동일CAS_median(n=13),중간,"동일CAS n=13, 중앙값=4.6%, pct_status=cross_source_block_dropped:ntp_ice_kept",4043
+MIX492,Glyphosate,1071-83-6,전략2_CASmedian_n>=3,36.5,동일CAS_median(n=21),중간,"동일CAS n=21, 중앙값=36.5%, pct_status=cross_source_block_dropped:master_kept",4049
+MIX505,Deltamethrin,52918-63-5,전략2_CASmedian_n>=3,4.225,동일CAS_median(n=6),중간,"동일CAS n=6, 중앙값=4.2%, pct_status=ok",4095
+MIX509,Bifenthrin,82657-04-3,전략2_CASmedian_n>=3,7.9,동일CAS_median(n=55),중간,"동일CAS n=55, 중앙값=7.9%, pct_status=ok",4111
+MIX509,Pyraclostrobin,175013-18-0,전략2_CASmedian_n>=3,21.26,동일CAS_median(n=14),중간,"동일CAS n=14, 중앙값=21.3%, pct_status=ok",4112
+MIX509,Propylene glycol 5-10,57-55-6,전략2_CASmedian_n>=3,4.0,동일CAS_median(n=8),중간,"동일CAS n=8, 중앙값=4.0%, pct_status=ok",4113
+MIX513,"Synonyms : Trifloxysulfuron sodium,Trifloxysulfuron sodium salt",199119-58-9,전략2_CASmedian_n>=3,37.85,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=37.9%, pct_status=ok",4130
+MIX538,Cypermethrin,52315-07-8,전략2_CASmedian_n>=3,0.0625,동일CAS_median(n=12),중간,"동일CAS n=12, 중앙값=0.1%, pct_status=cross_source_block_dropped:master_kept",4248
+MIX543,Carbendazim,10605-21-7,전략2_CASmedian_n>=3,10.0,동일CAS_median(n=5),중간,"동일CAS n=5, 중앙값=10.0%, pct_status=ok",4273
+MIX552,Water To q.s,7732-18-5,전략2_CASmedian_n>=3,50.0,동일CAS_median(n=5),중간,"동일CAS n=5, 중앙값=50.0%, pct_status=ok",4308
+MIX560,Sodium Hydroxide 3,1310-73-2,전략2_CASmedian_n>=3,5.0,동일CAS_median(n=7),중간,"동일CAS n=7, 중앙값=5.0%, pct_status=ok",4336
+MIX58,Bifenthrin,82657-04-3,전략2_CASmedian_n>=3,7.9,동일CAS_median(n=55),중간,"동일CAS n=55, 중앙값=7.9%, pct_status=ok",4414
+MIX59,Bifenthrin,82657-04-3,전략2_CASmedian_n>=3,7.9,동일CAS_median(n=55),중간,"동일CAS n=55, 중앙값=7.9%, pct_status=ok",4437
+MIX597,Deltamethrin,52918-63-5,전략2_CASmedian_n>=3,4.225,동일CAS_median(n=6),중간,"동일CAS n=6, 중앙값=4.2%, pct_status=ok",4475
+MIX597,Kathon,55965-84-9,전략2_CASmedian_n>=3,0.0009125,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=0.0%, pct_status=ok",4476
+MIX606,Bifenthrin,82657-04-3,전략2_CASmedian_n>=3,7.9,동일CAS_median(n=55),중간,"동일CAS n=55, 중앙값=7.9%, pct_status=ok",4539
+MIX606,Imidacloprid,138261-41-3,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=65),중간,"동일CAS n=65, 중앙값=2.5%, pct_status=ok",4540
+MIX61,Trifloxystrobin,141517-21-7,전략2_CASmedian_n>=3,13.3,동일CAS_median(n=11),중간,"동일CAS n=11, 중앙값=13.3%, pct_status=ok",4550
+MIX613,3-Iodo-2-propynylbutylcarbamate,55406-53-6,전략2_CASmedian_n>=3,3.0,동일CAS_median(n=10),중간,"동일CAS n=10, 중앙값=3.0%, pct_status=ok",4563
+MIX613,Propiconazole,60207-90-1,전략2_CASmedian_n>=3,1.41,동일CAS_median(n=17),중간,"동일CAS n=17, 중앙값=1.4%, pct_status=ok",4564
+MIX625,Ethylene Glycol,107-21-1,전략2_CASmedian_n>=3,10.0,동일CAS_median(n=6),중간,"동일CAS n=6, 중앙값=10.0%, pct_status=ok",4592
+MIX64,RN,125401-92-5,전략2_CASmedian_n>=3,80.0,동일CAS_median(n=5),중간,"동일CAS n=5, 중앙값=80.0%, pct_status=ok",4628
+MIX651,Glycerin 7.6,56-81-5,전략2_CASmedian_n>=3,8.5,동일CAS_median(n=13),중간,"동일CAS n=13, 중앙값=8.5%, pct_status=ok",4657
+MIX654,Propylene Glycol 10-15,57-55-6,전략2_CASmedian_n>=3,4.0,동일CAS_median(n=8),중간,"동일CAS n=8, 중앙값=4.0%, pct_status=ok",4667
+MIX670,Bifenthrin,82657-04-3,전략2_CASmedian_n>=3,7.9,동일CAS_median(n=55),중간,"동일CAS n=55, 중앙값=7.9%, pct_status=ok",4710
+MIX684,Acetic Acid,64-19-7,전략2_CASmedian_n>=3,82.1,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=82.1%, pct_status=ok",4742
+MIX685,Acetic Acid,64-19-7,전략2_CASmedian_n>=3,82.1,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=82.1%, pct_status=ok",4747
+MIX698,Imidacloprid,138261-41-3,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=65),중간,"동일CAS n=65, 중앙값=2.5%, pct_status=ok",4777
+MIX711,Acetic Acid,64-19-7,전략2_CASmedian_n>=3,82.1,동일CAS_median(n=4),중간,"동일CAS n=4, 중앙값=82.1%, pct_status=ok",4820
+MIX79,Permethrin,52645-53-1,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=30),중간,"동일CAS n=30, 중앙값=2.5%, pct_status=ok",4922
+MIX79,Piperonyl butoxide,51-03-6,전략2_CASmedian_n>=3,2.5,동일CAS_median(n=19),중간,"동일CAS n=19, 중앙값=2.5%, pct_status=ok",4923
+MIX790,Sulfuric acid,7664-93-9,전략2_CASmedian_n>=3,5.0,동일CAS_median(n=5),중간,"동일CAS n=5, 중앙값=5.0%, pct_status=ok",4928
+MIX805,Sodium hydroxide,1310-73-2,전략2_CASmedian_n>=3,5.0,동일CAS_median(n=7),중간,"동일CAS n=7, 중앙값=5.0%, pct_status=ok",4971
+MIX830,Molecular Weight: 510.38,69770-45-2,전략2_CASmedian_n>=3,95.1,동일CAS_median(n=7),중간,"동일CAS n=7, 중앙값=95.1%, pct_status=ok",5036
+MIX98,Sulfur,7704-34-9,전략2_CASmedian_n>=3,40.225,동일CAS_median(n=16),중간,"동일CAS n=16, 중앙값=40.2%, pct_status=ok",5257
+EyeIrritation6pack_PID1044,Methylene Chloride,75-09-0,전략3_pctvalue,90.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,192
+EyeIrritation6pack_PID23,Copper(II) hydroxide,20427-59-2,전략3_pctvalue,97.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,493
+EyeIrritation6pack_PID413,"({2-Chloro-4-fluoro-5-[(3-oxotetrahydro-1H,3H-[1,3,4]thiadiazolo[3,4-a]pyridazin-1-ylidene)amino]phenyl}sulfanyl)acetic acid",149253-65-6,전략3_pctvalue,4.79,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:master_kept,888
+EyeIrritation6pack_PID457,trifluoromethyl)-2- (trifluoromethyl,,전략3_pctvalue,51.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,945
+EyeIrritation6pack_PID471,Chlorfenapyr,122453-73-0,전략3_pctvalue,0.5,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:master_kept,1007
+EyeIrritation6pack_PID478,Fenpyroximate,134098-61-6,전략3_pctvalue,5.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:master_kept,1029
+EyeIrritation6pack_PID621,Water 7732‐18‐5,,전략3_pctvalue,88.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,1362
+EyeIrritation6pack_PID621,Urea Monohydrochloride 506‐89‐8,,전략3_pctvalue,5.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,1363
+EyeIrritation6pack_PID621,Ethoxylated Alcohol 68439‐46‐3,,전략3_pctvalue,5.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,1364
+EyeIrritation6pack_PID674,"Hexanedioic acid, monomethyl ester",627-91-8,전략3_pctvalue,95.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,1477
+EyeIrritation6pack_PID77,Aminopyralid,150114-71-9,전략3_pctvalue,95.3,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:master_kept,1670
+MIX10,Copper(II) hydroxide,20427-59-2,전략3_pctvalue,97.5,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,2297
+MIX13,Abamectin Component B1a,65195-55-3,전략3_pctvalue,92.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:master_kept,2652
+MIX15,Avermectin B1b,65195-56-4,전략3_pctvalue,92.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:master_kept,2712
+MIX198,Fluthiacet-methyl,149253-65-6,전략3_pctvalue,4.79,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:master_kept,2872
+MIX210,cid:131) Satisfaction Guaranteed (or your money back) (cid:131) Kills Japanese beetles and other leaf feeding beetles,,전략3_pctvalue,100.0,pct_value(SDS원시추출),중간,pct_status=total_row_dropped,2914
+MIX320,Water 7732‐18‐5,,전략3_pctvalue,88.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,3323
+MIX320,Urea Monohydrochloride 506‐89‐8,,전략3_pctvalue,5.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,3324
+MIX320,Ethoxylated Alcohol 68439‐46‐3,,전략3_pctvalue,5.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,3325
+MIX333,Adipic Acid Monomethyl Ester,627-91-8,전략3_pctvalue,98.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,3392
+MIX360,Neat,,전략3_pctvalue,100.0,pct_value(SDS원시추출),중간,pct_status=total_row_dropped,3484
+MIX379,METIlYLCARBAMA'IE,,전략3_pctvalue,0.665,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,3568
+MIX379,"2,2-DIClll..OROVINYL DIME1HYL PHOSPHA'IE; RELA'IED",,전략3_pctvalue,0.186,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,3569
+MIX379,COMPOUNDS,,전략3_pctvalue,0.014,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,3570
+MIX379,INERT INGREDIENTS: (CONTAINS PETROLEUM),,전략3_pctvalue,99.135,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,3571
+MIX379,Other/Inert Ingredients,,전략3_pctvalue,99.135,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,3572
+MIX398,Hydrofluorosilicic Acid,16961-83-4,전략3_pctvalue,25.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,3648
+MIX406,Methomyl (900g/kg) – MSDS 2440 Page 1 of,,전략3_pctvalue,90.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,3680
+MIX491,Clethodim,99129-21-2,전략3_pctvalue,36.7,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4040
+MIX526,0.2 mg/M3 0.2 mg/M3 N/A No,,전략3_pctvalue,75.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4184
+MIX532,Food 30.8 25.4 22.9,,전략3_pctvalue,30.8,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4211
+MIX532,Beverages and tobacco 2.8 2.9 3.4,,전략3_pctvalue,2.8,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4212
+MIX532,otal 33.6 28.3 26.3,,전략3_pctvalue,33.6,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4213
+MIX532,Crude materials 1.7 2.9 0.8,,전략3_pctvalue,1.7,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4214
+MIX532,Fuels 28.2 23.1 24.7,,전략3_pctvalue,28.2,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4215
+MIX532,Oils and fats 0.4 0.2 0.2,,전략3_pctvalue,0.4,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4216
+MIX532,otal 30.3 26.2 25.7,,전략3_pctvalue,30.3,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4217
+MIX532,Chemicals 17.2 14.7 15.3,,전략3_pctvalue,17.2,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4218
+MIX532,"Wood, textile, metals 12.1 13.5 13.1",,전략3_pctvalue,12.1,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4219
+MIX532,Machinery and transportation equipment 0.3 1.2 2.7,,전략3_pctvalue,0.3,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4220
+MIX532,"Clothing, footwear, and similar items 6.4 16.0 16.8",,전략3_pctvalue,6.4,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4221
+MIX532,otal 36.0 45.4 47.9,,전략3_pctvalue,36.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4222
+MIX532,Miscellaneous 0.1 0.1 0.1,,전략3_pctvalue,0.1,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4223
+MIX532,9    Miscellaneous                          0.1    0.1     0.1       7.9,,전략3_pctvalue,100.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4224
+MIX532,are of manufactures in total imports 50 54,,전략3_pctvalue,50.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4225
+MIX532,are of manufactures in imports from CARIFTA sources 25 33,,전략3_pctvalue,25.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4226
+MIX532,hare of manufactures in total exports 4 10,,전략3_pctvalue,4.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4227
+MIX532,are of manufactures in exports to CARIFTA destinations 26 34,,전략3_pctvalue,26.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4228
+MIX532,ARIFTA imports 8 9,,전략3_pctvalue,8.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4229
+MIX537,Methylene Chloride,75-09-0,전략3_pctvalue,90.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4242
+MIX563,Free,,전략3_pctvalue,100.0,pct_value(SDS원시추출),중간,pct_status=total_row_dropped,4348
+MIX575,used at up to in face and neck formulations. Macrocystis Pyrifera (Kelp) Extract is reported,,전략3_pctvalue,40.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4401
+MIX575,to be used at up to in eye lotions. The other ingredients are reported to be used at 6% or,,전략3_pctvalue,36.4,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4402
+MIX609,Free,,전략3_pctvalue,100.0,pct_value(SDS원시추출),중간,pct_status=total_row_dropped,4547
+MIX702,Ethylene sulfite (Glycol sulfite),,전략3_pctvalue,98.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4794
+MIX781,Ethylene glycol monobutyl ether,,전략3_pctvalue,99.0,pct_value(SDS원시추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4905
+EyeIrritation6pack_PID219,"Other, non-hazardous ingredients",,전략1_ingpctraw,45.0,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,444
+EyeIrritation6pack_PID219,Other/Inert Ingredients,,전략1_ingpctraw,45.0,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,446
+EyeIrritation6pack_PID352,Modified Aromatic Sulfonate Salt,,전략1_ingpctraw,3.0,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,690
+EyeIrritation6pack_PID352,Titanium dioxide,,전략1_ingpctraw,0.75,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,692
+EyeIrritation6pack_PID352,Quartz,,전략1_ingpctraw,0.225,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,693
+EyeIrritation6pack_PID352,Other/Inert Ingredients,,전략1_ingpctraw,72.0,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,694
+EyeIrritation6pack_PID364,Substituted Fatty Amide,,전략1_ingpctraw,12.5,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,733
+EyeIrritation6pack_PID364,Ethoxylated Alkyl Ether,,전략1_ingpctraw,22.5,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,734
+EyeIrritation6pack_PID364,Other/Inert Ingredients,,전략1_ingpctraw,26.9,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,736
+EyeIrritation6pack_PID412,Isopropylalcohol,,전략1_ingpctraw,20.5,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,879
+EyeIrritation6pack_PID412,Non-regulatedingredients,,전략1_ingpctraw,85.0,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,880
+EyeIrritation6pack_PID536,212-377-0 Substance with a Community Press. Gas: H280,,전략1_ingpctraw,80.0,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,1187
+EyeIrritation6pack_PID536,200-857-2 Substance with a Community Flam. Gas 1: H220; Press. Gas: H280,,전략1_ingpctraw,5.5,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,1188
+EyeIrritation6pack_PID536,Press. Gas: H280,,전략1_ingpctraw,5.5,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,1189
+EyeIrritation6pack_PID776,Sulfur,,전략1_ingpctraw,8.5,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,1703
+EyeIrritation6pack_PID776,Polymer coating () Mixture,,전략1_ingpctraw,5.0,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,1705
+EyeIrritation6pack_PID903,"Solvent naphtha (petroleum), heavy arom",,전략1_ingpctraw,1.65,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,2076
+EyeIrritation6pack_PID903,"Benzenesulfonic acid, mono-C11-13",,전략1_ingpctraw,3.0,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,2077
+EyeIrritation6pack_PID903,N-methyl-2-pyrrolidone,,전략1_ingpctraw,0.5,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,2078
+EyeIrritation6pack_PID903,Balance Not available,,전략1_ingpctraw,49.34999999999999,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,2079
+EyeIrritation6pack_PID997,Methyl Methacrylate,,전략1_ingpctraw,65.0,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,2286
+EyeIrritation6pack_PID997,Non-Hazardous Ingredients,,전략1_ingpctraw,35.0,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,2287
+EyeIrritation6pack_PID997,Other/Inert Ingredients,,전략1_ingpctraw,35.0,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,2288
+MIX109,"Other, non-hazardous ingredients",,전략1_ingpctraw,45.0,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,2588
+MIX109,Other/Inert Ingredients,,전략1_ingpctraw,45.0,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,2590
+MIX412,Copper hydroxide 75-79,,전략1_ingpctraw,77.0,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,3698
+MIX412,"Crystalline silica, quartz <0.1",,전략1_ingpctraw,0.1,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,3699
+MIX412,Chemical Synonyms: Silicone dioxide; SiO,,전략1_ingpctraw,0.1,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,3700
+MIX541,Surfactant,,전략1_ingpctraw,4.0,ing_pct_raw(원본추출),중간,pct_status=cross_source_block_dropped:ntp_ice_kept,4263

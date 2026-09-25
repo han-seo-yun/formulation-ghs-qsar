@@ -1,0 +1,5 @@
+﻿검수항목,대상행수,자동승인,근거,위험,pct_status_위험제외,검수결과
+전략4_exact: ing2_pct_value → ing_pct_best,92,92,제형별 2차 수집 완료된 exact 농도. pct_status 위험 행은 제외됨.,range/max/min 타입(67행)은 단일값 아님 — 보류.,전략4 대상 중 pct_status 위험행 0개 포함 (v1 버그 수정),PASS
+전략2_CASmedian: 동일 CAS median (ref_n>=3),238,238,동일 유효성분은 제형 간 농도가 일정한 경향. ref_n>=3으로 중앙값 신뢰도 확보.,ref_n<3 행은 보류. 제형type이 다르면 농도가 다를 수 있음.,전략2 대상 중 pct_status 위험행 0개 포함,"PASS (단, ref_n>=3 필터링으로 이전 대비 168→347→ ? 행으로 축소됨)"
+전략3: pct_value → ing_pct_best,122,122,SDS 원시 추출 농도값 존재. pct_status 위험 행 제외.,pct_status 'cross_source_block_dropped:ntp_ice_kept' etc. — 안전 행만 승인.,,PASS
+pct_status 위험 행 제외 (전체),139,0,'unrecoverable_blanked'(71행)·'nonchem_name_blanked'(68행)는 원래 농도가 기록되지 않은 행.,이 행들을 채우면 '값을 만들지 않는다' 규약 위반.,,PASS — v1의 90개 포함 버그 수정. v2 오버레이에 위험 행 0개.

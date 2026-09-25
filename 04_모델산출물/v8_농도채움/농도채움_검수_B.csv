@@ -1,0 +1,8 @@
+﻿pct_status,행수,채움제외,사유
+ok,1788,False,검수 후 판단 가능
+cross_source_block_dropped:ntp_ice_kept,149,False,검수 후 판단 가능
+unrecoverable_blanked,71,True,원래 농도 열이 비어있거나 비화학 성분 — 어떤 전략으로도 채우지 않음
+nonchem_name_blanked,68,True,원래 농도 열이 비어있거나 비화학 성분 — 어떤 전략으로도 채우지 않음
+cross_source_block_dropped:master_kept,29,False,검수 후 판단 가능
+total_row_dropped,15,False,검수 후 판단 가능
+duplicate_dropped,1,False,검수 후 판단 가능

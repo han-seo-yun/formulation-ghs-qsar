@@ -159,7 +159,11 @@ for ep in EPS:
         per = {t: float(na[SUBGROUP[f"{ep}__{t}"]].mean()) for t in TIERS}
         spread = max(per.values()) - min(per.values())
         ROWS_A2.append({
-            "endpoint": ep, "노선": lane,
+            # 결측률은 **arm 열 전체의 행평균**이라 arm 이 바뀌면 값도 바뀌고
+            # 0.05·0.15 문턱 판정까지 움직인다. 어느 열 수 기준인지 남겨야
+            # 재실행분과 종전분을 같은 표에서 비교하지 않는다(감사 A 행은 이미
+            # `열수` 를 적는다).
+            "endpoint": ep, "노선": lane, "열수": len(ARM[f"{lane}단독"]),
             **{f"결측률_{t}": round(per[t], 4) for t in TIERS},
             **{f"유병률_{t}": round(prev[t], 4) for t in TIERS},
             "결측률_층간최대차": round(spread, 4),

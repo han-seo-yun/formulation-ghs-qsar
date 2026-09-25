@@ -13,6 +13,42 @@
     "ph_best"
   ],
   "미판정_처리": "어느 arm 에도 넣지 않는다. 규약 §5-2 결정 후 재실행",
+  "피처정리_제외": {
+    "결정": "2026-09-21 총책임자. `L2단독` 42열 전수 점검에서 확인한 설계 결함",
+    "출처": "lib_model.FEAT_DROP",
+    "열": {
+      "죽은열": [
+        "ct_not_applicable"
+      ],
+      "중복쌍": [
+        "ct_eye_ord",
+        "ct_skin_ord",
+        "ct_sens_ord",
+        "f_pct_active"
+      ],
+      "감작CT": [
+        "f_ct_sens_add",
+        "f_ct_sens_cat_1",
+        "f_ct_sens_cat_NC",
+        "f_ct_sens_cat___NA__",
+        "f_ct_sens_ord",
+        "f_ct_sens_s1"
+      ]
+    },
+    "열수": 11,
+    "적용범위": "모든 arm. 노선 판정표(피처노선_판정.csv)에는 그대로 남긴다 — 노선 귀속은 감사 기록이고 여기서 빼는 것은 대표 자격뿐이다",
+    "실측비용": "04_모델산출물/v8_노선2정리/. 중복쌍·죽은열은 무비용, 감작 CT 는 눈 MCC −0.062(문서독립 층 −0.045). AUC 게이트 판정은 전후 모두 미달",
+    "비용측정한_arm": [
+      "L2단독"
+    ],
+    "비용_미측정_arm": [
+      "L2+결합",
+      "L2+L1",
+      "L2+L3",
+      "전체_노선혼합"
+    ],
+    "미측정_주의": "제외는 총책임자 결정으로 8개 arm 전부에 적용했지만, 비용을 실측한 것은 `L2단독` 뿐이다. 나머지 4개(점증 ablation 부가 행)의 제외 비용은 재실행 결과로 확인해야 하며, `L2단독` 수치를 그쪽에 옮겨 적으면 안 된다"
+  },
   "L2L3결합_이유": "두 정보원이 다 있어야 계산되는 열. 단독 arm 에 넣으면 그 노선의 가설이 반증 불가가 된다. 전하별 농도 6열(전하 클래스가 RDKit SMARTS 유래) · 농도가중 디스크립터 19열 · 농도×구조량 상호작용 3열.",
   "L2L3결합_열": [
     "f_BertzCT_wmean",
@@ -101,10 +137,6 @@
       "pc2_vp"
     ],
     "L2단독": [
-      "ct_eye_ord",
-      "ct_not_applicable",
-      "ct_sens_ord",
-      "ct_skin_ord",
       "f_ct_eye_add",
       "f_ct_eye_cat_1",
       "f_ct_eye_cat_2A",
@@ -113,12 +145,6 @@
       "f_ct_eye_ord",
       "f_ct_eye_s1",
       "f_ct_eye_s2",
-      "f_ct_sens_add",
-      "f_ct_sens_cat_1",
-      "f_ct_sens_cat_NC",
-      "f_ct_sens_cat___NA__",
-      "f_ct_sens_ord",
-      "f_ct_sens_s1",
       "f_ct_skin_add",
       "f_ct_skin_cat_1",
       "f_ct_skin_cat_2",
@@ -129,7 +155,6 @@
       "f_ct_skin_s2",
       "f_has_synergist",
       "f_max_pct",
-      "f_pct_active",
       "f_pct_active_presumed",
       "f_pct_carrier_inert",
       "f_pct_fragrance_dye",
@@ -245,10 +270,6 @@
       "f_tanimoto_min"
     ],
     "L2+결합": [
-      "ct_eye_ord",
-      "ct_not_applicable",
-      "ct_sens_ord",
-      "ct_skin_ord",
       "f_BertzCT_wmean",
       "f_FractionCSP3_wmean",
       "f_HallKierAlpha_wmean",
@@ -273,12 +294,6 @@
       "f_ct_eye_ord",
       "f_ct_eye_s1",
       "f_ct_eye_s2",
-      "f_ct_sens_add",
-      "f_ct_sens_cat_1",
-      "f_ct_sens_cat_NC",
-      "f_ct_sens_cat___NA__",
-      "f_ct_sens_ord",
-      "f_ct_sens_s1",
       "f_ct_skin_add",
       "f_ct_skin_cat_1",
       "f_ct_skin_cat_2",
@@ -292,7 +307,6 @@
       "f_max_alkyl_chain_wmean",
       "f_max_pct",
       "f_n_structural_alerts_wmean",
-      "f_pct_active",
       "f_pct_active_presumed",
       "f_pct_carrier_inert",
       "f_pct_fragrance_dye",
@@ -445,10 +459,6 @@
       "f_tanimoto_min"
     ],
     "L2+L1": [
-      "ct_eye_ord",
-      "ct_not_applicable",
-      "ct_sens_ord",
-      "ct_skin_ord",
       "f_ct_eye_add",
       "f_ct_eye_cat_1",
       "f_ct_eye_cat_2A",
@@ -457,12 +467,6 @@
       "f_ct_eye_ord",
       "f_ct_eye_s1",
       "f_ct_eye_s2",
-      "f_ct_sens_add",
-      "f_ct_sens_cat_1",
-      "f_ct_sens_cat_NC",
-      "f_ct_sens_cat___NA__",
-      "f_ct_sens_ord",
-      "f_ct_sens_s1",
       "f_ct_skin_add",
       "f_ct_skin_cat_1",
       "f_ct_skin_cat_2",
@@ -473,7 +477,6 @@
       "f_ct_skin_s2",
       "f_has_synergist",
       "f_max_pct",
-      "f_pct_active",
       "f_pct_active_presumed",
       "f_pct_carrier_inert",
       "f_pct_fragrance_dye",
@@ -541,10 +544,6 @@
       "pc2_vp"
     ],
     "L2+L3": [
-      "ct_eye_ord",
-      "ct_not_applicable",
-      "ct_sens_ord",
-      "ct_skin_ord",
       "f_BertzCT_max",
       "f_BertzCT_mean",
       "f_BertzCT_min",
@@ -633,12 +632,6 @@
       "f_ct_eye_ord",
       "f_ct_eye_s1",
       "f_ct_eye_s2",
-      "f_ct_sens_add",
-      "f_ct_sens_cat_1",
-      "f_ct_sens_cat_NC",
-      "f_ct_sens_cat___NA__",
-      "f_ct_sens_ord",
-      "f_ct_sens_s1",
       "f_ct_skin_add",
       "f_ct_skin_cat_1",
       "f_ct_skin_cat_2",
@@ -664,7 +657,6 @@
       "f_n_structural_alerts_min",
       "f_n_structural_alerts_range",
       "f_n_structural_alerts_std",
-      "f_pct_active",
       "f_pct_active_presumed",
       "f_pct_carrier_inert",
       "f_pct_fragrance_dye",
@@ -683,10 +675,6 @@
       "f_tanimoto_min"
     ],
     "전체_노선혼합": [
-      "ct_eye_ord",
-      "ct_not_applicable",
-      "ct_sens_ord",
-      "ct_skin_ord",
       "f_BertzCT_max",
       "f_BertzCT_mean",
       "f_BertzCT_min",
@@ -791,12 +779,6 @@
       "f_ct_eye_ord",
       "f_ct_eye_s1",
       "f_ct_eye_s2",
-      "f_ct_sens_add",
-      "f_ct_sens_cat_1",
-      "f_ct_sens_cat_NC",
-      "f_ct_sens_cat___NA__",
-      "f_ct_sens_ord",
-      "f_ct_sens_s1",
       "f_ct_skin_add",
       "f_ct_skin_cat_1",
       "f_ct_skin_cat_2",
@@ -825,7 +807,6 @@
       "f_n_structural_alerts_range",
       "f_n_structural_alerts_std",
       "f_n_structural_alerts_wmean",
-      "f_pct_active",
       "f_pct_active_presumed",
       "f_pct_carrier_inert",
       "f_pct_fragrance_dye",

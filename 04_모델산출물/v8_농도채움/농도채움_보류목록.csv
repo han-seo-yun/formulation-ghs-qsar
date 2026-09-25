@@ -1,0 +1,284 @@
+﻿Formulation_ID,ingredient_name,cas,strategy,value,src,confidence,detail,idx,보류사유
+EyeIrritation6pack_PID242,Silicon dioxide (chemically prepared),112945-52-5,전략2_CASmedian_n<3,0.1,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",512,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX1067,Dimethylacetamide,127-19-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2560,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX355,Propoxycarbazone-sodium,181274-15-7,전략2_CASmedian_n<3,5.755,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",3460,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+Cancer_PID_108,Lamivudine,134678-17-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID243,Chlorimuron Ethyl 10.5,90982-32-4,전략2_CASmedian_n<3,16.85,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",515,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX887,Hydroxycitronellal,107-75-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",5123,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID893,Enniatin B,917-13-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2054,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID243,Silicon dioxide (chemically prepared),112945-52-5,전략2_CASmedian_n<3,0.1,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",519,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX260,"Hydrofluoricacid T,C,R34",7664-39-3,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3078,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID896,Spirodiclofen,148477-71-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2058,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX890,Oil of lovage pure,8016-31-7,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",5128,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID897,· Index number:607,711-00-0,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2060,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID899,spiroxamine >98,118134-30-8,전략2_CASmedian_n<3,31.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",2061,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID707,CYANURIC ACID,108-80-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1551,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX47,hydramethylnon,67485-29-4,전략2_CASmedian_n<3,0.37,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",3972,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID708,Cellulose >= 30 - <,9004-34-6,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1554,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID708,Losartan >= 30 - <,124750-99-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1555,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+Cancer_PID_6,"1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin",57653-85-7,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",20,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+Cancer_PID_6,"1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin",19408-74-3,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",21,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID708,Starch >= 10 - <,9005-25-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1556,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX510,Emamectin benzoate ≤10,155569-91-8,전략2_CASmedian_n<3,55.0,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",4119,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+Cancer_PID_959,Polychlorinated Biphenyls (PCBs),1336-36-3,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",27,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+Cancer_PID_959,PCB 118,31508-00-6,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",28,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+Cancer_PID_97,"Asbestos, Amosite",12172-73-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",29,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX642,Butyrohydrazide,3538-65-6,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4635,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX512,"Alcohols, C12-16-alkyl ethers, propoxylated, aminated",176022-82-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4127,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+Cancer_PID_98,Chrysotile,12001-29-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",32,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+Cancer_PID_97,"1,1-Dimethylhydrazine",57-14-7,전략2_CASmedian_n<3,98.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",31,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID493,Antimony Trioxide Grp. 2B: Possible human carc. International Agency for Research on Cancer,1309-64-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1052,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID716,Propoxycarbazone-sodium,181274-15-7,전략2_CASmedian_n<3,5.755,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",1565,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID495,Spinosad A,131929-60-7,전략2_CASmedian_n<3,0.001,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",1060,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID495,Spinosad D,131929-63-0,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1061,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID717,Propoxycarbazone-sodium,181274-15-7,전략2_CASmedian_n<3,5.755,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",1567,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX391,Cellulose >= 30 - <,9004-34-6,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3621,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX391,Losartan >= 30 - <,124750-99-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3622,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX391,Starch >= 10 - <,9005-25-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3623,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX651,Myclobutanil 21.7,88671-89-0,전략2_CASmedian_n<3,9.7,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",4656,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX654,"Alcohols, C9 – C11, ethoxylated 1 <",68439-46-3,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4668,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID276,3.2 Hazardous components,872-50-4,전략2_CASmedian_n<3,45.3,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",573,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX276,Toluene,108-88-3,전략2_CASmedian_n<3,40.0,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",3140,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX399,"E This section includes the formula, formula n-Butyl alcohol CH 3 (CH 2 ) 2 CH 2 OH",71-36-3,전략2_CASmedian_n<3,0.3,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",3652,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID737,Myclobutanil 21.7,88671-89-0,전략2_CASmedian_n<3,9.7,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",1606,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX936,"2,4-DIMETHYL-2-(1,1,4,4 TETRAMETHYLTETRALIN-6-YL) 1,3-DIOXOLANE (TRANS & CIS ISOMERS)",131812-67-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",5191,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID288,Index No 607,421-00-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",589,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID289,"Synonyms : cypermethrin,Cypermethrin, High Effect",86753-92-6,전략2_CASmedian_n<3,96.7,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",590,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID740,"E This section includes the formula, formula n-Butyl alcohol CH 3 (CH 2 ) 2 CH 2 OH",71-36-3,전략2_CASmedian_n<3,0.3,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",1614,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX28,Acetamiprid,135410-20-7,전략2_CASmedian_n<3,0.26,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",3153,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX126,3.2 Hazardous components,872-50-4,전략2_CASmedian_n<3,45.3,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",2642,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX380,Isopropyl Myristate 30.00,110-27-0,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3578,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID293,mol,121552-61-2,전략2_CASmedian_n<3,100.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",596,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID502,"Hydrofluoricacid T,C,R34",7664-39-3,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1109,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX403,Avermectin B1b,65195-56-4,전략2_CASmedian_n<3,92.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",3672,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID928,MCPB sodium salt (active ingredient),6062-26-6,전략2_CASmedian_n<3,41.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",2138,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID928,MCPA sodium salt (active ingredient),3653-48-3,전략2_CASmedian_n<3,3.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",2139,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID300,"Paraffin oils (petroleum), catalytic dewaxed >= 70 -<",64742-71-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",602,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID301,"Synonyms : 1-Decene,decene",872-05-9,전략2_CASmedian_n<3,88.3,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",604,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX380,Geraniol 5.00,106-24-1,전략2_CASmedian_n<3,17.28,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",3580,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX405,Index No 612,252-00-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3679,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX285,Sodium Carbonate,497-19-8,전략2_CASmedian_n<3,20.0,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",3174,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX53,Metaflumizone HYDRAZINECARBOXAMIDE,139968-49-3,전략2_CASmedian_n<3,0.0615,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",4199,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID934,Zinc alkyl dithiophosphate ≥5 - <10,68649-42-3,전략2_CASmedian_n<3,0.5,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",2152,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX285,Sodium Dodecylbenzene Sulfonate,25155-30-0,전략2_CASmedian_n<3,10.0,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",3175,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX285,Trichloroisocyanuric Acid,87-90-1,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3176,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID756,"Lignosulfonic acid, sodium salt",8061-51-6,전략2_CASmedian_n<3,1.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",1643,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX960,Summer Savory (URL3 기재 CAS no.),84775-98-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",5231,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID508,· Index number:608,55-00-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1136,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID511,Index No 613,58-00-2,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1140,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX966,Undecylenic aldehyde,112-45-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",5237,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID938,Molecular Weight : 294.10,6132-04-3,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2166,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID514,Index No 607,315-00-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1143,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX141,"Paraffin oils (petroleum), catalytic dewaxed >= 70 -<",64742-71-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2681,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID516,Index No (GB CLP) 607,315-00-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1146,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID764,mol,7440-06-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1657,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID951,· Index number:603,197-00-7,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2172,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID1029,Potassium salt of glyphosate,70901-12-1,전략2_CASmedian_n<3,38.5,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",133,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID1029,"Alcohols, C12-16-alkyl ethers, propoxylated, aminated",176022-82-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",134,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX98,Dolomite granules,16389-88-1,전략2_CASmedian_n<3,85.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",5254,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX98,Urea Granular,57-13-6,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",5255,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX98,Potassium Chloride,7447-40-7,전략2_CASmedian_n<3,10.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",5256,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID961,Terbuthylazine,5915-41-3,전략2_CASmedian_n<3,4.0,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",2189,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID961,· Index number:613,323-00-2,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2190,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX417,Potassium salt of glyphosate,70901-12-1,전략2_CASmedian_n<3,38.5,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",3732,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID968,Potassium Sulfate 1-10,7778-80-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2200,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX991,Commiphora Myrrha;: -7. Section 3. Composition / information on ingredients. Name. EC. REACH Registration. No.. Contains,9000-45-7,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",5278,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID970,Ammonium Polyphosphate Solution 00-10,68333-79-9,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2207,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID970,Potassium Dihydrogen Phosphate 00-10,7778-77-0,전략2_CASmedian_n<3,31.1,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",2208,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID970,"Potassium Phosphate, Dibasic KH PO 00-10",7758-11-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2209,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX30,Calcium Carbonate 15-90,471-34-1,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3231,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX30,Urea 15-40,57-13-6,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3232,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX30,Potassium Chloride 5-20,7447-40-7,전략2_CASmedian_n<3,10.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",3233,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID971,Limestone Dolomite 80-90,16389-88-1,전략2_CASmedian_n<3,85.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",2213,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID971,Potassium chloride Potash 5-15,7447-40-7,전략2_CASmedian_n<3,10.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",2214,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX30,Potassium Sulfate 5-20,7778-80-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3234,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX30,Monoammonium Phosphate 5-20,7722-76-1,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3235,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX30,Diammonium Phosphate 0-8,7783-28-0,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3236,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX30,"Iron Oxide, Saccharated 0-4",8047-67-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3237,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID538,ORTHO HOME DEFENSE MAX INSECT KILLER FOR INDOOR& PERIMETER. The Ortho Group. Revision date,2015-04-1,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1191,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX543,Debacarb,62732-91-6,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4272,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX543,Tetrahydrofurfuryl alcohol (THFA),97-99-4,전략2_CASmedian_n<3,45.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",4274,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX547,"2,3-Bis(bromomethyl)quinoxaline-1,4-dioxide",18080-67-6,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4284,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID55,Tembotrione,335104-84-2,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1213,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX428,mol,7440-06-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3779,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX308,Copper sulfate,7758-98-7,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3270,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX308,Lignosulfonic acid,8062-15-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3271,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID788,Index No 603,197-00-7,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1741,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX310,Chemical Name: Mesosulfuron-methyl sodium salt,208465-19-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3279,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID1050,Publication,10-07-0,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",208,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX313,methanol (-No),67-56-1,전략2_CASmedian_n<3,1.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",3285,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID793,Synonyms,365400-11-9,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1750,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID794,Synonyms : Pyridalyl,179101-81-6,전략2_CASmedian_n<3,100.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",1751,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX554,Ferric chloride hexahydrate,10025-77-1,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4312,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID1054,Ferric chloride hexahydrate,10025-77-1,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",217,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID1055,"2,3-Bis(bromomethyl)quinoxaline-1,4-dioxide",18080-67-6,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",219,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX178,"4,5-Dichloro-2-N-octyl-4-isothiazolin-3-one <0.075",64359-81-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2788,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX557,"Synonyms : oxamide,oxalamide",471-46-5,전략2_CASmedian_n<3,100.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",4325,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID798,quinoxyfen,124495-18-7,전략2_CASmedian_n<3,38.04,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",1768,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID798,· Index number:613,138-00-7,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1769,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID799,Methanol,67-56-1,전략2_CASmedian_n<3,1.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",1770,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX181,Potassium salt of glyphosate,70901-12-1,전략2_CASmedian_n<3,38.5,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",2796,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX182,"Synonyms : DPX,dpx mountant",14208-10-7,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2798,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX560,"Potassium hydroxide, KOH 5",1310-58-3,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4335,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID998,Propane/n-Butane 10-30,68476-86-8,전략2_CASmedian_n<3,35.0,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",2292,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID1062,"Synonyms : oxamide,oxalamide",471-46-5,전략2_CASmedian_n<3,100.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",248,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID1064,Oxamide <=100,471-46-5,전략2_CASmedian_n<3,100.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",250,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX100,Fosetyl Aluminium,39148-24-8,전략2_CASmedian_n<3,76.0,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",2300,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX100,Sodium diisopropylnaphthalene sulphonate,1322-93-6,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2301,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID375,"4,5-Dichloro-2-N-octyl-4-isothiazolin-3-one <0.075",64359-81-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",767,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID115,Tetrahydrofurfuryl alcohol 30,97-99-4,전략2_CASmedian_n<3,45.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",258,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID116,hydramethylnon,67485-29-4,전략2_CASmedian_n<3,0.37,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",259,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID802,"White Mineral Oil, (Petroleum) 30.00",8042-47-5,전략2_CASmedian_n<3,73.7,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",1798,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID802,Isopropyl Myristate 30.00,110-27-0,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1799,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID802,Ethyl (L)-lactate 10.00,687-47-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1800,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID378,RN,104104-12-3,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",777,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX766,quinoxyfen,124495-18-7,전략2_CASmedian_n<3,38.04,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",4874,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX766,· Index number:613,138-00-7,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4875,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID802,Geraniol 5.00,106-24-1,전략2_CASmedian_n<3,17.28,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",1801,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID802,Carbon dioxide 1.00,124-38-9,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1802,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX189,RN,104104-12-3,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2831,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID806,"Potassium hydroxide, KOH 5",1310-58-3,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1814,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX1007,Myrrh essential oil,8016-37-3,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2328,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX1007,Myrrh essential oil,84929-26-0,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2329,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX770,· Index number:603,197-00-7,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4888,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX192,Molecular Weight: 471.98,181885-68-7,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2845,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX327,For explanation of abbreviations see section 16,17265-14-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3360,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX327,a brand of 7N FREUDENBERG,8042-47-5,전략2_CASmedian_n<3,73.7,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",3361,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX327,OKS 476,68411-46-1,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3362,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX447,Index No 607,432-00-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3876,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID610,Copper sulfate,7758-98-7,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1329,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX785,2-Ethoxyethanol,110-80-5,전략2_CASmedian_n<3,20.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",4914,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX785,Triton X 100,9002-93-1,전략2_CASmedian_n<3,10.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",4915,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID610,Lignosulfonic acid,8062-15-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1330,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX451,Enniatin B,917-13-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3892,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX787,Sodium dodecyl sulfate,151-21-3,전략2_CASmedian_n<3,90.91,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",4918,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX102,"Additional Information – Contains trace amounts of Hexachlorobenzene, (CAS#",118-45-6,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2359,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID131,"Distillates (petroleum), hydrotreated light paraffinic",64742-55-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",314,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX331,Potassium salt of glyphosate,70901-12-1,전략2_CASmedian_n<3,38.5,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",3386,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX79,"Distillates (petroleum), hydrotreated light paraffinic",64742-55-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4924,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID815,chlorsulfuron,64902-72-3,전략2_CASmedian_n<3,15.8,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",1853,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX20,Tembotrione,335104-84-2,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2878,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX58,Acetamiprid,135410-20-7,전략2_CASmedian_n<3,0.26,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",4415,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX58,Propylene Carbonate S 5-15,108-32-7,전략2_CASmedian_n<3,10.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",4416,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX200,"Sodium alkylnaphthalenesulfonate, formaldehyde condensate (-No)",36290-04-7,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2880,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX790,Hydrochloric acid,7647-01-0,전략2_CASmedian_n<3,5.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",4927,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX790,Citric acid,77-92-9,전략2_CASmedian_n<3,5.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",4929,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX792,Phosphoric acid,7664-38-2,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4933,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX453,Spirodiclofen,148477-71-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3901,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID144,Muriate of Potash,7447-40-7,전략2_CASmedian_n<3,10.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",329,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID144,Urea,57-13-6,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",330,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX458,Spiroxamine,118134-30-8,전략2_CASmedian_n<3,31.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",3913,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX586,Index No 616,111-00-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4430,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID827,Avermectin B1b,65195-56-4,전략2_CASmedian_n<3,92.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",1876,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX59,Acetamiprid,135410-20-7,전략2_CASmedian_n<3,0.26,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",4438,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX59,Propylene Carbonate S 5-15,108-32-7,전략2_CASmedian_n<3,10.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",4439,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID828,Index No 612,252-00-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1879,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX1029,Citronellyl Acetate,150-84-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2396,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX208,emamectin benzoate,155569-91-8,전략2_CASmedian_n<3,55.0,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",2910,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX209,Flonicamid,158062-67-0,전략2_CASmedian_n<3,98.4,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",2911,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX340,Sodium Hypochlorite,7681-52-9,전략2_CASmedian_n<3,52.5,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",3424,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID629,For explanation of abbreviations see section 16,17265-14-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1377,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID629,a brand of 7N FREUDENBERG,8042-47-5,전략2_CASmedian_n<3,73.7,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",1378,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID629,OKS 476,68411-46-1,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1379,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX463,Molecular Weight : 294.10,6132-04-3,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3943,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID154,Acetamiprid,135410-20-7,전략2_CASmedian_n<3,0.26,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",361,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID154,Propylene Carbonate S 5-15,108-32-7,전략2_CASmedian_n<3,10.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",362,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX212,Product name : Fluoxastrobin,193740-76-0,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2921,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID155,Acetamiprid,135410-20-7,전략2_CASmedian_n<3,0.26,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",364,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID155,Propylene Carbonate S 5-15,108-32-7,전략2_CASmedian_n<3,10.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",365,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX805,Triton X-100,9002-93-1,전략2_CASmedian_n<3,10.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",4972,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID168,Note : Spinosad is comprised of Spinosyn A () and Spinosyn D,131929-60-7,전략2_CASmedian_n<3,0.001,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",371,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID639,Chemical Name: Mesosulfuron-methyl sodium salt,208465-19-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1398,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX810,"Diethyl trans-1,4-Cyclohexanedicarboxylate",19145-96-1,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4983,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX1037,Clove stem oil,8000-34-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2424,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX810,"diethyl cis-1,4-cyclohexanedicarboxylate",72903-27-6,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4984,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX811,"1,4-Cyclohexanediol, mixture of cis and trans",556-48-9,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4985,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX811,cis-1-Ethoxy-4-(2-methylbutan-2-yl)cyclohexane,181258-87-7,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4986,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX811,trans-1-Ethoxy-4-(2-methylbutan-2-yl)cyclohexane,181258-89-9,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4987,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX812,"Benzene, 1-(1-methylethyl)-3-(1-phenylethyl)-",191044-59-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4989,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX812,"Benzene, 1-(1-methylethyl)-2-(1-phenylethyl)-",191044-60-7,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4990,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX812,"Benzene, 1-(1-methylethyl)-4-(1-phenylethyl)-",2320-06-1,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4991,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID641,methanol (-No),67-56-1,전략2_CASmedian_n<3,1.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",1401,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID642,Metaflumizone HYDRAZINECARBOXAMIDE,139968-49-3,전략2_CASmedian_n<3,0.0615,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",1403,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID419,"Sodium alkylnaphthalenesulfonate, formaldehyde condensate (-No)",36290-04-7,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",899,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX222,Index No 613,164-00-9,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2948,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID643,Molecular Weight: 506.40,139968-49-3,전략2_CASmedian_n<3,0.0615,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",1405,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID65,Calcium Carbonate 15-90,471-34-1,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1409,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID65,Urea 15-40,57-13-6,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1410,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID65,Potassium Chloride 5-20,7447-40-7,전략2_CASmedian_n<3,10.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",1411,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID65,Potassium Sulfate 5-20,7778-80-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1412,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX817,"4-Penten-1-one, 1-spiro[4.5]dec-6-en-7-yl-",224031-71-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",5002,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID65,Monoammonium Phosphate 5-20,7722-76-1,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1413,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX224,2-Butoxyethanol,111-76-2,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2956,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID422,mol,126833-17-8,전략2_CASmedian_n<3,95.4,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",909,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID422,Index No 616,111-00-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",910,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX224,Sodium Silicate,6834-92-0,전략2_CASmedian_n<3,5.0,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",2957,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID65,"Iron Oxide, Saccharated 0-4",8047-67-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1415,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX1043,Pine needle oil,8000-26-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2449,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX227,*The full texts of the phrases are shown in Section 16,8052-42-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2961,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX227,THE SEAL OF QUALITY,8052-41-3,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2962,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID433,from Monopotassium Phosphate not listed,7778-77-0,전략2_CASmedian_n<3,31.1,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",917,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID844,Clarified Hydrophobic Extract of Neem Oil Neem Oil,947173-77-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1941,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX475,Terbutylazine,5915-41-3,전략2_CASmedian_n<3,4.0,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",3989,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX822,Sodium silicate,1344-09-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",5017,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID435,· Index number:616,216-00-9,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",922,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX823,Cyanoguanidine,461-58-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",5019,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX823,Formaldehyde,50-00-0,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",5020,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX825,Ethylene oxide,75-21-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",5023,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX825,"1,2-Propylene oxide",75-56-9,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",5024,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX48,Molecular Weight: 506.40,139968-49-3,전략2_CASmedian_n<3,0.0615,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",4000,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX826,Ethylene oxide,75-21-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",5026,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX826,"1,2-Propylene oxide",75-56-9,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",5027,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID441,N-(4-Nitrophenyl)-N'-propylurea,13141-86-1,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",932,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX827,Ethylene oxide,75-21-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",5029,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX827,"1,2-Propylene oxide",75-56-9,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",5030,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID443,Index No 613,164-00-9,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",935,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX828,Sodium Silicate,1344-09-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",5031,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX480,Ammonium Polyphosphate Solution 00-10,68333-79-9,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4001,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX480,Potassium Dihydrogen Phosphate 00-10,7778-77-0,전략2_CASmedian_n<3,31.1,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",4002,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX480,"Potassium Phosphate, Dibasic KH PO 00-10",7758-11-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4003,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID45,· Index number:616,37-00-6,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",940,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID658,0-1 proflavine hemisulfate dihydrate,1811-28-5,전략2_CASmedian_n<3,0.5,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",1454,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX105,N-(4-Nitrophenyl)-N'-propylurea,13141-86-1,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2484,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX366,Toluene 30,108-88-3,전략2_CASmedian_n<3,40.0,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",3516,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX839,Potassium silicate <=100,1312-76-1,전략2_CASmedian_n<3,29.1,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",5053,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID462,Product name : Fluoxastrobin,193740-76-0,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",958,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID837,Potassium salt of glyphosate,70901-12-1,전략2_CASmedian_n<3,38.5,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",1920,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID673,Potassium salt of glyphosate,70901-12-1,전략2_CASmedian_n<3,38.5,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",1474,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX842,2-Butoxyethanol,111-76-2,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",5062,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID838,Identifiers,87392-12-9,전략2_CASmedian_n<3,31.95,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",1922,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX1053,"4-(2,6,6-Trimethyl-1-cyclohexen-1-yl)-3-buten-2-one",14901-07-6,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2506,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX245,Index No 613,58-00-2,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3018,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX247,Antimony Trioxide Grp. 2B: Possible human carc. International Agency for Research on Cancer,1309-64-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3020,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID65,Diammonium Phosphate 0-8,7783-28-0,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1414,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX370,Index No 603,197-00-7,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3534,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX612,None required. COMPOSITION OF INGREDIENTS. Percentage (by weight). 63449-39-8. CAS Number. Component.,63449-39-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4559,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX248,Index No 607,315-00-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3023,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID838,Index No 607,432-00-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1923,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX372,Synonyms,365400-11-9,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3538,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX1056,Santalyl acetate,1323-00-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2516,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX250,Index No (GB CLP) 607,315-00-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3028,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID225,Dolomite granules,16389-88-1,전략2_CASmedian_n<3,85.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",474,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID225,Urea Granular,57-13-6,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",475,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID225,Potassium Chloride,7447-40-7,전략2_CASmedian_n<3,10.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",476,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX859,"Angelica seed oil, cold pressed",84775-41-7,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",5083,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID650,Metrafenone,220899-03-6,전략2_CASmedian_n<3,25.2,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",1418,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID840,Carbon,1333-86-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1927,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX618,Avermectin A1a,65195-51-9,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4577,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX619,Avermectin A1b,65195-52-0,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4579,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID687,Sodium Hypochlorite,7681-52-9,전략2_CASmedian_n<3,52.5,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",1507,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID228,Fosetyl Aluminium,39148-24-8,전략2_CASmedian_n<3,76.0,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",487,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID228,Sodium diisopropylnaphthalene sulphonate,1322-93-6,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",488,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX621,Avermectin B2a,65195-57-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4585,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID692,Cyromazine,66215-27-8,전략2_CASmedian_n<3,2.0,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",1518,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX625,N-(4-Nitrophenyl)-N'-propylurea,13141-86-1,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",4593,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID475,*The full texts of the phrases are shown in Section 16,8052-42-4,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1010,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID475,THE SEAL OF QUALITY,8052-41-3,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",1011,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX879,CADE wood ORGANIC OIL,8013-10-3,전략2_CASmedian_n<3,10.0,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",5108,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX879,BETA-CARYOPHYLLENE,87-44-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",5109,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX879,ALPHA-PINENE,80-56-8,전략2_CASmedian_n<3,12.5,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",5110,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX380,"White Mineral Oil, (Petroleum) 30.00",8042-47-5,전략2_CASmedian_n<3,73.7,동일CAS_median,낮음,"동일CAS n=1, pct_status=ok",3577,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX1064,Butylated hydroxyanisole,25013-16-5,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",2554,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX380,Ethyl (L)-lactate 10.00,687-47-8,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3579,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+EyeIrritation6pack_PID242,Chlorimuron Ethyl 10.5,90982-32-4,전략2_CASmedian_n<3,16.85,동일CAS_median,낮음,"동일CAS n=2, pct_status=ok",508,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족
+MIX380,Carbon dioxide 1.00,124-38-9,전략2_CASmedian_n<3,,동일CAS_median,낮음,"동일CAS n=0, pct_status=ok",3581,동일CAS 대표값 n<3 — 중앙값의 신뢰도 부족

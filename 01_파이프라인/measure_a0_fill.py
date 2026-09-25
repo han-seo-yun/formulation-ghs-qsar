@@ -155,6 +155,12 @@ data = L.FormulationData(log)
 assert (data.FID == Z["Formulation_ID"]).all(), "행 정렬 이탈"
 CHEM_IDX = {c: i for i, c in enumerate(data.CHEM)}
 COLS = [CHEM_IDX[c] for c in ARM["L2단독"]]
+# 기준 열 수를 로그와 요약에 남긴다. 이미 배포된 `A0채움_*.csv` 는 42열 기준이고,
+# 2026-09-21 결정으로 arm 이 31열이 됐으므로 재실행분과 섞어 읽으면 안 된다.
+# 여기에 열 수 assert 를 박지는 않는다 — arm 은 `피처노선_arm.json` 이 정본이고
+# 이 스크립트가 그 값을 되받아 검사하면 순환이 된다.
+log(f"기준 arm: L2단독 {len(COLS)}열 (피처노선_arm.json). 42열 기준 종전 산출과 "
+    f"같은 표에서 비교하지 않는다")
 
 # 조사 반영 **전** 기준선을 먼저 뽑는다. `matrices()` 의 A0 재현·A2 커버리지 assert 는
 # 조사값을 얹기 전에만 성립하므로, 이 호출이 곧 '입력이 배포본과 같다'는 검증이다

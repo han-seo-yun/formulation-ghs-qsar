@@ -1,0 +1,65 @@
+[    0.0s] === 제형 단위 모델 v8 (eye · skin) — 피처 정리판 ===
+[    0.0s] 대표 기준: 관할 K_REACH · 결측규약 native_복원 · CT CT_권고 · 피처셋 v7_정리
+[    0.0s] 제외 11열: {'죽은열': ['ct_not_applicable'], '중복쌍': ['ct_eye_ord', 'ct_skin_ord', 'ct_sens_ord', 'f_pct_active'], '감작CT': ['f_ct_sens_add', 'f_ct_sens_cat_1', 'f_ct_sens_cat_NC', 'f_ct_sens_cat___NA__', 'f_ct_sens_ord', 'f_ct_sens_s1']}
+[   15.1s] CT A0 == 디스크 / 커버리지 == 검증값 — 전처리 드리프트 없음
+[   15.1s] 결측 복원 대상: ['f_pct_surf_total', 'f_surf_anionic_nonionic'] × 조성미상 281행 = 562셀 (native_복원 규약에만 적용)
+[   15.1s] 피처셋 v6_원본: 221열 (CHEM 221 − 제외 0) · CT 26열
+[   15.1s] 피처셋 v7_정리: 210열 (CHEM 221 − 제외 11) · CT 16열
+[   15.1s] 계산 단위: eye:UN_GHS+K_REACH+US_OSHA; eye:EU_CLP; skin:UN_GHS; skin:EU_CLP+K_REACH+US_OSHA
+[   25.5s]   eye  UN_GHS+K_REACH+US_OSHA     [v6_원본  |nan0       ] CT_A0   221열 n= 1044 p=0.683 AUC=0.6745 PR=0.8003 MCC=0.235 BA=0.599
+[   35.6s]   eye  UN_GHS+K_REACH+US_OSHA     [v6_원본  |nan0       ] CT_권고   221열 n= 1044 p=0.683 AUC=0.6858 PR=0.8123 MCC=0.237 BA=0.601
+[   45.6s]   eye  UN_GHS+K_REACH+US_OSHA     [v6_원본  |native     ] CT_A0   221열 n= 1044 p=0.683 AUC=0.6678 PR=0.7979 MCC=0.225 BA=0.594
+[   57.6s]   eye  UN_GHS+K_REACH+US_OSHA     [v6_원본  |native     ] CT_권고   221열 n= 1044 p=0.683 AUC=0.6744 PR=0.8051 MCC=0.243 BA=0.602
+[   68.4s]   eye  UN_GHS+K_REACH+US_OSHA     [v6_원본  |native_복원  ] CT_A0   221열 n= 1044 p=0.683 AUC=0.6678 PR=0.7986 MCC=0.224 BA=0.593
+[   79.0s]   eye  UN_GHS+K_REACH+US_OSHA     [v6_원본  |native_복원  ] CT_권고   221열 n= 1044 p=0.683 AUC=0.6752 PR=0.8058 MCC=0.245 BA=0.604
+[   88.9s]   eye  UN_GHS+K_REACH+US_OSHA     [v7_정리  |nan0       ] CT_A0   210열 n= 1044 p=0.683 AUC=0.6673 PR=0.7943 MCC=0.228 BA=0.595
+[   98.5s]   eye  UN_GHS+K_REACH+US_OSHA     [v7_정리  |nan0       ] CT_권고   210열 n= 1044 p=0.683 AUC=0.6824 PR=0.8108 MCC=0.241 BA=0.602
+[  108.1s]   eye  UN_GHS+K_REACH+US_OSHA     [v7_정리  |native     ] CT_A0   210열 n= 1044 p=0.683 AUC=0.6684 PR=0.7990 MCC=0.234 BA=0.597
+[  119.0s]   eye  UN_GHS+K_REACH+US_OSHA     [v7_정리  |native     ] CT_권고   210열 n= 1044 p=0.683 AUC=0.6786 PR=0.8103 MCC=0.249 BA=0.605
+[  130.0s]   eye  UN_GHS+K_REACH+US_OSHA     [v7_정리  |native_복원  ] CT_A0   210열 n= 1044 p=0.683 AUC=0.6678 PR=0.8003 MCC=0.228 BA=0.595
+[  140.2s]   eye  UN_GHS+K_REACH+US_OSHA     [v7_정리  |native_복원  ] CT_권고   210열 n= 1044 p=0.683 AUC=0.6770 PR=0.8069 MCC=0.249 BA=0.605
+[  149.5s]   eye  EU_CLP                     [v6_원본  |nan0       ] CT_A0   221열 n= 1044 p=0.370 AUC=0.7423 PR=0.6523 MCC=0.400 BA=0.692
+[  158.5s]   eye  EU_CLP                     [v6_원본  |nan0       ] CT_권고   221열 n= 1044 p=0.370 AUC=0.7577 PR=0.6745 MCC=0.417 BA=0.699
+[  169.1s]   eye  EU_CLP                     [v6_원본  |native     ] CT_A0   221열 n= 1044 p=0.370 AUC=0.7505 PR=0.6647 MCC=0.399 BA=0.690
+[  179.1s]   eye  EU_CLP                     [v6_원본  |native     ] CT_권고   221열 n= 1044 p=0.370 AUC=0.7656 PR=0.6822 MCC=0.431 BA=0.706
+[  189.4s]   eye  EU_CLP                     [v6_원본  |native_복원  ] CT_A0   221열 n= 1044 p=0.370 AUC=0.7509 PR=0.6659 MCC=0.408 BA=0.695
+[  199.8s]   eye  EU_CLP                     [v6_원본  |native_복원  ] CT_권고   221열 n= 1044 p=0.370 AUC=0.7634 PR=0.6810 MCC=0.432 BA=0.707
+[  208.9s]   eye  EU_CLP                     [v7_정리  |nan0       ] CT_A0   210열 n= 1044 p=0.370 AUC=0.7429 PR=0.6556 MCC=0.397 BA=0.690
+[  218.2s]   eye  EU_CLP                     [v7_정리  |nan0       ] CT_권고   210열 n= 1044 p=0.370 AUC=0.7590 PR=0.6728 MCC=0.418 BA=0.700
+[  228.0s]   eye  EU_CLP                     [v7_정리  |native     ] CT_A0   210열 n= 1044 p=0.370 AUC=0.7536 PR=0.6672 MCC=0.399 BA=0.691
+[  237.8s]   eye  EU_CLP                     [v7_정리  |native     ] CT_권고   210열 n= 1044 p=0.370 AUC=0.7646 PR=0.6789 MCC=0.423 BA=0.702
+[  248.3s]   eye  EU_CLP                     [v7_정리  |native_복원  ] CT_A0   210열 n= 1044 p=0.370 AUC=0.7515 PR=0.6673 MCC=0.406 BA=0.694
+[  258.5s]   eye  EU_CLP                     [v7_정리  |native_복원  ] CT_권고   210열 n= 1044 p=0.370 AUC=0.7647 PR=0.6816 MCC=0.429 BA=0.704
+[  265.8s]   skin UN_GHS                     [v6_원본  |nan0       ] CT_A0   221열 n=  615 p=0.603 AUC=0.6882 PR=0.7567 MCC=0.298 BA=0.643
+[  272.9s]   skin UN_GHS                     [v6_원본  |nan0       ] CT_권고   221열 n=  615 p=0.603 AUC=0.7334 PR=0.7875 MCC=0.364 BA=0.674
+[  280.1s]   skin UN_GHS                     [v6_원본  |native     ] CT_A0   221열 n=  615 p=0.603 AUC=0.6992 PR=0.7633 MCC=0.308 BA=0.647
+[  287.3s]   skin UN_GHS                     [v6_원본  |native     ] CT_권고   221열 n=  615 p=0.603 AUC=0.7350 PR=0.7899 MCC=0.364 BA=0.675
+[  294.6s]   skin UN_GHS                     [v6_원본  |native_복원  ] CT_A0   221열 n=  615 p=0.603 AUC=0.7004 PR=0.7616 MCC=0.304 BA=0.646
+[  301.9s]   skin UN_GHS                     [v6_원본  |native_복원  ] CT_권고   221열 n=  615 p=0.603 AUC=0.7357 PR=0.7907 MCC=0.363 BA=0.675
+[  309.0s]   skin UN_GHS                     [v7_정리  |nan0       ] CT_A0   210열 n=  615 p=0.603 AUC=0.6937 PR=0.7607 MCC=0.297 BA=0.643
+[  316.3s]   skin UN_GHS                     [v7_정리  |nan0       ] CT_권고   210열 n=  615 p=0.603 AUC=0.7252 PR=0.7846 MCC=0.347 BA=0.666
+[  323.5s]   skin UN_GHS                     [v7_정리  |native     ] CT_A0   210열 n=  615 p=0.603 AUC=0.7066 PR=0.7681 MCC=0.315 BA=0.651
+[  330.9s]   skin UN_GHS                     [v7_정리  |native     ] CT_권고   210열 n=  615 p=0.603 AUC=0.7329 PR=0.7876 MCC=0.354 BA=0.670
+[  338.1s]   skin UN_GHS                     [v7_정리  |native_복원  ] CT_A0   210열 n=  615 p=0.603 AUC=0.7045 PR=0.7671 MCC=0.316 BA=0.652
+[  345.3s]   skin UN_GHS                     [v7_정리  |native_복원  ] CT_권고   210열 n=  615 p=0.603 AUC=0.7321 PR=0.7900 MCC=0.352 BA=0.669
+[  354.6s]   skin EU_CLP+K_REACH+US_OSHA     [v6_원본  |nan0       ] CT_A0   221열 n= 1059 p=0.336 AUC=0.7547 PR=0.6393 MCC=0.373 BA=0.678
+[  363.5s]   skin EU_CLP+K_REACH+US_OSHA     [v6_원본  |nan0       ] CT_권고   221열 n= 1059 p=0.336 AUC=0.7697 PR=0.6450 MCC=0.385 BA=0.684
+[  372.8s]   skin EU_CLP+K_REACH+US_OSHA     [v6_원본  |native     ] CT_A0   221열 n= 1059 p=0.336 AUC=0.7612 PR=0.6481 MCC=0.365 BA=0.673
+[  382.0s]   skin EU_CLP+K_REACH+US_OSHA     [v6_원본  |native     ] CT_권고   221열 n= 1059 p=0.336 AUC=0.7754 PR=0.6560 MCC=0.399 BA=0.690
+[  391.3s]   skin EU_CLP+K_REACH+US_OSHA     [v6_원본  |native_복원  ] CT_A0   221열 n= 1059 p=0.336 AUC=0.7619 PR=0.6472 MCC=0.380 BA=0.680
+[  400.5s]   skin EU_CLP+K_REACH+US_OSHA     [v6_원본  |native_복원  ] CT_권고   221열 n= 1059 p=0.336 AUC=0.7726 PR=0.6538 MCC=0.390 BA=0.686
+[  409.4s]   skin EU_CLP+K_REACH+US_OSHA     [v7_정리  |nan0       ] CT_A0   210열 n= 1059 p=0.336 AUC=0.7551 PR=0.6407 MCC=0.374 BA=0.679
+[  418.3s]   skin EU_CLP+K_REACH+US_OSHA     [v7_정리  |nan0       ] CT_권고   210열 n= 1059 p=0.336 AUC=0.7683 PR=0.6490 MCC=0.388 BA=0.686
+[  427.7s]   skin EU_CLP+K_REACH+US_OSHA     [v7_정리  |native     ] CT_A0   210열 n= 1059 p=0.336 AUC=0.7623 PR=0.6478 MCC=0.389 BA=0.685
+[  436.9s]   skin EU_CLP+K_REACH+US_OSHA     [v7_정리  |native     ] CT_권고   210열 n= 1059 p=0.336 AUC=0.7717 PR=0.6570 MCC=0.406 BA=0.693
+[  446.2s]   skin EU_CLP+K_REACH+US_OSHA     [v7_정리  |native_복원  ] CT_A0   210열 n= 1059 p=0.336 AUC=0.7610 PR=0.6471 MCC=0.387 BA=0.683
+[  455.4s]   skin EU_CLP+K_REACH+US_OSHA     [v7_정리  |native_복원  ] CT_권고   210열 n= 1059 p=0.336 AUC=0.7743 PR=0.6572 MCC=0.405 BA=0.693
+[  455.4s] v6 재현 lock 통과 [피처셋 v6_원본]: 16셀 × 지표 전부 동일 (허용오차 1e-9)
+[  455.4s] 대표 ▶ 제형/eye  UN_GHS+K_REACH+US_OSHA     210열 n=1044 p=0.683 AUC=0.677 MCC=0.2493 BA=0.6052
+[  455.4s] 대표 ▶ 제형/skin EU_CLP+K_REACH+US_OSHA     210열 n=1059 p=0.3362 AUC=0.7743 MCC=0.4054 BA=0.6926
+[  455.4s] --- 정리 효과 (v7_정리 − v6_원본, 같은 셀) ---
+[  455.5s]   144건 중 잡음 범위 141건 · 범위 밖 3건
+[  455.5s]   ※ skin native      CT_A0   MCC         0.3655 → 0.3886 (+0.0231, 잡음폭 ±0.0151) → 개선
+[  455.5s]   ※ skin native      CT_A0   BA          0.6733 → 0.6847 (+0.0114, 잡음폭 ±0.007) → 개선
+[  455.5s]   ※ skin native      CT_A0   recall      0.5079 → 0.5253 (+0.0174, 잡음폭 ±0.0151) → 개선
+[  455.5s] 완료 → /Users/hanseoyun/Desktop/신작물보호제/04_모델산출물/v8_제형모델/지표_제형모델_v8.csv / .xlsx / 요약.json / 피처정리_효과.csv

@@ -1,6 +1,10 @@
 # ===== 대용량 원천 덤프 (로컬 전용) =====
 # SDS 하이라이트 감사 PDF 덤프 146MB. git 이력에 넣을 성질의 자료가 아니다.
 formulation_audit_team_share_highlighted_only_20260630/
+formulation_audit_team_share_highlighted_only_20260630.zip
+
+# 과거 작업본 아카이브 653MB. 로컬 참조용이고 재현에 필요한 입력은 아니다.
+과거아카이브/
 
 # 수집 하네스는 별도 저장소(han-seo-yun/formulation_harness)에 있다.
 02_의존데이터/
@@ -26,6 +30,19 @@ formulation_audit_team_share_highlighted_only_20260630/
 
 # PubChem PUG-View 조회 캐시. CAS 목록으로 재현 가능, 소스 자료 아님
 04_모델산출물/v8_성분조사/캐시/
+
+# 화학연구원 전달용 패키지(스크랩 MSDS 사본 포함, 220MB대). GitHub 배포 스코프 밖.
+# 각각 build_chem_institute_package.py / build_msds_highlight_share.py 로 재현 가능.
+# 260918 판이 260916 판을 대체한다(원문 하이라이팅·검수 추가).
+06_화학연구원_공유_260916/
+07_화학연구원_공유_260918/
+# 실제로 넘기는 배포본 — 07 판에서 우리 검수 흔적을 걷어낸 것이다.
+# 10 이 현재 판이다 (06 판과 같은 형식, build_share_06format.py).
+# 08(제형·성분 2시트 긴 형식, build_share_dist.py)과 09(6월 감사 형식,
+# build_share_audit_format.py)는 채택하지 않았다.
+08_화학연구원_배포_260920/
+09_화학연구원_배포_감사형식_260920/
+10_화학연구원_배포_260920/
 
 # ===== 도구 상태 =====
 # 세션 체크포인트·에이전트 로그·실행계획은 전부 로컬 작업 상태다. 공유 대상 아님.

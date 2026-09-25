@@ -133,6 +133,10 @@ BASE = ARM["L2단독"]
 miss = [c for c in BASE if c not in CHEM_IDX]
 assert not miss, f"CHEM 에 없는 열 {miss[:5]}"
 COLS = [CHEM_IDX[c] for c in BASE]
+# 이미 배포된 `조사반영_*.csv` 는 42열 기준이다. 2026-09-21 결정으로 arm 이 31열이
+# 됐으므로 재실행분과 종전분을 같은 표에서 비교하지 않는다. 열 수를 로그에 남긴다.
+log(f"기준 arm: L2단독 {len(BASE)}열 (피처노선_arm.json). 42열 기준 종전 산출과 "
+    f"같은 표에서 비교하지 않는다")
 
 # 기준선을 **먼저** 뽑는다. matrices() 의 A0 재현·커버리지 assert 는 조사값을 얹기
 # 전에만 성립하므로, 이 호출이 곧 '조사 전 입력이 배포본과 같다'는 검증이다.

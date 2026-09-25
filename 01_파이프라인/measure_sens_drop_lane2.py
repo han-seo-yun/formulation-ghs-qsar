@@ -10,6 +10,13 @@
 규약 문서가 '9 열' 이라고 적어 온 것은 틀렸다. 실측 7 열이고 이 스크립트가 그 목록을
 그대로 찍는다.
 
+## 이 스크립트도 지금 그대로는 다시 돌지 않는다 (2026-09-21)
+
+이 측정이 근거가 되어 감작 CT 열은 **모든 arm 에서 제외**됐다. 그래서 현행
+`피처노선_arm.json` 의 `L2단독`(31열)에는 `f_ct_sens_*` 가 한 열도 없고
+`assert len(SENS) == 7` 이 첫 실행에서 걸린다. 의도된 일회성이다.
+42열 arm 복원 방법은 `measure_lane2_cleanup.py` 머리글에 적어 두었다.
+
 읽기 전용 입력: v4_fixed/*.parquet, input_dataset_v6.xlsx, v8_공통/*, v8_누출감사/*
 """
 from __future__ import annotations
